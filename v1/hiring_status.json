@@ -8,7 +8,7 @@
     "newHireClassSize": 50,
     "basesHiring": ["DEN", "EWR", "ORD", "IAH", "SFO", "LAX"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.united.com/en/us/fly/company/career/pilot.html"
+    "url": "https://careers.united.com/us/en/pilots"
   },
   {
     "id": "delta",
@@ -52,7 +52,7 @@
     "newHireClassSize": 30,
     "basesHiring": ["SEA", "PDX", "SFO", "LAX", "ANC", "HNL"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.alaskaair.com/content/about-us/careers/pilot-careers"
+    "url": "https://careers.alaskaair.com/career-opportunities/pilots/alaska-airlines/"
   },
   {
     "id": "jetblue",
@@ -74,7 +74,7 @@
     "newHireClassSize": 12,
     "basesHiring": ["DEN", "MCO", "ATL"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.flyfrontier.com/careers/"
+    "url": "https://www.flyfrontier.com/careers/pilot/"
   },
   {
     "id": "hawaiian",
@@ -85,7 +85,7 @@
     "newHireClassSize": null,
     "basesHiring": null,
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.hawaiianairlines.com/careers"
+    "url": "https://careers.alaskaair.com/hawaiian-airlines/"
   },
   {
     "id": "skywest",
@@ -96,7 +96,7 @@
     "newHireClassSize": 60,
     "basesHiring": ["SLC", "ORD", "MSP", "DTW", "IAH", "DEN", "ORD", "LAX"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.skywest.com/pilot-recruitment"
+    "url": "https://www.skywest.com/skywest-airline-jobs/career-guides/pilot-jobs"
   },
   {
     "id": "republic",
@@ -107,7 +107,7 @@
     "newHireClassSize": 40,
     "basesHiring": ["IND", "EWR", "DCA", "ORD"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.rfrep.com"
+    "url": "https://rjet.com"
   },
   {
     "id": "endeavor",
@@ -118,7 +118,7 @@
     "newHireClassSize": 35,
     "basesHiring": ["ATL", "MSP", "DTW", "JFK", "CVG"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.endeavorair.com/content/pilots"
+    "url": "https://www.endeavorair.com/content/endeavor-air/en_us/careers/pilots.html"
   },
   {
     "id": "envoy",
@@ -140,7 +140,7 @@
     "newHireClassSize": 30,
     "basesHiring": ["CLT", "DCA", "DAY", "PHL"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.psaairlines.com/careers/pilots/"
+    "url": "https://psaairlines.com/first-officers/"
   },
   {
     "id": "piedmont",
@@ -173,7 +173,7 @@
     "newHireClassSize": 10,
     "basesHiring": ["PHL", "DCA", "ORD"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.airwis.com/careers"
+    "url": "https://www.airwis.com/Careers/Pilots"
   },
   {
     "id": "horizon",
@@ -184,7 +184,7 @@
     "newHireClassSize": 25,
     "basesHiring": ["SEA", "PDX", "BOI"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.horizonair.com/careers/pilots"
+    "url": "https://careers.alaskaair.com/career-opportunities/pilots/horizon-air/"
   },
   {
     "id": "fedex",
@@ -217,7 +217,7 @@
     "newHireClassSize": 10,
     "basesHiring": ["MIA", "CVG", "LAX", "JFK"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.atlasair.com/careers/"
+    "url": "https://www.atlasairworldwide.com/careers/"
   },
   {
     "id": "abx",
@@ -250,7 +250,7 @@
     "newHireClassSize": 20,
     "basesHiring": ["CLE", "DAL", "TEB"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.flexjet.com/careers/"
+    "url": "https://careers.flexjet.com/"
   },
   {
     "id": "wheelsup",
@@ -261,6 +261,6 @@
     "newHireClassSize": 8,
     "basesHiring": ["ATL", "TEB"],
     "lastUpdated": "2026-04-01T00:00:00Z",
-    "url": "https://www.wheelsup.com/careers"
+    "url": "https://wheelsup.com/careers-home"
   }
 ]

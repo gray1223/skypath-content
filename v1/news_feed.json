@@ -6,7 +6,7 @@
     "source": "Aviation Week",
     "category": "industry",
     "publishedDate": "2026-03-28T12:00:00Z",
-    "url": "https://aviationweek.com",
+    "url": "https://aviationweek.com/air-transport",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -17,7 +17,7 @@
     "source": "AOPA",
     "category": "pay",
     "publishedDate": "2026-03-25T12:00:00Z",
-    "url": "https://www.aopa.org/news-and-media",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/23/airline-pilot-hiring-expands-in-2026",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -28,7 +28,7 @@
     "source": "FAA",
     "category": "regulatory",
     "publishedDate": "2026-03-20T12:00:00Z",
-    "url": "https://www.faa.gov/regulations_policies",
+    "url": "https://www.faa.gov/pilots/training/atp",
     "airlineTag": null,
     "isBreaking": true
   },
@@ -39,7 +39,7 @@
     "source": "Simple Flying",
     "category": "hiring",
     "publishedDate": "2026-03-15T12:00:00Z",
-    "url": "https://simpleflying.com",
+    "url": "https://simpleflying.com/why-us-worried-pilot-shortages-what-means-airlines/",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -50,7 +50,7 @@
     "source": "Military.com",
     "category": "military",
     "publishedDate": "2026-03-10T12:00:00Z",
-    "url": "https://www.military.com/benefits",
+    "url": "https://www.military.com/benefits/military-pay",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -61,7 +61,7 @@
     "source": "AvWeb",
     "category": "training",
     "publishedDate": "2026-03-05T12:00:00Z",
-    "url": "https://www.avweb.com",
+    "url": "https://avweb.com/features/the-atp-rating-expensive-training/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -72,7 +72,7 @@
     "source": "AIN Online",
     "category": "industry",
     "publishedDate": "2026-03-18T12:00:00Z",
-    "url": "https://www.ainonline.com",
+    "url": "https://www.ainonline.com/aviation-news/blogs/ainsight-pilot-shortage-over",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -83,7 +83,7 @@
     "source": "The Points Guy",
     "category": "hiring",
     "publishedDate": "2026-02-28T12:00:00Z",
-    "url": "https://thepointsguy.com/aviation/",
+    "url": "https://thepointsguy.com/airline/alaska-airlines/",
     "airlineTag": "Alaska Airlines",
     "isBreaking": false
   },
@@ -94,7 +94,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-02-20T12:00:00Z",
-    "url": "https://www.aopa.org/news-and-media",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/january/28/airline-pilot-hiring-shows-renewed-momentum",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -105,7 +105,7 @@
     "source": "Aviation Week",
     "category": "hiring",
     "publishedDate": "2026-03-22T12:00:00Z",
-    "url": "https://aviationweek.com",
+    "url": "https://aviationweek.com/air-transport",
     "airlineTag": "UPS Airlines",
     "isBreaking": false
   },
@@ -116,7 +116,7 @@
     "source": "AvWeb",
     "category": "industry",
     "publishedDate": "2026-03-01T12:00:00Z",
-    "url": "https://www.avweb.com",
+    "url": "https://avweb.com/aviation-news/atp-flight-school-offering-free-advanced-training/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -127,7 +127,7 @@
     "source": "AIN Online",
     "category": "pay",
     "publishedDate": "2026-02-14T12:00:00Z",
-    "url": "https://www.ainonline.com",
+    "url": "https://www.ainonline.com/aviation-news/business-aviation/2024-04-17/netjets-pilot-union-votes-ratify-tentative-agreement",
     "airlineTag": "NetJets",
     "isBreaking": false
   }
