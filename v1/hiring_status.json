@@ -6,7 +6,14 @@
     "status": "Actively Hiring",
     "details": "Projecting 2,000+ new-hire pilots in 2026. Multiple class dates per month. Aviate program pipeline producing steady flow of candidates. Fleet expansion with 737 MAX and A321neo deliveries driving demand.",
     "newHireClassSize": 50,
-    "basesHiring": ["DEN", "EWR", "ORD", "IAH", "SFO", "LAX"],
+    "basesHiring": [
+      "DEN",
+      "EWR",
+      "ORD",
+      "IAH",
+      "SFO",
+      "LAX"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.united.com/us/en/pilots"
   },
@@ -17,7 +24,14 @@
     "status": "Actively Hiring",
     "details": "Steady new-hire classes averaging 40-45 per month. Strong preference for candidates with 121 experience or military background. Propel program graduates beginning to reach mainline. Over 4,000 pilots eligible to retire by 2029.",
     "newHireClassSize": 40,
-    "basesHiring": ["ATL", "MSP", "DTW", "SEA", "LAX", "JFK"],
+    "basesHiring": [
+      "ATL",
+      "MSP",
+      "DTW",
+      "SEA",
+      "LAX",
+      "JFK"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://delta.avature.net/careers"
   },
@@ -28,7 +42,13 @@
     "status": "Actively Hiring",
     "details": "Hiring through Envoy/PSA/Piedmont flow-through and direct-entry. Cadet Academy pipeline active. Expect 1,500+ new hires in 2026 as retirements accelerate.",
     "newHireClassSize": 45,
-    "basesHiring": ["DFW", "CLT", "MIA", "ORD", "PHL"],
+    "basesHiring": [
+      "DFW",
+      "CLT",
+      "MIA",
+      "ORD",
+      "PHL"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.aa.com"
   },
@@ -39,7 +59,12 @@
     "status": "Limited Hiring",
     "details": "Smaller class sizes than 2024-2025 peak. Fleet growth slowing with MAX delivery delays and network restructuring. Still hiring but more selective on experience minimums. Destination 225 program graduates getting interviews.",
     "newHireClassSize": 20,
-    "basesHiring": ["DAL", "MDW", "DEN", "BWI"],
+    "basesHiring": [
+      "DAL",
+      "MDW",
+      "DEN",
+      "BWI"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.southwestair.com"
   },
@@ -50,7 +75,14 @@
     "status": "Actively Hiring",
     "details": "Post-Hawaiian Airlines merger integration driving increased pilot demand. Expanding West Coast and Hawaii network. Ascend Pilot Academy partnership filling pipeline. New bases opening as route network grows.",
     "newHireClassSize": 30,
-    "basesHiring": ["SEA", "PDX", "SFO", "LAX", "ANC", "HNL"],
+    "basesHiring": [
+      "SEA",
+      "PDX",
+      "SFO",
+      "LAX",
+      "ANC",
+      "HNL"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.alaskaair.com/career-opportunities/pilots/alaska-airlines/"
   },
@@ -61,7 +93,12 @@
     "status": "Limited Hiring",
     "details": "Hiring at reduced pace following failed Spirit merger and network rightsizing. Gateway Select program still active for low-time pilots. Focus on Northeast and Caribbean routes.",
     "newHireClassSize": 15,
-    "basesHiring": ["JFK", "BOS", "FLL", "MCO"],
+    "basesHiring": [
+      "JFK",
+      "BOS",
+      "FLL",
+      "MCO"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.jetblue.com"
   },
@@ -72,7 +109,11 @@
     "status": "Limited Hiring",
     "details": "Selective hiring as ULCC segment faces margin pressure. A320neo deliveries supporting modest growth. Competitive pay rates after recent contract improvements.",
     "newHireClassSize": 12,
-    "basesHiring": ["DEN", "MCO", "ATL"],
+    "basesHiring": [
+      "DEN",
+      "MCO",
+      "ATL"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.flyfrontier.com/careers/pilot/"
   },
@@ -94,7 +135,16 @@
     "status": "Actively Hiring",
     "details": "Largest regional carrier, urgently hiring. Captain upgrade in 2-3 years. Retention bonuses up to $25K. SkyWest cadet program active. Flies for United, Delta, American, and Alaska.",
     "newHireClassSize": 60,
-    "basesHiring": ["SLC", "ORD", "MSP", "DTW", "IAH", "DEN", "ORD", "LAX"],
+    "basesHiring": [
+      "SLC",
+      "ORD",
+      "MSP",
+      "DTW",
+      "IAH",
+      "DEN",
+      "ORD",
+      "LAX"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.skywest.com/skywest-airline-jobs/career-guides/pilot-jobs"
   },
@@ -105,7 +155,12 @@
     "status": "Actively Hiring",
     "details": "LIFT Academy ab-initio pipeline producing new pilots. Flow-through agreements to United and Delta. Competitive captain pay exceeding $150/hr. Captain upgrade timeline around 2 years.",
     "newHireClassSize": 40,
-    "basesHiring": ["IND", "EWR", "DCA", "ORD"],
+    "basesHiring": [
+      "IND",
+      "EWR",
+      "DCA",
+      "ORD"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://rjet.com"
   },
@@ -116,7 +171,13 @@
     "status": "Actively Hiring",
     "details": "Delta wholly-owned regional. Guaranteed interview flow-through to Delta mainline. First-year pay package over $95K. Captain upgrade in 18-24 months at most bases.",
     "newHireClassSize": 35,
-    "basesHiring": ["ATL", "MSP", "DTW", "JFK", "CVG"],
+    "basesHiring": [
+      "ATL",
+      "MSP",
+      "DTW",
+      "JFK",
+      "CVG"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.endeavorair.com/content/endeavor-air/en_us/careers/pilots.html"
   },
@@ -127,7 +188,12 @@
     "status": "Actively Hiring",
     "details": "American Airlines wholly-owned. Flow-through to mainline AA guaranteed for all new hires. First-year compensation exceeding $100K with bonuses. E175 fleet.",
     "newHireClassSize": 45,
-    "basesHiring": ["DFW", "ORD", "MIA", "CLT"],
+    "basesHiring": [
+      "DFW",
+      "ORD",
+      "MIA",
+      "CLT"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.envoyair.com/pilots/"
   },
@@ -138,7 +204,12 @@
     "status": "Actively Hiring",
     "details": "American Airlines wholly-owned. CRJ-900 fleet. Guaranteed flow-through to AA mainline. Cadet program available for low-time pilots building hours. Signing bonuses available.",
     "newHireClassSize": 30,
-    "basesHiring": ["CLT", "DCA", "DAY", "PHL"],
+    "basesHiring": [
+      "CLT",
+      "DCA",
+      "DAY",
+      "PHL"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://psaairlines.com/first-officers/"
   },
@@ -149,7 +220,12 @@
     "status": "Actively Hiring",
     "details": "American Airlines wholly-owned. Dash 8 Q-300/Q-400 turboprop fleet. Flow-through to AA. Smaller bases offering quick upgrade to captain. Good option for pilots wanting turboprop PIC time.",
     "newHireClassSize": 20,
-    "basesHiring": ["CLT", "PHL", "DCA", "ERI"],
+    "basesHiring": [
+      "CLT",
+      "PHL",
+      "DCA",
+      "ERI"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.piedmont-airlines.com/careers/pilots/"
   },
@@ -160,7 +236,11 @@
     "status": "Actively Hiring",
     "details": "Operating as United Express. Restructured after 2023 challenges. Competitive pay after contract improvements. Smaller operation but rapid upgrade times. Hiring bonuses offered.",
     "newHireClassSize": 20,
-    "basesHiring": ["IAH", "DEN", "PHX"],
+    "basesHiring": [
+      "IAH",
+      "DEN",
+      "PHX"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.mesa-air.com/careers"
   },
@@ -171,7 +251,11 @@
     "status": "Limited Hiring",
     "details": "Operating as American Eagle. Smaller fleet with CRJ-200s. Quick captain upgrade available. Niche operation with East Coast focus. Hiring at reduced pace as fleet stabilizes.",
     "newHireClassSize": 10,
-    "basesHiring": ["PHL", "DCA", "ORD"],
+    "basesHiring": [
+      "PHL",
+      "DCA",
+      "ORD"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.airwis.com/Careers/Pilots"
   },
@@ -182,7 +266,11 @@
     "status": "Actively Hiring",
     "details": "Alaska Airlines wholly-owned. Transitioning to all-E175 fleet. Guaranteed flow to Alaska mainline. Pacific Northwest lifestyle bases. Hiring steadily to support fleet transition.",
     "newHireClassSize": 25,
-    "basesHiring": ["SEA", "PDX", "BOI"],
+    "basesHiring": [
+      "SEA",
+      "PDX",
+      "BOI"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.alaskaair.com/career-opportunities/pilots/horizon-air/"
   },
@@ -193,7 +281,11 @@
     "status": "Limited Hiring",
     "details": "Selective hiring with strong preference for heavy jet PIC time or military widebody experience. Minimum 1,000 hours PIC turbine preferred. Top-tier compensation in the industry. Memphis domicile for most new hires.",
     "newHireClassSize": 15,
-    "basesHiring": ["MEM", "IND", "ANC"],
+    "basesHiring": [
+      "MEM",
+      "IND",
+      "ANC"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.fedex.com"
   },
@@ -204,7 +296,13 @@
     "status": "Actively Hiring",
     "details": "Retirement wave driving consistent new-hire classes through 2027. Over 1,200 pilots eligible to retire in the next 3 years. 747 and 767 fleet. Top compensation package in the industry.",
     "newHireClassSize": 25,
-    "basesHiring": ["SDF", "ONT", "PHL", "DFW", "MIA"],
+    "basesHiring": [
+      "SDF",
+      "ONT",
+      "PHL",
+      "DFW",
+      "MIA"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.jobs-ups.com"
   },
@@ -215,7 +313,12 @@
     "status": "Limited Hiring",
     "details": "Operating 747s and 767s for Amazon, DHL, and military contracts. CASS and ATAP contracts keeping fleet busy. Hiring selectively for 767 FO positions. Unique lifestyle with long-haul international flying.",
     "newHireClassSize": 10,
-    "basesHiring": ["MIA", "CVG", "LAX", "JFK"],
+    "basesHiring": [
+      "MIA",
+      "CVG",
+      "LAX",
+      "JFK"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.atlasairworldwide.com/careers/"
   },
@@ -226,7 +329,9 @@
     "status": "Limited Hiring",
     "details": "Operating 767 freighters primarily for Amazon Prime Air. Small but stable operation. DHL feeder work as well. Hiring a few classes per year to cover attrition and retirement.",
     "newHireClassSize": 8,
-    "basesHiring": ["CVG"],
+    "basesHiring": [
+      "CVG"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.abxair.com/careers/"
   },
@@ -237,7 +342,9 @@
     "status": "Actively Hiring",
     "details": "Strong demand for fractional flying from high-net-worth clients. 7/7 and 8/6 schedules. ATP required. Fleet includes Citation, Challenger, and Global types. Industry-leading fractional pay after 2024 contract. Columbus domicile but live anywhere.",
     "newHireClassSize": 30,
-    "basesHiring": ["CMH"],
+    "basesHiring": [
+      "CMH"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://www.netjets.com/en-us/careers"
   },
@@ -248,7 +355,11 @@
     "status": "Actively Hiring",
     "details": "Growing fractional fleet with Praetor 500/600 and Challenger 350 aircraft. Competitive pay and schedules. LearJet phaseout complete, modern fleet. Multiple crew bases nationwide.",
     "newHireClassSize": 20,
-    "basesHiring": ["CLE", "DAL", "TEB"],
+    "basesHiring": [
+      "CLE",
+      "DAL",
+      "TEB"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://careers.flexjet.com/"
   },
@@ -259,8 +370,113 @@
     "status": "Limited Hiring",
     "details": "Restructured operations after 2023-2024 financial challenges. Smaller fleet focused on light and midsize jets. Hiring selectively as business stabilizes under Delta partnership. King Air and Citation fleet.",
     "newHireClassSize": 8,
-    "basesHiring": ["ATL", "TEB"],
+    "basesHiring": [
+      "ATL",
+      "TEB"
+    ],
     "lastUpdated": "2026-04-01T00:00:00Z",
     "url": "https://wheelsup.com/careers-home"
+  },
+  {
+    "id": "breeze",
+    "airline": "Breeze Airways",
+    "category": "major",
+    "status": "Actively Hiring",
+    "details": "Rapidly expanding ULCC with Airbus A220 fleet. Growing route network with underserved city pairs. Young airline with fast upgrade times.",
+    "newHireClassSize": 20,
+    "basesHiring": [
+      "SLC",
+      "RIC",
+      "CHS",
+      "PVD",
+      "SAN"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.flybreeze.com/careers"
+  },
+  {
+    "id": "avelo",
+    "airline": "Avelo Airlines",
+    "category": "major",
+    "status": "Actively Hiring",
+    "details": "Growing ULCC operating 737s from HVN and BUR. Small airline with strong growth trajectory and competitive compensation.",
+    "newHireClassSize": 10,
+    "basesHiring": [
+      "HVN",
+      "BUR"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.aveloair.com/careers"
+  },
+  {
+    "id": "allegiant",
+    "airline": "Allegiant Air",
+    "category": "major",
+    "status": "Limited Hiring",
+    "details": "ULCC with A320 fleet focused on leisure routes. Base-model lifestyle with 15-18 days off per month. Selective hiring \u2014 prefers 121 PIC time.",
+    "newHireClassSize": 15,
+    "basesHiring": [
+      "LAS",
+      "SFB",
+      "PIE",
+      "IND",
+      "AZA"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.allegiantair.com/careers"
+  },
+  {
+    "id": "amerijet",
+    "airline": "Amerijet International",
+    "category": "cargo",
+    "status": "Actively Hiring",
+    "details": "All-cargo carrier operating 767 freighters. Caribbean and Latin America focused. Competitive pay with cargo schedule lifestyle.",
+    "newHireClassSize": 8,
+    "basesHiring": [
+      "MIA"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.amerijet.com/careers"
+  },
+  {
+    "id": "kalitta",
+    "airline": "Kalitta Air",
+    "category": "cargo",
+    "status": "Actively Hiring",
+    "details": "Heavy cargo operator with 747 and 767 freighters. Military charter and worldwide freight operations. Requires ATP and type rating preferred.",
+    "newHireClassSize": 10,
+    "basesHiring": [
+      "YIP",
+      "CVG"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.kalittaair.com/careers"
+  },
+  {
+    "id": "western_global",
+    "airline": "Western Global Airlines",
+    "category": "cargo",
+    "status": "Limited Hiring",
+    "details": "747 and MD-11 freighter operator. Government and commercial charter worldwide. Requires heavy jet PIC time.",
+    "newHireClassSize": 5,
+    "basesHiring": [
+      "JFK",
+      "MIA"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.westernglobalairlines.com/careers"
+  },
+  {
+    "id": "sun_country",
+    "airline": "Sun Country Airlines",
+    "category": "major",
+    "status": "Limited Hiring",
+    "details": "Hybrid carrier operating passenger and cargo (Amazon) flights with 737s. MSP-based with seasonal leisure routes. Good quality of life.",
+    "newHireClassSize": 10,
+    "basesHiring": [
+      "MSP"
+    ],
+    "lastUpdated": "2026-04-01T00:00:00Z",
+    "url": "https://www.suncountry.com/careers"
   }
 ]
