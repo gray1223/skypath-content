@@ -35,12 +35,22 @@ FEEDS = [
         "source": "Simple Flying",
         "default_category": "industry",
         "category_map": {
-            "airlines": "hiring",
-            "airline news": "hiring",
+            "airlines": "industry",
+            "airline news": "industry",
             "military": "military",
             "aircraft": "industry",
             "airports": "industry",
             "training": "training",
+        }
+    },
+    {
+        "url": "https://www.flyingmag.com/feed/",
+        "source": "Flying Magazine",
+        "default_category": "industry",
+        "category_map": {
+            "training": "training",
+            "pilot reports": "industry",
+            "safety": "training",
         }
     },
 ]
@@ -76,8 +86,31 @@ def is_relevant(title, description):
     text = f"{title} {description}".lower()
     return any(kw in text for kw in RELEVANT_KEYWORDS)
 
-def classify_category(categories, category_map, default):
-    """Map RSS categories to our category enum."""
+def classify_category(categories, category_map, default, title="", description=""):
+    """Classify using content analysis first, then RSS categories as fallback."""
+    text = f"{title} {description}".lower()
+
+    hiring_words = ["hiring", "new hire", "class size", "pilot shortage", "furlough",
+                    "job fair", "cadet", "pathway program", "flow-through", "upgrade time"]
+    pay_words = ["pay raise", "salary", "compensation", "bonus", "contract ratif", "wage"]
+    regulatory_words = ["faa rule", "ntsb", "regulation", "nprm", "airworthiness directive",
+                        "advisory circular", "basicmed", "14 cfr"]
+    training_words = ["flight school", "flight training", "checkride", "student pilot",
+                      "cfi", "instructor", "learn to fly", "scholarship", "written exam"]
+    military_words = ["military pilot", "air force pilot", "navy pilot", "skillbridge",
+                      "veteran pilot", "guard unit", "reserve unit", "upt"]
+
+    if any(w in text for w in hiring_words):
+        return "hiring"
+    if any(w in text for w in pay_words):
+        return "pay"
+    if any(w in text for w in regulatory_words):
+        return "regulatory"
+    if any(w in text for w in training_words):
+        return "training"
+    if any(w in text for w in military_words):
+        return "military"
+
     for cat in categories:
         cat_lower = cat.lower()
         for key, value in category_map.items():
@@ -161,7 +194,8 @@ def main():
                 continue
 
             category = classify_category(
-                categories, feed_config["category_map"], feed_config["default_category"]
+                categories, feed_config["category_map"], feed_config["default_category"],
+                title=title, description=desc
             )
 
             news_item = {
@@ -179,7 +213,7 @@ def main():
 
     # Sort by date, newest first, keep top 20
     all_items.sort(key=lambda x: x["publishedDate"], reverse=True)
-    all_items = all_items[:20]
+    all_items = all_items[:40]
 
     print(f"\n{len(all_items)} relevant articles selected")
 
