@@ -1,6 +1,6 @@
-# SkyPath Content Feed
+# ClearedDirect Content Feed
 
-Live JSON content served via GitHub Pages for the SkyPath iOS app.
+Live JSON content served via GitHub Pages for the ClearedDirect iOS app.
 
 ## Structure
 
@@ -13,7 +13,7 @@ v1/
 
 ## How it works
 
-The SkyPath app fetches these files on launch and caches them locally. Updates here go live to all users on their next app open.
+The ClearedDirect app fetches these files on launch and caches them locally. Updates here go live to all users on their next app open.
 
 ## Updating content
 
