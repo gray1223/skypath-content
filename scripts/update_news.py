@@ -232,16 +232,35 @@ def main():
             }
             all_items.append(news_item)
 
-    # Sort by date, newest first, keep top 20
-    all_items.sort(key=lambda x: x["publishedDate"], reverse=True)
-    all_items = all_items[:40]
-
-    print(f"\n{len(all_items)} relevant articles selected")
-
-    # Write output
+    # Merge with existing articles to build history
     output_path = "v1/news_feed.json"
+    try:
+        with open(output_path) as f:
+            existing = json.load(f)
+        existing_ids = {a["id"] for a in existing}
+        # Add old articles that aren't in the new batch
+        for old in existing:
+            if old["id"] not in {a["id"] for a in all_items}:
+                all_items.append(old)
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
+    # Deduplicate
+    seen = set()
+    unique = []
+    for item in all_items:
+        if item["id"] not in seen:
+            seen.add(item["id"])
+            unique.append(item)
+
+    # Sort by date, newest first, keep last 200 articles (~2-3 months of history)
+    unique.sort(key=lambda x: x["publishedDate"], reverse=True)
+    unique = unique[:200]
+
+    print(f"\n{len(unique)} total articles (new + existing)")
+
     with open(output_path, "w") as f:
-        json.dump(all_items, f, indent=2)
+        json.dump(unique, f, indent=2)
 
     print(f"Written to {output_path}")
 
