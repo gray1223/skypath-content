@@ -1,5 +1,137 @@
 [
   {
+    "id": "1b41d5f009dd",
+    "title": "Southwest Airlines Limiting Passengers To 1 Portable Charger Onboard To Reduce Fire Risk",
+    "summary": "Southwest Airlines will limit passengers to one power bank from April 20, tightening safety rules amid rising lithium battery fire risks onboard.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-07T18:59:53Z",
+    "url": "https://simpleflying.com/southwest-airlines-limiting-passengers-1-portable-charger-onboard-reduce-fire-risk/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3a3ef2fbdaff",
+    "title": "Remotely Piloted Aircraft Help FAA Test ACAS X",
+    "summary": "Testing found that the technology\u2019s \u201cbehavior and output\u201d change between en route and terminal airspace.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-07T18:45:00Z",
+    "url": "https://www.flyingmag.com/remotely-piloted-aircraft-testing-faa-acas-x/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "04b553f63804",
+    "title": "Charleston Airshow Moves Amid Ongoing Conflict",
+    "summary": "Joint Base Charleston says 2026 show was changed to an off-base due to operational requirements tied to current global events.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-04-07T18:30:05Z",
+    "url": "https://avweb.com/air-shows-events/charleston-airshow-moves-amid-conflict/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6966ddeed7ba",
+    "title": "Training and Safety Tip: Somebody's watching you",
+    "summary": "For pilots who begin their flight training at a nontowered field, an exciting step in their progress is flying into controlled airspace and landing at a towered airport. Prior to doing so, in addition to learning the proper phraseology to communicate with air traffic controlle...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-07T18:28:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/somebody-is-watching-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bdac2ab9d3cb",
+    "title": "Delta Air Lines Becomes 3rd US Carrier To Hike Checked Bag Fees As Fuel Prices Soar",
+    "summary": "Delta Air Lines joins United and JetBlue in hiking checked baggage fees, following a sharp rise in global jet fuel prices.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-07T18:18:24Z",
+    "url": "https://simpleflying.com/delta-air-lines-becomes-3rd-us-carrier-to-hike-checked-bag-fees-as-fuel-prices-soar/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a4962ba9609d",
+    "title": "Why The Boeing 777-300ER Is Preferred By Passengers",
+    "summary": "The 777-300ER is one of the most common widebody airliners currently in the skies.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-07T17:30:18Z",
+    "url": "https://simpleflying.com/why-boeing-777-300er-preferred-by-passengers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7a181158be14",
+    "title": "Naval aviator, IAOPA Secretary General John Sheehan remembered",
+    "summary": "John J. Sheehan III, former executive vice president of AOPA and secretary general of the International Council of Aircraft Owner and Pilot Associations, died peacefully at his home in Wilmington, North Carolina, on March 20 at the age of 85.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-07T16:02:56Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/naval-aviator-iaopa-secretary-general-john-sheehan-remembered?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1b72aace96c6",
+    "title": "Alaska Airlines Makes History: Boeing 737 MAX Flights To Europe Launch Next Month",
+    "summary": "It will become the carrier's new longest narrowbody service ever, but there's a twist...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-07T16:00:18Z",
+    "url": "https://simpleflying.com/alaska-airlines-makes-history-boeing-737-max-flights-to-europe-launch-next-month/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "761688f058bc",
+    "title": "Pilots\u2019 Group Warns of Conflict-Zone Strain",
+    "summary": "New position paper says repeated uneventful flights should not reduce scrutiny.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-07T15:45:18Z",
+    "url": "https://avweb.com/aviation-news/pilots-group-warns-of-conflict-zone-strain/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "92210624e48c",
+    "title": "FAA Budget Request Seeks 2,300 Controller Trainees",
+    "summary": "Agency ties proposed hiring increase to staffing, training and modernization needs.",
+    "source": "AvWeb",
+    "category": "hiring",
+    "publishedDate": "2026-04-07T14:53:22Z",
+    "url": "https://avweb.com/aviation-news/faa-budget-seeks-2300-controller-trainees/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "059b9c7bbf0e",
+    "title": "The Great Aviation Debate: Part 141 vs. Part 61?",
+    "summary": "Structures are different, so aspiring pilots should figure out which works best for them.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-04-07T14:14:41Z",
+    "url": "https://www.flyingmag.com/the-great-aviation-debate-part-141-vs-part-61/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bab2bf04ffb3",
+    "title": "A Look At The Salaries Of Pilots In Canada In 2026",
+    "summary": "Diving deeper into the economics of professional flying in the Great White North.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-07T13:30:18Z",
+    "url": "https://simpleflying.com/salaries-pilots-canada-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "9f728dc4b09b",
     "title": "British Airways Flew 13 Hours After Passenger Died Onboard - Foul Smell Complaints Followed",
     "summary": "You might expect that, when a passenger passes away during a flight, pilots would divert the aircraft to an airport to deal with the situation. However, this isn\u2019t always the case. Indeed, if a passenger dies of natural causes, airlines may just opt to have the flight continue...",
