@@ -1,0 +1,57 @@
+name: Validate Flight School URLs
+
+on:
+  schedule:
+    # Every Sunday at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run URL validation
+        id: validate
+        run: |
+          set +e
+          OUTPUT=$(python scripts/validate_schools.py 2>&1)
+          EXIT_CODE=$?
+          echo "$OUTPUT"
+          {
+            echo "report<<REPORT_EOF"
+            echo "$OUTPUT"
+            echo "REPORT_EOF"
+          } >> "$GITHUB_OUTPUT"
+          echo "has_broken=$( [ $EXIT_CODE -ne 0 ] && echo true || echo false )" >> "$GITHUB_OUTPUT"
+
+      - name: Create issue for broken links
+        if: steps.validate.outputs.has_broken == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPORT: ${{ steps.validate.outputs.report }}
+        run: |
+          gh issue create \
+            --title "Broken flight school URLs detected ($(date -u +%Y-%m-%d))" \
+            --body "$(cat <<EOF
+          ## Flight School URL Validation Report
+
+          The weekly validation found broken URLs in \`v1/flight_schools.json\`.
+
+          \`\`\`
+          $REPORT
+          \`\`\`
+
+          Please review and update the affected entries.
+          EOF
+          )" \
+            --label "bug"
