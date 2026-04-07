@@ -41,7 +41,9 @@
     "priceRange": "$$$",
     "url": "https://erau.edu",
     "description": "University aviation degree program at KDAB. Part 141. R-ATP eligible at 1,000 hours.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 29.1799,
+    "longitude": -81.0581
   },
   {
     "id": "und_aviation",
@@ -63,7 +65,9 @@
     "priceRange": "$$",
     "url": "https://aero.und.edu",
     "description": "University aviation degree program at KGFK. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 47.9493,
+    "longitude": -97.1761
   },
   {
     "id": "purdue",
@@ -84,7 +88,9 @@
     "priceRange": "$$",
     "url": "https://www.purdue.edu/aviation",
     "description": "University aviation degree program at KLAF. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.4123,
+    "longitude": -86.9369
   },
   {
     "id": "lift_academy",
@@ -106,7 +112,9 @@
     "priceRange": "$$$",
     "url": "https://www.flywithlift.com",
     "description": "Republic Airways-owned Part 141 academy at KIND. Airline pipeline program.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.7173,
+    "longitude": -86.2944
   },
   {
     "id": "l3harris",
@@ -127,7 +135,9 @@
     "priceRange": "$$$",
     "url": "https://www.l3harrisflightacademy.com",
     "description": "Part 141 flight academy at KSFB. International and domestic training programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 28.7776,
+    "longitude": -81.2375
   },
   {
     "id": "american_flyers",
@@ -171,7 +181,9 @@
     "priceRange": "$$",
     "url": "https://www.thrustflight.com",
     "description": "Part 141 flight training at KADS. Cirrus and Piper fleet.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.9686,
+    "longitude": -96.8364
   },
   {
     "id": "phoenix_east",
@@ -193,7 +205,9 @@
     "priceRange": "$$",
     "url": "https://www.pea.com",
     "description": "Part 141 flight training at KDAB. International and domestic programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 29.1799,
+    "longitude": -81.0581
   },
   {
     "id": "sierra_charlie",
@@ -213,7 +227,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSDL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.6229,
+    "longitude": -111.9105
   },
   {
     "id": "inflight_pilot",
@@ -234,7 +250,9 @@
     "priceRange": "$",
     "url": "https://www.inflightpilottraining.com",
     "description": "Part 61 flight training at KSUS. Tailwheel, aerobatic, and multi-engine offered.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.6621,
+    "longitude": -90.652
   },
   {
     "id": "wayman_aviation",
@@ -256,7 +274,9 @@
     "priceRange": "$$",
     "url": "https://www.waymanaviation.com",
     "description": "Part 141 flight training at KOPF. International student programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 25.907,
+    "longitude": -80.2784
   },
   {
     "id": "epic_flight",
@@ -278,7 +298,9 @@
     "priceRange": "$$",
     "url": "https://epicflightacademy.com",
     "description": "Part 141 flight training at KEVB. Diamond aircraft fleet.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 29.0557,
+    "longitude": -80.948
   },
   {
     "id": "us_aviation",
@@ -300,7 +322,9 @@
     "priceRange": "$$",
     "url": "https://www.usaviationacademy.com",
     "description": "Part 141 flight training at KDTO. GI Bill approved. Piper fleet.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.2005,
+    "longitude": -97.198
   },
   {
     "id": "aeroguard",
@@ -322,7 +346,9 @@
     "priceRange": "$$",
     "url": "https://www.aeroguard.com",
     "description": "Part 141 flight training at KDVT. SkyWest airline partnership.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.6883,
+    "longitude": -112.0833
   },
   {
     "id": "apopka_aviation",
@@ -340,7 +366,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KX04. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 28.6934,
+    "longitude": -81.5323
   },
   {
     "id": "orlando_flight_academy",
@@ -358,7 +386,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KX04. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 28.6934,
+    "longitude": -81.5323
   },
   {
     "id": "beach_aviation",
@@ -376,7 +406,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBCT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 26.3785,
+    "longitude": -80.1077
   },
   {
     "id": "tampa_bay_aviation",
@@ -394,7 +426,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPIE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 27.9102,
+    "longitude": -82.6874
   },
   {
     "id": "cti_professional_flight_training",
@@ -415,7 +449,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KFXE. Part 141.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 26.1973,
+    "longitude": -80.1707
   },
   {
     "id": "take_flight_professional",
@@ -433,7 +469,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KFXE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 26.1973,
+    "longitude": -80.1707
   },
   {
     "id": "legacy_aviation",
@@ -451,7 +489,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KFXE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 26.1973,
+    "longitude": -80.1707
   },
   {
     "id": "skyeagle_aviation_academy",
@@ -469,7 +509,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KFXE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 26.1973,
+    "longitude": -80.1707
   },
   {
     "id": "paragon_flight_training",
@@ -490,7 +532,9 @@
     "priceRange": "$$",
     "url": "https://www.paragonflighttraining.com",
     "description": "Flight training at KFMY. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 26.6406,
+    "longitude": -81.8723
   },
   {
     "id": "aviator_college",
@@ -511,7 +555,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KFPR.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 27.4951,
+    "longitude": -80.3683
   },
   {
     "id": "university_air_center",
@@ -529,7 +575,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGNV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 29.6901,
+    "longitude": -82.2718
   },
   {
     "id": "aerostar_training_services",
@@ -547,7 +595,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KISM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 28.2898,
+    "longitude": -81.4371
   },
   {
     "id": "sunstate_aviation",
@@ -565,7 +615,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KISM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 28.2898,
+    "longitude": -81.4371
   },
   {
     "id": "kingsky_flight_academy",
@@ -583,7 +635,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLAL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 27.9889,
+    "longitude": -82.0186
   },
   {
     "id": "florida_institute_of_technology",
@@ -604,7 +658,9 @@
     "priceRange": "$$$",
     "url": "https://www.fit.edu",
     "description": "University aviation degree program at KMLB. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 28.1028,
+    "longitude": -80.6453
   },
   {
     "id": "endeavour_flight_training",
@@ -622,7 +678,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KOPF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 25.907,
+    "longitude": -80.2784
   },
   {
     "id": "sunrise_aviation",
@@ -640,7 +698,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KOMN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 29.2858,
+    "longitude": -81.0559
   },
   {
     "id": "pelican_flight_training",
@@ -658,7 +718,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHWO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 26.0012,
+    "longitude": -80.2407
   },
   {
     "id": "florida_flyers",
@@ -679,7 +741,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSGJ. Part 141.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 29.9592,
+    "longitude": -81.3397
   },
   {
     "id": "paris_air",
@@ -700,7 +764,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KVRB. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 27.6556,
+    "longitude": -80.4179
   },
   {
     "id": "skyborne_airline_academy",
@@ -721,7 +787,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "Flight training at KVRB. Part 141.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 27.6556,
+    "longitude": -80.4179
   },
   {
     "id": "monarch_air",
@@ -739,7 +807,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KADS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.9686,
+    "longitude": -96.8364
   },
   {
     "id": "lone_star_flyers",
@@ -757,7 +827,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KADS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.9686,
+    "longitude": -96.8364
   },
   {
     "id": "route_66_aviation",
@@ -775,7 +847,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTDW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.222,
+    "longitude": -101.8313
   },
   {
     "id": "texas_top_aviation",
@@ -794,7 +868,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFTW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.8198,
+    "longitude": -97.3625
   },
   {
     "id": "lone_star_aviation",
@@ -812,7 +888,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSAT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 29.5337,
+    "longitude": -98.4698
   },
   {
     "id": "flight_path_aviation",
@@ -830,7 +908,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDWH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.0618,
+    "longitude": -95.5546
   },
   {
     "id": "global_aviation_services",
@@ -848,7 +928,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KIWS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 29.7604,
+    "longitude": -95.3698
   },
   {
     "id": "texas_state_aviation",
@@ -868,7 +950,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KACT.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 31.6113,
+    "longitude": -97.2305
   },
   {
     "id": "spartan_college_tulsa",
@@ -890,7 +974,9 @@
     "priceRange": "$$",
     "url": "https://www.spartan.edu",
     "description": "Part 141 degree-granting aviation school at KRVS. Founded 1928.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.0396,
+    "longitude": -95.9846
   },
   {
     "id": "coastflight",
@@ -912,7 +998,9 @@
     "priceRange": "$$",
     "url": "https://www.coastflight.com",
     "description": "Part 141 flight training at KCRQ. SkyWest airline partnership.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.1283,
+    "longitude": -117.2803
   },
   {
     "id": "aeroclub",
@@ -933,7 +1021,9 @@
     "priceRange": "$$",
     "url": "https://www.aerodynamicaviation.com",
     "description": "Part 61 flight training at KRHV. Tailwheel and aerobatic offerings.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.3326,
+    "longitude": -121.8198
   },
   {
     "id": "plus_one_flyers",
@@ -952,7 +1042,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Non-profit flying club at KSAN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.7338,
+    "longitude": -117.1933
   },
   {
     "id": "sling_pilot_academy",
@@ -974,7 +1066,9 @@
     "priceRange": "$$",
     "url": "https://slingpilotacademy.com",
     "description": "Part 141 flight training at KTOA. Sling aircraft fleet.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.8034,
+    "longitude": -118.3396
   },
   {
     "id": "fly_spectrum",
@@ -992,7 +1086,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLGB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.8177,
+    "longitude": -118.1516
   },
   {
     "id": "golden_state_flying_club",
@@ -1010,7 +1106,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSAC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.5125,
+    "longitude": -121.4935
   },
   {
     "id": "california_aeronautical_university",
@@ -1032,7 +1130,9 @@
     "priceRange": "$$$",
     "url": "https://www.calaero.edu",
     "description": "University aviation degree program at KBFL. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.4336,
+    "longitude": -119.0568
   },
   {
     "id": "san_carlos_flight_center",
@@ -1052,7 +1152,9 @@
     "priceRange": "$$",
     "url": "https://www.sancarlosflight.com",
     "description": "Flight training at KSQL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.5112,
+    "longitude": -122.2505
   },
   {
     "id": "santa_monica_flyers",
@@ -1070,7 +1172,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSMO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.0158,
+    "longitude": -118.4513
   },
   {
     "id": "pacific_aviation_museum",
@@ -1088,7 +1192,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRAL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.9519,
+    "longitude": -117.4451
   },
   {
     "id": "advantage_aviation",
@@ -1107,7 +1213,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KCMA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.2137,
+    "longitude": -119.0943
   },
   {
     "id": "transpac_aviation",
@@ -1129,7 +1237,9 @@
     "priceRange": "$$",
     "url": "https://transpacacademy.com",
     "description": "Part 141 flight training at KDVT.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.6883,
+    "longitude": -112.0833
   },
   {
     "id": "leopard_aviation",
@@ -1148,7 +1258,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFFZ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.4608,
+    "longitude": -111.7282
   },
   {
     "id": "embry_riddle_prescott",
@@ -1170,7 +1282,9 @@
     "priceRange": "$$$",
     "url": "https://prescott.erau.edu",
     "description": "Embry-Riddle Prescott campus. Aviation degree program. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 34.6545,
+    "longitude": -112.4196
   },
   {
     "id": "chandler_air_service",
@@ -1188,7 +1302,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCHD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.2691,
+    "longitude": -111.8111
   },
   {
     "id": "arizona_flight_training",
@@ -1207,7 +1323,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSDL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.6229,
+    "longitude": -111.9105
   },
   {
     "id": "blue_skies_aviation",
@@ -1225,7 +1343,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRYN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.2226,
+    "longitude": -110.9747
   },
   {
     "id": "sporty_pilot",
@@ -1246,7 +1366,9 @@
     "priceRange": "$$",
     "url": "https://www.sportys.com/academy",
     "description": "Flight training at KI69. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.077,
+    "longitude": -84.1769
   },
   {
     "id": "ohio_state_aviation",
@@ -1267,7 +1389,9 @@
     "priceRange": "$$",
     "url": "https://aviation.osu.edu",
     "description": "University aviation degree program at KOSU. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.0798,
+    "longitude": -83.073
   },
   {
     "id": "kent_state_aviation",
@@ -1289,7 +1413,9 @@
     "priceRange": "$$",
     "url": "https://www.kent.edu/aeronautics",
     "description": "University aviation degree program at K1G3. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 41.1537,
+    "longitude": -81.3579
   },
   {
     "id": "all_star_aviation",
@@ -1307,7 +1433,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAKR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.0375,
+    "longitude": -81.4669
   },
   {
     "id": "dayton_flight_training",
@@ -1325,7 +1453,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMGY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.589,
+    "longitude": -84.2249
   },
   {
     "id": "lake_central_air_services",
@@ -1342,7 +1472,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSKY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.4489,
+    "longitude": -82.708
   },
   {
     "id": "western_michigan_aviation",
@@ -1364,7 +1496,9 @@
     "priceRange": "$$",
     "url": "https://wmich.edu/aviation",
     "description": "University aviation degree program at KAZO. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.235,
+    "longitude": -85.5521
   },
   {
     "id": "crosswinds_aviation",
@@ -1383,7 +1517,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KJXN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.2598,
+    "longitude": -84.4594
   },
   {
     "id": "michigan_flyers",
@@ -1401,7 +1537,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KARB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.223,
+    "longitude": -83.7455
   },
   {
     "id": "great_lakes_aviation",
@@ -1420,7 +1558,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGRR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.8808,
+    "longitude": -85.5228
   },
   {
     "id": "oakland_aviation",
@@ -1438,7 +1578,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPTK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.6655,
+    "longitude": -83.4201
   },
   {
     "id": "traverse_air",
@@ -1455,7 +1597,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTVC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.7414,
+    "longitude": -85.5822
   },
   {
     "id": "lewis_university_aviation",
@@ -1477,7 +1621,9 @@
     "priceRange": "$$",
     "url": "https://www.lewisu.edu/aviation",
     "description": "University aviation degree program at KLOT. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 41.6475,
+    "longitude": -88.0895
   },
   {
     "id": "southern_illinois_aviation",
@@ -1498,7 +1644,9 @@
     "priceRange": "$$",
     "url": "https://aviation.siu.edu",
     "description": "University aviation degree program at KMDH. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.778,
+    "longitude": -89.252
   },
   {
     "id": "schaumburg_pilots",
@@ -1516,7 +1664,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at 06C. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.0334,
+    "longitude": -88.0834
   },
   {
     "id": "midway_flight_training",
@@ -1534,7 +1684,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KMDW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.7868,
+    "longitude": -87.7522
   },
   {
     "id": "prairie_aviation",
@@ -1552,7 +1704,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCMI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.039,
+    "longitude": -88.2781
   },
   {
     "id": "aurora_flight_training",
@@ -1571,7 +1725,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KCMI.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.039,
+    "longitude": -88.2781
   },
   {
     "id": "delta_qualiflight",
@@ -1593,7 +1749,9 @@
     "priceRange": "$$",
     "url": "https://www.qualiflight.com",
     "description": "Flight training at KFTY. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.7791,
+    "longitude": -84.5214
   },
   {
     "id": "middle_georgia_aviation",
@@ -1614,7 +1772,9 @@
     "priceRange": "$$",
     "url": "https://www.mga.edu/aviation",
     "description": "University aviation degree program at KEZM. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.1974,
+    "longitude": -83.1799
   },
   {
     "id": "atlanta_flight_school",
@@ -1633,7 +1793,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPDK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.8756,
+    "longitude": -84.302
   },
   {
     "id": "skybound_aviation",
@@ -1651,7 +1813,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLZU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.9781,
+    "longitude": -83.9624
   },
   {
     "id": "savannah_flight_center",
@@ -1669,7 +1833,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSAV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.1276,
+    "longitude": -81.2021
   },
   {
     "id": "lanier_flight_center",
@@ -1687,7 +1853,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGVL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.2979,
+    "longitude": -83.8241
   },
   {
     "id": "aspen_flying_club",
@@ -1708,7 +1876,9 @@
     "priceRange": "$$",
     "url": "https://www.aspenflyingclub.com",
     "description": "Flying club at KAPA. Part 61. Mountain flying courses available.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.5701,
+    "longitude": -104.8493
   },
   {
     "id": "mcair_aviation",
@@ -1728,7 +1898,9 @@
     "priceRange": "$$",
     "url": "https://www.mcairaviation.com",
     "description": "Part 61 flight training at KBJC. Mountain flying offered.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.9088,
+    "longitude": -105.1172
   },
   {
     "id": "journeys_aviation",
@@ -1746,7 +1918,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBJC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.9088,
+    "longitude": -105.1172
   },
   {
     "id": "colorado_flight_center",
@@ -1764,7 +1938,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFNL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.4518,
+    "longitude": -105.0113
   },
   {
     "id": "western_air_flight_academy",
@@ -1782,7 +1958,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGJT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.1224,
+    "longitude": -108.5267
   },
   {
     "id": "metro_state_aviation",
@@ -1803,7 +1981,9 @@
     "priceRange": "$$",
     "url": "https://www.msudenver.edu/aviation",
     "description": "University aviation degree program at KAPA. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.5701,
+    "longitude": -104.8493
   },
   {
     "id": "liberty_university_aviation",
@@ -1825,7 +2005,9 @@
     "priceRange": "$$",
     "url": "https://www.liberty.edu/aeronautics",
     "description": "University aviation degree program at KLYH. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.3267,
+    "longitude": -79.2004
   },
   {
     "id": "hampton_university_aviation",
@@ -1844,7 +2026,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "HBCU with Part 141 aviation program at KPHF.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.1319,
+    "longitude": -76.493
   },
   {
     "id": "averett_university_aviation",
@@ -1864,7 +2048,9 @@
     "priceRange": "$$",
     "url": "https://www.averett.edu",
     "description": "Part 141 aviation program at KDAN.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.5729,
+    "longitude": -79.3361
   },
   {
     "id": "blue_ridge_aviation",
@@ -1882,7 +2068,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCHO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.1386,
+    "longitude": -78.4529
   },
   {
     "id": "richmond_flight_center",
@@ -1900,7 +2088,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KRIC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.5052,
+    "longitude": -77.3197
   },
   {
     "id": "nova_aviation",
@@ -1919,7 +2109,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHEF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.7214,
+    "longitude": -77.5155
   },
   {
     "id": "florida_flight_training_center",
@@ -1937,7 +2129,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KVNC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 27.0716,
+    "longitude": -82.4403
   },
   {
     "id": "treasure_coast_flight",
@@ -1954,7 +2148,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSUA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 27.1817,
+    "longitude": -80.2211
   },
   {
     "id": "hillsboro_aero",
@@ -1976,7 +2172,9 @@
     "priceRange": "$$",
     "url": "https://www.flyhaa.com",
     "description": "Part 141 flight training at KHIO. Airplane and helicopter programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 45.5404,
+    "longitude": -122.95
   },
   {
     "id": "leading_edge_aviation",
@@ -1998,7 +2196,9 @@
     "priceRange": "$$",
     "url": "https://www.flyleadingedge.com",
     "description": "Flight training at KBDN. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 44.0949,
+    "longitude": -121.2006
   },
   {
     "id": "oregon_flight_school",
@@ -2017,7 +2217,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KTTD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.5494,
+    "longitude": -122.4013
   },
   {
     "id": "aurora_aviation",
@@ -2035,7 +2237,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KUAO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.2307,
+    "longitude": -122.7571
   },
   {
     "id": "bend_aircraft",
@@ -2053,7 +2257,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBDN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.0949,
+    "longitude": -121.2006
   },
   {
     "id": "premier_flight_center_or",
@@ -2071,7 +2277,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMFR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.3742,
+    "longitude": -122.8735
   },
   {
     "id": "eugene_flight_center",
@@ -2089,7 +2297,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEUG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.1246,
+    "longitude": -123.2119
   },
   {
     "id": "corvallis_aero",
@@ -2107,7 +2317,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCVO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.4972,
+    "longitude": -123.29
   },
   {
     "id": "galvin_flying",
@@ -2128,7 +2340,9 @@
     "priceRange": "$$",
     "url": "https://www.galvinflying.com",
     "description": "Part 61 flight training at KBFI. Seaplane training available.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 47.53,
+    "longitude": -122.3019
   },
   {
     "id": "rainier_flight_service",
@@ -2148,7 +2362,9 @@
     "priceRange": "$$",
     "url": "https://www.rainierflightservice.com",
     "description": "Flight training at KRNT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 47.493,
+    "longitude": -122.2158
   },
   {
     "id": "central_washington_university_aviation",
@@ -2170,7 +2386,9 @@
     "priceRange": "$$",
     "url": "https://www.cwu.edu/aviation",
     "description": "University aviation degree program at KELN. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 46.965,
+    "longitude": -120.5307
   },
   {
     "id": "ari_ben_aviator",
@@ -2188,7 +2406,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRNT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 47.493,
+    "longitude": -122.2158
   },
   {
     "id": "snohomish_flying",
@@ -2206,7 +2426,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPAE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 47.9063,
+    "longitude": -122.2815
   },
   {
     "id": "northwest_aviation_center",
@@ -2224,7 +2446,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOLM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.9694,
+    "longitude": -122.9025
   },
   {
     "id": "spokane_flight_center",
@@ -2243,7 +2467,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSFF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 47.6828,
+    "longitude": -117.3226
   },
   {
     "id": "bellingham_aviation",
@@ -2261,7 +2487,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBLI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 48.7927,
+    "longitude": -122.5375
   },
   {
     "id": "auburn_university_aviation",
@@ -2283,7 +2511,9 @@
     "priceRange": "$$$",
     "url": "https://www.auburn.edu/aviation",
     "description": "University aviation degree program at KAUO. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.6151,
+    "longitude": -85.434
   },
   {
     "id": "enterprise_state_aviation",
@@ -2303,7 +2533,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KEDN.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 31.331,
+    "longitude": -85.8553
   },
   {
     "id": "auburn_aviation",
@@ -2321,7 +2553,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAUO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.6151,
+    "longitude": -85.434
   },
   {
     "id": "birmingham_flight_center",
@@ -2340,7 +2574,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBHM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.5629,
+    "longitude": -86.7535
   },
   {
     "id": "mobile_aviation",
@@ -2358,7 +2594,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBFM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.6268,
+    "longitude": -88.0681
   },
   {
     "id": "upper_limit_aviation",
@@ -2380,7 +2618,9 @@
     "priceRange": "$$",
     "url": "https://www.upperlimitaviation.com",
     "description": "Part 141 flight training at KPVU. Fixed-wing and helicopter programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.2191,
+    "longitude": -111.7234
   },
   {
     "id": "utah_valley_university_aviation",
@@ -2402,7 +2642,9 @@
     "priceRange": "$$$",
     "url": "https://www.uvu.edu/aviation",
     "description": "University aviation degree program at KPVU. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.2191,
+    "longitude": -111.7234
   },
   {
     "id": "salt_lake_flight_training",
@@ -2420,7 +2662,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSLC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.7884,
+    "longitude": -111.9778
   },
   {
     "id": "leading_edge_ut",
@@ -2439,7 +2683,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOGD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1961,
+    "longitude": -112.0122
   },
   {
     "id": "st_george_flight",
@@ -2457,7 +2703,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSGU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.0965,
+    "longitude": -113.5684
   },
   {
     "id": "cedar_city_aviation",
@@ -2477,7 +2725,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KCDC.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.7011,
+    "longitude": -113.0988
   },
   {
     "id": "byu_flight",
@@ -2495,7 +2745,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPVU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.2191,
+    "longitude": -111.7234
   },
   {
     "id": "pan_am_flight_academy",
@@ -2517,7 +2769,9 @@
     "priceRange": "$$$",
     "url": "https://www.panamacademy.com",
     "description": "Part 141 training center at KMIA. Type ratings and ab-initio programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 25.7959,
+    "longitude": -80.287
   },
   {
     "id": "national_aviation_academy_fl",
@@ -2537,7 +2791,9 @@
     "priceRange": "$$",
     "url": "https://www.naa.edu",
     "description": "Part 141 pilot and maintenance training at KPIE.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 27.9102,
+    "longitude": -82.6874
   },
   {
     "id": "cae_phoenix",
@@ -2559,7 +2815,9 @@
     "priceRange": "$$$",
     "url": "https://www.cae.com",
     "description": "CAE Part 141 academy at KFFZ. Airline cadet programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.4608,
+    "longitude": -111.7282
   },
   {
     "id": "westwind_aviation",
@@ -2578,7 +2836,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDVT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.6883,
+    "longitude": -112.0833
   },
   {
     "id": "baylor_flight",
@@ -2600,7 +2860,9 @@
     "priceRange": "$$$",
     "url": "https://www.baylor.edu/aviation",
     "description": "University aviation degree program at KACT. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 31.6113,
+    "longitude": -97.2305
   },
   {
     "id": "letourneau_aviation",
@@ -2622,7 +2884,9 @@
     "priceRange": "$$$",
     "url": "https://www.letu.edu/aviation",
     "description": "University aviation degree program at KGGG. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.5007,
+    "longitude": -94.7405
   },
   {
     "id": "lamar_aviation",
@@ -2642,7 +2906,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KBMT.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 30.0802,
+    "longitude": -94.1266
   },
   {
     "id": "genesis_flight_college",
@@ -2663,7 +2929,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KEFD.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 29.7604,
+    "longitude": -95.3698
   },
   {
     "id": "corpus_christi_flight",
@@ -2682,7 +2950,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KCRP.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 27.7704,
+    "longitude": -97.5012
   },
   {
     "id": "san_jose_state_aviation",
@@ -2704,7 +2974,9 @@
     "priceRange": "$$$",
     "url": "https://www.sjsu.edu/aviation",
     "description": "University aviation degree program at KRHV. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.3326,
+    "longitude": -121.8198
   },
   {
     "id": "ny_vaughn_college",
@@ -2726,7 +2998,9 @@
     "priceRange": "$$$",
     "url": "https://www.vaughn.edu",
     "description": "Aviation degree program near KLGA. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.2,
+    "longitude": -74.9
   },
   {
     "id": "farmingdale_aviation",
@@ -2747,7 +3021,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "SUNY Part 141 aviation program at KFRG. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.7288,
+    "longitude": -73.4134
   },
   {
     "id": "mid_island_air",
@@ -2765,7 +3041,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KISP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.7952,
+    "longitude": -73.1002
   },
   {
     "id": "richmor_aviation",
@@ -2784,7 +3062,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KALB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.7483,
+    "longitude": -73.8017
   },
   {
     "id": "finger_lakes_flight",
@@ -2802,7 +3082,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KITH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.491,
+    "longitude": -76.4584
   },
   {
     "id": "buffalo_flight",
@@ -2821,7 +3103,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBUF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.9405,
+    "longitude": -78.7322
   },
   {
     "id": "rochester_flight",
@@ -2839,7 +3123,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KROC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.1189,
+    "longitude": -77.6724
   },
   {
     "id": "westchester_flight",
@@ -2857,7 +3143,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "Flight training at KHPN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.067,
+    "longitude": -73.7076
   },
   {
     "id": "penn_state_aviation",
@@ -2878,7 +3166,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University aviation degree program at KUNV. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.8493,
+    "longitude": -77.8493
   },
   {
     "id": "wings_field_flight",
@@ -2896,7 +3186,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLOM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1376,
+    "longitude": -75.2651
   },
   {
     "id": "pittsburgh_flight",
@@ -2915,7 +3207,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KAGC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.3544,
+    "longitude": -79.9302
   },
   {
     "id": "harrisburg_aviation",
@@ -2933,7 +3227,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCXY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.2,
+    "longitude": -77.2
   },
   {
     "id": "northeast_philadelphia_flight",
@@ -2952,7 +3248,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPNE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.0819,
+    "longitude": -75.0106
   },
   {
     "id": "brand_aviation",
@@ -2970,7 +3268,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KMQS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.2,
+    "longitude": -77.2
   },
   {
     "id": "williamsport_aviation",
@@ -2988,7 +3288,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KIPT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.2419,
+    "longitude": -76.9211
   },
   {
     "id": "lancaster_flight",
@@ -3006,7 +3308,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLNS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1217,
+    "longitude": -76.2961
   },
   {
     "id": "nc_guilford_tech_aviation",
@@ -3026,7 +3330,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KGSO.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.0978,
+    "longitude": -79.9373
   },
   {
     "id": "elizabeth_city_state_aviation",
@@ -3047,7 +3353,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "HBCU with Part 141 aviation program at KECG. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.8,
+    "longitude": -79.8
   },
   {
     "id": "charlotte_flight",
@@ -3066,7 +3374,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KJQF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.8,
+    "longitude": -79.8
   },
   {
     "id": "raleigh_flight",
@@ -3084,7 +3394,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTTA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.8,
+    "longitude": -79.8
   },
   {
     "id": "asheville_flight",
@@ -3102,7 +3414,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KAVL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.4362,
+    "longitude": -82.5418
   },
   {
     "id": "wilmington_flight",
@@ -3120,7 +3434,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KILM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.2706,
+    "longitude": -77.9026
   },
   {
     "id": "fayetteville_flight",
@@ -3138,7 +3454,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFAY. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 34.9912,
+    "longitude": -78.8803
   },
   {
     "id": "hickory_aviation",
@@ -3156,7 +3474,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHKY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.8,
+    "longitude": -79.8
   },
   {
     "id": "nj_princeton_flight",
@@ -3174,7 +3494,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at K39N. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1,
+    "longitude": -74.4
   },
   {
     "id": "certified_flyers",
@@ -3193,7 +3515,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLDJ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.6174,
+    "longitude": -74.2446
   },
   {
     "id": "academy_of_aviation_nj",
@@ -3215,7 +3539,9 @@
     "priceRange": "$$$",
     "url": "https://www.academyofaviation.com",
     "description": "Flight training at KTEB. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.8501,
+    "longitude": -74.0608
   },
   {
     "id": "monmouth_aviation",
@@ -3233,7 +3559,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBLM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1865,
+    "longitude": -74.1249
   },
   {
     "id": "airfleet_training",
@@ -3253,7 +3581,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KCDW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.8752,
+    "longitude": -74.2814
   },
   {
     "id": "cape_may_flight",
@@ -3271,7 +3601,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KWWD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1,
+    "longitude": -74.4
   },
   {
     "id": "lincoln_park_flight",
@@ -3289,7 +3621,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KN07. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1,
+    "longitude": -74.4
   },
   {
     "id": "sussex_airport_flight",
@@ -3307,7 +3641,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFWN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1,
+    "longitude": -74.4
   },
   {
     "id": "mtsu_aerospace",
@@ -3329,7 +3665,9 @@
     "priceRange": "$$$",
     "url": "https://www.mtsu.edu/aerospace",
     "description": "University aviation degree program at KMBT. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.5,
+    "longitude": -86.6
   },
   {
     "id": "nashville_flight_training",
@@ -3348,7 +3686,9 @@
     "priceRange": "$$",
     "url": "https://www.nashvilleflighttraining.com",
     "description": "Flight training at KJWN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.1824,
+    "longitude": -86.8867
   },
   {
     "id": "memphis_flight",
@@ -3366,7 +3706,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOLY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.5,
+    "longitude": -86.6
   },
   {
     "id": "knoxville_flight",
@@ -3384,7 +3726,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDKX. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.9606,
+    "longitude": -83.9207
   },
   {
     "id": "chattanooga_flight",
@@ -3403,7 +3747,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCHA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.0353,
+    "longitude": -85.2038
   },
   {
     "id": "tennessee_crosswinds",
@@ -3421,7 +3767,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCKV. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.5,
+    "longitude": -86.6
   },
   {
     "id": "smyrna_air_center",
@@ -3439,7 +3787,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMQY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.009,
+    "longitude": -86.5201
   },
   {
     "id": "tri_cities_aviation_tn",
@@ -3457,7 +3807,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTRI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.4752,
+    "longitude": -82.4074
   },
   {
     "id": "maryland_flight_academy",
@@ -3476,7 +3828,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KFDK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.4176,
+    "longitude": -77.3743
   },
   {
     "id": "chesapeake_flight_training",
@@ -3494,7 +3848,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KESN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0,
+    "longitude": -76.6
   },
   {
     "id": "bay_flight",
@@ -3512,7 +3868,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBAY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0,
+    "longitude": -76.6
   },
   {
     "id": "tipton_flight",
@@ -3530,7 +3888,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KFME. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0,
+    "longitude": -76.6
   },
   {
     "id": "hagerstown_flight",
@@ -3548,7 +3908,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHGR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0,
+    "longitude": -76.6
   },
   {
     "id": "bowie_aviation",
@@ -3566,7 +3928,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBWI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.1754,
+    "longitude": -76.6684
   },
   {
     "id": "freeway_airport_flight",
@@ -3584,7 +3948,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KW00. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0,
+    "longitude": -76.6
   },
   {
     "id": "montgomery_aviation_md",
@@ -3603,7 +3969,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGAI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.1684,
+    "longitude": -77.166
   },
   {
     "id": "sc_trident_tech",
@@ -3623,7 +3991,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KJZI.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.7009,
+    "longitude": -80.0028
   },
   {
     "id": "greenville_flight",
@@ -3642,7 +4012,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGMU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.8479,
+    "longitude": -82.35
   },
   {
     "id": "columbia_flight_sc",
@@ -3660,7 +4032,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCUB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.0007,
+    "longitude": -81.0348
   },
   {
     "id": "myrtle_beach_flight",
@@ -3678,7 +4052,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCRE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.8118,
+    "longitude": -78.7239
   },
   {
     "id": "spartanburg_aviation",
@@ -3696,7 +4072,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSPA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.187,
+    "longitude": -82.2189
   },
   {
     "id": "hilton_head_flight",
@@ -3714,7 +4092,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHXD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.8,
+    "longitude": -80.9
   },
   {
     "id": "anderson_aviation",
@@ -3732,7 +4112,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAND. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.8,
+    "longitude": -80.9
   },
   {
     "id": "florence_flight",
@@ -3750,7 +4132,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFLO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.1854,
+    "longitude": -79.7239
   },
   {
     "id": "oklahoma_state_aviation",
@@ -3772,7 +4156,9 @@
     "priceRange": "$$$",
     "url": "https://aviation.okstate.edu",
     "description": "University aviation degree program at KSWO. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.1612,
+    "longitude": -97.0859
   },
   {
     "id": "southeastern_oklahoma_aviation",
@@ -3793,7 +4179,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KDUA.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.6,
+    "longitude": -96.9
   },
   {
     "id": "okc_flight",
@@ -3812,7 +4200,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPWA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.5342,
+    "longitude": -97.6471
   },
   {
     "id": "sundance_aviation_ok",
@@ -3830,7 +4220,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHSD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.6,
+    "longitude": -96.9
   },
   {
     "id": "enid_aviation",
@@ -3848,7 +4240,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KWDG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.3792,
+    "longitude": -97.7911
   },
   {
     "id": "lawton_flight",
@@ -3866,7 +4260,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLAW. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 34.6036,
+    "longitude": -98.3959
   },
   {
     "id": "ponca_city_aviation",
@@ -3884,7 +4280,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPNC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.707,
+    "longitude": -97.0856
   },
   {
     "id": "norman_flight",
@@ -3902,7 +4300,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOUN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.6,
+    "longitude": -96.9
   },
   {
     "id": "louisiana_tech_aviation",
@@ -3923,7 +4323,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KRSN.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 30.5,
+    "longitude": -91.9
   },
   {
     "id": "nola_flight",
@@ -3942,7 +4344,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KNEW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 29.9251,
+    "longitude": -90.0282
   },
   {
     "id": "baton_rouge_flight",
@@ -3960,7 +4364,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBTR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.5332,
+    "longitude": -91.1497
   },
   {
     "id": "shreveport_flight",
@@ -3978,7 +4384,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDTN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.5,
+    "longitude": -91.9
   },
   {
     "id": "lafayette_flight",
@@ -3996,7 +4404,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLFT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.2053,
+    "longitude": -91.9876
   },
   {
     "id": "hammond_flight",
@@ -4014,7 +4424,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHDC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.5,
+    "longitude": -91.9
   },
   {
     "id": "lake_charles_flight",
@@ -4032,7 +4444,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLCH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.1261,
+    "longitude": -93.2234
   },
   {
     "id": "monroe_flight",
@@ -4050,7 +4464,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMLU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.5109,
+    "longitude": -92.0377
   },
   {
     "id": "silver_state_helicopters_las_vegas",
@@ -4071,7 +4487,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KVGT. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.2107,
+    "longitude": -115.1944
   },
   {
     "id": "henderson_flight",
@@ -4090,7 +4508,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHND. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.9728,
+    "longitude": -115.1344
   },
   {
     "id": "reno_flight",
@@ -4108,7 +4528,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRNO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.4991,
+    "longitude": -119.7681
   },
   {
     "id": "nellis_aero_club",
@@ -4126,7 +4548,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "Flight training at KVGT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.2107,
+    "longitude": -115.1944
   },
   {
     "id": "carson_city_flight",
@@ -4144,7 +4568,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCXP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.8,
+    "longitude": -116.4
   },
   {
     "id": "elko_aviation",
@@ -4162,7 +4588,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEKO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.8324,
+    "longitude": -115.7631
   },
   {
     "id": "mesquite_flight",
@@ -4180,7 +4608,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at K67L. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.8,
+    "longitude": -116.4
   },
   {
     "id": "north_las_vegas_flight",
@@ -4198,7 +4628,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KVGT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.2107,
+    "longitude": -115.1944
   },
   {
     "id": "university_of_minnesota_aviation",
@@ -4219,7 +4651,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KCKN.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 46.7,
+    "longitude": -94.7
   },
   {
     "id": "thunderbird_aviation_mn",
@@ -4240,7 +4674,9 @@
     "priceRange": "$$",
     "url": "https://www.thunderbirdaviation.com",
     "description": "Flight training at KFCM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.8272,
+    "longitude": -93.4572
   },
   {
     "id": "north_star_aviation_mn",
@@ -4258,7 +4694,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMKT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.7,
+    "longitude": -94.7
   },
   {
     "id": "st_cloud_aviation",
@@ -4276,7 +4714,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSTC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.5466,
+    "longitude": -94.0589
   },
   {
     "id": "duluth_flight",
@@ -4294,7 +4734,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDLH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.8421,
+    "longitude": -92.1936
   },
   {
     "id": "anoka_flight",
@@ -4312,7 +4754,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KANE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.7,
+    "longitude": -94.7
   },
   {
     "id": "rochester_mn_flight",
@@ -4330,7 +4774,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRST. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.9083,
+    "longitude": -92.498
   },
   {
     "id": "winona_state_aviation",
@@ -4349,7 +4795,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KONA.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 19.7389,
+    "longitude": -156.0456
   },
   {
     "id": "fox_valley_aviation",
@@ -4368,7 +4816,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOSH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.9844,
+    "longitude": -88.557
   },
   {
     "id": "wisconsin_aviation",
@@ -4389,7 +4839,9 @@
     "priceRange": "$$",
     "url": "https://www.wisconsinaviation.com",
     "description": "Flight training at KRYV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.7612,
+    "longitude": -88.7284
   },
   {
     "id": "milwaukee_flight",
@@ -4408,7 +4860,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KMWC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.8,
+    "longitude": -89.0
   },
   {
     "id": "madison_flight",
@@ -4427,7 +4881,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KC29. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.8,
+    "longitude": -89.0
   },
   {
     "id": "appleton_flight",
@@ -4445,7 +4901,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KATW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.2581,
+    "longitude": -88.5191
   },
   {
     "id": "green_bay_flight",
@@ -4463,7 +4921,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGRB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.4851,
+    "longitude": -88.1296
   },
   {
     "id": "la_crosse_flight",
@@ -4481,7 +4941,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLSE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.8793,
+    "longitude": -91.2567
   },
   {
     "id": "janesville_flight",
@@ -4499,7 +4961,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KJVL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.6203,
+    "longitude": -89.0416
   },
   {
     "id": "indiana_state_aviation",
@@ -4521,7 +4985,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University aviation degree program at KHUF. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.4515,
+    "longitude": -87.3076
   },
   {
     "id": "eagle_creek_aviation",
@@ -4540,7 +5006,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KEYE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.8294,
+    "longitude": -86.2942
   },
   {
     "id": "muncie_aviation",
@@ -4558,7 +5026,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMIE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.2423,
+    "longitude": -85.3959
   },
   {
     "id": "fort_wayne_flight",
@@ -4576,7 +5046,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSMD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.3,
+    "longitude": -86.1
   },
   {
     "id": "south_bend_flight",
@@ -4594,7 +5066,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSBN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.7087,
+    "longitude": -86.3173
   },
   {
     "id": "evansville_flight",
@@ -4612,7 +5086,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEVV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.3,
+    "longitude": -86.1
   },
   {
     "id": "bloomington_flight_in",
@@ -4630,7 +5106,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBMG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.146,
+    "longitude": -86.6167
   },
   {
     "id": "columbus_in_flight",
@@ -4648,7 +5126,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBAK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.3,
+    "longitude": -86.1
   },
   {
     "id": "saint_louis_university_aviation",
@@ -4670,7 +5150,9 @@
     "priceRange": "$$$",
     "url": "https://www.slu.edu/parks",
     "description": "University aviation degree program at KCPS. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 38.5,
+    "longitude": -92.5
   },
   {
     "id": "kansas_city_flight",
@@ -4689,7 +5171,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KMKC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.5,
+    "longitude": -92.5
   },
   {
     "id": "spirit_aviation_mo",
@@ -4707,7 +5191,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSUS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.6621,
+    "longitude": -90.652
   },
   {
     "id": "springfield_flight_mo",
@@ -4725,7 +5211,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSGF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.2457,
+    "longitude": -93.3886
   },
   {
     "id": "columbia_flight_mo",
@@ -4743,7 +5231,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCOU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.8181,
+    "longitude": -92.2196
   },
   {
     "id": "joplin_flight",
@@ -4761,7 +5251,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KJLN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.1519,
+    "longitude": -94.4983
   },
   {
     "id": "sedalia_flight",
@@ -4779,7 +5271,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDMO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.7076,
+    "longitude": -92.5488
   },
   {
     "id": "cape_girardeau_flight",
@@ -4797,7 +5291,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCGI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.3059,
+    "longitude": -89.5181
   },
   {
     "id": "kansas_state_aviation",
@@ -4819,7 +5315,9 @@
     "priceRange": "$$",
     "url": "https://www.salina.k-state.edu/aviation",
     "description": "K-State Polytechnic aviation degree program at KSLN. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 38.791,
+    "longitude": -97.6522
   },
   {
     "id": "wichita_state_aviation",
@@ -4840,7 +5338,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KICT.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.6499,
+    "longitude": -97.4331
   },
   {
     "id": "topeka_flight",
@@ -4858,7 +5358,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTOP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0687,
+    "longitude": -95.6225
   },
   {
     "id": "manhattan_flight_ks",
@@ -4876,7 +5378,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMHK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.141,
+    "longitude": -96.6708
   },
   {
     "id": "garden_city_aviation",
@@ -4894,7 +5398,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGCK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.9275,
+    "longitude": -100.7244
   },
   {
     "id": "olathe_flight",
@@ -4913,7 +5419,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KOJC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.8476,
+    "longitude": -94.7376
   },
   {
     "id": "hutchinson_flight",
@@ -4931,7 +5439,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHUT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.0655,
+    "longitude": -97.8606
   },
   {
     "id": "dodge_city_flight",
@@ -4949,7 +5459,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDDC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.5,
+    "longitude": -98.8
   },
   {
     "id": "ohio_university_aviation",
@@ -4970,7 +5482,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University aviation degree program at KUNI. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.4,
+    "longitude": -82.9
   },
   {
     "id": "toledo_flight",
@@ -4988,7 +5502,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTOL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.5868,
+    "longitude": -83.8078
   },
   {
     "id": "cleveland_flight",
@@ -5007,7 +5523,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBKL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.5175,
+    "longitude": -81.6833
   },
   {
     "id": "cincinnati_flight",
@@ -5026,7 +5544,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLUK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.1033,
+    "longitude": -84.4186
   },
   {
     "id": "michigan_state_flight",
@@ -5044,7 +5564,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLNR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.3,
+    "longitude": -84.5
   },
   {
     "id": "flint_flight",
@@ -5062,7 +5584,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFNT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.9655,
+    "longitude": -83.7436
   },
   {
     "id": "muskegon_flight",
@@ -5080,7 +5604,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMKG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.1695,
+    "longitude": -86.2382
   },
   {
     "id": "saginaw_flight",
@@ -5098,7 +5624,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMBS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5329,
+    "longitude": -84.0796
   },
   {
     "id": "il_aviation_institute",
@@ -5119,7 +5647,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDPA. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 41.9078,
+    "longitude": -88.2486
   },
   {
     "id": "chicago_executive_flight",
@@ -5138,7 +5668,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPWK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.1142,
+    "longitude": -87.9015
   },
   {
     "id": "rockford_flight",
@@ -5156,7 +5688,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRFD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.6,
+    "longitude": -89.4
   },
   {
     "id": "peoria_flight",
@@ -5175,7 +5709,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPIA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.6642,
+    "longitude": -89.6933
   },
   {
     "id": "ga_augusta_flight",
@@ -5193,7 +5729,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAGS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.37,
+    "longitude": -81.9645
   },
   {
     "id": "ga_macon_flight",
@@ -5211,7 +5749,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMCN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.6928,
+    "longitude": -83.6492
   },
   {
     "id": "ga_valdosta_flight",
@@ -5229,7 +5769,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KVLD. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 30.7825,
+    "longitude": -83.2767
   },
   {
     "id": "ga_athens_flight",
@@ -5247,7 +5789,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAHN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.0,
+    "longitude": -83.5
   },
   {
     "id": "co_colorado_springs",
@@ -5266,7 +5810,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KCOS. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 38.8058,
+    "longitude": -104.7008
   },
   {
     "id": "co_pueblo_flight",
@@ -5284,7 +5830,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPUB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.289,
+    "longitude": -104.4967
   },
   {
     "id": "co_erie_flight",
@@ -5302,7 +5850,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KEIK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.0105,
+    "longitude": -105.048
   },
   {
     "id": "co_durango_flight",
@@ -5320,7 +5870,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDRO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.1515,
+    "longitude": -107.7538
   },
   {
     "id": "va_norfolk_flight",
@@ -5338,7 +5890,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KORF. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.8946,
+    "longitude": -76.2012
   },
   {
     "id": "va_roanoke_flight",
@@ -5356,7 +5910,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KROA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.3255,
+    "longitude": -79.9754
   },
   {
     "id": "va_leesburg_flight",
@@ -5374,7 +5930,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KJYO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0779,
+    "longitude": -77.5575
   },
   {
     "id": "va_winchester_flight",
@@ -5392,7 +5950,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOKV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.1694,
+    "longitude": -77.962
   },
   {
     "id": "bridgewater_state_aviation",
@@ -5414,7 +5974,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "University aviation degree program at KOWD. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.1904,
+    "longitude": -71.1735
   },
   {
     "id": "east_coast_aero_club",
@@ -5435,7 +5997,9 @@
     "priceRange": "$$",
     "url": "https://www.eastcoastaeroclub.com",
     "description": "Flight training at KBED. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.47,
+    "longitude": -71.289
   },
   {
     "id": "cape_air_pilot_dev",
@@ -5456,7 +6020,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Cape Air pilot pipeline program at KHYA. Part 141.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.6693,
+    "longitude": -70.2804
   },
   {
     "id": "northampton_flight",
@@ -5474,7 +6040,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at K7B2. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.4,
+    "longitude": -71.4
   },
   {
     "id": "plymouth_flight",
@@ -5492,7 +6060,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPYM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.9091,
+    "longitude": -70.7288
   },
   {
     "id": "ct_conn_aviation",
@@ -5511,7 +6081,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHFD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.7367,
+    "longitude": -72.6494
   },
   {
     "id": "ct_danbury_flight",
@@ -5529,7 +6101,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDXR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3716,
+    "longitude": -73.4822
   },
   {
     "id": "ct_groton_flight",
@@ -5547,7 +6121,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGON. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3301,
+    "longitude": -72.0451
   },
   {
     "id": "ri_north_central",
@@ -5565,7 +6141,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSFZ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.9208,
+    "longitude": -71.4914
   },
   {
     "id": "ri_westerly_flight",
@@ -5583,7 +6161,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KWST. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3496,
+    "longitude": -71.8033
   },
   {
     "id": "ri_newport_flight",
@@ -5601,7 +6181,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KUUU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.7,
+    "longitude": -71.5
   },
   {
     "id": "nh_laconia_flight",
@@ -5619,7 +6201,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLCI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5727,
+    "longitude": -72.95
   },
   {
     "id": "nh_nashua_flight",
@@ -5638,7 +6222,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KASH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.7817,
+    "longitude": -71.5148
   },
   {
     "id": "nh_daniel_webster",
@@ -5659,7 +6245,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KASH.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.7817,
+    "longitude": -71.5148
   },
   {
     "id": "vt_burlington_flight",
@@ -5677,7 +6265,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBTV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.472,
+    "longitude": -73.1533
   },
   {
     "id": "vt_stowe_aviation",
@@ -5695,7 +6285,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMVL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.5348,
+    "longitude": -72.614
   },
   {
     "id": "vt_rutland_flight",
@@ -5713,7 +6305,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRUT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5294,
+    "longitude": -72.9496
   },
   {
     "id": "me_portland_flight",
@@ -5732,7 +6326,9 @@
     "priceRange": "$$",
     "url": "https://www.maineinstrumentflight.com",
     "description": "Flight training at KPWM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.6462,
+    "longitude": -70.3093
   },
   {
     "id": "me_bangor_flight",
@@ -5750,7 +6346,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBGR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.8074,
+    "longitude": -68.8281
   },
   {
     "id": "de_wilmington_flight",
@@ -5769,7 +6367,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KILG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.6787,
+    "longitude": -75.6065
   },
   {
     "id": "de_dover_flight",
@@ -5787,7 +6387,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDOV. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.3,
+    "longitude": -75.5
   },
   {
     "id": "de_georgetown_flight",
@@ -5805,7 +6407,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGED. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.6893,
+    "longitude": -75.3589
   },
   {
     "id": "wv_yeager_flight",
@@ -5823,7 +6427,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCRW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.3731,
+    "longitude": -81.5932
   },
   {
     "id": "wv_morgantown_flight",
@@ -5841,7 +6447,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMGW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.6429,
+    "longitude": -79.9163
   },
   {
     "id": "wv_martinsburg_flight",
@@ -5859,7 +6467,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMRB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.6,
+    "longitude": -80.6
   },
   {
     "id": "ky_western_ky_aviation",
@@ -5880,7 +6490,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University aviation degree program at KBWG. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 36.9645,
+    "longitude": -86.4197
   },
   {
     "id": "ky_lexington_flight",
@@ -5898,7 +6510,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLEX. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.0365,
+    "longitude": -84.6059
   },
   {
     "id": "ky_louisville_flight",
@@ -5917,7 +6531,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLOU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.8,
+    "longitude": -84.3
   },
   {
     "id": "ms_delta_state_aviation",
@@ -5938,7 +6554,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KRNV.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.7,
+    "longitude": -89.5
   },
   {
     "id": "ms_jackson_flight",
@@ -5956,7 +6574,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHKS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.2988,
+    "longitude": -90.1848
   },
   {
     "id": "ms_gulfport_flight",
@@ -5974,7 +6594,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGPT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.4073,
+    "longitude": -89.0701
   },
   {
     "id": "ar_ualr_aviation",
@@ -5994,7 +6616,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KLIT.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 34.7294,
+    "longitude": -92.2243
   },
   {
     "id": "ar_texarkana_flight",
@@ -6012,7 +6636,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTXK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.4538,
+    "longitude": -93.991
   },
   {
     "id": "ia_university_of_dubuque_aviation",
@@ -6034,7 +6660,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "University aviation degree program at KDBQ. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.402,
+    "longitude": -90.7095
   },
   {
     "id": "ia_des_moines_flight",
@@ -6053,7 +6681,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDSM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.534,
+    "longitude": -93.6631
   },
   {
     "id": "ia_cedar_rapids_flight",
@@ -6071,7 +6701,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCID. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.8847,
+    "longitude": -91.7108
   },
   {
     "id": "ne_nebraska_aviation",
@@ -6092,7 +6724,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University aviation degree program at KOMA. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 41.3032,
+    "longitude": -95.8941
   },
   {
     "id": "ne_lincoln_flight",
@@ -6110,7 +6744,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLNK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.851,
+    "longitude": -96.7592
   },
   {
     "id": "ne_north_platte_flight",
@@ -6128,7 +6764,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLBF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1262,
+    "longitude": -100.6836
   },
   {
     "id": "sd_south_dakota_state_aviation",
@@ -6149,7 +6787,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University aviation degree program at KBKX. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 43.9,
+    "longitude": -99.4
   },
   {
     "id": "sd_sioux_falls_flight",
@@ -6167,7 +6807,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFSD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.582,
+    "longitude": -100.286
   },
   {
     "id": "sd_rapid_city_flight",
@@ -6185,7 +6827,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRAP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.0453,
+    "longitude": -103.0574
   },
   {
     "id": "nd_minot_flight",
@@ -6203,7 +6847,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMOT. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 48.2594,
+    "longitude": -101.2803
   },
   {
     "id": "nd_bismarck_flight",
@@ -6221,7 +6867,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBIS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.7727,
+    "longitude": -100.7467
   },
   {
     "id": "nd_fargo_flight",
@@ -6240,7 +6888,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFAR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.9207,
+    "longitude": -96.8158
   },
   {
     "id": "mt_rocky_mountain_flight",
@@ -6258,7 +6908,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHLN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.6068,
+    "longitude": -111.9828
   },
   {
     "id": "mt_missoula_flight",
@@ -6276,7 +6928,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMSO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.9163,
+    "longitude": -114.0906
   },
   {
     "id": "mt_billings_flight",
@@ -6294,7 +6948,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBIL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.8077,
+    "longitude": -108.543
   },
   {
     "id": "wy_jackson_flight",
@@ -6312,7 +6968,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KJAC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.6073,
+    "longitude": -110.7377
   },
   {
     "id": "wy_casper_flight",
@@ -6330,7 +6988,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCPR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.908,
+    "longitude": -106.4645
   },
   {
     "id": "wy_cheyenne_flight",
@@ -6348,7 +7008,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCYS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1557,
+    "longitude": -104.8118
   },
   {
     "id": "id_boise_flight",
@@ -6367,7 +7029,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBOI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5644,
+    "longitude": -116.2228
   },
   {
     "id": "id_idaho_falls_flight",
@@ -6385,7 +7049,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KIDA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5144,
+    "longitude": -112.0702
   },
   {
     "id": "id_lewiston_flight",
@@ -6403,7 +7069,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLWS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.3745,
+    "longitude": -117.0154
   },
   {
     "id": "nm_albuquerque_flight",
@@ -6422,7 +7090,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAEG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.8,
+    "longitude": -106.2
   },
   {
     "id": "nm_santa_fe_flight",
@@ -6440,7 +7110,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSAF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.6171,
+    "longitude": -106.0892
   },
   {
     "id": "nm_las_cruces_flight",
@@ -6458,7 +7130,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLRU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.2894,
+    "longitude": -106.9219
   },
   {
     "id": "hi_george_aviation",
@@ -6477,7 +7151,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHNL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "hi_maui_flight",
@@ -6495,7 +7171,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHOG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "hi_barbers_point",
@@ -6513,7 +7191,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHJR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "ak_alaska_flight_training",
@@ -6532,7 +7212,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PALH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "ak_fairbanks_flight",
@@ -6550,7 +7232,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PAFA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "ak_alaska_aero",
@@ -6571,7 +7255,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at PAMR.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "cae_dallas",
@@ -6593,7 +7279,9 @@
     "priceRange": "$$$",
     "url": "https://www.cae.com",
     "description": "CAE Part 141 academy at KADS. Airline cadet programs.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.9686,
+    "longitude": -96.8364
   },
   {
     "id": "tradewind_aviation_ct",
@@ -6612,7 +7300,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KOXC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.4786,
+    "longitude": -73.1352
   },
   {
     "id": "sussex_air_nj",
@@ -6630,7 +7320,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at K3N6. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.1,
+    "longitude": -74.4
   },
   {
     "id": "phoenixville_flight_pa",
@@ -6648,7 +7340,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPTW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.3196,
+    "longitude": -75.5569
   },
   {
     "id": "erie_pa_flight",
@@ -6666,7 +7360,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KERI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.0831,
+    "longitude": -80.1762
   },
   {
     "id": "nd_wahpeton_flight",
@@ -6685,7 +7381,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KBWP.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 47.5,
+    "longitude": -100.5
   },
   {
     "id": "huntsville_flight",
@@ -6703,7 +7401,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMDQ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.8,
+    "longitude": -86.8
   },
   {
     "id": "tuscaloosa_flight",
@@ -6721,7 +7421,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTCL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.2206,
+    "longitude": -87.6114
   },
   {
     "id": "dothan_flight",
@@ -6739,7 +7441,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDHN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 31.3213,
+    "longitude": -85.4496
   },
   {
     "id": "syracuse_flight",
@@ -6757,7 +7461,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSYR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.1112,
+    "longitude": -76.1063
   },
   {
     "id": "poughkeepsie_flight",
@@ -6775,7 +7481,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPOU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.6266,
+    "longitude": -73.8842
   },
   {
     "id": "ga_columbus_flight",
@@ -6793,7 +7501,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCSG. Part 61.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.5163,
+    "longitude": -84.9389
   },
   {
     "id": "va_staunton_flight",
@@ -6811,7 +7521,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSHD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.2638,
+    "longitude": -78.8964
   },
   {
     "id": "sc_rock_hill_flight",
@@ -6829,7 +7541,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KUZA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.8,
+    "longitude": -80.9
   },
   {
     "id": "tn_jackson_flight",
@@ -6847,7 +7561,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMKL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.5999,
+    "longitude": -88.9156
   },
   {
     "id": "la_houma_flight",
@@ -6865,7 +7581,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHUM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.5,
+    "longitude": -91.9
   },
   {
     "id": "nv_pahrump_flight",
@@ -6883,7 +7601,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KL62. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.8,
+    "longitude": -116.4
   },
   {
     "id": "wi_waukesha_flight",
@@ -6902,7 +7622,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KUES. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.8,
+    "longitude": -89.0
   },
   {
     "id": "mo_lee_summit_flight",
@@ -6920,7 +7642,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLXT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.5,
+    "longitude": -92.5
   },
   {
     "id": "ks_emporia_flight",
@@ -6938,7 +7662,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEMP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.5,
+    "longitude": -98.8
   },
   {
     "id": "al_decatur_flight",
@@ -6956,7 +7682,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDCU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.6527,
+    "longitude": -86.9453
   },
   {
     "id": "or_salem_flight",
@@ -6974,7 +7702,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSLE. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.9095,
+    "longitude": -123.0026
   },
   {
     "id": "wa_yakima_flight",
@@ -6992,7 +7722,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KYKM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.5682,
+    "longitude": -120.544
   },
   {
     "id": "nj_morristown_flight",
@@ -7011,7 +7743,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "Flight training at KMMU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.7994,
+    "longitude": -74.4149
   },
   {
     "id": "md_gaithersburg_flight",
@@ -7031,7 +7765,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGAI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.1684,
+    "longitude": -77.166
   },
   {
     "id": "alabama_aviation_center",
@@ -7051,7 +7787,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KOZR. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 31.2785,
+    "longitude": -85.7134
   },
   {
     "id": "regal_air_ak",
@@ -7069,7 +7807,9 @@
     "priceRange": "$$",
     "url": "https://www.regalair.com",
     "description": "Flight training at PAMR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "learn_to_fly_alaska",
@@ -7088,7 +7828,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PALH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "university_alaska_aviation",
@@ -7108,7 +7850,9 @@
     "priceRange": "$$",
     "url": "https://www.uaf.edu/aviation",
     "description": "Part 141 aviation program at PAFA.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "juneau_flight",
@@ -7126,7 +7870,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PAJN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "kenai_flight",
@@ -7144,7 +7890,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PAEN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 64.2,
+    "longitude": -152.5
   },
   {
     "id": "hillcrest_aviation",
@@ -7162,7 +7910,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFYV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.0051,
+    "longitude": -94.17
   },
   {
     "id": "central_flying_service",
@@ -7181,7 +7931,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLIT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.7294,
+    "longitude": -92.2243
   },
   {
     "id": "henderson_state_aviation",
@@ -7200,7 +7952,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KADF.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.2,
+    "longitude": -91.8
   },
   {
     "id": "northwest_arkansas_flight",
@@ -7219,7 +7973,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KVBT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.2,
+    "longitude": -91.8
   },
   {
     "id": "jonesboro_flight",
@@ -7237,7 +7993,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KJBR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 35.8423,
+    "longitude": -90.7043
   },
   {
     "id": "american_flight_academy_ct",
@@ -7256,7 +8014,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHVN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.2637,
+    "longitude": -72.8868
   },
   {
     "id": "ct_flight_school",
@@ -7274,7 +8034,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDXR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3716,
+    "longitude": -73.4822
   },
   {
     "id": "bridgeport_flight_school",
@@ -7292,7 +8054,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBDR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1635,
+    "longitude": -73.1262
   },
   {
     "id": "hartford_flight",
@@ -7310,7 +8074,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHFD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.7367,
+    "longitude": -72.6494
   },
   {
     "id": "oxford_flight_ct",
@@ -7329,7 +8095,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KOXC. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.4786,
+    "longitude": -73.1352
   },
   {
     "id": "summit_aviation_de",
@@ -7348,7 +8116,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KILG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.6787,
+    "longitude": -75.6065
   },
   {
     "id": "del_state_aviation",
@@ -7369,7 +8139,9 @@
     "priceRange": "$$",
     "url": "https://www.desu.edu/aviation",
     "description": "HBCU with Part 141 aviation program at KDOV. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.3,
+    "longitude": -75.5
   },
   {
     "id": "maui_aviators",
@@ -7386,7 +8158,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHOG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "pacific_skies_hi",
@@ -7404,7 +8178,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHJR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "big_island_flight",
@@ -7422,7 +8198,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHTO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "kauai_flight",
@@ -7439,7 +8217,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at PHLI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 19.9,
+    "longitude": -155.6
   },
   {
     "id": "idaho_flight_academy",
@@ -7458,7 +8238,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBOI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5644,
+    "longitude": -116.2228
   },
   {
     "id": "coeur_dalene_flight",
@@ -7475,7 +8257,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSZT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.1,
+    "longitude": -114.7
   },
   {
     "id": "if_flight_training",
@@ -7493,7 +8277,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KIDA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5144,
+    "longitude": -112.0702
   },
   {
     "id": "pocatello_flight",
@@ -7511,7 +8297,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPIH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.9098,
+    "longitude": -112.5959
   },
   {
     "id": "sun_valley_flight",
@@ -7529,7 +8317,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KSUN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5044,
+    "longitude": -114.2966
   },
   {
     "id": "iowa_state_flying",
@@ -7546,7 +8336,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAMW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.9921,
+    "longitude": -93.6218
   },
   {
     "id": "executive_flight_training_ia",
@@ -7565,7 +8357,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KDSM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.534,
+    "longitude": -93.6631
   },
   {
     "id": "dubuque_flight_training",
@@ -7582,7 +8376,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KDBQ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.402,
+    "longitude": -90.7095
   },
   {
     "id": "iowa_western_aviation",
@@ -7601,7 +8397,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KCBF.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.0,
+    "longitude": -93.2
   },
   {
     "id": "hesston_college_aviation",
@@ -7620,7 +8418,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KHUT.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 38.0655,
+    "longitude": -97.8606
   },
   {
     "id": "garden_city_flight",
@@ -7637,7 +8437,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGCK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.9275,
+    "longitude": -100.7244
   },
   {
     "id": "eastern_ky_aviation",
@@ -7658,7 +8460,9 @@
     "priceRange": "$$",
     "url": "https://aviation.eku.edu",
     "description": "Part 141 aviation program at KRGA.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.8,
+    "longitude": -84.3
   },
   {
     "id": "cardinal_wings_aviation",
@@ -7676,7 +8480,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLOU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.8,
+    "longitude": -84.3
   },
   {
     "id": "blue_grass_flight",
@@ -7694,7 +8500,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KLEX. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.0365,
+    "longitude": -84.6059
   },
   {
     "id": "murray_state_aviation",
@@ -7713,7 +8521,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KCEY.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 37.8,
+    "longitude": -84.3
   },
   {
     "id": "paducah_flight",
@@ -7731,7 +8541,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPAH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.0603,
+    "longitude": -88.7727
   },
   {
     "id": "southern_university_aviation",
@@ -7750,7 +8562,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "HBCU with Part 141 aviation program at KBTR.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 30.5332,
+    "longitude": -91.1497
   },
   {
     "id": "northeast_flight_me",
@@ -7768,7 +8582,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPWM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.6462,
+    "longitude": -70.3093
   },
   {
     "id": "downeast_aviation",
@@ -7785,7 +8601,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPQI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.6891,
+    "longitude": -68.0448
   },
   {
     "id": "augusta_flight_me",
@@ -7803,7 +8621,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KAUG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.3206,
+    "longitude": -69.7973
   },
   {
     "id": "bay_flight_training",
@@ -7821,7 +8641,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KESN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0,
+    "longitude": -76.6
   },
   {
     "id": "cape_air_flight",
@@ -7839,7 +8661,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KHYA. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.6693,
+    "longitude": -70.2804
   },
   {
     "id": "norwood_flight",
@@ -7857,7 +8681,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KOWD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.1904,
+    "longitude": -71.1735
   },
   {
     "id": "lake_superior_aviation",
@@ -7876,7 +8702,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KDLH.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 46.8421,
+    "longitude": -92.1936
   },
   {
     "id": "st_cloud_state_aviation",
@@ -7896,7 +8724,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KSTC.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 45.5466,
+    "longitude": -94.0589
   },
   {
     "id": "delta_state_aviation",
@@ -7916,7 +8746,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KRNV.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 32.7,
+    "longitude": -89.5
   },
   {
     "id": "tupelo_flight_training",
@@ -7934,7 +8766,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTUP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.2576,
+    "longitude": -88.7034
   },
   {
     "id": "gulfport_aviation",
@@ -7952,7 +8786,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGPT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 30.4073,
+    "longitude": -89.0701
   },
   {
     "id": "meridian_flight",
@@ -7970,7 +8806,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMEI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.3643,
+    "longitude": -88.7037
   },
   {
     "id": "rocky_mountain_flight_mt",
@@ -7988,7 +8826,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBIL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.8077,
+    "longitude": -108.543
   },
   {
     "id": "glacier_aviation_mt",
@@ -8006,7 +8846,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGPI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.8,
+    "longitude": -110.4
   },
   {
     "id": "missoula_flight",
@@ -8024,7 +8866,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KMSO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.9163,
+    "longitude": -114.0906
   },
   {
     "id": "bozeman_flight",
@@ -8042,7 +8886,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBZN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.7775,
+    "longitude": -111.153
   },
   {
     "id": "lincoln_flight_training",
@@ -8060,7 +8906,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLNK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.851,
+    "longitude": -96.7592
   },
   {
     "id": "silverhawk_aviation",
@@ -8079,7 +8927,9 @@
     "priceRange": "$$",
     "url": "https://www.silverhawkaviation.com",
     "description": "Flight training at KLNK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.851,
+    "longitude": -96.7592
   },
   {
     "id": "kearney_flight",
@@ -8097,7 +8947,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEAR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.727,
+    "longitude": -99.0068
   },
   {
     "id": "north_platte_flight",
@@ -8114,7 +8966,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLBF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1262,
+    "longitude": -100.6836
   },
   {
     "id": "sierra_aviation_nv",
@@ -8133,7 +8987,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KRNO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.4991,
+    "longitude": -119.7681
   },
   {
     "id": "granite_state_flight",
@@ -8152,7 +9008,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KASH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.7817,
+    "longitude": -71.5148
   },
   {
     "id": "manchester_nh_flight",
@@ -8170,7 +9028,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KMHT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.9326,
+    "longitude": -71.4357
   },
   {
     "id": "laconia_flight",
@@ -8188,7 +9048,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLCI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.5727,
+    "longitude": -72.95
   },
   {
     "id": "keene_flight",
@@ -8205,7 +9067,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEEN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.8984,
+    "longitude": -72.2718
   },
   {
     "id": "sierra_blanca_flight",
@@ -8223,7 +9087,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLRU. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.2894,
+    "longitude": -106.9219
   },
   {
     "id": "wnmu_aviation",
@@ -8242,7 +9108,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KSVC.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 34.8,
+    "longitude": -106.2
   },
   {
     "id": "roswell_flight",
@@ -8260,7 +9128,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KROW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.8,
+    "longitude": -106.2
   },
   {
     "id": "blue_line_aviation",
@@ -8282,7 +9152,9 @@
     "priceRange": "$$",
     "url": "https://bluelineaviation.com",
     "description": "Flight training at KRDU. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.8776,
+    "longitude": -78.7875
   },
   {
     "id": "sandhills_flight",
@@ -8301,7 +9173,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KSOP.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.8,
+    "longitude": -79.8
   },
   {
     "id": "fargo_jet_flight",
@@ -8320,7 +9194,9 @@
     "priceRange": "$$",
     "url": "https://www.fargojet.com",
     "description": "Flight training at KFAR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.9207,
+    "longitude": -96.8158
   },
   {
     "id": "ou_aviation",
@@ -8341,7 +9217,9 @@
     "priceRange": "$$",
     "url": "https://www.ou.edu/aviation",
     "description": "University Part 141 aviation program at KOUN. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.6,
+    "longitude": -96.9
   },
   {
     "id": "lane_cc_aviation",
@@ -8360,7 +9238,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KEUG.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 44.1246,
+    "longitude": -123.2119
   },
   {
     "id": "new_england_flight_ri",
@@ -8379,7 +9259,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPVD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.7267,
+    "longitude": -71.4325
   },
   {
     "id": "north_central_flight_ri",
@@ -8397,7 +9279,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSFZ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.9208,
+    "longitude": -71.4914
   },
   {
     "id": "westerly_flight",
@@ -8414,7 +9298,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KWST. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3496,
+    "longitude": -71.8033
   },
   {
     "id": "sc_aeronautics",
@@ -8433,7 +9319,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KCAE. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 33.9389,
+    "longitude": -81.1195
   },
   {
     "id": "sioux_falls_flight",
@@ -8451,7 +9339,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFSD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.582,
+    "longitude": -100.286
   },
   {
     "id": "rapid_city_flight",
@@ -8469,7 +9359,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KRAP. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.0453,
+    "longitude": -103.0574
   },
   {
     "id": "pierre_flight",
@@ -8486,7 +9378,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPIR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.3827,
+    "longitude": -100.286
   },
   {
     "id": "austin_peay_aviation",
@@ -8505,7 +9399,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KCKV.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 35.5,
+    "longitude": -86.6
   },
   {
     "id": "utah_state_aviation",
@@ -8526,7 +9422,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "University Part 141 aviation program at KLGU. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 41.737,
+    "longitude": -111.8338
   },
   {
     "id": "uvu_aviation",
@@ -8548,7 +9446,9 @@
     "priceRange": "$$",
     "url": "https://www.uvu.edu/aviation",
     "description": "University Part 141 aviation program at KPVU. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.2191,
+    "longitude": -111.7234
   },
   {
     "id": "westminster_aviation",
@@ -8568,7 +9468,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KSLC.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.7884,
+    "longitude": -111.9778
   },
   {
     "id": "burlington_flight_vt",
@@ -8586,7 +9488,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBTV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.472,
+    "longitude": -73.1533
   },
   {
     "id": "green_mountain_aviation",
@@ -8603,7 +9507,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMVL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.5348,
+    "longitude": -72.614
   },
   {
     "id": "bellingham_flight",
@@ -8621,7 +9527,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBLI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 48.7927,
+    "longitude": -122.5375
   },
   {
     "id": "pierpont_aviation",
@@ -8640,7 +9548,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KCKB.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.2966,
+    "longitude": -80.2281
   },
   {
     "id": "mountaineer_aviation",
@@ -8658,7 +9568,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMGW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.6429,
+    "longitude": -79.9163
   },
   {
     "id": "charleston_wv_flight",
@@ -8676,7 +9588,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KCRW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.3731,
+    "longitude": -81.5932
   },
   {
     "id": "parkersburg_flight",
@@ -8694,7 +9608,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPKB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.3451,
+    "longitude": -81.4392
   },
   {
     "id": "gateway_tech_aviation",
@@ -8713,7 +9629,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KENW.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.5957,
+    "longitude": -87.9278
   },
   {
     "id": "wyoming_flight_training",
@@ -8731,7 +9649,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCPR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.908,
+    "longitude": -106.4645
   },
   {
     "id": "laramie_flight",
@@ -8749,7 +9669,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLAR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3121,
+    "longitude": -105.675
   },
   {
     "id": "cheyenne_flight",
@@ -8767,7 +9689,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCYS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1557,
+    "longitude": -104.8118
   },
   {
     "id": "ju_aviation",
@@ -8788,7 +9712,9 @@
     "priceRange": "$$$",
     "url": null,
     "description": "Part 141 aviation program at KJAX.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 30.4941,
+    "longitude": -81.6879
   },
   {
     "id": "southernwings_flight",
@@ -8809,7 +9735,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KPMP. Part 141.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 26.2471,
+    "longitude": -80.1111
   },
   {
     "id": "bgsu_aviation",
@@ -8829,7 +9757,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KDFI.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.4131,
+    "longitude": -84.3964
   },
   {
     "id": "aims_aviation",
@@ -8848,7 +9778,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Part 141 aviation program at KGXY.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 39.0,
+    "longitude": -105.8
   },
   {
     "id": "emu_aviation",
@@ -8868,7 +9800,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Part 141 aviation program at KYIP.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 42.2379,
+    "longitude": -83.5304
   },
   {
     "id": "u_of_i_aviation",
@@ -8889,7 +9823,9 @@
     "priceRange": "$$",
     "url": "https://aviation.illinois.edu",
     "description": "University Part 141 aviation program at KCMI. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 40.039,
+    "longitude": -88.2781
   },
   {
     "id": "indianapolis_exec_aviation",
@@ -8908,7 +9844,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KTYQ. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.3,
+    "longitude": -86.1
   },
   {
     "id": "slu_parks_aviation",
@@ -8930,7 +9868,9 @@
     "priceRange": "$$$",
     "url": "https://www.slu.edu/parks",
     "description": "University aviation program at KCPS. Founded 1927. Part 141. R-ATP eligible.",
-    "isVeteranFriendly": true
+    "isVeteranFriendly": true,
+    "latitude": 38.5,
+    "longitude": -92.5
   },
   {
     "id": "covington_flight_ky",
@@ -8948,7 +9888,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KCVG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 39.0488,
+    "longitude": -84.6678
   },
   {
     "id": "waterloo_flight",
@@ -8966,7 +9908,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KALO. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.5571,
+    "longitude": -92.4003
   },
   {
     "id": "sioux_city_flight",
@@ -8984,7 +9928,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSUX. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.0,
+    "longitude": -93.2
   },
   {
     "id": "worcester_flight",
@@ -9002,7 +9948,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KORH. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 42.2673,
+    "longitude": -71.8757
   },
   {
     "id": "hattiesburg_flight",
@@ -9020,7 +9968,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KPIB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 31.3271,
+    "longitude": -89.2903
   },
   {
     "id": "great_falls_flight",
@@ -9038,7 +9988,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGTF. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 47.482,
+    "longitude": -111.3707
   },
   {
     "id": "concord_nh_flight",
@@ -9055,7 +10007,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KCON. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.2027,
+    "longitude": -71.5023
   },
   {
     "id": "farmington_flight",
@@ -9072,7 +10026,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KFMN. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.7412,
+    "longitude": -108.2299
   },
   {
     "id": "aberdeen_flight",
@@ -9089,7 +10045,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KABR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 45.4491,
+    "longitude": -98.4218
   },
   {
     "id": "barre_vt_flight",
@@ -9106,7 +10064,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KMPV. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.2035,
+    "longitude": -72.5623
   },
   {
     "id": "wheeling_aviation",
@@ -9123,7 +10083,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHLG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 38.6,
+    "longitude": -80.6
   },
   {
     "id": "sheridan_flight",
@@ -9140,7 +10102,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KSHR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.7692,
+    "longitude": -106.9803
   },
   {
     "id": "riverton_flight",
@@ -9157,7 +10121,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRIW. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.0641,
+    "longitude": -108.46
   },
   {
     "id": "texarkana_flight",
@@ -9175,7 +10141,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KTXK. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 33.4538,
+    "longitude": -93.991
   },
   {
     "id": "groton_flight",
@@ -9193,7 +10161,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KGON. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.3301,
+    "longitude": -72.0451
   },
   {
     "id": "lewiston_flight",
@@ -9211,7 +10181,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLWS. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 46.3745,
+    "longitude": -117.0154
   },
   {
     "id": "treasure_valley_flight",
@@ -9229,7 +10201,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KEUL. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.1,
+    "longitude": -114.7
   },
   {
     "id": "bowling_green_flight_ky",
@@ -9247,7 +10221,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBWG. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 36.9645,
+    "longitude": -86.4197
   },
   {
     "id": "bar_harbor_flight",
@@ -9264,7 +10240,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KBHB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.4497,
+    "longitude": -68.3616
   },
   {
     "id": "new_bedford_flight",
@@ -9282,7 +10260,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KEWB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.6761,
+    "longitude": -70.9569
   },
   {
     "id": "hot_springs_flight",
@@ -9299,7 +10279,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHOT. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 34.5037,
+    "longitude": -93.0552
   },
   {
     "id": "havre_flight",
@@ -9316,7 +10298,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KHVR. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 48.543,
+    "longitude": -109.7622
   },
   {
     "id": "alamogordo_flight",
@@ -9334,7 +10318,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KALM. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 32.8399,
+    "longitude": -105.9908
   },
   {
     "id": "block_island_flight",
@@ -9351,7 +10337,9 @@
     "priceRange": "$$",
     "url": null,
     "description": "Flight training at KBID. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 41.1681,
+    "longitude": -71.5778
   },
   {
     "id": "watertown_sd_flight",
@@ -9368,7 +10356,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KATY. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 43.9,
+    "longitude": -99.4
   },
   {
     "id": "lewisburg_flight",
@@ -9385,7 +10375,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KLWB. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 37.8583,
+    "longitude": -80.3995
   },
   {
     "id": "central_ne_flight",
@@ -9403,7 +10395,9 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KGRI. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 40.9675,
+    "longitude": -98.3096
   },
   {
     "id": "rockland_flight",
@@ -9420,6 +10414,8 @@
     "priceRange": "$",
     "url": null,
     "description": "Flight training at KRKD. Part 61.",
-    "isVeteranFriendly": false
+    "isVeteranFriendly": false,
+    "latitude": 44.0601,
+    "longitude": -69.0993
   }
 ]
