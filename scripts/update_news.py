@@ -53,6 +53,27 @@ FEEDS = [
             "safety": "training",
         }
     },
+    {
+        "url": "https://www.aopa.org/news-and-media/all-news/rss",
+        "source": "AOPA",
+        "default_category": "training",
+        "category_map": {
+            "training": "training",
+            "safety": "training",
+            "advocacy": "regulatory",
+            "news": "industry",
+        }
+    },
+    {
+        "url": "https://www.aerotime.aero/feed",
+        "source": "AeroTime",
+        "default_category": "industry",
+        "category_map": {
+            "airlines": "industry",
+            "military": "military",
+            "airports": "industry",
+        }
+    },
 ]
 
 # Keywords that indicate articles relevant to pilot career planning

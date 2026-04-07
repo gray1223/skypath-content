@@ -33,6 +33,17 @@
     "isBreaking": false
   },
   {
+    "id": "03a550e2a132",
+    "title": "Students learn risk of 'pay upfront' training",
+    "summary": "When a flight school closes, the loss isn't just operational&mdash;it's deeply personal.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-06T21:51:55Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/06/the-financial-reality-behind-pay-upfront-flight-training?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "73d52eb48740",
     "title": "The World's Largest Airline By Number Of Hubs",
     "summary": "American Airlines reigns supreme on this front.",
@@ -41,6 +52,17 @@
     "publishedDate": "2026-04-06T21:30:19Z",
     "url": "https://simpleflying.com/worlds-largest-airline-by-number-hubs/",
     "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6ac5aabb93db",
+    "title": "Industry recommendations for Part 141 overhaul released",
+    "summary": "The National Flight Training Alliance summarized a year of industry input on how to modernize professional flight training in a series of recommendations that, if implemented, would encourage more providers to operate under FAR Part 141 by reducing the bureaucratic burden, cen...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-06T21:18:58Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/06/recommendations-for-part-141-overhaul-released?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -73,6 +95,28 @@
     "category": "training",
     "publishedDate": "2026-04-06T16:42:44Z",
     "url": "https://avweb.com/insider/landing-fees-alter-phoenix-flight-training/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "27c416be499d",
+    "title": "Italy warns of jet fuel shortages at four airports, others may follow suit",
+    "summary": "Several airports in Europe may soon start facing fuel shortages, warned jet fuel distributors.&#160; Air bp Italia, the&#8230; The post Italy warns of jet fuel shortages at four airports, others may follow suit appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-06T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/italy-warns-of-jet-fuel-shortages-at-four-airports-others-may-follow-suit",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "43f290eecc29",
+    "title": "US A-10 hit during Iran rescue mission, pilot ejects and is rescued",
+    "summary": "A US Air Force A-10 was hit during combat operations tied to the war with Iran on April&#8230; The post US A-10 hit during Iran rescue mission, pilot ejects and is rescued appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-03T21:39:26Z",
+    "url": "https://www.aerotime.aero/articles/u-s-a-10-hit-during-iran-rescue-mission-pilot-ejects-and-is-rescued",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -110,6 +154,17 @@
     "isBreaking": false
   },
   {
+    "id": "b5b5765d2348",
+    "title": "FAA report proposes sweeping rewrite of Part 141 flight training rules",
+    "summary": "A 471-page industry report released through the FAA\u2019s Part 141 modernization docket proposes a sweeping rewrite of how&#8230; The post FAA report proposes sweeping rewrite of Part 141 flight training rules appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "training",
+    "publishedDate": "2026-04-03T17:22:57Z",
+    "url": "https://www.aerotime.aero/articles/faa-part-141-flight-training-overhaul-report",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "feb12d2ca25d",
     "title": "Test Pilots and the Road Back to the Moon",
     "summary": "For NASA\u2019s first crewed lunar mission since Apollo, aviation experience is one of the clearest threads linking the astronauts aboard Orion.",
@@ -118,6 +173,270 @@
     "publishedDate": "2026-04-03T14:22:00Z",
     "url": "https://avweb.com/features/test-pilots-and-road-to-moon/",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "914b1549edf9",
+    "title": "Airlines face a fuel hedging reckoning as Iran conflict reshapes flying costs",
+    "summary": "Jet fuel prices have more than doubled since the start of Operation Epic Fury, but the financial damage&#8230; The post Airlines face a fuel hedging reckoning as Iran conflict reshapes flying costs appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-03T09:53:20Z",
+    "url": "https://www.aerotime.aero/articles/airline-fuel-hedging-iran-conflict-crisis",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "57d00565e4fd",
+    "title": "Korean regional airline SUM Air places order for up to eight ATR72-600 aircraft",
+    "summary": "Korean regional airline SUM Air placed an order for up to eight ATR72-600 aircraft (four firm orders and&#8230; The post Korean regional airline SUM Air places order for up to eight ATR72-600 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-03T09:25:41Z",
+    "url": "https://www.aerotime.aero/articles/korean-regional-airline-sum-air-places-order-for-up-to-eight-atr72-600-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e13b075db374",
+    "title": "TFR violations continue",
+    "summary": "Pilots unaware of temporary flight restrictions&mdash;particularly in Florida and New Jersey&mdash;continue to draw negative public attention to general aviation, complicating efforts to mitigate the impact of TFRs created to protect the president and other VIPs.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-02T22:24:24Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/tfr-violations-continue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "042a22c37f79",
+    "title": "Mayor excludes FAA from hearing on closing Burke Lakefront",
+    "summary": "Cleveland Mayor Justin Bibb excluded the FAA from a city council hearing focused on the process of closing an airport amid the mayor&rsquo;s push to shutter Burke Lakefront Airport&mdash;prompting the Lakefront Airport Preservation Partnership (LAPP) to express concern that re...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-02T22:16:04Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/mayor-excludes-faa-from-hearing-on-closing-burke-lakefront?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "11be4c7d6eab",
+    "title": "Pentagon considers installing anti-drone lasers at sensitive US sites",
+    "summary": "The Pentagon is moving toward wider use of laser-based counter-drone systems at select US locations, as concerns mount&#8230; The post Pentagon considers installing anti-drone lasers at sensitive US sites appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-02T20:19:05Z",
+    "url": "https://www.aerotime.aero/articles/pentagon-weighs-anti-drone-lasers-key-us-locations",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "003e6bbefe0d",
+    "title": "BasicMed guidance updated",
+    "summary": "AOPA has revamped its BasicMed resource page and our online course to make the details more accessible and user-friendly to those aviators who have decided to ditch the traditional FAA medical certificate for a simpler way to maintain their medical eligibility to fly.",
+    "source": "AOPA",
+    "category": "regulatory",
+    "publishedDate": "2026-04-02T19:15:34Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/basicmed-guidance-updated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a980f4b75589",
+    "title": "US sends EA-37B Compass Call into Iran fight in first known combat deployment",
+    "summary": "The US military has introduced a potent new weapon into the Iran fight with the deployment of the&#8230; The post US sends EA-37B Compass Call into Iran fight in first known combat deployment appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-02T18:18:20Z",
+    "url": "https://www.aerotime.aero/articles/us-sends-new-ea-37b-compass-call-into-iran-fight",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "928f5efb1747",
+    "title": "UK and France launch study for Meteor air-to-air missile successor",
+    "summary": "The United Kingdom and France have signed a Memorandum of Understanding to conduct a joint study into a&#8230; The post UK and France launch study for Meteor air-to-air missile successor appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-02T13:02:15Z",
+    "url": "https://www.aerotime.aero/articles/uk-france-meteor-missile-successor-study",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c657238c689d",
+    "title": "Alaska Airlines unveils business class suites for upcoming long-haul service",
+    "summary": "Alaska Airlines unveiled a new international business class cabin on April 1, 2026.&#160; This new product, which will&#8230; The post Alaska Airlines unveils business class suites for upcoming long-haul service appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-02T10:45:19Z",
+    "url": "https://www.aerotime.aero/articles/alaska-airlines-unveils-business-class-suites-for-upcoming-long-haul-service",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9b3ed3a35cfc",
+    "title": "Sweden awards GUTE II counter-drone contracts to Saab, BAE Systems\u00a0Bofors",
+    "summary": "Sweden announced a SEK 8.7 billion (~$828 million) air defense procurement package on April 2, 2026, grouping contracts&#8230; The post Sweden awards GUTE II counter-drone contracts to Saab, BAE Systems Bofors appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-02T10:08:43Z",
+    "url": "https://www.aerotime.aero/articles/sweden-gute-ii-counter-drone-saab-bae-systems-bofors",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "54ec455b072a",
+    "title": "France to finance Rafale F5 alone after UAE co-funding talks collapsed",
+    "summary": "France will shoulder the full development cost of the Rafale F5 after a co-financing partnership with the United&#8230; The post France to finance Rafale F5 alone after UAE co-funding talks collapsed appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-02T09:22:30Z",
+    "url": "https://www.aerotime.aero/articles/france-rafale-f5-uae-co-financing-collapsed",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "44575ca90331",
+    "title": "SpaceX files for IPO, opening Musk\u2019s Moon and Mars push to investors",
+    "summary": "After months of speculation, Elon Musk\u2019s SpaceX has filed for an initial public offering in the United States,&#8230; The post SpaceX files for IPO, opening Musk\u2019s Moon and Mars push to investors appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-01T20:26:14Z",
+    "url": "https://www.aerotime.aero/articles/spacex-files-for-ipo-moon-mars-push-investors",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "441e80ea8393",
+    "title": "Pilot's perspective on 'Love Story' JFK Jr crash",
+    "summary": "Love Story, an FX limited romance series, sparked renewed interest in the 1999 Martha&rsquo;s Vineyard accident that killed John F. Kennedy Jr., his wife, and his sister-in-law, and how the accident actually happened.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-01T16:49:03Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/01/pilots-perspective-on-love-story-jfk-jr-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e1def82d28cc",
+    "title": "LATAM becomes first South American carrier to roll out Wi-Fi on long-haul routes",
+    "summary": "LATAM Airlines has completed its first long-haul flight equipped with internet connectivity.&#160; The new service was introduced on&#8230; The post LATAM becomes first South American carrier to roll out Wi-Fi on long-haul routes appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-01T13:18:02Z",
+    "url": "https://www.aerotime.aero/articles/latam-becomes-first-south-american-carrier-to-roll-out-wi-fi-on-long-haul-routes",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d7e319822092",
+    "title": "Philippine Airlines profits rise to $160 million in 2025 despite higher costs",
+    "summary": "Philippine Airlines (PAL) closed 2025 with a net income of $160.4 million, a 6.1% increase from the previous&#8230; The post Philippine Airlines profits rise to $160 million in 2025 despite higher costs appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-01T13:04:30Z",
+    "url": "https://www.aerotime.aero/articles/philippine-airlines-profits-rise-to-160-million-in-2025-despite-higher-costs",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "577b57b932d4",
+    "title": "SAS marks 80th anniversary with A330-300 painted in special historical livery",
+    "summary": "Scandinavian Airlines (SAS) has unveiled a special new livery on one of its aircraft to celebrate the carrier\u2019s&#8230; The post SAS marks 80th anniversary with A330-300 painted in special historical livery appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-01T08:45:21Z",
+    "url": "https://www.aerotime.aero/articles/sas-marks-80th-anniversary-with-a330-300-painted-in-special-historical-livery",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cc9e191a76e7",
+    "title": "Russian An-26 military transport crashes in Crimea, killing all 29 on board",
+    "summary": "A Russian military transport&#160;aircraft&#160;crashed in occupied Crimea on March 31, killing all 29 people on board, according to&#8230; The post Russian An-26 military transport crashes in Crimea, killing all 29 on board appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-01T08:14:46Z",
+    "url": "https://www.aerotime.aero/articles/russian-an-26-crashes-crimea-29-killed",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "009cf0d8cb8e",
+    "title": "Training and Safety Tip: Know your Newton",
+    "summary": "Most pilots learn about Sir Isacc Newton and his laws of motion in elementary or high school. You might have wondered, \"Why do I need to know this stuff?\" Of course, you may have had no idea that you were going to become a pilot, for whom knowledge of Newton's fundamental phys...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-03-31T23:01:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/31/training-and-safety-tip-know-your-newton?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6dd9758a5828",
+    "title": "Pilot ejects safely as US Air Force F-35 crashes in Nevada",
+    "summary": "A pilot ejected safely from a US Air Force F-35 after reporting trouble maneuvering before the jet crashed&#8230; The post Pilot ejects safely as US Air Force F-35 crashes in Nevada appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-03-31T21:47:41Z",
+    "url": "https://www.aerotime.aero/articles/usaf-f35-crash-north-of-creech-pilot-safe",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "75a751feb1ba",
+    "title": "A wild ride",
+    "summary": "Mike Melvill, 85, the world&rsquo;s first commercial astronaut and winner of the Ansari X Prize for pioneering flights in SpaceShipOne, died March 19 in California after a long illness.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-03-31T18:06:26Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/31/a-wild-ride?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d3c05af5294b",
+    "title": "Jet fuel crisis deepens as Trump tells the world \u2018Go get your own oil\u2019",
+    "summary": "As airlines across the globe grapple with a serious jet fuel price crisis that has sent costs soaring&#8230; The post Jet fuel crisis deepens as Trump tells the world \u2018Go get your own oil\u2019 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-03-31T15:43:03Z",
+    "url": "https://www.aerotime.aero/articles/jet-fuel-crisis-deepens-trump-go-get-your-own-oil",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d76a6855c070",
+    "title": "Delta Air Lines picks Amazon Leo over Starlink to power future inflight Wi-Fi",
+    "summary": "Delta Air Lines has selected Amazon Leo over SpaceX\u2019s Starlink to power its future inflight Wi-Fi starting with&#8230; The post Delta Air Lines picks Amazon Leo over Starlink to power future inflight Wi-Fi appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-03-31T15:09:32Z",
+    "url": "https://www.aerotime.aero/articles/delta-air-lines-amazon-leo-starlink-inflight-wifi",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "720e626cf6ed",
+    "title": "ITA Airways officially joins Star Alliance",
+    "summary": "Italian airline ITA Airways has marked its official accession to Star Alliance, which will become effective on April&#8230; The post ITA Airways officially joins Star Alliance appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-03-31T12:17:08Z",
+    "url": "https://www.aerotime.aero/articles/ita-airways-officially-joins-star-alliance",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "048cb21cfce0",
+    "title": "Poland rules out Patriot redeployment after US request reported",
+    "summary": "The United States has informally asked Poland to consider redeploying one of its two Patriot air defense batteries&#8230; The post Poland rules out Patriot redeployment after US request reported appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-03-31T10:30:09Z",
+    "url": "https://www.aerotime.aero/articles/us-asks-poland-patriot-middle-east",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
