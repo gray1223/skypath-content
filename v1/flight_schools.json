@@ -18,7 +18,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://atpflightschool.com",
-    "description": "Largest flight school in the US. Accelerated airline career pilot program \u2014 zero to CFI in ~7 months. Airline partnership pipeline.",
+    "description": "Multi-location Part 141 school. Accelerated airline career program with airline hiring partnerships.",
     "isVeteranFriendly": true
   },
   {
@@ -40,7 +40,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://erau.edu",
-    "description": "Premier aviation university with 4-year degree programs. Two campuses (Daytona Beach, Prescott). R-ATP eligible at 1,000 hours for graduates.",
+    "description": "University aviation degree program at KDAB. Part 141. R-ATP eligible at 1,000 hours.",
     "isVeteranFriendly": true
   },
   {
@@ -62,7 +62,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://aero.und.edu",
-    "description": "Top-ranked collegiate aviation program. Large fleet, R-ATP eligible graduates. Strong airline placement rates.",
+    "description": "University aviation degree program at KGFK. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -83,7 +83,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.purdue.edu/aviation",
-    "description": "Big Ten university with professional flight program. R-ATP eligible. United Aviate and Delta Propel partner.",
+    "description": "University aviation degree program at KLAF. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -105,7 +105,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.flywithlift.com",
-    "description": "Republic Airways wholly-owned academy. Accelerated ab-initio program with guaranteed job at Republic upon completion.",
+    "description": "Republic Airways-owned Part 141 academy at KIND. Airline pipeline program.",
     "isVeteranFriendly": false
   },
   {
@@ -126,7 +126,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.l3harrisflightacademy.com",
-    "description": "International flight training academy. Airline-oriented training with modern glass cockpit fleet.",
+    "description": "Part 141 flight academy at KSFB. International and domestic training programs.",
     "isVeteranFriendly": true
   },
   {
@@ -148,7 +148,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.americanflyers.com",
-    "description": "Established 1939. Multi-location flight school offering Part 61 and 141 training. Known for strong instrument training.",
+    "description": "Multi-location school (TX, FL, NJ, IL). Part 61 and 141. Founded 1939.",
     "isVeteranFriendly": true
   },
   {
@@ -170,7 +170,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.thrustflight.com",
-    "description": "Accelerated flight training in North Texas. Airline partnership programs. Modern Cirrus and Piper fleet.",
+    "description": "Part 141 flight training at KADS. Cirrus and Piper fleet.",
     "isVeteranFriendly": true
   },
   {
@@ -192,7 +192,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.pea.com",
-    "description": "FAA Part 141 approved. International and domestic student programs. Located at Daytona Beach International.",
+    "description": "Part 141 flight training at KDAB. International and domestic programs.",
     "isVeteranFriendly": true
   },
   {
@@ -212,7 +212,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Smaller Part 61 school in Arizona. Great flying weather year-round. Personalized instruction at competitive rates.",
+    "description": "Flight training at KSDL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -233,7 +233,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": "https://www.inflightpilottraining.com",
-    "description": "Midwest flight training. Offers tailwheel, aerobatic, and multi-engine in addition to standard certificates.",
+    "description": "Part 61 flight training at KSUS. Tailwheel, aerobatic, and multi-engine offered.",
     "isVeteranFriendly": false
   },
   {
@@ -255,7 +255,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.waymanaviation.com",
-    "description": "South Florida Part 141 school. Strong international student program. Year-round VFR weather.",
+    "description": "Part 141 flight training at KOPF. International student programs.",
     "isVeteranFriendly": true
   },
   {
@@ -277,7 +277,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://epicflightacademy.com",
-    "description": "Part 141 academy in Central Florida. Airline career track with modern Diamond aircraft fleet.",
+    "description": "Part 141 flight training at KEVB. Diamond aircraft fleet.",
     "isVeteranFriendly": true
   },
   {
@@ -299,7 +299,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.usaviationacademy.com",
-    "description": "Texas-based Part 141 school. Accelerated programs, GI Bill approved. Large Piper fleet.",
+    "description": "Part 141 flight training at KDTO. GI Bill approved. Piper fleet.",
     "isVeteranFriendly": true
   },
   {
@@ -321,7 +321,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.aeroguard.com",
-    "description": "Arizona-based Part 141 school with SkyWest airline partnership. Year-round flying weather. Modern fleet.",
+    "description": "Part 141 flight training at KDVT. SkyWest airline partnership.",
     "isVeteranFriendly": true
   },
   {
@@ -339,7 +339,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school in Apopka, FL offering primary and advanced certificates.",
+    "description": "Flight training at KX04. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -357,7 +357,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school in Apopka, FL near the Orlando metro area.",
+    "description": "Flight training at KX04. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -375,7 +375,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school in Boca Raton, FL at Boca Raton Airport.",
+    "description": "Flight training at KBCT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -393,7 +393,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at St. Pete-Clearwater International Airport, FL.",
+    "description": "Flight training at KPIE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -414,7 +414,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Professional flight training at Fort Lauderdale Executive Airport. Part 141 approved programs.",
+    "description": "Flight training at KFXE. Part 141.",
     "isVeteranFriendly": false
   },
   {
@@ -432,7 +432,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Fort Lauderdale Executive Airport, FL.",
+    "description": "Flight training at KFXE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -450,7 +450,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Fort Lauderdale Executive Airport, FL.",
+    "description": "Flight training at KFXE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -468,7 +468,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training academy at Fort Lauderdale Executive Airport, FL.",
+    "description": "Flight training at KFXE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -489,7 +489,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.paragonflighttraining.com",
-    "description": "Southwest Florida Part 141 flight school. Known for quality training and instrument programs.",
+    "description": "Flight training at KFMY. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -510,7 +510,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Collegiate aviation program in Fort Pierce, FL. Part 141 approved with degree options.",
+    "description": "Part 141 aviation program at KFPR.",
     "isVeteranFriendly": true
   },
   {
@@ -528,7 +528,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Gainesville Regional Airport near the University of Florida.",
+    "description": "Flight training at KGNV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -546,7 +546,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Kissimmee Gateway Airport, FL.",
+    "description": "Flight training at KISM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -564,7 +564,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Kissimmee Gateway Airport, FL.",
+    "description": "Flight training at KISM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -582,7 +582,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Lakeland Linder International Airport, FL.",
+    "description": "Flight training at KLAL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -603,7 +603,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.fit.edu",
-    "description": "University aviation program in Melbourne, FL. Part 141 degree-granting program with R-ATP eligibility.",
+    "description": "University aviation degree program at KMLB. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -621,7 +621,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Opa-Locka Executive Airport, Miami, FL.",
+    "description": "Flight training at KOPF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -639,7 +639,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Ormond Beach Municipal Airport, FL.",
+    "description": "Flight training at KOMN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -657,7 +657,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at North Perry Airport, Pembroke Pines, FL.",
+    "description": "Flight training at KHWO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -678,7 +678,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "European-style flight school in St. Augustine, FL. Part 141 approved.",
+    "description": "Flight training at KSGJ. Part 141.",
     "isVeteranFriendly": false
   },
   {
@@ -699,7 +699,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "International flight training at Vero Beach Regional Airport, FL. Part 141 approved.",
+    "description": "Flight training at KVRB. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -720,7 +720,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": null,
-    "description": "Airline-focused academy in Vero Beach, FL. Modern fleet and airline partnerships.",
+    "description": "Flight training at KVRB. Part 141.",
     "isVeteranFriendly": false
   },
   {
@@ -738,7 +738,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Addison Airport in the Dallas metro area, TX.",
+    "description": "Flight training at KADS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -756,7 +756,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at Addison Airport, Dallas, TX.",
+    "description": "Flight training at KADS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -774,7 +774,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training school in Amarillo, TX at Tradewind Airport.",
+    "description": "Flight training at KTDW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -793,7 +793,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Fort Worth, TX area at Meacham International Airport.",
+    "description": "Flight training at KFTW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -811,7 +811,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school in San Antonio, TX.",
+    "description": "Flight training at KSAT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -829,7 +829,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training school at David Wayne Hooks Airport, Houston, TX.",
+    "description": "Flight training at KDWH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -847,7 +847,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at West Houston Airport, TX.",
+    "description": "Flight training at KIWS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -867,7 +867,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Collegiate aviation program at TSTC in Waco, TX. Part 141 approved with GI Bill benefits.",
+    "description": "Part 141 aviation program at KACT.",
     "isVeteranFriendly": true
   },
   {
@@ -889,7 +889,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.spartan.edu",
-    "description": "Historic aviation school founded in 1928. Part 141 degree-granting program. Airline partnerships.",
+    "description": "Part 141 degree-granting aviation school at KRVS. Founded 1928.",
     "isVeteranFriendly": true
   },
   {
@@ -911,7 +911,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.coastflight.com",
-    "description": "Part 141 flight school in Carlsbad, CA. Airline career track with SkyWest partnership.",
+    "description": "Part 141 flight training at KCRQ. SkyWest airline partnership.",
     "isVeteranFriendly": true
   },
   {
@@ -932,7 +932,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.aerodynamicaviation.com",
-    "description": "San Jose area flight school at Reid-Hillview Airport. Part 61 with tailwheel and aerobatic offerings.",
+    "description": "Part 61 flight training at KRHV. Tailwheel and aerobatic offerings.",
     "isVeteranFriendly": false
   },
   {
@@ -951,7 +951,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Non-profit flying club in San Diego. Affordable flying with large fleet of aircraft.",
+    "description": "Non-profit flying club at KSAN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -973,7 +973,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://slingpilotacademy.com",
-    "description": "Southern California Part 141 school flying Sling aircraft. Accelerated airline career programs.",
+    "description": "Part 141 flight training at KTOA. Sling aircraft fleet.",
     "isVeteranFriendly": true
   },
   {
@@ -991,7 +991,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Long Beach Airport, CA.",
+    "description": "Flight training at KLGB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1009,7 +1009,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training club at Sacramento Executive Airport, CA.",
+    "description": "Flight training at KSAC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1031,7 +1031,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.calaero.edu",
-    "description": "Collegiate aviation program in Bakersfield, CA. Part 141 with degree programs and R-ATP eligibility.",
+    "description": "University aviation degree program at KBFL. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1051,7 +1051,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.sancarlosflight.com",
-    "description": "Bay Area flight school at San Carlos Airport. Strong community and pilot training programs.",
+    "description": "Flight training at KSQL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1069,7 +1069,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Santa Monica Airport, CA.",
+    "description": "Flight training at KSMO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1087,7 +1087,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Riverside Municipal Airport, CA.",
+    "description": "Flight training at KRAL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1106,7 +1106,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in Camarillo, CA. Scenic coastal flying environment.",
+    "description": "Flight training at KCMA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1128,7 +1128,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://transpacacademy.com",
-    "description": "Airline-focused flight training in Phoenix, AZ. Year-round flying weather with airline partnerships.",
+    "description": "Part 141 flight training at KDVT.",
     "isVeteranFriendly": true
   },
   {
@@ -1147,7 +1147,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Falcon Field in Mesa, AZ.",
+    "description": "Flight training at KFFZ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1169,7 +1169,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://prescott.erau.edu",
-    "description": "Embry-Riddle Prescott campus. Four-year aviation degrees with Part 141 flight training. R-ATP eligible.",
+    "description": "Embry-Riddle Prescott campus. Aviation degree program. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1187,7 +1187,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Chandler Municipal Airport, AZ.",
+    "description": "Flight training at KCHD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1206,7 +1206,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Scottsdale Airport, AZ. Year-round VFR conditions.",
+    "description": "Flight training at KSDL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1224,7 +1224,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Ryan Airfield, Tucson, AZ.",
+    "description": "Flight training at KRYN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1245,7 +1245,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.sportys.com/academy",
-    "description": "Sporty's Pilot Shop flight academy in Batavia, OH. Part 141 training with modern Cessna fleet.",
+    "description": "Flight training at KI69. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -1266,7 +1266,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://aviation.osu.edu",
-    "description": "Big Ten university aviation program. Part 141 approved with R-ATP eligibility.",
+    "description": "University aviation degree program at KOSU. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1288,7 +1288,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.kent.edu/aeronautics",
-    "description": "Kent State aviation program. Part 141 approved with R-ATP eligibility and airline partnerships.",
+    "description": "University aviation degree program at K1G3. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1306,7 +1306,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Akron-Canton Airport, OH.",
+    "description": "Flight training at KAKR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1324,7 +1324,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the birthplace of aviation, Dayton, OH.",
+    "description": "Flight training at KMGY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1341,7 +1341,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Griffing-Sandusky Airport, OH.",
+    "description": "Flight training at KSKY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1363,7 +1363,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://wmich.edu/aviation",
-    "description": "WMU collegiate aviation program. Part 141 with R-ATP eligibility. Airline pathway programs.",
+    "description": "University aviation degree program at KAZO. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1382,7 +1382,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Jackson County Airport, MI.",
+    "description": "Flight training at KJXN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1400,7 +1400,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Ann Arbor Municipal Airport, MI.",
+    "description": "Flight training at KARB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1419,7 +1419,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in Grand Rapids, MI.",
+    "description": "Flight training at KGRR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1437,7 +1437,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Oakland County Airport, Pontiac, MI.",
+    "description": "Flight training at KPTK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1454,7 +1454,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Traverse City, MI.",
+    "description": "Flight training at KTVC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1476,7 +1476,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.lewisu.edu/aviation",
-    "description": "Lewis University Part 141 aviation program near Chicago. R-ATP eligible degree programs.",
+    "description": "University aviation degree program at KLOT. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1497,7 +1497,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://aviation.siu.edu",
-    "description": "SIU collegiate aviation. Part 141 program with R-ATP eligibility.",
+    "description": "University aviation degree program at KMDH. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1515,7 +1515,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training near Chicago at Schaumburg Regional Airport, IL.",
+    "description": "Flight training at 06C. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1533,7 +1533,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Midway Airport area, Chicago, IL.",
+    "description": "Flight training at KMDW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1551,7 +1551,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Champaign, IL near the University of Illinois.",
+    "description": "Flight training at KCMI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1570,7 +1570,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Community college aviation program in Champaign, IL. Part 141 approved.",
+    "description": "Part 141 aviation program at KCMI.",
     "isVeteranFriendly": true
   },
   {
@@ -1592,7 +1592,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.qualiflight.com",
-    "description": "Part 141 academy at Fulton County Airport, Atlanta. Airline career track with Delta connection.",
+    "description": "Flight training at KFTY. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -1613,7 +1613,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.mga.edu/aviation",
-    "description": "Georgia collegiate aviation program. Part 141 with degree and R-ATP eligibility.",
+    "description": "University aviation degree program at KEZM. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1632,7 +1632,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Peachtree-DeKalb Airport, Atlanta, GA.",
+    "description": "Flight training at KPDK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1650,7 +1650,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Gwinnett County Airport, GA.",
+    "description": "Flight training at KLZU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1668,7 +1668,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in Savannah, GA.",
+    "description": "Flight training at KSAV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1686,7 +1686,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lee Gilmer Memorial Airport, Gainesville, GA.",
+    "description": "Flight training at KGVL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1707,7 +1707,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.aspenflyingclub.com",
-    "description": "Large flying club at Centennial Airport, Denver area. Extensive fleet and mountain flying courses.",
+    "description": "Flying club at KAPA. Part 61. Mountain flying courses available.",
     "isVeteranFriendly": false
   },
   {
@@ -1727,7 +1727,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.mcairaviation.com",
-    "description": "Flight training at Rocky Mountain Metropolitan Airport. Mountain flying specialty.",
+    "description": "Part 61 flight training at KBJC. Mountain flying offered.",
     "isVeteranFriendly": false
   },
   {
@@ -1745,7 +1745,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training near Boulder, CO. Mountain and high-altitude flying emphasis.",
+    "description": "Flight training at KBJC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1763,7 +1763,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Northern Colorado Regional Airport.",
+    "description": "Flight training at KFNL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1781,7 +1781,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Grand Junction, CO. Western slope flying with canyon and mountain training.",
+    "description": "Flight training at KGJT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1802,7 +1802,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.msudenver.edu/aviation",
-    "description": "Denver collegiate aviation program at Centennial Airport. Part 141 with R-ATP eligibility.",
+    "description": "University aviation degree program at KAPA. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1824,7 +1824,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.liberty.edu/aeronautics",
-    "description": "Liberty University Part 141 flight program. Christian university with airline career pathways. R-ATP eligible.",
+    "description": "University aviation degree program at KLYH. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -1843,7 +1843,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "HBCU with aviation program in Hampton, VA. Part 141 approved.",
+    "description": "HBCU with Part 141 aviation program at KPHF.",
     "isVeteranFriendly": true
   },
   {
@@ -1863,7 +1863,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.averett.edu",
-    "description": "Small university aviation program in Danville, VA. Part 141 approved.",
+    "description": "Part 141 aviation program at KDAN.",
     "isVeteranFriendly": true
   },
   {
@@ -1881,7 +1881,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Charlottesville-Albemarle Airport, VA.",
+    "description": "Flight training at KCHO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1899,7 +1899,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in Richmond, VA.",
+    "description": "Flight training at KRIC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1918,7 +1918,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Manassas Regional Airport near Washington DC.",
+    "description": "Flight training at KHEF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1936,7 +1936,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Venice Municipal Airport, FL.",
+    "description": "Flight training at KVNC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1953,7 +1953,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Witham Field, Stuart, FL.",
+    "description": "Flight training at KSUA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -1975,7 +1975,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.flyhaa.com",
-    "description": "One of the largest Part 141 flight schools in the Pacific Northwest with airplane and helicopter programs.",
+    "description": "Part 141 flight training at KHIO. Airplane and helicopter programs.",
     "isVeteranFriendly": true
   },
   {
@@ -1997,7 +1997,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.flyleadingedge.com",
-    "description": "Central Oregon Part 141 flight school with accelerated airline career programs and modern fleet.",
+    "description": "Flight training at KBDN. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -2016,7 +2016,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Portland-Troutdale Airport, OR. Offers primary through CFI certificates.",
+    "description": "Flight training at KTTD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2034,7 +2034,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Aurora State Airport in the Willamette Valley, OR.",
+    "description": "Flight training at KUAO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2052,7 +2052,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "High-desert flight training at Bend Municipal Airport, OR.",
+    "description": "Flight training at KBDN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2070,7 +2070,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Southern Oregon at Rogue Valley International Airport.",
+    "description": "Flight training at KMFR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2088,7 +2088,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Mahlon Sweet Field in Eugene, OR.",
+    "description": "Flight training at KEUG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2106,7 +2106,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Corvallis Municipal Airport near Oregon State University.",
+    "description": "Flight training at KCVO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2127,7 +2127,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.galvinflying.com",
-    "description": "Historic Seattle flight school at Boeing Field. Full range of certificates and seaplane training.",
+    "description": "Part 61 flight training at KBFI. Seaplane training available.",
     "isVeteranFriendly": false
   },
   {
@@ -2147,7 +2147,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.rainierflightservice.com",
-    "description": "Flight training at Renton Municipal Airport south of Seattle with large Cessna and Piper fleet.",
+    "description": "Flight training at KRNT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2169,7 +2169,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.cwu.edu/aviation",
-    "description": "CWU Part 141 collegiate aviation program with R-ATP eligibility and airline pathway partnerships.",
+    "description": "University aviation degree program at KELN. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2187,7 +2187,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Part 61 flight training at Renton Municipal Airport near Seattle, WA.",
+    "description": "Flight training at KRNT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2205,7 +2205,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Paine Field in Everett/Snohomish, WA.",
+    "description": "Flight training at KPAE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2223,7 +2223,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Olympia Regional Airport, WA.",
+    "description": "Flight training at KOLM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2242,7 +2242,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Felts Field in Spokane, WA.",
+    "description": "Flight training at KSFF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2260,7 +2260,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Bellingham International Airport, WA near the Canadian border.",
+    "description": "Flight training at KBLI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2282,7 +2282,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.auburn.edu/aviation",
-    "description": "Auburn University Part 141 professional flight program with R-ATP eligibility and SEC-school resources.",
+    "description": "University aviation degree program at KAUO. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2302,7 +2302,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Community college aviation program in the Alabama Wiregrass region. Part 141 approved.",
+    "description": "Part 141 aviation program at KEDN.",
     "isVeteranFriendly": true
   },
   {
@@ -2320,7 +2320,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "FBO and flight training at Auburn University Regional Airport, AL.",
+    "description": "Flight training at KAUO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2339,7 +2339,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Birmingham-Shuttlesworth International Airport, AL.",
+    "description": "Flight training at KBHM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2357,7 +2357,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training on the Gulf Coast at Mobile Downtown Airport, AL.",
+    "description": "Flight training at KBFM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2379,7 +2379,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.upperlimitaviation.com",
-    "description": "Utah-based Part 141 school offering fixed-wing and helicopter training with airline pathways.",
+    "description": "Part 141 flight training at KPVU. Fixed-wing and helicopter programs.",
     "isVeteranFriendly": true
   },
   {
@@ -2401,7 +2401,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.uvu.edu/aviation",
-    "description": "UVU collegiate aviation program with Part 141 training and R-ATP eligibility.",
+    "description": "University aviation degree program at KPVU. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2419,7 +2419,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Salt Lake Valley with mountain flying emphasis.",
+    "description": "Flight training at KSLC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2438,7 +2438,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Ogden-Hinckley Airport, UT with views of the Wasatch Range.",
+    "description": "Flight training at KOGD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2456,7 +2456,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Southern Utah near Zion National Park with year-round VFR conditions.",
+    "description": "Flight training at KSGU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2476,7 +2476,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "SUU Part 141 aviation program in scenic Southern Utah with degree options.",
+    "description": "Part 141 aviation program at KCDC.",
     "isVeteranFriendly": true
   },
   {
@@ -2494,7 +2494,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Brigham Young University affiliated flight training club at Provo Municipal Airport.",
+    "description": "Flight training at KPVU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2516,7 +2516,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.panamacademy.com",
-    "description": "Simulator-focused training center offering type ratings and ab-initio airline pilot programs.",
+    "description": "Part 141 training center at KMIA. Type ratings and ab-initio programs.",
     "isVeteranFriendly": true
   },
   {
@@ -2536,7 +2536,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.naa.edu",
-    "description": "Aviation maintenance and pilot training school at St. Pete-Clearwater, FL.",
+    "description": "Part 141 pilot and maintenance training at KPIE.",
     "isVeteranFriendly": true
   },
   {
@@ -2558,7 +2558,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.cae.com",
-    "description": "CAE global aviation academy at Falcon Field. Airline cadet programs with major carrier partnerships.",
+    "description": "CAE Part 141 academy at KFFZ. Airline cadet programs.",
     "isVeteranFriendly": true
   },
   {
@@ -2577,7 +2577,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Deer Valley Airport, one of the busiest GA airports in Arizona.",
+    "description": "Flight training at KDVT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2599,7 +2599,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.baylor.edu/aviation",
-    "description": "Baylor University Part 141 aviation program with R-ATP eligibility and Christian university environment.",
+    "description": "University aviation degree program at KACT. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2621,7 +2621,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.letu.edu/aviation",
-    "description": "LeTourneau University Part 141 aviation program in East Texas with R-ATP eligibility.",
+    "description": "University aviation degree program at KGGG. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2641,7 +2641,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Lamar University Part 141 aviation program in Southeast Texas.",
+    "description": "Part 141 aviation program at KBMT.",
     "isVeteranFriendly": true
   },
   {
@@ -2662,7 +2662,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Part 141 flight school at Ellington Field, Houston with airline career track.",
+    "description": "Part 141 aviation program at KEFD.",
     "isVeteranFriendly": true
   },
   {
@@ -2681,7 +2681,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Community college aviation program on the Texas Gulf Coast.",
+    "description": "Part 141 aviation program at KCRP.",
     "isVeteranFriendly": true
   },
   {
@@ -2703,7 +2703,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.sjsu.edu/aviation",
-    "description": "SJSU Part 141 collegiate aviation program at Reid-Hillview Airport with R-ATP eligibility.",
+    "description": "University aviation degree program at KRHV. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2725,7 +2725,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.vaughn.edu",
-    "description": "NYC-area aviation college adjacent to LaGuardia Airport with Part 141 flight training and degree programs.",
+    "description": "Aviation degree program near KLGA. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -2746,7 +2746,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "SUNY Farmingdale Part 141 aviation program on Long Island with R-ATP eligibility.",
+    "description": "SUNY Part 141 aviation program at KFRG. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2764,7 +2764,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Long Island MacArthur Airport, NY.",
+    "description": "Flight training at KISP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2783,7 +2783,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training and charter at Albany International Airport, NY.",
+    "description": "Flight training at KALB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2801,7 +2801,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Finger Lakes region near Cornell University, NY.",
+    "description": "Flight training at KITH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2820,7 +2820,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training and FBO services at Buffalo Niagara International Airport, NY.",
+    "description": "Flight training at KBUF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2838,7 +2838,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Rochester International Airport in upstate NY.",
+    "description": "Flight training at KROC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2856,7 +2856,7 @@
     "hasSimulator": false,
     "priceRange": "$$$",
     "url": null,
-    "description": "Flight training at Westchester County Airport near New York City.",
+    "description": "Flight training at KHPN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2877,7 +2877,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Penn State Part 141 aviation program in Central Pennsylvania with R-ATP eligibility.",
+    "description": "University aviation degree program at KUNV. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -2895,7 +2895,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Wings Field near Philadelphia, PA.",
+    "description": "Flight training at KLOM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2914,7 +2914,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Allegheny County Airport, Pittsburgh, PA.",
+    "description": "Flight training at KAGC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2932,7 +2932,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Capital City Airport in Harrisburg, PA.",
+    "description": "Flight training at KCXY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2951,7 +2951,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Northeast Philadelphia Airport, PA.",
+    "description": "Flight training at KPNE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2969,7 +2969,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Chester County Airport in suburban Philadelphia, PA.",
+    "description": "Flight training at KMQS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -2987,7 +2987,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Williamsport Regional Airport in north central PA.",
+    "description": "Flight training at KIPT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3005,7 +3005,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lancaster Airport in the heart of PA Dutch Country.",
+    "description": "Flight training at KLNS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3025,7 +3025,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Community college Part 141 aviation program at Piedmont Triad International Airport, NC.",
+    "description": "Part 141 aviation program at KGSO.",
     "isVeteranFriendly": true
   },
   {
@@ -3046,7 +3046,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "HBCU with Part 141 aviation program in northeastern North Carolina. R-ATP eligible.",
+    "description": "HBCU with Part 141 aviation program at KECG. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -3065,7 +3065,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Concord-Padgett Regional Airport near Charlotte, NC.",
+    "description": "Flight training at KJQF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3083,7 +3083,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Raleigh Executive Jetport at Sanford-Lee County, NC.",
+    "description": "Flight training at KTTA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3101,7 +3101,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Mountain flying training at Asheville Regional Airport in western NC.",
+    "description": "Flight training at KAVL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3119,7 +3119,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Wilmington International Airport on the NC coast.",
+    "description": "Flight training at KILM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3137,7 +3137,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Fort Liberty (Fort Bragg) at Fayetteville Regional Airport, NC.",
+    "description": "Flight training at KFAY. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -3155,7 +3155,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the NC foothills at Hickory Regional Airport.",
+    "description": "Flight training at KHKY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3173,7 +3173,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Princeton Airport in central New Jersey.",
+    "description": "Flight training at K39N. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3192,7 +3192,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Linden Airport in northern New Jersey, near NYC.",
+    "description": "Flight training at KLDJ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3214,7 +3214,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.academyofaviation.com",
-    "description": "Part 141 academy at Teterboro Airport with airline career track near New York City.",
+    "description": "Flight training at KTEB. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -3232,7 +3232,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Monmouth Executive Airport at the Jersey Shore.",
+    "description": "Flight training at KBLM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3252,7 +3252,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Essex County Airport in northern New Jersey.",
+    "description": "Flight training at KCDW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3270,7 +3270,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Cape May County Airport at the southern tip of NJ.",
+    "description": "Flight training at KWWD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3288,7 +3288,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Lincoln Park Airport in northern NJ.",
+    "description": "Flight training at KN07. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3306,7 +3306,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Sussex Airport in northwestern New Jersey.",
+    "description": "Flight training at KFWN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3328,7 +3328,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.mtsu.edu/aerospace",
-    "description": "MTSU Part 141 collegiate aviation program with R-ATP eligibility and strong airline placement.",
+    "description": "University aviation degree program at KMBT. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -3347,7 +3347,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": "https://www.nashvilleflighttraining.com",
-    "description": "Flight training at John C. Tune Airport in Nashville, TN.",
+    "description": "Flight training at KJWN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3365,7 +3365,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Olive Branch Airport near Memphis, TN.",
+    "description": "Flight training at KOLY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3383,7 +3383,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Knoxville Downtown Island Airport, TN.",
+    "description": "Flight training at KDKX. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3402,7 +3402,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Chattanooga Metropolitan Airport, TN.",
+    "description": "Flight training at KCHA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3420,7 +3420,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Fort Campbell at Clarksville Regional Airport, TN.",
+    "description": "Flight training at KCKV. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -3438,7 +3438,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Smyrna Airport near Nashville, TN.",
+    "description": "Flight training at KMQY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3456,7 +3456,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Tri-Cities Airport in northeast Tennessee.",
+    "description": "Flight training at KTRI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3475,7 +3475,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Frederick Municipal Airport in western Maryland.",
+    "description": "Flight training at KFDK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3493,7 +3493,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on Maryland's Eastern Shore at Easton Airport.",
+    "description": "Flight training at KESN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3511,7 +3511,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Bay Bridge Airport on the Chesapeake Bay, MD.",
+    "description": "Flight training at KBAY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3529,7 +3529,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Tipton Airport near the Baltimore-Washington corridor, MD.",
+    "description": "Flight training at KFME. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3547,7 +3547,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Hagerstown Regional Airport in western Maryland.",
+    "description": "Flight training at KHGR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3565,7 +3565,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training based in the Baltimore-Washington area of Maryland.",
+    "description": "Flight training at KBWI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3583,7 +3583,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Freeway Airport south of Baltimore, MD.",
+    "description": "Flight training at KW00. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3602,7 +3602,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Montgomery County Airpark near Washington DC.",
+    "description": "Flight training at KGAI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3622,7 +3622,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Community college Part 141 aviation program at Johns Island Airport, Charleston, SC.",
+    "description": "Part 141 aviation program at KJZI.",
     "isVeteranFriendly": true
   },
   {
@@ -3641,7 +3641,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Greenville Downtown Airport, SC.",
+    "description": "Flight training at KGMU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3659,7 +3659,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Jim Hamilton-L.B. Owens Airport, Columbia, SC.",
+    "description": "Flight training at KCUB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3677,7 +3677,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Grand Strand Airport near Myrtle Beach, SC.",
+    "description": "Flight training at KCRE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3695,7 +3695,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Spartanburg Downtown Memorial Airport, SC.",
+    "description": "Flight training at KSPA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3713,7 +3713,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on Hilton Head Island along the SC coast.",
+    "description": "Flight training at KHXD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3731,7 +3731,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Anderson Regional Airport in upstate SC.",
+    "description": "Flight training at KAND. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3749,7 +3749,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training and FBO at Florence Regional Airport, SC.",
+    "description": "Flight training at KFLO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3771,7 +3771,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://aviation.okstate.edu",
-    "description": "OSU Part 141 aviation program with R-ATP eligibility and airline pathway partnerships.",
+    "description": "University aviation degree program at KSWO. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -3792,7 +3792,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Regional university Part 141 aviation program in southeastern Oklahoma.",
+    "description": "Part 141 aviation program at KDUA.",
     "isVeteranFriendly": true
   },
   {
@@ -3811,7 +3811,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Wiley Post Airport, Oklahoma City, OK.",
+    "description": "Flight training at KPWA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3829,7 +3829,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Sundance Airpark near Oklahoma City.",
+    "description": "Flight training at KHSD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3847,7 +3847,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Enid Woodring Regional Airport near Vance AFB, OK.",
+    "description": "Flight training at KWDG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3865,7 +3865,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lawton-Fort Sill Regional Airport, OK.",
+    "description": "Flight training at KLAW. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -3883,7 +3883,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Ponca City Regional Airport in north central OK.",
+    "description": "Flight training at KPNC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3901,7 +3901,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at University of Oklahoma Westheimer Airport.",
+    "description": "Flight training at KOUN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3922,7 +3922,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Louisiana Tech Part 141 aviation program in north Louisiana.",
+    "description": "Part 141 aviation program at KRSN.",
     "isVeteranFriendly": true
   },
   {
@@ -3941,7 +3941,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Lakefront Airport on the shores of Lake Pontchartrain, New Orleans.",
+    "description": "Flight training at KNEW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3959,7 +3959,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Baton Rouge Metro Airport, LA.",
+    "description": "Flight training at KBTR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3977,7 +3977,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Shreveport Downtown Airport, LA.",
+    "description": "Flight training at KDTN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -3995,7 +3995,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Cajun Country at Lafayette Regional Airport, LA.",
+    "description": "Flight training at KLFT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4013,7 +4013,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Hammond Northshore Regional Airport, LA.",
+    "description": "Flight training at KHDC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4031,7 +4031,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in southwest Louisiana at Lake Charles Regional Airport.",
+    "description": "Flight training at KLCH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4049,7 +4049,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Monroe Regional Airport in northeast Louisiana.",
+    "description": "Flight training at KMLU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4070,7 +4070,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Part 141 flight school at North Las Vegas Airport with year-round desert flying conditions.",
+    "description": "Flight training at KVGT. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -4089,7 +4089,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Henderson Executive Airport south of Las Vegas, NV.",
+    "description": "Flight training at KHND. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4107,7 +4107,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Reno-Tahoe area with mountain and high-density altitude operations.",
+    "description": "Flight training at KRNO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4125,7 +4125,7 @@
     "hasSimulator": false,
     "priceRange": "$$$",
     "url": null,
-    "description": "Aerobatic and tactical flight training experience at North Las Vegas Airport, NV.",
+    "description": "Flight training at KVGT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4143,7 +4143,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near the Nevada state capital with Sierra Nevada mountain flying.",
+    "description": "Flight training at KCXP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4161,7 +4161,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Rural Nevada flight training at Elko Regional Airport.",
+    "description": "Flight training at KEKO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4179,7 +4179,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the desert of southern Nevada near the Arizona border.",
+    "description": "Flight training at K67L. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4197,7 +4197,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Part 61 flight training at one of the busiest training airports in the Las Vegas Valley.",
+    "description": "Flight training at KVGT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4218,7 +4218,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "UMN Crookston Part 141 aviation program in northern Minnesota.",
+    "description": "Part 141 aviation program at KCKN.",
     "isVeteranFriendly": true
   },
   {
@@ -4239,7 +4239,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.thunderbirdaviation.com",
-    "description": "Flight training at Flying Cloud Airport near Minneapolis with large Cessna and Piper fleet.",
+    "description": "Flight training at KFCM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4257,7 +4257,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Southern Minnesota flight training at Mankato Regional Airport.",
+    "description": "Flight training at KMKT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4275,7 +4275,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in central Minnesota at St. Cloud Regional Airport.",
+    "description": "Flight training at KSTC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4293,7 +4293,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training near the Cirrus Aircraft factory in Duluth, MN on Lake Superior.",
+    "description": "Flight training at KDLH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4311,7 +4311,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Anoka County-Blaine Airport in the Twin Cities metro, MN.",
+    "description": "Flight training at KANE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4329,7 +4329,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Mayo Clinic at Rochester International Airport, MN.",
+    "description": "Flight training at KRST. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4348,7 +4348,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Winona State Part 141 aviation program in the bluff country of southeast Minnesota.",
+    "description": "Part 141 aviation program at KONA.",
     "isVeteranFriendly": true
   },
   {
@@ -4367,7 +4367,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Wittman Regional Airport, home of EAA AirVenture, Oshkosh, WI.",
+    "description": "Flight training at KOSH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4388,7 +4388,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.wisconsinaviation.com",
-    "description": "Full-service flight training and FBO at Watertown Municipal Airport, WI.",
+    "description": "Flight training at KRYV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4407,7 +4407,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Timmerman Airport in Milwaukee, WI.",
+    "description": "Flight training at KMWC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4426,7 +4426,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Historic grass-strip flight training near Madison, WI with tailwheel specialty.",
+    "description": "Flight training at KC29. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4444,7 +4444,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Fox Valley of northeastern Wisconsin.",
+    "description": "Flight training at KATW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4462,7 +4462,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Austin Straubel International Airport, Green Bay, WI.",
+    "description": "Flight training at KGRB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4480,7 +4480,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training along the Mississippi River bluffs at La Crosse Regional Airport, WI.",
+    "description": "Flight training at KLSE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4498,7 +4498,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Southern Wisconsin Regional Airport in Janesville.",
+    "description": "Flight training at KJVL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4520,7 +4520,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "ISU Part 141 aviation program with R-ATP eligibility in west-central Indiana.",
+    "description": "University aviation degree program at KHUF. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -4539,7 +4539,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Eagle Creek Airpark on the west side of Indianapolis, IN.",
+    "description": "Flight training at KEYE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4557,7 +4557,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Delaware County Airport in Muncie near Ball State University, IN.",
+    "description": "Flight training at KMIE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4575,7 +4575,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Smith Field, Fort Wayne, IN.",
+    "description": "Flight training at KSMD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4593,7 +4593,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Notre Dame at South Bend International Airport, IN.",
+    "description": "Flight training at KSBN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4611,7 +4611,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training along the Ohio River at Evansville Regional Airport, IN.",
+    "description": "Flight training at KEVV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4629,7 +4629,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Indiana University at Monroe County Airport, Bloomington, IN.",
+    "description": "Flight training at KBMG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4647,7 +4647,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Columbus Municipal Airport in south-central Indiana.",
+    "description": "Flight training at KBAK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4669,7 +4669,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.slu.edu/parks",
-    "description": "SLU Parks College Part 141 aviation program with R-ATP eligibility in St. Louis.",
+    "description": "University aviation degree program at KCPS. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -4688,7 +4688,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Charles B. Wheeler Downtown Airport, Kansas City, MO.",
+    "description": "Flight training at KMKC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4706,7 +4706,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Spirit of St. Louis Airport west of St. Louis, MO.",
+    "description": "Flight training at KSUS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4724,7 +4724,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Ozarks at Springfield-Branson National Airport, MO.",
+    "description": "Flight training at KSGF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4742,7 +4742,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near the University of Missouri at Columbia Regional Airport.",
+    "description": "Flight training at KCOU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4760,7 +4760,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Joplin Regional Airport in southwest Missouri.",
+    "description": "Flight training at KJLN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4778,7 +4778,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Sedalia Memorial Airport in central Missouri.",
+    "description": "Flight training at KDMO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4796,7 +4796,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Cape Girardeau Regional Airport in southeast Missouri.",
+    "description": "Flight training at KCGI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4818,7 +4818,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.salina.k-state.edu/aviation",
-    "description": "K-State Polytechnic Part 141 aviation program at Salina Airport with R-ATP eligibility.",
+    "description": "K-State Polytechnic aviation degree program at KSLN. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -4839,7 +4839,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "WSU aviation program in the Air Capital of the World with strong industry connections.",
+    "description": "Part 141 aviation program at KICT.",
     "isVeteranFriendly": true
   },
   {
@@ -4857,7 +4857,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Philip Billard Municipal Airport in Topeka, KS.",
+    "description": "Flight training at KTOP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4875,7 +4875,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Manhattan Regional Airport in the Flint Hills of Kansas.",
+    "description": "Flight training at KMHK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4893,7 +4893,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in western Kansas at Garden City Regional Airport.",
+    "description": "Flight training at KGCK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4912,7 +4912,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Johnson County Executive Airport in suburban Kansas City.",
+    "description": "Flight training at KOJC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4930,7 +4930,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Hutchinson Municipal Airport in central Kansas.",
+    "description": "Flight training at KHUT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4948,7 +4948,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Dodge City Regional Airport in southwest Kansas.",
+    "description": "Flight training at KDDC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -4969,7 +4969,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Ohio University Part 141 aviation program in the Appalachian foothills with R-ATP eligibility.",
+    "description": "University aviation degree program at KUNI. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -4987,7 +4987,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Toledo Express Airport in northwest Ohio.",
+    "description": "Flight training at KTOL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5006,7 +5006,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Burke Lakefront Airport on Lake Erie in Cleveland, OH.",
+    "description": "Flight training at KBKL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5025,7 +5025,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Cincinnati Lunken Airport along the Ohio River.",
+    "description": "Flight training at KLUK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5043,7 +5043,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training affiliated with MSU in the Lansing area, MI.",
+    "description": "Flight training at KLNR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5061,7 +5061,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Bishop International Airport, Flint, MI.",
+    "description": "Flight training at KFNT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5079,7 +5079,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training along Lake Michigan at Muskegon County Airport, MI.",
+    "description": "Flight training at KMKG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5097,7 +5097,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at MBS International Airport in the Saginaw Bay area, MI.",
+    "description": "Flight training at KMBS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5118,7 +5118,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Part 141 flight school at DuPage Airport in the Chicago western suburbs.",
+    "description": "Flight training at KDPA. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -5137,7 +5137,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Chicago Executive Airport on the north side of the metro area.",
+    "description": "Flight training at KPWK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5155,7 +5155,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Chicago Rockford International Airport, IL.",
+    "description": "Flight training at KRFD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5174,7 +5174,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training and FBO at General Wayne A. Downing Peoria International Airport, IL.",
+    "description": "Flight training at KPIA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5192,7 +5192,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Augusta Regional Airport near the Georgia-South Carolina border.",
+    "description": "Flight training at KAGS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5210,7 +5210,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Middle Georgia Regional Airport, Macon.",
+    "description": "Flight training at KMCN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5228,7 +5228,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Moody AFB at Valdosta Regional Airport, GA.",
+    "description": "Flight training at KVLD. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -5246,7 +5246,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near UGA at Athens-Ben Epps Airport, GA.",
+    "description": "Flight training at KAHN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5265,7 +5265,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Colorado Springs Airport with views of Pikes Peak and mountain flying.",
+    "description": "Flight training at KCOS. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -5283,7 +5283,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Pueblo Memorial Airport in southern Colorado.",
+    "description": "Flight training at KPUB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5301,7 +5301,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Erie Municipal Airport between Denver and Boulder, CO.",
+    "description": "Flight training at KEIK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5319,7 +5319,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Mountain flying training in the San Juan Mountains at Durango-La Plata County Airport, CO.",
+    "description": "Flight training at KDRO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5337,7 +5337,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in the Hampton Roads area at Norfolk International Airport, VA.",
+    "description": "Flight training at KORF. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -5355,7 +5355,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Blue Ridge mountain flying training at Roanoke-Blacksburg Regional Airport, VA.",
+    "description": "Flight training at KROA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5373,7 +5373,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Leesburg Executive Airport in Northern Virginia near DC.",
+    "description": "Flight training at KJYO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5391,7 +5391,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Shenandoah Valley at Winchester Regional Airport, VA.",
+    "description": "Flight training at KOKV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5413,7 +5413,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": null,
-    "description": "BSU Part 141 aviation program in southeastern Massachusetts with R-ATP eligibility.",
+    "description": "University aviation degree program at KOWD. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -5434,7 +5434,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.eastcoastaeroclub.com",
-    "description": "New England's largest flight school at Hanscom Field with extensive fleet and programs.",
+    "description": "Flight training at KBED. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5455,7 +5455,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Cape Air's own pilot pipeline program based in Hyannis on Cape Cod, MA.",
+    "description": "Cape Air pilot pipeline program at KHYA. Part 141.",
     "isVeteranFriendly": false
   },
   {
@@ -5473,7 +5473,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Pioneer Valley of western Massachusetts.",
+    "description": "Flight training at K7B2. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5491,7 +5491,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Plymouth Municipal Airport on the South Shore, MA.",
+    "description": "Flight training at KPYM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5510,7 +5510,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Hartford-Brainard Airport in the Connecticut River Valley.",
+    "description": "Flight training at KHFD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5528,7 +5528,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Danbury Municipal Airport in western Connecticut.",
+    "description": "Flight training at KDXR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5546,7 +5546,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Groton-New London Airport on the Long Island Sound coast, CT.",
+    "description": "Flight training at KGON. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5564,7 +5564,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at North Central State Airport in the Providence metro, RI.",
+    "description": "Flight training at KSFZ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5582,7 +5582,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Coastal flight training at Westerly State Airport in southern Rhode Island.",
+    "description": "Flight training at KWST. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5600,7 +5600,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Newport State Airport near Narragansett Bay, RI.",
+    "description": "Flight training at KUUU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5618,7 +5618,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Laconia Municipal Airport in the NH Lakes Region.",
+    "description": "Flight training at KLCI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5637,7 +5637,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Boire Field, Nashua, NH south of Manchester.",
+    "description": "Flight training at KASH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5658,7 +5658,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Collegiate aviation program in southern New Hampshire with Part 141 training.",
+    "description": "Part 141 aviation program at KASH.",
     "isVeteranFriendly": true
   },
   {
@@ -5676,7 +5676,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Burlington International Airport with Lake Champlain and Green Mountain views.",
+    "description": "Flight training at KBTV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5694,7 +5694,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Mountain flying training at Morrisville-Stowe State Airport, VT.",
+    "description": "Flight training at KMVL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5712,7 +5712,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Green Mountains at Rutland Southern Vermont Regional Airport.",
+    "description": "Flight training at KRUT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5731,7 +5731,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.maineinstrumentflight.com",
-    "description": "Flight training and instrument specialty school at Portland International Jetport, ME.",
+    "description": "Flight training at KPWM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5749,7 +5749,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Bangor International Airport in northern Maine.",
+    "description": "Flight training at KBGR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5768,7 +5768,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Wilmington Airport in Delaware with access to the busy northeast corridor.",
+    "description": "Flight training at KILG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5786,7 +5786,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Dover Air Force Base in central Delaware.",
+    "description": "Flight training at KDOV. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -5804,7 +5804,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Delaware Coastal Airport in southern Delaware near the beaches.",
+    "description": "Flight training at KGED. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5822,7 +5822,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Mountain flying training at Yeager Airport in Charleston, WV.",
+    "description": "Flight training at KCRW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5840,7 +5840,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near WVU at Morgantown Municipal Airport, WV.",
+    "description": "Flight training at KMGW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5858,7 +5858,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Eastern Panhandle of West Virginia.",
+    "description": "Flight training at KMRB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5879,7 +5879,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "WKU Part 141 aviation program with R-ATP eligibility in south-central Kentucky.",
+    "description": "University aviation degree program at KBWG. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -5897,7 +5897,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in the heart of Kentucky's Bluegrass Region at Lexington Airport.",
+    "description": "Flight training at KLEX. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5916,7 +5916,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Bowman Field, one of America's oldest continuously-operating airports, Louisville, KY.",
+    "description": "Flight training at KLOU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5937,7 +5937,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Delta State Part 141 aviation program in the Mississippi Delta.",
+    "description": "Part 141 aviation program at KRNV.",
     "isVeteranFriendly": true
   },
   {
@@ -5955,7 +5955,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Hawkins Field in Jackson, the Mississippi state capital.",
+    "description": "Flight training at KHKS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5973,7 +5973,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training on the Mississippi Gulf Coast at Gulfport-Biloxi International.",
+    "description": "Flight training at KGPT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -5993,7 +5993,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "UALR Part 141 aviation program in the Arkansas state capital.",
+    "description": "Part 141 aviation program at KLIT.",
     "isVeteranFriendly": true
   },
   {
@@ -6011,7 +6011,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Texarkana Regional Airport on the Arkansas-Texas border.",
+    "description": "Flight training at KTXK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6033,7 +6033,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": null,
-    "description": "University of Dubuque Part 141 aviation program along the Mississippi River with R-ATP eligibility.",
+    "description": "University aviation degree program at KDBQ. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -6052,7 +6052,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Des Moines International Airport, Iowa.",
+    "description": "Flight training at KDSM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6070,7 +6070,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Eastern Iowa Airport in Cedar Rapids.",
+    "description": "Flight training at KCID. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6091,7 +6091,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "UNO Part 141 aviation program in Omaha with R-ATP eligibility.",
+    "description": "University aviation degree program at KOMA. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -6109,7 +6109,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lincoln Airport near the University of Nebraska.",
+    "description": "Flight training at KLNK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6127,7 +6127,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Western Nebraska flight training at North Platte Regional Airport.",
+    "description": "Flight training at KLBF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6148,7 +6148,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "SDSU Part 141 aviation program on the South Dakota prairie with R-ATP eligibility.",
+    "description": "University aviation degree program at KBKX. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -6166,7 +6166,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Joe Foss Field in Sioux Falls, SD.",
+    "description": "Flight training at KFSD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6184,7 +6184,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Black Hills at Rapid City Regional Airport, SD.",
+    "description": "Flight training at KRAP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6202,7 +6202,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Minot AFB at Minot International Airport, ND.",
+    "description": "Flight training at KMOT. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -6220,7 +6220,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Bismarck Municipal Airport, the North Dakota state capital.",
+    "description": "Flight training at KBIS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6239,7 +6239,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Hector International Airport in Fargo, ND.",
+    "description": "Flight training at KFAR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6257,7 +6257,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Mountain flying training at Helena Regional Airport in Montana's capital.",
+    "description": "Flight training at KHLN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6275,7 +6275,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Missoula Montana Airport in the northern Rockies.",
+    "description": "Flight training at KMSO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6293,7 +6293,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Billings Logan International Airport, Montana's largest city.",
+    "description": "Flight training at KBIL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6311,7 +6311,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Mountain flying training in the Teton Range at Jackson Hole Airport, WY.",
+    "description": "Flight training at KJAC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6329,7 +6329,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Casper-Natrona County International Airport in central Wyoming.",
+    "description": "Flight training at KCPR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6347,7 +6347,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Cheyenne Regional Airport in southeast Wyoming.",
+    "description": "Flight training at KCYS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6366,7 +6366,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Large flying club and training at Boise Airport with backcountry flying emphasis.",
+    "description": "Flight training at KBOI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6384,7 +6384,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Idaho Falls Regional Airport near Yellowstone and the Tetons.",
+    "description": "Flight training at KIDA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6402,7 +6402,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Backcountry and mountain flight training at Lewiston-Nez Perce County Airport, ID.",
+    "description": "Flight training at KLWS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6421,7 +6421,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Double Eagle II Airport west of Albuquerque with high-altitude desert flying.",
+    "description": "Flight training at KAEG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6439,7 +6439,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "High-altitude flight training at Santa Fe Municipal Airport at 6,348 feet elevation.",
+    "description": "Flight training at KSAF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6457,7 +6457,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Las Cruces International Airport near White Sands, NM.",
+    "description": "Flight training at KLRU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6476,7 +6476,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Island flight training at Honolulu International Airport with over-water operations.",
+    "description": "Flight training at PHNL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6494,7 +6494,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training with tropical ocean and mountain views on Maui, HI.",
+    "description": "Flight training at PHOG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6512,7 +6512,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Kalaeloa Airport on Oahu's leeward coast, HI.",
+    "description": "Flight training at PHJR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6531,7 +6531,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Bush pilot and mountain flying training at Lake Hood, the world's busiest seaplane base.",
+    "description": "Flight training at PALH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6549,7 +6549,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in Interior Alaska at Fairbanks International Airport.",
+    "description": "Flight training at PAFA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6570,7 +6570,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "UAA Part 141 aviation program at Merrill Field with bush and glacier flying emphasis.",
+    "description": "Part 141 aviation program at PAMR.",
     "isVeteranFriendly": true
   },
   {
@@ -6592,7 +6592,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.cae.com",
-    "description": "CAE global aviation academy location at Addison Airport with airline cadet programs.",
+    "description": "CAE Part 141 academy at KADS. Airline cadet programs.",
     "isVeteranFriendly": true
   },
   {
@@ -6611,7 +6611,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Waterbury-Oxford Airport in western Connecticut.",
+    "description": "Flight training at KOXC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6629,7 +6629,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Aeroflex-Andover Airport in Sussex County, NJ.",
+    "description": "Flight training at K3N6. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6647,7 +6647,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Heritage Field Airport in southeastern Pennsylvania.",
+    "description": "Flight training at KPTW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6665,7 +6665,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Erie International Airport on Lake Erie, PA.",
+    "description": "Flight training at KERI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6684,7 +6684,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "NDSCS Part 141 aviation program in southeastern North Dakota.",
+    "description": "Part 141 aviation program at KBWP.",
     "isVeteranFriendly": true
   },
   {
@@ -6702,7 +6702,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near NASA's Marshall Space Flight Center at Huntsville Executive Airport, AL.",
+    "description": "Flight training at KMDQ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6720,7 +6720,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near the University of Alabama at Tuscaloosa National Airport.",
+    "description": "Flight training at KTCL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6738,7 +6738,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Dothan Regional Airport in southeast Alabama.",
+    "description": "Flight training at KDHN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6756,7 +6756,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Syracuse Hancock International Airport in central New York.",
+    "description": "Flight training at KSYR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6774,7 +6774,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in the Hudson Valley at Dutchess County Airport, NY.",
+    "description": "Flight training at KPOU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6792,7 +6792,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near Fort Moore at Columbus Metropolitan Airport, GA.",
+    "description": "Flight training at KCSG. Part 61.",
     "isVeteranFriendly": true
   },
   {
@@ -6810,7 +6810,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Shenandoah Valley at Shenandoah Valley Regional Airport, VA.",
+    "description": "Flight training at KSHD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6828,7 +6828,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Rock Hill York County Airport near Charlotte, SC.",
+    "description": "Flight training at KUZA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6846,7 +6846,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at McKellar-Sipes Regional Airport in West Tennessee.",
+    "description": "Flight training at KMKL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6864,7 +6864,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Louisiana's bayou country at Houma-Terrebonne Airport.",
+    "description": "Flight training at KHUM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6882,7 +6882,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Desert flight training at Calvada Meadows Airport near Death Valley, NV.",
+    "description": "Flight training at KL62. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6901,7 +6901,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Waukesha County Airport near Milwaukee, WI.",
+    "description": "Flight training at KUES. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6919,7 +6919,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lee's Summit Municipal Airport east of Kansas City, MO.",
+    "description": "Flight training at KLXT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6937,7 +6937,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Emporia Municipal Airport in the Flint Hills of Kansas.",
+    "description": "Flight training at KEMP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6955,7 +6955,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Pryor Field Regional Airport in north Alabama.",
+    "description": "Flight training at KDCU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6973,7 +6973,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Oregon's capital at Salem McNary Field.",
+    "description": "Flight training at KSLE. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -6991,7 +6991,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in the Yakima Valley of central Washington.",
+    "description": "Flight training at KYKM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7010,7 +7010,7 @@
     "hasSimulator": false,
     "priceRange": "$$$",
     "url": null,
-    "description": "Flight training at Morristown Municipal Airport in northern New Jersey.",
+    "description": "Flight training at KMMU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7030,7 +7030,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Montgomery County Airpark serving the DC metro area.",
+    "description": "Flight training at KGAI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7050,7 +7050,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Part 141 training center in the Wiregrass region. GI Bill approved.",
+    "description": "Flight training at KOZR. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -7068,7 +7068,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": "https://www.regalair.com",
-    "description": "Bush flying and float plane training at Merrill Field, Anchorage.",
+    "description": "Flight training at PAMR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7087,7 +7087,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Lake Hood. Bush and backcountry flying emphasis.",
+    "description": "Flight training at PALH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7107,7 +7107,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.uaf.edu/aviation",
-    "description": "University aviation program with arctic and bush flying training.",
+    "description": "Part 141 aviation program at PAFA.",
     "isVeteranFriendly": true
   },
   {
@@ -7125,7 +7125,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Alaska capital city flight training with mountain and marine flying.",
+    "description": "Flight training at PAJN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7143,7 +7143,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Kenai Peninsula flight training with bush flying emphasis.",
+    "description": "Flight training at PAEN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7161,7 +7161,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Northwest Arkansas.",
+    "description": "Flight training at KFYV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7180,7 +7180,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training and charter at Little Rock National Airport.",
+    "description": "Flight training at KLIT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7199,7 +7199,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "University aviation program in Arkadelphia, AR. Part 141 approved.",
+    "description": "Part 141 aviation program at KADF.",
     "isVeteranFriendly": true
   },
   {
@@ -7218,7 +7218,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Springdale Municipal Airport.",
+    "description": "Flight training at KVBT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7236,7 +7236,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Jonesboro Municipal Airport.",
+    "description": "Flight training at KJBR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7255,7 +7255,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Tweed-New Haven Airport.",
+    "description": "Flight training at KHVN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7273,7 +7273,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Danbury Municipal Airport.",
+    "description": "Flight training at KDXR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7291,7 +7291,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Igor I. Sikorsky Memorial Airport.",
+    "description": "Flight training at KBDR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7309,7 +7309,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Hartford-Brainard Airport.",
+    "description": "Flight training at KHFD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7328,7 +7328,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Waterbury-Oxford Airport.",
+    "description": "Flight training at KOXC. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7347,7 +7347,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at New Castle Airport, Delaware.",
+    "description": "Flight training at KILG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7368,7 +7368,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.desu.edu/aviation",
-    "description": "HBCU with Part 141 aviation program. R-ATP eligible.",
+    "description": "HBCU with Part 141 aviation program at KDOV. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -7385,7 +7385,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on Maui with spectacular ocean and mountain scenery.",
+    "description": "Flight training at PHOG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7403,7 +7403,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Kalaeloa Airport on Oahu.",
+    "description": "Flight training at PHJR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7421,7 +7421,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on Hawaii's Big Island with volcanic scenery.",
+    "description": "Flight training at PHTO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7438,7 +7438,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on the Garden Isle of Kauai.",
+    "description": "Flight training at PHLI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7457,7 +7457,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training in Boise. Mountain flying and backcountry emphasis.",
+    "description": "Flight training at KBOI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7474,7 +7474,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in North Idaho with scenic mountain terrain.",
+    "description": "Flight training at KSZT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7492,7 +7492,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Idaho Falls Regional Airport.",
+    "description": "Flight training at KIDA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7510,7 +7510,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Pocatello Regional Airport.",
+    "description": "Flight training at KPIH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7528,7 +7528,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Mountain flying training at Friedman Memorial Airport.",
+    "description": "Flight training at KSUN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7545,7 +7545,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "University flying club at Ames Municipal Airport.",
+    "description": "Flight training at KAMW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7564,7 +7564,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Des Moines International Airport.",
+    "description": "Flight training at KDSM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7581,7 +7581,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Dubuque Regional Airport.",
+    "description": "Flight training at KDBQ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7600,7 +7600,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college Part 141 aviation program.",
+    "description": "Part 141 aviation program at KCBF.",
     "isVeteranFriendly": true
   },
   {
@@ -7619,7 +7619,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Small college Part 141 aviation program in central Kansas.",
+    "description": "Part 141 aviation program at KHUT.",
     "isVeteranFriendly": true
   },
   {
@@ -7636,7 +7636,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Garden City Regional Airport.",
+    "description": "Flight training at KGCK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7657,7 +7657,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://aviation.eku.edu",
-    "description": "EKU Part 141 collegiate aviation program.",
+    "description": "Part 141 aviation program at KRGA.",
     "isVeteranFriendly": true
   },
   {
@@ -7675,7 +7675,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Bowman Field, Louisville, KY.",
+    "description": "Flight training at KLOU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7693,7 +7693,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Blue Grass Airport, Lexington, KY.",
+    "description": "Flight training at KLEX. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7712,7 +7712,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Murray State Part 141 aviation program.",
+    "description": "Part 141 aviation program at KCEY.",
     "isVeteranFriendly": true
   },
   {
@@ -7730,7 +7730,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Barkley Regional Airport.",
+    "description": "Flight training at KPAH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7749,7 +7749,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "HBCU with Part 141 aviation program in Baton Rouge.",
+    "description": "HBCU with Part 141 aviation program at KBTR.",
     "isVeteranFriendly": true
   },
   {
@@ -7767,7 +7767,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Portland International Jetport, ME.",
+    "description": "Flight training at KPWM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7784,7 +7784,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in northern Maine.",
+    "description": "Flight training at KPQI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7802,7 +7802,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Augusta State Airport.",
+    "description": "Flight training at KAUG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7820,7 +7820,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on Maryland's Eastern Shore.",
+    "description": "Flight training at KESN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7838,7 +7838,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on Cape Cod at Barnstable Municipal Airport.",
+    "description": "Flight training at KHYA. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7856,7 +7856,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Norwood Memorial Airport.",
+    "description": "Flight training at KOWD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7875,7 +7875,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college aviation at Duluth International. Part 141 approved.",
+    "description": "Part 141 aviation program at KDLH.",
     "isVeteranFriendly": true
   },
   {
@@ -7895,7 +7895,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "SCSU Part 141 aviation program.",
+    "description": "Part 141 aviation program at KSTC.",
     "isVeteranFriendly": true
   },
   {
@@ -7915,7 +7915,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Delta State Part 141 aviation program in the Mississippi Delta.",
+    "description": "Part 141 aviation program at KRNV.",
     "isVeteranFriendly": true
   },
   {
@@ -7933,7 +7933,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Tupelo Regional Airport, MS.",
+    "description": "Flight training at KTUP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7951,7 +7951,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training on the Mississippi Gulf Coast.",
+    "description": "Flight training at KGPT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7969,7 +7969,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Key Field, Meridian, MS.",
+    "description": "Flight training at KMEI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -7987,7 +7987,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Billings Logan International, MT. Mountain flying.",
+    "description": "Flight training at KBIL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8005,7 +8005,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training near Glacier National Park. Mountain and backcountry flying.",
+    "description": "Flight training at KGPI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8023,7 +8023,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Mountain flying training at Missoula International Airport.",
+    "description": "Flight training at KMSO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8041,7 +8041,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Mountain flying near Yellowstone at Bozeman Yellowstone International.",
+    "description": "Flight training at KBZN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8059,7 +8059,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lincoln Airport, NE.",
+    "description": "Flight training at KLNK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8078,7 +8078,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.silverhawkaviation.com",
-    "description": "Full-service FBO with flight training at Lincoln Airport.",
+    "description": "Flight training at KLNK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8096,7 +8096,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Kearney Regional Airport.",
+    "description": "Flight training at KEAR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8113,7 +8113,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at North Platte Regional Airport.",
+    "description": "Flight training at KLBF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8132,7 +8132,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Reno-Tahoe International. Mountain flying emphasis.",
+    "description": "Flight training at KRNO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8151,7 +8151,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Nashua Airport, NH.",
+    "description": "Flight training at KASH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8169,7 +8169,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Manchester-Boston Regional Airport.",
+    "description": "Flight training at KMHT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8187,7 +8187,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Laconia Municipal Airport.",
+    "description": "Flight training at KLCI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8204,7 +8204,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Dillant-Hopkins Airport, Keene, NH.",
+    "description": "Flight training at KEEN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8222,7 +8222,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Las Cruces International Airport, NM.",
+    "description": "Flight training at KLRU. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8241,7 +8241,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "University Part 141 aviation program in southwest New Mexico.",
+    "description": "Part 141 aviation program at KSVC.",
     "isVeteranFriendly": true
   },
   {
@@ -8259,7 +8259,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Roswell International Air Center.",
+    "description": "Flight training at KROW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8281,7 +8281,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://bluelineaviation.com",
-    "description": "Raleigh-Durham Part 141 school with airline career partnerships.",
+    "description": "Flight training at KRDU. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -8300,7 +8300,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college Part 141 aviation in the Sandhills of NC.",
+    "description": "Part 141 aviation program at KSOP.",
     "isVeteranFriendly": true
   },
   {
@@ -8319,7 +8319,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.fargojet.com",
-    "description": "FBO with flight training at Hector International Airport, Fargo.",
+    "description": "Flight training at KFAR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8340,7 +8340,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.ou.edu/aviation",
-    "description": "OU Part 141 aviation program. R-ATP eligible with airline partnerships.",
+    "description": "University Part 141 aviation program at KOUN. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -8359,7 +8359,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college Part 141 aviation at Eugene Airport.",
+    "description": "Part 141 aviation program at KEUG.",
     "isVeteranFriendly": true
   },
   {
@@ -8378,7 +8378,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at T.F. Green International Airport.",
+    "description": "Flight training at KPVD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8396,7 +8396,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at North Central State Airport, RI.",
+    "description": "Flight training at KSFZ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8413,7 +8413,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Westerly State Airport, RI.",
+    "description": "Flight training at KWST. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8432,7 +8432,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "State-supported Part 141 aviation training in Columbia, SC.",
+    "description": "Flight training at KCAE. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -8450,7 +8450,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Sioux Falls Regional Airport.",
+    "description": "Flight training at KFSD. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8468,7 +8468,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training near the Black Hills and Mount Rushmore.",
+    "description": "Flight training at KRAP. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8485,7 +8485,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Pierre Regional Airport.",
+    "description": "Flight training at KPIR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8504,7 +8504,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Austin Peay Part 141 aviation program near Fort Campbell.",
+    "description": "Part 141 aviation program at KCKV.",
     "isVeteranFriendly": true
   },
   {
@@ -8525,7 +8525,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "USU Part 141 aviation program. R-ATP eligible.",
+    "description": "University Part 141 aviation program at KLGU. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -8547,7 +8547,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://www.uvu.edu/aviation",
-    "description": "UVU Part 141 aviation program. Major airline pathway partnerships. R-ATP eligible.",
+    "description": "University Part 141 aviation program at KPVU. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -8567,7 +8567,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Westminster Part 141 aviation program in Salt Lake City.",
+    "description": "Part 141 aviation program at KSLC.",
     "isVeteranFriendly": true
   },
   {
@@ -8585,7 +8585,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Burlington International Airport, VT.",
+    "description": "Flight training at KBTV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8602,7 +8602,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Morrisville-Stowe State Airport.",
+    "description": "Flight training at KMVL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8620,7 +8620,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training near the Canadian border in Bellingham, WA.",
+    "description": "Flight training at KBLI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8639,7 +8639,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college Part 141 aviation program near Clarksburg, WV.",
+    "description": "Part 141 aviation program at KCKB.",
     "isVeteranFriendly": true
   },
   {
@@ -8657,7 +8657,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Morgantown Municipal Airport, WV.",
+    "description": "Flight training at KMGW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8675,7 +8675,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Yeager Airport, Charleston, WV.",
+    "description": "Flight training at KCRW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8693,7 +8693,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Mid-Ohio Valley Regional Airport.",
+    "description": "Flight training at KPKB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8712,7 +8712,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college Part 141 aviation in Kenosha, WI.",
+    "description": "Part 141 aviation program at KENW.",
     "isVeteranFriendly": true
   },
   {
@@ -8730,7 +8730,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Casper-Natrona County International Airport.",
+    "description": "Flight training at KCPR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8748,7 +8748,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "High-altitude flight training at Laramie Regional Airport.",
+    "description": "Flight training at KLAR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8766,7 +8766,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Cheyenne Regional Airport.",
+    "description": "Flight training at KCYS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8787,7 +8787,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": null,
-    "description": "JU Part 141 collegiate aviation program.",
+    "description": "Part 141 aviation program at KJAX.",
     "isVeteranFriendly": true
   },
   {
@@ -8808,7 +8808,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "Part 141 flight academy in South Florida.",
+    "description": "Flight training at KPMP. Part 141.",
     "isVeteranFriendly": true
   },
   {
@@ -8828,7 +8828,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "BGSU Part 141 aviation program.",
+    "description": "Part 141 aviation program at KDFI.",
     "isVeteranFriendly": true
   },
   {
@@ -8847,7 +8847,7 @@
     "hasSimulator": true,
     "priceRange": "$",
     "url": null,
-    "description": "Community college Part 141 aviation in Northern Colorado.",
+    "description": "Part 141 aviation program at KGXY.",
     "isVeteranFriendly": true
   },
   {
@@ -8867,7 +8867,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": null,
-    "description": "EMU Part 141 aviation program at Willow Run Airport.",
+    "description": "Part 141 aviation program at KYIP.",
     "isVeteranFriendly": true
   },
   {
@@ -8888,7 +8888,7 @@
     "hasSimulator": true,
     "priceRange": "$$",
     "url": "https://aviation.illinois.edu",
-    "description": "U of I Part 141 aviation institute. R-ATP eligible.",
+    "description": "University Part 141 aviation program at KCMI. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -8907,7 +8907,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Indianapolis Executive Airport.",
+    "description": "Flight training at KTYQ. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8929,7 +8929,7 @@
     "hasSimulator": true,
     "priceRange": "$$$",
     "url": "https://www.slu.edu/parks",
-    "description": "SLU Parks College \u2014 oldest aviation program in the US (1927). Part 141, R-ATP eligible.",
+    "description": "University aviation program at KCPS. Founded 1927. Part 141. R-ATP eligible.",
     "isVeteranFriendly": true
   },
   {
@@ -8947,7 +8947,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training near Cincinnati/Northern Kentucky International.",
+    "description": "Flight training at KCVG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8965,7 +8965,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Waterloo Regional Airport.",
+    "description": "Flight training at KALO. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -8983,7 +8983,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Sioux Gateway Airport.",
+    "description": "Flight training at KSUX. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9001,7 +9001,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at Worcester Regional Airport.",
+    "description": "Flight training at KORH. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9019,7 +9019,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Hattiesburg-Laurel Regional Airport.",
+    "description": "Flight training at KPIB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9037,7 +9037,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Great Falls International Airport.",
+    "description": "Flight training at KGTF. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9054,7 +9054,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Concord Municipal Airport.",
+    "description": "Flight training at KCON. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9071,7 +9071,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Four Corners Regional Airport.",
+    "description": "Flight training at KFMN. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9088,7 +9088,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Aberdeen Regional Airport.",
+    "description": "Flight training at KABR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9105,7 +9105,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Edward F. Knapp State Airport.",
+    "description": "Flight training at KMPV. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9122,7 +9122,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Wheeling-Ohio County Airport.",
+    "description": "Flight training at KHLG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9139,7 +9139,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Sheridan County Airport.",
+    "description": "Flight training at KSHR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9156,7 +9156,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Riverton Regional Airport.",
+    "description": "Flight training at KRIW. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9174,7 +9174,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Texarkana Regional Airport.",
+    "description": "Flight training at KTXK. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9192,7 +9192,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Coastal flight training at Groton-New London Airport.",
+    "description": "Flight training at KGON. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9210,7 +9210,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Lewiston-Nez Perce County Airport.",
+    "description": "Flight training at KLWS. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9228,7 +9228,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Caldwell Industrial Airport near Boise.",
+    "description": "Flight training at KEUL. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9246,7 +9246,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Bowling Green-Warren County Airport.",
+    "description": "Flight training at KBWG. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9263,7 +9263,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Scenic coastal flight training near Acadia National Park.",
+    "description": "Flight training at KBHB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9281,7 +9281,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Flight training at New Bedford Regional Airport.",
+    "description": "Flight training at KEWB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9298,7 +9298,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Memorial Field, Hot Springs.",
+    "description": "Flight training at KHOT. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9315,7 +9315,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Havre City-County Airport.",
+    "description": "Flight training at KHVR. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9333,7 +9333,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training in Alamogordo near Holloman AFB.",
+    "description": "Flight training at KALM. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9350,7 +9350,7 @@
     "hasSimulator": false,
     "priceRange": "$$",
     "url": null,
-    "description": "Island flight training at Block Island State Airport.",
+    "description": "Flight training at KBID. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9367,7 +9367,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Watertown Regional Airport.",
+    "description": "Flight training at KATY. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9384,7 +9384,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Greenbrier Valley Airport.",
+    "description": "Flight training at KLWB. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9402,7 +9402,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Flight training at Central Nebraska Regional Airport.",
+    "description": "Flight training at KGRI. Part 61.",
     "isVeteranFriendly": false
   },
   {
@@ -9419,7 +9419,7 @@
     "hasSimulator": false,
     "priceRange": "$",
     "url": null,
-    "description": "Coastal Maine flight training at Knox County Regional.",
+    "description": "Flight training at KRKD. Part 61.",
     "isVeteranFriendly": false
   }
 ]
