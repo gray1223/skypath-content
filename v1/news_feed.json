@@ -1,5 +1,115 @@
 [
   {
+    "id": "9624ef7ed8ab",
+    "title": "Your Next Trip Will Cost More: Global Airlines Cut Routes, Hike Fares Due To Fuel Spikes",
+    "summary": "Fuel costs account for up to 40% of an airline's costs; therefore, increasing fuel prices will result in increasing ticket fares!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T13:24:44Z",
+    "url": "https://simpleflying.com/global-airlines-cut-flights-increase-fares/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a2e326c3da67",
+    "title": "Wizz Air\u00a0to\u00a0launch\u00a0new Turin base\u00a0to serve\u00a0Spanish and Italian destinations",
+    "summary": "Wizz Air continues apace with its capacity redeployment in Western Europe, with the announcement of a new base&#8230; The post Wizz Air to launch new Turin base to serve Spanish and Italian destinations appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-09T13:05:42Z",
+    "url": "https://www.aerotime.aero/articles/wizz-air-to-launch-new-turin-base-to-serve-spanish-and-italian-destinations",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "950865b861e4",
+    "title": "United Airlines' Version Of The A321T: The Coastliner",
+    "summary": "When it comes to the US air travel market, there\u2019s often a clear distinction between international cabins and those used for domestic operations. Indeed, what is known as \u2018first class\u2019 domestic, is more like \u2018premium economy\u2019 for a long-haul inter-continental service. However,...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T12:27:16Z",
+    "url": "https://simpleflying.com/video/united-airlines-version-of-the-a321t-the-coastliner/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "08e8aa7ce4f5",
+    "title": "Soaring Salaries: Top Pilot Jobs Revealed",
+    "summary": "While compensated differently depending on their employer, top earners can make over $500,000 annually.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-09T12:00:00Z",
+    "url": "https://www.flyingmag.com/soaring-salaries-top-pilot-jobs-revealed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "25c06ce8b199",
+    "title": "The 6 Airliners With The Longest Flying Ranges Today",
+    "summary": "A closer look at some of the world's ultimate ultra-long-haul jetliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T11:00:16Z",
+    "url": "https://simpleflying.com/6-aircraft-longest-flying-range/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6b88fe600335",
+    "title": "FAA certifies Mammoth 777-200LRMF, Qatar Airways and DHL among future operators",
+    "summary": "The Federal Aviation Administration (FAA) has certified the Mammoth Freighters 777-200LRMF (Long Range Mammoth Freighter) clearing the converted&#8230; The post FAA certifies Mammoth 777-200LRMF, Qatar Airways and DHL among future operators appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-09T10:33:10Z",
+    "url": "https://www.aerotime.aero/articles/faa-certifies-mammoth-777-200lrmf-qatar-airways-dhl",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2654d739f7ed",
+    "title": "TAP Air Portugal reports fourth consecutive profit despite tax hit",
+    "summary": "TAP Air Portugal posted a net profit of \u20ac4.1 million in 2025, the airline announced on April 9,&#8230; The post TAP Air Portugal reports fourth consecutive profit despite tax hit appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-09T09:56:51Z",
+    "url": "https://www.aerotime.aero/articles/tap-air-portugal-2025-annual-results",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "54af02b5891d",
+    "title": "Comlux receives FAA approval for A220 ACJ TwoTwenty cabin, opening US market",
+    "summary": "Comlux Group announced on April 6, 2026, that its US subsidiary Comlux America has received a Supplemental Type&#8230; The post Comlux receives FAA approval for A220 ACJ TwoTwenty cabin, opening US market appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-09T09:32:35Z",
+    "url": "https://www.aerotime.aero/articles/comlux-receives-faa-approval-for-a220-acj-twotwenty-cabin-opening-us-market",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f9a37c761112",
+    "title": "FedEx pilots set to vote on new tentative contract agreement",
+    "summary": "FedEx pilots are expected to vote on a new tentative contract agreed between airline management and representatives from&#8230; The post FedEx pilots set to vote on new tentative contract agreement appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-09T08:35:20Z",
+    "url": "https://www.aerotime.aero/articles/fedex-pilots-vote-tentative-contract-agreement",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "9a9846b7f40c",
+    "title": "7 Airlines With The World\u2019s Most Efficient Widebody Fleets",
+    "summary": "These are the seven most efficient operators from around the world based on the size of their fleets of modern jets - A350s and 787s - and 777X orders",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T08:00:16Z",
+    "url": "https://simpleflying.com/7-airlines-worlds-most-efficient-widebody-fleets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "eaf73703bc03",
     "title": "American Airlines Hit With $255K FAA Penalty After Drug-Positive Crew Cleared To Fly",
     "summary": "AA is getting hit in the FAA crackdown.",
@@ -2086,61 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-02-04T20:26:28Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/february/04/pr-aopa-announces-leadership-transition-as-ceo-moves-to-advisory-role?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59b75be33641",
-    "title": "Utah airport reforms hangar lease policy",
-    "summary": "After nearly a year of public comment, meetings, and federal review, airport officials in southern Utah have adopted a revised hangar leasing policy (also known as Non-Commercial Hangar Leasing Policy) at St. George Regional Airport, following joint advocacy by AOPA and engage...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-04T18:34:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/04/utah-airport-reforms-hangar-lease-policy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7b16bec080f2",
-    "title": "Missionary aviation groups offer youth summer camps",
-    "summary": "Seventy years after pioneering missionary pilot Nate Saint and four fellow missionaries lost their lives following their calling, the organization Saint served is among a few groups offering summer camps to train and inspire a new generation of pilots to follow in Saint's foot...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-04T09:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/04/missionary-aviation-groups-offer-youth-summer-camps?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "785442839655",
-    "title": "Assessing weather conditions at rural airports",
-    "summary": "For many GA pilots, the first decision of the day happens long before the preflight inspection and the turning of the keys.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-04T09:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/04/assessing-weather-conditions-at-rural-airports?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f22625b0f426",
-    "title": "Training and Safety Tip: Check your boots",
-    "summary": "As the seasons change and temperatures drop, it&rsquo;s normal for tire pressure to decrease slightly because colder air is more dense than warmer air.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-04T01:16:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/03/training-and-safety-tip-check-your-boots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "118c09eceebe",
-    "title": "Power through learning plateaus",
-    "summary": "Learning plateaus are a normal part of flight training, but that doesn&rsquo;t make them any less frustrating or discouraging.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-03T22:24:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/03/power-through-learning-plateaus?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
