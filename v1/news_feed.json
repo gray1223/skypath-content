@@ -1,5 +1,60 @@
 [
   {
+    "id": "d97bee680c3c",
+    "title": "American Airlines Plans To Resume Flights Between Miami & Venezuela This Month",
+    "summary": "After a six-year hiatus, American Airlines is poised to reignite flights between the US and Venezuela, with a daily Miami-Caracas route.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T19:03:15Z",
+    "url": "https://simpleflying.com/american-airlines-resume-flights-miami-venezuela-april-2026/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f42ed5cb1e48",
+    "title": "The Viral Rafale-Escort Photo Isn't France's \"Air Force One\": How Nations Really Fly Their Leaders",
+    "summary": "A Rafale escort went viral, but France isn\u2019t alone, world leaders travel using diverse aircraft, from flying command posts to flexible VIP fleets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T17:00:22Z",
+    "url": "https://simpleflying.com/viral-rafale-escort-photo-france-air-force-one-how-6-nations-fly-leaders/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2368ec222b30",
+    "title": "DoorDash Drone Delivery Lifts Off in Atlanta",
+    "summary": "App-based program is taking flight in cities across the U.S.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-09T17:00:00Z",
+    "url": "https://www.flyingmag.com/doordash-drone-delivery-wing-atlanta/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "16164b5df368",
+    "title": "Portuguese Air Force Chooses Tecnam P-Mentor for Pilot Training",
+    "summary": "Elementary flight training program will include seven new aircraft and integrated logistics support.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-04-09T16:00:00Z",
+    "url": "https://www.flyingmag.com/portuguese-air-force-chooses-tecnam-p-mentor-for-pilot-training/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "64c36d660965",
+    "title": "Reliable Robotics Completes Detect-And-Avoid Flight Testing",
+    "summary": "Company says data from airport-area flights will support ongoing FAA and RTCA standards work for uncrewed aircraft integration.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-09T15:38:31Z",
+    "url": "https://avweb.com/aviation-news/drones/reliable-robotics-detect-and-avoid-testing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "9624ef7ed8ab",
     "title": "Your Next Trip Will Cost More: Global Airlines Cut Routes, Hike Fares Due To Fuel Spikes",
     "summary": "Fuel costs account for up to 40% of an airline's costs; therefore, increasing fuel prices will result in increasing ticket fares!",
@@ -2141,61 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-02-11T01:36:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/february/10/training-and-safety-tip-fly-in-safe-spaces?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9441497aa736",
-    "title": "Super Bowl procedures in effect at many California airports",
-    "summary": "Flying general aviation in the San Francisco Bay Area through February 10, 2026? If your intended destination is on the FAA&rsquo;s list of airports implementing Super Bowl procedures, you&rsquo;re strongly encouraged to contact the airport or FBO to ensure space, confirm requ...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-06T01:36:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/05/super-bowl-procedures-in-effect-at-many-california-airports?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "87105fbc6997",
-    "title": "Congress passes FAA funding bill",
-    "summary": "A new government funding bill signed into law on February 4 will deliver major investments in air traffic control modernization, controller staffing, and addressing medical certification delays&mdash;while also blocking any effort to privatize the ATC system.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-06T01:19:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/05/congress-passes-faa-funding-bill?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "051f9cdfa070",
-    "title": "Denver pilots shocked by hangar rate hike",
-    "summary": "Hangar tenants facing an 82-percent rent increase contacted AOPA for help, and when the Denver FBO failed to justify the new rate under the FAA \"fair and reasonable\" standard, the affected pilots proceeded to file an airport compliance complaint under FAR Part 13.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-06T00:47:52Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/05/denver-pilots-shocked-by-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0d22e034adae",
-    "title": "Alton Bay opens ice runway for the 2026 season",
-    "summary": "Aircraft began operating on the lower 48's only officially recognized ice runway at Alton Bay Seaplane Base following its late January opening.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-05T21:04:04Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/05/alton-bay-opens-ice-runway-for-the-2026-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eac3e50da2ba",
-    "title": "AOPA Announces Leadership Transition as CEO Moves to Advisory Role",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) today announced a leadership transition as President and CEO Darren Pleasance steps out of the day-to-day CEO role and into an advisory capacity to support AOPA and the Board of Trustees during the search for AOP...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-04T20:26:28Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/04/pr-aopa-announces-leadership-transition-as-ceo-moves-to-advisory-role?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
