@@ -1,5 +1,38 @@
 [
   {
+    "id": "eaf73703bc03",
+    "title": "American Airlines Hit With $255K FAA Penalty After Drug-Positive Crew Cleared To Fly",
+    "summary": "AA is getting hit in the FAA crackdown.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T06:33:41Z",
+    "url": "https://simpleflying.com/american-airlines-faa-penalty-drug-positive-crew/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a4facd9dac75",
+    "title": "US Army Advances Bell & M1 In Bid To Outsource Future Helicopter Pilot Training",
+    "summary": "The final phase of Flight School Next is coming.",
+    "source": "Simple Flying",
+    "category": "training",
+    "publishedDate": "2026-04-10T05:21:57Z",
+    "url": "https://simpleflying.com/us-army-advance-bell-m1-outsource-future-helicopter-training/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3c5e31791f7",
+    "title": "Here's What United Airlines' New Base Polaris Fare Actually Costs You In Lost Perks",
+    "summary": "What do the changes mean for the airline's business class passengers?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T05:00:17Z",
+    "url": "https://simpleflying.com/what-united-airlines-new-base-polaris-fare-costs-lost-perks/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "197d53f472f2",
     "title": "From 19 B-2 Spirits To 145 B-21 Raiders: How Much Bigger America's Stealth Bomber Fleet Is About To Get",
     "summary": "A $4.5 billion production deal signal the Air Force's commitment to building its next-generation bomber",
@@ -272,17 +305,6 @@
     "publishedDate": "2026-04-09T08:00:16Z",
     "url": "https://simpleflying.com/7-airlines-worlds-most-efficient-widebody-fleets/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eaf73703bc03",
-    "title": "American Airlines Hit With $255K FAA Penalty After Drug-Positive Crew Cleared To Fly",
-    "summary": "AA is getting hit in the FAA crackdown.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-09T05:35:47Z",
-    "url": "https://simpleflying.com/american-airlines-faa-penalty-drug-positive-crew/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   },
   {
@@ -2174,28 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-02-25T01:51:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/february/24/pr-aopa-statement-on-house-vote-on-rotor-act?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "997d137adf92",
-    "title": "Training and Safety Tip: 'Decisions and revisions'",
-    "summary": "There\u2019s an old saying that takeoffs are optional, but landings\u2026well\u2026not so much. Within the constraints of remaining fuel, choosing the time and place of landing is entirely up to you as pilot in command.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-24T21:03:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/24/training-and-safety-tip-decisions-and-revisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ded6c749976d",
-    "title": "Legends that lift",
-    "summary": "The logbook of Ricardo Astillero II holds the signature of Tuskegee-era instructor Roscoe Draper&mdash;and a letter of recommendation from another aviation giant, Les Morris.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-23T20:52:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/23/legends-that-lift?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
