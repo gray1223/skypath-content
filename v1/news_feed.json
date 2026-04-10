@@ -1,5 +1,115 @@
 [
   {
+    "id": "197d53f472f2",
+    "title": "From 19 B-2 Spirits To 145 B-21 Raiders: How Much Bigger America's Stealth Bomber Fleet Is About To Get",
+    "summary": "A $4.5 billion production deal signal the Air Force's commitment to building its next-generation bomber",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T23:01:18Z",
+    "url": "https://simpleflying.com/19-b-2-spirits-145-b-21-raiders-bigger-americas-stealth-bomber-fleet-get/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2083cc684850",
+    "title": "Federal Aviation Administration's Crippling Shortage Risks Mass Flight Delays & Safety",
+    "summary": "More than 5,100 accidents had a narrative that air traffic control was a factor or probable cause.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T22:55:31Z",
+    "url": "https://simpleflying.com/faa-crippling-shortage-risk-flight-delays-safety/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35f47dfaf53d",
+    "title": "Airbus Delivered 60 New Planes In March, But Overall Q1 Output Lags 16% From Last Year",
+    "summary": "Pratt & Whitney engine delays are now the clearest drag on Airbus\u2019 2026 delivery performance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T22:37:37Z",
+    "url": "https://simpleflying.com/airbus-delivered-60-new-planes-march-q1-output-lags-16-percent-2025/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eeea7e9aba99",
+    "title": "Ouch: American Airlines Joins 4 Other US Carriers In Raising Checked Bag Fees",
+    "summary": "American Airlines becomes the latest US carrier to increase checked bag fees for basic economy tickets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T22:22:42Z",
+    "url": "https://simpleflying.com/american-airlines-4-other-us-carriers-raising-checked-bag-fees/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "22a08741ac63",
+    "title": "Why Airlines Prefer Window Shades To Be Open During Taxi, Takeoff, & Landing",
+    "summary": "This is a simple safety concept, but not all airlines agree.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T22:00:19Z",
+    "url": "https://simpleflying.com/why-airlines-prefer-window-shades-open-taxi-takeoff-landing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e393ec7995e2",
+    "title": "Frontier Airlines Pilots Slam Brakes On Busy LAX Taxiway: \u201c2 Trucks Just Cut Us Off\u201d",
+    "summary": "The near-miss has sparked concerns about vehicle transponders, following the deadly Air Canada crash last month.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-09T21:44:15Z",
+    "url": "https://simpleflying.com/frontier-airlines-pilots-slam-brakes-busy-lax-taxiway-trucks-cut-off/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3b50080dd852",
+    "title": "EAA Aviation Foundation Awards 127 Scholarships for 2025-26",
+    "summary": "Flight training and post-secondary awards total more than $800,000.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-04-09T20:59:59Z",
+    "url": "https://avweb.com/flight-safety/flight-training/eaa-aviation-foundation-scholarships-2025/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "29f0feae9d93",
+    "title": "House Set To Vote on ALERT Act Next Week",
+    "summary": "Measure would direct FAA rulemaking on collision-avoidance systems, airspace procedures and military operations.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-04-09T20:05:28Z",
+    "url": "https://avweb.com/aviation-news/aviation-law/house-set-to-vote-on-alert-act-next-week/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b538028b568a",
+    "title": "US Navy Pilots In Training Will Now Make Their 1st Carrier Landing In An F/A-18 Or F-35",
+    "summary": "No tailhook required to earn wings of gold?",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-09T20:00:17Z",
+    "url": "https://simpleflying.com/us-navy-pilots-training-1st-carrier-landing-f-a-18-f-35/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "103ed96c15a6",
+    "title": "FAA Pilot Population Climbs Again In 2025",
+    "summary": "Latest Civil Airmen Statistics show the strongest gains from student pilots.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-04-09T19:24:49Z",
+    "url": "https://avweb.com/aviation-news/faa-pilot-population-climbs-again-in-2025/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d97bee680c3c",
     "title": "American Airlines Plans To Resume Flights Between Miami & Venezuela This Month",
     "summary": "After a six-year hiatus, American Airlines is poised to reignite flights between the US and Venezuela, with a daily Miami-Caracas route.",
@@ -2086,116 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-02-23T20:52:51Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/february/23/legends-that-lift?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "58773ad71dfb",
-    "title": "AOPA\u2019s Air Safety Institute Releases Early Analysis of Steamboat Springs, Colorado Crash",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association Air Safety Institute (ASI) has released a new video providing an early look at last week\u2019s crash that left four people dead south of Steamboat Springs, Colorado.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-20T01:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/19/pr-aopas-air-safety-institute-releases-early-analysis-of-steamboat-springs-colorado-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ba0a0ad8adb",
-    "title": "Finding a smooth ride",
-    "summary": "The FAA&rsquo;s Aviation Weather Demonstration and Evaluation Services wants to know how you determine whether there&rsquo;s turbulence along your route of flight and which features are most valuable to you when making that determination.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-19T21:22:41Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/19/finding-a-smooth-ride?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2f74c66b7437",
-    "title": "\u2018Incompatible\u2019 land use continues in Colorado town",
-    "summary": "Ground was broken on a 200-apartment complex less than half a mile from the end of Runway 29 at Vance Brand Airport in Longmont, Colorado, despite the developer never filing appropriate paperwork with the FAA.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-19T20:48:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/19/incompatible-land-use-continues-in-colorado-town?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "705bd492dad4",
-    "title": "NTSB chair voices support for PAPA",
-    "summary": "NTSB Chairwoman Jennifer Homendy voiced support for the Pilot and Aircraft Privacy Act (PAPA) in an exchange with Sen. Ted Budd (R-N.C.) during a February 12 Senate Commerce, Science, and Transportation Committee hearing on aviation safety and the midair collision between a mi...",
-    "source": "AOPA",
-    "category": "regulatory",
-    "publishedDate": "2026-02-19T20:23:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/19/ntsb-chair-voices-support-for-papa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "93902016c242",
-    "title": "Alaska weather charts upgraded",
-    "summary": "The National Weather Service&rsquo;s Alaska Aviation Weather Unit is making some significant changes to its Surface and Significant Weather charts.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-19T20:15:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/19/alaska-weather-charts-upgraded?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eaf3a420811b",
-    "title": "Training and Safety Tip: Snow room for error",
-    "summary": "The winter months pose a unique set of challenges for pilots flying in regions where snow and ice are common.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-17T18:40:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/17/training-and-safety-tip-snow-room-for-error?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7c11f91d4514",
-    "title": "Added awareness where pilots need it most",
-    "summary": "Misjudging height above the surface is one of the most unforgiving errors in general aviation, and Garmin's GHA 15 height advisor brings certified radar-based height-above-ground awareness to a broad range of GA aircraft.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-12T17:44:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/12/added-awareness-where-pilots-need-it-most?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fbeecd434a60",
-    "title": "Arizona legislation would limit ADS-B misuse",
-    "summary": "A bill authored by local pilot CJ deVries and introduced by state Rep. Matt Gress (R-District 4) would prohibit the state, its political subdivisions, or private entities from using information transmitted through an aircraft collision avoidance safety system known as ADS-B to...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-12T09:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/12/arizona-legislation-would-limit-ads-b-misuse?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "64c05c7e6db3",
-    "title": "How debriefs build better pilots",
-    "summary": "The engine shuts down, the postflight is done. The instructor and student walk back into the building to grab a coffee, talk briefly, and go on to the next flight or home. Or maybe, just chat on the walk back inside, and call it a day.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-02-11T09:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/11/how-debriefs-build-better-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "802f0535ec1c",
-    "title": "Training and Safety Tip: Fly in safe spaces",
-    "summary": "Following a defined visual or instrument approach to any airport creates a reasonable expectation you will remain clear of any obstructions. The FAA has established rules and regulations regarding airport environments, including established approaches&mdash;both instrument and...",
-    "source": "AOPA",
-    "category": "regulatory",
-    "publishedDate": "2026-02-11T01:36:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/february/10/training-and-safety-tip-fly-in-safe-spaces?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
