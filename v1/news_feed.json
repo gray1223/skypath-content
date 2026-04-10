@@ -1,5 +1,115 @@
 [
   {
+    "id": "a597733235e7",
+    "title": "Boeing's 777X Just Hit A Key Certification Gate: What \"Production-Standard\" Really Means",
+    "summary": "The aircraft is set to enter commercial service in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T18:00:18Z",
+    "url": "https://simpleflying.com/boeing-777x-key-certification-gate-what-production-standard-really-means/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b64b6f11d644",
+    "title": "Alaska Airlines' 1st Europe Flight Launches This Month \u2013 Delta Is Already Fighting Back",
+    "summary": "The carrier has made a groundbreaking move.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T17:00:18Z",
+    "url": "https://simpleflying.com/alaska-airlines-1st-europe-flight-launch-delta-fighting-back/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "4299b5551561",
+    "title": "What FAA Data Shows About Student Pilots and a Younger Pilot Population",
+    "summary": "New 2025 figures show continued growth in the training pipeline and a milestone for women in aviation.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-04-10T16:27:33Z",
+    "url": "https://www.flyingmag.com/what-faa-data-shows-about-student-pilots-and-a-younger-pilot-population/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ee434a90df7",
+    "title": "FAA\u2019s Latest ATC Recruiting Strategy Targets\u2026Gamers?",
+    "summary": "The agency is turning to an atypical pool of potential applicants to address a chronic shortage.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-10T16:27:09Z",
+    "url": "https://www.flyingmag.com/faa-atc-recruiting-strategy-targets-gamers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0530a8f1fc17",
+    "title": "Air Force Boosts FY26 Aviation Bonus Incentives",
+    "summary": "Program increases payouts for shorter commitments, with total contracts reaching up to $600,000.",
+    "source": "AvWeb",
+    "category": "pay",
+    "publishedDate": "2026-04-10T16:20:13Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/air-force-boosts-fy26-aviation-bonuses/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a636852e0ccc",
+    "title": "Why This United Airlines Boeing 767 Only Has 56 Economy Seats",
+    "summary": "United\u2019s 56-seat-economy 767 shows how far the airline is pushing premium.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T15:46:32Z",
+    "url": "https://simpleflying.com/why-this-united-airlines-boeing-767-only-has-56-economy-seats/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2393e6e3319d",
+    "title": "FAA Opens Controller Hiring Window With New Recruitment Campaign",
+    "summary": "Video game-themed recruitment campaign kicks off as application window opens April 17.",
+    "source": "AvWeb",
+    "category": "hiring",
+    "publishedDate": "2026-04-10T15:41:10Z",
+    "url": "https://avweb.com/aviation-news/faa-controller-hiring-window-recruitment/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "52236ee3fafa",
+    "title": "FAA Certifies Mammoth\u2019s Boeing 777-200LR For Cargo Conversion",
+    "summary": "Qatar Airways is among the carriers set to benefit from the certification.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T14:05:49Z",
+    "url": "https://simpleflying.com/faa-certifies-mammoth-boeing-777-200lr-cargo-conversion/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "947b2bc21003",
+    "title": "Why The US Air Force Believes 1 Aircraft Can Replace Both The C-17 Globemaster & C-5 Galaxy",
+    "summary": "The USAF\u2019s NGAL aims to replace both the C-17 and C-5 with one aircraft\u2014blending tactical agility and massive lift into a single future platform.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T14:01:18Z",
+    "url": "https://simpleflying.com/us-air-force-aircraft-replace-both-c-17-globemaster-c-5-galaxy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28e0d3fa98f3",
+    "title": "French Air Force Cirrus SR-20 crashes during training flight in southern France",
+    "summary": "A Cirrus SR-20 training aircraft belonging to the French Air and Space Force crashed on the morning of&#8230; The post French Air Force Cirrus SR-20 crashes during training flight in southern France appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-10T13:33:49Z",
+    "url": "https://www.aerotime.aero/articles/french-air-force-cirrus-sr20-crash-training-montagne-lure",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "5ffb0ab5e7ca",
     "title": "American Airlines aims to restart US flights to Venezuela at end of April",
     "summary": "American Airlines is aiming to restart US flights to Venezuela by the end of April 2026, subject to&#8230; The post American Airlines aims to restart US flights to Venezuela at end of April appeared first on AeroTime.",
@@ -2086,116 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-03-12T22:30:14Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/march/12/florida-lawmakers-back-ban-on-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2cf86624b07f",
-    "title": "Support Grows for Bills Banning ADS-B Misuse",
-    "summary": "WASHINGTON\u2014Support is growing to prohibit the use of Automatic Dependent Surveillance-Broadcast (ADS-B) data to collect fees from pilots\u2014in Congress, where the Pilot and Aircraft Privacy Act (PAPA) is gaining cosponsors, in state capitols across the country, and among top avia...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-12T02:12:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/11/pr-support-grows-for-bills-banning-ads-b-misuse?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b29afe1c465a",
-    "title": "Training and Safety Tip: Silent yet safe",
-    "summary": "It may surprise you to learn that airplanes are not required to have two-way radios. That\u2019s partly because the airplane predates the invention of radios portable enough to be aeronautically practical.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-10T22:35:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/10/training-and-safety-tip-silent-yet-safe?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fa03f7d80cfd",
-    "title": "Open source ground school",
-    "summary": "Cutting the costs of flight training&mdash;but not the standards&mdash;Pilot Training System (PTS) is pushing open education principles into aviation.&nbsp;",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-10T21:29:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/10/open-source-ground-school?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cb7b04160c42",
-    "title": "AOPA seeks reconsideration of Starlink price hikes",
-    "summary": "AOPA and the International Council of Aircraft Owner and Pilot Associations&mdash;representing 400,000 pilots from more than 80 countries&mdash;sent a letter to SpaceX CEO and founder Elon Musk, expressing concern about Starlink&rsquo;s recent price increase for general aviati...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-10T17:37:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/10/aopa-seeks-reconsideration-of-starlink-price-hikes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f1f7b5a4d1a2",
-    "title": "AOPA Expresses Concern About Starlink Price Hikes for GA Pilots",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) and the International Council of Aircraft Owner and Pilot Associations (IAOPA)\u2014representing 400,000 pilots from more than 80 countries\u2014are expressing concern about Starlink\u2019s recent price increase for general avi...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-09T18:27:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/09/pr-aopa-expresses-concern-about-starlink-price-hikes-for-ga-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ce1806f21543",
-    "title": "AOPA Foundation Announces National Winners of Top Flight School, Instructor Awards",
-    "summary": "LAKELAND, Fla.\u2014The Aircraft Owners and Pilots Association (AOPA) Foundation announced the national winners of its 2026 Flight Training Experience Awards\u2014recognizing the country\u2019s top flight school and top flight instructor\u2014during an award ceremony on March 4 at Redbird Migrati...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-06T20:02:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/06/pr-aopa-foundation-announces-national-winners-of-top-flight-school-instructor-awards?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fb687439250e",
-    "title": "Maintain clear, comfortable vision with Claroxan Advanced",
-    "summary": "For pilots and aircraft owners, clear vision is essential to everyday flying. Whether you&rsquo;re navigating busy airspace, monitoring instruments, or flying at dusk, visual comfort and clarity play an important role in confidence and safety.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-06T17:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/06/maintain-clear-comfortable-vision-with-claroxan-advanced?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "19afd600b3eb",
-    "title": "GA icon 'Russ'  Meyer Jr. mourned",
-    "summary": "A former fighter pilot who played a key role in saving the single-engine piston airplane from the scrap heap of history, Russ Meyer Jr. died March 4 in Wichita, Kansas.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-05T20:15:04Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/05/ga-icon-russ-myer-jr-mourned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9e14b88d0841",
-    "title": "AOPA Mourns the Passing of Russ Meyer",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) mourns the loss of Russell W. Meyer, Jr., one of the most consequential leaders in the history of general aviation and longtime Chairman and CEO of Cessna Aircraft Company.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-05T20:13:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/05/pr-aopa-mourns-the-passing-of-russ-meyer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d59f8f398479",
-    "title": "Be counted",
-    "summary": "It's an invitation-only opportunity not to be missed: the annual survey of general aviation aircraft owners that the FAA conducts to calculate hours flown and allocate resources.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-04T19:40:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/04/annual-ga-activity-survey-underway?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
