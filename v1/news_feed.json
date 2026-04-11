@@ -1,5 +1,93 @@
 [
   {
+    "id": "04d710f5b3fb",
+    "title": "10 Years From Now, This Is What Happens To Today\u2019s Boeing 777 Fleet",
+    "summary": "Delays within the 777X program mean we could frequently be seeing older variants from the family for years yet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-11T01:00:17Z",
+    "url": "https://simpleflying.com/10-years-happens-today-boeing-777-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e58b4e2d9699",
+    "title": "The World's Most Comfortable Premium Economy Doesn't Have The Most Legroom",
+    "summary": "Emirates won the premium economy seats category in the Skytrax awards, yet it has less legroom than that of Japan Airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-11T00:00:17Z",
+    "url": "https://simpleflying.com/worlds-most-comfortable-premium-economy-doesnt-have-most-legroom/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3160a7c6b1db",
+    "title": "Delta Air Lines Retires Its Oldest Widebody After Nearly 36 Years & 150,000 Flight Hours",
+    "summary": "The aircraft has operated continuously for the airline since the 1990's.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T22:58:56Z",
+    "url": "https://simpleflying.com/delta-air-lines-retires-oldest-widebody-36-years-150000-flight-hours/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d67172fa3c86",
+    "title": "Why The Workhorse Of The World\u2019s Cargo Airlines Is No Longer In Production",
+    "summary": "The final Boeing 747 was delivered in January 2023.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T21:30:18Z",
+    "url": "https://simpleflying.com/workhorse-worlds-cargo-airlines-no-longer-production-why/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4c4645f81ff",
+    "title": "Virginia Airport Rebrand Draws Local Opposition",
+    "summary": "Manassas weighs adding \u201cWashington\u201d to airport name ahead of planned airline service.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-10T21:21:42Z",
+    "url": "https://avweb.com/aviation-news/virginia-airport-rebrand-draws-opposition/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dab2ff61ea5d",
+    "title": "A Look At The Salaries Of US Air Force Pilots In 2026 & Why $50,000 Bonuses Still Can't Keep Them",
+    "summary": "The story behind the Air Force's depleted pilot ranks.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-04-10T21:00:18Z",
+    "url": "https://simpleflying.com/salaries-usaf-pilots-2026-why-bonuses-cant-keep-them/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "612055ad9ed0",
+    "title": "Final Countdown: RDU Welcomes Record 5th New Long-Haul Airline Next Week",
+    "summary": "Irish carrier Aer Lingus set to become the fifth international long-haul carrier to serve Raleigh-Durham International Airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T20:48:47Z",
+    "url": "https://simpleflying.com/rdu-welcomes-record-5th-long-haul-airline-next-week/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "548cdb966d46",
+    "title": "United Airlines' 15 Busiest Flights: Routes With 1 Million Passengers Revealed",
+    "summary": "The carrier's busiest route carried 1.53 million passengers last year, connecting two major hubs. But which others made the top 15?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-10T20:00:17Z",
+    "url": "https://simpleflying.com/united-airlines-15-busiest-flights-routes-with-1-million-passengers-revealed/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "a597733235e7",
     "title": "Boeing's 777X Just Hit A Key Certification Gate: What \"Production-Standard\" Really Means",
     "summary": "The aircraft is set to enter commercial service in 2027.",
@@ -930,7 +1018,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-08T00:36:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/aircraft-maintenance-spring-cleaning?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/aircraft-maintenance-spring-cleaning?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-07T18:28:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/somebody-is-watching-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/somebody-is-watching-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1084,7 +1172,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-07T16:02:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/naval-aviator-iaopa-secretary-general-john-sheehan-remembered?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/naval-aviator-iaopa-secretary-general-john-sheehan-remembered?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1227,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-06T21:51:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/06/the-financial-reality-behind-pay-upfront-flight-training?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/06/the-financial-reality-behind-pay-upfront-flight-training?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1249,7 +1337,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-06T21:18:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/06/recommendations-for-part-141-overhaul-released?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/06/recommendations-for-part-141-overhaul-released?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1392,7 +1480,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-02T22:24:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/tfr-violations-continue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/02/tfr-violations-continue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1491,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-02T22:16:04Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/mayor-excludes-faa-from-hearing-on-closing-burke-lakefront?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/02/mayor-excludes-faa-from-hearing-on-closing-burke-lakefront?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1425,7 +1513,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-04-02T19:15:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/basicmed-guidance-updated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/02/basicmed-guidance-updated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1590,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-01T16:49:03Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/01/pilots-perspective-on-love-story-jfk-jr-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/01/pilots-perspective-on-love-story-jfk-jr-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1557,7 +1645,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-31T23:01:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/31/training-and-safety-tip-know-your-newton?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/31/training-and-safety-tip-know-your-newton?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1579,7 +1667,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-31T18:06:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/31/a-wild-ride?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/31/a-wild-ride?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1755,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-27T19:50:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/27/cau-names-second-reach-flight-center?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/27/cau-names-second-reach-flight-center?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1766,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-27T19:40:43Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/27/pr-aopa-statement-on-retirement-of-house-ti-chairman-sam-graves?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/27/pr-aopa-statement-on-retirement-of-house-ti-chairman-sam-graves?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1898,7 +1986,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-26T21:56:53Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/26/house-committee-passes-amended-alert-act-includes-papa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/26/house-committee-passes-amended-alert-act-includes-papa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "American Airlines",
     "isBreaking": false
   },
@@ -1920,7 +2008,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-26T19:43:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/26/pr-aopa-commends-house-committee-passage-of-bipartisan-bill-to-advance-aviation-safety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/26/pr-aopa-commends-house-committee-passage-of-bipartisan-bill-to-advance-aviation-safety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1931,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-26T19:02:54Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/26/archer-intercepted-by-us-navy-super-hornets-near-iran?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/26/archer-intercepted-by-us-navy-super-hornets-near-iran?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1986,7 +2074,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-25T19:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/25/pr-coalition-promotes-burke-lakefront-opportunities-pushes-back-against-mayors-hypothetical-concepts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/25/pr-coalition-promotes-burke-lakefront-opportunities-pushes-back-against-mayors-hypothetical-concepts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2030,7 +2118,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-24T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/24/training-and-safety-tip-maintain-airspace-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/24/training-and-safety-tip-maintain-airspace-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2041,7 +2129,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-24T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/24/faa-letter-confirms-whiteman-airport-obligated-to-remain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/24/faa-letter-confirms-whiteman-airport-obligated-to-remain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2052,7 +2140,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-23T22:31:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/23/how-one-pilot-lives-the-weather-she-forecasts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/23/how-one-pilot-lives-the-weather-she-forecasts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2063,7 +2151,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-23T19:16:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/23/opportunity-on-every-horizon?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/23/opportunity-on-every-horizon?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2074,7 +2162,7 @@
     "source": "AOPA",
     "category": "hiring",
     "publishedDate": "2026-03-23T18:34:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/23/airline-pilot-hiring-expands-in-2026?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/23/airline-pilot-hiring-expands-in-2026?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2085,7 +2173,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-20T22:20:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/20/faa-expands-swift-unleaded-approval?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/20/faa-expands-swift-unleaded-approval?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2096,7 +2184,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-20T18:12:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/20/situational-awareness-begins-with-clear-vision?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/20/situational-awareness-begins-with-clear-vision?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2107,95 +2195,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-20T17:16:49Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/20/pr-aopa-board-of-trustees-elects-new-chairman-previews-bylaw-changes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "006eceadbaf5",
-    "title": "Aviation Industry Expresses Concern About Proposed Burke Lakefront Closure",
-    "summary": "WASHINGTON\u2014The Aircraft Owners and Pilots Association (AOPA) joined a number of other aviation industry organizations to express concern about Cleveland Mayor Justin Bibb\u2019s proposal to close Burke Lakefront Airport.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-19T23:06:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/19/pr-aviation-industry-expresses-concern-about-proposed-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cf812457e5e1",
-    "title": "AOPA Honors Aviation\u2019s Finest at 2026 Hoover Awards",
-    "summary": "WASHINGTON\u2014The Aircraft Owners and Pilots Association (AOPA) honored six aviation leaders on March 17 at the annual Hoover Awards ceremony at the National Air and Space Museum in Washington, D.C. The awards, named for legendary aviator R.A. \u201cBob\u201d Hoover, recognize individuals ...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-19T23:01:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/19/pr-aopa-honors-aviations-finest-at-2026-hoover-awards?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "458e8d5af4eb",
-    "title": "AOPA honors Southern Utah Aviation Association",
-    "summary": "AOPA recognized the Southern Utah Aviation Association (SUAA) with the 2026 AOPA Advocacy Partnership Award for the Northwest Mountain Region for its successful collaboration with airport leadership to improve policies affecting local pilots.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-19T17:59:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/19/aopa-honors-southern-utah-aviation-association?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5476cc9f2dde",
-    "title": "A mountain airport built on community",
-    "summary": "At Auburn Municipal Airport located in the Sierra Nevada foothills northeast of Sacramento, California, aviation has long been sustained not by airplanes and flight schools, but by mentors, volunteers, and pilots who believe in sharing what they know.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-18T23:15:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/18/a-mountain-airport-built-on-community?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7009389e55a9",
-    "title": "Training and Safety Tip: Be a team pilot",
-    "summary": "Dazzling displays of teamwork need not be reserved for professional sports arenas or hospital operating rooms. Even the seemingly solitary solo pilot is part of a team.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-17T19:30:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/17/training-and-safety-tip-be-a-team-pilot?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "300a55b99f46",
-    "title": "AOPA Seeks Federal Intervention After Airplane Seized by Minnesota Tribe",
-    "summary": "WASHINGTON&mdash;The Aircraft Owners and Pilots Association (AOPA) sent a second letter to Secretary of the Interior Doug Burgum and Secretary of Transportation Sean Duffy, urging them to step in after an AOPA member&rsquo;s airplane was seized following an emergency landing o...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-14T02:07:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/13/pr-aopa-seeks-federal-intervention-after-airplane-seized-by-minnesota-tribe?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d2dcba684eb7",
-    "title": "FAA approves turbocharger clamp sought by thousands",
-    "summary": "Since the 1970s the connection between the turbocharger and the exhaust system has been problematic, causing a significant number of incidents and accidents when the junction failed, allowing red-hot exhaust gases into the cowling. The weak point in the system was a clamp know...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-12T23:29:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/12/faa-approves-turbocharger-clamp-sought-by-thousands?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7b584e531865",
-    "title": "Florida lawmakers back ban on ADS-B billing",
-    "summary": "Lawmakers in Florida are sending a bill to Gov. Ron DeSantis&rsquo;s desk that would prohibit the use of ADS-B data to charge fees to pilots.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-12T22:30:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/12/florida-lawmakers-back-ban-on-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/march/20/pr-aopa-board-of-trustees-elects-new-chairman-previews-bylaw-changes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
