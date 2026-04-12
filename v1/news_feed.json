@@ -1,5 +1,60 @@
 [
   {
+    "id": "833ed1db5283",
+    "title": "Icelandair Reports Veteran Pilot To Police After Unauthorized Flyover On Farewell Flight",
+    "summary": "A veteran pilot's final flight takes an unexpected turn as he allegedly performs an unauthorized low-altitude flyover over his hometown.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-12T17:39:34Z",
+    "url": "https://simpleflying.com/icelandair-reports-veteran-pilot-police-unauthorized-flyover-farewell-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1c2d03f4d691",
+    "title": "The Aircraft Set To Replace The World\u2019s Largest Commercial Jet",
+    "summary": "A new era is dawning as the superjumbo fades away, but which aircraft will replace it?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T17:30:18Z",
+    "url": "https://simpleflying.com/aircraft-set-to-replace-the-worlds-largest-commercial-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a9b7079e0f77",
+    "title": "Third Strike In A Month: Lufthansa Pilots To Walk Out For 48 Hours",
+    "summary": "Lufthansa braces for another round of disruptive industrial action.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-12T16:50:28Z",
+    "url": "https://simpleflying.com/lufthansa-pilot-strike-april-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b6893e92088c",
+    "title": "Over $400,000: The US Airlines With The Highest Widebody Captain Pay In 2026",
+    "summary": "A combination of factors, from global pilot shortages to union bargaining power, has pushed widebody captain pay to unprecedented heights.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-04-12T14:00:17Z",
+    "url": "https://simpleflying.com/5-airlines-highest-widebody-captain-pay-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "02e78358b055",
+    "title": "USAF C-130 damaged by intruder at Shannon Airport: video",
+    "summary": "A United States Air Force Lockheed C-130 Hercules transport aircraft sustained significant structural damage in Ireland after an&#8230; The post USAF C-130 damaged by intruder at Shannon Airport: video appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-12T13:21:03Z",
+    "url": "https://www.aerotime.aero/articles/usaf-c-130-damaged-by-intruder-at-shannon-airport-video",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "f165263da720",
     "title": "End Of An Era? Airbus A380 Flights Plunge By Massive 17%",
     "summary": "Despite most operators having cut superjumbo flights, a select few are operating more than this time last year.",
@@ -2141,61 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-03-27T19:40:43Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/march/27/pr-aopa-statement-on-retirement-of-house-ti-chairman-sam-graves?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ee787bdf275",
-    "title": "EASA warns non-airworthy stolen engine parts could re-enter the market",
-    "summary": "The European Union Aviation Safety Agency (EASA) is warning airlines, maintenance providers and parts buyers to be on&#8230; The post EASA warns non-airworthy stolen engine parts could re-enter the market appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-27T19:09:42Z",
-    "url": "https://www.aerotime.aero/articles/easa-warns-stolen-engine-parts-could-re-enter-market",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d9cca1bee50f",
-    "title": "The $2B blind spot: Why\u00a0\u2018good enough\u2019\u00a0is killing airline profitability",
-    "summary": "AeroTime&#160;columnist Ann&#160;Cederhall&#160;is an instructor with IATA on Airline Distribution Strategy and with&#160;Aeroclass&#160;on Airline&#160;Retailing,&#160;Ann is a frequent speaker and&#8230; The post The $2B blind spot: Why \u2018good enough\u2019 is killing airline profi...",
-    "source": "AeroTime",
-    "category": "training",
-    "publishedDate": "2026-03-27T16:14:33Z",
-    "url": "https://www.aerotime.aero/articles/2b-blind-spot-good-enough-killing-airline-profitability",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ad4cd4213770",
-    "title": "Swiss firm partners with Osage Nation to build pioneering drone lab in Oklahoma",
-    "summary": "The drone era has triggered a burst of entrepreneurial energy. From military forces and security services to retail&#8230; The post Swiss firm partners with Osage Nation to build pioneering drone lab in Oklahoma appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-27T14:23:07Z",
-    "url": "https://www.aerotime.aero/articles/swiss-firm-partners-with-osage-nation-to-build-pioneering-drone-lab-in-oklahoma",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "613a92083214",
-    "title": "Northrop Grumman, US Air Force begin Sentinel ICBM silo prototyping in Utah",
-    "summary": "The US Air Force and Northrop Grumman broke ground on a prototype launch silo for the LGM-35A Sentinel&#8230; The post Northrop Grumman, US Air Force begin Sentinel ICBM silo prototyping in Utah appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-27T14:20:47Z",
-    "url": "https://www.aerotime.aero/articles/northrop-grumman-us-air-force-begin-sentinel-icbm-silo-prototyping-in-utah",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8af741b66537",
-    "title": "SAS, Norwegian Armed Forces extend Ukraine Medevac deal through 2027",
-    "summary": "Scandinavian Airlines and the Norwegian Armed Forces have renewed their Medevac agreement, keeping a specially configured Boeing 737&#8230; The post SAS, Norwegian Armed Forces extend Ukraine Medevac deal through 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-27T13:19:11Z",
-    "url": "https://www.aerotime.aero/articles/sas-norway-medevac-ukraine-2027",
     "airlineTag": null,
     "isBreaking": false
   }
