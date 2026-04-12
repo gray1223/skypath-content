@@ -1,5 +1,27 @@
 [
   {
+    "id": "d89242b30c8a",
+    "title": "Why One Of The World's Largest Freighter Operators Just Broke Up With Boeing For Airbus",
+    "summary": "This sudden shift in allegiance could signal a changing tide in the freighter market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T07:00:18Z",
+    "url": "https://simpleflying.com/why-one-worlds-largest-freighter-operators-broke-up-boeing-airbus/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39e3090201e1",
+    "title": "United Airlines' Longest Nonstop Routes With The Boeing 787 Dreamliner In 2026",
+    "summary": "An aircraft that has proven its capability across all corners of the globe for a powerhouse of aviation. Here is where United operates the Dreamliner.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T04:00:21Z",
+    "url": "https://simpleflying.com/united-airlines-longest-nonstop-routes-boeing-787-dreamliner-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "e2897b38a10f",
     "title": "Alaska Airlines To Build New $135 Million Maintenance Hangar In Portland",
     "summary": "The new maintenance hangar will not only benefit Alaska Airlines but also the local community.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-03-26T21:56:53Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/march/26/house-committee-passes-amended-alert-act-includes-papa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a0009fe00f4d",
-    "title": "Navi AI launches publicly with $6 million to expand AI pilot training platform",
-    "summary": "Navi AI has launched publicly with more than $6 million in funding, as it looks to expand its&#8230; The post Navi AI launches publicly with $6 million to expand AI pilot training platform appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-26T19:59:02Z",
-    "url": "https://www.aerotime.aero/articles/navi-ai-launches-publicly-6-million-pilot-training",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "098becefe2c2",
-    "title": "AOPA Commends House Committee Passage of Bipartisan Bill to Advance Aviation Safety",
-    "summary": "WASHINGTON\u2014The Aircraft Owners and Pilots Association (AOPA) today praised the House Committee on Transportation and Infrastructure (T&I) for unanimously passing, 62-0, the Airspace Location and Enhanced Risk Transparency (ALERT) Act to address safety issues resulting from the...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-26T19:43:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/26/pr-aopa-commends-house-committee-passage-of-bipartisan-bill-to-advance-aviation-safety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
