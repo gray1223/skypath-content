@@ -1,5 +1,104 @@
 [
   {
+    "id": "d7af1aaf4a0b",
+    "title": "New Cabin & Quieter Operations: Why KLM's New Airbus A350-900 Is A Regulatory Survival Tool",
+    "summary": "Here's how Dutch Government regulations make the A350-900 essential for KLM to continue operating from its hub.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-04-13T13:00:18Z",
+    "url": "https://simpleflying.com/klm-new-airbus-a350-900-regulatory-survival-tool/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "db62cfc7d7ad",
+    "title": "JFK, LAX & More: The 11 US Airports Facing An International Flight Ban",
+    "summary": "Several US airports are being threatened with the loss of their international status under a proposal from newly appointed Department of Homeland Security (DHS) Secretary Markwayne Mullin. The new DHS chief suggested that the government may withdraw Customs and Border Protecti...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T12:26:17Z",
+    "url": "https://simpleflying.com/video/jfk-lax-more-the-11-us-airports-facing-an-international-flight-ban/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1d72f8942ca0",
+    "title": "39 Airports, 1 Grand Adventure",
+    "summary": "Seventy-four-day Cirrus journey focuses on growing real-world pilot skills.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-13T12:00:00Z",
+    "url": "https://www.flyingmag.com/39-airports-1-grand-adventure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e8fd05c6bced",
+    "title": "Swiss air force chief says Switzerland is \u2018not defense-ready\u2019",
+    "summary": "Switzerland&#8217;s new Air Force Commander, Major General Christian Oppliger, has warned in stark terms that the country cannot&#8230; The post Swiss air force chief says Switzerland is \u2018not defense-ready\u2019 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-13T11:33:45Z",
+    "url": "https://www.aerotime.aero/articles/swiss-air-force-chief-not-defense-ready",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f8387fc7914",
+    "title": "Heathrow Airport resilient despite huge drop-off in passengers for Middle East",
+    "summary": "London-Heathrow Airport (LHR) is demonstrating stubborn resilience to global events despite a huge drop-off in passengers for the&#8230; The post Heathrow Airport resilient despite huge drop-off in passengers for Middle East appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-13T10:19:05Z",
+    "url": "https://www.aerotime.aero/articles/heathrow-airport-resilient-despite-huge-drop-off-in-passengers-for-middle-east",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f6e8658a48a2",
+    "title": "First Qantas A350 for Project Sunrise rolls out of Airbus factory in France",
+    "summary": "Qantas&#8217; first ultra-long-range A350 has emerged from the Airbus assembly line in Toulouse, France, bringing the airline&#8217;s long-awaited&#8230; The post First Qantas A350 for Project Sunrise rolls out of Airbus factory in France appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-13T09:53:27Z",
+    "url": "https://www.aerotime.aero/articles/first-qantas-a350-for-project-sunrise-rolls-out-of-airbus-factory-in-france",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a4a96a8e30b1",
+    "title": "EasyJet Abandons 122 Passengers In Milan Amid EU Border Chaos",
+    "summary": "Only 34 of the flight's passengers made it on board.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T09:00:17Z",
+    "url": "https://simpleflying.com/easyjet-abandons-passengers-milan-eu-border-chaos/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a95d208c27f9",
+    "title": "Rheinmetall and\u00a0Destinus\u00a0to form cruise missile joint venture",
+    "summary": "German defense group Rheinmetall and Netherlands-based defense technology firm&#160;Destinus&#160;have agreed to&#160;establish&#160;a joint venture focused on manufacturing advanced missile&#8230; The post Rheinmetall and Destinus to form cruise missile joint venture appeared...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-13T08:50:11Z",
+    "url": "https://www.aerotime.aero/articles/rheinmetall-destinus-cruise-missile-joint-venture",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a824f50283c3",
+    "title": "South African Airlines becomes latest carrier set for CEO departure",
+    "summary": "South African Airlines (SAA) is the latest carrier to announce that its CEO will be departing in a&#8230; The post South African Airlines becomes latest carrier set for CEO departure appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-13T08:37:48Z",
+    "url": "https://www.aerotime.aero/articles/south-african-airlines-resigns-john-lamola",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fb13841b13f6",
     "title": "First Look: The 4 Aircraft In American Airlines' New Pilot Trading Card Series",
     "summary": "The latest carrier to join the viral trend.",
@@ -1458,7 +1557,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-08T00:36:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/aircraft-maintenance-spring-cleaning?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/aircraft-maintenance-spring-cleaning?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1579,7 +1678,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-07T18:28:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/somebody-is-watching-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/somebody-is-watching-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1612,7 +1711,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-07T16:02:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/naval-aviator-iaopa-secretary-general-john-sheehan-remembered?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/naval-aviator-iaopa-secretary-general-john-sheehan-remembered?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1755,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-06T21:51:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/06/the-financial-reality-behind-pay-upfront-flight-training?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/06/the-financial-reality-behind-pay-upfront-flight-training?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1777,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-06T21:18:58Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/06/recommendations-for-part-141-overhaul-released?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/06/recommendations-for-part-141-overhaul-released?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1920,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-02T22:24:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/02/tfr-violations-continue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/tfr-violations-continue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1931,7 +2030,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-02T22:16:04Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/02/mayor-excludes-faa-from-hearing-on-closing-burke-lakefront?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/mayor-excludes-faa-from-hearing-on-closing-burke-lakefront?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1953,7 +2052,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-04-02T19:15:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/02/basicmed-guidance-updated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/basicmed-guidance-updated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2030,7 +2129,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-01T16:49:03Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/01/pilots-perspective-on-love-story-jfk-jr-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/01/pilots-perspective-on-love-story-jfk-jr-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2085,7 +2184,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-03-31T23:01:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/march/31/training-and-safety-tip-know-your-newton?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/31/training-and-safety-tip-know-your-newton?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-03-31T21:47:41Z",
     "url": "https://www.aerotime.aero/articles/usaf-f35-crash-north-of-creech-pilot-safe",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "75a751feb1ba",
-    "title": "A wild ride",
-    "summary": "Mike Melvill, 85, the world&rsquo;s first commercial astronaut and winner of the Ansari X Prize for pioneering flights in SpaceShipOne, died March 19 in California after a long illness.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-31T18:06:26Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/march/31/a-wild-ride?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d3c05af5294b",
-    "title": "Jet fuel crisis deepens as Trump tells the world \u2018Go get your own oil\u2019",
-    "summary": "As airlines across the globe grapple with a serious jet fuel price crisis that has sent costs soaring&#8230; The post Jet fuel crisis deepens as Trump tells the world \u2018Go get your own oil\u2019 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-31T15:43:03Z",
-    "url": "https://www.aerotime.aero/articles/jet-fuel-crisis-deepens-trump-go-get-your-own-oil",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d76a6855c070",
-    "title": "Delta Air Lines picks Amazon Leo over Starlink to power future inflight Wi-Fi",
-    "summary": "Delta Air Lines has selected Amazon Leo over SpaceX\u2019s Starlink to power its future inflight Wi-Fi starting with&#8230; The post Delta Air Lines picks Amazon Leo over Starlink to power future inflight Wi-Fi appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-31T15:09:32Z",
-    "url": "https://www.aerotime.aero/articles/delta-air-lines-amazon-leo-starlink-inflight-wifi",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "720e626cf6ed",
-    "title": "ITA Airways officially joins Star Alliance",
-    "summary": "Italian airline ITA Airways has marked its official accession to Star Alliance, which will become effective on April&#8230; The post ITA Airways officially joins Star Alliance appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-31T12:17:08Z",
-    "url": "https://www.aerotime.aero/articles/ita-airways-officially-joins-star-alliance",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "048cb21cfce0",
-    "title": "Poland rules out Patriot redeployment after US request reported",
-    "summary": "The United States has informally asked Poland to consider redeploying one of its two Patriot air defense batteries&#8230; The post Poland rules out Patriot redeployment after US request reported appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-31T10:30:09Z",
-    "url": "https://www.aerotime.aero/articles/us-asks-poland-patriot-middle-east",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e33dce66e920",
-    "title": "Video: Delta A330 returns to S\u00e3o Paulo after engine failure on takeoff",
-    "summary": "A Delta Air Lines Airbus A330-300 returned to S\u00e3o Paulo Guarulhos Airport shortly after takeoff on March 29,&#8230; The post Video: Delta A330 returns to S\u00e3o Paulo after engine failure on takeoff appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T20:45:24Z",
-    "url": "https://www.aerotime.aero/articles/delta-a330-returns-sao-paulo-engine-failure-takeoff",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "2824d7e97d24",
-    "title": "Air Alg\u00e9rie orders 10 Boeing 737-8s as fleet renewal accelerates",
-    "summary": "Air Alg\u00e9rie has ordered 10 Boeing 737 MAX 8 aircraft, with deliveries set to begin in summer 2026 as the&#8230; The post Air Alg\u00e9rie orders 10 Boeing 737-8s as fleet renewal accelerates appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T17:34:15Z",
-    "url": "https://www.aerotime.aero/articles/air-algerie-orders-10-boeing-737-8s-fleet-renewal",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "634526984fb1",
-    "title": "Pilatus to provide 12 PC-24s to Indonesian Ministry of Defense contractor",
-    "summary": "Switzerland\u2019s Pilatus has formed an agreement with Indonesia\u2019s Ministry of Defense (MoD) to provide 12 PC-24 aircraft to&#8230; The post Pilatus to provide 12 PC-24s to Indonesian Ministry of Defense contractor appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T14:23:42Z",
-    "url": "https://www.aerotime.aero/articles/pilatus-to-provide-12-pc-24s-to-indonesian-ministry-of-defense-contractor",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "203aebc74431",
-    "title": "Spain risks Trump\u2019s wrath as it shuts airspace to US warplanes used in Iran",
-    "summary": "Spain has closed its airspace to United States (US) military aircraft involved in the war in Iran, according&#8230; The post Spain risks Trump\u2019s wrath as it shuts airspace to US warplanes used in Iran appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T13:00:38Z",
-    "url": "https://www.aerotime.aero/articles/spain-risks-trumps-wrath-as-it-shuts-airspace-to-us-warplanes-used-in-iran",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
