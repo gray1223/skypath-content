@@ -1,5 +1,93 @@
 [
   {
+    "id": "a29b354cf9db",
+    "title": "The Real Reason Why American Airlines Won't Fly Its Boeing 737 MAX 8s Over The Atlantic Or Pacific",
+    "summary": "The carrier is the only major US airline to keep its MAX aircraft over land.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T02:00:30Z",
+    "url": "https://simpleflying.com/real-reason-why-american-airlines-wont-fly-boeing-737-max-8s-atlantic-pacific/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c27a0f16e835",
+    "title": "New Raptor: Why America's Top Fighter Is Trading Pure Stealth For Passive Detection & Range",
+    "summary": "The US Air Force is upgrading the F-22 Raptor into a 'Raptor 2.0' configuration, adding stealthy external fuel tanks, IRST pods, and avionics upgrades",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T23:00:17Z",
+    "url": "https://simpleflying.com/why-americas-top-fighter-trading-pure-stealth-passive-detection-range/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "07c8fdf6741e",
+    "title": "Hawaiian Airlines To Permanently Remove Airbus A321neo Flights Between Honolulu & Oakland",
+    "summary": "The move will happen this October, boosting capacity by nearly 50%.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T22:32:26Z",
+    "url": "https://simpleflying.com/hawaiian-airlines-permanently-remove-airbus-a321neo-flights-honolu-oakland/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b518b9f13e35",
+    "title": "Not Buying It: Southwest Airlines Criticized After Giving High-Tier Flier A Handwritten Note",
+    "summary": "The carrier has sparked an extensive online debate.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T22:00:17Z",
+    "url": "https://simpleflying.com/southwest-airlines-criticized-high-tier-flier-handwritten-note/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "728f99475fb4",
+    "title": "Why Delta Air Lines Now Only Has 2 Boeing 757 Routes To Europe",
+    "summary": "The carrier used to deploy the type on transatlantic duties a lot more widely and regularly.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T22:00:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-remaining-european-boeing-757-routes/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "98dd55c5f775",
+    "title": "United Airlines Slashes Boeing 737 MAX 8 International Flights By 16%",
+    "summary": "The type will, however, see increased usage on European routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T22:00:17Z",
+    "url": "https://simpleflying.com/united-airlines-boeing-737-max-8-international-flight-cuts/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fef0150508d9",
+    "title": "The 7 Largest US Air Force Bases By Land Area",
+    "summary": "A closer look at the biggest real estate in the USAF.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T21:30:17Z",
+    "url": "https://simpleflying.com/largest-us-air-force-bases-by-land-area/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35535d332cd6",
+    "title": "US Air Force Confronts Range Disadvantage For F-22 & F-35 Missiles Against China's PL-15",
+    "summary": "US fighters face a growing missile range gap as China\u2019s PL-15 outpaces AMRAAM, driving urgent development of next-gen weapons like AIM-260.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-12T21:16:19Z",
+    "url": "https://simpleflying.com/usaf-confronts-range-disadvantage-f-22-f-35-missiles-china-pl-15/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "833ed1db5283",
     "title": "Icelandair Reports Veteran Pilot To Police After Unauthorized Flyover On Farewell Flight",
     "summary": "A veteran pilot's final flight takes an unexpected turn as he allegedly performs an unauthorized low-altitude flyover over his hometown.",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-03-30T12:55:09Z",
     "url": "https://www.aerotime.aero/articles/virgin-australia-rolls-out-first-ever-retro-livery-celebrating-virgin-blue-era",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "63cb792b0fec",
-    "title": "ANA Holdings joins Japanese consortium to track CO2 emissions from space",
-    "summary": "ANA Holdings has joined a Japanese consortium selected to develop satellite and aircraft-based technology for tracking carbon dioxide&#8230; The post ANA Holdings joins Japanese consortium to track CO2 emissions from space appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T10:31:37Z",
-    "url": "https://www.aerotime.aero/articles/ana-holdings-joins-japanese-consortium-to-track-co2-emissions-from-space",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a65d51155a3",
-    "title": "Finnair to lease Embraer E190-E1 and ATR-72-600 aircraft for Norra operations",
-    "summary": "A week after announcing its largest order in years, Finnair has signed Letters of Intent (LOI) for the&#8230; The post Finnair to lease Embraer E190-E1 and ATR-72-600 aircraft for Norra operations appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T10:03:38Z",
-    "url": "https://www.aerotime.aero/articles/finnair-lease-embraer-e190-e1-atr-72-600-aircraft-norra",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "271692156b68",
-    "title": "One of two drones crashed in Finland identified as Ukrainian",
-    "summary": "Two drones crashed in southeastern Finland on March 29, 2026, with the Finnish Air Force confirming that at&#8230; The post One of two drones crashed in Finland identified as Ukrainian appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T06:41:04Z",
-    "url": "https://www.aerotime.aero/articles/drones-crash-finland-ukrainian-an196-kouvola",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f79bf441a70f",
-    "title": "Indonesia receives final A400M after rerouted delivery flight around Middle East",
-    "summary": "Indonesia has received its second and final Airbus A400M military transport aircraft, completing a two-aircraft order placed in&#8230; The post Indonesia receives final A400M after rerouted delivery flight around Middle East appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-30T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/indonesia-receives-final-a400m-after-rerouted-delivery-flight-around-middle-east",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "42e70108b953",
-    "title": "USAF E-3 Sentry AWACS damaged in Iranian strike on Saudi air base",
-    "summary": "An Iranian missile and drone attack on Prince Sultan Air Base in Saudi Arabia on March 27, 2026,&#8230; The post USAF E-3 Sentry AWACS damaged in Iranian strike on Saudi air base appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-29T10:36:19Z",
-    "url": "https://www.aerotime.aero/articles/us-e3-sentry-awacs-damaged-iranian-strike-saudi-arabia",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9ca9696b9b25",
-    "title": "USAF A-10 strike on Iraqi military base kills seven soldiers",
-    "summary": "An airstrike attributed to a US Air Force A-10 Thunderbolt II hit a military clinic at the Habbaniyah&#8230; The post USAF A-10 strike on Iraqi military base kills seven soldiers appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-29T07:50:58Z",
-    "url": "https://www.aerotime.aero/articles/a-10-strike-habbaniyah-iraq-soldiers-killed",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9ac80ef9a269",
-    "title": "CAU names second Reach Flight Center",
-    "summary": "As aviation continues to focus on strengthening the pilot pipeline, collaboration between flight schools and higher education institutions is playing an increasingly important role.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-27T19:50:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/27/cau-names-second-reach-flight-center?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8fc3de9179d7",
-    "title": "AOPA Statement on Retirement of House T&I Chairman Sam Graves",
-    "summary": "WASHINGTON\u2014The Aircraft Owners and Pilots Association (AOPA) expressed appreciation for Rep. Sam Graves (R-Mo.), and his leadership as Chairman of the powerful U.S. House Committee on Transportation and Infrastructure, as he announced today that he will not seek reelection to ...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-27T19:40:43Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/27/pr-aopa-statement-on-retirement-of-house-ti-chairman-sam-graves?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
