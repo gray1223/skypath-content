@@ -1,5 +1,93 @@
 [
   {
+    "id": "87722e9eddb1",
+    "title": "FAA Audit: Cybersecurity Gaps in Key Air Traffic Systems",
+    "summary": "DOT inspector general says systems tied to air traffic operations are missing required protections.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-13T19:04:58Z",
+    "url": "https://avweb.com/aviation-news/faa-audit-cybersecurity-gaps-in-atc-system/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "08c988d53878",
+    "title": "15 New Routes In 7 Days: See Where Southwest, United & Breeze Fly Now",
+    "summary": "From small, rural airports to popular tourist destinations, these 15 new routes span the country.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T18:00:18Z",
+    "url": "https://simpleflying.com/15-new-routes-in-7-days-see-where-southwest-united-breeze-fly-now/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fb1de748525c",
+    "title": "The New Inflight Dining Menus American & Delta Air Lines Passengers Are Raving About This Spring",
+    "summary": "Both airlines are both refreshing their food offerings this spring, but one is focusing on the cabin while the other is focusing on the lounge.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T18:00:18Z",
+    "url": "https://simpleflying.com/new-inflight-dining-menus-american-delta-air-lines-passengers-raving-spring/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e17c6ce00d2e",
+    "title": "Adventure Pilot Rolls Out iFly EFB 14",
+    "summary": "Update adds satellite imagery, revised chart options and expanded audio alerts for pilots.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-13T17:54:18Z",
+    "url": "https://avweb.com/aviation-news/company-news/adventure-pilot-rolls-out-ifly-efb-14/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3eeacee96d51",
+    "title": "United Airlines' Massive 364-Seat Boeing 777s: Every Route Listed",
+    "summary": "The carrier's flights on the so-called 'domestic' 777 have fallen by a huge 56% in a year...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T16:00:19Z",
+    "url": "https://simpleflying.com/united-airlines-massive-364-seat-boeing-777s-every-route-listed/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b037e6bcd6ab",
+    "title": "FAA, Pentagon Clear Border Anti-Drone Lasers",
+    "summary": "Texas airspace disruptions preceded agreement with Pentagon finding the system safe for civil flights.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-04-13T14:38:41Z",
+    "url": "https://avweb.com/aviation-news/drones/faa-pentagon-clear-border-anti-drone-laser/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ac32c21230e",
+    "title": "Safran to acquire 30k metric ton press to support engine production ramp-up",
+    "summary": "Safran Aircraft Engines will acquire a new 30,000 metric ton hydraulic press to manufacture strategic parts for commercial&#8230; The post Safran to acquire 30k metric ton press to support engine production ramp-up appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-13T14:01:56Z",
+    "url": "https://www.aerotime.aero/articles/safran-to-acquire-30k-metric-ton-press-to-support-engine-production-ramp-up",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bbd62f3f7672",
+    "title": "Here's How Much A Boeing 787 Costs Compared To An Airbus A350",
+    "summary": "While 787 is the cheaper aircraft to buy across most variants, it also usually has higher operating costs per seat.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T13:30:18Z",
+    "url": "https://simpleflying.com/how-much-boeing-787-costs-compared-to-airbus-a350/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d7af1aaf4a0b",
     "title": "New Cabin & Quieter Operations: Why KLM's New Airbus A350-900 Is A Regulatory Survival Tool",
     "summary": "Here's how Dutch Government regulations make the A350-900 essential for KLM to continue operating from its hub.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-04-02T09:22:30Z",
     "url": "https://www.aerotime.aero/articles/france-rafale-f5-uae-co-financing-collapsed",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "44575ca90331",
-    "title": "SpaceX files for IPO, opening Musk\u2019s Moon and Mars push to investors",
-    "summary": "After months of speculation, Elon Musk\u2019s SpaceX has filed for an initial public offering in the United States,&#8230; The post SpaceX files for IPO, opening Musk\u2019s Moon and Mars push to investors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-01T20:26:14Z",
-    "url": "https://www.aerotime.aero/articles/spacex-files-for-ipo-moon-mars-push-investors",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "441e80ea8393",
-    "title": "Pilot's perspective on 'Love Story' JFK Jr crash",
-    "summary": "Love Story, an FX limited romance series, sparked renewed interest in the 1999 Martha&rsquo;s Vineyard accident that killed John F. Kennedy Jr., his wife, and his sister-in-law, and how the accident actually happened.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-01T16:49:03Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/01/pilots-perspective-on-love-story-jfk-jr-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e1def82d28cc",
-    "title": "LATAM becomes first South American carrier to roll out Wi-Fi on long-haul routes",
-    "summary": "LATAM Airlines has completed its first long-haul flight equipped with internet connectivity.&#160; The new service was introduced on&#8230; The post LATAM becomes first South American carrier to roll out Wi-Fi on long-haul routes appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-01T13:18:02Z",
-    "url": "https://www.aerotime.aero/articles/latam-becomes-first-south-american-carrier-to-roll-out-wi-fi-on-long-haul-routes",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d7e319822092",
-    "title": "Philippine Airlines profits rise to $160 million in 2025 despite higher costs",
-    "summary": "Philippine Airlines (PAL) closed 2025 with a net income of $160.4 million, a 6.1% increase from the previous&#8230; The post Philippine Airlines profits rise to $160 million in 2025 despite higher costs appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-01T13:04:30Z",
-    "url": "https://www.aerotime.aero/articles/philippine-airlines-profits-rise-to-160-million-in-2025-despite-higher-costs",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "577b57b932d4",
-    "title": "SAS marks 80th anniversary with A330-300 painted in special historical livery",
-    "summary": "Scandinavian Airlines (SAS) has unveiled a special new livery on one of its aircraft to celebrate the carrier\u2019s&#8230; The post SAS marks 80th anniversary with A330-300 painted in special historical livery appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-01T08:45:21Z",
-    "url": "https://www.aerotime.aero/articles/sas-marks-80th-anniversary-with-a330-300-painted-in-special-historical-livery",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cc9e191a76e7",
-    "title": "Russian An-26 military transport crashes in Crimea, killing all 29 on board",
-    "summary": "A Russian military transport&#160;aircraft&#160;crashed in occupied Crimea on March 31, killing all 29 people on board, according to&#8230; The post Russian An-26 military transport crashes in Crimea, killing all 29 on board appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-01T08:14:46Z",
-    "url": "https://www.aerotime.aero/articles/russian-an-26-crashes-crimea-29-killed",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "009cf0d8cb8e",
-    "title": "Training and Safety Tip: Know your Newton",
-    "summary": "Most pilots learn about Sir Isacc Newton and his laws of motion in elementary or high school. You might have wondered, \"Why do I need to know this stuff?\" Of course, you may have had no idea that you were going to become a pilot, for whom knowledge of Newton's fundamental phys...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-03-31T23:01:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/march/31/training-and-safety-tip-know-your-newton?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6dd9758a5828",
-    "title": "Pilot ejects safely as US Air Force F-35 crashes in Nevada",
-    "summary": "A pilot ejected safely from a US Air Force F-35 after reporting trouble maneuvering before the jet crashed&#8230; The post Pilot ejects safely as US Air Force F-35 crashes in Nevada appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-03-31T21:47:41Z",
-    "url": "https://www.aerotime.aero/articles/usaf-f35-crash-north-of-creech-pilot-safe",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
