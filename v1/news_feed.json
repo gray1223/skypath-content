@@ -1,5 +1,82 @@
 [
   {
+    "id": "5c4297694943",
+    "title": "6 Routes That Still Rely On Cargo Boeing 747s",
+    "summary": "Most of them use the 747-8F model.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-14T00:00:19Z",
+    "url": "https://simpleflying.com/6-routes-rely-cargo-boeing-747s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4802090197a2",
+    "title": "American Airlines' Pilot Union Asked For... Trading Cards",
+    "summary": "This certainly is a very unique request.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T22:00:18Z",
+    "url": "https://simpleflying.com/america-airlines-pilot-union-trading-cards/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4e63c9cb9ad0",
+    "title": "5 US Allies Are Quietly Building Fighter Jet Fleets That Rival American Air Power In 2026",
+    "summary": "While no US allies could hope to rival the USAF, they are modernizing their air forces with F-35s and their own domestic fighter jet programs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T22:00:18Z",
+    "url": "https://simpleflying.com/5-us-allies-quietly-building-fighter-jet-fleets-rival-american-air-power-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3236993a34fc",
+    "title": "The 7 RAF Main Operating Bases In The UK",
+    "summary": "The roles of the UK's 7 main RAF bases include safeguarding national security and supporting global missions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T21:30:19Z",
+    "url": "https://simpleflying.com/raf-main-operating-bases-in-uk/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3cc037031511",
+    "title": "Lufthansa Turns 100: How A Century Of Fleet Evolution Led To The Airbus A350-900 & Boeing 777X",
+    "summary": "The dawn of German commercial aviation was characterized by a raw, mechanical ambition that took flight on April 6, 1926.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T21:00:18Z",
+    "url": "https://simpleflying.com/lufthansa-100-century-fleet-evolution-airbus-a350-900-boeing-777x/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5564381da852",
+    "title": "FAA, Pentagon Clear Use of Anti-Drone Laser System",
+    "summary": "Deployment of the weapon forced the closure of civilian airspace in February.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-04-13T21:00:00Z",
+    "url": "https://www.flyingmag.com/faa-pentagon-clear-use-of-anti-drone-laser-system/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fb96ba4dac8d",
+    "title": "Delta\u2019s New \u201cSuite Spot\u201d: A350-1000 Debut Signals Premium Power Play",
+    "summary": "Delta\u2019s A350-1000 launch signals a broader push to standardize and elevate premium flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-13T20:49:49Z",
+    "url": "https://simpleflying.com/deltas-a350-1000-debut-signals-premium-power-play/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "87722e9eddb1",
     "title": "FAA Audit: Cybersecurity Gaps in Key Air Traffic Systems",
     "summary": "DOT inspector general says systems tied to air traffic operations are missing required protections.",
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-04-02T22:16:04Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/mayor-excludes-faa-from-hearing-on-closing-burke-lakefront?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "11be4c7d6eab",
-    "title": "Pentagon considers installing anti-drone lasers at sensitive US sites",
-    "summary": "The Pentagon is moving toward wider use of laser-based counter-drone systems at select US locations, as concerns mount&#8230; The post Pentagon considers installing anti-drone lasers at sensitive US sites appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-02T20:19:05Z",
-    "url": "https://www.aerotime.aero/articles/pentagon-weighs-anti-drone-lasers-key-us-locations",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "003e6bbefe0d",
-    "title": "BasicMed guidance updated",
-    "summary": "AOPA has revamped its BasicMed resource page and our online course to make the details more accessible and user-friendly to those aviators who have decided to ditch the traditional FAA medical certificate for a simpler way to maintain their medical eligibility to fly.",
-    "source": "AOPA",
-    "category": "regulatory",
-    "publishedDate": "2026-04-02T19:15:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/02/basicmed-guidance-updated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a980f4b75589",
-    "title": "US sends EA-37B Compass Call into Iran fight in first known combat deployment",
-    "summary": "The US military has introduced a potent new weapon into the Iran fight with the deployment of the&#8230; The post US sends EA-37B Compass Call into Iran fight in first known combat deployment appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-02T18:18:20Z",
-    "url": "https://www.aerotime.aero/articles/us-sends-new-ea-37b-compass-call-into-iran-fight",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "928f5efb1747",
-    "title": "UK and France launch study for Meteor air-to-air missile successor",
-    "summary": "The United Kingdom and France have signed a Memorandum of Understanding to conduct a joint study into a&#8230; The post UK and France launch study for Meteor air-to-air missile successor appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-02T13:02:15Z",
-    "url": "https://www.aerotime.aero/articles/uk-france-meteor-missile-successor-study",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c657238c689d",
-    "title": "Alaska Airlines unveils business class suites for upcoming long-haul service",
-    "summary": "Alaska Airlines unveiled a new international business class cabin on April 1, 2026.&#160; This new product, which will&#8230; The post Alaska Airlines unveils business class suites for upcoming long-haul service appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-02T10:45:19Z",
-    "url": "https://www.aerotime.aero/articles/alaska-airlines-unveils-business-class-suites-for-upcoming-long-haul-service",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9b3ed3a35cfc",
-    "title": "Sweden awards GUTE II counter-drone contracts to Saab, BAE Systems\u00a0Bofors",
-    "summary": "Sweden announced a SEK 8.7 billion (~$828 million) air defense procurement package on April 2, 2026, grouping contracts&#8230; The post Sweden awards GUTE II counter-drone contracts to Saab, BAE Systems Bofors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-02T10:08:43Z",
-    "url": "https://www.aerotime.aero/articles/sweden-gute-ii-counter-drone-saab-bae-systems-bofors",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "54ec455b072a",
-    "title": "France to finance Rafale F5 alone after UAE co-funding talks collapsed",
-    "summary": "France will shoulder the full development cost of the Rafale F5 after a co-financing partnership with the United&#8230; The post France to finance Rafale F5 alone after UAE co-funding talks collapsed appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-02T09:22:30Z",
-    "url": "https://www.aerotime.aero/articles/france-rafale-f5-uae-co-financing-collapsed",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
