@@ -1,12 +1,100 @@
 [
   {
+    "id": "af8043883ba3",
+    "title": "United x American Airlines: Could A Merger Be On The Cards?",
+    "summary": "The proposed merger would face massive regulatory hurdles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-15T00:01:18Z",
+    "url": "https://simpleflying.com/united-american-merger-reportedly-suggested/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1f9a91eab516",
+    "title": "The US Airlines With The Most Premium Economy Seats Per Aircraft In 2026",
+    "summary": "United Airlines currently takes the lead, but Delta and United continue to offer passengers compelling premium economy products.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-14T23:00:18Z",
+    "url": "https://simpleflying.com/the-us-airlines-with-the-most-premium-economy-seats-per-aircraft-in-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a608b588a68f",
+    "title": "What United Airlines' New Polaris Studio Upgrade Will Likely Cost On Long-Haul Routes",
+    "summary": "A closer look at the price for United's best business class seat ever.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-14T22:01:18Z",
+    "url": "https://simpleflying.com/united-airlines-new-polaris-studio-upgrade-cost-long-haul-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c9c1f5086d1c",
+    "title": "Boeing Beats Airbus On Deliveries For First Time Since MAX Crisis",
+    "summary": "Boeing\u2019s 737 surge beat a supply-constrained Airbus in a rare quarterly delivery win.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-14T21:18:50Z",
+    "url": "https://simpleflying.com/boeing-beats-airbus-deliveries-max-crisis/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ff48f7b4350c",
+    "title": "Boeing maintains strong delivery pace through Q1 2026",
+    "summary": "Boeing delivered 143 commercial aircraft in the first quarter of 2026, a figure that demonstrates the company\u2019s output&#8230; The post Boeing maintains strong delivery pace through Q1 2026 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-14T21:11:49Z",
+    "url": "https://www.aerotime.aero/articles/boeing-q1-2026-deliveries-strong",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f84a22c5e852",
+    "title": "Why Doesn't The World's Largest Military Cargo Aircraft Have A Glass Cockpit?",
+    "summary": "Why the C-5 Galaxy lacked a glass cockpit for decades\u2014exploring military priorities, design history, and its eventual digital upgrade to the C-5M.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-14T21:00:18Z",
+    "url": "https://simpleflying.com/why-doesnt-worlds-largest-military-cargo-aircraft-glass-cockpit/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d5f0af81e0d1",
+    "title": "Only 39% Full: Alaska Airlines' 10 Emptiest Routes Revealed",
+    "summary": "Two of them were international. Discover them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-14T20:00:18Z",
+    "url": "https://simpleflying.com/only-39pc-full-alaska-airlines-10-emptiest-routes-revealed/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ab84ff8d4ae",
+    "title": "United-American Merger Pitch Raises Regulatory Questions",
+    "summary": "Report says United CEO floated combination with American during White House meeting.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-14T19:54:17Z",
+    "url": "https://avweb.com/aviation-news/united-american-merger-pitch-questions/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "285515c3df07",
     "title": "Training and Safety Tip: Read before flight",
     "summary": "It goes without saying that the vast majority of flight training takes place in the air. However, just as important as flying is the training that takes place on the ground. Ground training is an essential component of primary or advanced training not only because it&rsquo;s r...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2041,7 +2129,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-08T00:36:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/aircraft-maintenance-spring-cleaning?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/07/aircraft-maintenance-spring-cleaning?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-07T20:00:17Z",
     "url": "https://simpleflying.com/airlines-worlds-largest-airbus-a350-fleets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e4c137c00ff8",
-    "title": "Sonex Builder Community Regroups in Wake of Company Shutdown",
-    "summary": "Online discussions reflect a mix of sympathy and serious concerns.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-07T19:45:00Z",
-    "url": "https://www.flyingmag.com/sonex-builder-community-regroups-in-wake-of-company-shutdown/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b41d5f009dd",
-    "title": "Southwest Airlines Limiting Passengers To 1 Portable Charger Onboard To Reduce Fire Risk",
-    "summary": "Southwest Airlines will limit passengers to one power bank from April 20, tightening safety rules amid rising lithium battery fire risks onboard.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-07T18:59:53Z",
-    "url": "https://simpleflying.com/southwest-airlines-limiting-passengers-1-portable-charger-onboard-reduce-fire-risk/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3a3ef2fbdaff",
-    "title": "Remotely Piloted Aircraft Help FAA Test ACAS X",
-    "summary": "Testing found that the technology\u2019s \u201cbehavior and output\u201d change between en route and terminal airspace.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-07T18:45:00Z",
-    "url": "https://www.flyingmag.com/remotely-piloted-aircraft-testing-faa-acas-x/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "04b553f63804",
-    "title": "Charleston Airshow Moves Amid Ongoing Conflict",
-    "summary": "Joint Base Charleston says 2026 show was changed to an off-base due to operational requirements tied to current global events.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-04-07T18:30:05Z",
-    "url": "https://avweb.com/air-shows-events/charleston-airshow-moves-amid-conflict/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6966ddeed7ba",
-    "title": "Training and Safety Tip: Somebody's watching you",
-    "summary": "For pilots who begin their flight training at a nontowered field, an exciting step in their progress is flying into controlled airspace and landing at a towered airport. Prior to doing so, in addition to learning the proper phraseology to communicate with air traffic controlle...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-07T18:28:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/somebody-is-watching-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bdac2ab9d3cb",
-    "title": "Delta Air Lines Becomes 3rd US Carrier To Hike Checked Bag Fees As Fuel Prices Soar",
-    "summary": "Delta Air Lines joins United and JetBlue in hiking checked baggage fees, following a sharp rise in global jet fuel prices.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-07T18:18:24Z",
-    "url": "https://simpleflying.com/delta-air-lines-becomes-3rd-us-carrier-to-hike-checked-bag-fees-as-fuel-prices-soar/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a4962ba9609d",
-    "title": "Why The Boeing 777-300ER Is Preferred By Passengers",
-    "summary": "The 777-300ER is one of the most common widebody airliners currently in the skies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-07T17:30:18Z",
-    "url": "https://simpleflying.com/why-boeing-777-300er-preferred-by-passengers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7a181158be14",
-    "title": "Naval aviator, IAOPA Secretary General John Sheehan remembered",
-    "summary": "John J. Sheehan III, former executive vice president of AOPA and secretary general of the International Council of Aircraft Owner and Pilot Associations, died peacefully at his home in Wilmington, North Carolina, on March 20 at the age of 85.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-07T16:02:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/07/naval-aviator-iaopa-secretary-general-john-sheehan-remembered?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
