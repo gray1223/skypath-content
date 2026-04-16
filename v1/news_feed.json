@@ -1,5 +1,27 @@
 [
   {
+    "id": "f8079323761f",
+    "title": "New notam system goes live (behind the scenes) April 18",
+    "summary": "The 2023 meltdown of the FAA notam system that halted air traffic and spurred a modernization push has led to a largely invisible yet massive upgrade, with an April 18 changeover planned to a new back-end system that the FAA began testing in September. More noticeable notam ch...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-17T00:38:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7e71d64523d6",
+    "title": "Lufthansa Shuts Down CityLine: Regional Brand To Vanish Within Days",
+    "summary": "The German flag carrier has cited rising oil prices and labor disputes as key factors behind its operational restructuring.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-16T13:10:44Z",
+    "url": "https://simpleflying.com/lufthansa-cityline-suspension/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "795d890bafb5",
     "title": "The New Inflight Entertainment System That Emirates Passengers Are Raving About",
     "summary": "The arrival of the first Airbus A350-900 into the Emirates fleet has brought a revolution to the back of seat screens.",
@@ -149,7 +171,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -160,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -611,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-09T10:33:10Z",
     "url": "https://www.aerotime.aero/articles/faa-certifies-mammoth-777-200lrmf-qatar-airways-dhl",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2654d739f7ed",
-    "title": "TAP Air Portugal reports fourth consecutive profit despite tax hit",
-    "summary": "TAP Air Portugal posted a net profit of \u20ac4.1 million in 2025, the airline announced on April 9,&#8230; The post TAP Air Portugal reports fourth consecutive profit despite tax hit appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-09T09:56:51Z",
-    "url": "https://www.aerotime.aero/articles/tap-air-portugal-2025-annual-results",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "54af02b5891d",
-    "title": "Comlux receives FAA approval for A220 ACJ TwoTwenty cabin, opening US market",
-    "summary": "Comlux Group announced on April 6, 2026, that its US subsidiary Comlux America has received a Supplemental Type&#8230; The post Comlux receives FAA approval for A220 ACJ TwoTwenty cabin, opening US market appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-09T09:32:35Z",
-    "url": "https://www.aerotime.aero/articles/comlux-receives-faa-approval-for-a220-acj-twotwenty-cabin-opening-us-market",
     "airlineTag": null,
     "isBreaking": false
   }
