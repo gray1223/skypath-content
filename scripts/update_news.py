@@ -96,9 +96,9 @@ def fetch_feed(url):
     """Fetch and parse an RSS feed."""
     try:
         req = Request(url, headers={"User-Agent": "ClearedDirect/1.0"})
-        with urlopen(req, timeout=15) as resp:
+        with urlopen(req, timeout=20) as resp:
             return ET.fromstring(resp.read())
-    except (URLError, ET.ParseError) as e:
+    except Exception as e:
         print(f"  Error fetching {url}: {e}")
         return None
 
