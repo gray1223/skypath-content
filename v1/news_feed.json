@@ -1,5 +1,71 @@
 [
   {
+    "id": "3c954f93f23c",
+    "title": "ScaleWings Brings SW-51 Mustang Back to SUN \u2019n FUN",
+    "summary": "Company says its two-seat Mustang program has grown from a small-show debut to a 40-aircraft delivery milestone.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-17T17:43:57Z",
+    "url": "https://avweb.com/air-shows-events/sun-n-fun/scalewings-sw-51-musting-back-to-sun-n-fun/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e50ec158d95a",
+    "title": "FAA Sees Early Surge In Air Traffic Controller Applications",
+    "summary": "Agency receives 6,000 applications in the first 12 hours of its latest controller hiring push.",
+    "source": "AvWeb",
+    "category": "hiring",
+    "publishedDate": "2026-04-17T17:00:22Z",
+    "url": "https://avweb.com/aviation-news/faa-air-traffic-controller-hiring-surge-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f1acbda796f",
+    "title": "End Of An Era: This Long-Haul Airline Abruptly Cancels All Denver & Seattle Flights",
+    "summary": "Edelweiss has dropped Seattle and Denver as fuel costs and weaker demand bite.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-17T16:18:47Z",
+    "url": "https://simpleflying.com/this-long-haul-airline-abrupty-ends-denver-seattle-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8f7ef190a7e6",
+    "title": "Split-Second Call At Louisville: UPS Pilot Aborts Landing As Runway Safety Violated",
+    "summary": "A close call at a hub where UPS has recently experienced tragedy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-17T14:27:52Z",
+    "url": "https://simpleflying.com/ups-aborted-landing-louisville-runway-incursion/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "52803f99f32f",
+    "title": "5 Aircraft That Defined The Evolution Of Widebody Jets",
+    "summary": "How widebody airliners have evolved into today's capable machines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-17T14:00:17Z",
+    "url": "https://simpleflying.com/5-aircraft-that-defined-the-evolution-of-widebody-jets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "abe3221c55b8",
+    "title": "The 6 Largest US Navy Bases & Their Strategic Roles",
+    "summary": "The largest Navy bases may also host the Marine Corps, with functions varying from training to hosting all the service's electronic attack aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-17T13:30:18Z",
+    "url": "https://simpleflying.com/largest-usnavy-bases-strategic-roles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d5ceec6b667a",
     "title": "Boeing 777-9 Brakes Reach 2,500 Degrees In Critical Aborted Takeoff Test",
     "summary": "Boeing has successfully conducted a critical rejected takeoff (RTO) test for its new 777-9, demonstrating the aircraft\u2019s braking performance under extreme conditions. The test took place in early 2026 at a dedicated high-speed runway facility and simulated a maximum-weight, hi...",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-04-10T16:20:13Z",
     "url": "https://avweb.com/aviation-news/military-aviation/air-force-boosts-fy26-aviation-bonuses/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a636852e0ccc",
-    "title": "Why This United Airlines Boeing 767 Only Has 56 Economy Seats",
-    "summary": "United\u2019s 56-seat-economy 767 shows how far the airline is pushing premium.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T15:46:32Z",
-    "url": "https://simpleflying.com/why-this-united-airlines-boeing-767-only-has-56-economy-seats/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2393e6e3319d",
-    "title": "FAA Opens Controller Hiring Window With New Recruitment Campaign",
-    "summary": "Video game-themed recruitment campaign kicks off as application window opens April 17.",
-    "source": "AvWeb",
-    "category": "hiring",
-    "publishedDate": "2026-04-10T15:41:10Z",
-    "url": "https://avweb.com/aviation-news/faa-controller-hiring-window-recruitment/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "52236ee3fafa",
-    "title": "FAA Certifies Mammoth\u2019s Boeing 777-200LR For Cargo Conversion",
-    "summary": "Qatar Airways is among the carriers set to benefit from the certification.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T14:05:49Z",
-    "url": "https://simpleflying.com/faa-certifies-mammoth-boeing-777-200lr-cargo-conversion/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "947b2bc21003",
-    "title": "Why The US Air Force Believes 1 Aircraft Can Replace Both The C-17 Globemaster & C-5 Galaxy",
-    "summary": "The USAF\u2019s NGAL aims to replace both the C-17 and C-5 with one aircraft\u2014blending tactical agility and massive lift into a single future platform.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T14:01:18Z",
-    "url": "https://simpleflying.com/us-air-force-aircraft-replace-both-c-17-globemaster-c-5-galaxy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "28e0d3fa98f3",
-    "title": "French Air Force Cirrus SR-20 crashes during training flight in southern France",
-    "summary": "A Cirrus SR-20 training aircraft belonging to the French Air and Space Force crashed on the morning of&#8230; The post French Air Force Cirrus SR-20 crashes during training flight in southern France appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-10T13:33:49Z",
-    "url": "https://www.aerotime.aero/articles/french-air-force-cirrus-sr20-crash-training-montagne-lure",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5ffb0ab5e7ca",
-    "title": "American Airlines aims to restart US flights to Venezuela at end of April",
-    "summary": "American Airlines is aiming to restart US flights to Venezuela by the end of April 2026, subject to&#8230; The post American Airlines aims to restart US flights to Venezuela at end of April appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-10T12:06:05Z",
-    "url": "https://www.aerotime.aero/articles/american-airlines-restart-us-flights-venezuela-april",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
