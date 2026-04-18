@@ -1,5 +1,126 @@
 [
   {
+    "id": "f044d477749e",
+    "title": "\u201cIt's Not Legal\u201d: Pilot Files Lawsuit Over Palm Beach Airport\u2019s Renaming After Donald Trump",
+    "summary": "The lawsuit against renaming Palm Beach International Airport after Donald Trump raises questions about the $5.5 million cost and safety concerns.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T00:10:20Z",
+    "url": "https://simpleflying.com/pilot-lawsuit-palm-beach-airport-renaming-donald-trump/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e8819dcc8022",
+    "title": "The Simple Flying Podcast Episode 287: Pilots' ATC Animal Sounds, Lufthansa Strikes & Southwest Airlines' New Airport Lounges",
+    "summary": "Join Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T00:06:55Z",
+    "url": "https://simpleflying.com/podcast-287/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9118127f2495",
+    "title": "American Airlines Dismisses United\u2019s Merger Pitch, Citing Competition Negativity",
+    "summary": "The carrier is instead focused on positioning itself to \"win for the long term.\"",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-17T23:02:49Z",
+    "url": "https://simpleflying.com/american-airlines-dismiss-uniteds-merger-pitch-negativity-competition/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1e07f977d190",
+    "title": "Just 244 Seats: American Airlines' 5 Ultra-Premium Boeing 787 Routes In 2026",
+    "summary": "Where American Airlines is flying its premium heavy Boeing 787-9 aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-17T22:01:12Z",
+    "url": "https://simpleflying.com/just-244-seats-americans-5-boeing-787-routes-2026/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ca8633f0f673",
+    "title": "This Is The United States' Busiest Domestic Airport",
+    "summary": "This airport saw more US domestic passengers than any other in 2025.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-17T22:00:17Z",
+    "url": "https://simpleflying.com/us-busiest-domestic-airport/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c858e098a9c2",
+    "title": "What Is The Typical Salary For A Private Jet Pilot?",
+    "summary": "A closer look at the ins and outs of what is, for many people, a dream job.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-04-17T21:30:18Z",
+    "url": "https://simpleflying.com/typical-salary-private-jet-pilot-guide/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0e49ad39e04d",
+    "title": "Pilot Challenges Palm Beach Airport Renaming In Florida Lawsuit",
+    "summary": "The lawsuit argues the move could create confusion and unnecessary costs.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-17T21:07:37Z",
+    "url": "https://avweb.com/aviation-news/palm-beach-airport-renaming-lawsuit/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d03073e392dd",
+    "title": "UPS Aircraft Involved In Close Call at Louisville",
+    "summary": "Pilots cite communications issues as reason for early go-around.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-17T19:35:21Z",
+    "url": "https://avweb.com/news/ups-aircraft-involved-in-close-call-at-louisville/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1a1f009ff4b3",
+    "title": "Pilatus Secures Certification For PC-12 PRO Simulator",
+    "summary": "Approval allows the system to be used for pilot training.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-17T19:10:00Z",
+    "url": "https://avweb.com/aviation-news/pilatus-pc-12-pro-simulator-certification/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ac2518778050",
+    "title": "FAA caps O\u2019Hare flights as United, American jostle for expanded summer access",
+    "summary": "The Federal Aviation Administration (FAA) has capped daily operations at Chicago O\u2019Hare Airport at 2,708 flights from May&#8230; The post FAA caps O\u2019Hare flights as United, American jostle for expanded summer access appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-17T19:00:30Z",
+    "url": "https://www.aerotime.aero/articles/faa-caps-ohare-flights-united-american-summer-schedules",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "11990838abb1",
+    "title": "Boeing ramps up hiring for new 737 MAX line in Everett",
+    "summary": "Boeing is hiring factory workers in the Pacific Northwest as it adds staff for a fourth 737 MAX&#8230; The post Boeing ramps up hiring for new 737 MAX line in Everett appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "hiring",
+    "publishedDate": "2026-04-17T17:49:17Z",
+    "url": "https://www.aerotime.aero/articles/boeing-fourth-737-max-line-hiring",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3c954f93f23c",
     "title": "ScaleWings Brings SW-51 Mustang Back to SUN \u2019n FUN",
     "summary": "Company says its two-seat Mustang program has grown from a small-show debut to a 40-aircraft delivery milestone.",
@@ -41,6 +162,28 @@
     "publishedDate": "2026-04-17T14:27:52Z",
     "url": "https://simpleflying.com/ups-aborted-landing-louisville-runway-incursion/",
     "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5981cb83d12b",
+    "title": "LATAM unveils new Business Class cabin for its future A321XLR fleet",
+    "summary": "On April 16, 2026, LATAM Airlines confirmed the final configuration of its future Airbus A321XLR fleet.&#160;&#160; The aircraft,&#8230; The post LATAM unveils new Business Class cabin for its future A321XLR fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-17T14:22:42Z",
+    "url": "https://www.aerotime.aero/articles/latam-unveils-new-business-class-cabin-for-its-future-a321xlr-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39af179b6baa",
+    "title": "JetBlue launches new daily service between Boston and Barcelona: photos",
+    "summary": "JetBlue has launched a new long-haul international route, linking Boston-Logan (BOS) to Barcelona-El Prat (BCN) nonstop on a&#8230; The post JetBlue launches new daily service between Boston and Barcelona: photos appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-17T14:03:48Z",
+    "url": "https://www.aerotime.aero/articles/jetblue-launches-new-daily-service-between-boston-and-barcelona-photos",
+    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   },
   {
@@ -182,7 +325,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +721,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -589,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1040,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2053,149 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-11T04:13:10Z",
     "url": "https://simpleflying.com/faa-gamers-air-traffic-controller-shortfall/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "04d710f5b3fb",
-    "title": "10 Years From Now, This Is What Happens To Today\u2019s Boeing 777 Fleet",
-    "summary": "Delays within the 777X program mean we could frequently be seeing older variants from the family for years yet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T01:00:17Z",
-    "url": "https://simpleflying.com/10-years-happens-today-boeing-777-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e58b4e2d9699",
-    "title": "The World's Most Comfortable Premium Economy Doesn't Have The Most Legroom",
-    "summary": "Emirates won the premium economy seats category in the Skytrax awards, yet it has less legroom than that of Japan Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T00:00:17Z",
-    "url": "https://simpleflying.com/worlds-most-comfortable-premium-economy-doesnt-have-most-legroom/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3160a7c6b1db",
-    "title": "Delta Air Lines Retires Its Oldest Widebody After Nearly 36 Years & 150,000 Flight Hours",
-    "summary": "The aircraft has operated continuously for the airline since the 1990's.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T22:58:56Z",
-    "url": "https://simpleflying.com/delta-air-lines-retires-oldest-widebody-36-years-150000-flight-hours/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "d67172fa3c86",
-    "title": "Why The Workhorse Of The World\u2019s Cargo Airlines Is No Longer In Production",
-    "summary": "The final Boeing 747 was delivered in January 2023.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T21:30:18Z",
-    "url": "https://simpleflying.com/workhorse-worlds-cargo-airlines-no-longer-production-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4c4645f81ff",
-    "title": "Virginia Airport Rebrand Draws Local Opposition",
-    "summary": "Manassas weighs adding \u201cWashington\u201d to airport name ahead of planned airline service.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-10T21:21:42Z",
-    "url": "https://avweb.com/aviation-news/virginia-airport-rebrand-draws-opposition/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dab2ff61ea5d",
-    "title": "A Look At The Salaries Of US Air Force Pilots In 2026 & Why $50,000 Bonuses Still Can't Keep Them",
-    "summary": "The story behind the Air Force's depleted pilot ranks.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-04-10T21:00:18Z",
-    "url": "https://simpleflying.com/salaries-usaf-pilots-2026-why-bonuses-cant-keep-them/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "612055ad9ed0",
-    "title": "Final Countdown: RDU Welcomes Record 5th New Long-Haul Airline Next Week",
-    "summary": "Irish carrier Aer Lingus set to become the fifth international long-haul carrier to serve Raleigh-Durham International Airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T20:48:47Z",
-    "url": "https://simpleflying.com/rdu-welcomes-record-5th-long-haul-airline-next-week/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "548cdb966d46",
-    "title": "United Airlines' 15 Busiest Flights: Routes With 1 Million Passengers Revealed",
-    "summary": "The carrier's busiest route carried 1.53 million passengers last year, connecting two major hubs. But which others made the top 15?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T20:00:17Z",
-    "url": "https://simpleflying.com/united-airlines-15-busiest-flights-routes-with-1-million-passengers-revealed/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a597733235e7",
-    "title": "Boeing's 777X Just Hit A Key Certification Gate: What \"Production-Standard\" Really Means",
-    "summary": "The aircraft is set to enter commercial service in 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T18:00:18Z",
-    "url": "https://simpleflying.com/boeing-777x-key-certification-gate-what-production-standard-really-means/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b64b6f11d644",
-    "title": "Alaska Airlines' 1st Europe Flight Launches This Month \u2013 Delta Is Already Fighting Back",
-    "summary": "The carrier has made a groundbreaking move.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-10T17:00:18Z",
-    "url": "https://simpleflying.com/alaska-airlines-1st-europe-flight-launch-delta-fighting-back/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "4299b5551561",
-    "title": "What FAA Data Shows About Student Pilots and a Younger Pilot Population",
-    "summary": "New 2025 figures show continued growth in the training pipeline and a milestone for women in aviation.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-04-10T16:27:33Z",
-    "url": "https://www.flyingmag.com/what-faa-data-shows-about-student-pilots-and-a-younger-pilot-population/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0ee434a90df7",
-    "title": "FAA\u2019s Latest ATC Recruiting Strategy Targets\u2026Gamers?",
-    "summary": "The agency is turning to an atypical pool of potential applicants to address a chronic shortage.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-10T16:27:09Z",
-    "url": "https://www.flyingmag.com/faa-atc-recruiting-strategy-targets-gamers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0530a8f1fc17",
-    "title": "Air Force Boosts FY26 Aviation Bonus Incentives",
-    "summary": "Program increases payouts for shorter commitments, with total contracts reaching up to $600,000.",
-    "source": "AvWeb",
-    "category": "pay",
-    "publishedDate": "2026-04-10T16:20:13Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/air-force-boosts-fy26-aviation-bonuses/",
     "airlineTag": null,
     "isBreaking": false
   }
