@@ -1,5 +1,27 @@
 [
   {
+    "id": "d298fd500353",
+    "title": "Blunt Consequences: Air India Pilot Deported From San Francisco Following Marijuana Discovery",
+    "summary": "A co-pilot's unexpected choice lands him in hot water at San Francisco International Airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T04:44:08Z",
+    "url": "https://simpleflying.com/air-india-pilot-deported-sfo-marijuana/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "963ac16f385f",
+    "title": "The Real Reason Why Aircraft Recyclers Dread The Retirement Of The Airbus A350 & Boeing 787",
+    "summary": "The challenges with recycling composite airliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T03:02:46Z",
+    "url": "https://simpleflying.com/real-reason-aircraft-recyclers-dread-retirement-airbus-a350-boeing-787/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f044d477749e",
     "title": "\u201cIt's Not Legal\u201d: Pilot Files Lawsuit Over Palm Beach Airport\u2019s Renaming After Donald Trump",
     "summary": "The lawsuit against renaming Palm Beach International Airport after Donald Trump raises questions about the $5.5 million cost and safety concerns.",
@@ -325,7 +347,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -721,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -732,7 +754,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1183,7 +1205,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-04-11T10:36:21Z",
     "url": "https://simpleflying.com/ntsb-united-pilots-distracted-denver-crash/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f220e25e6dfa",
-    "title": "Only 222 Seats: Where United Airlines Is Flying Its Ultra-Premium Boeing 787 Dreamliner In 2026",
-    "summary": "The luxurious aircraft are flying select domestic routes now, with international service set to begin in late April.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T08:00:16Z",
-    "url": "https://simpleflying.com/where-united-airlines-flying-ultra-premium-boeing-787-dreamliner-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c2f1c9a182aa",
-    "title": "\"It's Not A Game\": FAA Targets Gamers As US Faces 3,500 Air Traffic Controller Shortfall",
-    "summary": "As the US faces a 3,500 air traffic controller shortfall, the FAA is making a bold move by targeting gamers for recruitment.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T04:13:10Z",
-    "url": "https://simpleflying.com/faa-gamers-air-traffic-controller-shortfall/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
