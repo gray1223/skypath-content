@@ -1,5 +1,27 @@
 [
   {
+    "id": "9bc968ffc215",
+    "title": "Duffy: ATC Hiring Push Attracts 6,000 Applicants",
+    "summary": "Program \u2018has been wildly successful\u2019 in recruiting air traffic control trainees, transportation secretary says.",
+    "source": "Flying Magazine",
+    "category": "hiring",
+    "publishedDate": "2026-04-18T12:00:00Z",
+    "url": "https://www.flyingmag.com/duffy-atc-hiring-push-6000-applicants/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "507518a7a2a5",
+    "title": "Never Made: The Airbus A380-900 That Airlines Never Ordered",
+    "summary": "Why the A380 program failed before Airbus could move onto the primary variant, the stretched A380-900.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T11:00:18Z",
+    "url": "https://simpleflying.com/airbus-a380-900-airlines-never-ordered/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d298fd500353",
     "title": "Blunt Consequences: Air India Pilot Deported From San Francisco Following Marijuana Discovery",
     "summary": "A co-pilot's unexpected choice lands him in hot water at San Francisco International Airport.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-04-11T12:53:29Z",
     "url": "https://simpleflying.com/dubai-cuts-foreign-airlines-one-daily-flight-emirates/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "df11a137efe4",
-    "title": "Coming This Summer: KLM\u2019s First Airbus A350 Enters Final Assembly In Toulouse",
-    "summary": "KLM Royal Dutch Airlines expects to receive the very first Airbus A350 this year when airframe MSN809 arrives in Summer 2026. The A350-900 recently moved to the final assembly stage at Toulouse, France.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T12:22:17Z",
-    "url": "https://simpleflying.com/video/coming-this-summer-klm-s-first-airbus-a350-enters-final-assembly-in-toulouse/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "85af94a9a55f",
-    "title": "United 737 Pilots Distracted Before Denver Deicing Truck Crash, NTSB Says",
-    "summary": "Reports indicate that while the aircraft received its taxi clearance, it was not cleared to exit the deicing bay as the operation was still ongoing.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-04-11T10:36:21Z",
-    "url": "https://simpleflying.com/ntsb-united-pilots-distracted-denver-crash/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
