@@ -1,5 +1,82 @@
 [
   {
+    "id": "c75bc29fd70b",
+    "title": "Up To 9-Hour Nonstop Flights: Inside JetBlue's 13 European Routes [Map]",
+    "summary": "How many have you flown on?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T13:00:18Z",
+    "url": "https://simpleflying.com/jetblue-european-routes-2026/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "ed4d1b48a9f7",
+    "title": "The 5 Airlines With The Largest Boeing 737 Fleets In Early 2026",
+    "summary": "For decades, the Boeing 737 has been one of the defining aircraft in short and even medium-haul markets. However, its operational importance is best understood by the airlines that have built entire network strategies around the type. From Southwest Airlines' to Ryanair and it...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T12:27:18Z",
+    "url": "https://simpleflying.com/video/the-5-airlines-with-the-largest-boeing-737-fleets-in-early-2026/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "044f6300bc1f",
+    "title": "Luxury airline Beond\u00a0axes flight schedule until October",
+    "summary": "The luxury, all-business airline Beond will \u201cpause\u201d its flight schedule over the summer between European cities and its&#8230; The post Luxury airline Beond axes flight schedule until October appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-19T11:55:01Z",
+    "url": "https://www.aerotime.aero/articles/luxury-airline-beond-axes-flight-schedule-until-october",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ba1cef730429",
+    "title": "American Airlines puts talk of merger with United Airlines firmly to bed",
+    "summary": "American Airlines has put speculation around a possible merger with rival carrier United Airlines firmly to bed after&#8230; The post American Airlines puts talk of merger with United Airlines firmly to bed appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-19T10:52:14Z",
+    "url": "https://www.aerotime.aero/articles/american-airlines-puts-talk-of-merger-with-united-airlines-firmly-to-bed",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "aa1680ca9c1e",
+    "title": "Here's Why Australia's New 24/7 Airport Is Reshaping Airline Schedules Before It Even Opens",
+    "summary": "The airport will encourage more dynamic flight operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T10:00:17Z",
+    "url": "https://simpleflying.com/why-australia-new-24-7-airport-reshaping-airline-schedules-before-open/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e1ec8bc1f15f",
+    "title": "6 Airlines With The World's Most Superior Business Class Dining In 2026",
+    "summary": "These airlines all offer restaurant-level dining at 30,000 feet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T10:00:17Z",
+    "url": "https://simpleflying.com/best-airlines-business-class-dining-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "22124f8add7e",
+    "title": "UFC Fighter Booted Off American Airlines Flight, Charters Private Jet Instead",
+    "summary": "The four passengers involved reportedly failed to adhere to cabin crew instructions, resulting in the aircraft returning to gate and offloading them.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T08:36:22Z",
+    "url": "https://simpleflying.com/ufc-fighter-american-airlines-private-jet-charter/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "2b2c66be89df",
     "title": "5 Aircraft That Pilots Say Are The Most Technologically Advanced",
     "summary": "The most cutting-edge aircraft of 2026.",
@@ -589,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -985,7 +1062,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -996,7 +1073,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1447,7 +1524,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-12T21:16:19Z",
     "url": "https://simpleflying.com/usaf-confronts-range-disadvantage-f-22-f-35-missiles-china-pl-15/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "833ed1db5283",
-    "title": "Icelandair Reports Veteran Pilot To Police After Unauthorized Flyover On Farewell Flight",
-    "summary": "A veteran pilot's final flight takes an unexpected turn as he allegedly performs an unauthorized low-altitude flyover over his hometown.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-12T17:39:34Z",
-    "url": "https://simpleflying.com/icelandair-reports-veteran-pilot-police-unauthorized-flyover-farewell-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1c2d03f4d691",
-    "title": "The Aircraft Set To Replace The World\u2019s Largest Commercial Jet",
-    "summary": "A new era is dawning as the superjumbo fades away, but which aircraft will replace it?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T17:30:18Z",
-    "url": "https://simpleflying.com/aircraft-set-to-replace-the-worlds-largest-commercial-jet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a9b7079e0f77",
-    "title": "Third Strike In A Month: Lufthansa Pilots To Walk Out For 48 Hours",
-    "summary": "Lufthansa braces for another round of disruptive industrial action.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-12T16:50:28Z",
-    "url": "https://simpleflying.com/lufthansa-pilot-strike-april-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6893e92088c",
-    "title": "Over $400,000: The US Airlines With The Highest Widebody Captain Pay In 2026",
-    "summary": "A combination of factors, from global pilot shortages to union bargaining power, has pushed widebody captain pay to unprecedented heights.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-04-12T14:00:17Z",
-    "url": "https://simpleflying.com/5-airlines-highest-widebody-captain-pay-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "02e78358b055",
-    "title": "USAF C-130 damaged by intruder at Shannon Airport: video",
-    "summary": "A United States Air Force Lockheed C-130 Hercules transport aircraft sustained significant structural damage in Ireland after an&#8230; The post USAF C-130 damaged by intruder at Shannon Airport: video appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-12T13:21:03Z",
-    "url": "https://www.aerotime.aero/articles/usaf-c-130-damaged-by-intruder-at-shannon-airport-video",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f165263da720",
-    "title": "End Of An Era? Airbus A380 Flights Plunge By Massive 17%",
-    "summary": "Despite most operators having cut superjumbo flights, a select few are operating more than this time last year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T13:00:17Z",
-    "url": "https://simpleflying.com/airbus-a380-flights-down-17-percent/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3017b16269b7",
-    "title": "Pakistan sends fighter jets and support aircraft to Saudi base",
-    "summary": "The Pakistan Air Force has sent fighter jets and support aircraft to Saudi Arabia under a newly established&#8230; The post Pakistan sends fighter jets and support aircraft to Saudi base appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-12T12:45:32Z",
-    "url": "https://www.aerotime.aero/articles/pakistan-sends-fighter-jets-and-support-aircraft-to-saudi-base",
     "airlineTag": null,
     "isBreaking": false
   }
