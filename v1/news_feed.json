@@ -1,5 +1,49 @@
 [
   {
+    "id": "53df02803360",
+    "title": "Alaska Airlines Allowing Passengers To Boost Status By Contributing To SAF During Earth Month",
+    "summary": "Alaska Airlines lets passengers earn elite status credits by contributing to sustainable aviation fuel during its Earth Month initiative.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T17:52:13Z",
+    "url": "https://simpleflying.com/alaska-airlines-allowing-passengers-boost-status-saf-earth-month/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3925da74e453",
+    "title": "A Look At The Hourly Pay Of US Regional Airline First Officers In 2026",
+    "summary": "Regional airlines are offering competitive pay across carriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T14:00:17Z",
+    "url": "https://simpleflying.com/hourly-pay-us-regional-airline-first-officers-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2e30fbad7994",
+    "title": "What Are The Benefits Of Flying Delta Air Lines' Premium Select?",
+    "summary": "The SkyTeam carrier's premium economy product offers many perks for passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T13:30:17Z",
+    "url": "https://simpleflying.com/benefits-of-flying-delta-air-lines-premium-select/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f531dd0f126d",
+    "title": "Midwest Milestone: US Airport Welcomes Its First Direct UK Flight In Over 20 Years",
+    "summary": "British Airways will operate this route four times weekly using its fleet of Boeing 787 aircraft until the end of the summer season.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T13:10:46Z",
+    "url": "https://simpleflying.com/british-airways-st-louis-london-heathrow-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c75bc29fd70b",
     "title": "Up To 9-Hour Nonstop Flights: Inside JetBlue's 13 European Routes [Map]",
     "summary": "How many have you flown on?",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-04-12T22:00:17Z",
     "url": "https://simpleflying.com/southwest-airlines-criticized-high-tier-flier-handwritten-note/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "728f99475fb4",
-    "title": "Why Delta Air Lines Now Only Has 2 Boeing 757 Routes To Europe",
-    "summary": "The carrier used to deploy the type on transatlantic duties a lot more widely and regularly.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T22:00:17Z",
-    "url": "https://simpleflying.com/delta-air-lines-remaining-european-boeing-757-routes/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "98dd55c5f775",
-    "title": "United Airlines Slashes Boeing 737 MAX 8 International Flights By 16%",
-    "summary": "The type will, however, see increased usage on European routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T22:00:17Z",
-    "url": "https://simpleflying.com/united-airlines-boeing-737-max-8-international-flight-cuts/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fef0150508d9",
-    "title": "The 7 Largest US Air Force Bases By Land Area",
-    "summary": "A closer look at the biggest real estate in the USAF.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T21:30:17Z",
-    "url": "https://simpleflying.com/largest-us-air-force-bases-by-land-area/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "35535d332cd6",
-    "title": "US Air Force Confronts Range Disadvantage For F-22 & F-35 Missiles Against China's PL-15",
-    "summary": "US fighters face a growing missile range gap as China\u2019s PL-15 outpaces AMRAAM, driving urgent development of next-gen weapons like AIM-260.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T21:16:19Z",
-    "url": "https://simpleflying.com/usaf-confronts-range-disadvantage-f-22-f-35-missiles-china-pl-15/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
