@@ -1,5 +1,93 @@
 [
   {
+    "id": "922b676f9332",
+    "title": "Retirement Flyovers Are An Aviation Tradition: This Pilot's Farewell Got Him Reported To Police",
+    "summary": "Why this captain's decisions on his final flight were extremely problematic.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-19T01:00:17Z",
+    "url": "https://simpleflying.com/pilot-retirement-flyover-reported-police/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f596e110fd88",
+    "title": "Confirmed: Ex-Qatari Luxury Boeing 747-8 To Be Delivered As Interim Air Force One This Summer",
+    "summary": "The aircraft will be used as a stopgap solution until new models arrive.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T23:00:17Z",
+    "url": "https://simpleflying.com/ex-qatari-luxury-boeing-747-8-delivered-interim-af1-summer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2244ca5708e7",
+    "title": "How Much Does It Cost To Charter A Private Boeing Business Jet In 2026?",
+    "summary": "The biggest and greatest of the private jet world, the Boeing Business Jets command some of the highest charter prices. What is the true cost today?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T23:00:17Z",
+    "url": "https://simpleflying.com/cost-charter-private-boeing-business-jet-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2b321762039e",
+    "title": "After 10 Years, Premium Economy Has Completely Changed Airline Cabins",
+    "summary": "Premium economy has gone from a niche idea to one of the most important forces reshaping modern airline cabins.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T22:01:04Z",
+    "url": "https://simpleflying.com/premium-economy-completely-changed-airline-cabins/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "472ca817965f",
+    "title": "\u201cShe Was Rude To Her\u201d: United Airlines Boots Passenger & Hearing-Impaired Wife After Conflict",
+    "summary": "The situation takes a turn for the worse when the off-duty crew member accuses the passenger of ignoring them, sparking a confrontation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T21:46:48Z",
+    "url": "https://simpleflying.com/united-airlines-boots-passenger-hearing-impaired-wife-conflict/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b15b4df3f0d1",
+    "title": "Bomb Threat Forces New York-Bound United Airlines Flight To Divert To Pittsburgh",
+    "summary": "A United Airlines flight from Chicago to New York was abruptly diverted to Pittsburgh after a mid-air security concern raised fears of a bomb.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-18T21:05:55Z",
+    "url": "https://simpleflying.com/bomb-threat-new-york-bound-united-airlines-flight-divert-pittsburgh/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f5d3b9b5ab02",
+    "title": "Spirit Airlines Seeking Emergency Government Bailout To Avoid Liquidation",
+    "summary": "The airline needs a serious cash infusion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-18T21:00:17Z",
+    "url": "https://simpleflying.com/spirit-airlines-seeking-emergency-government-bailout-avoid-liquidation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "af218c3301fe",
+    "title": "A Look At The Salaries Of US Navy Pilots In 2026",
+    "summary": "Several different ranks, aircraft, and the officers' responsibilities play a part in overall pay.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-18T21:00:17Z",
+    "url": "https://simpleflying.com/salaries-us-navy-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d3110260b861",
     "title": "Family Suing American Airlines $50,000 For Allegedly Being \u201cTargeted\u201d Over Disability",
     "summary": "A Louisiana family's lawsuit against American Airlines alleges they were unfairly targeted and removed from a flight.",
@@ -457,7 +545,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -853,7 +941,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -864,7 +952,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1315,7 +1403,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-12T08:51:26Z",
     "url": "https://www.aerotime.aero/articles/lufthansa-pilots-plan-two-day-strike-as-tensions-rise",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cb0273a1ff28",
-    "title": "Adieu, A330: Air France Sets Retirement Date After Quarter Century Of Service",
-    "summary": "The few remaining A330s will be retired by next summer, and their flights are set to be replaced by Airbus A350-900s and Boeing 787-9 Dreamliners.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T08:38:19Z",
-    "url": "https://simpleflying.com/air-france-airbus-a330-retirement-date/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d89242b30c8a",
-    "title": "Why One Of The World's Largest Freighter Operators Just Broke Up With Boeing For Airbus",
-    "summary": "This sudden shift in allegiance could signal a changing tide in the freighter market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T07:00:18Z",
-    "url": "https://simpleflying.com/why-one-worlds-largest-freighter-operators-broke-up-boeing-airbus/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "39e3090201e1",
-    "title": "United Airlines' Longest Nonstop Routes With The Boeing 787 Dreamliner In 2026",
-    "summary": "An aircraft that has proven its capability across all corners of the globe for a powerhouse of aviation. Here is where United operates the Dreamliner.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-12T04:00:21Z",
-    "url": "https://simpleflying.com/united-airlines-longest-nonstop-routes-boeing-787-dreamliner-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e2897b38a10f",
-    "title": "Alaska Airlines To Build New $135 Million Maintenance Hangar In Portland",
-    "summary": "The new maintenance hangar will not only benefit Alaska Airlines but also the local community.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T22:32:39Z",
-    "url": "https://simpleflying.com/alaska-airlines-build-new-135-million-maintenance-hangar-portland/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7aa9e31beebe",
-    "title": "Why Avelo Airlines Scrapped All International Flights",
-    "summary": "The carrier has reverted to a domestic focus.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T22:00:18Z",
-    "url": "https://simpleflying.com/why-avelo-airlines-scrapped-all-international-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b342324edc38",
-    "title": "The New Baggage Policy Changes That Delta Air Lines Passengers Should Know About In 2026",
-    "summary": "Everyone from first-timers to frequent flyers should be aware of these alterations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T22:00:18Z",
-    "url": "https://simpleflying.com/new-baggage-policy-changes-delta-air-lines-passengers-know-about-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "be41b64e9c11",
-    "title": "Why Did Delta Air Lines Operate The Boeing 747 Again After An 18-Year Break?",
-    "summary": "The carrier used inherited 747-400s to power its global routes until 2017.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T21:30:18Z",
-    "url": "https://simpleflying.com/why-did-delta-air-lines-operate-boeing-747-again-after-18-years/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "a80d8932ed2d",
-    "title": "'Fear Of Retribution': Pilots Say Airlines Are Forcing Them To Fly In Conflict Zones",
-    "summary": "Pilots in the Middle East fear facing sanctions if they refuse to fly through conflict zones, raising safety concerns as tensions continue to rise.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-11T21:12:10Z",
-    "url": "https://simpleflying.com/airline-pilots-forced-middle-east-conflict-zones/",
     "airlineTag": null,
     "isBreaking": false
   }
