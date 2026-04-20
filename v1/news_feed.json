@@ -1,5 +1,27 @@
 [
   {
+    "id": "02333d95c7d4",
+    "title": "Why This Airline Is Actually Earning $300 Million From Higher Fuel Costs",
+    "summary": "Delta\u2019s refinery turns a fuel shock into a rare competitive advantage worth $300 million.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-20T07:00:17Z",
+    "url": "https://simpleflying.com/why-airline-actually-earning-300-million-higher-fuel-costs/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "77cb9ac1db88",
+    "title": "Etihad Airways adds six new routes in \u2018significant expansion\u2019 to African network",
+    "summary": "Etihad Airways has added six new international routes as part of a \u201csignificant expansion\u201d of its African network&#8230; The post Etihad Airways adds six new routes in \u2018significant expansion\u2019 to African network appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-20T03:02:00Z",
+    "url": "https://www.aerotime.aero/articles/etihad-airways-six-new-routes-african-network",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4663bd07414a",
     "title": "FAA Accepts First Light-Sport Maintenance Course for Powered Parachutes",
     "summary": "New training program comes as MOSAIC begins expanding sport pilot opportunities.",
@@ -574,7 +596,7 @@
   {
     "id": "ac2518778050",
     "title": "FAA caps O\u2019Hare flights as United, American jostle for expanded summer access",
-    "summary": "The Federal Aviation Administration (FAA) has capped daily operations at Chicago O\u2019Hare Airport at 2,708 flights from May&#8230; The post FAA caps O\u2019Hare flights as United, American jostle for expanded summer access appeared first on AeroTime.",
+    "summary": "The Federal Aviation Administration (FAA) has capped daily operations at Chicago O\u2019Hare Airport (ORD) at 2,708 flights from&#8230; The post FAA caps O\u2019Hare flights as United, American jostle for expanded summer access appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-04-17T19:00:30Z",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-13T11:33:45Z",
     "url": "https://www.aerotime.aero/articles/swiss-air-force-chief-not-defense-ready",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f8387fc7914",
-    "title": "Heathrow Airport resilient despite huge drop-off in passengers for Middle East",
-    "summary": "London-Heathrow Airport (LHR) is demonstrating stubborn resilience to global events despite a huge drop-off in passengers for the&#8230; The post Heathrow Airport resilient despite huge drop-off in passengers for Middle East appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-13T10:19:05Z",
-    "url": "https://www.aerotime.aero/articles/heathrow-airport-resilient-despite-huge-drop-off-in-passengers-for-middle-east",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f6e8658a48a2",
-    "title": "First Qantas A350 for Project Sunrise rolls out of Airbus factory in France",
-    "summary": "Qantas&#8217; first ultra-long-range A350 has emerged from the Airbus assembly line in Toulouse, France, bringing the airline&#8217;s long-awaited&#8230; The post First Qantas A350 for Project Sunrise rolls out of Airbus factory in France appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-13T09:53:27Z",
-    "url": "https://www.aerotime.aero/articles/first-qantas-a350-for-project-sunrise-rolls-out-of-airbus-factory-in-france",
     "airlineTag": null,
     "isBreaking": false
   }
