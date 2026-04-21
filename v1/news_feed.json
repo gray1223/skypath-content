@@ -1,5 +1,93 @@
 [
   {
+    "id": "4842f743dccd",
+    "title": "FAA Modernizes NOTAM System",
+    "summary": "\u2018Back-end changeover\u2019 aims for safer skies and clearer communication by presenting critical flight information in plain language.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-21T13:00:00Z",
+    "url": "https://www.flyingmag.com/faa-modernizes-notam-system/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f596e110fd88",
+    "title": "Confirmed: Ex-Qatari Luxury Boeing 747-8 To Be Delivered As Interim Air Force One This Summer",
+    "summary": "After extensive speculation, it has now been confirmed that a lavish former Qatari Boeing 747-8i airframe will serve as a temporary presidential transport aircraft while Boeing's purpose-built next-generation Air Force One jets remain years behind schedule. The Air Force notes...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T12:32:17Z",
+    "url": "https://simpleflying.com/video/confirmed-ex-qatari-luxury-boeing-747-8-to-be-delivered-as-interim-air-force-one-this-summer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ace48b384a9d",
+    "title": "Massive 22-Hour Flights: Emirates' 10 New Ultra-Long Routes In 2026",
+    "summary": "When nonstop and one-stop services are combined, this article charts the airline's ten longest links...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T12:00:18Z",
+    "url": "https://simpleflying.com/massive-22-hour-flights-emirates-10-new-ultra-long-routes-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3292b9aa8f0f",
+    "title": "Swedish Air Force intercepts Russian Tu-22M3 bombers over Baltic Sea",
+    "summary": "The Swedish Air Force scrambled two JAS 39 Gripen fighters on April 20, 2026, to identify a formation&#8230; The post Swedish Air Force intercepts Russian Tu-22M3 bombers over Baltic Sea appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-21T11:04:05Z",
+    "url": "https://www.aerotime.aero/articles/swedish-gripen-intercepts-russian-tu-22m3-baltic",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c90705de2748",
+    "title": "Alaska Airlines\u2019 Europe Launch Triggers Delta Response",
+    "summary": "Alaska Airlines is preparing to cross a symbolic frontier. On April 28, 2026, the Seattle-based carrier will launch its first-ever nonstop flight to Europe, linking Seattle and Rome with a Boeing 787-9 Dreamliner inherited through its merger with Hawaiian Airlines. What could ...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T11:00:17Z",
+    "url": "https://simpleflying.com/video/alaska-airlines-europe-launch-triggers-delta-response/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f7f7517615a5",
+    "title": "Inside The Classified Systems Hidden Onboard Air Force One",
+    "summary": "Inside Air Force One\u2019s secret systems: nuclear-proof tech, missile defenses, and a flying command center to keep the President connected anywhere",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T11:00:17Z",
+    "url": "https://simpleflying.com/inside-classified-systems-hidden-air-force-one/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "973f46c91d5d",
+    "title": "A Look At The Salaries Of Long-Haul Flight Attendants In 2026",
+    "summary": "This analysis will focus on major US airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T09:01:18Z",
+    "url": "https://simpleflying.com/salaries-long-haul-flight-attendants-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "519f1c465c6b",
+    "title": "Denmark signs first SAMP/T NG export contract, becomes third operator",
+    "summary": "Denmark has signed the first export contract for the SAMP/T NG long-range air and missile defense system, Thales&#8230; The post Denmark signs first SAMP/T NG export contract, becomes third operator appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-21T08:13:06Z",
+    "url": "https://www.aerotime.aero/articles/denmark-samp-t-ng-first-export-contract",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "85d08dff1bde",
     "title": "US Air Force reverses course, extends A-10 Warthog to service life to 2030",
     "summary": "United States Secretary of the Air Force Troy E. Meink announced on April 20, 2026, that the US&#8230; The post US Air Force reverses course, extends A-10 Warthog to service life to 2030 appeared first on AeroTime.",
@@ -693,17 +781,6 @@
     "isBreaking": false
   },
   {
-    "id": "f596e110fd88",
-    "title": "Confirmed: Ex-Qatari Luxury Boeing 747-8 To Be Delivered As Interim Air Force One This Summer",
-    "summary": "The aircraft will be used as a stopgap solution until new models arrive.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T23:00:17Z",
-    "url": "https://simpleflying.com/ex-qatari-luxury-boeing-747-8-delivered-interim-af1-summer/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
     "id": "2244ca5708e7",
     "title": "How Much Does It Cost To Charter A Private Boeing Business Jet In 2026?",
     "summary": "The biggest and greatest of the private jet world, the Boeing Business Jets command some of the highest charter prices. What is the true cost today?",
@@ -1216,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1612,7 +1689,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1623,7 +1700,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2074,7 +2151,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-14T18:23:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/14/training-and-safety-tip-read-before-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-04-14T17:17:49Z",
     "url": "https://simpleflying.com/just-142-miles-american-airlines-new-shortest-boeing-777-flights/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "99ce7bc8a7c0",
-    "title": "Amazon Leo Launches High Speed In-Flight Internet Antenna",
-    "summary": "The 2.6-inch high antenna aims to provide high-performance internet for both regional and commercial jets.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-14T15:53:00Z",
-    "url": "https://avweb.com/news/amazon-leo-launches-high-speed-in-flight-internet-antenna/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4677e84b62a7",
-    "title": "BOND upgrades 24 Bombardier private jet options to Global 8000 due to demand",
-    "summary": "New private jet fractional operator BOND has upgraded 24 aircraft purchase options with Bombardier to Global 8000 due&#8230; The post BOND upgrades 24 Bombardier private jet options to Global 8000 due to demand appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-14T15:15:32Z",
-    "url": "https://www.aerotime.aero/articles/bond-bombardier-private-jet-options-global-8000-private-jet",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ff74146d65a1",
-    "title": "Diamond Launches Factory-Authorized Owner Training Program",
-    "summary": "Program targets DA42, DA50 and DA62 pilots with aircraft-specific instruction and insurance documentation support.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-04-14T15:02:13Z",
-    "url": "https://avweb.com/air-shows-events/sun-n-fun/diamond-factory-authorized-owner-training/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "87e9bf88a6aa",
-    "title": "Delta Air Lines Launches 5 New Nonstop Airbus A350 Routes: See All Flights Now",
-    "summary": "They'll take off between June and December. Check them out here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-14T15:00:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-launches-5-new-nonstop-airbus-a350-routes-see-all-flights-now/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "c0664e7af454",
-    "title": "AOPA Pilot Mental Health Initiative",
-    "summary": "Effort will include education, resources and outreach tied to Mental Health Awareness Month.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-14T14:25:15Z",
-    "url": "https://avweb.com/aviation-news/aopa/aopa-pilot-mental-health-initiative/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fa022a264add",
-    "title": "SUN \u2019n FUN 2026 Kicks Off Today",
-    "summary": "Opening day in Lakeland includes military demos, forums, concerts and campground entertainment.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-14T14:07:05Z",
-    "url": "https://avweb.com/air-shows-events/sun-n-fun/sun-n-fun-2026-kicks-off-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1404557c4690",
-    "title": "Southwest CEO: Airline \u2018Not Done\u2019 Making Big Changes",
-    "summary": "Extra legroom seating, lounges, and other premium offerings could define what was once a budget airline.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-14T13:59:22Z",
-    "url": "https://www.flyingmag.com/southwest-ceo-airline-not-done-making-changes/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
