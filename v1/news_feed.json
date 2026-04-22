@@ -1,5 +1,27 @@
 [
   {
+    "id": "5a4a7017c0a4",
+    "title": "Is It True That Some Pilots Land Hard On Purpose?",
+    "summary": "Safety, consistency, and accuracy take precedence over passenger comfort during landings.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T05:00:17Z",
+    "url": "https://simpleflying.com/true-some-pilots-land-hard-purpose/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35b4cc0e105a",
+    "title": "Heads Up: Southwest Pilot Incapacitated By Falling Display During Takeoff",
+    "summary": "An unlucky captain gets a concussion on lift off.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T03:22:08Z",
+    "url": "https://simpleflying.com/southwest-pilot-incapacitated-falling-display-takeoff/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "6715345b8cbf",
     "title": "American Airlines E175 Comes Within 350 Feet Of Air Canada Jet In JFK Near Miss",
     "summary": "The incident is undeniably concerning.",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-15T09:42:59Z",
     "url": "https://www.aerotime.aero/articles/retiring-icelandair-pilot-faces-probe-after-flying-low-over-westman-islands",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4687e2c19075",
-    "title": "\u2018Dangerous culture of silence\u2019: pilot mental health legislation progresses in US",
-    "summary": "Legislation to dismantle a \u201cdangerous culture of silence\u201d around pilot mental has received bipartisan support from the United&#8230; The post \u2018Dangerous culture of silence\u2019: pilot mental health legislation progresses in US appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-15T08:38:47Z",
-    "url": "https://www.aerotime.aero/articles/pilot-mental-health-legislation-progresses-in-us",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "85e6f6667667",
-    "title": "6 Aircraft That Changed Airline Economics Forever",
-    "summary": "These aircraft fundamentally shifted pricing structures.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T08:00:18Z",
-    "url": "https://simpleflying.com/6-aircraft-change-airline-economics-forever/",
     "airlineTag": null,
     "isBreaking": false
   }
