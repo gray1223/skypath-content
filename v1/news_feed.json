@@ -1,5 +1,115 @@
 [
   {
+    "id": "e6f39652590e",
+    "title": "What Are You Afraid of? UFOs",
+    "summary": "Pilots and air traffic controllers are in a unique position to help us understand what\u2019s happening above us.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-04-22T13:00:00Z",
+    "url": "https://www.flyingmag.com/what-are-you-afraid-of-ufos/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f5ede23980a",
+    "title": "Boeing narrows Q1 loss on stronger deliveries as backlog hits record $695B",
+    "summary": "Boeing reported a narrower first-quarter loss on April 22, 2026, as higher commercial deliveries lifted revenue and drove&#8230; The post Boeing narrows Q1 loss on stronger deliveries as backlog hits record $695B appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-22T12:52:05Z",
+    "url": "https://www.aerotime.aero/articles/boeing-q1-2026-loss-narrows-backlog-record",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a5f6652bd524",
+    "title": "Hawaiian Airlines Retires Its Iconic \"HA\" Flight Code & Adopts Alaska Airlines \"AS\"",
+    "summary": "Apart from this change, today the airline finally joins Alaska Airlines in the oneworld global airline alliance!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T12:42:42Z",
+    "url": "https://simpleflying.com/hawaiian-airlines-retires-ha-flight-code/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ad8659a95aa8",
+    "title": "Why Flying The Biggest Aircraft Isn\u2019t Every Pilot\u2019s Goal",
+    "summary": "Pilot dynamics can be extremely complicated.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T12:29:36Z",
+    "url": "https://simpleflying.com/why-flying-biggest-aircaft-isnt-pilots-goal/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0705cda73e09",
+    "title": "Another 777 Variant Certified (Probably Not The One You're Thinking Of)",
+    "summary": "While we\u2019re sure that most people are hoping that the Boeing 777X gets certified as soon as possible, today\u2019s news concerns a different 777 variant getting certified. Indeed, it was on April 8th that The Federal Aviation Administration (FAA) certified the Mammoth Freighters 77...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T12:25:18Z",
+    "url": "https://simpleflying.com/video/another-777-variant-certified-probably-not-the-one-you-re-thinking-of/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "adf7a6b9e17e",
+    "title": "Fuel Price Crisis: This Major Airline Just Cut 20,000 Summer Flights",
+    "summary": "The cuts, which apply until October, will impact short-haul flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T12:12:53Z",
+    "url": "https://simpleflying.com/lufthansa-group-cuts-20000-flights-fuel-price-rises/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ba8a932b22b2",
+    "title": "One-Way-In, One-Way-Out Airports Pose Hurdles",
+    "summary": "Technically demanding runways bring out the skills in pilots.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-04-22T12:00:00Z",
+    "url": "https://www.flyingmag.com/one-way-in-one-way-out-airports-pose-hurdles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2e875b69d424",
+    "title": "Rheinmetall secures Bundeswehr order for FV-014 loitering munition",
+    "summary": "Rheinmetall has signed a framework contract with the Bundeswehr for the supply of its FV-014 loitering munition, the&#8230; The post Rheinmetall secures Bundeswehr order for FV-014 loitering munition appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-22T11:41:30Z",
+    "url": "https://www.aerotime.aero/articles/rheinmetall-fv-014-bundeswehr-loitering-munition",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1df143585487",
+    "title": "ROKAF report finds personal photo maneuver caused 2021 F-15K collision",
+    "summary": "South Korea&#8217;s Board of Audit and Inspection (BAI) has held a former Republic of Korea Air Force (ROKAF)&#8230; The post ROKAF report finds personal photo maneuver caused 2021 F-15K collision appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-22T10:45:19Z",
+    "url": "https://www.aerotime.aero/articles/rokaf-audit-photo-maneuver-caused-2021-f15k-collision",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "30fc30e6b588",
+    "title": "Trump suggests federal government could help Spirit Airlines during live call",
+    "summary": "US President Donald Trump has suggested on a live call with CNBC that the federal government could help&#8230; The post Trump suggests federal government could help Spirit Airlines during live call appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-22T10:21:01Z",
+    "url": "https://www.aerotime.aero/articles/trump-federal-government-spirit-airlines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "5a4a7017c0a4",
     "title": "Is It True That Some Pilots Land Hard On Purpose?",
     "summary": "Safety, consistency, and accuracy take precedence over passenger comfort during landings.",
@@ -13,7 +123,7 @@
   {
     "id": "35b4cc0e105a",
     "title": "Heads Up: Southwest Pilot Incapacitated By Falling Display During Takeoff",
-    "summary": "An unlucky captain gets a concussion on lift off.",
+    "summary": "The unlucky Captain got a concussion on lift-off.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-04-22T03:22:08Z",
@@ -39,7 +149,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1590,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1876,7 +1986,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1887,7 +1997,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-15T14:00:17Z",
     "url": "https://simpleflying.com/how-70-year-old-bomber-usaf-effective-bomb-truck-iran/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "711d2f44df06",
-    "title": "Radiant Technology Introduces New Directional Instrument",
-    "summary": "SafeGyro is aimed at the experimental and light-aircraft market.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-15T14:00:00Z",
-    "url": "https://www.flyingmag.com/radiant-technology-introduces-new-directional-instrument/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e420561c3c4f",
-    "title": "1st Overhead Shot: US Air Force Unveils Striking New Perspective Of B-21 Raider",
-    "summary": "The B-21 Raider is designed to be more efficient, stealthy, and flexible than its predecessor, the B-2 Spirit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T13:40:55Z",
-    "url": "https://simpleflying.com/b-21-raider-unprecedented-look/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1510b50dab3d",
-    "title": "Decoding the Alphabet: Why U.S. Military Aircraft Names Use Letters",
-    "summary": "Designations like B-17, P-51, and F-86 evolved from complex acronyms to simple purpose identifiers.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-15T13:00:00Z",
-    "url": "https://www.flyingmag.com/decoding-the-alphabet-why-u-s-military-aircraft-names-use-letters/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a047224e5860",
-    "title": "Qatar Airways Grounds All Airbus A380s For 2 Months: Here's What's Next",
-    "summary": "Each week, airlines around the world submit schedule changes to Cirium, OAG, etc. And In the latest update, Qatar Airways has cut over 12,000 flights planned for April and May, suspending service to over 60 destinations.Among the most notable changes is that the oneworld membe...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T12:29:17Z",
-    "url": "https://simpleflying.com/video/qatar-airways-grounds-all-airbus-a380s-for-2-months-here-s-what-s-next/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "287dcc518101",
-    "title": "US-First eGates: American Airlines To Automate Boarding At DFW Hub",
-    "summary": "Passengers will soon self-scan their boarding passes to enter the jetbridge.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T11:22:06Z",
-    "url": "https://simpleflying.com/american-airlines-automated-boarding-egates-dfw/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d567f59d6425",
-    "title": "Delta unveils next-generation business class suite in $1 billion cabin overhaul",
-    "summary": "Delta Air Lines is doubling down on premium travel, unveiling a redesigned business class suite and committing to&#8230; The post Delta unveils next-generation business class suite in $1 billion cabin overhaul appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-15T11:16:16Z",
-    "url": "https://www.aerotime.aero/articles/delta-unveils-next-generation-business-class-suite-in-1-billion-cabin-overhaul",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1f524749ba7c",
-    "title": "Singapore Airlines Has Ended Airbus A380 Flights On 11 Routes [Updated List]",
-    "summary": "There are some intriguing developments this year...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T11:00:17Z",
-    "url": "https://simpleflying.com/singapore-airlines-has-ended-airbus-a380-flights-on-13-routes-full-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "afb6f4aeb070",
-    "title": "How Much Does An F-22 Raptor Cost Per Flight Hour In 2026?",
-    "summary": "Despite its high operating cost, the F-22 remains one of the most capable air superiority fighters ever built.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T11:00:17Z",
-    "url": "https://simpleflying.com/how-much-f-22-raptor-cost-per-flight-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fd02e80004b3",
-    "title": "Bombardier handovers Vista\u2019s first Global 8000 as part of 7500 fleet upgrade",
-    "summary": "Bombardier has handed over long-time customer Vista\u2019s first Global 8000 executive jet, as part of a fleet-wide upgrade&#8230; The post Bombardier handovers Vista\u2019s first Global 8000 as part of 7500 fleet upgrade appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-15T10:53:16Z",
-    "url": "https://www.aerotime.aero/articles/bombardier-handovers-vistas-first-global-8000-as-part-of-7500-fleet-upgrade",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8a944b922373",
-    "title": "Retiring Icelandair pilot faces probe after flying low over Westman Islands",
-    "summary": "An Icelandair flight took an unexpected detour when the pilot flew a Boeing 757-200 low over Heimaey in&#8230; The post Retiring Icelandair pilot faces probe after flying low over Westman Islands appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-15T09:42:59Z",
-    "url": "https://www.aerotime.aero/articles/retiring-icelandair-pilot-faces-probe-after-flying-low-over-westman-islands",
     "airlineTag": null,
     "isBreaking": false
   }
