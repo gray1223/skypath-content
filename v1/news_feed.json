@@ -1,12 +1,67 @@
 [
   {
+    "id": "6715345b8cbf",
+    "title": "American Airlines E175 Comes Within 350 Feet Of Air Canada Jet In JFK Near Miss",
+    "summary": "The incident is undeniably concerning.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T00:00:57Z",
+    "url": "https://simpleflying.com/american-airlines-within-350-feet-air-canada-jfk-near-miss/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "35c36b31856e",
     "title": "Training and Safety Tip: Fly with feeling",
     "summary": "As you begin flying, one of the first things you&rsquo;ll need to master is judging how much force to apply to the flight controls in order to make the control surfaces on the wings and tail deploy to the degree you want them to.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2c9959c7c373",
+    "title": "Why The US Air Force Is The World's Exclusive Operator Of The F-22 Raptor",
+    "summary": "How America locked down the world's best fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T22:00:17Z",
+    "url": "https://simpleflying.com/why-usaf-worlds-exclusive-operator-f-22-raptor/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fff8015204c0",
+    "title": "FAA Developing ATC Tech to Predict the Future",
+    "summary": "Strategic Management of Airspace Routing Trajectories (SMART) system could shift air traffic control from reactive to predictive.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-21T21:20:52Z",
+    "url": "https://www.flyingmag.com/faa-smart-atc-system-to-predict-future/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b4b70eb5b0c9",
+    "title": "Rare Visitor: Why A Qantas Airbus A380 Was Spotted At London Gatwick Airport",
+    "summary": "A rare Qantas A380 landing at Gatwick surprised aviation fans, highlighting how special charters can bring unexpected aircraft to unusual airports",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-21T20:32:16Z",
+    "url": "https://simpleflying.com/qantas-airbus-a380-spotted-london-gatwick-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d280e1d2de93",
+    "title": "Air Canada Abruptly Ends This 22-Hour Route [Flight Schedule & Map]",
+    "summary": "The sudden removal of Air Canada's flights to this major city raises questions about the airline's plans there.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-21T20:00:17Z",
+    "url": "https://simpleflying.com/air-canada-abruptly-scraps-very-long-22-hour-flights-route-schedule-map/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1458,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1810,7 +1865,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-04-15T08:00:18Z",
     "url": "https://simpleflying.com/6-aircraft-change-airline-economics-forever/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a942a8518a96",
-    "title": "Why This Major Airline Continues To Operate The Airbus A380 On Its Longest Routes",
-    "summary": "Singapore Airlines was the launch customer of the Airbus A380.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T05:00:18Z",
-    "url": "https://simpleflying.com/major-airline-continues-operate-airbus-a380-longest-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1d220e51eea7",
-    "title": "Southwest 'Not Done' Making Changes As CEO Teases Lounges And First Class",
-    "summary": "The changes keep on coming at SWA.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T04:20:34Z",
-    "url": "https://simpleflying.com/southwest-ceo-premium-lounges-first-class/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "af8043883ba3",
-    "title": "United x American Airlines: Could A Merger Be On The Cards?",
-    "summary": "The proposed merger would face massive regulatory hurdles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T00:01:18Z",
-    "url": "https://simpleflying.com/united-american-merger-reportedly-suggested/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1f9a91eab516",
-    "title": "The US Airlines With The Most Premium Economy Seats Per Aircraft In 2026",
-    "summary": "United Airlines currently takes the lead, but Delta and United continue to offer passengers compelling premium economy products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-14T23:00:18Z",
-    "url": "https://simpleflying.com/the-us-airlines-with-the-most-premium-economy-seats-per-aircraft-in-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a608b588a68f",
-    "title": "What United Airlines' New Polaris Studio Upgrade Will Likely Cost On Long-Haul Routes",
-    "summary": "A closer look at the price for United's best business class seat ever.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-14T22:01:18Z",
-    "url": "https://simpleflying.com/united-airlines-new-polaris-studio-upgrade-cost-long-haul-routes/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
