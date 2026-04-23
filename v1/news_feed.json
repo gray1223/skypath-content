@@ -1,5 +1,115 @@
 [
   {
+    "id": "4029780efc0b",
+    "title": "Why FedEx Actually Won't Let The MD-11 Die Even After Most Airlines Walked Away",
+    "summary": "FedEx is spending $175 million to bring back an aircraft every other operator has abandoned.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T00:00:17Z",
+    "url": "https://simpleflying.com/fedex-md-11-not-retired/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "d877b42dda77",
+    "title": "How Trump's Immigration Crackdown Is Affecting Aviation Worker Shortages",
+    "summary": "Aviation\u2019s labor shortage was already serious. Trump\u2019s crackdown is worsening it.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T23:59:14Z",
+    "url": "https://simpleflying.com/trump-immigration-crackdown-influencing-aviation-worker-shortages/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5040e43f3090",
+    "title": "United Airlines' MileagePlus Is Now A Pay-To-Play Program: Here's What Changed",
+    "summary": "Why you now need a United credit card to get any real value out of MileagePlus.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T22:00:18Z",
+    "url": "https://simpleflying.com/united-airlines-mileageplus-pay-play-program-what-changed/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f3058f347cc8",
+    "title": "Trump administration in advanced talks for $500 million Spirit rescue",
+    "summary": "The Trump administration is in advanced talks to provide Spirit Airlines with up to $500 million in support,&#8230; The post Trump administration in advanced talks for $500 million Spirit rescue appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-22T21:35:30Z",
+    "url": "https://www.aerotime.aero/articles/rump-administration-spirit-airlines-rescue-talks",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7105bfd6e5bf",
+    "title": "Why The US Air Force Still Relies On The Boeing 707 In 2026",
+    "summary": "Still serving seven decades later.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T21:30:18Z",
+    "url": "https://simpleflying.com/why-usaf-still-relies-boeing-707-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8a9c2ce92904",
+    "title": "United Airlines Could Raise Summer Ticket Prices By As Much As 20% To Offset High Fuel Costs",
+    "summary": "United customers will certainly face higher ticket prices.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T21:00:18Z",
+    "url": "https://simpleflying.com/united-airlines-raise-summer-ticket-prices-20-percent-offset-high-fuel-costs/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4eae444870a3",
+    "title": "Frankfurt To The Pentagon: Why The US Air Force Is Snatching Up Lufthansa's Boeing 747s",
+    "summary": "The US Air Force has finalized a $400 million deal to acquire two Boeing 747-8 airliners from Lufthansa.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T21:00:18Z",
+    "url": "https://simpleflying.com/why-usaf-snatching-up-lufthansa-boeing-747s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "81d05247887e",
+    "title": "Delta Air Lines Launches 23 New International Routes: See Where It Now Serves",
+    "summary": "They include 10 long-haul and 13 short-haul links. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-22T20:00:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-launches-23-new-international-routes-see-where-it-now-serves/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "2428d4ac2817",
+    "title": "Air Force Extends A-10 Warthog Through 2030",
+    "summary": "The move comes following the Warthog's increased operational use in recent combat missions.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-22T19:45:00Z",
+    "url": "https://avweb.com/aviation-news/air-force-extends-a-10-warthog-2030/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ac8b2771bf35",
+    "title": "Sporty\u2019s, ForeFlight Roll Out Training Course",
+    "summary": "The training course is designed to help pilots better integrate ForeFlight into real-world flying, from basic setup to advanced features and logbook management.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-22T19:26:00Z",
+    "url": "https://avweb.com/aviation-news/sportys-foreflight-training-course/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "db22fe4d6969",
     "title": "FAA Issues Emergency AD For Embraer Praetor, Legacy Jets",
     "summary": "The AD notes a potential pitch trim actuator issue that could affect flight control.",
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-04-16T07:11:16Z",
     "url": "https://simpleflying.com/american-airlines-pilot-brakes-clt-truck/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2bc0cbe25c97",
-    "title": "Sources: Spirit Airlines Could Shut Down By Week\u2019s End As Bankruptcy Recovery Regresses",
-    "summary": "The troubled budget carrier is on the rocks again.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-16T04:57:19Z",
-    "url": "https://simpleflying.com/spirit-airlines-shut-down-weeks-end-bankruptcy-recovery-regresses/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "073b95bf2334",
-    "title": "Upside Down in a Gamebird: Experiencing Thrust Flight\u2019s Aerobatics",
-    "summary": "Program adds aerobatic training to CFI course.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-04-16T03:50:27Z",
-    "url": "https://avweb.com/multimedia/votw/thrust-flight-aerobatics-gamebird/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a4cfee582686",
-    "title": "UK awards Boeing $1.19 billion helicopter support contract",
-    "summary": "The UK government has awarded Boeing Defence UK a three-year contract worth \u00a3879 million, or about $1.19 billion,&#8230; The post UK awards Boeing $1.19 billion helicopter support contract appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-16T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/uk-awards-boeing-1-19-billion-helicopter-support-contract",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bed1e5648a6f",
-    "title": "ALERT clears House with PAPA on board",
-    "summary": "Legislation that will reduce the risk of midair collision and allow pilots to use portable receivers to monitor ADS-B signals from nearby aircraft passed the House April 14, a 396-10 vote that AOPA and other aviation groups hailed as a significant step forward.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-16T00:25:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/alert-clears-house-with-papa-on-board?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5381a2b4a901",
-    "title": "Season opener",
-    "summary": "The AOPA Sweepstakes Aviat Husky makes its public debut at the Sun &rsquo;n Fun Aerospace Expo this week in Lakeland, Florida. Sun &rsquo;n Fun is the second largest fly-in in the United States and attracts an estimated 200,000 attendees over six days.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-15T23:25:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/15/season-opener?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6a7465d96987",
-    "title": "This Is The Most Expensive Business Class Upgrade You Can Buy On A US Airline In 2026",
-    "summary": "Discover the evolution of airline cabins and the emergence of 'business class plus'. But who leads the way with the most expensive upgrade in the US?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T22:00:18Z",
-    "url": "https://simpleflying.com/most-expensive-business-class-upgrade-buy-us-airline-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1f52a32e179b",
-    "title": "Alaska Airlines Facing $75,000 Lawsuit, Parents Allege Girl Was Burned By Hot Tea Inflight",
-    "summary": "Parents allege that hot tea left their daughter scarred \u2014 and Alaska is not the only airline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T21:37:29Z",
-    "url": "https://simpleflying.com/alaska-airlines-75000-lawsuit-parents-allege-girl-burned-hot-tea-inflight/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bceae629fb0d",
-    "title": "Delta Air Lines Cuts 6 Long-Haul Routes: Inside The Massive Network Cull",
-    "summary": "Between March 2025 and January 2026, all of these long-haul links ended. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-15T20:00:19Z",
-    "url": "https://simpleflying.com/delta-air-lines-cuts-6-long-haul-routes-inside-the-massive-network-cull/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1d7396f85308",
-    "title": "Is It True That US Air Force Pilots With The Highest Ranks Earn Less Than Commercial Pilots?",
-    "summary": "This is certainly a fascinating financial question.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-15T20:00:19Z",
-    "url": "https://simpleflying.com/true-usaf-pilots-highest-ranks-earn-less-commercial-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cae489cf6699",
-    "title": "FAA clears anti-drone lasers for use near commercial flights along US border",
-    "summary": "The US Federal Aviation Administration (FAA) said anti-drone lasers can be used safely in airspace where commercial aircraft are operating, clearing&#8230; The post FAA clears anti-drone lasers for use near commercial flights along US border appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-15T19:43:32Z",
-    "url": "https://www.aerotime.aero/articles/faa-clears-anti-drone-lasers-for-use-near-commercial-flights-along-us-border",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
