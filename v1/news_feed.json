@@ -1,5 +1,16 @@
 [
   {
+    "id": "bf8eb8630899",
+    "title": "Is It True That A $400 GPS Device Could Have Stopped The Collision Of American Airlines Flight 5342?",
+    "summary": "A device providing ADS-B In capabilities could have given the pilots an additional 59 seconds to react to the impending collision at Reagan Airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T05:00:18Z",
+    "url": "https://simpleflying.com/true-400-gps-device-stopped-collision-american-airlines-flight-5342/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "4029780efc0b",
     "title": "Why FedEx Actually Won't Let The MD-11 Die Even After Most Airlines Walked Away",
     "summary": "FedEx is spending $175 million to bring back an aircraft every other operator has abandoned.",
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-04-16T07:53:36Z",
     "url": "https://www.aerotime.aero/articles/kelluu-series-a-nato-innovation-fund",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c6de7271ef0b",
-    "title": "\"We Nearly Hit Them\": American Airlines Pilot Slams Brakes To Avoid CLT Ops Truck",
-    "summary": "The latest near-miss intensifies scrutiny over airport safety.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T07:11:16Z",
-    "url": "https://simpleflying.com/american-airlines-pilot-brakes-clt-truck/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
