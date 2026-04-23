@@ -1,5 +1,115 @@
 [
   {
+    "id": "4fa296a72e38",
+    "title": "Burke Lakefront supporters meet with FAA leadership",
+    "summary": "The Lakefront Airport Preservation Partnership (LAPP) met with FAA Associate Administrator for Airports Daniel J. Edwards on April 21 to express unified opposition to Cleveland Mayor Justin Bibb&rsquo;s proposed closure of Burke Lakefront Airport.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-04-23T20:35:32Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d64c461900a4",
+    "title": "Modified Boeing 777 Will Become NASA\u2019s Largest Flying Science Lab",
+    "summary": "NASA took delivery of the jet at Langley Research Center in Virginia this week.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-23T19:00:00Z",
+    "url": "https://www.flyingmag.com/modified-boeing-777-nasa-flying-science-lab/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2c141731464b",
+    "title": "American cuts profit outlook as fuel price surge adds $4B\u00a0to costs",
+    "summary": "American Airlines cut its full-year profit outlook on April 23, 2026, saying surging fuel prices are expected to&#8230; The post American cuts profit outlook as fuel price surge adds $4B to costs appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-23T18:54:34Z",
+    "url": "https://www.aerotime.aero/articles/american-cuts-profit-outlook-fuel-surge",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3e668e7bfe27",
+    "title": "Chinese Student Charged For Air Force Photographs",
+    "summary": "Federal complaint says images of military aircraft were taken from outside base perimeter; case remains under investigation.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-04-23T18:39:21Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/chinese-student-charged-air-force-photos/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6e44e7a3838c",
+    "title": "Delta TechOps Grows 3rd-Party MRO Business With Landmark Airbus A320 Component Deal",
+    "summary": "Delta TechOps and LATAM Airlines Brasil announce a strategic partnership to expand third-party MRO services, focusing on Airbus A320 components.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T17:56:25Z",
+    "url": "https://simpleflying.com/delta-techops-grows-3rd-party-mro-business-landmark-airbus-a320-component-deal/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f70281dbbdbd",
+    "title": "How The Airbus A380 Made A Comeback For The Ages",
+    "summary": "The return of the A380 is a testament to the airline industry's evolving priorities.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T17:00:17Z",
+    "url": "https://simpleflying.com/how-airbus-a380-comeback-ages/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1b87b8ac0d3b",
+    "title": "The Simple Flying Podcast Episode 288: 2 Close Calls In 48 Hours, AIX Preview & American Airlines New JFK Experience",
+    "summary": "Join Tom & Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T16:56:27Z",
+    "url": "https://simpleflying.com/podcast-288/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "375ba8cca0dc",
+    "title": "Turkish Airlines orders 10 Cessna Skyhawks for flight academy training",
+    "summary": "Turkish Airlines has placed an order for a further 10 Cessna Skyhawk aircraft to train future fleet pilots&#8230; The post Turkish Airlines orders 10 Cessna Skyhawks for flight academy training appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-23T15:04:28Z",
+    "url": "https://www.aerotime.aero/articles/turkish-airlinesflight-academy-cessna-skyhawk-textron-aviation",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d1888badddc7",
+    "title": "FAA Administrator Weighs In on ADS-B Fee Dispute",
+    "summary": "Bedford says airports can charge for services, but the agency is concerned when safety equipment is tied to billing.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-23T14:11:58Z",
+    "url": "https://avweb.com/avionics/adsb/faa-administrator-weighs-in-ads-b-dispute/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "52a0171b12e4",
+    "title": "What United Airlines' New Basic Polaris Fare Will Likely Include On Transatlantic Flights",
+    "summary": "Unbundling is becoming increasingly common in the premium market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T14:01:17Z",
+    "url": "https://simpleflying.com/what-united-airlines-basic-polaris-will-include/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "fb71a5efc8c3",
     "title": "Airbus Just Built The Largest Cargo Door In Aviation History For Its New A350F",
     "summary": "This marks a major milestone, as Airbus is soon set to begin flight testing the A350F later this year!",
@@ -160,7 +270,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -314,7 +424,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-22T18:02:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -567,7 +677,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2008,7 +2118,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-04-16T19:51:28Z",
     "url": "https://avweb.com/aviation-news/ntsb-investigative-hearing-on-deadly-ups-md-11-cargo-crash/",
     "airlineTag": "UPS Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b18dc317cb1c",
-    "title": "FAA Launches Faster Drone Enforcement Program",
-    "summary": "DETER program will speed up enforcement against unsafe and unauthorized drone operations.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-16T19:15:48Z",
-    "url": "https://avweb.com/aviation-news/faa-launches-faster-drone-enforcement-program/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e143eace654",
-    "title": "Diamond Aircraft Delivers First Trainers to Peregrine Howard Aviation",
-    "summary": "Delivery marks the start of a partnership designed to provide high-quality training aircraft to flight schools nationwide.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-04-16T18:56:53Z",
-    "url": "https://avweb.com/aviation-news/company-news/diamond-aircraft-delivers-first-trainers-to-peregrine-howard-aviation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a3225352d1d0",
-    "title": "El Al to buy up to 12 more Boeing 787s in $1.5 billion deal",
-    "summary": "El Al Israel Airlines is set to buy up to 12 more Boeing 787 Dreamliners in a deal&#8230; The post El Al to buy up to 12 more Boeing 787s in $1.5 billion deal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-16T18:54:08Z",
-    "url": "https://www.aerotime.aero/articles/el-al-buy-up-to-12-more-boeing-787s",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fe3156287c34",
-    "title": "JetBlue\u2019s Debt Could Reach $9 Billion This Year & United Isn\u2019t Interested In It, Founder Says",
-    "summary": "JetBlue's founder warns of mounting financial strain as the airline's debt could climb towards $9 billion, raising questions about its stability.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T18:02:07Z",
-    "url": "https://simpleflying.com/jetblue-debt-9-billion-this-year-united-isnt-interested-founder/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6525d0987e7f",
-    "title": "Policy Change? What\u2019s The Latest With American Airlines & Carry-On Bags?",
-    "summary": "A closer look a the recent changes to the carrier's boarding process.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T17:30:26Z",
-    "url": "https://simpleflying.com/policy-change-american-airlines-carry-on-bags-latest/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4dc890fd11a0",
-    "title": "FAA Flags Potential Seatbelt Failures In GA Aircraft",
-    "summary": "Agency warns GA pilots to inspect seatbelts and harnesses after multiple NTSB restraint failure cases and outdated TSO concerns.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-04-16T17:12:24Z",
-    "url": "https://avweb.com/aviation-news/faa-bulletin-flags-potential-seatbelt-and-harness-failures/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3e2221fa86ea",
-    "title": "5 Reasons The United States Navy Continues To Operate The F/A-18 Super Hornet",
-    "summary": "The case for the Rhino in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T17:00:18Z",
-    "url": "https://simpleflying.com/5-reasons-us-navy-operate-fa-18-super-hornet/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1cb72c5a7625",
-    "title": "Flight Test Milestone Puts U.K. Electric Air Taxi Leader in Rarefied Air",
-    "summary": "Piloted transition from hover to wingborne flight and back marks a critical step forward.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-16T17:00:00Z",
-    "url": "https://www.flyingmag.com/uk-electric-air-taxi-transition-flight-test/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e510b83a954",
-    "title": "Spirit Airlines Faces Liquidation Risk",
-    "summary": "Rising fuel costs threaten the carrier's bankruptcy exit, with liquidation now a possibility.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-04-16T16:10:33Z",
-    "url": "https://avweb.com/aviation-news/spirit-airlines-faces-potential-liquidation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eb0de169fc92",
-    "title": "Europe turns to US as it scrambles to avert summer jet fuel crisis",
-    "summary": "European airlines and officials are turning to the US for replacement jet fuel as the region seeks to&#8230; The post Europe turns to US as it scrambles to avert summer jet fuel crisis appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-16T16:09:48Z",
-    "url": "https://www.aerotime.aero/articles/europe-turns-to-us-jet-fuel-crisis",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
