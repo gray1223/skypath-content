@@ -1,12 +1,100 @@
 [
   {
+    "id": "4b927b81b185",
+    "title": "American Airlines Redefines New York-JFK With A Brand New Terminal 8 Experience",
+    "summary": "The airline is bringing a taste of the city to the terminal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-24T00:00:18Z",
+    "url": "https://simpleflying.com/american-airlines-redefines-new-york-jfk-experience-new-t8/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ec666597caf",
+    "title": "Air Force One Can Refuel In Mid-Air, But Here's Why It Rarely Does",
+    "summary": "This unique feature is reserved for only the most demanding missions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T23:00:17Z",
+    "url": "https://simpleflying.com/af-1-refuel-mid-air-why-rarely-does/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8588d1396594",
+    "title": "The Top 5 Most Fuel-Efficient Widebody Aircraft In Commercial Service In 2026",
+    "summary": "The metric is highly dependent on factors such as seating density, route length, and payload.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T22:01:19Z",
+    "url": "https://simpleflying.com/top-5-fuel-efficient-widebody-aircraft-commerical-service-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2c9792c38eec",
+    "title": "JetBlue's New York Slots, Mint Fleet, & Airbus A321XLR Orders: What Makes It An Acquisition Target?",
+    "summary": "The carrier's name has been floated quite a lot in merger rumors.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T21:01:18Z",
+    "url": "https://simpleflying.com/jetblue-new-york-slots-mint-fleet-airbus-a321xlr-orders-acquisition-target/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "41932c09a14e",
+    "title": "United Invests in Cutting-Edge Personal Aircraft Avionics",
+    "summary": "Airhart is developing advanced avionics systems designed to make flying as simple as driving a car.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-23T21:00:00Z",
+    "url": "https://www.flyingmag.com/united-invests-airhart-aircraft-avionics/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "4fa296a72e38",
     "title": "Burke Lakefront supporters meet with FAA leadership",
     "summary": "The Lakefront Airport Preservation Partnership (LAPP) met with FAA Associate Administrator for Airports Daniel J. Edwards on April 21 to express unified opposition to Cleveland Mayor Justin Bibb&rsquo;s proposed closure of Burke Lakefront Airport.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T20:35:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d22f03808d2b",
+    "title": "Ranked: Delta Air Lines' Top 15 Long-Haul Routes [Summer 2026 Flights]",
+    "summary": "Delta is set to break its own record for the most long-haul departures from the US in the peak summer...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T20:00:29Z",
+    "url": "https://simpleflying.com/ranked-delta-air-lines-top-15-long-haul-routes-summer-2026-flights/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "de6f57cd4bf9",
+    "title": "The World's Largest Air Forces By Number Of Fighter Jets",
+    "summary": "This guide ranks the world's largest fighter forces in 2026",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T20:00:29Z",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-number-fighter-jets-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "feea53e6d05f",
+    "title": "Hawaiian Airlines Officially Joins oneworld As Alliance\u2019s 3rd US-Based Member",
+    "summary": "The carrier says travelers can look forward to smoother transitions onto a larger network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-23T19:58:22Z",
+    "url": "https://simpleflying.com/hawaiian-airlines-joins-oneworld-alliance-3rd-us-based-member/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -270,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -424,7 +512,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-22T18:02:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-04-17T05:00:17Z",
     "url": "https://simpleflying.com/qatar-airways-launch-new-economy-experience-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f8079323761f",
-    "title": "New notam system goes live (behind the scenes) April 18",
-    "summary": "The 2023 meltdown of the FAA notam system that halted air traffic and spurred a modernization push has led to a largely invisible yet massive upgrade, with an April 18 changeover planned to a new back-end system that the FAA began testing in September. More noticeable notam ch...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-17T00:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/16/new-notam-system-goes-live-april-18?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7ed90ac8308d",
-    "title": "How Delta Air Lines' Comfort Basic Fares Differ From United's New Base Polaris Fares",
-    "summary": "Delta Comfort Basic and United's Base Polaris represent a new era of aviation financial strategy, where the all-inclusive premium cabin is fading away",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T22:00:18Z",
-    "url": "https://simpleflying.com/how-delta-air-lines-comfort-basic-fares-differ-united-base-polaris-fares/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bd293903452c",
-    "title": "Here\u2019s How Much A Boeing 787 Costs Compared To An Airbus A330neo",
-    "summary": "The two types are among the most sought-after airliners on the market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T21:30:18Z",
-    "url": "https://simpleflying.com/boeing-787-dreamliner-cost-compared-airbus-a330neo/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4fbf916670a7",
-    "title": "Tecnam Opens Early Delivery Slots For MOSAIC-Era Aircraft",
-    "summary": "Tecnam opens deposits for MOSAIK59 aircraft, letting buyers secure early delivery slots ahead of FAA MOSAIC rollout.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-16T21:20:56Z",
-    "url": "https://avweb.com/aviation-news/tecnam-mosaik59-deposit-program/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "632a3d447e40",
-    "title": "Output Boost: Boeing Hiring Over 100 Workers Per Week, Less Than 2 Years After Mass Layoffs",
-    "summary": "Boeing's hiring spree continues, adding up to 140 workers a week as production rates soar and demand for skilled mechanics grows.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-04-16T21:00:52Z",
-    "url": "https://simpleflying.com/boeing-hiring-over-100-workers-week-less-than-2-years-mass-layoffs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7d5cac09b614",
-    "title": "Only 23% Full: Spirit Airlines' 10 Emptiest Routes Revealed",
-    "summary": "How many of them can you guess? They had astonishingly poor results.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T20:00:17Z",
-    "url": "https://simpleflying.com/only-23-full-spirit-airlines-10-emptiest-routes-revealed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4802f6bc3559",
-    "title": "The Airline That Introduced Private Suite Doors To Business Class",
-    "summary": "Private suite doors are widely considered to be a sought-after feature on a business class seat. This airline was the one to pioneer the concept",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-16T20:00:17Z",
-    "url": "https://simpleflying.com/airline-introduced-private-suite-doors-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7d5145cbc011",
-    "title": "NTSB Schedules Investigative Hearing On Deadly UPS MD-11 Cargo Crash",
-    "summary": "Session will take place over two days in May.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-04-16T19:51:28Z",
-    "url": "https://avweb.com/aviation-news/ntsb-investigative-hearing-on-deadly-ups-md-11-cargo-crash/",
-    "airlineTag": "UPS Airlines",
     "isBreaking": false
   }
 ]
