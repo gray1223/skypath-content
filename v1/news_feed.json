@@ -1,5 +1,71 @@
 [
   {
+    "id": "50326007a226",
+    "title": "Piaggio books first order for newly launched Avanti NX pusher turboprop",
+    "summary": "Piaggio Aerospace has secured the first customer order for the P.180 Avanti NX, marking the initial sale of&#8230; The post Piaggio books first order for newly launched Avanti NX pusher turboprop appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-25T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/piaggio-books-first-avanti-nx-order-aero-launch",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "194787fbef03",
+    "title": "How The Fairchild Republic A-10 Warthog's Unique Design Ensures Pilot Survivability",
+    "summary": "The aircraft has numerous features that are purpose built for pilot safety and durability in contested airspace.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T00:00:17Z",
+    "url": "https://simpleflying.com/fairchild-republic-a-10-warthog-unique-design-pilot-surviability/",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "080c78062814",
+    "title": "Australia-Middle East Routes: Massive 23 Daily Nonstop Flights In 2026 [List]",
+    "summary": "Emirates leads the pack as the airline with the highest frequency of services to and from Australia, flying a total of ten daily services from Dubai.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-24T22:33:12Z",
+    "url": "https://simpleflying.com/australia-middle-east-routes-23-daily-flights-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5af0300d4f40",
+    "title": "Trump-Owned? President Considers Buying Spirit Airlines If \u2018The Price Is Right\u2019",
+    "summary": "Could the future of Spirit Airlines lie in the hands of President Trump?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-24T21:41:38Z",
+    "url": "https://simpleflying.com/president-considers-buying-spirit-airlines-price-right/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "635177b7b2cb",
+    "title": "Tough Luck: United Airlines Grounds New Premium Boeing 787-9 After 1st Long-Haul Flight",
+    "summary": "The aircraft is equipped with the carrier's new elevated interior.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-24T21:10:12Z",
+    "url": "https://simpleflying.com/united-airlines-grounds-new-premium-boeing-787-9-1st-long-haul-flight/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6fa9746c5f2f",
+    "title": "FAA grounds Blue Origin\u2019s New Glenn rocket after satellite mishap",
+    "summary": "The Federal Aviation Administration (FAA) has grounded Blue Origin\u2019s New Glenn rocket after an upper-stage problem placed an&#8230; The post FAA grounds Blue Origin\u2019s New Glenn rocket after satellite mishap appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-24T19:41:07Z",
+    "url": "https://www.aerotime.aero/articles/faa-grounds-blue-origins-new-glenn-rocket-after-satellite-mishap",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8107a3178226",
     "title": "Video: The Neuroscience of Flight Anxiety",
     "summary": "In the cockpit, what feels routine to a pilot can feel anything but to our passengers.",
@@ -2130,72 +2196,6 @@
     "category": "pay",
     "publishedDate": "2026-04-17T21:30:18Z",
     "url": "https://simpleflying.com/typical-salary-private-jet-pilot-guide/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0e49ad39e04d",
-    "title": "Pilot Challenges Palm Beach Airport Renaming In Florida Lawsuit",
-    "summary": "The lawsuit argues the move could create confusion and unnecessary costs.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-17T21:07:37Z",
-    "url": "https://avweb.com/aviation-news/palm-beach-airport-renaming-lawsuit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d03073e392dd",
-    "title": "UPS Aircraft Involved In Close Call at Louisville",
-    "summary": "Pilots cite communications issues as reason for early go-around.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-17T19:35:21Z",
-    "url": "https://avweb.com/news/ups-aircraft-involved-in-close-call-at-louisville/",
-    "airlineTag": "UPS Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1a1f009ff4b3",
-    "title": "Pilatus Secures Certification For PC-12 PRO Simulator",
-    "summary": "Approval allows the system to be used for pilot training.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-17T19:10:00Z",
-    "url": "https://avweb.com/aviation-news/pilatus-pc-12-pro-simulator-certification/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac2518778050",
-    "title": "FAA caps O\u2019Hare flights as United, American jostle for expanded summer access",
-    "summary": "The Federal Aviation Administration (FAA) has capped daily operations at Chicago O\u2019Hare Airport (ORD) at 2,708 flights from&#8230; The post FAA caps O\u2019Hare flights as United, American jostle for expanded summer access appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-17T19:00:30Z",
-    "url": "https://www.aerotime.aero/articles/faa-caps-ohare-flights-united-american-summer-schedules",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "11990838abb1",
-    "title": "Boeing ramps up hiring for new 737 MAX line in Everett",
-    "summary": "Boeing is hiring factory workers in the Pacific Northwest as it adds staff for a fourth 737 MAX&#8230; The post Boeing ramps up hiring for new 737 MAX line in Everett appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "hiring",
-    "publishedDate": "2026-04-17T17:49:17Z",
-    "url": "https://www.aerotime.aero/articles/boeing-fourth-737-max-line-hiring",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c954f93f23c",
-    "title": "ScaleWings Brings SW-51 Mustang Back to SUN \u2019n FUN",
-    "summary": "Company says its two-seat Mustang program has grown from a small-show debut to a 40-aircraft delivery milestone.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-17T17:43:57Z",
-    "url": "https://avweb.com/air-shows-events/sun-n-fun/scalewings-sw-51-musting-back-to-sun-n-fun/",
     "airlineTag": null,
     "isBreaking": false
   }
