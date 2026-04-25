@@ -1,5 +1,60 @@
 [
   {
+    "id": "063026fbac25",
+    "title": "The Fuel Math That Killed Lufthansa CityLine's Bombardier CRJ900 Fleet Overnight",
+    "summary": "Lufthansa accelerated the shutdown of CityLine, absorbing short-term disruption for long-term cost savings amid a fuel price crisis.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-25T18:50:11Z",
+    "url": "https://simpleflying.com/fuel-math-killed-lufthansa-cityline-bombardier-crj900-fleet-overnight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8bb253198fff",
+    "title": "6 Years In The Desert: American Airlines' A330s Resurrected By Vietnam's Newest Airline",
+    "summary": "The widebodies have spent half their life in long-term storage.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T18:28:39Z",
+    "url": "https://simpleflying.com/american-airlines-airbus-a330-sun-phuquoc-vietnam/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a7735d6774a2",
+    "title": "6 Airlines With The World's Most Impressive First Class Dining Experiences In 2026",
+    "summary": "These carriers offer unusually lavish accommodations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T18:00:18Z",
+    "url": "https://simpleflying.com/6-airlines-worlds-most-impressive-first-class-dining-experiences-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "79d0f9a3618f",
+    "title": "Why The Airbus A220 Is Becoming More Attractive To US Airlines",
+    "summary": "The aircraft efficiently caters to a unique segment of the market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T18:00:18Z",
+    "url": "https://simpleflying.com/airbus-a220-more-attractive-us-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5db2d766ad43",
+    "title": "Why A US Air Force C-130 Hercules Was Parked At A Civilian Airport In Ireland",
+    "summary": "How a USAF airlifter came to be in the wrong place at the wrong time.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T16:00:19Z",
+    "url": "https://simpleflying.com/us-air-force-c-130-hercules-ireland-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "7a9deef48fb7",
     "title": "U.S. Food Delivery Drones Now Carry More Than 8 Pounds",
     "summary": "Flytrex\u2019s Sky2 has a payload of up to 8.8 pounds, enough to carry two large pizzas.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-04-18T15:31:18Z",
     "url": "https://simpleflying.com/united-airlines-longest-boeing-767-flights-2026/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cf46a87799c1",
-    "title": "What Are The Benefits Of Flying Singapore Airlines Business Class?",
-    "summary": "A closer look at one of the most polished premium products in the world of global aviation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T13:32:03Z",
-    "url": "https://simpleflying.com/benefits-of-flying-singapore-airlines-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bc968ffc215",
-    "title": "Duffy: ATC Hiring Push Attracts 6,000 Applicants",
-    "summary": "Program \u2018has been wildly successful\u2019 in recruiting air traffic control trainees, transportation secretary says.",
-    "source": "Flying Magazine",
-    "category": "hiring",
-    "publishedDate": "2026-04-18T12:00:00Z",
-    "url": "https://www.flyingmag.com/duffy-atc-hiring-push-6000-applicants/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "507518a7a2a5",
-    "title": "Never Made: The Airbus A380-900 That Airlines Never Ordered",
-    "summary": "Why the A380 program failed before Airbus could move onto the primary variant, the stretched A380-900.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T11:00:18Z",
-    "url": "https://simpleflying.com/airbus-a380-900-airlines-never-ordered/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d298fd500353",
-    "title": "Blunt Consequences: Air India Pilot Deported From San Francisco Following Marijuana Discovery",
-    "summary": "A co-pilot's unexpected choice lands him in hot water at San Francisco International Airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T04:44:08Z",
-    "url": "https://simpleflying.com/air-india-pilot-deported-sfo-marijuana/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "963ac16f385f",
-    "title": "The Real Reason Why Aircraft Recyclers Dread The Retirement Of The Airbus A350 & Boeing 787",
-    "summary": "The challenges with recycling composite airliners.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T03:02:46Z",
-    "url": "https://simpleflying.com/real-reason-aircraft-recyclers-dread-retirement-airbus-a350-boeing-787/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
