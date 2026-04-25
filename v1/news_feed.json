@@ -1,5 +1,49 @@
 [
   {
+    "id": "7a9deef48fb7",
+    "title": "U.S. Food Delivery Drones Now Carry More Than 8 Pounds",
+    "summary": "Flytrex\u2019s Sky2 has a payload of up to 8.8 pounds, enough to carry two large pizzas.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-25T12:00:00Z",
+    "url": "https://www.flyingmag.com/food-delivery-drones-more-than-8-pounds-pizza/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ba38b32376a9",
+    "title": "Tense Flights: Air Force One During America's Biggest Crises",
+    "summary": "When Air Force One was needed most.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T11:01:17Z",
+    "url": "https://simpleflying.com/air-force-one-america-biggesst-crises/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4168bfcb5517",
+    "title": "The Secret Visual Language Between Fighter Jets & Civilian Pilots That Decides How Nn Intercept Ends",
+    "summary": "Fighter jet intercepts follow a precise global \u201csilent language\u201d\u2014here\u2019s how wing rocks, flares, and breakaways decide every outcome.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T08:00:17Z",
+    "url": "https://simpleflying.com/fighter-jet-civilian-aircraft-intercept-signals/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "07bba01959f6",
+    "title": "Ryanair Abandons Berlin Base Following \"Unjustified\" Fee Hikes",
+    "summary": "The airline plans to close its base in October, as the airport will increase its charges and fees by 10% in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-25T07:16:16Z",
+    "url": "https://simpleflying.com/ryanair-berlin-base-closure-fee/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "912831507266",
     "title": "The World's Largest Air Forces By Number Of Bombers",
     "summary": "The world's biggest fleet of 'big wing' warbirds.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-04-18T03:02:46Z",
     "url": "https://simpleflying.com/real-reason-aircraft-recyclers-dread-retirement-airbus-a350-boeing-787/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e8819dcc8022",
-    "title": "The Simple Flying Podcast Episode 287: Pilots' ATC Animal Sounds, Lufthansa Strikes & Southwest Airlines' New Airport Lounges",
-    "summary": "Join Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T00:06:55Z",
-    "url": "https://simpleflying.com/podcast-287/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9118127f2495",
-    "title": "American Airlines Dismisses United\u2019s Merger Pitch, Citing Competition Negativity",
-    "summary": "The carrier is instead focused on positioning itself to \"win for the long term.\"",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-17T23:02:49Z",
-    "url": "https://simpleflying.com/american-airlines-dismiss-uniteds-merger-pitch-negativity-competition/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1e07f977d190",
-    "title": "Just 244 Seats: American Airlines' 5 Ultra-Premium Boeing 787 Routes In 2026",
-    "summary": "Where American Airlines is flying its premium heavy Boeing 787-9 aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-17T22:01:12Z",
-    "url": "https://simpleflying.com/just-244-seats-americans-5-boeing-787-routes-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ca8633f0f673",
-    "title": "This Is The United States' Busiest Domestic Airport",
-    "summary": "This airport saw more US domestic passengers than any other in 2025.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-17T22:00:17Z",
-    "url": "https://simpleflying.com/us-busiest-domestic-airport/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
