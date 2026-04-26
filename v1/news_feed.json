@@ -1,5 +1,38 @@
 [
   {
+    "id": "b5d070b48923",
+    "title": "Why Replacing Air Force One Has Become A Billion-Dollar Headache",
+    "summary": "The debacle of replacing America's most iconic 747.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T07:00:17Z",
+    "url": "https://simpleflying.com/air-force-one-billion-dollar-headache/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59e348268cb9",
+    "title": "Spotted: Boeing\u2019s 1st 777-8 Freighter Rolls Out In Everett",
+    "summary": "The first Boeing 777-8F has completed its rollout, marking a significant milestone in the production of the next-generation cargo air transport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T04:58:18Z",
+    "url": "https://simpleflying.com/news-3/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3569d446f5fe",
+    "title": "5 Airlines' Business Class Seats With The World's Longest Flat Beds In 2026",
+    "summary": "You'll never have issues sleeping on these carriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T04:00:21Z",
+    "url": "https://simpleflying.com/5-airlines-business-class-worlds-longest-flat-beds-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cff10f707968",
     "title": "Why Does The US Air Force Still Rely On The A-10 Warthog?",
     "summary": "Discover why despite years of retirement pressure, the A-10 Warthog remains in service.",
@@ -501,7 +534,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T20:35:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -798,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -952,7 +985,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-22T18:02:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1205,7 +1238,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-04-18T21:46:48Z",
     "url": "https://simpleflying.com/united-airlines-boots-passenger-hearing-impaired-wife-conflict/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b15b4df3f0d1",
-    "title": "Bomb Threat Forces New York-Bound United Airlines Flight To Divert To Pittsburgh",
-    "summary": "A United Airlines flight from Chicago to New York was abruptly diverted to Pittsburgh after a mid-air security concern raised fears of a bomb.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-18T21:05:55Z",
-    "url": "https://simpleflying.com/bomb-threat-new-york-bound-united-airlines-flight-divert-pittsburgh/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f5d3b9b5ab02",
-    "title": "Spirit Airlines Seeking Emergency Government Bailout To Avoid Liquidation",
-    "summary": "The airline needs a serious cash infusion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T21:00:17Z",
-    "url": "https://simpleflying.com/spirit-airlines-seeking-emergency-government-bailout-avoid-liquidation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "af218c3301fe",
-    "title": "A Look At The Salaries Of US Navy Pilots In 2026",
-    "summary": "Several different ranks, aircraft, and the officers' responsibilities play a part in overall pay.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-18T21:00:17Z",
-    "url": "https://simpleflying.com/salaries-us-navy-pilots-2026/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
