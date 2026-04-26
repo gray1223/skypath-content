@@ -1,5 +1,71 @@
 [
   {
+    "id": "2a56ff460f51",
+    "title": "Southwest Baggage Rumor",
+    "summary": "Southwest Airlines was reportedly considering stripping basic economy passengers of their overhead bin access \u2013 a move that would require millions of its customers to purchase baggage access they enjoy for free under the current policy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T12:27:17Z",
+    "url": "https://simpleflying.com/video/southwest-baggage-rumor/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e607de76d35f",
+    "title": "Refueling Armada: 9 USAF Tankers Fly Through Gibraltar Gap Toward Middle East",
+    "summary": "The United States Air Force deploys nine KC-46A aerial refueling tankers to the Middle East to reinforce the assets already in the region.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T12:02:39Z",
+    "url": "https://simpleflying.com/nine-usaf-tankers-gibralter-gap-middle-east/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "771501378ad0",
+    "title": "This Airline Has The World's Most Affordable Business Class Bed In 2026",
+    "summary": "For those willing to forgo the usual bells and whistles of business class, a flat bed can be very affordable with ZIPAIR.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T10:00:17Z",
+    "url": "https://simpleflying.com/airline-worlds-most-affordable-business-class-bed-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc36154ca51f",
+    "title": "Nepal requests heavy-lift aircraft instead of US helicopters under $100M grant",
+    "summary": "Nepal is seeking heavy-lift helicopters from the United States instead of six Bell 412 helicopters offered under a&#8230; The post Nepal requests heavy-lift aircraft instead of US helicopters under $100M grant appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-26T09:20:21Z",
+    "url": "https://www.aerotime.aero/articles/nepal-requests-heavy-lift-aircraft-instead-of-us-helicopters-under-100m-grant",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e9db0a584852",
+    "title": "US Navy\u2019s first production Boeing\u00a0MQ-25 Stingray completes maiden flight",
+    "summary": "The US Navy&#8217;s first production-representative Boeing MQ-25 Stingray completed its maiden flight on April 25, 2026, taking off&#8230; The post US Navy\u2019s first production Boeing MQ-25 Stingray completes maiden flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-26T08:43:21Z",
+    "url": "https://www.aerotime.aero/articles/us-navys-first-production-boeing-mq-25-stingray-completes-maiden-flight",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5b9571c10886",
+    "title": "Wizz Air And airBaltic Might Not Survive The Winter, Says Ryanair CEO",
+    "summary": "The continued unrest in the Middle East has seen the price of fuel rocket up, and airline share prices drop.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T08:25:05Z",
+    "url": "https://simpleflying.com/ryanair-ceo-wizz-air-airbaltic-bankruptcy-warning/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "b5d070b48923",
     "title": "Why Replacing Air Force One Has Become A Billion-Dollar Headache",
     "summary": "The debacle of replacing America's most iconic 747.",
@@ -17,7 +83,7 @@
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-04-26T04:58:18Z",
-    "url": "https://simpleflying.com/news-3/",
+    "url": "https://simpleflying.com/boeing-1st-777-8-rolls-out-everett/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -534,7 +600,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T20:35:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -985,7 +1051,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-22T18:02:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1238,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-04-19T05:35:09Z",
     "url": "https://simpleflying.com/beond-airlines-suspends-flights-october-fuel-shortage/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "597f7b8b0642",
-    "title": "Watch: Unfazed Delta Agent Ignores Passenger Hitting Herself In Bizarre Meltdown",
-    "summary": "The clip sparks debate over how airline employees should handle passengers in a potential crisis.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T05:05:11Z",
-    "url": "https://simpleflying.com/delta-agent-ignores-passenger-hitting-herself/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "faef087d6834",
-    "title": "Inside Delta Air Lines' New Airbus A350-1000 Suites & Its $1 Billion Retrofit Plan",
-    "summary": "The legacy carrier is expecting to take delivery of the aircraft type early next year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T04:00:22Z",
-    "url": "https://simpleflying.com/inside-delta-air-lines-new-airbus-a350-1000-suites-1-billion-retrofit-plan/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "922b676f9332",
-    "title": "Retirement Flyovers Are An Aviation Tradition: This Pilot's Farewell Got Him Reported To Police",
-    "summary": "Why this captain's decisions on his final flight were extremely problematic.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T01:00:17Z",
-    "url": "https://simpleflying.com/pilot-retirement-flyover-reported-police/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2244ca5708e7",
-    "title": "How Much Does It Cost To Charter A Private Boeing Business Jet In 2026?",
-    "summary": "The biggest and greatest of the private jet world, the Boeing Business Jets command some of the highest charter prices. What is the true cost today?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T23:00:17Z",
-    "url": "https://simpleflying.com/cost-charter-private-boeing-business-jet-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2b321762039e",
-    "title": "After 10 Years, Premium Economy Has Completely Changed Airline Cabins",
-    "summary": "Premium economy has gone from a niche idea to one of the most important forces reshaping modern airline cabins.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T22:01:04Z",
-    "url": "https://simpleflying.com/premium-economy-completely-changed-airline-cabins/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "472ca817965f",
-    "title": "\u201cShe Was Rude To Her\u201d: United Airlines Boots Passenger & Hearing-Impaired Wife After Conflict",
-    "summary": "The situation takes a turn for the worse when the off-duty crew member accuses the passenger of ignoring them, sparking a confrontation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-18T21:46:48Z",
-    "url": "https://simpleflying.com/united-airlines-boots-passenger-hearing-impaired-wife-conflict/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
