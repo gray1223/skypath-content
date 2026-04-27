@@ -1,5 +1,71 @@
 [
   {
+    "id": "2d18d1d9762b",
+    "title": "Major: American & United Airlines Cut 2,700 May Flights From The World's Busiest Airport",
+    "summary": "These developments are part of a wider initiative that aims to address overscheduling.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T01:00:18Z",
+    "url": "https://simpleflying.com/american-united-airlines-chicago-cuts/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ddf7c9ebe81b",
+    "title": "The 5 Largest US Military Airfields By Runway Length",
+    "summary": "From Edwards to Vandenberg, these are the 5 longest US military runways\u2014and the operational demands that make extreme length essential.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T00:00:18Z",
+    "url": "https://simpleflying.com/5-largest-us-military-airfields-runway-length/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "16d6114e4c29",
+    "title": "\u201cReady To Go\u201d: FedEx Chief Says McDonnell Douglas MD-11s Are Set To Return To Service In May",
+    "summary": "FedEx restarts MD-11 flights in May after global grounding, boosting cargo capacity as demand rises and safety reviews clear the iconic tri-jet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T22:10:49Z",
+    "url": "https://simpleflying.com/fedex-chief-mcdonnell-douglas-md-11s-return-service-may/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "95c1b10ff5d0",
+    "title": "In 2 Days: Alaska Airlines Launches 1st-Ever Flights To Europe",
+    "summary": "History is about to be made.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T22:00:18Z",
+    "url": "https://simpleflying.com/alaska-airlines-europe-launch/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fe2a6943f674",
+    "title": "Smart Catering: Airbus' New AI Initiative To Help Airlines Reduce Cabin Food Waste",
+    "summary": "It aims to close a financial and environmental gap in the airline industry by bringing data analysis to food and beverage services",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T22:00:18Z",
+    "url": "https://simpleflying.com/airbus-new-ai-initiative-airlines-reduce-cabin-food-waste/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c9372ab6d933",
+    "title": "A Devaluation? JetBlue\u2019s New Boarding Process Sparks Frequent-Flier Criticism",
+    "summary": "Concerned passengers are raising some serious questions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-26T20:30:17Z",
+    "url": "https://simpleflying.com/jetblue-new-boarding-process-frequent-flier-criticism/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "b65901aa1d46",
     "title": "Legend: Delta Air Lines\u2019 Longest-Tenured Female Pilot Retires After 40+ Years",
     "summary": "Delta\u2019s longest-serving female pilot, Captain Karen Ruth, retires after 40+ years, leaving a legacy of leadership, resilience, and aviation excellence",
@@ -644,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T20:35:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -941,7 +1007,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-22T18:02:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1348,7 +1414,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-19T13:10:46Z",
     "url": "https://simpleflying.com/british-airways-st-louis-london-heathrow-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c75bc29fd70b",
-    "title": "Up To 9-Hour Nonstop Flights: Inside JetBlue's 13 European Routes [Map]",
-    "summary": "How many have you flown on?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T13:00:18Z",
-    "url": "https://simpleflying.com/jetblue-european-routes-2026/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "ed4d1b48a9f7",
-    "title": "The 5 Airlines With The Largest Boeing 737 Fleets In Early 2026",
-    "summary": "For decades, the Boeing 737 has been one of the defining aircraft in short and even medium-haul markets. However, its operational importance is best understood by the airlines that have built entire network strategies around the type. From Southwest Airlines' to Ryanair and it...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T12:27:18Z",
-    "url": "https://simpleflying.com/video/the-5-airlines-with-the-largest-boeing-737-fleets-in-early-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "044f6300bc1f",
-    "title": "Luxury airline Beond\u00a0axes flight schedule until October",
-    "summary": "The luxury, all-business airline Beond will \u201cpause\u201d its flight schedule over the summer between European cities and its&#8230; The post Luxury airline Beond axes flight schedule until October appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-19T11:55:01Z",
-    "url": "https://www.aerotime.aero/articles/luxury-airline-beond-axes-flight-schedule-until-october",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba1cef730429",
-    "title": "American Airlines puts talk of merger with United Airlines firmly to bed",
-    "summary": "American Airlines has put speculation around a possible merger with rival carrier United Airlines firmly to bed after&#8230; The post American Airlines puts talk of merger with United Airlines firmly to bed appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-19T10:52:14Z",
-    "url": "https://www.aerotime.aero/articles/american-airlines-puts-talk-of-merger-with-united-airlines-firmly-to-bed",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "aa1680ca9c1e",
-    "title": "Here's Why Australia's New 24/7 Airport Is Reshaping Airline Schedules Before It Even Opens",
-    "summary": "The airport will encourage more dynamic flight operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T10:00:17Z",
-    "url": "https://simpleflying.com/why-australia-new-24-7-airport-reshaping-airline-schedules-before-open/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e1ec8bc1f15f",
-    "title": "6 Airlines With The World's Most Superior Business Class Dining In 2026",
-    "summary": "These airlines all offer restaurant-level dining at 30,000 feet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T10:00:17Z",
-    "url": "https://simpleflying.com/best-airlines-business-class-dining-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
