@@ -1,5 +1,71 @@
 [
   {
+    "id": "1fc0d43bafb7",
+    "title": "Insanely Spacious: Inside The Boeing 777 Freighter's Crew Rest Area",
+    "summary": "Uncover the secrets behind the 777 Freighter's forward cabin, a world away from standard airliners, where pilot fatigue is managed with care.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T19:00:18Z",
+    "url": "https://simpleflying.com/inside-boeing-777-freighter-crew-rest-area/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4177aa0d88d4",
+    "title": "The 6 Largest US Navy Air Stations By Number Of Based Aircraft",
+    "summary": "Where the Navy's warbirds go to roost.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T18:01:17Z",
+    "url": "https://simpleflying.com/6-largest-us-navy-air-stations-number-based-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4e81e4c871e2",
+    "title": "North Dakota State Representative, Pilot Killed in Small Airplane Crash",
+    "summary": "Beechcraft Bonanza F33A went down shortly after takeoff from Crystal Airport in Minneapolis.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-27T17:30:51Z",
+    "url": "https://www.flyingmag.com/north-dakota-state-representative-pilot-killed-in-small-airplane-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8261a47374d0",
+    "title": "This Might Be Delta Air Lines' Greatest Asset From Merging With Northwest Airlines",
+    "summary": "The SkyTeam founding member inherited quite a lot from the famous merger.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T17:30:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-greatest-asset-from-merger-northwest-airlines/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "ff849f5e493e",
+    "title": "These US Airline Cabins Have The Widest Economy Seats In 2026",
+    "summary": "Find out which carriers stand out for their spacious economy cabins.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T16:01:17Z",
+    "url": "https://simpleflying.com/airline-cabins-widest-economy-seats-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "448bfb0214de",
+    "title": "Best 2026 Father\u2019s Day Gifts for Pilots and Aviation Enthusiasts",
+    "summary": "Make your aviation-loving dad feel special this holiday.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-27T14:51:04Z",
+    "url": "https://www.flyingmag.com/fathers-day-gifts-for-pilots-and-flying-fans/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "15dc4d683416",
     "title": "Here's What Pilots First Notice When Switching From The Boeing 737 MAX To The Airbus A320neo",
     "summary": "Stepping into the cockpit of an Airbus A320neo after flying the Boeing 737 MAX reveals a world of differences.",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-04-20T10:54:01Z",
     "url": "https://www.aerotime.aero/articles/nh90-block-2-architecture-study-drone-teaming-2040",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d08b40040ae1",
-    "title": "A Few Hundred Feet: Lufthansa 787 Performs Go-Around Directly Above Qatar Cargo 777",
-    "summary": "Reports suggest that an air traffic control mistake led to a loss of separation between the two widebody jets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-20T10:06:57Z",
-    "url": "https://simpleflying.com/lufthansa-787-qatar-cargo-777-bogota-close-call/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f32f003ae2a",
-    "title": "Vietjet commits further to COMAC C909 with lease agreement for 10 aircraft",
-    "summary": "Vietjet has signed a lease agreement to acquire 10 COMAC (Commercial Aircraft Corporation of China) C909 aircraft in&#8230; The post Vietjet commits further to COMAC C909 with lease agreement for 10 aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-20T09:26:25Z",
-    "url": "https://www.aerotime.aero/articles/vietjet-comac-c909-lease-agreement",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "02333d95c7d4",
-    "title": "Why This Airline Is Actually Earning $300 Million From Higher Fuel Costs",
-    "summary": "Delta\u2019s refinery turns a fuel shock into a rare competitive advantage worth $300 million.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-20T07:00:17Z",
-    "url": "https://simpleflying.com/why-airline-actually-earning-300-million-higher-fuel-costs/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "77cb9ac1db88",
-    "title": "Etihad Airways adds six new routes in \u2018significant expansion\u2019 to African network",
-    "summary": "Etihad Airways has added six new international routes as part of a \u201csignificant expansion\u201d of its African network&#8230; The post Etihad Airways adds six new routes in \u2018significant expansion\u2019 to African network appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-20T03:02:00Z",
-    "url": "https://www.aerotime.aero/articles/etihad-airways-six-new-routes-african-network",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4663bd07414a",
-    "title": "FAA Accepts First Light-Sport Maintenance Course for Powered Parachutes",
-    "summary": "New training program comes as MOSAIC begins expanding sport pilot opportunities.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-20T01:43:30Z",
-    "url": "https://avweb.com/air-shows-events/sun-n-fun/light-sport-maintenance-powered-parachute/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "da73237202a3",
-    "title": "This Is Southwest's New Busiest Airport: Is It Where You Think?",
-    "summary": "Interestingly enough, the carrier's two busiest airports see plenty of flights between one another.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T23:00:18Z",
-    "url": "https://simpleflying.com/southwest-airlines-new-busiest-airport/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
