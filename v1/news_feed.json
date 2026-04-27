@@ -1,5 +1,27 @@
 [
   {
+    "id": "a085b9aa199d",
+    "title": "The Spirit Effect: US Budget Airlines Seek $2.5B Federal Relief As Fuel Crisis Deepens",
+    "summary": "The proposal is based on the assumption that jet fuel prices will remain above $4 per gallon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T08:12:09Z",
+    "url": "https://simpleflying.com/spirit-effect-us-budget-airlines-relief-fuel-crisis/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fcda6bbd7e30",
+    "title": "\"Must Be Visible\": American Airlines Joins Southwest In Crackdown On Power Banks",
+    "summary": "AA joins the growing movement to limit big batteries.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-27T06:36:57Z",
+    "url": "https://simpleflying.com/american-airlines-southwest-power-bank-rules/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "2d18d1d9762b",
     "title": "Major: American & United Airlines Cut 2,700 May Flights From The World's Busiest Airport",
     "summary": "These developments are part of a wider initiative that aims to address overscheduling.",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-19T14:00:17Z",
     "url": "https://simpleflying.com/hourly-pay-us-regional-airline-first-officers-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2e30fbad7994",
-    "title": "What Are The Benefits Of Flying Delta Air Lines' Premium Select?",
-    "summary": "The SkyTeam carrier's premium economy product offers many perks for passengers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T13:30:17Z",
-    "url": "https://simpleflying.com/benefits-of-flying-delta-air-lines-premium-select/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "f531dd0f126d",
-    "title": "Midwest Milestone: US Airport Welcomes Its First Direct UK Flight In Over 20 Years",
-    "summary": "British Airways will operate this route four times weekly using its fleet of Boeing 787 aircraft until the end of the summer season.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-19T13:10:46Z",
-    "url": "https://simpleflying.com/british-airways-st-louis-london-heathrow-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
