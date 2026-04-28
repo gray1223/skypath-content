@@ -1,5 +1,38 @@
 [
   {
+    "id": "1f9aae066775",
+    "title": "94 Years In The Making: Alaska Airlines Debuts First Safety Video On 787 Long-Haul Routes",
+    "summary": "Alaska Airlines is preparing to launch its inaugural route to Europe, which it is marking with a six-minute onboard safety video.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-28T07:28:35Z",
+    "url": "https://simpleflying.com/alaska-airlines-first-safety-video-787-long-haul/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8532207d1d37",
+    "title": "US Navy Enters Unmanned Era As First Boeing MQ-25A Stingray Takes Flight",
+    "summary": "Unmanned aviation is coming to the flight deck",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-28T05:16:23Z",
+    "url": "https://simpleflying.com/us-navy-boeing-mq-25a-stingray-first-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "33cdbfcd44a6",
+    "title": "\u201cIndependence One\u201d: Southwest Airlines\u2019 New Livery Celebrates USA\u2019s 250th Birthday",
+    "summary": "Bearing registration N1776R, the Boeing 737 MAX 8, commemorates the United States' formal declaration of independence.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-28T05:01:15Z",
+    "url": "https://simpleflying.com/independence-one-southwest-livery-celebrates-usa-250-birthday/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "47b3afeef5b2",
     "title": "From 76 F-22 Raptors To 200 Next-Gen Fighters: How Much Larger America's Air Superiority Fleet Could Get",
     "summary": "The future of air power in the US Armed Forces.",
@@ -2163,39 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-04-20T15:15:43Z",
     "url": "https://avweb.com/flight-safety/ag-aircraft-drone-encounters-increase-2025/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "50a33fa7158b",
-    "title": "US Navy demonstrates JDAM Long Range variant in 200 nautical mile test flights",
-    "summary": "The US Navy has conducted two demonstration flights of the Joint Direct Attack Munition Long Range (JDAM LR)&#8230; The post US Navy demonstrates JDAM Long Range variant in 200 nautical mile test flights appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-20T14:56:47Z",
-    "url": "https://www.aerotime.aero/articles/us-navy-jdam-lr-200nm-standoff-test",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f7591193774",
-    "title": "Qatar allows for gradual return of foreign airlines as Iran ceasefire holds",
-    "summary": "Qatar is welcoming the return of foreign airlines to Doha after the country\u2019s Civil Aviation Authority (QCAA) opened&#8230; The post Qatar allows for gradual return of foreign airlines as Iran ceasefire holds appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-20T14:33:44Z",
-    "url": "https://www.aerotime.aero/articles/qatar-gradual-return-of-foreign-airlines-iran-ceasefire-holds",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "83ec15336bae",
-    "title": "Smartflyer Receives Certifiable Battery Modules for SFX1",
-    "summary": "Delivery moves toward ground testing and planned first flight later this year.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-20T14:33:12Z",
-    "url": "https://avweb.com/aviation-news/company-news/smartflyer-receives-batterty-sfx1/",
     "airlineTag": null,
     "isBreaking": false
   }
