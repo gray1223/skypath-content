@@ -1,5 +1,71 @@
 [
   {
+    "id": "1ab21fb6ba87",
+    "title": "For The 1st Time: United Airlines Allowing Passengers To Use Miles For Lyft Rides",
+    "summary": "For the first time, United Airlines is allowing its members to redeem miles for rides with Lyft, expanding how travelers can use their rewards.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-29T19:07:11Z",
+    "url": "https://simpleflying.com/united-airlines-allowing-passengers-use-miles-lyft-rides/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e49fd2c21003",
+    "title": "The Top X Highest Paid US Military Pilot Ranks in 2026",
+    "summary": "We're going to take a deep dive into the world of US military command within the realm of aviation. Career progression, responsibilities and more.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-29T18:00:18Z",
+    "url": "https://simpleflying.com/highest-paid-us-military-pilot-ranks-salaries-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "05e81572e6d1",
+    "title": "Senators Seek Probe Into FAA Chief\u2019s Airline Stock Divestiture",
+    "summary": "Three Senate Democrats are urging an ethics probe into FAA Administrator Bryan Bedford over claims he delayed selling airline stock.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-29T15:50:00Z",
+    "url": "https://avweb.com/aviation-news/senators-seek-probe-into-faa-chiefs-airline-stock/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "51dafaab7ae3",
+    "title": "FAA Expanding Weather Camera Network",
+    "summary": "FAA expands weather cameras to improve pilot safety in remote regions.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-04-29T15:17:18Z",
+    "url": "https://avweb.com/aviation-news/faa-weather-cameras-pilot-awareness-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "817fbf6b77af",
+    "title": "Lockheed Martin to provide E-130J Phoenix II training systems",
+    "summary": "Lockheed Martin announced on April 29, 2026, that it will deliver training devices and services for the US&#8230; The post Lockheed Martin to provide E-130J Phoenix II training systems appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-29T14:27:12Z",
+    "url": "https://www.aerotime.aero/articles/lockheed-martin-e-130j-phoenix-ii-training-tacamo",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4cb9f0bebed2",
+    "title": "Turkish Airlines suspends 18 destinations amid rising geopolitical tensions",
+    "summary": "Turkish Airlines is suspending flights to 18 international destinations from May 2026 in what appears to be its&#8230; The post Turkish Airlines suspends 18 destinations amid rising geopolitical tensions appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-29T14:13:36Z",
+    "url": "https://www.aerotime.aero/articles/turkish-airlines-suspends-18-destinations-amid-rising-geopolitical-tensions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f55bf1e0cdde",
     "title": "Kazakhstan\u2019s SCAT Airlines orders 5 more Boeing 737-9 jets, converts 5 737-8s",
     "summary": "Kazakhstan\u2019s SCAT Airlines has placed a firm order for five additional Boeing 737-9 aircraft and converted five previously&#8230; The post Kazakhstan\u2019s SCAT Airlines orders 5 more Boeing 737-9 jets, converts 5 737-8s appeared first on AeroTime.",
@@ -94,7 +160,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-28T23:07:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1359,7 +1425,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T20:35:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1656,7 +1722,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1810,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-22T18:02:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/fire-in-marana?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2063,7 +2129,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-21T22:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/21/training-and-safety-tip-fly-with-feeling?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-21T18:38:22Z",
     "url": "https://simpleflying.com/trump-love-buyer-spirit-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "90e6802efb67",
-    "title": "Maintenance Survey Highlights Pressures Across General Aviation",
-    "summary": "FAA data presented by TBX still points to safety gains despite maintenance shortage and aging fleet.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-21T18:31:40Z",
-    "url": "https://avweb.com/aviation-news/maintenance-survey-ga-pressure/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "046e1342d535",
-    "title": "Pratt & Whitney\u2019s $100M Plan To End Airline Engine Delays",
-    "summary": "The engine maker is pouring funds into maintenance programs for its Geared Turbofan products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-21T18:01:18Z",
-    "url": "https://simpleflying.com/pratt-whitney-us-mro-investment/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "11452983b7fb",
-    "title": "Delta TechOps, LATAM Brazil sign A320 repair agreement",
-    "summary": "Delta TechOps has launched an Airbus A320 component repair agreement with LATAM Airlines Brasil that will route repair&#8230; The post Delta TechOps, LATAM Brazil sign A320 repair agreement appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-21T17:00:00Z",
-    "url": "https://www.aerotime.aero/articles/delta-techops-latam-brazil-sign-a320-repair-agreement",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "a1949d276694",
-    "title": "AAR launches AI-driven procurement platform linking airlines to 5,000 suppliers",
-    "summary": "AAR has launched an AI-driven procurement platform for airlines and MROs that gives users direct access to Aeroxchange\u2019s&#8230; The post AAR launches AI-driven procurement platform linking airlines to 5,000 suppliers appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-21T16:33:43Z",
-    "url": "https://www.aerotime.aero/articles/aar-airvoyant-ai-procurement-platform-5000-suppliers",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "32e993b769bf",
-    "title": "Only 39% Full: Southwest's 10 Emptiest Routes Revealed [Full List]",
-    "summary": "How many of them can you guess? Find them all out here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-21T16:00:18Z",
-    "url": "https://simpleflying.com/only-39-full-southwests-10-emptiest-routes-revealed-full-list/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d4cd59297ec8",
-    "title": "Dronamics attracts Japanese investor, aims to market MALE drones in Asia",
-    "summary": "Japanese air survey operator Asia Air Survey has become an investor in Bulgaria-based drone maker Dronamics.&#160; The deal&#8230; The post Dronamics attracts Japanese investor, aims to market MALE drones in Asia appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-21T14:08:33Z",
-    "url": "https://www.aerotime.aero/articles/dronamics-attracts-japanese-investor-aims-to-market-male-drones-in-asia",
     "airlineTag": null,
     "isBreaking": false
   }
