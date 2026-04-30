@@ -1,5 +1,38 @@
 [
   {
+    "id": "beb78a728231",
+    "title": "The 5 Oldest Airports In Canada Still Operating In 2026",
+    "summary": "Five Canadian airports that have been operating since the earliest days of powered flight, and are still open today.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T08:01:17Z",
+    "url": "https://simpleflying.com/oldest-airports-canada/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "534470bf53dd",
+    "title": "American Airlines' America250 Jet Is Brazilian-Built \u2013 And There's a Good Reason Why",
+    "summary": "The choice of an Embraer E175 raises questions, but the airline has a compelling reason for this selection.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T07:16:40Z",
+    "url": "https://simpleflying.com/american-airlines-america250-brazilian-jet/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "59bf59b8d9db",
+    "title": "Spirit Airlines Only Has Enough Cash To Stay Afloat For A Few Days As Bailout Talks Stall",
+    "summary": "Time is running out for the bare-fare carrier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T05:49:33Z",
+    "url": "https://simpleflying.com/spirit-airlines-enough-cash-stay-afloat-few-days-bailout-talks-stall/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f19dae7f18d6",
     "title": "5 Airlines' Business Class Seats That Are The World's Most Private In 2026",
     "summary": "Discover how the world\u2019s leading airlines are redefining business class privacy in 2026.",
@@ -2163,39 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-04-22T12:00:00Z",
     "url": "https://www.flyingmag.com/one-way-in-one-way-out-airports-pose-hurdles/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2e875b69d424",
-    "title": "Rheinmetall secures Bundeswehr order for FV-014 loitering munition",
-    "summary": "Rheinmetall has signed a framework contract with the Bundeswehr for the supply of its FV-014 loitering munition, the&#8230; The post Rheinmetall secures Bundeswehr order for FV-014 loitering munition appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-22T11:41:30Z",
-    "url": "https://www.aerotime.aero/articles/rheinmetall-fv-014-bundeswehr-loitering-munition",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1df143585487",
-    "title": "ROKAF report finds personal photo maneuver caused 2021 F-15K collision",
-    "summary": "South Korea&#8217;s Board of Audit and Inspection (BAI) has held a former Republic of Korea Air Force (ROKAF)&#8230; The post ROKAF report finds personal photo maneuver caused 2021 F-15K collision appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-22T10:45:19Z",
-    "url": "https://www.aerotime.aero/articles/rokaf-audit-photo-maneuver-caused-2021-f15k-collision",
-    "airlineTag": "Republic Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "30fc30e6b588",
-    "title": "Trump suggests federal government could help Spirit Airlines during live call",
-    "summary": "US President Donald Trump has suggested on a live call with CNBC that the federal government could help&#8230; The post Trump suggests federal government could help Spirit Airlines during live call appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-22T10:21:01Z",
-    "url": "https://www.aerotime.aero/articles/trump-federal-government-spirit-airlines",
     "airlineTag": null,
     "isBreaking": false
   }
