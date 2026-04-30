@@ -1,5 +1,104 @@
 [
   {
+    "id": "b9155c51c651",
+    "title": "The Plane That Was Supposed To Change Everything Just Got Sidelined By American Airlines",
+    "summary": "A deeper dive into the carrier's strategic pivot.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T13:33:42Z",
+    "url": "https://simpleflying.com/american-airlines-a321xlr-pivot-strategy/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2d688238a26e",
+    "title": "Why Do Planes Fly Over The Arctic But Not The Antarctic?",
+    "summary": "Several commercial air routes exist over the Arctic, but none over the Antarctic - why is this the case?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T13:31:17Z",
+    "url": "https://simpleflying.com/why-do-planes-fly-over-arctic-not-antarctic/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "85fefd7ce240",
+    "title": "Spirit Airlines Is Rewriting The Rules Of Budget Flying After Bankruptcy",
+    "summary": "Spirit Airlines filed for bankruptcy twice in a year. Then fuel prices doubled. Now the US government may buy it.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-04-30T13:00:17Z",
+    "url": "https://simpleflying.com/spirit-airlines-rewriting-budget-flying-after-bankruptcy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0b8b3c2fd52e",
+    "title": "Ethics Under Scrutiny: Federal Aviation Administration Administrator Accused Of Delayed Stock Divestment",
+    "summary": "The administrator and the ex-CEO of Republic Airways failed to divest stocks held in the airline before the allocated date in the ethics agreement.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T12:56:30Z",
+    "url": "https://simpleflying.com/faa-administrator-accused-delayed-stock-divestment/",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "1d220e51eea7",
+    "title": "Southwest 'Not Done' Making Changes As CEO Teases Lounges And First Class",
+    "summary": "Southwest Airlines has been making major changes to its business model for more than a year now. Ending the 'Bags Fly Free' policy and switching from open seating to assigned seats have been two of the most noteworthy and controversial moves to date, but the airline CEO is pla...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T12:24:18Z",
+    "url": "https://simpleflying.com/video/southwest-not-done-making-changes-as-ceo-teases-lounges-and-first-class/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3a2433cec992",
+    "title": "How to Become an EMS Helicopter Pilot",
+    "summary": "These aviators must accumulate sufficient flight hours and pass stringent aviation tests to prepare.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-04-30T12:00:00Z",
+    "url": "https://www.flyingmag.com/how-to-become-an-ems-helicopter-pilot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7c73e2e1a232",
+    "title": "Southwest In The Dust? Why Is Boeing Prioritizing The 737 MAX 10 Over The MAX 7",
+    "summary": "With nearly 300 orders for the MAX 7, Southwest faces an interesting position as Boeing increasingly prioritizes MAX 10 certification.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-04-30T11:00:17Z",
+    "url": "https://simpleflying.com/why-boeing-prioritizing-737-max-10-over-max-7/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6defc3731bf4",
+    "title": "Japan Airlines posts record revenue and profit for fiscal year ending March 2026",
+    "summary": "Japan Airlines Group posted record revenue and profit for the fiscal year ending March 2026, hitting all of&#8230; The post Japan Airlines posts record revenue and profit for fiscal year ending March 2026 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-30T10:11:27Z",
+    "url": "https://www.aerotime.aero/articles/japan-airlines-posts-record-revenue-and-profit-for-fiscal-year-ending-march-2026",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a8bc984148f2",
+    "title": "Changi Airport becomes first overseas hub for China\u2019s SF Group in logistics deal",
+    "summary": "China&#8217;s largest cargo airline operator has chosen Singapore as the base for its international expansion. Changi Airport Group&#8230; The post Changi Airport becomes first overseas hub for China\u2019s SF Group in logistics deal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-04-30T09:04:04Z",
+    "url": "https://www.aerotime.aero/articles/changi-airport-becomes-first-overseas-hub-for-chinas-sf-group-in-logistics-deal",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "beb78a728231",
     "title": "The 5 Oldest Airports In Canada Still Operating In 2026",
     "summary": "Five Canadian airports that have been operating since the earliest days of powered flight, and are still open today.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-22T13:53:47Z",
     "url": "https://simpleflying.com/alaska-airlines-ceo-fare-increases-high-prices-fuel/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9d75bb67f9c3",
-    "title": "LUMINAIR orders Cessna Citation Latitude private jets at AERO Friedrichshafen",
-    "summary": "German private jet operator LUMINAIR has placed an order at this year&#8217;s AERO Friedrichshafen for nine Cessna Citation&#8230; The post LUMINAIR orders Cessna Citation Latitude private jets at AERO Friedrichshafen appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-22T13:32:39Z",
-    "url": "https://www.aerotime.aero/articles/luminair-orders-cessna-citation-latitude-private-jets-aero-friedrichshafen",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51104d7db6ee",
-    "title": "Delta Air Lines\u2019 Own CEO Often Doesn\u2019t Fly In Premium Cabins: Here\u2019s Why",
-    "summary": "The carrier's CEO has a unique personality.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-22T13:30:19Z",
-    "url": "https://simpleflying.com/why-delta-air-lines-ceo-doesnt-fly-premium-cabins/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "e6f39652590e",
-    "title": "What Are You Afraid of? UFOs",
-    "summary": "Pilots and air traffic controllers are in a unique position to help us understand what\u2019s happening above us.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-04-22T13:00:00Z",
-    "url": "https://www.flyingmag.com/what-are-you-afraid-of-ufos/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f5ede23980a",
-    "title": "Boeing narrows Q1 loss on stronger deliveries as backlog hits record $695B",
-    "summary": "Boeing reported a narrower first-quarter loss on April 22, 2026, as higher commercial deliveries lifted revenue and drove&#8230; The post Boeing narrows Q1 loss on stronger deliveries as backlog hits record $695B appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-22T12:52:05Z",
-    "url": "https://www.aerotime.aero/articles/boeing-q1-2026-loss-narrows-backlog-record",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a5f6652bd524",
-    "title": "Hawaiian Airlines Retires Its Iconic \"HA\" Flight Code & Adopts Alaska Airlines \"AS\"",
-    "summary": "Apart from this change, today the airline finally joins Alaska Airlines in the oneworld global airline alliance!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-22T12:42:42Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-retires-ha-flight-code/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ad8659a95aa8",
-    "title": "Why Flying The Biggest Aircraft Isn\u2019t Every Pilot\u2019s Goal",
-    "summary": "Pilot dynamics can be extremely complicated.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-22T12:29:36Z",
-    "url": "https://simpleflying.com/why-flying-biggest-aircaft-isnt-pilots-goal/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0705cda73e09",
-    "title": "Another 777 Variant Certified (Probably Not The One You're Thinking Of)",
-    "summary": "While we\u2019re sure that most people are hoping that the Boeing 777X gets certified as soon as possible, today\u2019s news concerns a different 777 variant getting certified. Indeed, it was on April 8th that The Federal Aviation Administration (FAA) certified the Mammoth Freighters 77...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-22T12:25:18Z",
-    "url": "https://simpleflying.com/video/another-777-variant-certified-probably-not-the-one-you-re-thinking-of/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "adf7a6b9e17e",
-    "title": "Fuel Price Crisis: This Major Airline Just Cut 20,000 Summer Flights",
-    "summary": "The cuts, which apply until October, will impact short-haul flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-22T12:12:53Z",
-    "url": "https://simpleflying.com/lufthansa-group-cuts-20000-flights-fuel-price-rises/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba8a932b22b2",
-    "title": "One-Way-In, One-Way-Out Airports Pose Hurdles",
-    "summary": "Technically demanding runways bring out the skills in pilots.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-04-22T12:00:00Z",
-    "url": "https://www.flyingmag.com/one-way-in-one-way-out-airports-pose-hurdles/",
     "airlineTag": null,
     "isBreaking": false
   }
