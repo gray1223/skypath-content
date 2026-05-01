@@ -1,5 +1,27 @@
 [
   {
+    "id": "087efdc8b6a5",
+    "title": "The Airlines Racing To Replace Slow Plane WiFi With Starlink In 2026",
+    "summary": "The era of frustratingly slow, high-latency in-flight internet is rapidly coming to an end. Which airlines are the first to lead the way?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T05:00:19Z",
+    "url": "https://simpleflying.com/airlines-racing-replacing-slow-plane-wifi-starlink/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ab0a2f78c46",
+    "title": "United Airlines' Brand-New Polaris Boeing 787-9 Can't Catch A Break: 2 Groundings In 5 Days",
+    "summary": "The troubles of the newest widebody in the UA fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T04:55:27Z",
+    "url": "https://simpleflying.com/united-airlines-brand-new-polaris-boeing-787-9-catch-break-2-groundings-5-days/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "5edf9cd24568",
     "title": "Despite stronger Q1 2026 revenue, JetBlue remains deep in the red",
     "summary": "JetBlue Airways remained deeply unprofitable in the first quarter of 2026, even as the airline reported stronger revenue,&#8230; The post Despite stronger Q1 2026 revenue, JetBlue remains deep in the red appeared first on AeroTime.",
@@ -57,7 +79,7 @@
   {
     "id": "0d373c5a7b1e",
     "title": "\u201cA Lot Of Legal Trouble\u201d: Delta Air Lines Passenger Opens Door While Aircraft Is Stuck On Tarmac",
-    "summary": "As thunderstorms caused delays for Delta Flight 2879, one frustrated passenger's actions forced the plane to return to the gate.",
+    "summary": "As thunderstorms caused delays, one frustrated passenger's actions forced the plane to return to the gate.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-04-30T21:16:44Z",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-23T09:36:18Z",
     "url": "https://www.aerotime.aero/articles/nato-awacs-replacement-saab-bombardier-globaleye",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bf8eb8630899",
-    "title": "Is It True That A $400 GPS Device Could Have Stopped The Collision Of American Airlines Flight 5342?",
-    "summary": "A device providing ADS-B In capabilities could have given the pilots an additional 59 seconds to react to the impending collision at Reagan Airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T05:00:18Z",
-    "url": "https://simpleflying.com/true-400-gps-device-stopped-collision-american-airlines-flight-5342/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9d34bbc5cbb6",
-    "title": "Burke Lakefront Supporters Meet with FAA Leadership to Oppose Airport Closure Proposal",
-    "summary": "WASHINGTON\u2014The Lakefront Airport Preservation Partnership (LAPP) met with FAA Associate Administrator for Airports Daniel J. Edwards yesterday to express unified opposition to Cleveland Mayor Justin Bibb\u2019s proposed closure of Burke Lakefront Airport. In the meeting, Edwards to...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-23T00:36:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/22/pr-burke-lakefront-supporters-meet-with-faa-leadership-to-oppose-airport-closure-proposal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
