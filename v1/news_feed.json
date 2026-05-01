@@ -1,5 +1,93 @@
 [
   {
+    "id": "f512f07c2367",
+    "title": "A-List Preferred Behind Priority? Southwest Airlines Launches Updated Boarding Process",
+    "summary": "The new changes were implemented on Thursday.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T18:16:07Z",
+    "url": "https://simpleflying.com/a-list-preferred-behind-priority-southwest-airlines-launches-updated-boarding-process/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ba1831e32454",
+    "title": "Hop-A-Jet President Reflects on 2024 Crash After NTSB Findings",
+    "summary": "Company has made changes to training and procedures amid pursuit of claims against GE Aerospace.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-05-01T18:04:05Z",
+    "url": "https://www.flyingmag.com/hop-a-jet-president-reflects-on-2024-crash-after-ntsb-findings/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eba8bdf06032",
+    "title": "Delta Air Lines Increases Pay For Non-Union Employees, Days After \u201cModest\u201d Corporate Layoffs",
+    "summary": "The carrier continues to invest in its people, offering a 4% pay rise to non-union employees amidst industry pressures and rising fuel costs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T17:47:10Z",
+    "url": "https://simpleflying.com/delta-air-lines-increase-pay-non-union-employees-modest-corporate-layoffs/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "12ae664b546c",
+    "title": "The Pentagon's Order For 85 F-35s Isn't Guaranteed: Over 50 Jets Depend On A Bill That May Never Pass",
+    "summary": "While proposed F-35 jets in FY 2027 are a big jump over 2026, it is about average historically. For now, funding and final numbers remain uncertain.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T17:01:17Z",
+    "url": "https://simpleflying.com/the-pentagons-order-for-85-f-35s-isnt-guaranteed-over-50-jets-depend-on-a-bill-that-may-never-pass/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cd4b41784cc8",
+    "title": "Spirit Airlines Prepares To Cease Operations",
+    "summary": "Reports say the bankrupt low-cost carrier was unable to secure a proposed $500 million government bailout.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-05-01T16:52:36Z",
+    "url": "https://avweb.com/aviation-news/spirit-airlines-prepares-to-end-operations/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "65f40bcec84e",
+    "title": "Spirit Airlines Set To Shut Down After Government Talks Fail",
+    "summary": "As Spirit Airlines' fate hangs in the balance, the airline industry braces for the potential fallout of a major player's sudden shutdown.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T16:14:57Z",
+    "url": "https://simpleflying.com/spirit-airlines-shut-down-talks-fail/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2ceb027c9f7b",
+    "title": "Duluth Replacing 70-Year-Old Tower",
+    "summary": "The airport says the current tower is the third-oldest operating tower in the U.S.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-01T14:48:39Z",
+    "url": "https://avweb.com/aviation-news/duluth-replacing-70-year-old-tower/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b30d78095efc",
+    "title": "Emirates SkyCargo launches new Canadian freighter service via Amsterdam",
+    "summary": "In an expansion of its freighter network, Emirates SkyCargo has launched a new weekly Canadian cargo service via&#8230; The post Emirates SkyCargo launches new Canadian freighter service via Amsterdam appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-01T13:24:50Z",
+    "url": "https://www.aerotime.aero/articles/emirates-skycargo-freighter-service-via-amsterdam",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e1eb9ea8aff7",
     "title": "Pregnant & Sprinting: Southwest Airlines Nearly Left 10 Passengers Behind After Its Own Delay",
     "summary": "The passengers were reportedly told that their connecting flight would be held for them.",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-23T17:00:17Z",
     "url": "https://simpleflying.com/how-airbus-a380-comeback-ages/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b87b8ac0d3b",
-    "title": "The Simple Flying Podcast Episode 288: 2 Close Calls In 48 Hours, AIX Preview & American Airlines New JFK Experience",
-    "summary": "Join Tom & Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T16:56:27Z",
-    "url": "https://simpleflying.com/podcast-288/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "375ba8cca0dc",
-    "title": "Turkish Airlines orders 10 Cessna Skyhawks for flight academy training",
-    "summary": "Turkish Airlines has placed an order for a further 10 Cessna Skyhawk aircraft to train future fleet pilots&#8230; The post Turkish Airlines orders 10 Cessna Skyhawks for flight academy training appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-23T15:04:28Z",
-    "url": "https://www.aerotime.aero/articles/turkish-airlinesflight-academy-cessna-skyhawk-textron-aviation",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d1888badddc7",
-    "title": "FAA Administrator Weighs In on ADS-B Fee Dispute",
-    "summary": "Bedford says airports can charge for services, but the agency is concerned when safety equipment is tied to billing.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-23T14:11:58Z",
-    "url": "https://avweb.com/avionics/adsb/faa-administrator-weighs-in-ads-b-dispute/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "52a0171b12e4",
-    "title": "What United Airlines' New Basic Polaris Fare Will Likely Include On Transatlantic Flights",
-    "summary": "Unbundling is becoming increasingly common in the premium market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T14:01:17Z",
-    "url": "https://simpleflying.com/what-united-airlines-basic-polaris-will-include/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fb71a5efc8c3",
-    "title": "Airbus Just Built The Largest Cargo Door In Aviation History For Its New A350F",
-    "summary": "This marks a major milestone, as Airbus is soon set to begin flight testing the A350F later this year!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T13:15:45Z",
-    "url": "https://simpleflying.com/airbus-a350f-largest-cargo-door-in-history/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7c3c5ae5454f",
-    "title": "Why IGHC 2026 matters as AI reshapes ground operations",
-    "summary": "Ground operations are operating at the intersection of rising traffic, constrained infrastructure, workforce challenges, safety issues, commercial sustainability&#8230; The post Why IGHC 2026 matters as AI reshapes ground operations appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-23T12:30:15Z",
-    "url": "https://www.aerotime.aero/articles/articles-ighc-2026-ai-ground-operations-cairo",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bab2a22317e9",
-    "title": "No More Paired Seats: Lufthansa\u2019s A380 Business Class Finally Gets Direct Aisle Access",
-    "summary": "The German flag carrier has reduced the number of premium seats in order to enhance the passenger experience.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T12:24:58Z",
-    "url": "https://simpleflying.com/lufthansa-new-airbus-a380-business-class-cabin-enters-service/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "43c3835f54f4",
-    "title": "How to Transition From a Military Pilot to a Commercial Pilot",
-    "summary": "Here are some key steps and practical tips to smoothly shift your career from military pilot to commercial pilot.",
-    "source": "Flying Magazine",
-    "category": "military",
-    "publishedDate": "2026-04-23T12:00:00Z",
-    "url": "https://www.flyingmag.com/military-pilot-to-commercial-pilot/",
     "airlineTag": null,
     "isBreaking": false
   }
