@@ -1,5 +1,104 @@
 [
   {
+    "id": "e1eb9ea8aff7",
+    "title": "Pregnant & Sprinting: Southwest Airlines Nearly Left 10 Passengers Behind After Its Own Delay",
+    "summary": "The passengers were reportedly told that their connecting flight would be held for them.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T12:37:24Z",
+    "url": "https://simpleflying.com/southwest-airlines-nearly-left-10-passengers-behind-own-delay/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b242dd44de5a",
+    "title": "Unveiled: The New Delta One Suite For The Airbus A350-1000 And A330ceo",
+    "summary": "Delta Air Lines, on April 13th, unveiled its next generation Delta One suite which will be installed on the airline\u2019s new Airbus A350-1000s and older A330-200s and -300s.The finalization and presentation of this new product follows a two-year intentional design process and, in...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T12:32:17Z",
+    "url": "https://simpleflying.com/video/unveiled-the-new-delta-one-suite-for-the-airbus-a350-1000-and-a330ceo/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "a1f89261f02b",
+    "title": "Airbus To Miss FAA\u2019s A220 Cockpit Barrier Deadline, Forces JetBlue To Request 1-Year Immunity",
+    "summary": "JetBlue is the largest US operator of the A220-300, and the second-largest in the US when it comes to the entire A220 family.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T11:50:09Z",
+    "url": "https://simpleflying.com/airbus-miss-faa-a220-cockpit-barrier-deadline-force-jetblue-request-1-year-immunity/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "d298c019dd3f",
+    "title": "19-Hour Nonstop Flights: Singapore Airlines' 10 New Ultra-Long Routes 2026 [Updated]",
+    "summary": "Discover the world's carrier's longest flights that keep you in the air for most of the day...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T11:00:18Z",
+    "url": "https://simpleflying.com/19-hour-nonstop-flights-singapore-airlines-10-new-ultra-long-routes-2026-updated/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "837d04858d26",
+    "title": "Why America's Most Classified Airline Operates 190 Flights A Week From Las Vegas",
+    "summary": "Take a look at the airline that doesn't officially exist, which transports military personnel and defense contractors to highly classified facilities.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T11:00:18Z",
+    "url": "https://simpleflying.com/americas-most-classified-airline-operates-190-flights-week-las-vegas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "45b7838720c2",
+    "title": "Leading The Way: A Look Inside Malaysia Airlines' State-Of-The-Art MAB Academy",
+    "summary": "Full-flight simulators and a specialized wave pool drive the high-tech training at MH's modern academy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-01T10:57:39Z",
+    "url": "https://simpleflying.com/malaysia-airlines-mab-academy-tour/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "798f1b8b155d",
+    "title": "Scandinavian Airlines warns Europe risks future fuel shock without e\u2011SAF drive",
+    "summary": "A new report from Scandinavian Airlines (SAS) has warned that Europe risks future fuel shock without a significant&#8230; The post Scandinavian Airlines warns Europe risks future fuel shock without e\u2011SAF drive appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-01T10:39:06Z",
+    "url": "https://www.aerotime.aero/articles/scandinavian-airlines-warns-europe-risks-future-fuel-esaf",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "60512a0e9994",
+    "title": "Aggressive Passengers Ignored Crew & Damaged Slide In United Airbus A319 Evacuation, NTSB Says",
+    "summary": "The incident itself took place just over a year ago.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-05-01T09:59:34Z",
+    "url": "https://simpleflying.com/united-airbus-a319-passengers-ignore-crew/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "519ccd97e36a",
+    "title": "Boeing secures Biman Bangladesh order for 787 Dreamliners and 737 MAX jets",
+    "summary": "Boeing has secured its largest-ever order from Biman Bangladesh Airlines, with the carrier confirming the purchase of multiple&#8230; The post Boeing secures Biman Bangladesh order for 787 Dreamliners and 737 MAX jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-01T08:44:59Z",
+    "url": "https://www.aerotime.aero/articles/boeing-biman-bangladesh-order-dreamliners",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "087efdc8b6a5",
     "title": "The Airlines Racing To Replace Slow Plane WiFi With Starlink In 2026",
     "summary": "The era of frustratingly slow, high-latency in-flight internet is rapidly coming to an end. Which airlines are the first to lead the way?",
@@ -24,7 +123,7 @@
   {
     "id": "5edf9cd24568",
     "title": "Despite stronger Q1 2026 revenue, JetBlue remains deep in the red",
-    "summary": "JetBlue Airways remained deeply unprofitable in the first quarter of 2026, even as the airline reported stronger revenue,&#8230; The post Despite stronger Q1 2026 revenue, JetBlue remains deep in the red appeared first on AeroTime.",
+    "summary": "New data shows that JetBlue Airways remained deeply unprofitable during the first quarter of 2026, even as the&#8230; The post Despite stronger Q1 2026 revenue, JetBlue remains deep in the red appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-05-01T01:00:00Z",
@@ -2097,105 +2196,6 @@
     "category": "military",
     "publishedDate": "2026-04-23T12:00:00Z",
     "url": "https://www.flyingmag.com/military-pilot-to-commercial-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c319eb1fc308",
-    "title": "Airbus to install industry\u2019s largest door on first A350F ahead of flight tests",
-    "summary": "Airbus is preparing to install the industry\u2019s largest main deck cargo door on the first A350F ahead of&#8230; The post Airbus to install industry\u2019s largest door on first A350F ahead of flight tests appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-23T11:30:50Z",
-    "url": "https://www.aerotime.aero/articles/airbus-largest-door-a350f-freighter-cargo-test-flights",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7d3b5785fbfa",
-    "title": "Saab Q1 sales jump 24% organically as Gripen output heads toward 30 a year",
-    "summary": "Saab reported first-quarter 2026 results on April 23, 2026, showing organic sales growth of 23.6% and an operating&#8230; The post Saab Q1 sales jump 24% organically as Gripen output heads toward 30 a year appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-23T11:25:43Z",
-    "url": "https://www.aerotime.aero/articles/saab-q1-2026-gripen-production-ramp",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "70709b6706f8",
-    "title": "Only 67% Full: Qantas' 10 Emptiest US Routes Revealed [Full List]",
-    "summary": "Discover how full each of Qantas' US routes were last year. Can you guess the order?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T11:01:17Z",
-    "url": "https://simpleflying.com/only-67pc-full-qantas-10-emptiest-us-routes-revealed-full-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05c6e9933cf2",
-    "title": "Inside the New Airport Terminals Launching in 2026",
-    "summary": "A remarkable number of major airport projects are reaching meaningful milestones in 2026, and they are not all trying to solve the same problem. In New York, JFK\u2019s new Terminals 1 and 6 are part of a sweeping rebuild of one of the United States\u2019 most important international ga...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T11:01:17Z",
-    "url": "https://simpleflying.com/video/inside-the-new-airport-terminals-launching-in-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "be1732b3c1c3",
-    "title": "6 Aircraft With The Highest Passenger Capacity",
-    "summary": "A look at six of the world\u2019s highest-capacity passenger aircraft and how airlines use them to handle growing global travel demand.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T11:01:17Z",
-    "url": "https://simpleflying.com/6-airlines-largest-boeing-777x-orders/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "507e7cc21ea1",
-    "title": "FAA Administrator on ADS-B Billing: \u2018That\u2019s Not the Intended Use\u2019",
-    "summary": "Bedford says the agency would object if airport charge methods push pilots to turn off safety-critical equipment.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-23T11:00:00Z",
-    "url": "https://www.flyingmag.com/faa-administrator-on-ads-b-billing-thats-not-the-intended-use/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c02fac0fc0e8",
-    "title": "No Merger, No Problem: Why American & Alaska Are Pivoting To Revenue Sharing",
-    "summary": "The two airlines briefly discussed a merger, but will focus on strengthening their partnership instead.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T09:50:35Z",
-    "url": "https://simpleflying.com/american-alaska-merger-revenue-sharing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8cc162b2a35",
-    "title": "Alaska, American discuss revenue-sharing in talks that broached merger: reports",
-    "summary": "Alaska Airlines and American Airlines discussed a potential revenue-sharing agreement as part of talks that also broached a&#8230; The post Alaska, American discuss revenue-sharing in talks that broached merger: reports appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-23T09:43:12Z",
-    "url": "https://www.aerotime.aero/articles/alaska-american-revenue-sharing-agreement-merger",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "eb770e3cbc7e",
-    "title": "NATO awards AWACS replacement contract to Saab and Bombardier: La\u00a0Lettre",
-    "summary": "NATO&#8217;s Support and Procurement Agency (NSPA) awarded the contract to replace the alliance&#8217;s aging fleet of Boeing E-3A&#8230; The post NATO awards AWACS replacement contract to Saab and Bombardier: La Lettre appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-23T09:36:18Z",
-    "url": "https://www.aerotime.aero/articles/nato-awacs-replacement-saab-bombardier-globaleye",
     "airlineTag": null,
     "isBreaking": false
   }
