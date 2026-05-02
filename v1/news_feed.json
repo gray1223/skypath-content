@@ -1,5 +1,27 @@
 [
   {
+    "id": "fadb3627f002",
+    "title": "Federal Dependence: The US Airlines Most Exposed to Budget Shifts",
+    "summary": "For some US airlines, up to 30% of their operations and income come from government contracts, making them vulnerable to budget shifts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T05:02:22Z",
+    "url": "https://simpleflying.com/us-airlines-government-contracts-budget-risk/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "244bf7270ed4",
+    "title": "Why America's New Air Force One Has Been Delayed for Years",
+    "summary": "The organization has faced extensive scheduling challenges.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T05:00:18Z",
+    "url": "https://simpleflying.com/why-new-air-force-one-delayed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f3d4bba0b7dd",
     "title": "Why 1,400+ Airline Orders Aren't Enough To Get Boeing's 737 MAX 10 Off The Ground In 2026",
     "summary": "It will still take thousands of hours behind the scenes before approval is secured.",
@@ -2174,28 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-04-23T20:35:32Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d22f03808d2b",
-    "title": "Ranked: Delta Air Lines' Top 15 Long-Haul Routes [Summer 2026 Flights]",
-    "summary": "Delta is set to break its own record for the most long-haul departures from the US in the peak summer...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T20:00:29Z",
-    "url": "https://simpleflying.com/ranked-delta-air-lines-top-15-long-haul-routes-summer-2026-flights/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "de6f57cd4bf9",
-    "title": "The World's Largest Air Forces By Number Of Fighter Jets",
-    "summary": "This guide ranks the world's largest fighter forces in 2026",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T20:00:29Z",
-    "url": "https://simpleflying.com/worlds-largest-air-forces-number-fighter-jets-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
