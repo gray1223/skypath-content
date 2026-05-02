@@ -1,5 +1,60 @@
 [
   {
+    "id": "c652b4f71a50",
+    "title": "777X Need Mods",
+    "summary": "Boeing reports that the 30 or so 777X airframes that have already been built will require modifications before they can be delivered to airline customers. Perhaps being overly optimistic about its early design, whilst hoping to get deliveries started as soon as possible, the a...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T12:28:17Z",
+    "url": "https://simpleflying.com/video/777x-need-mods/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "982624a48414",
+    "title": "Spirit Airlines Shuts Down: Where Its Top 10 Airports Stand Now",
+    "summary": "The airline's top two airports were Fort Lauderdale and Orlando in Florida, accounting for nearly 25% of its departures.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T12:00:17Z",
+    "url": "https://simpleflying.com/spirit-airlines-shuts-down-top-10-airports/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e29c83c1a447",
+    "title": "Here's What Passengers Will Lose When Airlines Kill First Class Forever",
+    "summary": "The future of aviation looks to have fewer luxury travel options.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T11:01:17Z",
+    "url": "https://simpleflying.com/what-passengers-lose-airlines-kill-first-class-forever/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7c6307ac9487",
+    "title": "Spirit Airlines collapses, ceases all operations",
+    "summary": "Spirit Airlines announced on the night of May 1-2, 2026 that it has ceased all operations, with immediate&#8230; The post Spirit Airlines collapses, ceases all operations appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-02T09:46:13Z",
+    "url": "https://www.aerotime.aero/articles/spirit-airlines-collapses-ceases-all-operations",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0184de4d3b09",
+    "title": "End Of An Era: Final Spirit Airlines Flight Lands In Dallas As Carrier Confirms Shutdown",
+    "summary": "The last Spirit flight has touched down in Dallas, marking the end of the ultra-low-cost carrier's operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T08:18:45Z",
+    "url": "https://simpleflying.com/spirit-airlines-final-flight-dallas-shutdown/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fadb3627f002",
     "title": "Federal Dependence: The US Airlines Most Exposed to Budget Shifts",
     "summary": "For some US airlines, up to 30% of their operations and income come from government contracts, making them vulnerable to budget shifts.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-23T23:00:17Z",
     "url": "https://simpleflying.com/af-1-refuel-mid-air-why-rarely-does/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8588d1396594",
-    "title": "The Top 5 Most Fuel-Efficient Widebody Aircraft In Commercial Service In 2026",
-    "summary": "The metric is highly dependent on factors such as seating density, route length, and payload.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T22:01:19Z",
-    "url": "https://simpleflying.com/top-5-fuel-efficient-widebody-aircraft-commerical-service-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2c9792c38eec",
-    "title": "JetBlue's New York Slots, Mint Fleet, & Airbus A321XLR Orders: What Makes It An Acquisition Target?",
-    "summary": "The carrier's name has been floated quite a lot in merger rumors.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T21:01:18Z",
-    "url": "https://simpleflying.com/jetblue-new-york-slots-mint-fleet-airbus-a321xlr-orders-acquisition-target/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "f4752f6cab10",
-    "title": "United Investment Arm Backs Cutting-Edge Personal Aircraft Avionics",
-    "summary": "Airhart is developing advanced avionics systems designed to make flying as simple as driving a car.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-23T21:00:00Z",
-    "url": "https://www.flyingmag.com/united-invests-airhart-aircraft-avionics/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "41932c09a14e",
-    "title": "United Invests in Cutting-Edge Personal Aircraft Avionics",
-    "summary": "Airhart is developing advanced avionics systems designed to make flying as simple as driving a car.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-23T21:00:00Z",
-    "url": "https://www.flyingmag.com/united-invests-airhart-aircraft-avionics/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4fa296a72e38",
-    "title": "Burke Lakefront supporters meet with FAA leadership",
-    "summary": "The Lakefront Airport Preservation Partnership (LAPP) met with FAA Associate Administrator for Airports Daniel J. Edwards on April 21 to express unified opposition to Cleveland Mayor Justin Bibb&rsquo;s proposed closure of Burke Lakefront Airport.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-23T20:35:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/23/burke-lakefront-supporters-meet-with-faa-leadership?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
