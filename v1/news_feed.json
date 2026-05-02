@@ -1,5 +1,93 @@
 [
   {
+    "id": "a6b8ccf3ab1f",
+    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
+    "summary": "Delta ultimately is changing its service guidelines for flights based on distance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T18:58:15Z",
+    "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ea6ad321afa",
+    "title": "\u201cConsistency Is Important\u201d: American Airlines Hints At Imminent Return Of Seatback Screens",
+    "summary": "Could the time be near for American Airlines to reverse its 2017 decision to remove seat back screens on short-haul aircraft?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T18:20:27Z",
+    "url": "https://simpleflying.com/american-airlines-hints-imminent-return-seatback-screens/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f1e3b796d72a",
+    "title": "Spirit Shutdown: All The US Airlines Offering Rescue Fares Right Now",
+    "summary": "Spirit Airlines' abrupt shutdown leaves passengers stranded, prompting major US carriers to offer rescue fares.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-05-02T17:42:52Z",
+    "url": "https://simpleflying.com/spirit-shutdown-airline-rescue-fares-guide/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b3cc6f44149d",
+    "title": "The United States' 10 Largest Airports In Operation",
+    "summary": "These huge hubs are larger than many towns.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T17:31:18Z",
+    "url": "https://simpleflying.com/us-10-largest-airports-in-operation/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3e1c0e8d06bd",
+    "title": "Sweet Deal? American Airlines Pays 5 People $1,200 Each To Leave Because Plane Was Too Heavy",
+    "summary": "The move highlights strict aviation weight rules and safety priorities.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T17:23:44Z",
+    "url": "https://simpleflying.com/american-airlines-pays-5-people-1200-dollars-each-leave-plane-too-heavy/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2f8f0812fb25",
+    "title": "Why One Of The World's Biggest Airlines Bet Its Future On A Single Aircraft Family",
+    "summary": "Southwest Airlines operates only Boeing 737 family jets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T16:01:19Z",
+    "url": "https://simpleflying.com/why-worlds-biggest-airline-bet-future-single-aircraft-family/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dbaf2e561126",
+    "title": "The Boeing 787's Gust Load Alleviation System Prevents Structural Damage For Pilots In Turbulence",
+    "summary": "The 787 can delivery an exceptionally smooth ride for passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T14:01:19Z",
+    "url": "https://simpleflying.com/boeing-787-gust-load-alleviation-prevents-structural-damage-pilots-turbulence/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b56436496cf",
+    "title": "Ready For Summer: Ex-Qatari 747 Completes Testing Ahead Of Air Force One Paint Job",
+    "summary": "The Air Force's race to ready a new presidential jet hits a critical milestone.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T13:17:07Z",
+    "url": "https://simpleflying.com/air-force-one-qatari-747-testing-complete/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c652b4f71a50",
     "title": "777X Need Mods",
     "summary": "Boeing reports that the 30 or so 777X airframes that have already been built will require modifications before they can be delivered to airline customers. Perhaps being overly optimistic about its early design, whilst hoping to get deliveries started as soon as possible, the a...",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-24T12:24:17Z",
     "url": "https://simpleflying.com/video/out-of-nowhere-lufthansa-shuts-down-cityline-subsidiary-overnight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "20fb72d69f2c",
-    "title": "There\u2019s a Difference Between Being Current and Proficient With IFR",
-    "summary": "If pilots try to cut corners on instrument practice, it can be deadly.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-04-24T12:00:00Z",
-    "url": "https://www.flyingmag.com/theres-a-difference-between-being-current-and-proficient-with-ifr/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e9491831d453",
-    "title": "Ryanair closes Berlin base, blames high costs and charge increases",
-    "summary": "On April 24, 2026, Ryanair announced that it is to close its base at Berlin-Brandenburg International Airport (BER),&#8230; The post Ryanair closes Berlin base, blames high costs and charge increases appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-24T11:32:42Z",
-    "url": "https://www.aerotime.aero/articles/ryanair-closes-berlin-base-blames-high-costs-and-charge-increases",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b45103be5ed",
-    "title": "So Long: Why Lufthansa Is Saying Goodbye To Its Quadjets Sooner Than Expected",
-    "summary": "The carrier's accelerated fleet transformation reflects a broader industry pivot towards efficiency and sustainability.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T11:00:18Z",
-    "url": "https://simpleflying.com/lufthansa-goodbye-quadjets-sooner-expected/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6830e1544e5d",
-    "title": "Schiphol gives discount to airlines to ease Iran war impact at own expense",
-    "summary": "Amsterdam Schiphol Airport (AMS) is offering airlines a discount to ease the impact of the war in Iran,&#8230; The post Schiphol gives discount to airlines to ease Iran war impact at own expense appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-24T09:40:13Z",
-    "url": "https://www.aerotime.aero/articles/amsterdam-schiphol-airport-discount-airlines-iran-war",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d529e355e7ec",
-    "title": "The Real Reason Why United Airlines Won't Retire Its Boeing 767 Fleet Yet",
-    "summary": "Have you ever wondered why the carrier is still flying aircraft up to 30 years old?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T05:00:17Z",
-    "url": "https://simpleflying.com/real-reason-united-airlines-wont-retire-boeing-767-fleet/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "894d20e3bfe6",
-    "title": "American Airlines Redefines New York JFK With A Brand New Terminal 8 Experience",
-    "summary": "The airline is bringing a taste of the city to the terminal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T00:00:18Z",
-    "url": "https://simpleflying.com/american-airlines-redefines-new-york-jfk-experience-new-t8/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4b927b81b185",
-    "title": "American Airlines Redefines New York-JFK With A Brand New Terminal 8 Experience",
-    "summary": "The airline is bringing a taste of the city to the terminal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T00:00:18Z",
-    "url": "https://simpleflying.com/american-airlines-redefines-new-york-jfk-experience-new-t8/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4ec666597caf",
-    "title": "Air Force One Can Refuel In Mid-Air, But Here's Why It Rarely Does",
-    "summary": "This unique feature is reserved for only the most demanding missions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-23T23:00:17Z",
-    "url": "https://simpleflying.com/af-1-refuel-mid-air-why-rarely-does/",
     "airlineTag": null,
     "isBreaking": false
   }
