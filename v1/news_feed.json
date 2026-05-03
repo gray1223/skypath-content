@@ -1,5 +1,104 @@
 [
   {
+    "id": "e0aad8e55b16",
+    "title": "China Eastern A350 strikes jet bridge in Shanghai: video",
+    "summary": "A China Eastern Airlines Airbus A350-900 collided with a passenger boarding bridge in Shanghai, prompting an official investigation.&#8230; The post China Eastern A350 strikes jet bridge in Shanghai: video appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-03T12:41:16Z",
+    "url": "https://www.aerotime.aero/articles/china-eastern-a350-strikes-jet-bridge-in-shanghai-video",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ab961e2d74b",
+    "title": "EgyptAir takes delivery of first Boeing 737 MAX as fleet renewal begins",
+    "summary": "EgyptAir has taken delivery of its first Boeing 737 MAX 8, marking the start of a broader fleet&#8230; The post EgyptAir takes delivery of first Boeing 737 MAX as fleet renewal begins appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-03T12:22:58Z",
+    "url": "https://www.aerotime.aero/articles/egyptair-takes-delivery-of-first-boeing-737-max-as-fleet-renewal-begins",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bb35e19180ba",
+    "title": "Southwest Honors Spirit Captain After His Retirement Flight Was Axed",
+    "summary": "Such generous actions show that camaraderie, unity, and support are possible, even amongst competitors in the market!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T09:27:57Z",
+    "url": "https://simpleflying.com/southwest-honors-spirit-captain-retirement-flight-axed/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a6b8ccf3ab1f",
+    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
+    "summary": "The legacy carrier is ultimately is changing its service guidelines for flights based on distance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T08:54:28Z",
+    "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "74ec3d10ad87",
+    "title": "\u201cIs Anybody Working?\u201d: Delta Passenger's Gate Rant As Airline Cancels 400+ Flights",
+    "summary": "Delta's record of operational excellence has been tested in recent months.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T08:25:44Z",
+    "url": "https://simpleflying.com/delta-passenger-gate-rant-400-flight-cancellations/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "aae28cda9032",
+    "title": "Why This Air Force Had No Rule Against Fighter Pilots Taking Selfies",
+    "summary": "How distracted flying changed air force policy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T07:00:19Z",
+    "url": "https://simpleflying.com/why-air-force-no-rule-fighter-pilots-selfies/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "90168c529a86",
+    "title": "From 1st To 6th: DOT Data Proves Delta Is No Longer America's Most Reliable Airline",
+    "summary": "The January Air Travel Consumer Report reveals a shocking 2.45% cancellation rate for Delta.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T04:12:47Z",
+    "url": "https://simpleflying.com/delta-dot-reliability-ranking-2026/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "b27f01594433",
+    "title": "The Simple Flying Podcast Episode 289: American Airlines Raising $1 Billion For Aircraft, Air Canada's 1st Airbus A321XLR, & Boeing 777X Timeline",
+    "summary": "Join Tom & Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T04:00:41Z",
+    "url": "https://simpleflying.com/podcast-289/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "730d2b9593a2",
+    "title": "The Striking Differences Between United's Polaris Studio, Delta One Suites & Qatar's Qsuite In 2026",
+    "summary": "These are the striking differences between some of the best business class products in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T04:00:21Z",
+    "url": "https://simpleflying.com/striking-differences-united-polaris-studio-delta-one-suites-qatar-qsuite-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "d3aeb9c6b573",
     "title": "How The B-2 Spirit's Low-Observable Coating Protects The Aircraft From Ground-Based Radar Systems",
     "summary": "The unique qualities of the Flying Dorito.",
@@ -41,17 +140,6 @@
     "publishedDate": "2026-05-02T22:00:18Z",
     "url": "https://simpleflying.com/modern-airspace-closures-reshuffled-global-aviation/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a6b8ccf3ab1f",
-    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
-    "summary": "The legacy carrier is ultimately is changing its service guidelines for flights based on distance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-02T18:58:15Z",
-    "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
   {
@@ -248,7 +336,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-01T19:54:49Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/01/more-than-a-scholarship?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/01/more-than-a-scholarship?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +600,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-30T22:06:05Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/30/rhode-island-airport-board-seeks-runway-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/30/rhode-island-airport-board-seeks-runway-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-30T18:16:52Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/30/florida-becomes-second-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/30/florida-becomes-second-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1205,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-28T23:07:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-24T22:33:12Z",
     "url": "https://simpleflying.com/australia-middle-east-routes-23-daily-flights-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5af0300d4f40",
-    "title": "Trump-Owned? President Considers Buying Spirit Airlines If \u2018The Price Is Right\u2019",
-    "summary": "Could the future of Spirit Airlines lie in the hands of President Trump?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T21:41:38Z",
-    "url": "https://simpleflying.com/president-considers-buying-spirit-airlines-price-right/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6fa9746c5f2f",
-    "title": "FAA grounds Blue Origin\u2019s New Glenn rocket after satellite mishap",
-    "summary": "The Federal Aviation Administration (FAA) has grounded Blue Origin\u2019s New Glenn rocket after an upper-stage problem placed an&#8230; The post FAA grounds Blue Origin\u2019s New Glenn rocket after satellite mishap appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-24T19:41:07Z",
-    "url": "https://www.aerotime.aero/articles/faa-grounds-blue-origins-new-glenn-rocket-after-satellite-mishap",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8107a3178226",
-    "title": "Video: The Neuroscience of Flight Anxiety",
-    "summary": "In the cockpit, what feels routine to a pilot can feel anything but to our passengers.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-24T18:42:27Z",
-    "url": "https://avweb.com/multimedia/votw/video-neuroscience-of-flight-anxiety/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "43d3bda1e104",
-    "title": "US Air Force Base Shuts Down After Violent Tornado Leaves Catastrophic Damage",
-    "summary": "A sudden and violent tornado tears through Vance Air Force Base, forcing a closure of the critical military installation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T18:04:33Z",
-    "url": "https://simpleflying.com/usaf-base-shuts-down-violent-tornado-catastrophic-damage/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "48bbf523c13e",
-    "title": "Top 5: These Are The Largest US Air Force Bases By Runway Length",
-    "summary": "At the top of the list, a 15,024-foot runway pushes the boundaries of what's possible",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T17:30:18Z",
-    "url": "https://simpleflying.com/largest-us-air-force-bases-by-runway-length/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3eebd4974a4a",
-    "title": "FAA abandons drone restrictions near ICE vehicles after lawsuit",
-    "summary": "The Federal Aviation Administration (FAA) has withdrawn US drone restrictions that barred flights near federal immigration enforcement vehicles&#8230; The post FAA abandons drone restrictions near ICE vehicles after lawsuit appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-24T16:11:38Z",
-    "url": "https://www.aerotime.aero/articles/faa-abandons-drone-restrictions-ice-vehicles-lawsuit",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4f559aec43fb",
-    "title": "NWS Proposes Shift From VOR Reference Points for Aviation Weather",
-    "summary": "Agency seeks comments on transition tied to FAA navigation changes.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-24T15:24:44Z",
-    "url": "https://avweb.com/aviation-news/nws-may-shift-from-vor-aviation-weather/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dafe85e4c72a",
-    "title": "Air Canada takes delivery of first Airbus A321XLR",
-    "summary": "Air Canada took delivery of its first Airbus A321XLR on April 24, 2026, during a ceremony at the&#8230; The post Air Canada takes delivery of first Airbus A321XLR appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-24T15:15:33Z",
-    "url": "https://www.aerotime.aero/articles/air-canada-first-a321xlr-delivery-hamburg",
     "airlineTag": null,
     "isBreaking": false
   }
