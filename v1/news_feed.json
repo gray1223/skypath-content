@@ -1,5 +1,49 @@
 [
   {
+    "id": "8d1a8a19b3b6",
+    "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
+    "summary": "British Airways is hiring $100,000 taxi pilots at Chicago O\u2019Hare, aiming to cut delays and improve efficiency with dedicated ground-based crews.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-05-03T18:55:11Z",
+    "url": "https://simpleflying.com/british-airways-will-pay-pilots-100k-a-year-to-taxi-ohare/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b166c95a5a07",
+    "title": "The People\u2019s Carrier: Movement To Restart Spirit Airlines Reaches $22 Million In Pledges",
+    "summary": "Grassroots supporters have pledged $22 million to revive Spirit Airlines as a community-owned carrier inspired by the Green Bay Packers model.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T18:20:25Z",
+    "url": "https://simpleflying.com/movement-restart-spirit-airlines-reach-22-million-pledges/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "11a61e0d2702",
+    "title": "UAE restores full airspace operations after regional conflict disruption",
+    "summary": "The General Civil Aviation Authority (GCAA) has confirmed that all flight restrictions imposed during the recent regional conflict&#8230; The post UAE restores full airspace operations after regional conflict disruption appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-05-03T14:12:08Z",
+    "url": "https://www.aerotime.aero/articles/uae-restores-full-airspace-operations-after-regional-conflict-disruption",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c840915041d0",
+    "title": "The New Delta Air Lines Long-Haul Aircraft Coming In 2027",
+    "summary": "A look at what these planes will bring to Delta, where they could fly, how they fit into Delta's network, and what they may look like on the inside.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T13:31:19Z",
+    "url": "https://simpleflying.com/new-delta-air-lines-long-haul-aircraft-coming-in-2027/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "e0aad8e55b16",
     "title": "China Eastern A350 strikes jet bridge in Shanghai: video",
     "summary": "A China Eastern Airlines Airbus A350-900 collided with a passenger boarding bridge in Shanghai, prompting an official investigation.&#8230; The post China Eastern A350 strikes jet bridge in Shanghai: video appeared first on AeroTime.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-25T07:16:16Z",
     "url": "https://simpleflying.com/ryanair-berlin-base-closure-fee/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "912831507266",
-    "title": "The World's Largest Air Forces By Number Of Bombers",
-    "summary": "The world's biggest fleet of 'big wing' warbirds.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T05:00:16Z",
-    "url": "https://simpleflying.com/worlds-largest-air-forces-number-bombers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "50326007a226",
-    "title": "Piaggio books first order for newly launched Avanti NX pusher turboprop",
-    "summary": "Piaggio Aerospace has secured the first customer order for the P.180 Avanti NX, marking the initial sale of&#8230; The post Piaggio books first order for newly launched Avanti NX pusher turboprop appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-25T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/piaggio-books-first-avanti-nx-order-aero-launch",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "194787fbef03",
-    "title": "How The Fairchild Republic A-10 Warthog's Unique Design Ensures Pilot Survivability",
-    "summary": "The aircraft has numerous features that are purpose built for pilot safety and durability in contested airspace.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T00:00:17Z",
-    "url": "https://simpleflying.com/fairchild-republic-a-10-warthog-unique-design-pilot-surviability/",
-    "airlineTag": "Republic Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "080c78062814",
-    "title": "Australia-Middle East Routes: Massive 23 Daily Nonstop Flights In 2026 [List]",
-    "summary": "Emirates leads the pack as the airline with the highest frequency of services to and from Australia, flying a total of ten daily services from Dubai.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T22:33:12Z",
-    "url": "https://simpleflying.com/australia-middle-east-routes-23-daily-flights-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
