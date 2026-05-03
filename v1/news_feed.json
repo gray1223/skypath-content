@@ -1,8 +1,52 @@
 [
   {
+    "id": "d3aeb9c6b573",
+    "title": "How The B-2 Spirit's Low-Observable Coating Protects The Aircraft From Ground-Based Radar Systems",
+    "summary": "The unique qualities of the Flying Dorito.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T01:00:18Z",
+    "url": "https://simpleflying.com/b-2-spirit-stealth-coating-radar-protection/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aa7021955041",
+    "title": "The World's Most Delayed Long-Haul Routes In 2026",
+    "summary": "The 2026 aviation world is a puzzle. Conflict, fuel shortages, and new border checks mean one-in-four flights are delayed.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T00:00:18Z",
+    "url": "https://simpleflying.com/worlds-most-delayed-long-haul-routes-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8cf085f736ff",
+    "title": "How The SR-71 Blackbird's Titanium Skin Protected Pilots From Temperatures Above 300\u00b0C",
+    "summary": "Inside the fastest jet that ever flew.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T23:00:18Z",
+    "url": "https://simpleflying.com/sr-71-blackbird-titanium-skin-heat-protection/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "69cd329c9433",
+    "title": "How Modern Airspace Closures Quietly Reshuffled Global Aviation",
+    "summary": "There have been multiple airspace closures in recent years - what impact have these had on the commercial aviation industry?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-02T22:00:18Z",
+    "url": "https://simpleflying.com/modern-airspace-closures-reshuffled-global-aviation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a6b8ccf3ab1f",
     "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
-    "summary": "Delta ultimately is changing its service guidelines for flights based on distance.",
+    "summary": "The legacy carrier is ultimately is changing its service guidelines for flights based on distance.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-05-02T18:58:15Z",
@@ -13,7 +57,7 @@
   {
     "id": "4ea6ad321afa",
     "title": "\u201cConsistency Is Important\u201d: American Airlines Hints At Imminent Return Of Seatback Screens",
-    "summary": "Could the time be near for American Airlines to reverse its 2017 decision to remove seat back screens on short-haul aircraft?",
+    "summary": "The airline could reverse its 2017 decision which was aimed at reducing aircraft weight.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-05-02T18:20:27Z",
@@ -204,7 +248,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-01T19:54:49Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/01/more-than-a-scholarship?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/01/more-than-a-scholarship?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -468,7 +512,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-30T22:06:05Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/30/rhode-island-airport-board-seeks-runway-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/30/rhode-island-airport-board-seeks-runway-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -534,7 +578,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-30T18:16:52Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/30/florida-becomes-second-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/30/florida-becomes-second-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1073,7 +1117,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-04-28T23:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-24T15:15:33Z",
     "url": "https://www.aerotime.aero/articles/air-canada-first-a321xlr-delivery-hamburg",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3b2eff2b0dc8",
-    "title": "In 1 Week: Emirates' Massive New 569-Seat Airbus A380 Debuts",
-    "summary": "Emirates' first commercial flight on the brand-new, 569-seat Airbus A380 is set to take place on May 1. Find out more!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T14:01:07Z",
-    "url": "https://simpleflying.com/in-1-week-emirates-massive-new-569-seat-airbus-a380-debuts/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bc52838171f4",
-    "title": "Why Does The US Air Force Still Rely On The KC-135 Stratotanker?",
-    "summary": "Despite its age, the Stratotanker remains the backbone of the US Air Force's aerial refueling fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T14:01:07Z",
-    "url": "https://simpleflying.com/why-usaf-rely-kc-135-tanker/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "afc3b82196dc",
-    "title": "JetBlue Faces Federal Lawsuit Over Alleged 'Surveillance Pricing' With Customer Data",
-    "summary": "The New York-based carrier could be in hot water.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T13:07:00Z",
-    "url": "https://simpleflying.com/jetblue-lawsuit-surveillance-pricing/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "9d0b2f940342",
-    "title": "Out Of Nowhere!? Lufthansa Shuts Down CityLine Subsidiary Overnight",
-    "summary": "On April 16th, German airline group Lufthansa said it would be shutting down its CityLine regional subsidiary with near immediate effect, citing several key reasons for its decision. And while the airline group was planning to shut down this subsidiary in 2027, the recent move...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-24T12:24:17Z",
-    "url": "https://simpleflying.com/video/out-of-nowhere-lufthansa-shuts-down-cityline-subsidiary-overnight/",
     "airlineTag": null,
     "isBreaking": false
   }
