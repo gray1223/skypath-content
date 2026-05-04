@@ -1,5 +1,60 @@
 [
   {
+    "id": "28763af4e99f",
+    "title": "What United Airlines' Relax Row Economy Beds Actually Cost Vs. Premium Economy On Long-Haul Flights",
+    "summary": "The sky bed offers economy passengers a cheaper sleep-focused alternative to Premium Plus on long-haul international flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T08:01:17Z",
+    "url": "https://simpleflying.com/united-relax-row-cost-vs-premium-economy/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a6b8ccf3ab1f",
+    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
+    "summary": "The legacy carrier is ultimately is changing its service guidelines for flights based on distance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T05:53:41Z",
+    "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "bb35e19180ba",
+    "title": "Southwest Honors Spirit Captain After His Retirement Flight Was Axed",
+    "summary": "Such generous actions show that camaraderie, unity, and support are possible, even amongst competitors in the market!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T04:05:34Z",
+    "url": "https://simpleflying.com/southwest-honors-spirit-captain-retirement-flight-axed/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "951cd53feb12",
+    "title": "UK allows airlines to cut flights early amid fuel shortage concerns",
+    "summary": "The UK government has introduced emergency measures allowing airlines to cancel or consolidate flights in advance, as part&#8230; The post UK allows airlines to cut flights early amid fuel shortage concerns appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-04T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/uk-allows-airlines-to-cut-flights-early-amid-fuel-shortage-concerns",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "025b1895ebab",
+    "title": "Niche by design: ATR\u2019s CCO on the turboprop as a regional connectivity tool",
+    "summary": "Few manufacturers can claim ownership of a specific market niche, but it would appear ATR is one of&#8230; The post Niche by design: ATR\u2019s CCO on the turboprop as a regional connectivity tool appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-04T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/niche-by-design-atrs-cco-on-the-turboprop-as-a-regional-connectivity-tool",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "47125b087bf9",
     "title": "Too Low: United Airlines Boeing 767-400ER Collides With Bakery Truck & Light Pole In Newark",
     "summary": "A widebody jet knocks a truck off the road at EWR.",
@@ -118,28 +173,6 @@
     "publishedDate": "2026-05-03T12:22:58Z",
     "url": "https://www.aerotime.aero/articles/egyptair-takes-delivery-of-first-boeing-737-max-as-fleet-renewal-begins",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb35e19180ba",
-    "title": "Southwest Honors Spirit Captain After His Retirement Flight Was Axed",
-    "summary": "Such generous actions show that camaraderie, unity, and support are possible, even amongst competitors in the market!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-03T09:27:57Z",
-    "url": "https://simpleflying.com/southwest-honors-spirit-captain-retirement-flight-axed/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a6b8ccf3ab1f",
-    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
-    "summary": "The legacy carrier is ultimately is changing its service guidelines for flights based on distance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-03T08:54:28Z",
-    "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
   {
@@ -2163,39 +2196,6 @@
     "category": "military",
     "publishedDate": "2026-04-25T18:50:11Z",
     "url": "https://simpleflying.com/fuel-math-killed-lufthansa-cityline-bombardier-crj900-fleet-overnight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8bb253198fff",
-    "title": "6 Years In The Desert: American Airlines' A330s Resurrected By Vietnam's Newest Airline",
-    "summary": "The widebodies have spent half their life in long-term storage.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T18:28:39Z",
-    "url": "https://simpleflying.com/american-airlines-airbus-a330-sun-phuquoc-vietnam/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a7735d6774a2",
-    "title": "6 Airlines With The World's Most Impressive First Class Dining Experiences In 2026",
-    "summary": "These carriers offer unusually lavish accommodations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T18:00:18Z",
-    "url": "https://simpleflying.com/6-airlines-worlds-most-impressive-first-class-dining-experiences-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79d0f9a3618f",
-    "title": "Why The Airbus A220 Is Becoming More Attractive To US Airlines",
-    "summary": "The aircraft efficiently caters to a unique segment of the market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T18:00:18Z",
-    "url": "https://simpleflying.com/airbus-a220-more-attractive-us-airlines/",
     "airlineTag": null,
     "isBreaking": false
   }
