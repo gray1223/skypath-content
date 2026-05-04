@@ -1,5 +1,60 @@
 [
   {
+    "id": "47125b087bf9",
+    "title": "Too Low: United Airlines Boeing 767-400ER Collides With Bakery Truck & Light Pole In Newark",
+    "summary": "A widebody jet knocks a truck off the road at EWR.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T02:34:47Z",
+    "url": "https://simpleflying.com/tire-united-airlines-boeing-767-400er-collide-bakery-truck-light-pole-newark/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "783871066a6f",
+    "title": "United Boeing 767 hits truck, light pole on approach to Newark Airport",
+    "summary": "A United Airlines Boeing 767-400 arriving at Newark Liberty International Airport (EWR) hit a tractor-trailer and struck a&#8230; The post United Boeing 767 hits truck, light pole on approach to Newark Airport appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-04T01:18:18Z",
+    "url": "https://www.aerotime.aero/articles/united-767-hits-truck-light-pole-newark-airport",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4204916df990",
+    "title": "Flight Attendant Attack & Cockpit Breach Attempt: Newark United Airlines Passenger Detained",
+    "summary": "The crew declared an emergency as a result of the incident.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T22:04:35Z",
+    "url": "https://simpleflying.com/fa-attack-cockpit-breach-newark-united-airlines-passenger-detained/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "61e3f8b31b43",
+    "title": "5 Fighter Jets Still In Active USAF Service In 2026 That Are Older Than Many Of The Pilots Flying Them",
+    "summary": "From the F-22 to the T-38, these USAF jets in 2026 are decades older than their pilots\u2014yet remain vital to American airpower and training.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-03T20:00:19Z",
+    "url": "https://simpleflying.com/usaf-fighter-jets-active-2026-older-than-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7ba78208c012",
+    "title": "A Look At The Salaries Of Widebody Cargo Pilots In 2026",
+    "summary": "High pay, shorter upgrade timelines, and strong benefits make flying cargo an attractive route today.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-05-03T19:01:19Z",
+    "url": "https://simpleflying.com/salaries-widebody-cargo-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8d1a8a19b3b6",
     "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
     "summary": "British Airways is hiring $100,000 taxi pilots at Chicago O\u2019Hare, aiming to cut delays and improve efficiency with dedicated ground-based crews.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-25T18:00:18Z",
     "url": "https://simpleflying.com/airbus-a220-more-attractive-us-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5db2d766ad43",
-    "title": "Why A US Air Force C-130 Hercules Was Parked At A Civilian Airport In Ireland",
-    "summary": "How a USAF airlifter came to be in the wrong place at the wrong time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T16:00:19Z",
-    "url": "https://simpleflying.com/us-air-force-c-130-hercules-ireland-airport/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7a9deef48fb7",
-    "title": "U.S. Food Delivery Drones Now Carry More Than 8 Pounds",
-    "summary": "Flytrex\u2019s Sky2 has a payload of up to 8.8 pounds, enough to carry two large pizzas.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-25T12:00:00Z",
-    "url": "https://www.flyingmag.com/food-delivery-drones-more-than-8-pounds-pizza/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba38b32376a9",
-    "title": "Tense Flights: Air Force One During America's Biggest Crises",
-    "summary": "When Air Force One was needed most.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T11:01:17Z",
-    "url": "https://simpleflying.com/air-force-one-america-biggesst-crises/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4168bfcb5517",
-    "title": "The Secret Visual Language Between Fighter Jets & Civilian Pilots That Decides How Nn Intercept Ends",
-    "summary": "Fighter jet intercepts follow a precise global \u201csilent language\u201d\u2014here\u2019s how wing rocks, flares, and breakaways decide every outcome.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T08:00:17Z",
-    "url": "https://simpleflying.com/fighter-jet-civilian-aircraft-intercept-signals/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "07bba01959f6",
-    "title": "Ryanair Abandons Berlin Base Following \"Unjustified\" Fee Hikes",
-    "summary": "The airline plans to close its base in October, as the airport will increase its charges and fees by 10% in 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T07:16:16Z",
-    "url": "https://simpleflying.com/ryanair-berlin-base-closure-fee/",
     "airlineTag": null,
     "isBreaking": false
   }
