@@ -1,5 +1,93 @@
 [
   {
+    "id": "67ac43aec70a",
+    "title": "Breaking the silence in aviation",
+    "summary": "When University of North Dakota aviation student and instrument-rated private pilot Spencer King disclosed an anxiety diagnosis to the FAA, he expected paperwork, not more than 500 days of waiting and thousands of dollars spent trying to get back into the cockpit.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-04T22:19:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/04/breaking-the-silence-in-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6a793ab51930",
+    "title": "Coalition Asks FAA To Review Slackline Obstruction Risks",
+    "summary": "The request follows a fatal January accident near Superior, Arizona.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-04T18:28:13Z",
+    "url": "https://avweb.com/aviation-news/coalition-asks-faa-review-slackline-risks/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0e9fdaf50aa",
+    "title": "Switzerland Bound: United Airlines To Bring Luxury Boeing 787-9 To Zurich As 3rd Destination",
+    "summary": "United Airlines is set to launch its most premium-configured Boeing 787-9 Dreamliner on a new route to Zurich.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T18:11:19Z",
+    "url": "https://simpleflying.com/united-airlines-luxury-boeing-787-zurich-third-destination/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f4143a821093",
+    "title": "Former Spirit Pilots Await Paychecks, Next Steps",
+    "summary": "Airline will cover former employees\u2019 trips home but has not yet paid out final paychecks.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-04T17:30:00Z",
+    "url": "https://www.flyingmag.com/former-spirit-pilots-await-final-paychecks/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9f479bb56c98",
+    "title": "Breeze Airways & JetBlue Launch 15 Exciting New Routes [Full List]",
+    "summary": "The end of Spirit has left a void, but other carriers like Breeze and JetBlue are quickly stepping in. Check out where they'll fly now!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T17:00:19Z",
+    "url": "https://simpleflying.com/breeze-airways-jetblue-launch-15-exciting-new-routes-full-list/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "b166c95a5a07",
+    "title": "The People\u2019s Carrier: Movement To Restart Spirit Airlines Reaches $22 Million In Pledges",
+    "summary": "Grassroots supporters have pledged to revive the airline as a community-owned carrier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T16:39:07Z",
+    "url": "https://simpleflying.com/movement-restart-spirit-airlines-reach-22-million-pledges/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "06c7062bbb34",
+    "title": "The Boeing 757 Punches Its Way Back Into Premium Transatlantic Flying",
+    "summary": "French airline La Compagnie will operate the beloved Boeing 757 on all-business class transatlantic flights this summer.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T16:00:18Z",
+    "url": "https://simpleflying.com/boeing-757-premium-transatlantic-comeback/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3606cee7693e",
+    "title": "9 New Transatlantic Routes This Week: 7 Airlines Launch These Exciting Flights",
+    "summary": "Discover them all, with several being brand-new routes...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T15:01:18Z",
+    "url": "https://simpleflying.com/9-new-transatlantic-routes-this-week-7-airlines-launch-these-exciting-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c0ee56f2156c",
     "title": "CycloKinetics Is Quietly Helping U.S. Military Craft Fly Farther, Faster",
     "summary": "Company develops advanced propellants that also enable longer and higher altitude operations.",
@@ -172,17 +260,6 @@
     "category": "hiring",
     "publishedDate": "2026-05-03T18:55:11Z",
     "url": "https://simpleflying.com/british-airways-will-pay-pilots-100k-a-year-to-taxi-ohare/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b166c95a5a07",
-    "title": "The People\u2019s Carrier: Movement To Restart Spirit Airlines Reaches $22 Million In Pledges",
-    "summary": "Grassroots supporters have pledged $22 million to revive Spirit Airlines as a community-owned carrier inspired by the Green Bay Packers model.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-03T18:20:25Z",
-    "url": "https://simpleflying.com/movement-restart-spirit-airlines-reach-22-million-pledges/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-04-26T07:00:17Z",
     "url": "https://simpleflying.com/air-force-one-billion-dollar-headache/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59e348268cb9",
-    "title": "Spotted: Boeing\u2019s 1st 777-8 Freighter Rolls Out In Everett",
-    "summary": "The first Boeing 777-8F has completed its rollout, marking a significant milestone in the production of the next-generation cargo air transport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T04:58:18Z",
-    "url": "https://simpleflying.com/boeing-1st-777-8-rolls-out-everett/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3569d446f5fe",
-    "title": "5 Airlines' Business Class Seats With The World's Longest Flat Beds In 2026",
-    "summary": "You'll never have issues sleeping on these carriers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T04:00:21Z",
-    "url": "https://simpleflying.com/5-airlines-business-class-worlds-longest-flat-beds-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cff10f707968",
-    "title": "Why Does The US Air Force Still Rely On The A-10 Warthog?",
-    "summary": "Discover why despite years of retirement pressure, the A-10 Warthog remains in service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T01:00:18Z",
-    "url": "https://simpleflying.com/why-usaf-still-rely-a-10-warthog/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "635177b7b2cb",
-    "title": "Tough Luck: United Airlines Grounds New Premium Boeing 787-9 After 1st Long-Haul Flight",
-    "summary": "The aircraft is equipped with the carrier's new elevated interior.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T00:25:09Z",
-    "url": "https://simpleflying.com/united-airlines-grounds-new-premium-boeing-787-9-1st-long-haul-flight/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5f361d8db831",
-    "title": "8 US Airlines With The Highest Captain Salaries In 2026",
-    "summary": "The cockpit's left seat has plenty to offer financially.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T00:00:18Z",
-    "url": "https://simpleflying.com/8-us-airlines-highest-captain-salaries-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a41f0c2012f2",
-    "title": "Back From The Desert: How 190 Airbus A380s Became Airlines' Most Valuable Asset In 2026",
-    "summary": "This is why some airlines still love the Airbus A380 in 2026, despite production ending years ago.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T23:00:17Z",
-    "url": "https://simpleflying.com/190-airbus-a380s-airlines-most-valuable-asset-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8d68e199144b",
-    "title": "The New Upgrade Policy Changes That Delta Air Lines Elite Members Should Know About In 2026",
-    "summary": "Delta\u2019s 2026 elite changes boost perks but slash upgrade odds\u2014here\u2019s how Medallion members can still win in a revenue-driven loyalty era.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T22:00:17Z",
-    "url": "https://simpleflying.com/new-upgrade-policy-changes-delta-air-lines-elite-members-know-2026/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
