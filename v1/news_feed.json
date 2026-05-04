@@ -1,5 +1,60 @@
 [
   {
+    "id": "c0ee56f2156c",
+    "title": "CycloKinetics Is Quietly Helping U.S. Military Craft Fly Farther, Faster",
+    "summary": "Company develops advanced propellants that also enable longer and higher altitude operations.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-04T13:00:00Z",
+    "url": "https://www.flyingmag.com/cyclokinetics-fuel-military-farther-faster/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e4bb0f07fa87",
+    "title": "Emirates returns to near-full operations with 96% of global network restored",
+    "summary": "Emirates announced that it has restored 96% of its global network following weeks of disruption caused by regional&#8230; The post Emirates returns to near-full operations with 96% of global network restored appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-05-04T12:14:18Z",
+    "url": "https://www.aerotime.aero/articles/emirates-returns-to-near-full-operations-with-96-of-global-network-restored",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8fc03cc24e3d",
+    "title": "Lufthansa Suspends Flights On 25 Routes: See All Changes Now",
+    "summary": "The airline has adjusted its European network significantly, with more changes coming.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T12:00:18Z",
+    "url": "https://simpleflying.com/lufthansa-suspends-flights-on-25-routes-see-all-changes-now/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0184de4d3b09",
+    "title": "End Of An Era: Final Spirit Airlines Flight Lands In Dallas As Carrier Confirms Shutdown",
+    "summary": "By now, many of you are aware that Spirit Airlines has ceased operations. Indeed, the last Spirit Airlines flight \u2014 flight NK1833 from Detroit to Dallas/Fort Worth \u2014 touched down shortly after midnight in the early hours of Saturday, May 2nd, marking the end of 34 years of ope...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T11:08:13Z",
+    "url": "https://simpleflying.com/video/end-of-an-era-final-spirit-airlines-flight-lands-in-dallas-as-carrier-confirms-shutdown/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a8d9e21bf29b",
+    "title": "Delta, American and United step in with rescue fares after Spirit collapses",
+    "summary": "Delta Air Lines, American Airlines, and United Airlines are offering discounted fares and job opportunities to support passengers&#8230; The post Delta, American and United step in with rescue fares after Spirit collapses appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-04T10:54:59Z",
+    "url": "https://www.aerotime.aero/articles/delta-american-and-united-step-in-with-rescue-fares-after-spirit-collapses",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "28763af4e99f",
     "title": "What United Airlines' Relax Row Economy Beds Actually Cost Vs. Premium Economy On Long-Haul Flights",
     "summary": "The sky bed offers economy passengers a cheaper sleep-focused alternative to Premium Plus on long-haul international flights.",
@@ -392,17 +447,6 @@
     "category": "industry",
     "publishedDate": "2026-05-02T09:46:13Z",
     "url": "https://www.aerotime.aero/articles/spirit-airlines-collapses-ceases-all-operations",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0184de4d3b09",
-    "title": "End Of An Era: Final Spirit Airlines Flight Lands In Dallas As Carrier Confirms Shutdown",
-    "summary": "The last Spirit flight has touched down in Dallas, marking the end of the ultra-low-cost carrier's operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-02T08:18:45Z",
-    "url": "https://simpleflying.com/spirit-airlines-final-flight-dallas-shutdown/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-04-25T22:00:17Z",
     "url": "https://simpleflying.com/new-upgrade-policy-changes-delta-air-lines-elite-members-know-2026/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "54e281d577e5",
-    "title": "5 US Airports With The Potential To Become Legacy Airline Hubs",
-    "summary": "These airports are on the rise.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T21:30:18Z",
-    "url": "https://simpleflying.com/us-airports-with-potential-become-legacy-hubs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "290c651aaef2",
-    "title": "New Doomsday: Ex-Passenger Boeing 747-8 Continues Test Flights Ahead Of Air Force Delivery",
-    "summary": "Once a passenger jet, the mysterious plane has been spotted taking to the skies above Dayton, Ohio.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T21:12:08Z",
-    "url": "https://simpleflying.com/doomsday-ex-passenger-boeing-747-8-tests-flights-ahead-air-force-delivery/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f7625b0c82cc",
-    "title": "US Watchdog Slams FAA Inaction On Boeing 737 MAX Cabin Smoke Risk",
-    "summary": "Unresolved safety concerns persist with the Load Reduction Device (LRD) on Boeing 737 MAX aircraft, despite software updates and procedural changes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-25T20:28:23Z",
-    "url": "https://simpleflying.com/boeing-737-max-cabin-smoke-faa-watchdog/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "063026fbac25",
-    "title": "The Fuel Math That Killed Lufthansa CityLine's Bombardier CRJ900 Fleet Overnight",
-    "summary": "Lufthansa accelerated the shutdown of CityLine, absorbing short-term disruption for long-term cost savings amid a fuel price crisis.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-25T18:50:11Z",
-    "url": "https://simpleflying.com/fuel-math-killed-lufthansa-cityline-bombardier-crj900-fleet-overnight/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
