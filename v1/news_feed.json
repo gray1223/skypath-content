@@ -1,5 +1,38 @@
 [
   {
+    "id": "04cd797bc462",
+    "title": "Why NATO's Most Advanced American Fighter Jet Is Now Being Built In Italy",
+    "summary": "The epicenter of Europe's stealth air power lies just outside Milan.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T00:01:18Z",
+    "url": "https://simpleflying.com/nato-advanced-american-fighter-jet-now-built-italy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a6de57e5c5f7",
+    "title": "91 Jets Across 26 Airports: Inside Spirit Airlines\u2019 Ferry Flights & Who\u2019s Flying Them",
+    "summary": "Stranded across the airline's network, Spirit Airlines' fleet of bright yellow aircraft now sit idle at 26 airports across the United States.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T23:26:14Z",
+    "url": "https://simpleflying.com/inside-spirit-airlines-ferry-flights-whos-flying/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f85556691932",
+    "title": "5 Airports Most Likely To See More JetBlue Flights Soon And What It Means For Passengers",
+    "summary": "JetBlue is not replacing Spirit everywhere \u2014 only where its network gives it an edge.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T22:27:22Z",
+    "url": "https://simpleflying.com/five-airports-likely-jetblue-flights-passengers/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "67ac43aec70a",
     "title": "Breaking the silence in aviation",
     "summary": "When University of North Dakota aviation student and instrument-rated private pilot Spencer King disclosed an anxiety diagnosis to the FAA, he expected paperwork, not more than 500 days of waiting and thousands of dollars spent trying to get back into the cockpit.",
@@ -7,6 +40,72 @@
     "category": "training",
     "publishedDate": "2026-05-04T22:19:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/04/breaking-the-silence-in-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20c4a1e51eeb",
+    "title": "United Airlines Just Slashed 18,200 Chicago O'Hare Flights For June-August 2026",
+    "summary": "As United Airlines cuts 18,190 flights from its Chicago network, 11 cities will see no services from O'Hare.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T22:16:13Z",
+    "url": "https://simpleflying.com/united-airlines-cuts-18200-ohare-flights-june-august-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "da8e0dfc9549",
+    "title": "No More Premium Economy? This Airline's New Lie-Flat Beds Designed For 5-Hour Flights",
+    "summary": "A closer look at how Cathay Pacific will upgrade its business class offering on Asian routes, and how this fits with its overall strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T22:00:21Z",
+    "url": "https://simpleflying.com/airline-new-lie-flat-beds-designed-5-hour-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5b1f2cb383ee",
+    "title": "The Striking Differences Between Delta Premium Select & United Premium Plus",
+    "summary": "Despite enormous similarities, there are striking differences between the premium economy products on these two American giants.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T21:30:20Z",
+    "url": "https://simpleflying.com/striking-differences-between-delta-premium-select-united-premium-plus/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e708b2b75df0",
+    "title": "Dramatic image shows moment a United 767 hit truck on approach to Newark Airport",
+    "summary": "A newly surfaced airport security camera image appears to show the moment a United Airlines Boeing 767-400 hit&#8230; The post Dramatic image shows moment a United 767 hit truck on approach to Newark Airport appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-04T21:03:31Z",
+    "url": "https://www.aerotime.aero/articles/dramatic-image-united-767-truck-newark-airport",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a370a7b09abf",
+    "title": "UAE signs deal for as many as 20 Embraer C-390 airlifters",
+    "summary": "The United Arab Emirates has selected the Embraer C-390 Millennium for its air force, signing a contract for&#8230; The post UAE signs deal for as many as 20 Embraer C-390 airlifters appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-04T20:17:25Z",
+    "url": "https://www.aerotime.aero/articles/uae-orders-embraer-c390-airlifters",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "7634b30d677b",
+    "title": "1 Aircraft, 3 Strategies: How The Airbus A321XLR Is Configured Differently Across 3 Continents",
+    "summary": "1 highly capable aircraft, 3 different strategies; the Airbus A321XLR is offering new capabilities for airlines globally, ushering in a new era.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-04T20:00:19Z",
+    "url": "https://simpleflying.com/how-airbus-a321xlr-configured-differently-3-continents/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-04-26T17:00:17Z",
     "url": "https://simpleflying.com/avelo-airlines-only-female-captain-sues-fired-reporting-safety-concerns/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b3b2338f22c4",
-    "title": "5 Airlines With The World's Most Generous Premium Economy Amenity Kits In 2026",
-    "summary": "Premium economy often serves as the lowest standard of amenity kit offerings, but here are five airlines that flip this notion on its head.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T16:00:18Z",
-    "url": "https://simpleflying.com/5-airlines-worlds-most-generous-premium-economy-amenity-kits-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d9fcd7574b6e",
-    "title": "Why The US Air Force Flew B-52s At 70 Degrees Of Bank While Connected To A Tanker",
-    "summary": "A viral video captured the US Air Force performing a seemingly impossible maneuver with a B-52 bomber.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T15:00:18Z",
-    "url": "https://simpleflying.com/b-52-70-degree-bank-aerial-refueling/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2a56ff460f51",
-    "title": "Southwest Baggage Rumor",
-    "summary": "Southwest Airlines was reportedly considering stripping basic economy passengers of their overhead bin access \u2013 a move that would require millions of its customers to purchase baggage access they enjoy for free under the current policy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T12:27:17Z",
-    "url": "https://simpleflying.com/video/southwest-baggage-rumor/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e607de76d35f",
-    "title": "Refueling Armada: 9 USAF Tankers Fly Through Gibraltar Gap Toward Middle East",
-    "summary": "The United States Air Force deploys nine KC-46A aerial refueling tankers to the Middle East to reinforce the assets already in the region.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T12:02:39Z",
-    "url": "https://simpleflying.com/nine-usaf-tankers-gibralter-gap-middle-east/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "771501378ad0",
-    "title": "This Airline Has The World's Most Affordable Business Class Bed In 2026",
-    "summary": "For those willing to forgo the usual bells and whistles of business class, a flat bed can be very affordable with ZIPAIR.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T10:00:17Z",
-    "url": "https://simpleflying.com/airline-worlds-most-affordable-business-class-bed-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bc36154ca51f",
-    "title": "Nepal requests heavy-lift aircraft instead of US helicopters under $100M grant",
-    "summary": "Nepal is seeking heavy-lift helicopters from the United States instead of six Bell 412 helicopters offered under a&#8230; The post Nepal requests heavy-lift aircraft instead of US helicopters under $100M grant appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-26T09:20:21Z",
-    "url": "https://www.aerotime.aero/articles/nepal-requests-heavy-lift-aircraft-instead-of-us-helicopters-under-100m-grant",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e9db0a584852",
-    "title": "US Navy\u2019s first production Boeing\u00a0MQ-25 Stingray completes maiden flight",
-    "summary": "The US Navy&#8217;s first production-representative Boeing MQ-25 Stingray completed its maiden flight on April 25, 2026, taking off&#8230; The post US Navy\u2019s first production Boeing MQ-25 Stingray completes maiden flight appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-26T08:43:21Z",
-    "url": "https://www.aerotime.aero/articles/us-navys-first-production-boeing-mq-25-stingray-completes-maiden-flight",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5b9571c10886",
-    "title": "Wizz Air And airBaltic Might Not Survive The Winter, Says Ryanair CEO",
-    "summary": "The continued unrest in the Middle East has seen the price of fuel rocket up, and airline share prices drop.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T08:25:05Z",
-    "url": "https://simpleflying.com/ryanair-ceo-wizz-air-airbaltic-bankruptcy-warning/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b5d070b48923",
-    "title": "Why Replacing Air Force One Has Become A Billion-Dollar Headache",
-    "summary": "The debacle of replacing America's most iconic 747.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T07:00:17Z",
-    "url": "https://simpleflying.com/air-force-one-billion-dollar-headache/",
     "airlineTag": null,
     "isBreaking": false
   }
