@@ -1,5 +1,126 @@
 [
   {
+    "id": "8990bf73f6d0",
+    "title": "Training and Safety Tip: Angle for the wind",
+    "summary": "Wind affects airplanes in flight as soon as they leave the ground, so pilots must constantly adjust their heading accordingly to maintain their desired track over the ground.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-05T22:49:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/05/training-and-safety-tip-angle-for-the-wind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "821ed0dce635",
+    "title": "Airbus Vs Boeing: Who Had The Most Orders Last Year?",
+    "summary": "A closer look at some of the changing trends in the market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T13:30:18Z",
+    "url": "https://simpleflying.com/airbus-boeing-2025-more-orders-who/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8dda6604333f",
+    "title": "Taiwan carriers maintain fuel surcharges in May, absorbing rising fuel costs",
+    "summary": "Taiwan&#8217;s major airlines are holding fuel surcharges steady in May 2026, keeping rates at US$45 for short-haul international&#8230; The post Taiwan carriers maintain fuel surcharges in May, absorbing rising fuel costs appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T13:25:27Z",
+    "url": "https://www.aerotime.aero/articles/taiwan-carriers-maintain-fuel-surcharges-in-may-absorbing-rising-fuel-costs",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cd573089984c",
+    "title": "Boeing\u2019s Wisk Aero Doubles Autonomous Air Taxi Test Fleet",
+    "summary": "Company\u2019s second Generation 6 eVTOL prototype completes first flight.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-05T13:14:48Z",
+    "url": "https://www.flyingmag.com/boeing-wisk-2nd-autonomous-air-taxi-test-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1922cb025526",
+    "title": "Singapore Airlines selects Starlink for Airbus A380 and A350 passengers",
+    "summary": "Singapore Airlines (SIA) will introduce Starlink Wi-Fi for passengers travelling on its Airbus A380 and A350-900 long-haul aircraft&#8230; The post Singapore Airlines selects Starlink for Airbus A380 and A350 passengers appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T13:01:04Z",
+    "url": "https://www.aerotime.aero/articles/singapore-airlines-starlink-wifi-airbus-a380-a350-passengers",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "552b001a554b",
+    "title": "US Air Force\u2019s B-52J re-engining clears design review, nears flight testing",
+    "summary": "The US Air Force\u2019s B-52 Commercial Engine Replacement Program has completed its Critical Design Review, clearing the way&#8230; The post US Air Force\u2019s B-52J re-engining clears design review, nears flight testing appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T12:27:48Z",
+    "url": "https://www.aerotime.aero/articles/usaf-b-52j-reengining-closer-flight-testing",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "68d1229d9379",
+    "title": "Look Out: Why Mastering Cockpit Sight Picture Remains Job One",
+    "summary": "Where a student pilot gazes is almost as important as what they see.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-05T12:00:00Z",
+    "url": "https://www.flyingmag.com/look-out-why-mastering-cockpit-sight-picture-remains-job-one/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bb8de2a24ceb",
+    "title": "US Air Force clears Boeing T-7A Red Hawk for production",
+    "summary": "The United&#160;States&#160;Air Force has cleared the Boeing-Saab T-7A Red Hawk&#160;trainer&#160;for&#160;initial&#160;production, approving the first low-rate production lot of&#160;aircraft.&#160; The&#8230; The post US Air Force clears Boeing T-7A Red Hawk for production a...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T10:43:29Z",
+    "url": "https://www.aerotime.aero/articles/us-air-force-clears-boeing-t-7a-red-hawk-production",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "bc31a732f4e6",
+    "title": "Israel approves purchase of additional F-35I and F-15IA squadrons from the US",
+    "summary": "Israel has approved the purchase of two additional fighter jet squadrons from the United States, adding to its&#8230; The post Israel approves purchase of additional F-35I and F-15IA squadrons from the US appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T10:28:01Z",
+    "url": "https://www.aerotime.aero/articles/israel-approves-purchase-of-additional-f-35i-and-f-15ia-squadrons-from-the-us",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "47125b087bf9",
+    "title": "Too Low: United Airlines Boeing 767-400ER Collides With Bakery Truck & Light Pole In Newark",
+    "summary": "In a dramatic case of dangerous airfield operations at Newark Liberty International Airport, United Airlines Flight 169 struck a light pole as well as a truck crossing the New Jersey Turnpike. Reports indicate that the driver of the truck, Warren Boardley, was fortunate to sus...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T10:27:53Z",
+    "url": "https://simpleflying.com/video/too-low-united-airlines-boeing-767-400er-collides-with-bakery-truck-light-pole-in-newark/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "11699daba4e3",
+    "title": "Reaper, Hawkeye,\u00a0EMALS: Is France as militarily sovereign as it thinks?",
+    "summary": "A new&#160;parliamentary report&#160;on French military dependence on foreign suppliers&#160;identifies&#160;gaps in sovereignty ranging from MALE drones to satellite-based early&#8230; The post Reaper, Hawkeye, EMALS: Is France as militarily sovereign as it thinks? appeared f...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T10:07:10Z",
+    "url": "https://www.aerotime.aero/articles/france-us-aerospace-dependencies-report",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c2398b42b036",
     "title": "Why Do Pilots Use The Term Zulu Time Instead Of UTC?",
     "summary": "The language pilots speak on the radio is not jargon. Every word has a reason, and most of those reasons are more interesting than you might expect.",
@@ -327,17 +448,6 @@
     "publishedDate": "2026-05-04T03:00:00Z",
     "url": "https://www.aerotime.aero/articles/niche-by-design-atrs-cco-on-the-turboprop-as-a-regional-connectivity-tool",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "47125b087bf9",
-    "title": "Too Low: United Airlines Boeing 767-400ER Collides With Bakery Truck & Light Pole In Newark",
-    "summary": "A widebody jet knocks a truck off the road at EWR.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-04T02:34:47Z",
-    "url": "https://simpleflying.com/tire-united-airlines-boeing-767-400er-collide-bakery-truck-light-pole-newark/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-04-27T10:11:45Z",
     "url": "https://www.aerotime.aero/articles/solomon-airlines-strengthens-asia-connectivity-with-new-port-moresby-service",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f06eca5659f9",
-    "title": "easyJet Announces 18 New Routes Including Longest Flight Ever [Full List]",
-    "summary": "The low-cost carrier schedules its shortest mainland operation and its longest flight yet. See what's planned!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T10:00:28Z",
-    "url": "https://simpleflying.com/easyjet-announces-18-new-routes-including-longest-flight-full-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a43d80aa0051",
-    "title": "Thai AirAsia X cuts Japan flights, suspends Shanghai and Riyadh routes",
-    "summary": "Thai AirAsia X announced it is reducing flight frequencies and temporarily suspending some international routes as the airline&#8230; The post Thai AirAsia X cuts Japan flights, suspends Shanghai and Riyadh routes appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-27T09:19:52Z",
-    "url": "https://www.aerotime.aero/articles/thai-airasia-x-cuts-japan-flights-suspends-shanghai-and-riyadh-routes",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a085b9aa199d",
-    "title": "The Spirit Effect: US Budget Airlines Seek $2.5B Federal Relief As Fuel Crisis Deepens",
-    "summary": "The proposal is based on the assumption that jet fuel prices will remain above $4 per gallon.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T08:12:09Z",
-    "url": "https://simpleflying.com/spirit-effect-us-budget-airlines-relief-fuel-crisis/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fcda6bbd7e30",
-    "title": "\"Must Be Visible\": American Airlines Joins Southwest In Crackdown On Power Banks",
-    "summary": "AA joins the growing movement to limit big batteries.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T06:36:57Z",
-    "url": "https://simpleflying.com/american-airlines-southwest-power-bank-rules/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2d18d1d9762b",
-    "title": "Major: American & United Airlines Cut 2,700 May Flights From The World's Busiest Airport",
-    "summary": "These developments are part of a wider initiative that aims to address overscheduling.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T01:00:18Z",
-    "url": "https://simpleflying.com/american-united-airlines-chicago-cuts/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ddf7c9ebe81b",
-    "title": "The 5 Largest US Military Airfields By Runway Length",
-    "summary": "From Edwards to Vandenberg, these are the 5 longest US military runways\u2014and the operational demands that make extreme length essential.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T00:00:18Z",
-    "url": "https://simpleflying.com/5-largest-us-military-airfields-runway-length/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "16d6114e4c29",
-    "title": "\u201cReady To Go\u201d: FedEx Chief Says McDonnell Douglas MD-11s Are Set To Return To Service In May",
-    "summary": "FedEx restarts MD-11 flights in May after global grounding, boosting cargo capacity as demand rises and safety reviews clear the iconic tri-jet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T22:10:49Z",
-    "url": "https://simpleflying.com/fedex-chief-mcdonnell-douglas-md-11s-return-service-may/",
-    "airlineTag": "FedEx Express",
-    "isBreaking": false
-  },
-  {
-    "id": "95c1b10ff5d0",
-    "title": "In 2 Days: Alaska Airlines Launches 1st-Ever Flights To Europe",
-    "summary": "History is about to be made.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T22:00:18Z",
-    "url": "https://simpleflying.com/alaska-airlines-europe-launch/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fe2a6943f674",
-    "title": "Smart Catering: Airbus' New AI Initiative To Help Airlines Reduce Cabin Food Waste",
-    "summary": "It aims to close a financial and environmental gap in the airline industry by bringing data analysis to food and beverage services",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T22:00:18Z",
-    "url": "https://simpleflying.com/airbus-new-ai-initiative-airlines-reduce-cabin-food-waste/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c9372ab6d933",
-    "title": "A Devaluation? JetBlue\u2019s New Boarding Process Sparks Frequent-Flier Criticism",
-    "summary": "Concerned passengers are raising some serious questions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T20:30:17Z",
-    "url": "https://simpleflying.com/jetblue-new-boarding-process-frequent-flier-criticism/",
-    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   }
 ]
