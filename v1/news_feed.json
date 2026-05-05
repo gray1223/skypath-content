@@ -1,5 +1,38 @@
 [
   {
+    "id": "c2398b42b036",
+    "title": "Why Do Pilots Use The Term Zulu Time Instead Of UTC?",
+    "summary": "The language pilots speak on the radio is not jargon. Every word has a reason, and most of those reasons are more interesting than you might expect.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T08:00:18Z",
+    "url": "https://simpleflying.com/why-pilots-use-term-zulu-time-instead-utc/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8d1a8a19b3b6",
+    "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
+    "summary": "British Airways is hiring $100,000 taxi pilots at Chicago O\u2019Hare, aiming to cut delays and improve efficiency with dedicated ground-based crews.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-05-05T05:35:30Z",
+    "url": "https://simpleflying.com/british-airways-will-pay-pilots-100k-a-year-to-taxi-ohare/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "53c5dacdbe93",
+    "title": "The Short-Lived Airbus A380-800 Freighter Concept That Was Cancelled Before A Single Aircraft Was Built",
+    "summary": "Airbus once convinced FedEx, UPS, and Emirates to bet on the biggest freighter ever imagined, but it quietly disappeared before a single one was built",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T05:00:18Z",
+    "url": "https://simpleflying.com/airbus-a380-800-freighter-cancelled-concept/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
     "id": "04cd797bc462",
     "title": "Why NATO's Most Advanced American Fighter Jet Is Now Being Built In Italy",
     "summary": "The epicenter of Europe's stealth air power lies just outside Milan.",
@@ -348,17 +381,6 @@
     "category": "hiring",
     "publishedDate": "2026-05-03T19:01:19Z",
     "url": "https://simpleflying.com/salaries-widebody-cargo-pilots-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8d1a8a19b3b6",
-    "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
-    "summary": "British Airways is hiring $100,000 taxi pilots at Chicago O\u2019Hare, aiming to cut delays and improve efficiency with dedicated ground-based crews.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-05-03T18:55:11Z",
-    "url": "https://simpleflying.com/british-airways-will-pay-pilots-100k-a-year-to-taxi-ohare/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-04-26T20:30:17Z",
     "url": "https://simpleflying.com/jetblue-new-boarding-process-frequent-flier-criticism/",
     "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "b65901aa1d46",
-    "title": "Legend: Delta Air Lines\u2019 Longest-Tenured Female Pilot Retires After 40+ Years",
-    "summary": "Delta\u2019s longest-serving female pilot, Captain Karen Ruth, retires after 40+ years, leaving a legacy of leadership, resilience, and aviation excellence",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T18:27:52Z",
-    "url": "https://simpleflying.com/delta-air-lines-longest-tenured-female-pilot-retires-40-years/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "464b36a6545e",
-    "title": "Avelo Airlines\u2019 Only Female Captain Sues After Being Fired For Reporting Safety Concerns",
-    "summary": "The situation has raised safety-related questions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-26T17:00:17Z",
-    "url": "https://simpleflying.com/avelo-airlines-only-female-captain-sues-fired-reporting-safety-concerns/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
