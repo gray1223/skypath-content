@@ -1,5 +1,16 @@
 [
   {
+    "id": "296d8183f70d",
+    "title": "Why Does The US Navy Still Rely On The F/A-18 Super Hornet?",
+    "summary": "The F/A-18 has been able to carry out most of the Navy's requirements while being affordable, although it is increasingly struggling.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T02:00:30Z",
+    "url": "https://simpleflying.com/why-us-navy-still-rely-fa-18-super-hornet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8990bf73f6d0",
     "title": "Training and Safety Tip: Angle for the wind",
     "summary": "Wind affects airplanes in flight as soon as they leave the ground, so pilots must constantly adjust their heading accordingly to maintain their desired track over the ground.",
@@ -7,6 +18,94 @@
     "category": "training",
     "publishedDate": "2026-05-05T22:49:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/05/training-and-safety-tip-angle-for-the-wind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20a073a9f01d",
+    "title": "\u201cBold Vision\u201d: American Airlines Pilot Union Expresses Openness To Merger",
+    "summary": "American Airlines pilots signal openness to merger, as frustration with leadership spills into public view.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T21:41:32Z",
+    "url": "https://simpleflying.com/bold-vision-american-airlines-pilot-union-openness-merger/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "aa7a560e31e5",
+    "title": "Why These 5 Airlines\u2019 Business Class Seats Are Superior In 2026",
+    "summary": "The epitome of airborne luxury.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T21:30:19Z",
+    "url": "https://simpleflying.com/5-airlines-business-class-seats-superior-2026-why/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39c707745375",
+    "title": "How United Airlines' New Polaris Studio Suites Differ From American's Flagship Suite Preferred",
+    "summary": "This is why airlines are doubling down on \"business plus\" products and how the new offering compares for United and American.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T21:30:19Z",
+    "url": "https://simpleflying.com/how-united-airlines-new-polaris-studio-suites-differ-american-flagship-suite-preferred/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "98c96f7d61a8",
+    "title": "17-Hour Nonstop Flights: Delta's 10 New Ultra-Long Routes In 2026 [Updated]",
+    "summary": "Three of the routes are new. Find them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T20:00:23Z",
+    "url": "https://simpleflying.com/17-hour-nonstop-flights-deltas-10-new-ultra-long-routes-in-2026-updated/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7fd93ff0255d",
+    "title": "The Failing Latch That Turned A Boeing 737's Heads-Up Display Into A Projectile Danger For Pilots",
+    "summary": "The Heads-Up Display, designed to enhance pilot situational awareness, became a projectile during a Southwest Airlines flight, striking the captain.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-05T20:00:23Z",
+    "url": "https://simpleflying.com/failing-latch-boeing-737-hud-projectile-danger-pilots/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fe0abe12bd20",
+    "title": "Airbus set for historic A220 announcement as large AirAsia order nears",
+    "summary": "Airbus is preparing for what it calls a \u201chistoric\u201d A220 announcement in Canada as AirAsia moves closer to&#8230; The post Airbus set for historic A220 announcement as large AirAsia order nears appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-05T19:48:20Z",
+    "url": "https://www.aerotime.aero/articles/airbus-historic-a220-announcement-airasia-deal",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0bc9d00364e1",
+    "title": "WATCH: NASA\u2019s Supersonic X-59 Pushes the Envelope",
+    "summary": "Researchers are validating the aircraft\u2019s performance before propelling it to supersonic speeds.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-05T19:43:51Z",
+    "url": "https://www.flyingmag.com/watch-nasa-supersonic-x59-push-envelope/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5717f25c4e72",
+    "title": "Elixir Aircraft Begins U.S. Deliveries",
+    "summary": "First U.S.-based aircraft are expected to appear at AirVenture this summer.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-05T19:38:32Z",
+    "url": "https://avweb.com/aviation-news/company-news/elixir-aircraft-begins-us-deliveries/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "military",
     "publishedDate": "2026-04-27T20:35:56Z",
     "url": "https://avweb.com/aviation-news/drones/boeing-navy-complete-first-mq-25a-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4f39276ecf70",
-    "title": "It\u2019s A Girl! Baby Born At 36,000 Feet Onboard Delta Airlines Flight",
-    "summary": "Delta\u2019s surprise midair birth marks the second US-bound onboard delivery in April.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T20:09:43Z",
-    "url": "https://simpleflying.com/baby-born-onboard-delta-air-lines-flight/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "8b4568ce5042",
-    "title": "6 Airlines With The World's Superior Economy Dining In 2026",
-    "summary": "Skytrax says that these airlines have the best food and drinks available for economy class passengers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T20:00:18Z",
-    "url": "https://simpleflying.com/6-airlines-worlds-superior-economy-dining-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5604a995e921",
-    "title": "Montreal Plane-Spotting Park Adds Memorial For Canada Pilots",
-    "summary": "The memorial honors Antoine Forest and Mackenzie Gunther, who were killed in a March 22 runway collision.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-27T19:37:28Z",
-    "url": "https://avweb.com/aviation-news/montreal-adds-memorial-air-canada-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ea46d70b74ad",
-    "title": "United CEO confirms American merger idea is \u2018off the table\u2019 after rejection",
-    "summary": "United Airlines CEO Scott Kirby tried to reframe his failed merger approach to American Airlines as a growth&#8230; The post United CEO confirms American merger idea is \u2018off the table\u2019 after rejection appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-27T19:32:36Z",
-    "url": "https://www.aerotime.aero/articles/united-ceo-confirms-american-merger-idea-is-off-the-table-after-rejection",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1fc0d43bafb7",
-    "title": "Insanely Spacious: Inside The Boeing 777 Freighter's Crew Rest Area",
-    "summary": "Uncover the secrets behind the 777 Freighter's forward cabin, a world away from standard airliners, where pilot fatigue is managed with care.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T19:00:18Z",
-    "url": "https://simpleflying.com/inside-boeing-777-freighter-crew-rest-area/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4177aa0d88d4",
-    "title": "The 6 Largest US Navy Air Stations By Number Of Based Aircraft",
-    "summary": "Where the Navy's warbirds go to roost.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T18:01:17Z",
-    "url": "https://simpleflying.com/6-largest-us-navy-air-stations-number-based-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4e81e4c871e2",
-    "title": "North Dakota State Representative, Pilot Killed in Small Airplane Crash",
-    "summary": "Beechcraft Bonanza F33A went down shortly after takeoff from Crystal Airport in Minneapolis.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-27T17:30:51Z",
-    "url": "https://www.flyingmag.com/north-dakota-state-representative-pilot-killed-in-small-airplane-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8261a47374d0",
-    "title": "This Might Be Delta Air Lines' Greatest Asset From Merging With Northwest Airlines",
-    "summary": "The SkyTeam founding member inherited quite a lot from the famous merger.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T17:30:17Z",
-    "url": "https://simpleflying.com/delta-air-lines-greatest-asset-from-merger-northwest-airlines/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ff849f5e493e",
-    "title": "These US Airline Cabins Have The Widest Economy Seats In 2026",
-    "summary": "Find out which carriers stand out for their spacious economy cabins.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-27T16:01:17Z",
-    "url": "https://simpleflying.com/airline-cabins-widest-economy-seats-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
