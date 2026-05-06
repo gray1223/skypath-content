@@ -1,5 +1,137 @@
 [
   {
+    "id": "486bcc671f18",
+    "title": "Aircraft Maintenance: Leaking propellers",
+    "summary": "At some point in the life of a constant-speed propeller, it happens: Tiny dots appear on the windshield. Your propeller is leaking oil. What you do&mdash;and when you do it&mdash;requires informed decision-making to protect both your safety and your wallet.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-06T21:03:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/06/aircraft-maintenance-leaking-propellers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "382245e362ee",
+    "title": "Raytheon secures major SharpSight radar order in global distribution deal",
+    "summary": "Raytheon has received its largest order to date for its SharpSight surveillance radar, with distribution partner Blue Raven signing a contract for&#8230; The post Raytheon secures major SharpSight radar order in global distribution deal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-06T19:24:08Z",
+    "url": "https://www.aerotime.aero/articles/raytheon-sharpsight-radar-global-distribution-deal",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9419740f58d4",
+    "title": "MHIRJ support role grows as CRJ450 gives new life to regional jet fleet",
+    "summary": "SkyWest\u2019s plan to convert United Express CRJ200 aircraft into a new CRJ450 configuration is putting renewed attention on MHIRJ, the&#8230; The post MHIRJ support role grows as CRJ450 gives new life to regional jet fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-06T18:55:50Z",
+    "url": "https://www.aerotime.aero/articles/mhirj-crj450-support-regional-jet-fleet",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6223039581c2",
+    "title": "The unpredictable way aviation can shape you",
+    "summary": "Hayley Herberg didn&rsquo;t start flying with a career in mind. There was no plan for regionals or majors, no predetermined timeline. She just wanted to fly&mdash;for the sake of flying.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-06T18:55:05Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/06/the-unpredictable-way-aviation-can-shape-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "808bc7369788",
+    "title": "FAA Employee Arrested After Searching How To Unalive President Trump On Work Computer",
+    "summary": "An FAA employee's alarming online activity revealed, including searches about President Donald Trump.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T18:51:22Z",
+    "url": "https://simpleflying.com/faa-employee-arrested-searching-how-unalive-president-trump-work-computer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "335794cc5f19",
+    "title": "AirAsia Orders 150 Airbus A220s, Becomes Launch Customer Of Larger Seating Configuration",
+    "summary": "The order represents a key political step forward for Canada as it seeks to expand its international export market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T18:36:30Z",
+    "url": "https://simpleflying.com/airasia-airbus-a220-order/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d87cdd584ca9",
+    "title": "FAA Addresses Drone Threats at \u2018Critical Infrastructure\u2019 Sites",
+    "summary": "Agency\u2019s proposed rule would allow certain facility operators to apply for UAV restrictions.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-06T18:30:00Z",
+    "url": "https://www.flyingmag.com/faa-drone-restrictions-critical-infrastructure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20b8d09e31fc",
+    "title": "NBAA Pushes New Effort To Curb CFIT Accidents",
+    "summary": "NBAA is intensifying efforts to reduce CFIT accidents, citing pilot response to terrain warnings and situational awareness as key risk factors.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-05-06T18:12:00Z",
+    "url": "https://avweb.com/air-shows-events/nbaa/nbaa-cfit-accident-prevention/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "744cb85fb0f7",
+    "title": "Here's How Much A Delta One Ticket On An Airbus A350 Actually Costs In 2026",
+    "summary": "It is never easy to find the true cost of any ticket, especially in Delta One, where prices can vary so massively. Here is what to expect in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T18:00:19Z",
+    "url": "https://simpleflying.com/how-much-first-class-ticket-costs-delta-air-lines-airbus-a350-2026/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d62afe907e2b",
+    "title": "7 Airlines With Superior Business Class Lounges In 2026",
+    "summary": "An elite travel experience starts on the ground.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T17:30:19Z",
+    "url": "https://simpleflying.com/7-airlines-with-superior-business-class-lounges-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "48a649d134ff",
+    "title": "FAA Proposes Drone Restrictions Around Critical Infrastructure",
+    "summary": "The FAA has proposed new rules to restrict drone operations near critical infrastructure.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-06T15:24:40Z",
+    "url": "https://avweb.com/aviation-news/faa-drone-restrictions-infrastructure-rule/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b8ef7c747399",
+    "title": "Top 6: These Are The Largest US Air Force Bases Outside The United States",
+    "summary": "The top real estate in the USAF.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T15:00:18Z",
+    "url": "https://simpleflying.com/largest-us-air-force-bases-outside-united-states/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "ba4cb8a50064",
     "title": "Gone After 3 Years: Virgin Atlantic Abruptly Axes This Long-Haul Route",
     "summary": "Instead of daily flights to Dubai, the airline will increase its capacity to South Africa, adding a new destination and increasing frequency.",
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-04-28T19:41:54Z",
     "url": "https://avweb.com/aviation-news/company-news/ifly-efb-adds-dispatch-training-mode/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8ec7f8ab6650",
-    "title": "Copa Airlines Doubles 737 MAX Fleet With $13.5B Order For 60 More Aircraft",
-    "summary": "Copa Airlines has ordered up to 60 more Boeing 737 MAX jets in a $13.5 billion deal, paving the way for a 200-aircraft fleet by 2034.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T18:45:47Z",
-    "url": "https://simpleflying.com/copa-airlines-737-max-sixty-aircraft-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ecb2c642d25d",
-    "title": "FAA Awards $5B Contract for Hundreds of Digital Voice Switches",
-    "summary": "Agency plans to install 462 new systems as part of its air traffic control modernization effort.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-28T17:57:26Z",
-    "url": "https://www.flyingmag.com/faa-5b-contract-atc-digital-voice-switches/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ccc5d7fd2e60",
-    "title": "US Air Force plans major F-15EX fleet expansion as defense spending set to soar",
-    "summary": "The US Air Force plans to more than double its planned F-15EX Eagle II fleet, giving Boeing\u2019s upgraded&#8230; The post US Air Force plans major F-15EX fleet expansion as defense spending set to soar appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-28T17:47:30Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-f15ex-expansion-defense-spending",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "108753a24140",
-    "title": "Spirit Airlines' Disappearance Would Raise Fares On Routes It Never Even Flew: Here's Why",
-    "summary": "The carrier's insolvency would seriously disrupt the market in a few key ways.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-28T17:00:18Z",
-    "url": "https://simpleflying.com/spirit-airlines-disappearance-raise-fares-routes-never-flew-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "66264e4b0643",
-    "title": "18 Years After Emirates Took Delivery Of Its First A380, The Quadjet Is Still The Backbone Of Its Long-Haul Network",
-    "summary": "Emirates' bold move to acquire the A380 transformed air travel, but 18 years later, challenges loom.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T16:01:20Z",
-    "url": "https://simpleflying.com/emirates-a380-backbone-long-haul-network-25-years/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7c0bb07c0d2c",
-    "title": "Lawmaker Calls on FAA To Permanently Ground MD-11",
-    "summary": "The request follows the fatal UPS accident in Louisville last November.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-04-28T15:51:34Z",
-    "url": "https://avweb.com/flight-safety/accidents-ntsb/lawmaker-calls-faa-permanent-ground-md-11/",
-    "airlineTag": "UPS Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7eb88283a421",
-    "title": "Inside JetBlue\u2019s Plan To Survive The 2026 Iran Crisis Fuel Spike",
-    "summary": "The cuts will be less severe in Q2, before ramping up in the second half of the year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T15:02:13Z",
-    "url": "https://simpleflying.com/jetblue-fuel-related-capacity-cuts/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "8fc8b94e4903",
-    "title": "New Super Hornet: Why The Navy's Workhorse Fighter Is Getting A Block III Brain Transplant",
-    "summary": "The US Navy\u2019s Super Hornet is undergoing a major upgrade, with a new digital backbone and advanced electronics built to counter modern threats.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T15:00:21Z",
-    "url": "https://simpleflying.com/f-a-18-super-hornet-block-iii-upgrade/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79d080a54df3",
-    "title": "US Air Force seeks long-range palletized cruise missile under FAMM-BAR effort",
-    "summary": "The US Air Force is looking for industry partners to develop a low-cost, long-range air-to-surface missile launchable in&#8230; The post US Air Force seeks long-range palletized cruise missile under FAMM-BAR effort appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-28T14:45:40Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-famm-bar-palletized-missile-rfi",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c6573731541c",
-    "title": "This 1968 Cessna U206C Skywagon Is a Heavy-Lifting \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Modernized cargo king pairs a high-resolution Garmin suite with a cavernous interior.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-28T14:41:43Z",
-    "url": "https://www.flyingmag.com/this-1968-cessna-u206c-skywagon-is-a-heavy-lifting-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a2b066605d10",
-    "title": "Montreal Dedicates New Memorial Honoring Pilots Lost In Fatal LaGuardia Airport Collision",
-    "summary": "The memorial has been erected at a popular planespotting location.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T13:16:09Z",
-    "url": "https://simpleflying.com/montreal-airport-air-canada-flight-8646-pilots-memorial/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4e52c412509f",
-    "title": "Southwest showcases Independence One to mark 250 years since founding of the US",
-    "summary": "Southwest Airlines has showcased \u2018Independence One\u2019, a brand-new Boeing 737 MAX 8 emblazoned with a vibrant livery to&#8230; The post Southwest showcases Independence One to mark 250 years since founding of the US appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-28T13:04:03Z",
-    "url": "https://www.aerotime.aero/articles/southwest-airlines-independence-one-250-years-anniversary",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
