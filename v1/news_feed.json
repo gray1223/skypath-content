@@ -1,5 +1,27 @@
 [
   {
+    "id": "4c7c2d32a0a5",
+    "title": "The Airbus A220 Is Rewriting The Rules Of Short-Haul Economics",
+    "summary": "The aircraft is revolutionizing short-haul aviation, offering airlines a highly versatile solution to adapt to shifting demand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-07T05:00:18Z",
+    "url": "https://simpleflying.com/airbus-a220-rewriting-short-haul-economics/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0f7f4352f22e",
+    "title": "Airport Conducts Disaster Drill Despite Having Zero Service After Spirit Airlines\u2019 Demise",
+    "summary": "A small American airfield is persevering with its regulatory compliance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-07T04:00:37Z",
+    "url": "https://simpleflying.com/airport-conducts-zero-service-spirit-airlines-demise/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "29c3fc46306b",
     "title": "How Sanctions Can Shatter Entire Airlines",
     "summary": "Sanctions don't just ground aircraft. They can dismantle entire airlines, one spare part at a time.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-04-29T09:14:32Z",
     "url": "https://www.aerotime.aero/articles/etihad-airways-and-air-cambodia-launch-codeshare-linking-abu-dhabi-to-angkor-wat",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30f9c352498a",
-    "title": "Boeing Once Designed A Supersonic Airliner Bigger And Faster Than Concorde, And Congress Killed It Before It Ever Flew",
-    "summary": "The US taxpayer invested $1 billion in a supersonic plane that never took to the skies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-29T08:00:17Z",
-    "url": "https://simpleflying.com/boeing-supersonic-airliner-cancelled-by-congress/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8d4e5b13281b",
-    "title": "Alaska Airlines flies first Seattle-Rome nonstop as global expansion takes off",
-    "summary": "Alaska Airlines launched its first nonstop flight between Seattle and Rome on April 28, 2026, marking the carrier\u2019s&#8230; The post Alaska Airlines flies first Seattle-Rome nonstop as global expansion takes off appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-04-29T01:02:00Z",
-    "url": "https://www.aerotime.aero/articles/alaska-launches-first-seattle-rome-nonstop-as-global-expansion-begins",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
