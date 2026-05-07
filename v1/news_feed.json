@@ -1,5 +1,38 @@
 [
   {
+    "id": "29c3fc46306b",
+    "title": "How Sanctions Can Shatter Entire Airlines",
+    "summary": "Sanctions don't just ground aircraft. They can dismantle entire airlines, one spare part at a time.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-07T00:00:19Z",
+    "url": "https://simpleflying.com/how-sanctions-ground-entire-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "67529e3eb43a",
+    "title": "The FAA Fired A Military Laser At A Boeing 767 For 8 Seconds: Here's What Happened",
+    "summary": "The incident has certainly raised some eyebrows among defense industry observers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T22:00:20Z",
+    "url": "https://simpleflying.com/faa-fired-military-laser-boeing-767-8-seconds-what-happened/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c643e579fa06",
+    "title": "The 7 Most Remote Royal Air Force Bases & Their Strategic Roles",
+    "summary": "The RAF operates bases in the Atlantic and other locations beyond the British Isles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T21:30:19Z",
+    "url": "https://simpleflying.com/7-most-remote-raf-bases-and-strategic-roles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "486bcc671f18",
     "title": "Aircraft Maintenance: Leaking propellers",
     "summary": "At some point in the life of a constant-speed propeller, it happens: Tiny dots appear on the windshield. Your propeller is leaking oil. What you do&mdash;and when you do it&mdash;requires informed decision-making to protect both your safety and your wallet.",
@@ -7,6 +40,61 @@
     "category": "training",
     "publishedDate": "2026-05-06T21:03:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/06/aircraft-maintenance-leaking-propellers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9f8f0377ea11",
+    "title": "AirAsia places multi-billion-dollar order for 150 Airbus A220-300s",
+    "summary": "AirAsia has placed a firm order for 150 Airbus A220-300 aircraft, giving the Canadian-built jet its largest single order&#8230; The post AirAsia places multi-billion-dollar order for 150 Airbus A220-300s appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-06T20:23:45Z",
+    "url": "https://www.aerotime.aero/articles/airasia-record-order-150-airbus-a220s",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e7bd50339323",
+    "title": "Breeze Airways Cuts 9 Routes: See All Flight Changes Now",
+    "summary": "How many of them can you guess? Find them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T20:00:18Z",
+    "url": "https://simpleflying.com/breeze-airways-cuts-9-routes-see-all-flight-changes-now/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "f97c1acbecb6",
+    "title": "The Little-Known US Law That Makes Photographing Military Aircraft A Federal Crime",
+    "summary": "National security concerns are behind this seemingly bizarre rule.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-06T20:00:18Z",
+    "url": "https://simpleflying.com/little-known-us-law-photographing-military-aircraft-federal-crime/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a88f3ead8110",
+    "title": "FAA Proposes CF34 Engine Inspections Following Fatal Challenger Crash",
+    "summary": "The FAA proposed new inspections for CF34 engines after a fatal 2024 Challenger crash linked to corrosion-related thrust loss.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-06T19:56:31Z",
+    "url": "https://avweb.com/aviation-news/faa-proposes-cf34-engine-inspections-following-fatal-challenger-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9b6600fe99c0",
+    "title": "US Navy F/A-18 disables Iranian tanker with 20mm cannon fire",
+    "summary": "A US Navy F/A-18 Super Hornet disabled an Iranian-flagged oil tanker in the Gulf of Oman on May&#8230; The post US Navy F/A-18 disables Iranian tanker with 20mm cannon fire appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-06T19:47:14Z",
+    "url": "https://www.aerotime.aero/articles/us-navy-f-a-18-disables-iranian-tanker-with-20mm-cannon-fire",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -132,17 +220,6 @@
     "isBreaking": false
   },
   {
-    "id": "ba4cb8a50064",
-    "title": "Gone After 3 Years: Virgin Atlantic Abruptly Axes This Long-Haul Route",
-    "summary": "Instead of daily flights to Dubai, the airline will increase its capacity to South Africa, adding a new destination and increasing frequency.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-05-06T14:06:23Z",
-    "url": "https://simpleflying.com/gone-after-3-years-virgin-axes-this-long-haul-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
     "id": "6773fcb5078e",
     "title": "MBDA to help India set up local MICA missile MRO facility",
     "summary": "MBDA has signed an agreement with the Indian Air Force to develop a local Maintenance, Repair and Mid-Life&#8230; The post MBDA to help India set up local MICA missile MRO facility appeared first on AeroTime.",
@@ -150,6 +227,17 @@
     "category": "industry",
     "publishedDate": "2026-05-06T14:06:23Z",
     "url": "https://www.aerotime.aero/articles/mbda-india-mica-missile-mro",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ba4cb8a50064",
+    "title": "Gone After 3 Years: Virgin Atlantic Abruptly Axes This Long-Haul Route",
+    "summary": "Instead of daily flights to Dubai, the airline will increase its capacity to South Africa, adding a new destination and increasing frequency.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-05-06T14:06:23Z",
+    "url": "https://simpleflying.com/gone-after-3-years-virgin-axes-this-long-haul-route/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-04-29T01:02:00Z",
     "url": "https://www.aerotime.aero/articles/alaska-launches-first-seattle-rome-nonstop-as-global-expansion-begins",
     "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6a66c255ac26",
-    "title": "Training and Safety Tip: Check your expectations",
-    "summary": "I remember looking at the sectional chart before arriving at an unfamiliar airport and noticing that one of the runways had a right-hand pattern. I thought to myself, &ldquo;Ah, I&rsquo;ve got to remember that.&rdquo; That, in itself, is no big deal; however, right-hand patter...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-04-28T23:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/april/28/training-and-safety-tip-check-your-expectations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d84c1d2e9143",
-    "title": "The 5 Oldest Airports In California Still Operating In 2026",
-    "summary": "Long Beach Airport tops the this list of old yet influential airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T23:00:37Z",
-    "url": "https://simpleflying.com/airlines-largest-regional-aircraft-fleets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "409b2ff35927",
-    "title": "Aggressive Passengers Force 2 Mid-Air Diversions Of United Airlines And Jet2 Flights",
-    "summary": "Two unruly passenger incidents force mid-air diversions and reignite calls for industry-wide flight bans.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T22:54:21Z",
-    "url": "https://simpleflying.com/aggressive-passengers-diversion-united-airlines-jet2/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cdad84b208dc",
-    "title": "7,700-Mile Nonstop Flights: Is Alaska Airlines About To Launch Its Longest-Ever Route?",
-    "summary": "The carrier's new safety video for its Boeing 787-9s has sparked speculation about a potential new long-haul destination. Will the route be announced?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T22:00:23Z",
-    "url": "https://simpleflying.com/7700-mile-nonstop-flights-is-alaska-airlines-about-to-launch-its-longest-ever-route/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "22e1dbfc8f4e",
-    "title": "Ouch: Checked Bags For A Family Of 4 On Southwest Airlines Cost $0 A Year Ago \u2013 Now It Costs $360",
-    "summary": "A closer look at the reasoning behind why Southwest has overhauled its business model to charge for extras like checked bags, and why this is working.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T22:00:23Z",
-    "url": "https://simpleflying.com/checked-bags-family-4-southwest-airlines-0-dollars-year-ago-now-360-dollars-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f16a7a71a69a",
-    "title": "Is This The Future? Japan Airlines Deploys Humanoid Robots At Tokyo Airports",
-    "summary": "Japan Airlines' trial of humanoid robots aims to address workforce shortages and improve efficiency in airport handling processes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-28T20:18:23Z",
-    "url": "https://simpleflying.com/japan-airlines-humanoid-robots-tokyo-airports/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0b914c85f950",
-    "title": "Flying to Space? There\u2019s a Tax on That Now, Too",
-    "summary": "FAA announces plans to charge for commercial space activity for the first time.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-04-28T20:00:00Z",
-    "url": "https://www.flyingmag.com/faa-commercial-spaceflight-fee/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b7cd3a9adf2",
-    "title": "iFly EFB Adds Dispatch Training Mode For Classroom Use",
-    "summary": "Modified version of Adventure Pilot\u2019s GA electronic flight bag emphasizes manual planning skills.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-04-28T19:41:54Z",
-    "url": "https://avweb.com/aviation-news/company-news/ifly-efb-adds-dispatch-training-mode/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
