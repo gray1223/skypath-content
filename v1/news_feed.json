@@ -1,5 +1,27 @@
 [
   {
+    "id": "1649921a9b75",
+    "title": "Progress: 1st Boeing 777-9 Production Aircraft Takes Flight Ahead Of Lufthansa Delivery",
+    "summary": "The overdue jetliner nears delivery day.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-08T05:24:10Z",
+    "url": "https://simpleflying.com/1st-boeing-777-9-production-aircaft-takes-flight-ahead-lufthansa-delivery/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1e9bc8a0a4e1",
+    "title": "Here's How Airlines Turned 5 Inches Of Lost Legroom Into A Billion-Dollar Upsell Strategy",
+    "summary": "Airlines are no longer just compressing seats to fit more passengers, they are redesigning the cabin in order to resell your comfort as a product.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-08T05:00:18Z",
+    "url": "https://simpleflying.com/how-airlines-turn-5-inches-lost-legroom-billion-dollar-upsell-strategy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ba5f95e2749f",
     "title": "The US Navy Retired All Its F-14 Tomcats In 2006. Congress Just Voted To Put One Back In The Air",
     "summary": "Congress\u2019 new Maverick Act could allow one retired US Navy F-14 Tomcat to fly again nearly 20 years after the fighter left service.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-04-30T13:31:17Z",
     "url": "https://simpleflying.com/why-do-planes-fly-over-arctic-not-antarctic/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "85fefd7ce240",
-    "title": "Spirit Airlines Is Rewriting The Rules Of Budget Flying After Bankruptcy",
-    "summary": "Spirit Airlines filed for bankruptcy twice in a year. Then fuel prices doubled. Now the US government may buy it.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-04-30T13:00:17Z",
-    "url": "https://simpleflying.com/spirit-airlines-rewriting-budget-flying-after-bankruptcy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0b8b3c2fd52e",
-    "title": "Ethics Under Scrutiny: Federal Aviation Administration Administrator Accused Of Delayed Stock Divestment",
-    "summary": "The administrator and the ex-CEO of Republic Airways failed to divest stocks held in the airline before the allocated date in the ethics agreement.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-04-30T12:56:30Z",
-    "url": "https://simpleflying.com/faa-administrator-accused-delayed-stock-divestment/",
-    "airlineTag": "Republic Airways",
     "isBreaking": false
   }
 ]
