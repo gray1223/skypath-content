@@ -1,5 +1,71 @@
 [
   {
+    "id": "e8c07a6179b5",
+    "title": "Thai Airways Has Ended Airbus A380 Flights On 8 Routes: Full List",
+    "summary": "Despite its long-haul credentials, Thai Airways mainly flew the superjumbo on regional routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T13:00:18Z",
+    "url": "https://simpleflying.com/thai-airways-airbus-a380-route-analysis/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8229d1ab6d6b",
+    "title": "Career Changers At 30,000 Feet: Why Working Professionals Are Retraining Into Aviation",
+    "summary": "It's never too late to get started!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T13:00:18Z",
+    "url": "https://simpleflying.com/aviation-mid-life-career-changes-guide/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8d1a8a19b3b6",
+    "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
+    "summary": "British Airways is recruiting pilots for a specialized ground operations role at Chicago O'Hare International Airport - a role that appears to offer salaries of up to $100,000 per year. The airline is hiring \u201ctaxi crew\u201d pilots to manage the movement of aircraft whilst on the g...",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-05-09T12:27:19Z",
+    "url": "https://simpleflying.com/video/british-airways-will-pay-pilots-100-000-a-year-to-taxi-at-chicago-o-hare/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59f548e9e542",
+    "title": "Only 67 First Class Seats: The Hidden Trade-Offs Behind Emirates' Airbus A380 Cabin Design",
+    "summary": "Emirates is switching around the space inside of its iconic A380s, and now, they are making some really interesting changes to the upstairs section",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T11:01:17Z",
+    "url": "https://simpleflying.com/67-first-class-seats-hidden-trade-offs-emirates-airbus-a380-cabin-design/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "032cd1c54da0",
+    "title": "\"Pedestrian On The Runway\": Frontier Jet Hits Person During Takeoff, Suffers Engine Fire",
+    "summary": "Smoke entered the cabin and the crew declared an engine fire.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T09:46:10Z",
+    "url": "https://simpleflying.com/frontier-jet-hits-pedestrian-runway-takeoff-engine-fire/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "42e328099b8f",
+    "title": "Singapore Airlines Huge Growth: Record 128 Weekly Flights To Europe For 2026",
+    "summary": "The airline will be deploying the highest capacity to London with up to six daily departures, equating to 38 weekly flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T08:17:37Z",
+    "url": "https://simpleflying.com/singapore-airlines-record-europe-flights-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "0c9b52011c4f",
     "title": "Delta Employee Dies After Tug Vehicle Collides With Jet Bridge In Orlando",
     "summary": "A ground crew member tragically lost their life after an accident at Orlando International Airport",
@@ -1441,17 +1507,6 @@
     "isBreaking": false
   },
   {
-    "id": "8d1a8a19b3b6",
-    "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
-    "summary": "British Airways is hiring $100,000 taxi pilots at Chicago O\u2019Hare, aiming to cut delays and improve efficiency with dedicated ground-based crews.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-05-05T05:35:30Z",
-    "url": "https://simpleflying.com/british-airways-will-pay-pilots-100k-a-year-to-taxi-ohare/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
     "id": "53c5dacdbe93",
     "title": "The Short-Lived Airbus A380-800 Freighter Concept That Was Cancelled Before A Single Aircraft Was Built",
     "summary": "Airbus once convinced FedEx, UPS, and Emirates to bet on the biggest freighter ever imagined, but it quietly disappeared before a single one was built",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-05-01T19:47:27Z",
     "url": "https://simpleflying.com/united-airlines-launches-2-new-long-haul-routes-this-week/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "626bb9ac2b84",
-    "title": "AOPA Announces Slate of Trustee Candidates for Annual Meeting of Members",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) today announced the slate of candidates to be voted on as members of the Board of Trustees at the association's annual member meeting on Tuesday, May 12, in Frederick, Maryland.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-01T19:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/01/pr-aopa-announces-slate-of-trustee-candidates-for-annual-meeting-of-members?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cae2189b8281",
-    "title": "Report: Spirit Airlines Prepares to Shut Down",
-    "summary": "Trump administration says it has made its \u2018final offer\u2019 to the struggling low-cost carrier.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-01T19:15:00Z",
-    "url": "https://www.flyingmag.com/report-spirit-airlines-prepares-to-shut-down/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f512f07c2367",
-    "title": "A-List Preferred Behind Priority? Southwest Airlines Launches Updated Boarding Process",
-    "summary": "The new changes were implemented on Thursday.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-01T18:16:07Z",
-    "url": "https://simpleflying.com/a-list-preferred-behind-priority-southwest-airlines-launches-updated-boarding-process/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ba1831e32454",
-    "title": "Hop-A-Jet President Reflects on 2024 Crash After NTSB Findings",
-    "summary": "Company has made changes to training and procedures amid pursuit of claims against GE Aerospace.",
-    "source": "Flying Magazine",
-    "category": "regulatory",
-    "publishedDate": "2026-05-01T18:04:05Z",
-    "url": "https://www.flyingmag.com/hop-a-jet-president-reflects-on-2024-crash-after-ntsb-findings/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eba8bdf06032",
-    "title": "Delta Air Lines Increases Pay For Non-Union Employees, Days After \u201cModest\u201d Corporate Layoffs",
-    "summary": "The carrier continues to invest in its people, offering a 4% pay rise to non-union employees amidst industry pressures and rising fuel costs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-01T17:47:10Z",
-    "url": "https://simpleflying.com/delta-air-lines-increase-pay-non-union-employees-modest-corporate-layoffs/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
