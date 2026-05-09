@@ -1,5 +1,49 @@
 [
   {
+    "id": "0c9b52011c4f",
+    "title": "Delta Employee Dies After Tug Vehicle Collides With Jet Bridge In Orlando",
+    "summary": "A ground crew member tragically lost their life after an accident at Orlando International Airport",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T07:32:56Z",
+    "url": "https://simpleflying.com/delta-employee-tug-collision-orlando-jet-bridge/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f247f7d1a5a6",
+    "title": "5 Aircraft That Pilots Trust The Most",
+    "summary": "From flight training to long-haul widebodies, these aircraft have earned the trust of pilots worldwide.",
+    "source": "Simple Flying",
+    "category": "training",
+    "publishedDate": "2026-05-09T07:00:18Z",
+    "url": "https://simpleflying.com/5-aircraft-pilots-trust-most/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b84ec3c5be7",
+    "title": "MD-11 Return: How A Small Engine Fix Is Getting FedEx's Tri-Jets Back In The Air",
+    "summary": "The return of the McDonnell Douglas MD-11 to the skies could be near, with Boeing having designed a fix.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T04:38:53Z",
+    "url": "https://simpleflying.com/md-11-return-boeing-engine-fix/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "7bc955e11915",
+    "title": "\"Money In Their Pocket\": Spirit Airlines Pilots Hired To Fly Their Own Jets To The Boneyard",
+    "summary": "Nomadic Aviation Group, ferrying the planes to desert storage locations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-09T03:54:32Z",
+    "url": "https://simpleflying.com/spirit-airlines-pilots-hired-fly-own-jets-boneyard/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "0eebbff6c9f1",
     "title": "How The 64-Year-Old Chinook Taught Itself To Land With No Pilot At The Controls",
     "summary": "/how-64-year-old-chinook-taught-itself-land-no-pilot-controls/",
@@ -448,17 +492,6 @@
     "publishedDate": "2026-05-07T23:37:56Z",
     "url": "https://simpleflying.com/southwest-airlines-jets-hit-each-other-non-atc-communication-area-baltimore/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7bc955e11915",
-    "title": "\"Money In Their Pocket\": Spirit Airlines Pilots Hired To Fly Their Own Jets To The Boneyard",
-    "summary": "Nomadic Aviation Group, ferrying the planes to desert storage locations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-07T22:34:37Z",
-    "url": "https://simpleflying.com/spirit-airlines-pilots-hired-fly-own-jets-boneyard/",
-    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-01T17:47:10Z",
     "url": "https://simpleflying.com/delta-air-lines-increase-pay-non-union-employees-modest-corporate-layoffs/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "12ae664b546c",
-    "title": "The Pentagon's Order For 85 F-35s Isn't Guaranteed: Over 50 Jets Depend On A Bill That May Never Pass",
-    "summary": "While proposed F-35 jets in FY 2027 are a big jump over 2026, it is about average historically. For now, funding and final numbers remain uncertain.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-01T17:01:17Z",
-    "url": "https://simpleflying.com/the-pentagons-order-for-85-f-35s-isnt-guaranteed-over-50-jets-depend-on-a-bill-that-may-never-pass/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cd4b41784cc8",
-    "title": "Spirit Airlines Prepares To Cease Operations",
-    "summary": "Reports say the bankrupt low-cost carrier was unable to secure a proposed $500 million government bailout.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-05-01T16:52:36Z",
-    "url": "https://avweb.com/aviation-news/spirit-airlines-prepares-to-end-operations/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "65f40bcec84e",
-    "title": "Spirit Airlines Set To Shut Down After Government Talks Fail",
-    "summary": "As Spirit Airlines' fate hangs in the balance, the airline industry braces for the potential fallout of a major player's sudden shutdown.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-01T16:14:57Z",
-    "url": "https://simpleflying.com/spirit-airlines-shut-down-talks-fail/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
