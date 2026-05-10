@@ -1,5 +1,38 @@
 [
   {
+    "id": "425ab3d82fe1",
+    "title": "Is It True That Long-Haul Pilots Sleep In Secret Bunks During Flights?",
+    "summary": "Yes, pilots sleep during the flight, and it is important that they do.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-10T07:00:18Z",
+    "url": "https://simpleflying.com/true-long-haul-pilots-sleep-secret-bunks-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4c1a1b94355",
+    "title": "CDC Readies Quarantine Flight For Americans On Hantavirus-Hit Cruise Ship",
+    "summary": "The CDC is taking unprecedented measures, arranging a quarantine flight to transport affected Americans directly to the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-10T04:07:32Z",
+    "url": "https://simpleflying.com/cdc-quarantine-flight-hantavirus-cruise-ship/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "651e7b9b5ca9",
+    "title": "Why Southwest Airlines Had To Rewrite Its New Boarding System Weeks After Launch",
+    "summary": "The carrier's assigned-seating rollout exposed bin-space battles, loyalty tensions, and the cost of abandoning old habits.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-10T04:00:22Z",
+    "url": "https://simpleflying.com/why-southwest-airlines-rewrite-new-boarding-system-weeks-launch/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "b92d654bb092",
     "title": "The US Navy's Next Trainer Jet Won't Need To Land On A Carrier: Here's Why",
     "summary": "The end of an era in tailhook aviation.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-02T18:20:27Z",
     "url": "https://simpleflying.com/american-airlines-hints-imminent-return-seatback-screens/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f1e3b796d72a",
-    "title": "Spirit Shutdown: All The US Airlines Offering Rescue Fares Right Now",
-    "summary": "Spirit Airlines' abrupt shutdown leaves passengers stranded, prompting major US carriers to offer rescue fares.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-05-02T17:42:52Z",
-    "url": "https://simpleflying.com/spirit-shutdown-airline-rescue-fares-guide/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b3cc6f44149d",
-    "title": "The United States' 10 Largest Airports In Operation",
-    "summary": "These huge hubs are larger than many towns.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-02T17:31:18Z",
-    "url": "https://simpleflying.com/us-10-largest-airports-in-operation/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3e1c0e8d06bd",
-    "title": "Sweet Deal? American Airlines Pays 5 People $1,200 Each To Leave Because Plane Was Too Heavy",
-    "summary": "The move highlights strict aviation weight rules and safety priorities.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-02T17:23:44Z",
-    "url": "https://simpleflying.com/american-airlines-pays-5-people-1200-dollars-each-leave-plane-too-heavy/",
     "airlineTag": "American Airlines",
     "isBreaking": false
   }
