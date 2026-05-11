@@ -1,5 +1,60 @@
 [
   {
+    "id": "d9be4b279349",
+    "title": "RAF A400M Airdrops Medics To World's Most Remote Island For Hantavirus Case",
+    "summary": "The British Army and RAF team up for an extreme delivery.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-11T03:19:29Z",
+    "url": "https://simpleflying.com/raf-a400m-airdrops-medics-tristan-da-cunha-hantavirus/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "30443ce503b1",
+    "title": "Why Pilots Sometimes Avoid The Shortest Route On Purpose",
+    "summary": "Looking at a flight tracker often shows a wide range of interestingly shaped routes. They may look strange, but there is a method to the madness.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-11T02:00:31Z",
+    "url": "https://simpleflying.com/why-pilots-sometimes-avoid-shortest-route-purpose/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9a47035fb1c4",
+    "title": "Superjumbo Exit: These 4 Airlines Have Ended Airbus A380 Flights To Australia",
+    "summary": "Did you ever travel 'down under' on one of these carriers' double-deckers?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-11T01:00:18Z",
+    "url": "https://simpleflying.com/airbus-a380-former-australia-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20a9b438e640",
+    "title": "This Is Why The Boeing 777X Can't Be Powered By Any Engine Other Than The GE9X",
+    "summary": "Discover why the Boeing 777X depends entirely on the GE9X, the world\u2019s largest and most advanced commercial jet engine ever built.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-10T23:00:19Z",
+    "url": "https://simpleflying.com/why-boeing-777x-ge9x-only-engine/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ff92faeb7703",
+    "title": "12-Hour Nonstop Flights: Alaska Airlines' 10 New Longest Routes In 2026 [Full List]",
+    "summary": "The carrier's merger with Hawaiian Airlines has worked wonders for its long-haul network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-10T22:00:19Z",
+    "url": "https://simpleflying.com/alaska-airlines-longest-flights/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "e5d2919f97a9",
     "title": "Why Ryanair's CEO Is Warning That European Airlines Could Go Bankrupt This Summer",
     "summary": "Ryanair CEO Michael O'Leary's comments at the Oslo investment conference about European airlines facing economic challenges.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-05-04T05:53:41Z",
     "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "bb35e19180ba",
-    "title": "Southwest Honors Spirit Captain After His Retirement Flight Was Axed",
-    "summary": "Such generous actions show that camaraderie, unity, and support are possible, even amongst competitors in the market!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-04T04:05:34Z",
-    "url": "https://simpleflying.com/southwest-honors-spirit-captain-retirement-flight-axed/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "951cd53feb12",
-    "title": "UK allows airlines to cut flights early amid fuel shortage concerns",
-    "summary": "The UK government has introduced emergency measures allowing airlines to cancel or consolidate flights in advance, as part&#8230; The post UK allows airlines to cut flights early amid fuel shortage concerns appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-04T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/uk-allows-airlines-to-cut-flights-early-amid-fuel-shortage-concerns",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "025b1895ebab",
-    "title": "Niche by design: ATR\u2019s CCO on the turboprop as a regional connectivity tool",
-    "summary": "Few manufacturers can claim ownership of a specific market niche, but it would appear ATR is one of&#8230; The post Niche by design: ATR\u2019s CCO on the turboprop as a regional connectivity tool appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-04T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/niche-by-design-atrs-cco-on-the-turboprop-as-a-regional-connectivity-tool",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "783871066a6f",
-    "title": "United Boeing 767 hits truck, light pole on approach to Newark Airport",
-    "summary": "A United Airlines Boeing 767-400 arriving at Newark Liberty International Airport (EWR) hit a tractor-trailer and struck a&#8230; The post United Boeing 767 hits truck, light pole on approach to Newark Airport appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-04T01:18:18Z",
-    "url": "https://www.aerotime.aero/articles/united-767-hits-truck-light-pole-newark-airport",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4204916df990",
-    "title": "Flight Attendant Attack & Cockpit Breach Attempt: Newark United Airlines Passenger Detained",
-    "summary": "The crew declared an emergency as a result of the incident.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-03T22:04:35Z",
-    "url": "https://simpleflying.com/fa-attack-cockpit-breach-newark-united-airlines-passenger-detained/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
