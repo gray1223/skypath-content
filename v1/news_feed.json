@@ -1,5 +1,27 @@
 [
   {
+    "id": "3d77b2533069",
+    "title": "Bags Before Safety: Frontier Evacuation Faces NTSB Probe Over Carry-On Chaos",
+    "summary": "Passengers reportedly ignored crew instructions and took their carry-on bags.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-05-11T08:41:16Z",
+    "url": "https://simpleflying.com/frontier-ntsb-probe-carry-on-bags-denver-evacuation/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "00f16af0e48b",
+    "title": "RAF A400M drops paratroopers on remote island after Hantavirus alert",
+    "summary": "The Royal Air Force (RAF) has conducted a long-range parachute drop over the island of Tristan da Cunha,&#8230; The post RAF A400M drops paratroopers on remote island after Hantavirus alert appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-11T03:39:00Z",
+    "url": "https://www.aerotime.aero/articles/raf-a400m-deploys-paratroopers-to-remote-island-to-treat-hantavirus-patient",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d9be4b279349",
     "title": "RAF A400M Airdrops Medics To World's Most Remote Island For Hantavirus Case",
     "summary": "The British Army and RAF team up for an extreme delivery.",
@@ -156,7 +178,7 @@
   {
     "id": "a7d55ab3e2d2",
     "title": "Crowdfunding campaign collects hundreds of millions to restart Spirit Airlines",
-    "summary": "An online crowdfunding campaign to raise money to purchase Spirit Airlines and restart the airline gathered funding pledges&#8230; The post Crowdfunding campaign collects hundreds of millions to restart Spirit Airlines appeared first on AeroTime.",
+    "summary": "An online crowdfunding campaign to raise money to purchase Spirit Airlines and restart the airline has gathered funding&#8230; The post Crowdfunding campaign collects hundreds of millions to restart Spirit Airlines appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-05-10T11:18:17Z",
@@ -173,6 +195,17 @@
     "publishedDate": "2026-05-10T10:43:44Z",
     "url": "https://simpleflying.com/alaska-airlines-boeing-787-flight-report/",
     "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a7f80cae8ff3",
+    "title": "Runway trespasser killed by Frontier Airlines aircraft taking off from Denver",
+    "summary": "A person died at Denver International Airport (DEN) after being hit on the runway by a Frontier Airlines&#8230; The post Runway trespasser killed by Frontier Airlines aircraft taking off from Denver appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-10T10:13:18Z",
+    "url": "https://www.aerotime.aero/articles/frontier-airlines-aircraft-hits-and-kills-runway-trespasser-in-denver",
+    "airlineTag": "Frontier Airlines",
     "isBreaking": false
   },
   {
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-04T11:08:13Z",
     "url": "https://simpleflying.com/video/end-of-an-era-final-spirit-airlines-flight-lands-in-dallas-as-carrier-confirms-shutdown/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a8d9e21bf29b",
-    "title": "Delta, American and United step in with rescue fares after Spirit collapses",
-    "summary": "Delta Air Lines, American Airlines, and United Airlines are offering discounted fares and job opportunities to support passengers&#8230; The post Delta, American and United step in with rescue fares after Spirit collapses appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-04T10:54:59Z",
-    "url": "https://www.aerotime.aero/articles/delta-american-and-united-step-in-with-rescue-fares-after-spirit-collapses",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "28763af4e99f",
-    "title": "What United Airlines' Relax Row Economy Beds Actually Cost Vs. Premium Economy On Long-Haul Flights",
-    "summary": "The sky bed offers economy passengers a cheaper sleep-focused alternative to Premium Plus on long-haul international flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-04T08:01:17Z",
-    "url": "https://simpleflying.com/united-relax-row-cost-vs-premium-economy/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a6b8ccf3ab1f",
-    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
-    "summary": "The legacy carrier is ultimately is changing its service guidelines for flights based on distance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-04T05:53:41Z",
-    "url": "https://simpleflying.com/delta-air-lines-remove-main-cabin-drinks-snacks-450-flights/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
