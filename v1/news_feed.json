@@ -1,5 +1,38 @@
 [
   {
+    "id": "4a1e693548d6",
+    "title": "Six Military Aircraft With The Highest Service Ceilings In Service Today",
+    "summary": "Spy aircraft typically have the highest operational ceiling, although these values, and often the aircraft themselves, are classified.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T08:01:17Z",
+    "url": "https://simpleflying.com/military-aircraft-highest-service-ceilings-service-today/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f65e9e8409af",
+    "title": "After 60 Years: Why The US Air Force Is Finally Ready To Retire The T-38 Talon",
+    "summary": "A new era in pilot training begins.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T06:00:17Z",
+    "url": "https://simpleflying.com/us-air-force-retiring-t38-talon-t7a-red-hawk/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "21d7fe6fc425",
+    "title": "No More Air France-KLM: Group To Scrap 22-Year-Old Name Amid SAS & TAP Moves",
+    "summary": "A significant rebranding could be on the cards for one of Europe's biggest airline groups.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T04:03:13Z",
+    "url": "https://simpleflying.com/air-france-klm-group-name-sas-tap-rebrand/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "508aed7f5fb7",
     "title": "When Spirit Airlines Left Minneapolis, Fares Doubled: Now It's Everywhere",
     "summary": "The ultra-low-cost carrier recently ceased operations.",
@@ -227,17 +260,6 @@
     "category": "industry",
     "publishedDate": "2026-05-11T13:38:38Z",
     "url": "https://www.aerotime.aero/articles/latam-cargo-ships-24400-tons-of-flowers-for-mothers-day-from-south-america",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "21d7fe6fc425",
-    "title": "No More Air France-KLM: Group To Scrap 22-Year-Old Name Amid SAS & TAP Moves",
-    "summary": "A significant rebranding could be on the cards for one of Europe's biggest airline groups.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-11T13:28:27Z",
-    "url": "https://simpleflying.com/air-france-klm-group-name-sas-tap-rebrand/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-05T13:25:27Z",
     "url": "https://www.aerotime.aero/articles/taiwan-carriers-maintain-fuel-surcharges-in-may-absorbing-rising-fuel-costs",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cd573089984c",
-    "title": "Boeing\u2019s Wisk Aero Doubles Autonomous Air Taxi Test Fleet",
-    "summary": "Company\u2019s second Generation 6 eVTOL prototype completes first flight.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-05T13:14:48Z",
-    "url": "https://www.flyingmag.com/boeing-wisk-2nd-autonomous-air-taxi-test-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1922cb025526",
-    "title": "Singapore Airlines selects Starlink for Airbus A380 and A350 passengers",
-    "summary": "Singapore Airlines (SIA) will introduce Starlink Wi-Fi for passengers travelling on its Airbus A380 and A350-900 long-haul aircraft&#8230; The post Singapore Airlines selects Starlink for Airbus A380 and A350 passengers appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T13:01:04Z",
-    "url": "https://www.aerotime.aero/articles/singapore-airlines-starlink-wifi-airbus-a380-a350-passengers",
     "airlineTag": null,
     "isBreaking": false
   }
