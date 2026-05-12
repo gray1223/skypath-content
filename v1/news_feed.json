@@ -1,5 +1,71 @@
 [
   {
+    "id": "cb703eadd6cd",
+    "title": "LOT-Boeing 737 MAX Trial Opens In Seattle",
+    "summary": "The airline is seeking damages tied to the aircraft\u2019s worldwide grounding.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-12T19:44:00Z",
+    "url": "https://avweb.com/aviation-news/aviation-law/lot-boeing-737-max-trial-opens-seattle/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bf8ab7727a88",
+    "title": "Those Mysterious Black Panels On The B-21 Raider's Belly: What They Actually Are",
+    "summary": "The Air Force's testbed B-21 Raiders have some very visible panels on the underbelly that may not be visible on final combat examples.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T19:00:18Z",
+    "url": "https://simpleflying.com/mysterious-black-panels-b-21-raider-belly/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2f515f46e972",
+    "title": "Air Force One's Classified Backup: The Secret Aircraft That Follows The President Everywhere",
+    "summary": "Shadowy modified Boeing 757s, Doomsday planes, and business jets almost always follow the President.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T19:00:18Z",
+    "url": "https://simpleflying.com/af-1-classified-back-up-secret-aircraft-follows-president-everywhere/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7792f1c7e952",
+    "title": "Air Antilles shuts down for good following court ordered liquidation",
+    "summary": "Air Antilles has shut down for good after a court in Guadeloupe in the Caribbean ordered the regional&#8230; The post Air Antilles shuts down for good following court ordered liquidation appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-12T18:13:53Z",
+    "url": "https://www.aerotime.aero/articles/air-antilles-shuts-down-court-liquidation",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "121e7291c776",
+    "title": "Skyborne Expands U.S. Flight School With ATP-CTP and CFI Pathway",
+    "summary": "Academy adds to its FAA Part 141 program with new resources for aspiring airline pilots and instructors.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-12T18:00:00Z",
+    "url": "https://www.flyingmag.com/skyborne-expands-us-flight-school-atp-ctp-cfi/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "affdaa78ad72",
+    "title": "The Real Reason Why Airlines Are Struggling To Hire Enough Pilots",
+    "summary": "A closer look at the hidden factors behind the pilot shortage crisis.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-05-12T17:30:19Z",
+    "url": "https://simpleflying.com/real-reason-why-airlines-struggling-hire-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f735b15b53d3",
     "title": "Training and Safety Tip: Master the fundamental four",
     "summary": "The flight training community has long recognized that when a student is struggling with a maneuver, the problem is usually a weakness in a precursor skill, rather than anything to do with the maneuver at hand.",
@@ -7,6 +73,61 @@
     "category": "training",
     "publishedDate": "2026-05-12T16:52:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6b86e64be828",
+    "title": "Air Canada Cuts 13 International Routes: See All Flight Changes Now",
+    "summary": "While the airline's international flights have risen by 1%, some routes have been cut... see them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T16:00:19Z",
+    "url": "https://simpleflying.com/air-canada-cuts-14-international-routes-see-all-flight-changes-now/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "14bf9a7b3387",
+    "title": "United Airlines' Boeing 787 Captains Can Clear Nearly $600,000 A Year: Here's The Full Picture",
+    "summary": "This is how United's Boeing 787 captains can earn nearly $600,000 annually",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T16:00:19Z",
+    "url": "https://simpleflying.com/united-airlines-boeing-787-captains-clear-nearly-600000-year-full-picture/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2e40bce0c248",
+    "title": "Picture of the Day: May 12, 2026",
+    "summary": "Canada's Snowbirds finish up spring training.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-12T15:52:38Z",
+    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-may-12-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bdb4eebcc8f0",
+    "title": "FedEx Resumes MD-11 Operations",
+    "summary": "FAA-approved protocol includes required maintenance and inspections before the aircraft can fly.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-12T14:52:49Z",
+    "url": "https://avweb.com/aviation-news/fedex-resumes-md-11-operations/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "4e136a26e788",
+    "title": "LOT Polish Airlines Takes Boeing To Court Despite Still Flying 26 737 MAX Jets",
+    "summary": "The parties involved in the trial made their opening statements yesterday at the US District Court in Seattle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T14:39:07Z",
+    "url": "https://simpleflying.com/lot-polish-airlines-boeing-737-max-legal-battle/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -205,17 +326,6 @@
     "category": "industry",
     "publishedDate": "2026-05-11T20:42:24Z",
     "url": "https://simpleflying.com/20-widebodies-lufthansa-doubles-down-boeing-787-9-airbus-a350/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb8de2a24ceb",
-    "title": "US Air Force clears Boeing T-7A Red Hawk for production",
-    "summary": "The US Air Force has cleared the Boeing T-7A Red Hawk for production, moving the long-delayed advanced trainer&#8230; The post US Air Force clears Boeing T-7A Red Hawk for production appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-11T20:36:41Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-clears-boeing-t-7a-red-hawk-production-2",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-06T09:53:09Z",
     "url": "https://simpleflying.com/record-deal-embraer-c390-uae/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0438df3ef6e7",
-    "title": "US State Department approves $373.6 million JDAM-ER sale to Ukraine",
-    "summary": "The US State Department approved a possible Foreign Military Sale of extended-range Joint Direct Attack Munition (JDAM-ER) tail&#8230; The post US State Department approves $373.6 million JDAM-ER sale to Ukraine appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T08:59:46Z",
-    "url": "https://www.aerotime.aero/articles/us-approves-jdam-er-sale-ukraine-373-million",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "296d8183f70d",
-    "title": "Why Does The US Navy Still Rely On The F/A-18 Super Hornet?",
-    "summary": "The F/A-18 has been able to carry out most of the Navy's requirements while being affordable, although it is increasingly struggling.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T02:00:30Z",
-    "url": "https://simpleflying.com/why-us-navy-still-rely-fa-18-super-hornet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8990bf73f6d0",
-    "title": "Training and Safety Tip: Angle for the wind",
-    "summary": "Wind affects airplanes in flight as soon as they leave the ground, so pilots must constantly adjust their heading accordingly to maintain their desired track over the ground.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-05T22:49:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/05/training-and-safety-tip-angle-for-the-wind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "20a073a9f01d",
-    "title": "\u201cBold Vision\u201d: American Airlines Pilot Union Expresses Openness To Merger",
-    "summary": "American Airlines pilots signal openness to merger, as frustration with leadership spills into public view.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T21:41:32Z",
-    "url": "https://simpleflying.com/bold-vision-american-airlines-pilot-union-openness-merger/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "aa7a560e31e5",
-    "title": "Why These 5 Airlines\u2019 Business Class Seats Are Superior In 2026",
-    "summary": "The epitome of airborne luxury.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T21:30:19Z",
-    "url": "https://simpleflying.com/5-airlines-business-class-seats-superior-2026-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "39c707745375",
-    "title": "How United Airlines' New Polaris Studio Suites Differ From American's Flagship Suite Preferred",
-    "summary": "This is why airlines are doubling down on \"business plus\" products and how the new offering compares for United and American.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T21:30:19Z",
-    "url": "https://simpleflying.com/how-united-airlines-new-polaris-studio-suites-differ-american-flagship-suite-preferred/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "98c96f7d61a8",
-    "title": "17-Hour Nonstop Flights: Delta's 10 New Ultra-Long Routes In 2026 [Updated]",
-    "summary": "Three of the routes are new. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T20:00:23Z",
-    "url": "https://simpleflying.com/17-hour-nonstop-flights-deltas-10-new-ultra-long-routes-in-2026-updated/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "7fd93ff0255d",
-    "title": "The Failing Latch That Turned A Boeing 737's Heads-Up Display Into A Projectile Danger For Pilots",
-    "summary": "The Heads-Up Display, designed to enhance pilot situational awareness, became a projectile during a Southwest Airlines flight, striking the captain.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T20:00:23Z",
-    "url": "https://simpleflying.com/failing-latch-boeing-737-hud-projectile-danger-pilots/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fe0abe12bd20",
-    "title": "Airbus set for historic A220 announcement as large AirAsia order nears",
-    "summary": "Airbus is preparing for what it calls a \u201chistoric\u201d A220 announcement in Canada as AirAsia moves closer to&#8230; The post Airbus set for historic A220 announcement as large AirAsia order nears appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T19:48:20Z",
-    "url": "https://www.aerotime.aero/articles/airbus-historic-a220-announcement-airasia-deal",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0bc9d00364e1",
-    "title": "WATCH: NASA\u2019s Supersonic X-59 Pushes the Envelope",
-    "summary": "Researchers are validating the aircraft\u2019s performance before propelling it to supersonic speeds.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-05T19:43:51Z",
-    "url": "https://www.flyingmag.com/watch-nasa-supersonic-x59-push-envelope/",
     "airlineTag": null,
     "isBreaking": false
   }
