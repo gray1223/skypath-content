@@ -1,5 +1,93 @@
 [
   {
+    "id": "508aed7f5fb7",
+    "title": "When Spirit Airlines Left Minneapolis, Fares Doubled: Now It's Everywhere",
+    "summary": "The ultra-low-cost carrier recently ceased operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T01:00:18Z",
+    "url": "https://simpleflying.com/spirit-airlines-left-minneapolis-fares-doubled-now-everywhere/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c503fd1154e9",
+    "title": "AAR to wind down $252M airline component repair business",
+    "summary": "AAR plans to wind down its commercial airline component repair business that, despite generating more than $250 million&#8230; The post AAR to wind down $252M airline component repair business appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-12T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/aar-wind-down-airline-component-repair-business",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d8c3c89bcb67",
+    "title": "Here's Why The US Air Force Just Doubled Its Order For A Non-Stealth Fighter Jet",
+    "summary": "The F-15EX is slated for increased procurement, lets explore why the USAF has has made this decision, and payload is only part of the equation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T00:00:19Z",
+    "url": "https://simpleflying.com/why-usaf-doubles-order-non-stealth-fighter-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5d18519f2109",
+    "title": "Beyond bird strikes",
+    "summary": "As drones and other airborne traffic add to traditional bird strike risks, pilots face a growing challenge during the most critical phases of flight. A new iPhone app aims to provide real-time detection of hazards before they come into view.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-11T23:04:44Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/11/beyond-bird-strikes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a6c7d19b0db3",
+    "title": "Just 290 Miles: American Airlines Abruptly Ends Its Shortest Route To Mexico",
+    "summary": "American Airlines' has announced a sudden suspension of its shortest international route to Mexico.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-05-11T22:23:15Z",
+    "url": "https://simpleflying.com/american-airlines-ends-shortest-route-to-mexico/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6fc243698d7c",
+    "title": "Here's How Much More Spacious Delta One Is Compared To Premium Select",
+    "summary": "The SkyTeam carrier's flagship product is a fan-favorite.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-11T21:00:18Z",
+    "url": "https://simpleflying.com/delta-one-vs-premium-select-space-comparison/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "01991a563466",
+    "title": "20 More Widebodies: Lufthansa Doubles Down On Boeing 787-9 and Airbus A350-900",
+    "summary": "Lufthansa orders 20 more widebodies as its long-haul fleet transformation gathers pace.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-11T20:42:24Z",
+    "url": "https://simpleflying.com/20-widebodies-lufthansa-doubles-down-boeing-787-9-airbus-a350/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bb8de2a24ceb",
+    "title": "US Air Force clears Boeing T-7A Red Hawk for production",
+    "summary": "The US Air Force has cleared the Boeing T-7A Red Hawk for production, moving the long-delayed advanced trainer&#8230; The post US Air Force clears Boeing T-7A Red Hawk for production appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-11T20:36:41Z",
+    "url": "https://www.aerotime.aero/articles/us-air-force-clears-boeing-t-7a-red-hawk-production-2",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cd4831735173",
     "title": "Lufthansa orders 20 more Airbus and Boeing long-haul aircraft",
     "summary": "Lufthansa Group has ordered 20 additional long-haul aircraft from Airbus and Boeing as it continues the largest fleet&#8230; The post Lufthansa orders 20 more Airbus and Boeing long-haul aircraft appeared first on AeroTime.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-05-05T13:01:04Z",
     "url": "https://www.aerotime.aero/articles/singapore-airlines-starlink-wifi-airbus-a380-a350-passengers",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "552b001a554b",
-    "title": "US Air Force\u2019s B-52J re-engining clears design review, nears flight testing",
-    "summary": "The US Air Force\u2019s B-52 Commercial Engine Replacement Program has completed its Critical Design Review, clearing the way&#8230; The post US Air Force\u2019s B-52J re-engining clears design review, nears flight testing appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T12:27:48Z",
-    "url": "https://www.aerotime.aero/articles/usaf-b-52j-reengining-closer-flight-testing",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "68d1229d9379",
-    "title": "Look Out: Why Mastering Cockpit Sight Picture Remains Job One",
-    "summary": "Where a student pilot gazes is almost as important as what they see.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-05T12:00:00Z",
-    "url": "https://www.flyingmag.com/look-out-why-mastering-cockpit-sight-picture-remains-job-one/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb8de2a24ceb",
-    "title": "US Air Force clears Boeing T-7A Red Hawk for production",
-    "summary": "The United&#160;States&#160;Air Force has cleared the Boeing-Saab T-7A Red Hawk&#160;trainer&#160;for&#160;initial&#160;production, approving the first low-rate production lot of&#160;aircraft.&#160; The&#8230; The post US Air Force clears Boeing T-7A Red Hawk for production a...",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T10:43:29Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-clears-boeing-t-7a-red-hawk-production",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bc31a732f4e6",
-    "title": "Israel approves purchase of additional F-35I and F-15IA squadrons from the US",
-    "summary": "Israel has approved the purchase of two additional fighter jet squadrons from the United States, adding to its&#8230; The post Israel approves purchase of additional F-35I and F-15IA squadrons from the US appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T10:28:01Z",
-    "url": "https://www.aerotime.aero/articles/israel-approves-purchase-of-additional-f-35i-and-f-15ia-squadrons-from-the-us",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "47125b087bf9",
-    "title": "Too Low: United Airlines Boeing 767-400ER Collides With Bakery Truck & Light Pole In Newark",
-    "summary": "In a dramatic case of dangerous airfield operations at Newark Liberty International Airport, United Airlines Flight 169 struck a light pole as well as a truck crossing the New Jersey Turnpike. Reports indicate that the driver of the truck, Warren Boardley, was fortunate to sus...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T10:27:53Z",
-    "url": "https://simpleflying.com/video/too-low-united-airlines-boeing-767-400er-collides-with-bakery-truck-light-pole-in-newark/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "11699daba4e3",
-    "title": "Reaper, Hawkeye,\u00a0EMALS: Is France as militarily sovereign as it thinks?",
-    "summary": "A new&#160;parliamentary report&#160;on French military dependence on foreign suppliers&#160;identifies&#160;gaps in sovereignty ranging from MALE drones to satellite-based early&#8230; The post Reaper, Hawkeye, EMALS: Is France as militarily sovereign as it thinks? appeared f...",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T10:07:10Z",
-    "url": "https://www.aerotime.aero/articles/france-us-aerospace-dependencies-report",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c2398b42b036",
-    "title": "Why Do Pilots Use The Term Zulu Time Instead Of UTC?",
-    "summary": "The language pilots speak on the radio is not jargon. Every word has a reason, and most of those reasons are more interesting than you might expect.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T08:00:18Z",
-    "url": "https://simpleflying.com/why-pilots-use-term-zulu-time-instead-utc/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "53c5dacdbe93",
-    "title": "The Short-Lived Airbus A380-800 Freighter Concept That Was Cancelled Before A Single Aircraft Was Built",
-    "summary": "Airbus once convinced FedEx, UPS, and Emirates to bet on the biggest freighter ever imagined, but it quietly disappeared before a single one was built",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T05:00:18Z",
-    "url": "https://simpleflying.com/airbus-a380-800-freighter-cancelled-concept/",
-    "airlineTag": "FedEx Express",
     "isBreaking": false
   }
 ]
