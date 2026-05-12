@@ -1,5 +1,104 @@
 [
   {
+    "id": "f735b15b53d3",
+    "title": "Training and Safety Tip: Master the fundamental four",
+    "summary": "The flight training community has long recognized that when a student is struggling with a maneuver, the problem is usually a weakness in a precursor skill, rather than anything to do with the maneuver at hand.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-12T16:52:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "89f2ff92d6f6",
+    "title": "Only 3 Airlines Still Fly Passenger Boeing 747-8s: The US Military Wants Them All",
+    "summary": "The USAF is acquiring as many used 747-8s as it can.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T13:30:19Z",
+    "url": "https://simpleflying.com/only-3-airlines-fly-boeing-747-8-us-military-wants-all/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c05efa5195de",
+    "title": "8,200 Miles: Qatar Airways Adds One Of Its Longest Flights With Bogota-Caracas Triangle Route",
+    "summary": "This new route is certainly set to turn a few heads, as the airline becomes the only gulf carrier to serve both Bogota and Caracas.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T13:00:19Z",
+    "url": "https://simpleflying.com/qatar-airways-bogota-caracas-triangle-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6effa79e3718",
+    "title": "Stutzer Wins Heavy Touring Class at Valdez STOL",
+    "summary": "Helio Alaska CEO secures another victory in his classic 1972 Helio H-295.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-12T13:00:00Z",
+    "url": "https://www.flyingmag.com/stutzer-wins-heavy-touring-class-at-valdez-stol/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f193b352e3e9",
+    "title": "French bee pilots file strike notice over refusal to increase salaries",
+    "summary": "Pilots at the long-haul low-cost carrier French bee look set to strike after the National Union of Airline&#8230; The post French bee pilots file strike notice over refusal to increase salaries appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-12T12:40:15Z",
+    "url": "https://www.aerotime.aero/articles/french-bee-pilots-file-strike-notice",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b9f6118f451e",
+    "title": "Find the Right Flight Instructor for Your New Airplane",
+    "summary": "Here are some tips to vetting CFIs, understanding insurance, and securing safe training.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-12T12:00:00Z",
+    "url": "https://www.flyingmag.com/find-the-right-flight-instructor-for-your-new-airplane/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "db516cfdbe5a",
+    "title": "USAF tests Advanced Precision Kill Weapon System using MQ-9A Reaper",
+    "summary": "The United States Air Force (USAF) together with General Atomics Aeronautical Systems (GA-ASI) have conducted flight tests of&#8230; The post USAF tests Advanced Precision Kill Weapon System using MQ-9A Reaper appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-12T10:27:57Z",
+    "url": "https://www.aerotime.aero/articles/usaf-tests-advanced-precision-kill-weapon-system-using-mq-9a-reaper",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ac0db28be197",
+    "title": "Here's What The Secret Symbols Painted On US Air Force Fighter Jets Actually Mean",
+    "summary": "Kill markings track victories and missions on combat aircraft, evolving from WWII symbols into a regulated system still used on modern USAF jets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-12T10:01:27Z",
+    "url": "https://simpleflying.com/secret-symbols-painted-usaf-fighter-jets-actually-mean/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6f56e26571ec",
+    "title": "Hyundai partners with Korea Aerospace Industries (KAI) to reactivate Supernal",
+    "summary": "Supernal, the US-based advanced air mobility (AAM) arm of Korean automaker Hyundai, announced on May 11, 2026, that&#8230; The post Hyundai partners with Korea Aerospace Industries (KAI) to reactivate Supernal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-12T09:43:43Z",
+    "url": "https://www.aerotime.aero/articles/hyundai-partners-with-korea-aerospace-industries-kai-to-reactivate-supernal",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4a1e693548d6",
     "title": "Six Military Aircraft With The Highest Service Ceilings In Service Today",
     "summary": "Spy aircraft typically have the highest operational ceiling, although these values, and often the aircraft themselves, are classified.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-05T19:43:51Z",
     "url": "https://www.flyingmag.com/watch-nasa-supersonic-x59-push-envelope/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5717f25c4e72",
-    "title": "Elixir Aircraft Begins U.S. Deliveries",
-    "summary": "First U.S.-based aircraft are expected to appear at AirVenture this summer.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-05T19:38:32Z",
-    "url": "https://avweb.com/aviation-news/company-news/elixir-aircraft-begins-us-deliveries/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "783358d119c1",
-    "title": "The 7 Largest Air Force Bases By Population In The US",
-    "summary": "Which airfield has the deepest roster?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T17:30:20Z",
-    "url": "https://simpleflying.com/largest-airforcebases-by-population-us/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5558ece16584",
-    "title": "Canada Is Secretly Paying For F-35 Parts While Threatening To Buy Sweden's Gripen Instead",
-    "summary": "Inside the troubled RCAF modernization program.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T17:00:18Z",
-    "url": "https://simpleflying.com/canada-secretly-paying-f-35-parts-threatening-buy-sweden-gripen-instead/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59e348268cb9",
-    "title": "Spotted: Boeing\u2019s 1st 777-8 Freighter Rolls Out In Everett",
-    "summary": "We\u2019re admittedly a little late in reporting this news but it was on April 23rd that a Boeing 777-8F was spotted rolling out from the hangar. So, with assembly mostly complete, the aircraft can transition to pre-flight preparations, which will see the engines being installed, f...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T15:32:18Z",
-    "url": "https://simpleflying.com/video/spotted-boeing-s-1st-777-8-freighter-rolls-out-in-everett/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "653116e0751c",
-    "title": "FAA Reviews Wing Drone Delivery Expansion In Houston",
-    "summary": "The proposal would cover up to 75 sites in the Houston metro area.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-05T15:23:58Z",
-    "url": "https://avweb.com/aviation-news/drones/faa-reviews-wing-drone-delivery-houston/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "61ef9bacc2c9",
-    "title": "Textron\u2019s fleet launch partner NetJets receives first Cessna Citation Ascends",
-    "summary": "Textron Aviation\u2019s fleet launch partner NetJets has received its first three Cessna Citation Ascend executive jets following type&#8230; The post Textron\u2019s fleet launch partner NetJets receives first Cessna Citation Ascends appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T14:28:32Z",
-    "url": "https://www.aerotime.aero/articles/textrons-fleet-launch-partner-netjets-receives-first-cessna-citation-ascends",
-    "airlineTag": "NetJets",
-    "isBreaking": false
-  },
-  {
-    "id": "cef28a36576d",
-    "title": "The Flight Attendant Shortage Has Quietly Become The Biggest Constraint For US Airlines Expanding Long-Haul Routes",
-    "summary": "A looming flight attendant shortage could ground US airlines' expansion plans.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T14:00:18Z",
-    "url": "https://simpleflying.com/flight-attendant-shortage-impact-us-airlines-long-haul-growth/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "821ed0dce635",
-    "title": "Airbus Vs Boeing: Who Had The Most Orders Last Year?",
-    "summary": "A closer look at some of the changing trends in the market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-05T13:30:18Z",
-    "url": "https://simpleflying.com/airbus-boeing-2025-more-orders-who/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8dda6604333f",
-    "title": "Taiwan carriers maintain fuel surcharges in May, absorbing rising fuel costs",
-    "summary": "Taiwan&#8217;s major airlines are holding fuel surcharges steady in May 2026, keeping rates at US$45 for short-haul international&#8230; The post Taiwan carriers maintain fuel surcharges in May, absorbing rising fuel costs appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-05T13:25:27Z",
-    "url": "https://www.aerotime.aero/articles/taiwan-carriers-maintain-fuel-surcharges-in-may-absorbing-rising-fuel-costs",
     "airlineTag": null,
     "isBreaking": false
   }
