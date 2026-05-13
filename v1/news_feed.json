@@ -1,5 +1,148 @@
 [
   {
+    "id": "300501c4ffff",
+    "title": "Understanding piston engine fuel system variability",
+    "summary": "During a long taxi on a warm day, or as power is reduced in a descent, many pilots notice small changes in how the engine feels. An idle that isn&rsquo;t quite as smooth, a slight shift in RPM, or a need for minor mixture adjustment are all common observations.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-15T18:39:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/15/understanding-piston-engine-fuel-system-variability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b36b750c419",
+    "title": "Pilots eject safety as US Air Force T-38 trainer crashes in Alabama",
+    "summary": "Two US Air Force pilots ejected safely before a T-38 training jet crashed in rural Alabama on May&#8230; The post Pilots eject safety as US Air Force T-38 trainer crashes in Alabama appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-05-13T19:21:15Z",
+    "url": "https://www.aerotime.aero/articles/pilots-eject-us-air-force-t-38-crash-alabama",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5d922c6ef3e9",
+    "title": "The F-35's Safety Record Nobody Talks About When Comparing It To The F-16",
+    "summary": "How safe is the American stealth fighter?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T19:00:18Z",
+    "url": "https://simpleflying.com/f-35-safety-record-nobody-talks-about-comparing-f-16/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0fe14fb1fdd7",
+    "title": "Sporty\u2019s Pilot Shop Founder Dead at 90",
+    "summary": "Hal Shevers leaves behind more than 60 years of aviation education and innovation and community service.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-13T19:00:00Z",
+    "url": "https://www.flyingmag.com/sportys-pilot-shop-founder-dead-at-90/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "11331377ae4e",
+    "title": "USAF Apologizes After F-35 Triggers Sonic Boom Over England",
+    "summary": "An F-35A fighter inadvertently caused a sonic boom during a training mission over eastern England.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-13T18:29:33Z",
+    "url": "https://avweb.com/aviation-news/usaf-f35-sonic-boom-england-apology/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "18939d274d08",
+    "title": "31% Raises & $741 Million In Back Pay: United Airlines Flight Attendants Ratify Landmark Deal",
+    "summary": "The newly approved contract significantly boosts pay for United's flight attendants, with overall wage growth estimated at around 31%.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-05-13T18:02:46Z",
+    "url": "https://simpleflying.com/united-airlines-flight-attendants-ratify-landmark-deal/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d7ac34fb10fe",
+    "title": "Not Just Air Force One: The World's Most Impressive Government VIP Fleets",
+    "summary": "From Air Force One to commercial flights, discover how world leaders travel with powerful, unique VIP aircraft shaping global diplomacy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T18:00:19Z",
+    "url": "https://simpleflying.com/world-most-impressive-government-vip-aircraft-fleets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9bdc6c7d072c",
+    "title": "Gun Magazine Discovered On Frontier Airlines Flight",
+    "summary": "Passengers were forced to deplane and fly out the next morning. Investigation conitnues.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T17:00:47Z",
+    "url": "https://simpleflying.com/gun-magazine-discovered-frontier-airlines-a321neo-flight/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "da50ea7cd8b9",
+    "title": "FAA Evaluating Airspace Risks From Proposed \u201cTriumphal Arch\u201d",
+    "summary": "The FAA is reviewing whether a proposed 250-foot \u201ctriumphal arch\u201d near Ronald Reagan Washington National Airport could impact flight safety.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-13T16:22:45Z",
+    "url": "https://avweb.com/aviation-news/faa-reviews-washington-triumphal-arch/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "45c90085720b",
+    "title": "ASA Releases Updated Oral Exam Guide for Flight Instructors",
+    "summary": "Ninth edition provides the knowledge and tools to be a successful CFI.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-13T16:00:00Z",
+    "url": "https://www.flyingmag.com/asa-releases-updated-oral-exam-guide-for-flight-instructors/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8a90297831e3",
+    "title": "Only 70 Seats: 6 Routes Air Canada Flies Its Ultra-Premium, All-Business Class A320s",
+    "summary": "Air Canada\u2019s 70-seat Jetz A320s are a rare find on regular commercial flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T15:04:40Z",
+    "url": "https://simpleflying.com/air-canada-flies-ultra-premium-all-business-a320s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3695d0a2ab5",
+    "title": "FAA Completes First Phase Of NOTAM System Overhaul",
+    "summary": "The agency is transitioning to a new cloud-based system designed to improve reliability, reduce outages, and modernize delivery to pilots and dispatchers.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-13T14:44:13Z",
+    "url": "https://avweb.com/aviation-news/faa-completes-first-phase-of-notam-system/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "05c85932806a",
+    "title": "P-51 Mustang Pilot Killed In Louisiana Accident",
+    "summary": "The accident occurred Tuesday afternoon at Tallulah/Vicksburg Regional Airport.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-05-13T14:31:58Z",
+    "url": "https://avweb.com/flight-safety/accidents-ntsb/p-51-mustang-louisiana-accident/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "322f802f629a",
     "title": "United Airlines Ventures Backs Startup Enhanced Radar",
     "summary": "System aims to give airport personnel quicker, clearer operational insights.",
@@ -46,7 +189,7 @@
   {
     "id": "b066cc564743",
     "title": "Airparks: Home Is Where the Hangar Is",
-    "summary": "Unique spots offer pilots coveted chance to love alongside their planes.",
+    "summary": "Unique spots offer pilots coveted chance to live alongside their planes.",
     "source": "Flying Magazine",
     "category": "industry",
     "publishedDate": "2026-05-13T12:00:00Z",
@@ -2054,149 +2197,6 @@
     "publishedDate": "2026-05-07T09:14:08Z",
     "url": "https://www.aerotime.aero/articles/emirates-annual-results-2026-profits",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c7c2d32a0a5",
-    "title": "The Airbus A220 Is Rewriting The Rules Of Short-Haul Economics",
-    "summary": "The aircraft is revolutionizing short-haul aviation, offering airlines a highly versatile solution to adapt to shifting demand.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-07T05:00:18Z",
-    "url": "https://simpleflying.com/airbus-a220-rewriting-short-haul-economics/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0f7f4352f22e",
-    "title": "Airport Conducts Disaster Drill Despite Having Zero Service After Spirit Airlines\u2019 Demise",
-    "summary": "A small American airfield is persevering with its regulatory compliance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-07T04:00:37Z",
-    "url": "https://simpleflying.com/airport-conducts-zero-service-spirit-airlines-demise/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "29c3fc46306b",
-    "title": "How Sanctions Can Shatter Entire Airlines",
-    "summary": "Sanctions don't just ground aircraft. They can dismantle entire airlines, one spare part at a time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-07T00:00:19Z",
-    "url": "https://simpleflying.com/how-sanctions-ground-entire-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "67529e3eb43a",
-    "title": "The FAA Fired A Military Laser At A Boeing 767 For 8 Seconds: Here's What Happened",
-    "summary": "The incident has certainly raised some eyebrows among defense industry observers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T22:00:20Z",
-    "url": "https://simpleflying.com/faa-fired-military-laser-boeing-767-8-seconds-what-happened/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c643e579fa06",
-    "title": "The 7 Most Remote Royal Air Force Bases & Their Strategic Roles",
-    "summary": "The RAF operates bases in the Atlantic and other locations beyond the British Isles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T21:30:19Z",
-    "url": "https://simpleflying.com/7-most-remote-raf-bases-and-strategic-roles/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "486bcc671f18",
-    "title": "Aircraft Maintenance: Leaking propellers",
-    "summary": "At some point in the life of a constant-speed propeller, it happens: Tiny dots appear on the windshield. Your propeller is leaking oil. What you do&mdash;and when you do it&mdash;requires informed decision-making to protect both your safety and your wallet.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-06T21:03:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/06/aircraft-maintenance-leaking-propellers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9f8f0377ea11",
-    "title": "AirAsia places multi-billion-dollar order for 150 Airbus A220-300s",
-    "summary": "AirAsia has placed a firm order for 150 Airbus A220-300 aircraft, giving the Canadian-built jet its largest single order&#8230; The post AirAsia places multi-billion-dollar order for 150 Airbus A220-300s appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T20:23:45Z",
-    "url": "https://www.aerotime.aero/articles/airasia-record-order-150-airbus-a220s",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e7bd50339323",
-    "title": "Breeze Airways Cuts 9 Routes: See All Flight Changes Now",
-    "summary": "How many of them can you guess? Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T20:00:18Z",
-    "url": "https://simpleflying.com/breeze-airways-cuts-9-routes-see-all-flight-changes-now/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "f97c1acbecb6",
-    "title": "The Little-Known US Law That Makes Photographing Military Aircraft A Federal Crime",
-    "summary": "National security concerns are behind this seemingly bizarre rule.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T20:00:18Z",
-    "url": "https://simpleflying.com/little-known-us-law-photographing-military-aircraft-federal-crime/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a88f3ead8110",
-    "title": "FAA Proposes CF34 Engine Inspections Following Fatal Challenger Crash",
-    "summary": "The FAA proposed new inspections for CF34 engines after a fatal 2024 Challenger crash linked to corrosion-related thrust loss.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-06T19:56:31Z",
-    "url": "https://avweb.com/aviation-news/faa-proposes-cf34-engine-inspections-following-fatal-challenger-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9b6600fe99c0",
-    "title": "US Navy F/A-18 disables Iranian tanker with 20mm cannon fire",
-    "summary": "A US Navy F/A-18 Super Hornet disabled an Iranian-flagged oil tanker in the Gulf of Oman on May&#8230; The post US Navy F/A-18 disables Iranian tanker with 20mm cannon fire appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T19:47:14Z",
-    "url": "https://www.aerotime.aero/articles/us-navy-f-a-18-disables-iranian-tanker-with-20mm-cannon-fire",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "382245e362ee",
-    "title": "Raytheon secures major SharpSight radar order in global distribution deal",
-    "summary": "Raytheon has received its largest order to date for its SharpSight surveillance radar, with distribution partner Blue Raven signing a contract for&#8230; The post Raytheon secures major SharpSight radar order in global distribution deal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T19:24:08Z",
-    "url": "https://www.aerotime.aero/articles/raytheon-sharpsight-radar-global-distribution-deal",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9419740f58d4",
-    "title": "MHIRJ support role grows as CRJ450 gives new life to regional jet fleet",
-    "summary": "SkyWest\u2019s plan to convert United Express CRJ200 aircraft into a new CRJ450 configuration is putting renewed attention on MHIRJ, the&#8230; The post MHIRJ support role grows as CRJ450 gives new life to regional jet fleet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T18:55:50Z",
-    "url": "https://www.aerotime.aero/articles/mhirj-crj450-support-regional-jet-fleet",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
