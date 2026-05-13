@@ -1,5 +1,148 @@
 [
   {
+    "id": "322f802f629a",
+    "title": "United Airlines Ventures Backs Startup Enhanced Radar",
+    "summary": "System aims to give airport personnel quicker, clearer operational insights.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-13T14:00:00Z",
+    "url": "https://www.flyingmag.com/united-airlines-startup-enhanced-radar/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ad952152f5d6",
+    "title": "Boeing's 737 MAX Orders Surge: Shaping Future Airline Fleets For Travelers",
+    "summary": "In April alone, the 737 MAX accounted for 57 of the 136 aircraft the manufacturer delivered during the month.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T13:35:59Z",
+    "url": "https://simpleflying.com/boeings-737-max-orders-surge/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9759f78f710a",
+    "title": "Who Can Act as Your Safety Pilot?",
+    "summary": "FAA regulations state an aviator in training can\u2019t log time as a required crewmember for IFR practice.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-05-13T13:00:00Z",
+    "url": "https://www.flyingmag.com/who-can-act-as-your-safety-pilot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9d3cf7ca087b",
+    "title": "Feeling Blue: SAS & jetBlue Separately Unveil New All-Blue Special Liveries",
+    "summary": "We don\u2019t often combine two stories into one video but since we\u2019re discussing two livery unveilings for two relatively small airlines, it seemed to be a good opportunity, with \u2018blue\u2019 being the main theme.Over in Europe, SAS has unveiled one an Airbus A330-300 painted in an all-...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T12:28:19Z",
+    "url": "https://simpleflying.com/video/feeling-blue-sas-jetblue-separately-unveil-new-all-blue-special-liveries/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b066cc564743",
+    "title": "Airparks: Home Is Where the Hangar Is",
+    "summary": "Unique spots offer pilots coveted chance to love alongside their planes.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-13T12:00:00Z",
+    "url": "https://www.flyingmag.com/airparks-home-is-where-the-hangar-is/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c52f22a4cd1e",
+    "title": "Korean Air to launch integrated airline in December 2026 after Asiana merger",
+    "summary": "Korean Air will emerge as South Korea&#8217;s integrated flag carrier on December 17, 2026, marking the end of&#8230; The post Korean Air to launch integrated airline in December 2026 after Asiana merger appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-13T11:29:43Z",
+    "url": "https://www.aerotime.aero/articles/korean-air-to-launch-integrated-airline-in-december-2026-after-asiana-merger",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "faced4586751",
+    "title": "\"It Just Exploded\": Southwest 737-700 Windshield Shatters Despite No Apparent Impact",
+    "summary": "The windshield suddenly fractured while the plane was at 37,000 feet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T11:27:15Z",
+    "url": "https://simpleflying.com/southwest-737-windshield-shatters-no-impact/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5b5c0e51fcd2",
+    "title": "Delta Rejected Starlink Over Branding - Now United's Fleet Is Years Ahead",
+    "summary": "While United plans to equip its entire fleet with Starlink in 2027, the first of Delta's aircraft will only receive Amazon LEO connectivity in 2028!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T11:05:54Z",
+    "url": "https://simpleflying.com/delta-rejected-starlink-branding-united-fleet/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ee66a62ef29a",
+    "title": "Boeing\u2019s delivery lead over Airbus narrows, mystery buyers order 109 jets",
+    "summary": "Boeing still leads Airbus for aircraft deliveries in 2026, but its lead has narrowed after the European manufacturer&#8230; The post Boeing\u2019s delivery lead over Airbus narrows, mystery buyers order 109 jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-13T11:00:13Z",
+    "url": "https://www.aerotime.aero/articles/boeing-deliveries-orders-2026-april",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7023c922579e",
+    "title": "The US Air Force's Hypersonic Gamble Is Taking Shape & B-1B Lancer Is At The Center Of It",
+    "summary": "The B-1B Lancer has been seen with the ARRW hypersonic weapon in testing. This could point to a future as an effective hypersonic asset.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-13T10:00:25Z",
+    "url": "https://simpleflying.com/usaf-hypersonic-gamble-taking-shape-b-1b-lancer-center/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "876c3168837c",
+    "title": "Ethiopian Airlines eyes new order for A350 and A220 aircraft",
+    "summary": "Ethiopian Airlines is considering an order for additional Airbus aircraft, media outlets such as Bloomberg and Business Insider&#8230; The post Ethiopian Airlines eyes new order for A350 and A220 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-13T09:47:13Z",
+    "url": "https://www.aerotime.aero/articles/ethiopian-airlines-eyes-new-order-for-a350-and-a220-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e42c5f7337cd",
+    "title": "Cebu Pacific reports strong Q1 with 54% operating income jump, record passengers",
+    "summary": "Cebu Pacific posted a 10% year-on-year increase in total revenue for the first quarter of 2026, buoyed by&#8230; The post Cebu Pacific reports strong Q1 with 54% operating income jump, record passengers appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-13T09:39:36Z",
+    "url": "https://www.aerotime.aero/articles/cebu-pacific-reports-strong-q1-with-54-operating-income-jump-record-passengers",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5d610412df59",
+    "title": "United CEO praises staff as flight attendants approve breakthrough contract",
+    "summary": "United Airlines CEO Scott Kirby has heaped praise on staff members after flight attendants approved a breakthrough contract&#8230; The post United CEO praises staff as flight attendants approve breakthrough contract appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-13T08:59:18Z",
+    "url": "https://www.aerotime.aero/articles/united-ceo-praises-staff-as-flight-attendants-approve-breakthrough-contract",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "b0591d5ba250",
     "title": "Here's Where All The Aluminum Goes After A Commercial Aircraft Crashes",
     "summary": "Discover the path of the aluminum from a crashed airplane through the forensic hold, through the sorting yard, the smelter, and into a new product.",
@@ -2054,149 +2197,6 @@
     "publishedDate": "2026-05-06T18:55:50Z",
     "url": "https://www.aerotime.aero/articles/mhirj-crj450-support-regional-jet-fleet",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6223039581c2",
-    "title": "The unpredictable way aviation can shape you",
-    "summary": "Hayley Herberg didn&rsquo;t start flying with a career in mind. There was no plan for regionals or majors, no predetermined timeline. She just wanted to fly&mdash;for the sake of flying.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-06T18:55:05Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/06/the-unpredictable-way-aviation-can-shape-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "808bc7369788",
-    "title": "FAA Employee Arrested After Searching How To Unalive President Trump On Work Computer",
-    "summary": "An FAA employee's alarming online activity revealed, including searches about President Donald Trump.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T18:51:22Z",
-    "url": "https://simpleflying.com/faa-employee-arrested-searching-how-unalive-president-trump-work-computer/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "335794cc5f19",
-    "title": "AirAsia Orders 150 Airbus A220s, Becomes Launch Customer Of Larger Seating Configuration",
-    "summary": "The order represents a key political step forward for Canada as it seeks to expand its international export market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T18:36:30Z",
-    "url": "https://simpleflying.com/airasia-airbus-a220-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d87cdd584ca9",
-    "title": "FAA Addresses Drone Threats at \u2018Critical Infrastructure\u2019 Sites",
-    "summary": "Agency\u2019s proposed rule would allow certain facility operators to apply for UAV restrictions.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-06T18:30:00Z",
-    "url": "https://www.flyingmag.com/faa-drone-restrictions-critical-infrastructure/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "20b8d09e31fc",
-    "title": "NBAA Pushes New Effort To Curb CFIT Accidents",
-    "summary": "NBAA is intensifying efforts to reduce CFIT accidents, citing pilot response to terrain warnings and situational awareness as key risk factors.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-05-06T18:12:00Z",
-    "url": "https://avweb.com/air-shows-events/nbaa/nbaa-cfit-accident-prevention/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "744cb85fb0f7",
-    "title": "Here's How Much A Delta One Ticket On An Airbus A350 Actually Costs In 2026",
-    "summary": "It is never easy to find the true cost of any ticket, especially in Delta One, where prices can vary so massively. Here is what to expect in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T18:00:19Z",
-    "url": "https://simpleflying.com/how-much-first-class-ticket-costs-delta-air-lines-airbus-a350-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "d62afe907e2b",
-    "title": "7 Airlines With Superior Business Class Lounges In 2026",
-    "summary": "An elite travel experience starts on the ground.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T17:30:19Z",
-    "url": "https://simpleflying.com/7-airlines-with-superior-business-class-lounges-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "48a649d134ff",
-    "title": "FAA Proposes Drone Restrictions Around Critical Infrastructure",
-    "summary": "The FAA has proposed new rules to restrict drone operations near critical infrastructure.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-06T15:24:40Z",
-    "url": "https://avweb.com/aviation-news/faa-drone-restrictions-infrastructure-rule/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8ef7c747399",
-    "title": "Top 6: These Are The Largest US Air Force Bases Outside The United States",
-    "summary": "The top real estate in the USAF.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-06T15:00:18Z",
-    "url": "https://simpleflying.com/largest-us-air-force-bases-outside-united-states/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6773fcb5078e",
-    "title": "MBDA to help India set up local MICA missile MRO facility",
-    "summary": "MBDA has signed an agreement with the Indian Air Force to develop a local Maintenance, Repair and Mid-Life&#8230; The post MBDA to help India set up local MICA missile MRO facility appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T14:06:23Z",
-    "url": "https://www.aerotime.aero/articles/mbda-india-mica-missile-mro",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba4cb8a50064",
-    "title": "Gone After 3 Years: Virgin Atlantic Abruptly Axes This Long-Haul Route",
-    "summary": "Instead of daily flights to Dubai, the airline will increase its capacity to South Africa, adding a new destination and increasing frequency.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-05-06T14:06:23Z",
-    "url": "https://simpleflying.com/gone-after-3-years-virgin-axes-this-long-haul-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "87435293f927",
-    "title": "Korean Air and Asiana host aviation program for youth amid workforce concerns",
-    "summary": "Korean Air and Asiana Airlines marked Children&#8217;s Day on May 5, 2026, by hosting a joint aviation education&#8230; The post Korean Air and Asiana host aviation program for youth amid workforce concerns appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T13:24:07Z",
-    "url": "https://www.aerotime.aero/articles/korean-air-and-asiana-host-aviation-program-for-youth-amid-workforce-concerns",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8bb28b21e58a",
-    "title": "Ex-USAF pilot allegedly briefed Chinese military on F-35, electronic warfare",
-    "summary": "A retired US Air Force fighter pilot accused of illegally training Chinese military aviators delivered a presentation at&#8230; The post Ex-USAF pilot allegedly briefed Chinese military on F-35, electronic warfare appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-06T13:11:41Z",
-    "url": "https://www.aerotime.aero/articles/ex-usaf-pilot-china-f35-electronic-warfare-briefing",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
