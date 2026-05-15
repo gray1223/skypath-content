@@ -1,5 +1,60 @@
 [
   {
+    "id": "0e2ec1da7e7c",
+    "title": "U.K. Picks 4 Firms to Build Drone \u2018Wingmen\u2019 for Apaches",
+    "summary": "Anduril U.K., BAE Systems, Tekever, and Thales U.K. will compete for final contracts.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-15T19:30:00Z",
+    "url": "https://www.flyingmag.com/uk-picks-4-firms-drone-wingmen-apache-helicopter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b0f06f51ac68",
+    "title": "\u201cDeeply Traumatized\u201d Alaska Airlines Passenger Sues After Flight Plunge Left Crew Bleeding",
+    "summary": "The lawsuit alleges that if the airline knew turbulence was coming, the carrier should have canceled or diverted the flight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T19:26:22Z",
+    "url": "https://simpleflying.com/deeply-traumatized-alaska-airlines-passenger-sues-flight-plunge-crew-bleeding/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ae0644337d3d",
+    "title": "US surveillance flights increase near Cuba as\u00a0fuel runs out and\u00a0tensions rise",
+    "summary": "US military intelligence-gathering flights have increased off Cuba\u2019s coast recently as a broader pressure campaign against Havana now includes a&#8230; The post US surveillance flights increase near Cuba as fuel runs out and tensions rise appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-15T19:25:22Z",
+    "url": "https://www.aerotime.aero/articles/us-surveillance-flights-increase-near-cuba",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b1e5ead788a9",
+    "title": "Over Two-Thirds Of Ex-Spirit Airlines Jets Are Already In Storage, Flight Tracking Data Shows",
+    "summary": "The carrier ceased operations just under two weeks ago.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T19:00:19Z",
+    "url": "https://simpleflying.com/over-two-thirds-ex-spirit-airlines-jets-already-storage/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "795061ed5989",
+    "title": "This Is Canada's 2nd-Largest Airline In 2026",
+    "summary": "With over 150 aircraft transporting around 22.6 million passengers on more than 215,000 flights in 2025, WestJet is Canada's second-largest airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T19:00:19Z",
+    "url": "https://simpleflying.com/canada-2nd-largest-airline-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "300501c4ffff",
     "title": "Understanding piston engine fuel system variability",
     "summary": "During a long taxi on a warm day, or as power is reduced in a descent, many pilots notice small changes in how the engine feels. An idle that isn&rsquo;t quite as smooth, a slight shift in RPM, or a need for minor mixture adjustment are all common observations.",
@@ -7,6 +62,50 @@
     "category": "training",
     "publishedDate": "2026-05-15T18:39:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/15/understanding-piston-engine-fuel-system-variability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f56d940611e6",
+    "title": "Trump Says US Could Promise China Up To 750 New Boeing Planes \u201cIf They Do A Good Job\u201d",
+    "summary": "As Boeing seeks to rebuild its position in China, Trump's proposal of up to 750 new aircraft orders could significantly impact US aerospace.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T18:30:56Z",
+    "url": "https://simpleflying.com/trump-us-promise-china-750-new-boeing-planes-do-good-job/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8b8cfb3b5cfa",
+    "title": "The US Air Force Wants 1,000 AI Drones To Fly Alongside Its F-35s",
+    "summary": "The grand plan for an uncrewed air force.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T18:00:18Z",
+    "url": "https://simpleflying.com/usaf-1000-ai-drones-fly-alongside-f-35s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d4b4c11218d1",
+    "title": "DOT Invests Over $800M to Replace Old ATC Facilities",
+    "summary": "Funding will replace eight towers and terminal radar approach control (TRACON) facilities and upgrade 41 contract towers.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-15T17:00:00Z",
+    "url": "https://www.flyingmag.com/dot-invests-800m-replace-atc-facilities/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0a7d0adffe96",
+    "title": "Army Aviation Training Pressed At Budget Hearing",
+    "summary": "Lawmakers questioned officials on fuel costs, helicopter funding and readiness amid rising costs.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-05-15T14:57:25Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/army-aviation-training-budget-questions/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "hiring",
     "publishedDate": "2026-05-09T12:27:19Z",
     "url": "https://simpleflying.com/video/british-airways-will-pay-pilots-100-000-a-year-to-taxi-at-chicago-o-hare/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59f548e9e542",
-    "title": "Only 67 First Class Seats: The Hidden Trade-Offs Behind Emirates' Airbus A380 Cabin Design",
-    "summary": "Emirates is switching around the space inside of its iconic A380s, and now, they are making some really interesting changes to the upstairs section",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T11:01:17Z",
-    "url": "https://simpleflying.com/67-first-class-seats-hidden-trade-offs-emirates-airbus-a380-cabin-design/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "032cd1c54da0",
-    "title": "\"Pedestrian On The Runway\": Frontier Jet Hits Person During Takeoff, Suffers Engine Fire",
-    "summary": "Smoke entered the cabin and the crew declared an engine fire.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T09:46:10Z",
-    "url": "https://simpleflying.com/frontier-jet-hits-pedestrian-runway-takeoff-engine-fire/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "42e328099b8f",
-    "title": "Singapore Airlines Huge Growth: Record 128 Weekly Flights To Europe For 2026",
-    "summary": "The airline will be deploying the highest capacity to London with up to six daily departures, equating to 38 weekly flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T08:17:37Z",
-    "url": "https://simpleflying.com/singapore-airlines-record-europe-flights-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0c9b52011c4f",
-    "title": "Delta Employee Dies After Tug Vehicle Collides With Jet Bridge In Orlando",
-    "summary": "A ground crew member tragically lost their life after an accident at Orlando International Airport",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T07:32:56Z",
-    "url": "https://simpleflying.com/delta-employee-tug-collision-orlando-jet-bridge/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "f247f7d1a5a6",
-    "title": "5 Aircraft That Pilots Trust The Most",
-    "summary": "From flight training to long-haul widebodies, these aircraft have earned the trust of pilots worldwide.",
-    "source": "Simple Flying",
-    "category": "training",
-    "publishedDate": "2026-05-09T07:00:18Z",
-    "url": "https://simpleflying.com/5-aircraft-pilots-trust-most/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b84ec3c5be7",
-    "title": "MD-11 Return: How A Small Engine Fix Is Getting FedEx's Tri-Jets Back In The Air",
-    "summary": "The return of the McDonnell Douglas MD-11 to the skies could be near, with Boeing having designed a fix.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T04:38:53Z",
-    "url": "https://simpleflying.com/md-11-return-boeing-engine-fix/",
-    "airlineTag": "FedEx Express",
-    "isBreaking": false
-  },
-  {
-    "id": "7bc955e11915",
-    "title": "\"Money In Their Pocket\": Spirit Airlines Pilots Hired To Fly Their Own Jets To The Boneyard",
-    "summary": "Nomadic Aviation Group, ferrying the planes to desert storage locations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T03:54:32Z",
-    "url": "https://simpleflying.com/spirit-airlines-pilots-hired-fly-own-jets-boneyard/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0eebbff6c9f1",
-    "title": "How The 64-Year-Old Chinook Taught Itself To Land With No Pilot At The Controls",
-    "summary": "/how-64-year-old-chinook-taught-itself-land-no-pilot-controls/",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T02:00:31Z",
-    "url": "https://simpleflying.com/how-the-64-year-old-chinook-taught-itself-to-land-with-no-pilot-at-the-controls/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6d1a123256a9",
-    "title": "Why The US Air Force Needs Far More KC-46 Tankers Than It Originally Thought",
-    "summary": "Why the US Air Force is expanding KC-46 orders to 263 aircraft, driven by aging KC-135s, rising demand, and a looming tanker capability gap.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T01:00:18Z",
-    "url": "https://simpleflying.com/why-usaf-needs-more-kc-46-tankers-originally-thought/",
     "airlineTag": null,
     "isBreaking": false
   }
