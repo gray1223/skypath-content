@@ -11,6 +11,39 @@
     "isBreaking": false
   },
   {
+    "id": "84a7eb6391d3",
+    "title": "FAA hastens transponder rollout for airport vehicles in wake of LaGuardia crash",
+    "summary": "A Federal Aviation Administration (FAA) program to equip all its airport vehicles with transponders has been accelerated in&#8230; The post FAA hastens transponder rollout for airport vehicles in wake of LaGuardia crash appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-15T08:32:43Z",
+    "url": "https://www.aerotime.aero/articles/faa-hastens-transponder-rollout-for-airport-vehicles-in-wake-of-laguardia-crash",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3ebec12e7dba",
+    "title": "How Much Do Boeing 777 Pilots Make In 2026?",
+    "summary": "Here is how Boeing 777 pilots can easily earn six-figure salaries.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T08:00:17Z",
+    "url": "https://simpleflying.com/how-much-boeing-777-pilots-make-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d00e25603039",
+    "title": "5 Flights Taking Off Every Minute: American Airlines Plans Record-Smashing Summer Schedule",
+    "summary": "The biggest summer ever at AA.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T03:31:23Z",
+    "url": "https://simpleflying.com/5-flights-every-minute-american-airlines-pans-record-smashing-summer-schedule/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "14efdafefb6e",
     "title": "Southwest Airlines Bans Robots On Its Planes Just 2 Days After One Actually Flew For The 1st Time",
     "summary": "A robot on a flight has led to a new restriction banning human-like devices from being transported on the budget carrier's planes.",
@@ -112,7 +145,7 @@
   {
     "id": "fde0dad45433",
     "title": "Trump says China will order 200 Boeing aircraft, far below expected number",
-    "summary": "President Donald Trump said China has agreed to order 200 Boeing aircraft, a deal that would mark the&#8230; The post Trump says China will order 200 Boeing aircraft, far below expected number appeared first on AeroTime.",
+    "summary": "According to US President Donald Trump, China has agreed to order 200 Boeing aircraft, a deal that would&#8230; The post Trump says China will order 200 Boeing aircraft, far below expected number appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-05-14T19:54:48Z",
@@ -134,7 +167,7 @@
   {
     "id": "f2868bfd7441",
     "title": "Jury awards $49.5M to family of Boeing 737 MAX crash victim",
-    "summary": "A federal jury in Chicago awarded $49.5 million to the family of Samya Stumo, a 24-year-old American who&#8230; The post Jury awards $49.5M to family of Boeing 737 MAX crash victim appeared first on AeroTime.",
+    "summary": "A federal jury in Chicago has awarded $49.5 million to the family of Samya Stumo, a 24-year-old American&#8230; The post Jury awards $49.5M to family of Boeing 737 MAX crash victim appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-05-14T19:36:28Z",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-08T17:00:19Z",
     "url": "https://simpleflying.com/nearly-4000-miles-jetblue-begins-longest-ever-route-3-days/",
     "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "cd522bceedaf",
-    "title": "Is It True That Some Airlines Deliberately Oversell Business Class?",
-    "summary": "Airlines do sometimes involuntarily downgrade passengers, and its legal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-08T17:00:19Z",
-    "url": "https://simpleflying.com/true-airlines-deliberately-oversell-business-class-seats/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1ca7c3180fc2",
-    "title": "Picture of the Day: May 8, 2026",
-    "summary": "From chair flying to flight school.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-05-08T16:29:00Z",
-    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-may-8-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2482db777e7a",
-    "title": "Military\u2019s Secretive XRQ-73 Hybrid-Electric Drone Looks Like a B-2",
-    "summary": "DARPA says experimental uncrewed aircraft made its first flight in California in April.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-08T16:00:00Z",
-    "url": "https://www.flyingmag.com/military-xrq73-hybrid-electric-drone-test-flight/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
