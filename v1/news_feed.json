@@ -1,5 +1,38 @@
 [
   {
+    "id": "2f6fdeb018ad",
+    "title": "Aer Lingus Launches 5 Exciting New Routes From Dublin This Month",
+    "summary": "From short turboprop flights to transatlantic odysseys, there's something for everyone among the Irish flag carrier's new routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T13:01:18Z",
+    "url": "https://simpleflying.com/aer-lingus-launches-5-exciting-new-routes-dublin-may-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6b58fcf0debb",
+    "title": "After 6 Years In The Desert, American Airlines' A330s Taken By Vietnam's Newest Airline",
+    "summary": "Vietnamese carrier Sun PhuQuoc Airways will acquire eight former American Airlines Airbus A330s that have sat in desert storage for more than six years. The widebodies were controversially retired by American during the COVID pandemic and have remained mothballed at the Roswel...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T12:29:18Z",
+    "url": "https://simpleflying.com/video/after-6-years-in-the-desert-american-airlines-a330s-taken-by-vietnam-s-newest-airline/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "26350a837c01",
+    "title": "Bad Backlog: Here's Why Airlines Are Ordering Record Numbers Of Planes But Still Can't Get Them",
+    "summary": "Supply-chain challenges show no signs of being resolved anytime soon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T11:00:18Z",
+    "url": "https://simpleflying.com/why-airlines-ordering-record-number-planes-still-cant-get-them/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e6fcda14a75c",
     "title": "Qatar Airways To Launch 3 Exciting New Long-Haul Routes",
     "summary": "While the airline is resuming services to Helsinki and Tokyo Haneda, Bogota and Caracas are brand new destinations joining the airline's network!",
@@ -193,7 +226,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-15T18:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/15/understanding-piston-engine-fuel-system-variability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/15/understanding-piston-engine-fuel-system-variability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -457,7 +490,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-14T23:57:12Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/14/iridium-purchases-space-based-ads-b-provider?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/14/iridium-purchases-space-based-ads-b-provider?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -600,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-14T17:28:11Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/14/hal-shevers-architect-of-aviation-training-and-sportys-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/14/hal-shevers-architect-of-aviation-training-and-sportys-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -996,7 +1029,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-13T17:15:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/13/pr-aopa-holds-annual-member-meeting-elects-new-trustees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/13/pr-aopa-holds-annual-member-meeting-elects-new-trustees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1359,7 +1392,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-12T16:52:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1590,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-11T23:04:44Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/11/beyond-bird-strikes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/11/beyond-bird-strikes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-10T00:00:18Z",
     "url": "https://simpleflying.com/inside-start-up-airline-new-boeing-787-9-cabin-configuration/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "55961d040ba7",
-    "title": "Why Emirates' Airbus A380 Has Such An Insane Upper Deck Layout",
-    "summary": "What lies upstairs?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T21:30:18Z",
-    "url": "https://simpleflying.com/why-airbus-a380-has-insane-upper-deck-layout/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b53d5df7c3af",
-    "title": "How Much Money Do Airbus A380 Pilots Earn In 2026?",
-    "summary": "A closer look at how much flight crews get paid for operating the world's largest airliner.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T20:00:18Z",
-    "url": "https://simpleflying.com/how-much-airbus-a380-pilots-earn-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9fecb6f3b44f",
-    "title": "55 Of United Airlines\u2019 87 Pending Deliveries This Year Will Be Boeing 737 MAX 9s",
-    "summary": "The legacy carrier is set to receive a significant boost to its fleet this year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T19:33:13Z",
-    "url": "https://simpleflying.com/55-united-airlines-87-pending-deliveries-boeing-737-max-aircraft/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
