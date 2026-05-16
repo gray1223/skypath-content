@@ -1,5 +1,82 @@
 [
   {
+    "id": "8623abfc715f",
+    "title": "Southwest Launches 1st-Ever Flights To Alaska: Here's Where They\u2019re Flying",
+    "summary": "The world's largest low-cost carrier, has finally touched down in Alaska, marking its first-ever flights to the state with two new seasonal routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T19:01:19Z",
+    "url": "https://simpleflying.com/southwest-1st-flights-to-alaska-where-theyre-flying/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5e952f259267",
+    "title": "Here's Why The US Navy Chose The F/A-18 Super Hornet Over A Dedicated Fleet Air Defense Fighter",
+    "summary": "The Super Hornet became good enough and affordable for the Navy after the threat environment changed following the end of the Cold War.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T19:01:19Z",
+    "url": "https://simpleflying.com/why-us-navy-chose-fa-18-over-dedicated-fleet-air-defense-fighter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "13940d20758c",
+    "title": "Long-Haul, But No WiFi: United Airlines & Panasonic Divorce Speculated Amid Starlink Rollout",
+    "summary": "As United Airlines rapidly deploys Starlink across its fleet, passengers on flights equipped with Panasonic systems face mounting connectivity issues.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T18:27:39Z",
+    "url": "https://simpleflying.com/united-airlines-panasonic-divorce-starlink-wifi/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8661cf7eca7f",
+    "title": "If You've Got Money To Burn, We Found These Near-Perfect First Class Suites On The Airbus A380",
+    "summary": "Singapore Airlines, Emirates, Etihad Airways, Lufthansa, and Qantas all offer some of the most iconic and luxurious first class products.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T18:00:20Z",
+    "url": "https://simpleflying.com/money-burn-near-perfect-first-class-suites-airbus-a380/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c87fdee7ab61",
+    "title": "Here's What Happens To A Boeing 747 After It's Retired From Commercial Service",
+    "summary": "The Boeing 747 never really retires. Here is what actually happens when one leaves commercial service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T17:01:19Z",
+    "url": "https://simpleflying.com/what-happens-boeing-747-retired-commerical-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1c98eedd0e37",
+    "title": "5 Of The Cheapest Economy Class Seats In The US You Can Book Today",
+    "summary": "A combination of full service and low-cost carriers, these five airlines offer the cheapest economy seats today.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T15:01:19Z",
+    "url": "https://simpleflying.com/cheapest-economy-seats-you-can-book/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c5e1fa65a533",
+    "title": "Why The B-21 Raider's New Home Costs $1 Billion Less Than Its Other Bases",
+    "summary": "Whiteman AFB's unique qualities unpacked.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T14:00:18Z",
+    "url": "https://simpleflying.com/why-b-21-raider-new-home-1-billion-less-other-bases/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2f6fdeb018ad",
     "title": "Aer Lingus Launches 5 Exciting New Routes From Dublin This Month",
     "summary": "From short turboprop flights to transatlantic odysseys, there's something for everyone among the Irish flag carrier's new routes.",
@@ -226,7 +303,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-15T18:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/15/understanding-piston-engine-fuel-system-variability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/15/understanding-piston-engine-fuel-system-variability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -490,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-14T23:57:12Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/14/iridium-purchases-space-based-ads-b-provider?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/14/iridium-purchases-space-based-ads-b-provider?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -633,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-14T17:28:11Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/14/hal-shevers-architect-of-aviation-training-and-sportys-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/14/hal-shevers-architect-of-aviation-training-and-sportys-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1029,7 +1106,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-13T17:15:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/13/pr-aopa-holds-annual-member-meeting-elects-new-trustees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/13/pr-aopa-holds-annual-member-meeting-elects-new-trustees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1392,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-12T16:52:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1623,7 +1700,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-11T23:04:44Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/11/beyond-bird-strikes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/11/beyond-bird-strikes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-10T10:00:24Z",
     "url": "https://simpleflying.com/british-airways-record-us-network-summer-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9ea1f18f05d0",
-    "title": "6 Airlines With The World's Most Superior Premium Economy Seats In 2026",
-    "summary": "Discover the airline that's redefining premium economy with seats that rival business class from a decade ago.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T10:00:24Z",
-    "url": "https://simpleflying.com/6-airlines-worlds-most-superior-premium-economy-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8897507a7fc",
-    "title": "MD-11 Flies Again: FedEx Completes First Trijet Flight In 6 Months Since UPS Crash",
-    "summary": "FedEx is committed to returning its fleet of 29 MD-11s to service, with the first one aiming to re-enter service later this month.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T09:21:27Z",
-    "url": "https://simpleflying.com/fedex-md11-first-flight-ups-grounding/",
-    "airlineTag": "FedEx Express",
-    "isBreaking": false
-  },
-  {
-    "id": "425ab3d82fe1",
-    "title": "Is It True That Long-Haul Pilots Sleep In Secret Bunks During Flights?",
-    "summary": "Yes, pilots sleep during the flight, and it is important that they do.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T07:00:18Z",
-    "url": "https://simpleflying.com/true-long-haul-pilots-sleep-secret-bunks-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4c1a1b94355",
-    "title": "CDC Readies Quarantine Flight For Americans On Hantavirus-Hit Cruise Ship",
-    "summary": "The CDC is taking unprecedented measures, arranging a quarantine flight to transport affected Americans directly to the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T04:07:32Z",
-    "url": "https://simpleflying.com/cdc-quarantine-flight-hantavirus-cruise-ship/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "651e7b9b5ca9",
-    "title": "Why Southwest Airlines Had To Rewrite Its New Boarding System Weeks After Launch",
-    "summary": "The carrier's assigned-seating rollout exposed bin-space battles, loyalty tensions, and the cost of abandoning old habits.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T04:00:22Z",
-    "url": "https://simpleflying.com/why-southwest-airlines-rewrite-new-boarding-system-weeks-launch/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b92d654bb092",
-    "title": "The US Navy's Next Trainer Jet Won't Need To Land On A Carrier: Here's Why",
-    "summary": "The end of an era in tailhook aviation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T01:00:18Z",
-    "url": "https://simpleflying.com/us-navy-next-trainer-wont-need-land-carrier-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fdeae00fb525",
-    "title": "Luxurious, But No First Class: Inside This Start-Up Airline's New Boeing 787-9 Cabin Configuration",
-    "summary": "Can a product with no first class truly be luxurious? Riyadh Air thinks so and is planning to take the world by storm.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-10T00:00:18Z",
-    "url": "https://simpleflying.com/inside-start-up-airline-new-boeing-787-9-cabin-configuration/",
     "airlineTag": null,
     "isBreaking": false
   }
