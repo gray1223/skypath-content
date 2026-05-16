@@ -1,5 +1,82 @@
 [
   {
+    "id": "837ba5e121e3",
+    "title": "Airlines Are Stripping Brand-New Airbus A320neo Family Jets For Parts Because GTF Engines Are Worth More",
+    "summary": "With GTF engines worth more than $200,000 per month, airlines continue to send their new A320neos to the scrapyard.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T02:00:31Z",
+    "url": "https://simpleflying.com/airlines-stripping-brand-new-airbus-a320neo-family-jets-parts-gtf-engines-worth-more/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "757b5c38f5b1",
+    "title": "Built For Combat: The Military Aircraft Defining Today's Most Intense Conflicts",
+    "summary": "Fighter jets and bombers are the most high-profile aircraft defining conflicts, although enablers like tankers should not be overlooked.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T00:00:20Z",
+    "url": "https://simpleflying.com/military-aircrat-defining-today-most-intense-conflicts/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9447eecbebe5",
+    "title": "Why The Airbus A380's Biggest Comeback Was Also Its Riskiest Bet For This New Airline",
+    "summary": "The carrier has made global headlines with its intention to enter the market with the jumbo jet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T23:00:19Z",
+    "url": "https://simpleflying.com/why-airbus-a380-biggest-comeback-riskiest-bet-new-airline/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2dd576a8c744",
+    "title": "Is It True That The Boeing 737 MAX & Airbus A320neo Are Powered By The Same Engine?",
+    "summary": "Despite both aircraft operating with LEAP engines, they are not the same exact model.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T21:30:19Z",
+    "url": "https://simpleflying.com/true-boeing-737-max-airbus-a320neo-powered-same-engine/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8e47fc874587",
+    "title": "JetBlue Allowing Passengers To Reach Mosaic Status Faster This Summer With Less Tiles",
+    "summary": "The carrier's targeted summer offer dramatically lowers the path to Mosaic elite status.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T20:41:26Z",
+    "url": "https://simpleflying.com/jetblue-allowing-passengers-reach-mosaic-status-faster-summer-less-tiles/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "866efcd6ad4e",
+    "title": "FAA Reduces ATC Staffing Target, Aims To Lengthen Work Times For Current Controllers Instead",
+    "summary": "Despite a 4% increase in air traffic, the time spent on managing air traffic has declined.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T20:02:42Z",
+    "url": "https://simpleflying.com/faa-reduce-atc-staffing-target-lengthen-work-times-current-controllers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cd3cf731fa33",
+    "title": "Allegiant Air's Massive Expansion: 19 New Routes Launching In Only 3 Days [Full List]",
+    "summary": "Two new airports join its network as part of this development. Find it all out here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-15T20:00:18Z",
+    "url": "https://simpleflying.com/allegiant-airs-massive-expansion-19-new-routes-launching-in-only-3-days-full-list/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "0e2ec1da7e7c",
     "title": "U.K. Picks 4 Firms to Build Drone \u2018Wingmen\u2019 for Apaches",
     "summary": "Anduril U.K., BAE Systems, Tekever, and Thales U.K. will compete for final contracts.",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-09T18:00:20Z",
     "url": "https://simpleflying.com/why-boeing-tear-open-30-finished-777x-jets-before-ever-fly/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "82bc14fd4d8e",
-    "title": "First Look: Inside Delta's Massive 44-Recliner A321neo Ahead Of May 20 Debut",
-    "summary": "With nearly half the cabin dedicated to first class, Delta is committing to luxury.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T17:37:16Z",
-    "url": "https://simpleflying.com/delta-44-recliner-a321neo-first-class-may-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "907c2e0aa1a1",
-    "title": "The Striking Differences Between Delta One & United Polaris",
-    "summary": "A closer look at the factors that set Delta One and United Polaris apart.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T17:30:18Z",
-    "url": "https://simpleflying.com/striking-differences-between-delta-one-united-polaris/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3d850fd04e5f",
-    "title": "5 Things Passengers Don't Know About How Airlines Price Business Class Seats",
-    "summary": "Day by day, flight ticket prices change, with business class experiencing some of the biggest fluctuations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T16:01:18Z",
-    "url": "https://simpleflying.com/5-things-passengers-dont-know-airlines-price-business-class-seats/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cf1d32df8686",
-    "title": "How A Titanium Seat Could Finally Make Business Class Work On Regional Jets",
-    "summary": "The unveiling of the TiSeat S at Aircraft Interiors Expo 2026 signals a potential shift in regional aviation's premium seating equation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T14:00:18Z",
-    "url": "https://simpleflying.com/titanium-seat-finally-make-business-class-work-regional-jets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e8c07a6179b5",
-    "title": "Thai Airways Has Ended Airbus A380 Flights On 8 Routes: Full List",
-    "summary": "Despite its long-haul credentials, Thai Airways mainly flew the superjumbo on regional routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T13:00:18Z",
-    "url": "https://simpleflying.com/thai-airways-airbus-a380-route-analysis/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8229d1ab6d6b",
-    "title": "Career Changers At 30,000 Feet: Why Working Professionals Are Retraining Into Aviation",
-    "summary": "It's never too late to get started!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T13:00:18Z",
-    "url": "https://simpleflying.com/aviation-mid-life-career-changes-guide/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8d1a8a19b3b6",
-    "title": "British Airways Will Pay Pilots $100,000 A Year To Taxi At Chicago O'Hare",
-    "summary": "British Airways is recruiting pilots for a specialized ground operations role at Chicago O'Hare International Airport - a role that appears to offer salaries of up to $100,000 per year. The airline is hiring \u201ctaxi crew\u201d pilots to manage the movement of aircraft whilst on the g...",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-05-09T12:27:19Z",
-    "url": "https://simpleflying.com/video/british-airways-will-pay-pilots-100-000-a-year-to-taxi-at-chicago-o-hare/",
     "airlineTag": null,
     "isBreaking": false
   }
