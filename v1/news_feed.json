@@ -1,5 +1,60 @@
 [
   {
+    "id": "e6fcda14a75c",
+    "title": "Qatar Airways To Launch 3 Exciting New Long-Haul Routes",
+    "summary": "While the airline is resuming services to Helsinki and Tokyo Haneda, Bogota and Caracas are brand new destinations joining the airline's network!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T07:55:09Z",
+    "url": "https://simpleflying.com/qatar-airways-launches-3-long-haul-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d3956cb4076f",
+    "title": "11 Hours Of Fuel: American Airlines Boeing 777 Engine Failure Forces Heavy Landing In Phoenix",
+    "summary": "The widebody, with more than 280 passengers onboard, nearly used the entire runway upon touching down.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T06:28:38Z",
+    "url": "https://simpleflying.com/american-airlines-boeing-777-engine-failure-overweight-landing-phoenix/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ca1836db3f74",
+    "title": "Designed To Dominate: The Jets Nations Deploy When Conflicts Escalate",
+    "summary": "While most air forces deploy fighter jets in conflicts, more capable forces will also deploy supporting radar, transport, and refueling military jets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T05:00:19Z",
+    "url": "https://simpleflying.com/jets-nations-deploy-conflicts-escalate/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c3944327a4dd",
+    "title": "Nearly 1 In 3 Pilots Killed In Crashes Had Impairing Drugs \u2013 And It's Getting Worse",
+    "summary": "The alarming trend shows a continued increase in drug use among aviation professionals.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T04:31:13Z",
+    "url": "https://simpleflying.com/pilots-killed-crashes-impairing-drugs-ntsb/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "038c11e7876d",
+    "title": "United Airlines' New Premium Plus Vs. The World's Superior Premium Economy Cabins In 2026",
+    "summary": "The airline has ramped up its premium economy offering, but is it better than the rest?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-16T04:00:23Z",
+    "url": "https://simpleflying.com/united-airlines-new-premium-plus-worlds-superior-premium-economy-cabins-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "837ba5e121e3",
     "title": "Airlines Are Stripping Brand-New Airbus A320neo Family Jets For Parts Because GTF Engines Are Worth More",
     "summary": "With GTF engines worth more than $200,000 per month, airlines continue to send their new A320neos to the scrapyard.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-05-09T19:33:13Z",
     "url": "https://simpleflying.com/55-united-airlines-87-pending-deliveries-boeing-737-max-aircraft/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bea79d7d4bd2",
-    "title": "The Striking Differences Between The Cheapest & Most Expensive Premium Economy Seats In 2026",
-    "summary": "The experience of flying premium economy is relatively similar across airlines, but the value proposition may not improve in the future.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T19:00:18Z",
-    "url": "https://simpleflying.com/striking-differences-cheapest-expensive-premium-economy-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "baf2796f74a0",
-    "title": "Better Than United? Papa Johns Turns Worthless Spirit Airlines Loyalty Points Into Free Pizza",
-    "summary": "A free pizza may be the only immediate redemption for former loyalty program members at the defunct airline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T18:38:53Z",
-    "url": "https://simpleflying.com/papa-johns-turns-worthless-spirit-airlines-loyalty-points-free-pizza/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c79935a21aa9",
-    "title": "Caught In First Class: United Airlines CEO Spotted On American Airlines Flight To Dallas",
-    "summary": "Unlikely Alliance: United CEO's Personal Connection to American Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T18:38:17Z",
-    "url": "https://simpleflying.com/united-airlines-ceo-spotted-american-airlines-flight-dallas/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "74098b5ea083",
-    "title": "Emirates Unveils Giant UAE Flag Livery On An A380 \u2013 Here's Where It\u2019s Been Flying",
-    "summary": "Emirates' latest aircraft livery, a striking United Arab Emirates flag on its iconic Airbus A380.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T18:06:24Z",
-    "url": "https://simpleflying.com/emirates-giant-uae-flag-livery-a380-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e95d76692402",
-    "title": "Why Boeing Must Tear Open 30 Finished 777X Jets Before They Can Ever Fly",
-    "summary": "Boeing's 777X program has been plagued with delays, forcing the manufacturer to modify 30 completed aircraft before they can be delivered to airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-09T18:00:20Z",
-    "url": "https://simpleflying.com/why-boeing-tear-open-30-finished-777x-jets-before-ever-fly/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
