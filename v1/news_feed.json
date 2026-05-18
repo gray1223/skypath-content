@@ -1,5 +1,93 @@
 [
   {
+    "id": "e4bcaa33650e",
+    "title": "Alaska Airlines Launches 1st-Ever Transatlantic Boeing 737 MAX Flight Next Week",
+    "summary": "The brand-new route is a milestone, but will it be a game-changer or a risky gamble?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T19:00:18Z",
+    "url": "https://simpleflying.com/alaska-airlines-launches-1st-ever-transatlantic-boeing-737-max-flight-next-week/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b3d7c24efb1f",
+    "title": "Southwest Airlines' Free Starlink WiFi Has 1 Major Catch In 2026",
+    "summary": "Its decision to reserve complimentary Starlink WiFi exclusively for Rapid Rewards members reframes the announcement as something much larger.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T19:00:18Z",
+    "url": "https://simpleflying.com/southwest-airlines-free-starlink-wifi-1-major-catch-2026/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2ede36e9b9c9",
+    "title": "ATCs Left Out of FAA Staffing Model Change, Union Says",
+    "summary": "Group representing the nation\u2019s air traffic controllers states it had no say in the agency\u2019s reduction of staffing targets.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-18T18:15:00Z",
+    "url": "https://www.flyingmag.com/atc-left-out-faa-staffing-model-change/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f5365de720a5",
+    "title": "Why Some Countries Still Buy Old Military Aircraft",
+    "summary": "A closer look at the booming marketplace for used fighters around the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T18:00:19Z",
+    "url": "https://simpleflying.com/why-countries-buy-old-military-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c02ff668dca0",
+    "title": "The 7 Largest Royal Air Force Bases & Their Strategic Roles",
+    "summary": "Some of the largest RAF bases are overseas, with the most remote airbase also being geographically the largest.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T17:30:19Z",
+    "url": "https://simpleflying.com/7-largest-raf-bases-and-strategic-roles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5fc55405f02f",
+    "title": "Here's The Revenue Problem Behind The Airline Industry's Drunk Passenger Crisis",
+    "summary": "Drunkenness aboard flights is not just an isolated incident.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T17:00:18Z",
+    "url": "https://simpleflying.com/revenue-problem-airline-industry-drunk-passenger-crisis/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d100b044a718",
+    "title": "Picture of the Day: May 18, 2026",
+    "summary": "Fresh air in an open cockpit Fleet Model 7.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-18T16:34:34Z",
+    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-may-18-202/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "637bdcfc1973",
+    "title": "FAA Calls For More Safety Inspectors, Engineers",
+    "summary": "Agency outlines 10-year staffing forecast for aviation safety oversight.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-18T15:56:43Z",
+    "url": "https://avweb.com/aviation-news/faa-calls-for-more-safety-inspectors/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "874ccb401580",
     "title": "FAA Seeks Comment On Airport Grant Handbook Update",
     "summary": "The draft would replace the current 2019 handbook and update AIP guidance for airport grants.",
@@ -7,6 +95,17 @@
     "category": "industry",
     "publishedDate": "2026-05-18T15:31:08Z",
     "url": "https://avweb.com/aviation-news/faa-seeks-comment-on-airport-grant-handbook-update/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "476c44bc7996",
+    "title": "WASPs: Honoring \u2018The Women With Silver Wings\u2019",
+    "summary": "Seattle\u2019s Museum of Flight to host Memorial Day tribute to WWII\u2019s female pilots.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-18T15:30:00Z",
+    "url": "https://www.flyingmag.com/wasps-honoring-the-women-with-silver-wings/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-12T12:40:15Z",
     "url": "https://www.aerotime.aero/articles/french-bee-pilots-file-strike-notice",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b9f6118f451e",
-    "title": "Find the Right Flight Instructor for Your New Airplane",
-    "summary": "Here are some tips to vetting CFIs, understanding insurance, and securing safe training.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-12T12:00:00Z",
-    "url": "https://www.flyingmag.com/find-the-right-flight-instructor-for-your-new-airplane/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db516cfdbe5a",
-    "title": "USAF tests Advanced Precision Kill Weapon System using MQ-9A Reaper",
-    "summary": "The United States Air Force (USAF) together with General Atomics Aeronautical Systems (GA-ASI) have conducted flight tests of&#8230; The post USAF tests Advanced Precision Kill Weapon System using MQ-9A Reaper appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-12T10:27:57Z",
-    "url": "https://www.aerotime.aero/articles/usaf-tests-advanced-precision-kill-weapon-system-using-mq-9a-reaper",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ac0db28be197",
-    "title": "Here's What The Secret Symbols Painted On US Air Force Fighter Jets Actually Mean",
-    "summary": "Kill markings track victories and missions on combat aircraft, evolving from WWII symbols into a regulated system still used on modern USAF jets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T10:01:27Z",
-    "url": "https://simpleflying.com/secret-symbols-painted-usaf-fighter-jets-actually-mean/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6f56e26571ec",
-    "title": "Hyundai partners with Korea Aerospace Industries (KAI) to reactivate Supernal",
-    "summary": "Supernal, the US-based advanced air mobility (AAM) arm of Korean automaker Hyundai, announced on May 11, 2026, that&#8230; The post Hyundai partners with Korea Aerospace Industries (KAI) to reactivate Supernal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-12T09:43:43Z",
-    "url": "https://www.aerotime.aero/articles/hyundai-partners-with-korea-aerospace-industries-kai-to-reactivate-supernal",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a1e693548d6",
-    "title": "Six Military Aircraft With The Highest Service Ceilings In Service Today",
-    "summary": "Spy aircraft typically have the highest operational ceiling, although these values, and often the aircraft themselves, are classified.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T08:01:17Z",
-    "url": "https://simpleflying.com/military-aircraft-highest-service-ceilings-service-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f65e9e8409af",
-    "title": "After 60 Years: Why The US Air Force Is Finally Ready To Retire The T-38 Talon",
-    "summary": "A new era in pilot training begins.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T06:00:17Z",
-    "url": "https://simpleflying.com/us-air-force-retiring-t38-talon-t7a-red-hawk/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "21d7fe6fc425",
-    "title": "No More Air France-KLM: Group To Scrap 22-Year-Old Name Amid SAS & TAP Moves",
-    "summary": "A significant rebranding could be on the cards for one of Europe's biggest airline groups.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T04:03:13Z",
-    "url": "https://simpleflying.com/air-france-klm-group-name-sas-tap-rebrand/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "508aed7f5fb7",
-    "title": "When Spirit Airlines Left Minneapolis, Fares Doubled: Now It's Everywhere",
-    "summary": "The ultra-low-cost carrier recently ceased operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T01:00:18Z",
-    "url": "https://simpleflying.com/spirit-airlines-left-minneapolis-fares-doubled-now-everywhere/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8cf9bc666eba",
-    "title": "AAR to wind down $252M Legacy Commercial Programs business",
-    "summary": "AAR plans to wind down its legacy commercial programs business that, despite generating more than $250 million in&#8230; The post AAR to wind down $252M Legacy Commercial Programs business appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-12T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/aar-wind-down-airline-component-repair-business",
     "airlineTag": null,
     "isBreaking": false
   }
