@@ -1,5 +1,38 @@
 [
   {
+    "id": "e6d712bf3552",
+    "title": "AMAC Aerospace: where VIP/VVIP aircraft owners turn for flawless execution",
+    "summary": "From its impressive facilities at EuroAirport Basel-Mulhouse (BSL/MLH), AMAC Aerospace Switzerland AG is leading the front line in&#8230; The post AMAC Aerospace: where VIP/VVIP aircraft owners turn for flawless execution appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-18T07:44:56Z",
+    "url": "https://www.aerotime.aero/articles/amac-aerospace-vip-vvip-aircraft-mro-completion",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "73c791ed1551",
+    "title": "This Airport Has Runways Longer Than Most Major Hubs \u2013 But Pilots Can Only Reach It By Eye",
+    "summary": "Skardu Airport, nestled in a remote region, has emerged as one of the most fascinating and intimidating airports.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T07:00:19Z",
+    "url": "https://simpleflying.com/airport-runways-longer-most-major-hubs-pilots-reach-eye/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "29bd079485c5",
+    "title": "American Airlines Won't Fly To Tel Aviv Until 2027, Delta & United Plan September Return",
+    "summary": "Unsafe skies are preventing AA's return to Israel.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T05:52:29Z",
+    "url": "https://simpleflying.com/american-airlines-tel-aviv-flights-2027/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "6c50e990b1bd",
     "title": "The Top 5 Highest Paid US Navy Pilot Ranks & Their Average 2026 Salaries",
     "summary": "Discover the 5 highest-paid US Navy pilot ranks in 2026, from Commanders to Admirals, and how aviation careers reach $225,000 salaries.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-11T16:00:18Z",
     "url": "https://simpleflying.com/most-private-first-class-suites-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08e01509f5c7",
-    "title": "Inside The Airbus A350F's Record-Breaking Cargo Door That Swallows Jet Engines Whole",
-    "summary": "The Airbus A350F cargo door fits whole jet engines while preserving structural strength and safety.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-11T16:00:18Z",
-    "url": "https://simpleflying.com/airbus-a350f-record-breaking-cargo-door-swallows-jet-engines-whole/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "98a4465a160b",
-    "title": "New 14-Hour US Route: Royal Jordanian Launches First-Ever Flight To Dallas",
-    "summary": "Its jets are now seen in seven North American cities. Find out all about the new Dallas service here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-11T15:00:19Z",
-    "url": "https://simpleflying.com/new-14-hour-us-route-royal-jordanian-launches-first-ever-flight-to-dallas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2181ed2ebf6d",
-    "title": "NTSB Reviewing Frontier Evacuation After Fatal Runway Strike",
-    "summary": "Agency collecting information after A321neo strikes and kills a person in Denver.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-05-11T14:32:14Z",
-    "url": "https://avweb.com/aviation-news/ntsb-frontier-denver-runway-collision/",
-    "airlineTag": "Frontier Airlines",
     "isBreaking": false
   }
 ]
