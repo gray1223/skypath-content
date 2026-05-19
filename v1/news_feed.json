@@ -11,6 +11,17 @@
     "isBreaking": false
   },
   {
+    "id": "b729a703e31b",
+    "title": "Unexpected: United Extends Summer Sicily Flights Into Winter Using A 46-Seat Polaris 767",
+    "summary": "United is betting that premium demand for Sicily now extends well beyond the traditional summer season.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T19:03:03Z",
+    "url": "https://simpleflying.com/unexpected-united-extends-summer-sicily-flights/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "75417a826e30",
     "title": "Why recurrent pilot training matters when renewing insurance",
     "summary": "AOPA members understand that flying safely is about far more than meeting the minimum requirements&mdash;it&rsquo;s about maintaining proficiency, protecting your investment, and being a responsible steward of general aviation. That philosophy carries real weight when it comes...",
@@ -18,6 +29,72 @@
     "category": "training",
     "publishedDate": "2026-05-19T19:00:15Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/19/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "356cf859d879",
+    "title": "Delta A330 Makes Emergency Landing After Mid-Air Engine Fire Triggers Cabin \u201cBlackout\u201d",
+    "summary": "A loud explosion-like bang and visible engine flashes on a Delta Air Lines flight forced the Airbus A330 made an emergency landing in Paris.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T18:50:46Z",
+    "url": "https://simpleflying.com/delta-a330-emergency-landing-engine-fire-cabin-blackout/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "737734e75c66",
+    "title": "Historic: Riyadh Air\u2019s 1st Official Flight To Take Off In July",
+    "summary": "Riyadh Air will launch its first-ever commercial flight on July 1st, connecting Riyadh and London with Boeing 787-9 Dreamliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T18:26:36Z",
+    "url": "https://simpleflying.com/riyadh-air-1st-official-flight-july/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "010a7aabca09",
+    "title": "FAA Seeks to Recruit Contracted ATCs to Its Ranks",
+    "summary": "Agency\u2019s latest action to address a long-standing shortage would tap into a pool of privately managed air traffic controllers.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-19T18:00:00Z",
+    "url": "https://www.flyingmag.com/faa-seeks-recruit-contract-tower-atcs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5a3afaa3dcdd",
+    "title": "Southwest Airlines Cuts 11 International Routes: See All Flight Changes Now",
+    "summary": "All are sun markets from multiple airports across the US. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T16:00:19Z",
+    "url": "https://simpleflying.com/southwest-airlines-cuts-11-international-routes-see-all-flight-changes-now/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "cf678c9f7b36",
+    "title": "Here's How Much A Polaris Business Class Seat On United's Boeing 787 Actually Costs In 2026",
+    "summary": "Polaris by United has become a globally renowned business class product, but how much does it actually set you back?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T16:00:19Z",
+    "url": "https://simpleflying.com/how-much-polaris-business-class-seat-united-boeing-787-costs-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1c96874234a0",
+    "title": "FAA To Test Moving Contract Towers Into Agency Operation",
+    "summary": "Program begins with Bozeman Yellowstone International and Mesa Gateway.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-19T15:29:06Z",
+    "url": "https://avweb.com/aviation-news/faa-test-moving-contract-towers-agency-ops/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-13T14:44:13Z",
     "url": "https://avweb.com/aviation-news/faa-completes-first-phase-of-notam-system/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05c85932806a",
-    "title": "P-51 Mustang Pilot Killed In Louisiana Accident",
-    "summary": "The accident occurred Tuesday afternoon at Tallulah/Vicksburg Regional Airport.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-05-13T14:31:58Z",
-    "url": "https://avweb.com/flight-safety/accidents-ntsb/p-51-mustang-louisiana-accident/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "322f802f629a",
-    "title": "United Airlines Ventures Backs Startup Enhanced Radar",
-    "summary": "System aims to give airport personnel quicker, clearer operational insights.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-13T14:00:00Z",
-    "url": "https://www.flyingmag.com/united-airlines-startup-enhanced-radar/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ad952152f5d6",
-    "title": "Boeing's 737 MAX Orders Surge: Shaping Future Airline Fleets For Travelers",
-    "summary": "In April alone, the 737 MAX accounted for 57 of the 136 aircraft the manufacturer delivered during the month.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T13:35:59Z",
-    "url": "https://simpleflying.com/boeings-737-max-orders-surge/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9759f78f710a",
-    "title": "Who Can Act as Your Safety Pilot?",
-    "summary": "FAA regulations state an aviator in training can\u2019t log time as a required crewmember for IFR practice.",
-    "source": "Flying Magazine",
-    "category": "regulatory",
-    "publishedDate": "2026-05-13T13:00:00Z",
-    "url": "https://www.flyingmag.com/who-can-act-as-your-safety-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9d3cf7ca087b",
-    "title": "Feeling Blue: SAS & jetBlue Separately Unveil New All-Blue Special Liveries",
-    "summary": "We don\u2019t often combine two stories into one video but since we\u2019re discussing two livery unveilings for two relatively small airlines, it seemed to be a good opportunity, with \u2018blue\u2019 being the main theme.Over in Europe, SAS has unveiled one an Airbus A330-300 painted in an all-...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T12:28:19Z",
-    "url": "https://simpleflying.com/video/feeling-blue-sas-jetblue-separately-unveil-new-all-blue-special-liveries/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b066cc564743",
-    "title": "Airparks: Home Is Where the Hangar Is",
-    "summary": "Unique spots offer pilots coveted chance to live alongside their planes.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-13T12:00:00Z",
-    "url": "https://www.flyingmag.com/airparks-home-is-where-the-hangar-is/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c52f22a4cd1e",
-    "title": "Korean Air to launch integrated airline in December 2026 after Asiana merger",
-    "summary": "Korean Air will emerge as South Korea&#8217;s integrated flag carrier on December 17, 2026, marking the end of&#8230; The post Korean Air to launch integrated airline in December 2026 after Asiana merger appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-13T11:29:43Z",
-    "url": "https://www.aerotime.aero/articles/korean-air-to-launch-integrated-airline-in-december-2026-after-asiana-merger",
     "airlineTag": null,
     "isBreaking": false
   }
