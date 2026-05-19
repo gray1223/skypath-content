@@ -1,5 +1,115 @@
 [
   {
+    "id": "1162b76c6e73",
+    "title": "United Airlines Captain Allegedly Fired, Made \u201cScapegoat\u201d After Reporting Cockpit Breech",
+    "summary": "The unfortunate ending for Captain Cynthia Clifford after reporting a passenger in her seat.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T02:25:23Z",
+    "url": "https://simpleflying.com/united-airlines-captain-fired-scapegoat-reporting-cockpit-breech/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e061ace66ebf",
+    "title": "The Critical Capability Gap In The Ex-Qatari Luxury Boeing 747-8 Serving As Air Force One",
+    "summary": "Is Trump's personal AF1 up to par?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T02:00:32Z",
+    "url": "https://simpleflying.com/critical-capability-gap-ex-qatari-luxury-boeing-747-8-af-1/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cecbc83eeead",
+    "title": "This Major US Airport Just Announced America\u2019s First Offsite TSA Screening Service",
+    "summary": "Available for select JetBlue and Delta passengers departing from Boston Logan International Airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T01:37:10Z",
+    "url": "https://simpleflying.com/major-us-airport-announced-america-first-offsite-tsa-screening-service/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e5c717c75386",
+    "title": "Delayed Again: Delta To Keep 44-Seat First Class A321neos Until 2028 As Lie-Flat Seats Slip Further",
+    "summary": "The decision to keep the 44-seat layout comes right before the summer travel rush.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T21:59:43Z",
+    "url": "https://simpleflying.com/delta-keep-44-first-class-seat-a321neos-2028-lie-flat-seats-delayed/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e5489eb29fce",
+    "title": "The Aircraft Set To Replace The Iconic Boeing 757",
+    "summary": "There isn't a single airliner that can replicate all of the Boeing 757's capabilities, but perhaps the market doesn't require one.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T21:30:18Z",
+    "url": "https://simpleflying.com/aircraft-set-to-replace-boeing-757/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "56a0578c2949",
+    "title": "\u2018Urgent\u2019 FAA reorganization seeks to close safety gaps after fatal DCA midair",
+    "summary": "FAA Administrator Bryan Bedford told US lawmakers the agency is carrying out a \u201csweeping\u201d reorganization aimed at closing&#8230; The post \u2018Urgent\u2019 FAA reorganization seeks to close safety gaps after fatal DCA midair appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-18T21:02:18Z",
+    "url": "https://www.aerotime.aero/articles/urgent-faa-reorganization-seeks-to-close-safety-gaps-after-fatal-dca-midair",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e6af68ac3786",
+    "title": "Is It True That The Boeing 777X Needs Less Engine Thrust Than The Jet It's Replacing?",
+    "summary": "The Boeing 777X is set to enter commercial service in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-18T21:01:18Z",
+    "url": "https://simpleflying.com/true-boeing-777x-less-engine-thrust-jet-replace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f430b387127a",
+    "title": "FAA Lowers Controller Staffing Target",
+    "summary": "Agency says revised model, scheduling tools will be used to address workforce needs.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-18T20:57:07Z",
+    "url": "https://avweb.com/aviation-news/faa-lowers-controller-staffing-target/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7498e0ab9b43",
+    "title": "JetBlue Abruptly Cuts 10 Routes: See All Flight Changes Now",
+    "summary": "JetBlue cuts 10 routes as it redirects aircraft toward stronger, higher-yielding markets.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-05-18T20:23:27Z",
+    "url": "https://simpleflying.com/jetblue-cuts-10-routes-see-changes/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "ba009ed9f018",
+    "title": "How Military Pilot Salaries Compare Across The US, UK, Japan & China In 2026",
+    "summary": "How the pay checks stack up in the world's top air forces.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-05-18T20:00:18Z",
+    "url": "https://simpleflying.com/how-military-pilot-salaries-compare-across-us-uk-japan-china-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e4bcaa33650e",
     "title": "Alaska Airlines Launches 1st-Ever Transatlantic Boeing 737 MAX Flight Next Week",
     "summary": "The brand-new route is a milestone, but will it be a game-changer or a risky gamble?",
@@ -2086,116 +2196,6 @@
     "category": "hiring",
     "publishedDate": "2026-05-12T17:30:19Z",
     "url": "https://simpleflying.com/real-reason-why-airlines-struggling-hire-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f735b15b53d3",
-    "title": "Training and Safety Tip: Master the fundamental four",
-    "summary": "The flight training community has long recognized that when a student is struggling with a maneuver, the problem is usually a weakness in a precursor skill, rather than anything to do with the maneuver at hand.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-12T16:52:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/12/training-and-safety-tip-master-the-fundamental-four?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b86e64be828",
-    "title": "Air Canada Cuts 13 International Routes: See All Flight Changes Now",
-    "summary": "While the airline's international flights have risen by 1%, some routes have been cut... see them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T16:00:19Z",
-    "url": "https://simpleflying.com/air-canada-cuts-14-international-routes-see-all-flight-changes-now/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "14bf9a7b3387",
-    "title": "United Airlines' Boeing 787 Captains Can Clear Nearly $600,000 A Year: Here's The Full Picture",
-    "summary": "This is how United's Boeing 787 captains can earn nearly $600,000 annually",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T16:00:19Z",
-    "url": "https://simpleflying.com/united-airlines-boeing-787-captains-clear-nearly-600000-year-full-picture/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2e40bce0c248",
-    "title": "Picture of the Day: May 12, 2026",
-    "summary": "Canada's Snowbirds finish up spring training.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-12T15:52:38Z",
-    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-may-12-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bdb4eebcc8f0",
-    "title": "FedEx Resumes MD-11 Operations",
-    "summary": "FAA-approved protocol includes required maintenance and inspections before the aircraft can fly.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-12T14:52:49Z",
-    "url": "https://avweb.com/aviation-news/fedex-resumes-md-11-operations/",
-    "airlineTag": "FedEx Express",
-    "isBreaking": false
-  },
-  {
-    "id": "4e136a26e788",
-    "title": "LOT Polish Airlines Takes Boeing To Court Despite Still Flying 26 737 MAX Jets",
-    "summary": "The parties involved in the trial made their opening statements yesterday at the US District Court in Seattle.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T14:39:07Z",
-    "url": "https://simpleflying.com/lot-polish-airlines-boeing-737-max-legal-battle/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "89f2ff92d6f6",
-    "title": "Only 3 Airlines Still Fly Passenger Boeing 747-8s: The US Military Wants Them All",
-    "summary": "The USAF is acquiring as many used 747-8s as it can.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T13:30:19Z",
-    "url": "https://simpleflying.com/only-3-airlines-fly-boeing-747-8-us-military-wants-all/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c05efa5195de",
-    "title": "8,200 Miles: Qatar Airways Adds One Of Its Longest Flights With Bogota-Caracas Triangle Route",
-    "summary": "This new route is certainly set to turn a few heads, as the airline becomes the only gulf carrier to serve both Bogota and Caracas.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-12T13:00:19Z",
-    "url": "https://simpleflying.com/qatar-airways-bogota-caracas-triangle-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6effa79e3718",
-    "title": "Stutzer Wins Heavy Touring Class at Valdez STOL",
-    "summary": "Helio Alaska CEO secures another victory in his classic 1972 Helio H-295.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-12T13:00:00Z",
-    "url": "https://www.flyingmag.com/stutzer-wins-heavy-touring-class-at-valdez-stol/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f193b352e3e9",
-    "title": "French bee pilots file strike notice over refusal to increase salaries",
-    "summary": "Pilots at the long-haul low-cost carrier French bee look set to strike after the National Union of Airline&#8230; The post French bee pilots file strike notice over refusal to increase salaries appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-12T12:40:15Z",
-    "url": "https://www.aerotime.aero/articles/french-bee-pilots-file-strike-notice",
     "airlineTag": null,
     "isBreaking": false
   }
