@@ -1,5 +1,82 @@
 [
   {
+    "id": "d4733bbd1960",
+    "title": "Historic: Delta Launches 1st-Ever Flight On This Exciting Transatlantic Route Today",
+    "summary": "With the airline launching a never-before-flown route, JFK - OLB becomes the airline's 15th route to Italy!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T15:00:20Z",
+    "url": "https://simpleflying.com/delta-launches-1st-flight-on-this-transatlantic-route/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "36563f4e48e9",
+    "title": "NTSB Focuses on Maintenance Procedures on First Day of UPS Crash Hearing",
+    "summary": "Investigators zero in on spherical bearing that allegedly weakened an engine pylon.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-05-20T14:21:50Z",
+    "url": "https://www.flyingmag.com/ntsb-focuses-on-maintenance-procedures-on-first-day-of-ups-crash-hearing/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2449d486ab0d",
+    "title": "How Common Are Oil Leaks in Training Airplanes?",
+    "summary": "Pilots need to be able to recognize the difference between a serious problem and not-so-serious mess.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-05-20T13:00:00Z",
+    "url": "https://www.flyingmag.com/how-common-are-oil-leaks-in-training-airplanes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9237bbbf4d01",
+    "title": "Qatar Airways Has Ended Airbus A380 Flights On 5 Routes [Updated List]",
+    "summary": "The airline's double-decker network has evolved significantly in recent years...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T11:00:20Z",
+    "url": "https://simpleflying.com/qatar-airways-has-ended-airbus-a380-flights-on-5-routes-updated-list/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0db2a78049d1",
+    "title": "Boeing Just Can't Deliver On Time: Which Jets Are Furthest Behind?",
+    "summary": "The US manufacturer still has a number of outstanding orders.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T11:00:20Z",
+    "url": "https://simpleflying.com/boeing-cant-deliver-on-time-jets-further-behind/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "384ff227d7a0",
+    "title": "China Confirms Massive 200-Jet Boeing Order After Summit",
+    "summary": "A big win in a growing market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T09:47:29Z",
+    "url": "https://simpleflying.com/china-confirms-massive-200-jet-boeing-order/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "45bada266425",
+    "title": "From 615 To 569 Seats: Emirates Debuts First High-Density A380 Retrofit With Premium Economy",
+    "summary": "The airline removes 120 economy seats and adds 56 premium economy and 18 additional business class seats in their place.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T09:33:29Z",
+    "url": "https://simpleflying.com/emirates-high-density-a380-premium-economy-retrofit-debut/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ea3c0d439155",
     "title": "China confirms Boeing order for 200 commercial aircraft following Trump-Xi talks",
     "summary": "The government of the People&#8217;s Republic of China has confirmed an order with Boeing for 200 commercial aircraft,&#8230; The post China confirms Boeing order for 200 commercial aircraft following Trump-Xi talks appeared first on AeroTime.",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-14T05:43:26Z",
     "url": "https://simpleflying.com/boeing-ordered-to-pay-49-5-million-max-lawsuit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fbfedde840a2",
-    "title": "How An F/A-18 Pilot Can Command The Navy's New MQ-25 Stingray Drone From Their Own Cockpit",
-    "summary": "The paradigm change coming to the flight deck.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-14T05:00:18Z",
-    "url": "https://simpleflying.com/fa-18-pilot-commans-navy-new-mq-25-stingray-drone-from-cockpit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e84856f1b72",
-    "title": "US Air Force orders one-way attack drones from Aevex",
-    "summary": "The US Air Force has awarded Aevex an $18.5 million contract for autonomous aircraft designed for one-way attack&#8230; The post US Air Force orders one-way attack drones from Aevex appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-14T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-aevex-one-way-attack-drones",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3dc8b3d4a969",
-    "title": "A Look At The Salaries Of Royal Canadian Air Force Fighter Jet Pilots In 2026 & Why They're Still Not Enough",
-    "summary": "Canada may have a small air force compared with its giant USAF counterpart, but it is still struggling to retain enough pilots for the aircraft it has",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-14T00:00:18Z",
-    "url": "https://simpleflying.com/look-salaries-royal-canadian-air-force-fighter-jet-pilots-2026-not-enough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "34303e48920b",
-    "title": "Future Fate: Why Alaska Airlines Says Hawaiian Needs More Airbus A321neos Or None At All",
-    "summary": "A bold move that could reshape the carrier's fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T21:30:18Z",
-    "url": "https://simpleflying.com/alaska-airlines-hawaiian-needs-more-airbus-a321neos-none-at-all-why/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bc646cf82383",
-    "title": "Only 52% Full: Delta Air Lines' 10 Emptiest International Routes [Updated]",
-    "summary": "Many of them had fewer than half of the seats filled. See which were the worst here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T20:00:18Z",
-    "url": "https://simpleflying.com/only-52-full-delta-air-lines-10-emptiest-international-routes-updated/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "861f197ced04",
-    "title": "First Part 135 Operator Joins FAA\u2019s Advanced Aviation Research Effort",
-    "summary": "Membership gives Surf Air Mobility access to exclusive task orders, working groups, and more.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-13T20:00:00Z",
-    "url": "https://www.flyingmag.com/part-135-surf-joins-faa-advanced-research/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b36b750c419",
-    "title": "Pilots eject safety as US Air Force T-38 trainer crashes in Alabama",
-    "summary": "Two US Air Force pilots ejected safely before a T-38 training jet crashed in rural Alabama on May&#8230; The post Pilots eject safety as US Air Force T-38 trainer crashes in Alabama appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-05-13T19:21:15Z",
-    "url": "https://www.aerotime.aero/articles/pilots-eject-us-air-force-t-38-crash-alabama",
     "airlineTag": null,
     "isBreaking": false
   }
