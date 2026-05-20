@@ -1,5 +1,16 @@
 [
   {
+    "id": "d9a360bd6dc3",
+    "title": "NTSB releases video of engine pylon separating from UPS MD-11",
+    "summary": "The National Transportation Safety Board (NTSB) has released a video showing the left engine and pylon separating from&#8230; The post NTSB releases video of engine pylon separating from UPS MD-11 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "regulatory",
+    "publishedDate": "2026-05-20T01:00:20Z",
+    "url": "https://www.aerotime.aero/articles/ntsb-video-engine-pylon-separating-ups-md-11",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "b3d1090a942e",
     "title": "Training and Safety Tip: Articulate your goals",
     "summary": "While there are times when it&rsquo;s fun to just go with the flow, flight training is not one of them. You are investing time, effort, and money, so your flight instructor should have a clear understanding of your goals and help you achieve them.",
@@ -7,6 +18,83 @@
     "category": "training",
     "publishedDate": "2026-05-20T00:49:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f7e2c24bbfeb",
+    "title": "UPS Cockpit Audio Reveals Moments Before Fatal Crash After Last-Minute Plane Swap",
+    "summary": "New information comes during the first day of a two-day hearing in the nation's capital.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T00:10:57Z",
+    "url": "https://simpleflying.com/ups-cockpit-audio-moments-before-crash-plane-swap/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dc8d282c6ec3",
+    "title": "5 Reasons The US Air Force Continues To Operate The A-10 Warthog In 2026",
+    "summary": "While the Warthog has outlived its usefulness in many potential conflicts, it retains an evolving niche and has psychological value.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T00:00:20Z",
+    "url": "https://simpleflying.com/5-reasons-usaf-continues-operate-a-10-warthog-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "79db41c7b817",
+    "title": "How The B-21 Raider Stacks Up Against The B-2 Spirit, B-52, & B-1 Lancer",
+    "summary": "The B-21 may not be able to carry the payloads of the B-1 and B-52, but it will allow the US to strike deep into heavily contested airspace.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T00:00:20Z",
+    "url": "https://simpleflying.com/b21-raider-vs-b2-b52-b1-comparison/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9d9473db0078",
+    "title": "NTSB: Tuesday Focuses On MD-11 Pylon Bearing Reports",
+    "summary": "Investigators questioned FAA, Boeing, UPS and maintenance witnesses on inspection and reporting processes.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-05-19T23:38:03Z",
+    "url": "https://avweb.com/aviation-news/ntsb-tuesday-hearing-md-11-pylon-bearing/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "587fd922fde5",
+    "title": "US low-cost carriers move quickly to fill Spirit routes after shutdown",
+    "summary": "US low-cost carriers are moving to snap up pieces of Spirit Airlines\u2019 network after the carrier ceased operations&#8230; The post US low-cost carriers move quickly to fill Spirit routes after shutdown appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-19T21:28:10Z",
+    "url": "https://www.aerotime.aero/articles/us-low-cost-carriers-fill-spirit-routes-shutdown",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8eecf5361e9f",
+    "title": "Only 47% Full: United Airlines' 10 Emptiest International Routes [Updated]",
+    "summary": "Barely half of the seats were filled. See which were the worst-performing routes here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T20:00:19Z",
+    "url": "https://simpleflying.com/only-47pc-full-united-airlines-10-emptiest-international-routes-updated/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3cc86b9c94c4",
+    "title": "Why The Boeing 777-9 Can't Fly Its Most Important Routes Without This Certification",
+    "summary": "A closer look at what the 777X will need to accomplish before being fully ready for commercial airline service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-19T20:00:19Z",
+    "url": "https://simpleflying.com/why-boeing-777-9-cant-fly-most-important-routes-without-certification/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -62,6 +150,17 @@
     "category": "industry",
     "publishedDate": "2026-05-19T18:00:00Z",
     "url": "https://www.flyingmag.com/faa-seeks-recruit-contract-tower-atcs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "30fb1b84894f",
+    "title": "GE wins US Air Force contract tied to medium-thrust autonomous aircraft engine",
+    "summary": "GE Aerospace has received a US Air Force contract to complete the preliminary design review of the GE426&#8230; The post GE wins US Air Force contract tied to medium-thrust autonomous aircraft engine appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-19T17:20:00Z",
+    "url": "https://www.aerotime.aero/articles/ge-us-air-force-autonomous-aircraft-engine-contract",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-13T19:00:00Z",
     "url": "https://www.flyingmag.com/sportys-pilot-shop-founder-dead-at-90/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "11331377ae4e",
-    "title": "USAF Apologizes After F-35 Triggers Sonic Boom Over England",
-    "summary": "An F-35A fighter inadvertently caused a sonic boom during a training mission over eastern England.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-13T18:29:33Z",
-    "url": "https://avweb.com/aviation-news/usaf-f35-sonic-boom-england-apology/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "18939d274d08",
-    "title": "31% Raises & $741 Million In Back Pay: United Airlines Flight Attendants Ratify Landmark Deal",
-    "summary": "The newly approved contract significantly boosts pay for United's flight attendants, with overall wage growth estimated at around 31%.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-05-13T18:02:46Z",
-    "url": "https://simpleflying.com/united-airlines-flight-attendants-ratify-landmark-deal/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d7ac34fb10fe",
-    "title": "Not Just Air Force One: The World's Most Impressive Government VIP Fleets",
-    "summary": "From Air Force One to commercial flights, discover how world leaders travel with powerful, unique VIP aircraft shaping global diplomacy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T18:00:19Z",
-    "url": "https://simpleflying.com/world-most-impressive-government-vip-aircraft-fleets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d3c5872c3377",
-    "title": "AOPA Holds Annual Member Meeting, Elects New Trustees",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) yesterday held its annual member meeting at the National Aviation Community Center in Frederick, Maryland, where it elected two new members to the Board of Trustees and heard feedback from 17 members.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-13T17:15:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/13/pr-aopa-holds-annual-member-meeting-elects-new-trustees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bdc6c7d072c",
-    "title": "Gun Magazine Discovered On Frontier Airlines Flight",
-    "summary": "Passengers were forced to deplane and fly out the next morning. Investigation conitnues.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T17:00:47Z",
-    "url": "https://simpleflying.com/gun-magazine-discovered-frontier-airlines-a321neo-flight/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "da50ea7cd8b9",
-    "title": "FAA Evaluating Airspace Risks From Proposed \u201cTriumphal Arch\u201d",
-    "summary": "The FAA is reviewing whether a proposed 250-foot \u201ctriumphal arch\u201d near Ronald Reagan Washington National Airport could impact flight safety.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-13T16:22:45Z",
-    "url": "https://avweb.com/aviation-news/faa-reviews-washington-triumphal-arch/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "45c90085720b",
-    "title": "ASA Releases Updated Oral Exam Guide for Flight Instructors",
-    "summary": "Ninth edition provides the knowledge and tools to be a successful CFI.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-13T16:00:00Z",
-    "url": "https://www.flyingmag.com/asa-releases-updated-oral-exam-guide-for-flight-instructors/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8a90297831e3",
-    "title": "Only 70 Seats: 6 Routes Air Canada Flies Its Ultra-Premium, All-Business Class A320s",
-    "summary": "Air Canada\u2019s 70-seat Jetz A320s are a rare find on regular commercial flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T15:04:40Z",
-    "url": "https://simpleflying.com/air-canada-flies-ultra-premium-all-business-a320s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a3695d0a2ab5",
-    "title": "FAA Completes First Phase Of NOTAM System Overhaul",
-    "summary": "The agency is transitioning to a new cloud-based system designed to improve reliability, reduce outages, and modernize delivery to pilots and dispatchers.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-13T14:44:13Z",
-    "url": "https://avweb.com/aviation-news/faa-completes-first-phase-of-notam-system/",
     "airlineTag": null,
     "isBreaking": false
   }
