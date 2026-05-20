@@ -1,5 +1,27 @@
 [
   {
+    "id": "ea3c0d439155",
+    "title": "China confirms Boeing order for 200 commercial aircraft following Trump-Xi talks",
+    "summary": "The government of the People&#8217;s Republic of China has confirmed an order with Boeing for 200 commercial aircraft,&#8230; The post China confirms Boeing order for 200 commercial aircraft following Trump-Xi talks appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-20T08:19:04Z",
+    "url": "https://www.aerotime.aero/articles/china-confirms-boeing-order-for-200-commercial-aircraft-following-trump-xi-talks",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "352d9ab4cdc6",
+    "title": "Is This The Next Airline Facing Uncertainty?",
+    "summary": "With only 11 million in cash at the end of 2025 and ongoing cost pressures, airBaltic might be the next airline to face pressure in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-20T05:30:19Z",
+    "url": "https://simpleflying.com/next-airline-facing-uncertainty/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d9a360bd6dc3",
     "title": "NTSB releases video of engine pylon separating from UPS MD-11",
     "summary": "The National Transportation Safety Board (NTSB) has released a video showing the left engine and pylon separating from&#8230; The post NTSB releases video of engine pylon separating from UPS MD-11 appeared first on AeroTime.",
@@ -2174,28 +2196,6 @@
     "category": "military",
     "publishedDate": "2026-05-13T19:21:15Z",
     "url": "https://www.aerotime.aero/articles/pilots-eject-us-air-force-t-38-crash-alabama",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5d922c6ef3e9",
-    "title": "The F-35's Safety Record Nobody Talks About When Comparing It To The F-16",
-    "summary": "How safe is the American stealth fighter?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-13T19:00:18Z",
-    "url": "https://simpleflying.com/f-35-safety-record-nobody-talks-about-comparing-f-16/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0fe14fb1fdd7",
-    "title": "Sporty\u2019s Pilot Shop Founder Dead at 90",
-    "summary": "Hal Shevers leaves behind more than 60 years of aviation education and innovation and community service.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-13T19:00:00Z",
-    "url": "https://www.flyingmag.com/sportys-pilot-shop-founder-dead-at-90/",
     "airlineTag": null,
     "isBreaking": false
   }
