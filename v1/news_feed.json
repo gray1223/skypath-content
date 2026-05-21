@@ -11,6 +11,50 @@
     "isBreaking": false
   },
   {
+    "id": "7b13e6cd63fb",
+    "title": "Airbus Delays More A350s As Ex-Spirit Plant Can't Deliver Critical Fuselage Parts",
+    "summary": "Staff shortage at the ex-Spirit AeroSystems plant that develops components for Airbus will result in delivery delays of future A350 aircraft!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T09:19:39Z",
+    "url": "https://simpleflying.com/airbus-delays-a350s-spirit-fuselage-parts/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c7f62c77e46f",
+    "title": "RAF Rivet Joint\u00a0\u201cdangerously\u201d intercepted by Russian\u00a0fighter jets\u00a0over Black Sea",
+    "summary": "The UK Ministry of&#160;Defence&#160;has accused two Russian fighter jets of repeatedly and dangerously intercepting a Royal Air Force&#8230; The post RAF Rivet Joint \u201cdangerously\u201d intercepted by Russian fighter jets over Black Sea appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-21T09:02:44Z",
+    "url": "https://www.aerotime.aero/articles/raf-rivet-joint-su-35-su-27-black-sea-intercept",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cfa4d4529bac",
+    "title": "Here's How Much A Business Class Ticket On American Airlines' Boeing 787 Actually Costs In 2026",
+    "summary": "What you can expect to pay for American's Flagship Business on the 787.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T08:00:18Z",
+    "url": "https://simpleflying.com/american-airlines-787-business-class-cost/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dad2acc89f2f",
+    "title": "This Bomber Defied 15 Years Of Retirement Proposals To Become USAF's Most-Deployed Long-Range Strike Aircraft",
+    "summary": "These famous bombers will remain in service for nearly a century after their introduction.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T05:01:18Z",
+    "url": "https://simpleflying.com/usaf-most-deployed-bomber-defied-retirement/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c5e538edbaef",
     "title": "Boeing's 30 Stored 777X Jets Need Years Of Rework Before Airlines Get Them",
     "summary": "30 Boeing 777X jets are built, stored, and not going anywhere for years.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-14T17:30:00Z",
     "url": "https://www.flyingmag.com/merlin-military-autonomy-commercial-cargo/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "454993202371",
-    "title": "Hal Shevers: Architect of aviation training and Sporty's legacy",
-    "summary": "Hal Shevers&rsquo;s story is woven into the very fabric of American general aviation&mdash;a tale of resourcefulness, vision, and a relentless commitment to making the skies accessible to all who dream of flight. Born on June 27, 1935, Shevers&rsquo;s journey from Purdue Unive...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-14T17:28:11Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/14/hal-shevers-architect-of-aviation-training-and-sportys-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7cd53614dc51",
-    "title": "Simple Flying Podcast Episode 290: United Airlines' Flight Attendant Contract, Breeze Airways' 5th Birthday",
-    "summary": "Join Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-14T17:05:41Z",
-    "url": "https://simpleflying.com/podcast-291/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bcfc17f7393f",
-    "title": "Will The World's Most Advanced Stealth Bomber Have A Co-Pilot?",
-    "summary": "The Air Force is looking to replace the B-21's co-pilot with a WSO with a virtual co-pilot taking over the role, eventually it may replace the pilot.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-14T17:00:19Z",
-    "url": "https://simpleflying.com/worlds-most-advanced-stealth-bomber-co-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "34838dc29a33",
-    "title": "FAA to Outfit All Its Airport Vehicles With Transponders",
-    "summary": "Upgrade follows fatal ground collision at LaGuardia involving an unequipped firefighting truck.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-14T16:30:00Z",
-    "url": "https://www.flyingmag.com/faa-to-outfit-all-its-airport-vehicles-with-transponders/",
     "airlineTag": null,
     "isBreaking": false
   }
