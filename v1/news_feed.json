@@ -11,6 +11,94 @@
     "isBreaking": false
   },
   {
+    "id": "6c4a737e7fff",
+    "title": "FAA administrator opposes ADS-B-based billing",
+    "summary": "FAA Administrator Bryan Bedford said the FAA dislikes the practice of using ADS-B to charge fees to pilots in a Senate Aviation Subcommittee hearing on May 19.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-21T22:59:31Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5bfeded33b8c",
+    "title": "Republic Airways Pilots Fly Electric Aircraft in Florida",
+    "summary": "Three-day campaign sees Beta\u2019s CX300 fly into Orlando International Airport (KMCO).",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-21T19:30:00Z",
+    "url": "https://www.flyingmag.com/republic-airways-pilots-beta-electric-aircraft/",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "db95d084ccf6",
+    "title": "Why A $3,000 United Airlines Polaris Ticket No Longer Gets You Into The Polaris Lounge",
+    "summary": "An examination on airline pricing strategy in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T19:00:27Z",
+    "url": "https://simpleflying.com/why-3000-dollar-united-airlines-polaris-ticket-no-longer-polaris-lounge/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fe93273e5667",
+    "title": "American Airlines Now Allowing Former Top-Tier Spirit Fliers To Become Gold Members",
+    "summary": "The carrier is making a move to capture stranded Spirit Airlines frequent flyers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T18:58:10Z",
+    "url": "https://simpleflying.com/american-airlines-allowing-former-top-tier-spirit-fliers-gold-members/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "aecc58087d52",
+    "title": "NOEMI Broadens Aircraft Platform Strategy",
+    "summary": "The company says future variants could include cargo, SAR and dual-use applications.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-21T18:55:21Z",
+    "url": "https://avweb.com/aviation-news/company-news/noemi-broadens-aircraft-platform-strategy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fa4a786f8e4c",
+    "title": "Simple Flying Podcast Episode 292: World's Largest Airport May Drop TSA, UPS Flight 2976 Crash Investigation",
+    "summary": "Join Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T18:51:12Z",
+    "url": "https://simpleflying.com/podcast-292/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ae9b8f9c915e",
+    "title": "\u201cStruck Your Tail\u201d: United Airlines Plane Hits ANA Cargo Boeing 777F At Chicago O\u2019Hare",
+    "summary": "The damage is suspected to be minor.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T18:48:23Z",
+    "url": "https://simpleflying.com/united-airlines-plane-hits-ana-cargo-boeing-777f-chicago-ohare/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8e9e1a31e761",
+    "title": "Alaska Airlines Launches 1st-Ever Flight To London Heathrow Today",
+    "summary": "The debut takes place on May 21, becoming the airline's second route to Europe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T18:00:19Z",
+    "url": "https://simpleflying.com/alaska-airlines-launches-1st-ever-flight-to-london-heathrow-today/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "e2284ef06a19",
     "title": "AOPA Continues Mental Health Initiative with New Interview, Education Material",
     "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) continues to highlight the importance of mental health during its monthlong initiative with the release of a new interview with Federal Air Surgeon Dr. Susan Northrup and a new elective in the AOPA Air Safety Ins...",
@@ -18,6 +106,50 @@
     "category": "training",
     "publishedDate": "2026-05-21T17:56:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c42ba2e6f782",
+    "title": "Boeing\u2019s Forgotten Jumbo Jet Is Now Worth Less Than $150 Million",
+    "summary": "Despite its falling monetary value, the Queen of the Skies will leave a lasting legacy on the commercial aviation industry.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T17:30:18Z",
+    "url": "https://simpleflying.com/boeings-forgotten-jumbo-jet-worth-under-150-million/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "abdabefdf4da",
+    "title": "Bedford Pushes Back On ADS-B Fee Collection",
+    "summary": "FAA administrator says ADS-B was intended as a safety tool.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-21T17:03:52Z",
+    "url": "https://avweb.com/aviation-news/bedford-pushes-back-ads-b-fee-collection/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "96fec733c19a",
+    "title": "Why The Most-Tested Boeing Aircraft In History Is Also 7 Years Behind Schedule",
+    "summary": "The 777X certification campaign has grown far beyond Boeing's expectations after the FAA tightened oversight following the 737 MAX crashes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-21T17:00:18Z",
+    "url": "https://simpleflying.com/most-tested-boeing-aircraft-history-7-years-behind-schedule/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7b908ddc6d94",
+    "title": "Stolen Earhart Statue Returns in Time for Anniversary of Solo Flight",
+    "summary": "Repaired sculpture reinstalled in Harbour Grace on the 94th anniversary of iconic pilot\u2019s historic Atlantic crossing.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-21T16:22:53Z",
+    "url": "https://www.flyingmag.com/stolen-earhart-statue-returns-in-time-for-anniversary-of-solo-flight/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-05-15T11:00:20Z",
     "url": "https://simpleflying.com/video/delta-reduces-service-on-hundreds-of-flights/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "74d1965f6a8a",
-    "title": "28% of fatally injured pilots tested positive for potentially impairing drugs",
-    "summary": "The latest review by the National Transportation Safety Board (NTSB) into the presence of drugs in the systems&#8230; The post 28% of fatally injured pilots tested positive for potentially impairing drugs appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "regulatory",
-    "publishedDate": "2026-05-15T10:44:18Z",
-    "url": "https://www.aerotime.aero/articles/28-of-fatally-injured-pilots-tested-positive-for-potentially-impairing-drugs",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ff6765bc85cd",
-    "title": "United expands its Japanese footprint with new routes to Tokyo-Narita, Sapporo",
-    "summary": "United Airlines has announced an expansion of its services to Japan for the season of Winter 2026/27. The&#8230; The post United expands its Japanese footprint with new routes to Tokyo-Narita, Sapporo appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-15T10:20:23Z",
-    "url": "https://www.aerotime.aero/articles/united-expands-its-japanese-footprint-with-new-routes-to-tokyo-narita-sapporo",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cd21f42da774",
-    "title": "AirAsia Group posts positive operating profit in Q1 despite fuel cost pressures",
-    "summary": "AirAsia Group has posted a positive net operating profit for the first quarter of 2026, though rising fuel&#8230; The post AirAsia Group posts positive operating profit in Q1 despite fuel cost pressures appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-15T09:49:33Z",
-    "url": "https://www.aerotime.aero/articles/airasia-group-posts-positive-operating-profit-in-q1-despite-fuel-cost-pressures",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e58a5e5d356f",
-    "title": "A Look At The Hourly Pay Of US Major Airline Captains In 2026",
-    "summary": "The Big Three US carriers tend to offer the highest pay for Captains, whose widebodies are often the pinnacle of flying careers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-15T08:53:59Z",
-    "url": "https://simpleflying.com/us-airline-captain-hourly-pay-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "84a7eb6391d3",
-    "title": "FAA hastens transponder rollout for airport vehicles in wake of LaGuardia crash",
-    "summary": "A Federal Aviation Administration (FAA) program to equip all its airport vehicles with transponders has been accelerated in&#8230; The post FAA hastens transponder rollout for airport vehicles in wake of LaGuardia crash appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-15T08:32:43Z",
-    "url": "https://www.aerotime.aero/articles/faa-hastens-transponder-rollout-for-airport-vehicles-in-wake-of-laguardia-crash",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3ebec12e7dba",
-    "title": "How Much Do Boeing 777 Pilots Make In 2026?",
-    "summary": "Here is how Boeing 777 pilots can easily earn six-figure salaries.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-15T08:00:17Z",
-    "url": "https://simpleflying.com/how-much-boeing-777-pilots-make-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d00e25603039",
-    "title": "5 Flights Taking Off Every Minute: American Airlines Plans Record-Smashing Summer Schedule",
-    "summary": "The biggest summer ever at AA.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-15T03:31:23Z",
-    "url": "https://simpleflying.com/5-flights-every-minute-american-airlines-pans-record-smashing-summer-schedule/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "14efdafefb6e",
-    "title": "Southwest Airlines Bans Robots On Its Planes Just 2 Days After One Actually Flew For The 1st Time",
-    "summary": "A robot on a flight has led to a new restriction banning human-like devices from being transported on the budget carrier's planes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-15T03:08:18Z",
-    "url": "https://simpleflying.com/southwest-airlines-bans-robots-planes-2-days-after-one-actually-flew-1st-time/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "581666be9c0e",
-    "title": "How Blue Ocean Strategy is helping Nuremberg Airport compete against huge hubs",
-    "summary": "What happens when an airport loses its main hub carrier, its next largest airline and almost all of&#8230; The post How Blue Ocean Strategy is helping Nuremberg Airport compete against huge hubs appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-15T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/how-blue-ocean-strategy-is-helping-nuremberg-airport-compete-against-huge-hubs",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5f9ffe636f65",
-    "title": "Steel, Speed, & Strategy: The Military Jets Dominating Today's Battlefields",
-    "summary": "Breaking down the contest for air superiority in the 21st-century.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-15T02:00:32Z",
-    "url": "https://simpleflying.com/military-jets-dominating-battlefields-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c4cf2d802075",
-    "title": "Iridium purchases space-based ADS-B provider",
-    "summary": "Iridium Communications, a global satellite communications company, is acquiring the remaining stake in Aireon, bringing the world&rsquo;s only space\u2011based ADS\u2011B surveillance system fully under its control in a move the company says will define the next era of global aviation s...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-14T23:57:12Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/14/iridium-purchases-space-based-ads-b-provider?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3efc3f3bc64f",
-    "title": "Why The US Air Force Still Uses Modified Boeing 747s For Presidential Transport",
-    "summary": "The Boeing 747 is the only aircraft acceptable for its next-gen Presidential aircraft due to competing geopolitical and practical concerns.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-14T23:00:19Z",
-    "url": "https://simpleflying.com/why-us-air-force-uses-modified-boeing-747s-presidential-transport/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
