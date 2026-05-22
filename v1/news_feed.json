@@ -11,6 +11,28 @@
     "isBreaking": false
   },
   {
+    "id": "17db86800a96",
+    "title": "Why The Boeing 777X Had To Survive 2,500\u00b0F Brakes Before FAA Certification",
+    "summary": "FAA certification requires punishing aircraft tests.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T09:01:13Z",
+    "url": "https://simpleflying.com/boeing-777-9-survive-2500-f-brakes-before-faa-certifcation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5bf9aade0ccb",
+    "title": "Ex-Continental Boeing 777-200ERs To Become United Airlines\u2019 1st Widebodies With Starlink",
+    "summary": "A key step forward for United's Wi-Fi offering.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T04:43:13Z",
+    "url": "https://simpleflying.com/ex-continental-boeing-777-200ers-become-united-airlines-1st-widebodies-starlink/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "580ddf1efaa7",
     "title": "A Look At The Dual Salaries Of Reserve & Air National Guard Pilots In 2026",
     "summary": "What it pays to fly as a 'Weekend Warrior.'",
@@ -55,6 +77,17 @@
     "isBreaking": false
   },
   {
+    "id": "51b01b9fd94f",
+    "title": "Air India investigates engine fire on A320neo flight to Delhi",
+    "summary": "Air India has opened an investigation after an Airbus A320neo operating from Bengaluru to Delhi experienced an engine&#8230; The post Air India investigates engine fire on A320neo flight to Delhi appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-21T21:21:57Z",
+    "url": "https://www.aerotime.aero/articles/air-india-a320neo-engine-fire-delhi",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "181e7db333d7",
     "title": "The Qantas Fleet Order In 2000 That Locked It Out Of The World's Most Popular Widebody",
     "summary": "The pivotal 2000 fleet decision under CEO James Strong that locked Qantas out of the world's most popular widebody aircraft.",
@@ -62,6 +95,17 @@
     "category": "industry",
     "publishedDate": "2026-05-21T21:00:20Z",
     "url": "https://simpleflying.com/qantas-fleet-order-2000-locked-out-worlds-most-popular-widebody/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "33d18ad73a52",
+    "title": "US Air Force grounds T-38 Talon training fleet after Alabama crash",
+    "summary": "The US Air Force has paused flight operations for its entire T-38 Talon fleet after a May 12,&#8230; The post US Air Force grounds T-38 Talon training fleet after Alabama crash appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-21T20:52:29Z",
+    "url": "https://www.aerotime.aero/articles/us-air-force-grounds-t-38-fleet-alabama-crash",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-15T17:00:00Z",
     "url": "https://www.flyingmag.com/dot-invests-800m-replace-atc-facilities/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0a7d0adffe96",
-    "title": "Army Aviation Training Pressed At Budget Hearing",
-    "summary": "Lawmakers questioned officials on fuel costs, helicopter funding and readiness amid rising costs.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-05-15T14:57:25Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/army-aviation-training-budget-questions/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b64f38c701b3",
-    "title": "Trump says Boeing-China deal could rise to 750 aircraft if they \u2018do a good job\u2019",
-    "summary": "US President Donald Trump has indicated that an agreement with China for 200 Boeing commercial aircraft could rise&#8230; The post Trump says Boeing-China deal could rise to 750 aircraft if they \u2018do a good job\u2019 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-15T13:31:08Z",
-    "url": "https://www.aerotime.aero/articles/trump-boeing-china-deal-750-aircraft-do-a-good-job",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40046f7261bd",
-    "title": "Why This Air Force Base Needed A $130 Million Upgrade To Handle This 6th-Generation Combat Aircraft",
-    "summary": "Ellsworth is requiring at least $1.5 billion in upgrades to host the B-21, with a similar amount needed for Dyess.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-15T13:30:01Z",
-    "url": "https://simpleflying.com/air-force-base-130-million-upgrade-handle-6th-generation-combat-aircraft-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "13c1040cf52a",
-    "title": "DOT Announces $835.8 Million For ATC Facility Upgrades",
-    "summary": "Eight air traffic facilities to be replaced, while 41 Federal Contract Towers will receive modernization funding.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-15T13:29:38Z",
-    "url": "https://avweb.com/aviation-news/dot-announces-835-million-atc-upgrades/",
     "airlineTag": null,
     "isBreaking": false
   }
