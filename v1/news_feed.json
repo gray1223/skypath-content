@@ -1,5 +1,137 @@
 [
   {
+    "id": "828b827c1655",
+    "title": "6 Commercial Aircraft That Made Headlines For All The Wrong Reasons",
+    "summary": "A few aircraft that ran into trouble at some point.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T02:01:18Z",
+    "url": "https://simpleflying.com/6-commercial-aircraft-headlines-wrong-reasons/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ed6703fc6afe",
+    "title": "Why Southwest Airlines' New Assigned Seating System Created Problems It Didn't Anticipate",
+    "summary": "The airline recently changed its long-standing boarding process.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T23:00:18Z",
+    "url": "https://simpleflying.com/southwest-new-assigned-seating-system-create-problems-didnt-anticipate/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b8222ee05084",
+    "title": "What Pilots Actually Do During A 14-Hour Flight When The Autopilot Is Handling Everything",
+    "summary": "Modern airliners are incredibly automated, but pilots remain fully responsible for every decision during a flight. What do they actually do?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T22:00:20Z",
+    "url": "https://simpleflying.com/what-pilots-actually-do-14-hour-flight-autopilot-handleing-everything/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "445855caaffc",
+    "title": "F-18 Fighter Jets Destroyed After Colliding Mid-Air Cost Nearly $70 Million Each, Navy Says",
+    "summary": "The $130 million loss of two EA-18G Growler aircraft in a mid-air collision highlights the financial and operational risks of military air shows.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T21:34:35Z",
+    "url": "https://simpleflying.com/f-18-fighter-jets-destroyed-colliding-mid-air-cost-nearly-70-million-each-navy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3c71a6d9decc",
+    "title": "Why Southwest Airlines Is Moving Away From Point-To-Point Flying",
+    "summary": "With this change to 'high-density stations,' Dallas-based Southwest Airlines will aim to offer more flights to more destinations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T21:30:19Z",
+    "url": "https://simpleflying.com/southwest-airlines-moving-away-point-to-point-why/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2eba221b4538",
+    "title": "Falcon Field Landing Fees Draw FAA Complaint, Federal Lawsuit",
+    "summary": "Flight schools are asking the FAA and a federal court to halt Mesa\u2019s landing fee program.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-05-22T21:21:44Z",
+    "url": "https://avweb.com/aviation-news/falcon-field-landing-fees-faa-complaint/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "07b8e291b76e",
+    "title": "5 Airlines With The World's Most Superior Premium Economy Seats For Transatlantic Flights",
+    "summary": "Often, a good premium economy experience boils down to more about the service and catering than the seat itself.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T21:00:19Z",
+    "url": "https://simpleflying.com/5-airlines-worlds-superior-premium-economy-seats-transatlantic-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d7cf27fe06e1",
+    "title": "Here's Why The Boeing 777X May Be Too Big For This European Airline",
+    "summary": "Boeing's new flagship is set to enter service very soon, with Scandinavian Airlines taking a serious interest in the type. Is this the wrong move?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T21:00:19Z",
+    "url": "https://simpleflying.com/why-boeing-777x-too-big-european-airline/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dc51a29f7559",
+    "title": "A Flight Tracker For AvGeeks: Live Alerts, Military Aircraft, NOTAMs & More",
+    "summary": "Get ready for Simple Flying's latest feature!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T20:55:19Z",
+    "url": "https://simpleflying.com/simple-flying-new-flight-tracker/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71a93a1b9632",
+    "title": "Up To 70 Daily Flights: American Airlines Puts Pressure On Delta With 4 New European Routes",
+    "summary": "The airline is heating up its transatlantic competition with its legacy rival.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T20:47:35Z",
+    "url": "https://simpleflying.com/70-daily-flights-american-airlines-pressure-delta-4-new-european-routes/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d4e30928916f",
+    "title": "WestJet Cuts 41 International Routes: See All Flight Changes Here",
+    "summary": "There are some highly intriguing entries, some of which were inherited after acquiring another airline...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-22T20:00:19Z",
+    "url": "https://simpleflying.com/westjet-cuts-41international-routes-see-all-flight-changes-here/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d222dc3acee9",
+    "title": "Pentagon Looks To Expand Supersonic Aircraft Industrial Base",
+    "summary": "Special notice seeks proposals aimed at production speed, sustainment costs and supply chain concerns.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-05-22T19:47:23Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/pentagon-supersonic-aircraft-manufacturing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c364fce66e90",
     "title": "Why Long-Haul Pilots Are Paid More To Fly The Boeing 787 Than The 777 At Most US Carriers",
     "summary": "United Airlines pays its 787 pilots more, while American 787 and 777 pilots earn the same basic salary.",
@@ -17,7 +149,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T19:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -39,7 +171,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T18:29:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -303,7 +435,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T22:59:31Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -446,7 +578,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T17:56:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T00:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/20/pr-aopa-applauds-faa-administrators-comments-opposing-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/20/pr-aopa-applauds-faa-administrators-comments-opposing-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-20T19:34:57Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/20/driving-support-for-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/20/driving-support-for-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -985,7 +1117,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-20T00:49:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-05-16T20:08:26Z",
     "url": "https://simpleflying.com/6000-mile-flights-united-new-longest-787-8-route/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f4c3d02231c0",
-    "title": "The Lightest Vs. Heaviest Aircraft Ever",
-    "summary": "From ultra-light experimental craft to massive cargo transports, the contrast between the lightest and heaviest aircraft is monumental.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T20:00:19Z",
-    "url": "https://simpleflying.com/lightest-vs-heaviest-aircraft-ever/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ce1deed3f90f",
-    "title": "US Congressman On American Eagle CRJ900 Forced To Evacuate Via Wing As Smoke Fills Cabin",
-    "summary": "A US Congressman found himself in a terrifying situation when the American Eagle flight he was on declared an emergency landing due to smoke.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T19:32:24Z",
-    "url": "https://simpleflying.com/us-congressman-american-eagle-crj900-wing-evacuation-smoke/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8623abfc715f",
-    "title": "Southwest Launches 1st-Ever Flights To Alaska: Here's Where They\u2019re Flying",
-    "summary": "The world's largest low-cost carrier, has finally touched down in Alaska, marking its first-ever flights to the state with two new seasonal routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T19:01:19Z",
-    "url": "https://simpleflying.com/southwest-1st-flights-to-alaska-where-theyre-flying/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5e952f259267",
-    "title": "Here's Why The US Navy Chose The F/A-18 Super Hornet Over A Dedicated Fleet Air Defense Fighter",
-    "summary": "The Super Hornet became good enough and affordable for the Navy after the threat environment changed following the end of the Cold War.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T19:01:19Z",
-    "url": "https://simpleflying.com/why-us-navy-chose-fa-18-over-dedicated-fleet-air-defense-fighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "13940d20758c",
-    "title": "Long-Haul, But No WiFi: United Airlines & Panasonic Divorce Speculated Amid Starlink Rollout",
-    "summary": "As United Airlines rapidly deploys Starlink across its fleet, passengers on flights equipped with Panasonic systems face mounting connectivity issues.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T18:27:39Z",
-    "url": "https://simpleflying.com/united-airlines-panasonic-divorce-starlink-wifi/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8661cf7eca7f",
-    "title": "If You've Got Money To Burn, We Found These Near-Perfect First Class Suites On The Airbus A380",
-    "summary": "Singapore Airlines, Emirates, Etihad Airways, Lufthansa, and Qantas all offer some of the most iconic and luxurious first class products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T18:00:20Z",
-    "url": "https://simpleflying.com/money-burn-near-perfect-first-class-suites-airbus-a380/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c87fdee7ab61",
-    "title": "Here's What Happens To A Boeing 747 After It's Retired From Commercial Service",
-    "summary": "The Boeing 747 never really retires. Here is what actually happens when one leaves commercial service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T17:01:19Z",
-    "url": "https://simpleflying.com/what-happens-boeing-747-retired-commerical-service/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1c98eedd0e37",
-    "title": "5 Of The Cheapest Economy Class Seats In The US You Can Book Today",
-    "summary": "A combination of full service and low-cost carriers, these five airlines offer the cheapest economy seats today.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T15:01:19Z",
-    "url": "https://simpleflying.com/cheapest-economy-seats-you-can-book/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c5e1fa65a533",
-    "title": "Why The B-21 Raider's New Home Costs $1 Billion Less Than Its Other Bases",
-    "summary": "Whiteman AFB's unique qualities unpacked.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T14:00:18Z",
-    "url": "https://simpleflying.com/why-b-21-raider-new-home-1-billion-less-other-bases/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2f6fdeb018ad",
-    "title": "Aer Lingus Launches 5 Exciting New Routes From Dublin This Month",
-    "summary": "From short turboprop flights to transatlantic odysseys, there's something for everyone among the Irish flag carrier's new routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T13:01:18Z",
-    "url": "https://simpleflying.com/aer-lingus-launches-5-exciting-new-routes-dublin-may-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b58fcf0debb",
-    "title": "After 6 Years In The Desert, American Airlines' A330s Taken By Vietnam's Newest Airline",
-    "summary": "Vietnamese carrier Sun PhuQuoc Airways will acquire eight former American Airlines Airbus A330s that have sat in desert storage for more than six years. The widebodies were controversially retired by American during the COVID pandemic and have remained mothballed at the Roswel...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T12:29:18Z",
-    "url": "https://simpleflying.com/video/after-6-years-in-the-desert-american-airlines-a330s-taken-by-vietnam-s-newest-airline/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "26350a837c01",
-    "title": "Bad Backlog: Here's Why Airlines Are Ordering Record Numbers Of Planes But Still Can't Get Them",
-    "summary": "Supply-chain challenges show no signs of being resolved anytime soon.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T11:00:18Z",
-    "url": "https://simpleflying.com/why-airlines-ordering-record-number-planes-still-cant-get-them/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
