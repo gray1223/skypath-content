@@ -1,5 +1,82 @@
 [
   {
+    "id": "1a927bc67554",
+    "title": "Delta Just Announced 1st-Ever Flights To This US City\u2014Should Alaska Airlines Be Worried?",
+    "summary": "Delta's twice-daily flights to Santa Rosa will go head to head with Alaska Airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T18:48:55Z",
+    "url": "https://simpleflying.com/delta-just-announced-new-city-should-alaska-airlines-be-worried/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "37c671b070b7",
+    "title": "Why A Commercial Jet Flying At 35,000 Feet Is Actually Traveling Through Airspace That Doesn't Legally Exist",
+    "summary": "Why jets at 35,000 feet fly through legally undefined airspace, where no nation owns the sky and international law still has major gaps.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T18:00:20Z",
+    "url": "https://simpleflying.com/why-commercial-jet-flying-35000-feet-traveling-airspace-doesnt-legally-exist/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "41f8323a4506",
+    "title": "Why Alaska Airlines Is Moving Toward Hub-Based Operations",
+    "summary": "More aircraft now means more flights to key markets from the airline's busiest airports.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T17:30:19Z",
+    "url": "https://simpleflying.com/alaska-airlines-hub-based-operations-why/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "de611fba2059",
+    "title": "The F-4 Phantom II's Brute-Force Design Is Why Modern Air Forces Can't Replace It",
+    "summary": "The F-4 Phantom II was noted for being a \"brick\" that had the sheer thrust that allowed it to fly into combat and win.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T17:00:20Z",
+    "url": "https://simpleflying.com/f-4-phantom-ii-brute-force-design-modern-air-forces-cant-replace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c8ac30cebcc7",
+    "title": "NTSB Halts Public Investigation Access After AI Recreates Cockpit Audio From Fatal UPS Crash",
+    "summary": "A bizarre case of 'deep fake' black box recordings.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-05-23T15:49:23Z",
+    "url": "https://simpleflying.com/ntsb-halt-public-investigation-access-ai-recreates-cockpit-audio-fatal-ups-crash/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0758af3886fa",
+    "title": "Delta Boosts Boston-Europe Flights By 20% This Summer: New Routes Revealed",
+    "summary": "Boston Logan International Airport is turning into quite the transatlantic hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T15:00:19Z",
+    "url": "https://simpleflying.com/delta-air-lines-boston-europe-route-boosts/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "616335c0549a",
+    "title": "Here's What A First Officer At A Major US Airline Actually Takes Home In 2026: The Full Breakdown",
+    "summary": "Being an airline first officer in the United States can be pretty lucrative.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T14:00:18Z",
+    "url": "https://simpleflying.com/what-first-officer-major-us-airline-takes-home-2026-breakdown/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "8e838b33ffe0",
     "title": "Delta Passenger Refuses To End Phone Call, Forces Aircraft Return To Gate",
     "summary": "Many of us have experienced those important phone calls that are difficult to end. Maybe it\u2019s an important business deal or something deeply personal and tragic. However, when you\u2019re on an aircraft that\u2019s about to takeoff, rules are the rules, and all calls need to end when fl...",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-17T11:14:45Z",
     "url": "https://www.aerotime.aero/articles/zinc-aviation-ryanair-clone-sets-out-blueprint-for-australian-success",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7b415890b2b9",
-    "title": "Massive 5,800 Miles: Dublin's New Longest Nonstop Route",
-    "summary": "This new route by China Eastern Airlines will be Dublin's second service from China, after Hainan Airlines' service from Beijing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T10:00:28Z",
-    "url": "https://simpleflying.com/5800-miles-dublins-new-longest-nonstop-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1da5a0500910",
-    "title": "Qatar Airways' Airbus A380 Is Back: These 2 Routes Resume In June",
-    "summary": "Knowing when to restart operations of the world's largest airliner is difficult amid the current uncertainty.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T10:00:28Z",
-    "url": "https://simpleflying.com/qatar-airways-airbus-a380-june-resumption/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2bf989e14973",
-    "title": "The Hidden Math Behind Southwest Airlines' Assigned Seating Gamble With 800+ Boeing 737s",
-    "summary": "Its sudden shift to assigned seating is a gamble with the airline's core operational efficiency across its massive 800+ Boeing 737 fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T10:00:28Z",
-    "url": "https://simpleflying.com/hidden-math-southwest-airlines-assigned-seating-gamble-800-boeing-737s/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "889cba5ff423",
-    "title": "Over 130 Knots: Croatia Airlines Airbus A220 Veers Off Runway After Aborted Takeoff",
-    "summary": "Passengers and crew safely disembarked the aircraft via stairs after the high-speed rejected takeoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T09:39:04Z",
-    "url": "https://simpleflying.com/130-knots-croatia-airlines-a220-runway-aborted-takeoff/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0b5520177dce",
-    "title": "New Egyptian airline with all-Airbus fleet to link Europe with tourist hotspots",
-    "summary": "A new Egyptian airline with an all-Airbus fleet is expected to launch this year with the carrier set&#8230; The post New Egyptian airline with all-Airbus fleet to link Europe with tourist hotspots appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-17T09:23:38Z",
-    "url": "https://www.aerotime.aero/articles/new-egyptian-airline-all-airbus-fleet-link-europe-tourist-hotspots",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "af8fe458b488",
-    "title": "Why The Airbus A220 Is Becoming One Of The Most Profitable Narrowbodies In North America",
-    "summary": "Airbus is on the rise again, this time with its acquisition A220 program, where airlines across North America are realizing its potential.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T07:00:20Z",
-    "url": "https://simpleflying.com/why-airbus-a220-most-profitable-narrowbody-north-america/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "662b8e4fec4d",
-    "title": "Australian Ryanair? Former Qantas Exec Plans All-A321neo ULCC At Sydney\u2019s New Airport",
-    "summary": "The opening of Western Sydney International Airport are integral to the potential Zinc Airlines success.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T04:13:10Z",
-    "url": "https://simpleflying.com/australian-ryanair-former-qantas-zinc-a321neo-sydney/",
     "airlineTag": null,
     "isBreaking": false
   }
