@@ -1,5 +1,27 @@
 [
   {
+    "id": "43be4118e6c1",
+    "title": "British Airways Equips Just 5 Planes With Starlink In 9 Weeks Due To Hangar Shortage",
+    "summary": "The goal of fitting more than 300 aircraft with Starlink by March 2028 is in serious jeopardy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T06:20:44Z",
+    "url": "https://simpleflying.com/british-airways-starlink-5-planes-9-weeks-hangar-shortage/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e050b6ac82bf",
+    "title": "From Dogfights To Drone Strikes: The Military Aircraft Rewriting The Rules Of Combat",
+    "summary": "Modern air warfare is splitting into two: stealth aircraft and AI drones at one extreme, and improvised low-cost countermeasures at the other.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T05:01:18Z",
+    "url": "https://simpleflying.com/dogfights-drone-strikes-military-aircraft-rewriting-rules-combat/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "828b827c1655",
     "title": "6 Commercial Aircraft That Made Headlines For All The Wrong Reasons",
     "summary": "A few aircraft that ran into trouble at some point.",
@@ -149,7 +171,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T19:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -171,7 +193,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T18:29:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -435,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T22:59:31Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +600,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T17:56:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -798,7 +820,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T00:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/20/pr-aopa-applauds-faa-administrators-comments-opposing-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/20/pr-aopa-applauds-faa-administrators-comments-opposing-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -897,7 +919,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-20T19:34:57Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/20/driving-support-for-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/20/driving-support-for-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-20T00:49:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-16T21:38:23Z",
     "url": "https://simpleflying.com/delta-teases-mini-first-class-front-row-suites/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4aac9d13f59a",
-    "title": "Some Countries Have No Pilot Retirement Age: Here's Why The US Still Forces Them Out At 65",
-    "summary": "Pilots in some countries fly well past 65, but the US still draws a hard line.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T21:00:18Z",
-    "url": "https://simpleflying.com/some-countries-no-pilot-retirement-age-why-us-forces-out-65/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "179c3a0534ba",
-    "title": "6,000-Mile Flights: United Airlines' New Longest Nonstop Boeing 787-8 Route [Map]",
-    "summary": "The carrier unveiled its longest-ever Boeing 787-8 route, spanning 6,274 miles between Chicago and Tokyo's Narita Airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-16T20:08:26Z",
-    "url": "https://simpleflying.com/6000-mile-flights-united-new-longest-787-8-route/",
     "airlineTag": "United Airlines",
     "isBreaking": false
   }
