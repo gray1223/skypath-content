@@ -1,5 +1,71 @@
 [
   {
+    "id": "1076a9f5a740",
+    "title": "Under Fire: The Military Aircraft Seeing Real Combat & Why They Were Chosen",
+    "summary": "Are the most 'exquisite' airframes really on the frontline?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-24T02:01:19Z",
+    "url": "https://simpleflying.com/military-aircraft-seeing-real-combat-why-chosen/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ef2ac3a58e0",
+    "title": "5.5-Hour Flights: Southwest Launches Longest Domestic Flight Ever From Its Busiest Airport",
+    "summary": "These services will form a key part of the carrier's Alaskan expansion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T22:00:18Z",
+    "url": "https://simpleflying.com/southwest-longest-domestic-flight-denver/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e5da913c5306",
+    "title": "How Airlines Decide When It's Time To Retire Aircraft",
+    "summary": "Determining exactly when to retire an aging aircraft is a complicated business.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T21:30:19Z",
+    "url": "https://simpleflying.com/how-airlines-decide-when-time-to-retire-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a368f5daa2c8",
+    "title": "Here's What 1 F-47 Pilot Will Actually Control In A Swarm Of Autonomous Drones",
+    "summary": "Discover the philosophy behind the F-47 and its flying companions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T21:00:18Z",
+    "url": "https://simpleflying.com/what-1-f-47-pilot-control-swarm-autonomous-drones/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3649e9d1a97a",
+    "title": "Upgrades: American & United Airlines Swap Regional Jets With Airbus A319s On Small City Routes",
+    "summary": "American and United are upgrading small-city routes with Airbus A319s, replacing regional jets in markets like Flagstaff and Appleton.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T20:01:43Z",
+    "url": "https://simpleflying.com/upgrades-american-united-airlines-swap-regional-jets-with-airbus-a319s-on-small-city-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "63e0610fac83",
+    "title": "How Much Does It Cost To Charter A Private Boeing 737?",
+    "summary": "One could reasonably expect to end up paying hundreds of thousands of dollars.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-23T20:01:39Z",
+    "url": "https://simpleflying.com/cost-charter-private-boeing-737/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "1a927bc67554",
     "title": "Delta Just Announced 1st-Ever Flights To This US City\u2014Should Alaska Airlines Be Worried?",
     "summary": "Delta's twice-daily flights to Santa Rosa will go head to head with Alaska Airlines.",
@@ -270,7 +336,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T19:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -292,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T18:29:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -556,7 +622,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T22:59:31Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/21/faa-administrator-opposes-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -699,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T17:56:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/21/pr-aopa-continues-mental-health-initiative-with-new-interview-education-material?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -919,7 +985,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-21T00:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/20/pr-aopa-applauds-faa-administrators-comments-opposing-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/20/pr-aopa-applauds-faa-administrators-comments-opposing-ads-b-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1084,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-20T19:34:57Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/20/driving-support-for-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/20/driving-support-for-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1238,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-20T00:49:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/19/training-and-safety-tip-articulate-your-goals?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-17T17:31:18Z",
     "url": "https://simpleflying.com/singapore-airlines-cathay-pacific-which-premium-economy-superior/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e11c447e1897",
-    "title": "Video: Croatia Airlines A220 veers off runway during rejected takeoff",
-    "summary": "A Croatia Airlines Airbus A220-300 veered off the runway during an aborted takeoff from Split Airport (SPU) in&#8230; The post Video: Croatia Airlines A220 veers off runway during rejected takeoff appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-17T16:40:57Z",
-    "url": "https://www.aerotime.aero/articles/croatia-airlines-a220-runway-excursion-split",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08e41c6a7203",
-    "title": "Not Again: Rookie British Airways Attendant Triggers 777 Slide, Costs Airline Over $100k",
-    "summary": "Passengers were delayed by over six hours and engineers replaced the slide.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T16:40:32Z",
-    "url": "https://simpleflying.com/british-airways-rookie-flight-attendant-777-slide-100k/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9b8407d99c02",
-    "title": "Jet2 Launches 17 Exciting New Summer Routes: See Them All Here",
-    "summary": "Jet2's aggressive Summer 2027 expansion, despite industry challenges, highlights the airline's confidence and resilience in the leisure market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T15:57:08Z",
-    "url": "https://simpleflying.com/jet2-17-new-summer-routes-see-them-here/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "55290d34db1f",
-    "title": "Why These Are The Most Feared Military Aircraft In Active Combat Today",
-    "summary": "From F-35 to J-20, these feared fighters dominate 2026 combat by controlling information, stealth, and first-strike advantage in modern warfare.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T13:00:19Z",
-    "url": "https://simpleflying.com/why-most-feared-military-aircraft-active-combat-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a6b8ccf3ab1f",
-    "title": "Zero Service: Delta Air Lines To Remove Main Cabin Drinks & Snacks On 450 Flights",
-    "summary": "Delta Air Lines is set to cut its in-flight service on hundreds of daily short flights, with those under 349 miles (558 km) no longer featuring in-flight meals, snacks, or drinks. These changes are planned to come into effect from May 19, and will see short offerings such as L...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-17T12:33:18Z",
-    "url": "https://simpleflying.com/video/zero-service-delta-air-lines-to-remove-main-cabin-drinks-snacks-on-450-flights/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "be73e85fc4f9",
-    "title": "Zinc Aviation: Ryanair clone sets out blueprint for Australian success",
-    "summary": "The founder of Zinc Aviation has set out his blueprint to conquer the notoriously difficult Australian airline market&#8230; The post Zinc Aviation: Ryanair clone sets out blueprint for Australian success appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-17T11:14:45Z",
-    "url": "https://www.aerotime.aero/articles/zinc-aviation-ryanair-clone-sets-out-blueprint-for-australian-success",
     "airlineTag": null,
     "isBreaking": false
   }
