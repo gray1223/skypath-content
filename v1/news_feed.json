@@ -1,5 +1,49 @@
 [
   {
+    "id": "c5dd5f059aab",
+    "title": "Why FAA Pilots Flying The Boeing 777X For The 1st Time Changes Everything",
+    "summary": "FAA pilots independently review the aircraft as one integrated system.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-25T19:00:18Z",
+    "url": "https://simpleflying.com/why-faa-pilots-flying-boeing-777x-1st-time-change-everything/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a4eb1267c33c",
+    "title": "United 777 Diverts To Amsterdam, Then Newark In Rare 24-Hour Double Diversion Flight",
+    "summary": "A Boeing 777-200ER's journey from Amsterdam to San Francisco turned into a 24-hour nightmare with two unscheduled diversions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-25T18:02:23Z",
+    "url": "https://simpleflying.com/united-777-diverts-amsterdam-newark-double-diversion/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "174116ae5477",
+    "title": "6 Airlines With The World's Most Superior Narrowbody Business Class Products In 2026",
+    "summary": "Airbus A321neo platforms dominate today's narrowbody premium market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-25T18:01:18Z",
+    "url": "https://simpleflying.com/narrowbody-business-class-products/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fa0652a74417",
+    "title": "Only 53% Full: Alaska Airlines' 10 Emptiest International Routes Revealed [Full List]",
+    "summary": "How many of them can you guess? See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-25T16:00:18Z",
+    "url": "https://simpleflying.com/only-53pc-full-alaska-airlines-10-emptiest-international-routes-revealed/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "ec254954e01b",
     "title": "NTSB takes public docket system offline over UPS MD-11 cockpit audio concern",
     "summary": "The National Transportation Safety Board (NTSB) has temporarily taken its public docket system offline after learning that publicly&#8230; The post NTSB takes public docket system offline over UPS MD-11 cockpit audio concern appeared first on AeroTime.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-05-18T19:00:18Z",
     "url": "https://simpleflying.com/alaska-airlines-launches-1st-ever-transatlantic-boeing-737-max-flight-next-week/",
     "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b3d7c24efb1f",
-    "title": "Southwest Airlines' Free Starlink WiFi Has 1 Major Catch In 2026",
-    "summary": "Its decision to reserve complimentary Starlink WiFi exclusively for Rapid Rewards members reframes the announcement as something much larger.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-18T19:00:18Z",
-    "url": "https://simpleflying.com/southwest-airlines-free-starlink-wifi-1-major-catch-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2ede36e9b9c9",
-    "title": "ATCs Left Out of FAA Staffing Model Change, Union Says",
-    "summary": "Group representing the nation\u2019s air traffic controllers states it had no say in the agency\u2019s reduction of staffing targets.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-18T18:15:00Z",
-    "url": "https://www.flyingmag.com/atc-left-out-faa-staffing-model-change/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f5365de720a5",
-    "title": "Why Some Countries Still Buy Old Military Aircraft",
-    "summary": "A closer look at the booming marketplace for used fighters around the world.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-18T18:00:19Z",
-    "url": "https://simpleflying.com/why-countries-buy-old-military-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c02ff668dca0",
-    "title": "The 7 Largest Royal Air Force Bases & Their Strategic Roles",
-    "summary": "Some of the largest RAF bases are overseas, with the most remote airbase also being geographically the largest.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-18T17:30:19Z",
-    "url": "https://simpleflying.com/7-largest-raf-bases-and-strategic-roles/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
