@@ -1,5 +1,16 @@
 [
   {
+    "id": "8bf3602caf38",
+    "title": "CAU grad, first-generation captain inspires next generation",
+    "summary": "At six years old, Jesus Gallegos had the opportunity to sit in the captain's seat of a Boeing 737 while travelling from Ontario, California to Mexico City with his family. Years later, he became a captain himself at GoJet Airlines.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-05-29T21:54:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4e4c0582ff8a",
     "title": "Training and Safety Tip: Tidy up after flight",
     "summary": "&ldquo;What, are we having a garage sale?&rdquo; I asked the dispatcher. Behind his station were four large boxes. One was full of sunglasses. The second was full of gloves. The third was full of cables and connectors. The fourth, water bottles.",
@@ -7,6 +18,105 @@
     "category": "training",
     "publishedDate": "2026-05-27T00:39:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a0ebc9d9d551",
+    "title": "New States, Aircraft Confirmed for FAA\u2019s AAM Test Program",
+    "summary": "Pennsylvania will lead a consortium of 18 participants and test at least one eVTOL not previously announced.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-05-26T20:00:00Z",
+    "url": "https://www.flyingmag.com/new-states-aircraft-faa-aam-test-program/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8372ae254511",
+    "title": "NTSB Calls For FAA Update To Runway Condition Matrix",
+    "summary": "Recommendations follow wet-runway overrun investigations.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-05-26T19:14:07Z",
+    "url": "https://avweb.com/aviation-news/ntsb-calls-runway-condition-matrix-update/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d52510ed1be1",
+    "title": "Why America's KC-46 Tanker Fleet Is Already Falling Behind The Demand Its Own Air Force Created",
+    "summary": "The Boeing KC-46 is one of the world's most capable tankers, although it continues to face teething problems seven years after entering service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T19:00:19Z",
+    "url": "https://simpleflying.com/why-america-kc-46-tanker-fleet-falling-behind-demand-own-air-force-created/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9cc6d6bb2276",
+    "title": "Guest Post: A Systems Safety Look at UPS Flight 2976",
+    "summary": "The case shows how legacy certification decisions can persist even after service history points in another direction.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-05-26T18:55:10Z",
+    "url": "https://avweb.com/features/guest-post-systems-safety-ups-flight-2976/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8bb4a477f0ee",
+    "title": "American Airlines selects Starlink Wi-Fi for 500-plus Airbus aircraft",
+    "summary": "American Airlines will install Starlink high-speed Wi-Fi on more than 500 Airbus aircraft beginning in the first quarter&#8230; The post American Airlines selects Starlink Wi-Fi for 500-plus Airbus aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-26T18:50:55Z",
+    "url": "https://www.aerotime.aero/articles/american-airlines-starlink-airbus-wifi",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "952ed58e9089",
+    "title": "Western Global Joins FedEx To Become Just 2nd Airline To Revive The MD-11",
+    "summary": "Western Global has revived MD-11F operations, joining FedEx in bringing the iconic tri-jet back after last year\u2019s FAA grounding.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T18:21:24Z",
+    "url": "https://simpleflying.com/western-global-join-fedex-second-revive-md-11/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "b68c0ddadd81",
+    "title": "American Airlines to Install Starlink High-Speed Wi-Fi on Narrowbody Aircraft",
+    "summary": "More than 500 planes will receive the upgrade starting next year.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-26T17:15:33Z",
+    "url": "https://avweb.com/aviation-news/american-airlines-starlink-narrowbody/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3b21da765729",
+    "title": "How The World's Largest Jet Engine's 2,400\u00b0F Combustor Fix Decides The Boeing 777X's Fate",
+    "summary": "Boeing\u2019s 777X now depends on whether GE Aerospace truly solved the GE9X combustor durability issues threatening long-term airline reliability.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T17:00:19Z",
+    "url": "https://simpleflying.com/how-worlds-largest-jet-engine-2400-f-combustor-fix-decides-boeing-777x-fate/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ae5ae335ed23",
+    "title": "Inside The NATO Air Exercise Where F-16s, Eurofighters & Hornets Compete In Tiger Stripes",
+    "summary": "From F-16s to Eurofighters, NATO Tiger Meet 2026 united Europe\u2019s airpower in Greece\u2019s iconic tiger exercise.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T15:26:19Z",
+    "url": "https://simpleflying.com/inside-nato-tiger-meet/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-19T20:00:19Z",
     "url": "https://simpleflying.com/why-boeing-777-9-cant-fly-most-important-routes-without-certification/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b729a703e31b",
-    "title": "Unexpected: United Extends Summer Sicily Flights Into Winter Using A 46-Seat Polaris 767",
-    "summary": "United is betting that premium demand for Sicily now extends well beyond the traditional summer season.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T19:03:03Z",
-    "url": "https://simpleflying.com/unexpected-united-extends-summer-sicily-flights/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "356cf859d879",
-    "title": "Delta A330 Makes Emergency Landing After Mid-Air Engine Fire Triggers Cabin \u201cBlackout\u201d",
-    "summary": "A loud explosion-like bang and visible engine flashes on a Delta Air Lines flight forced the Airbus A330 made an emergency landing in Paris.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T18:50:46Z",
-    "url": "https://simpleflying.com/delta-a330-emergency-landing-engine-fire-cabin-blackout/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "737734e75c66",
-    "title": "Historic: Riyadh Air\u2019s 1st Official Flight To Take Off In July",
-    "summary": "Riyadh Air will launch its first-ever commercial flight on July 1st, connecting Riyadh and London with Boeing 787-9 Dreamliners.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T18:26:36Z",
-    "url": "https://simpleflying.com/riyadh-air-1st-official-flight-july/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "010a7aabca09",
-    "title": "FAA Seeks to Recruit Contracted ATCs to Its Ranks",
-    "summary": "Agency\u2019s latest action to address a long-standing shortage would tap into a pool of privately managed air traffic controllers.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-19T18:00:00Z",
-    "url": "https://www.flyingmag.com/faa-seeks-recruit-contract-tower-atcs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30fb1b84894f",
-    "title": "GE wins US Air Force contract tied to medium-thrust autonomous aircraft engine",
-    "summary": "GE Aerospace has received a US Air Force contract to complete the preliminary design review of the GE426&#8230; The post GE wins US Air Force contract tied to medium-thrust autonomous aircraft engine appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-19T17:20:00Z",
-    "url": "https://www.aerotime.aero/articles/ge-us-air-force-autonomous-aircraft-engine-contract",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5a3afaa3dcdd",
-    "title": "Southwest Airlines Cuts 11 International Routes: See All Flight Changes Now",
-    "summary": "All are sun markets from multiple airports across the US. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T16:00:19Z",
-    "url": "https://simpleflying.com/southwest-airlines-cuts-11-international-routes-see-all-flight-changes-now/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cf678c9f7b36",
-    "title": "Here's How Much A Polaris Business Class Seat On United's Boeing 787 Actually Costs In 2026",
-    "summary": "Polaris by United has become a globally renowned business class product, but how much does it actually set you back?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T16:00:19Z",
-    "url": "https://simpleflying.com/how-much-polaris-business-class-seat-united-boeing-787-costs-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1c96874234a0",
-    "title": "FAA To Test Moving Contract Towers Into Agency Operation",
-    "summary": "Program begins with Bozeman Yellowstone International and Mesa Gateway.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-19T15:29:06Z",
-    "url": "https://avweb.com/aviation-news/faa-test-moving-contract-towers-agency-ops/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2a8314fe5aa7",
-    "title": "This 2024 Beechcraft Bonanza G36 Is an American-Inspired \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "High-performance single features integrated Garmin G1000 NXi panel and digital climate control.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-19T14:16:32Z",
-    "url": "https://www.flyingmag.com/this-2024-beechcraft-bonanza-g36-is-an-american-inspired-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "215c64caa705",
-    "title": "FAA Opens $26 Million For Aviation Workforce Grants",
-    "summary": "Funding will support pilot, drone operator and maintenance technician training programs.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-05-19T14:11:10Z",
-    "url": "https://avweb.com/flight-safety/flight-training/faa-26-million-aviation-workforce-grants/",
     "airlineTag": null,
     "isBreaking": false
   }
