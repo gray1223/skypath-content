@@ -22,6 +22,50 @@
     "isBreaking": false
   },
   {
+    "id": "4599b291d723",
+    "title": "First Chinese Mainland A350F Customer Boosts Order To 10 Aircraft",
+    "summary": "The update comes as Airbus looks to boost its freighter presence.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T22:33:52Z",
+    "url": "https://simpleflying.com/air-china-a350f-order-10-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c9f2bac1509d",
+    "title": "This Airline Has The World's Final Unfulfilled Order For The Passenger Boeing 777-300ER",
+    "summary": "PIA is on the books as the customer of the last Boeing 777-300ER, although it's possible the final unit was delivered in 2024.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T21:30:21Z",
+    "url": "https://simpleflying.com/airline-has-final-worlds-final-unfulfilled-order-passenger-boeing-777-300er/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "06e4453a1b00",
+    "title": "Growing Ebola outbreak brings airport screening back into focus",
+    "summary": "The Ebola outbreak in the Democratic Republic of the Congo and Uganda has again brought airport health screening&#8230; The post Growing Ebola outbreak brings airport screening back into focus appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-26T21:06:56Z",
+    "url": "https://www.aerotime.aero/articles/ebola-outbreak-airport-screening-airline-protocols",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "6b65f3f41b9e",
+    "title": "American Airlines Joins Starlink WiFi Race With Massive 500+ Aircraft Upgrade",
+    "summary": "American turns to Starlink as free WiFi becomes table stakes across US aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-26T20:20:49Z",
+    "url": "https://simpleflying.com/american-airlines-starlink-500-aircraft-upgrade/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "a0ebc9d9d551",
     "title": "New States, Aircraft Confirmed for FAA\u2019s AAM Test Program",
     "summary": "Pennsylvania will lead a consortium of 18 participants and test at least one eVTOL not previously announced.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-20T00:00:20Z",
     "url": "https://simpleflying.com/b21-raider-vs-b2-b52-b1-comparison/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9d9473db0078",
-    "title": "NTSB: Tuesday Focuses On MD-11 Pylon Bearing Reports",
-    "summary": "Investigators questioned FAA, Boeing, UPS and maintenance witnesses on inspection and reporting processes.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-05-19T23:38:03Z",
-    "url": "https://avweb.com/aviation-news/ntsb-tuesday-hearing-md-11-pylon-bearing/",
-    "airlineTag": "UPS Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "587fd922fde5",
-    "title": "US low-cost carriers move quickly to fill Spirit routes after shutdown",
-    "summary": "US low-cost carriers are moving to snap up pieces of Spirit Airlines\u2019 network after the carrier ceased operations&#8230; The post US low-cost carriers move quickly to fill Spirit routes after shutdown appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-19T21:28:10Z",
-    "url": "https://www.aerotime.aero/articles/us-low-cost-carriers-fill-spirit-routes-shutdown",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8eecf5361e9f",
-    "title": "Only 47% Full: United Airlines' 10 Emptiest International Routes [Updated]",
-    "summary": "Barely half of the seats were filled. See which were the worst-performing routes here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T20:00:19Z",
-    "url": "https://simpleflying.com/only-47pc-full-united-airlines-10-emptiest-international-routes-updated/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3cc86b9c94c4",
-    "title": "Why The Boeing 777-9 Can't Fly Its Most Important Routes Without This Certification",
-    "summary": "A closer look at what the 777X will need to accomplish before being fully ready for commercial airline service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-19T20:00:19Z",
-    "url": "https://simpleflying.com/why-boeing-777-9-cant-fly-most-important-routes-without-certification/",
     "airlineTag": null,
     "isBreaking": false
   }
