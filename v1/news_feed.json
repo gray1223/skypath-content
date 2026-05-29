@@ -22,6 +22,72 @@
     "isBreaking": false
   },
   {
+    "id": "b8df9db5ea2d",
+    "title": "FAA Awards $523 Million For Airport Infrastructure",
+    "summary": "Grants will fund runway, taxiway, apron and terminal projects across 43 states.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-29T14:06:49Z",
+    "url": "https://avweb.com/aviation-news/faa-awards-523-m-airport-infrastructure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "92d144117f05",
+    "title": "11-Hour Nonstop Flights: Air Transat Launches New Route To Europe's Busiest Airport",
+    "summary": "Canada's leisure carrier will now have two routes to Turkey. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T14:00:18Z",
+    "url": "https://simpleflying.com/11-hour-nonstop-flights-air-transat-launches-new-route-to-europes-busiest-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cba432eb8e36",
+    "title": "The Boeing 777X Part That Snapped After A Test Flight From Hawaii",
+    "summary": "The unexpected grounding of the entire 777X test fleet in August 2024 sent shockwaves through the aviation industry, but was it beneficial for Boeing?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T14:00:18Z",
+    "url": "https://simpleflying.com/boeing-777x-part-snapped-after-test-flight-hawaii/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35e7931eee76",
+    "title": "Angelo State Gets FAA Air Traffic Training Designations",
+    "summary": "Texas school adds FAA pathways for air traffic operations students",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-05-29T13:34:30Z",
+    "url": "https://avweb.com/aviation-news/angelo-state-faa-atc-training-designation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c9bdb41db10c",
+    "title": "Dramatic High-Speed Rejected Takeoff: A220 Leaves Runway, Smashes Signs",
+    "summary": "On Saturday, May 16th, a Croatia Airlines Airbus A220-300 had to reject takeoff at high-speed and left the runway as a result. The aircraft smashed through several signs as it came to a stop.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T12:24:17Z",
+    "url": "https://simpleflying.com/video/dramatic-high-speed-rejected-takeoff-a220-leaves-runway-smashes-signs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "915369e1892f",
+    "title": "Here's How Much A Business Class Ticket On American Airlines' Boeing 787-9 Actually Costs In 2026",
+    "summary": "The 787-9 is where American Airlines seeks to grow its business class presence worldwide, but prices for different route pairings range significantly",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T11:00:19Z",
+    "url": "https://simpleflying.com/american-airlines-787-9-business-class-cost/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "1e9fa4aea0b0",
     "title": "How An American-United Merger Would Have Shaken Up US Aviation",
     "summary": "With American unwilling to join forces with United, the latter has ruled out future mergers.",
@@ -167,7 +233,7 @@
   {
     "id": "e9de9fa0f168",
     "title": "Flight schools file FAA complaint over Falcon Field fees",
-    "summary": "Two flight schools at Falcon Field in Mesa, Arizona, have filed a Part 13 complaint challenging the city&rsquo;s new landing fee program, which could go into effect as early as July 30.",
+    "summary": "Two flight schools at Falcon Field in Mesa, Arizona, have filed a Part 13 complaint challenging the city&rsquo;s new landing fee program, which could go into effect as early as July 30. AOPA backed the flight schools&rsquo; position that the fees violate federal grant assuranc...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-05-22T20:55:19Z",
     "url": "https://simpleflying.com/simple-flying-new-flight-tracker/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "71a93a1b9632",
-    "title": "Up To 70 Daily Flights: American Airlines Puts Pressure On Delta With 4 New European Routes",
-    "summary": "The airline is heating up its transatlantic competition with its legacy rival.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-22T20:47:35Z",
-    "url": "https://simpleflying.com/70-daily-flights-american-airlines-pressure-delta-4-new-european-routes/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "d4e30928916f",
-    "title": "WestJet Cuts 41 International Routes: See All Flight Changes Here",
-    "summary": "There are some highly intriguing entries, some of which were inherited after acquiring another airline...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-22T20:00:19Z",
-    "url": "https://simpleflying.com/westjet-cuts-41international-routes-see-all-flight-changes-here/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d222dc3acee9",
-    "title": "Pentagon Looks To Expand Supersonic Aircraft Industrial Base",
-    "summary": "Special notice seeks proposals aimed at production speed, sustainment costs and supply chain concerns.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-05-22T19:47:23Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/pentagon-supersonic-aircraft-manufacturing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c364fce66e90",
-    "title": "Why Long-Haul Pilots Are Paid More To Fly The Boeing 787 Than The 777 At Most US Carriers",
-    "summary": "United Airlines pays its 787 pilots more, while American 787 and 777 pilots earn the same basic salary.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-05-22T19:00:08Z",
-    "url": "https://simpleflying.com/why-long-haul-pilots-paid-more-fly-boeing-787-777-most-carriers/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "75417a826e30",
-    "title": "Why recurrent pilot training matters when renewing insurance",
-    "summary": "AOPA members understand that flying safely is about far more than meeting the minimum requirements&mdash;it&rsquo;s about maintaining proficiency, protecting your investment, and being a responsible steward of general aviation. That philosophy carries real weight when it comes...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-22T19:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2c38c51a6cb4",
-    "title": "American Airlines Denies Mother's Final Goodbye Before 18-Year-Old Son's Navy Deployment",
-    "summary": "A mother's desperate plea to American Airlines for a gate pass to see her son off at CVG.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-22T18:53:01Z",
-    "url": "https://simpleflying.com/american-airlines-denies-mother-final-goodbye-before-18-year-old-son-navy-deployment/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
