@@ -6,7 +6,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -19,6 +19,105 @@
     "publishedDate": "2026-05-29T21:54:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1e9fa4aea0b0",
+    "title": "How An American-United Merger Would Have Shaken Up US Aviation",
+    "summary": "With American unwilling to join forces with United, the latter has ruled out future mergers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T09:47:27Z",
+    "url": "https://simpleflying.com/how-american-united-merger-impact-us-aviation/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "288e96a9d97b",
+    "title": "Starlux Airlines to launch services to Barcelona, Zurich, Sydney and Auckland",
+    "summary": "Taiwanese full-service carrier Starlux Airlines announced plans to add four new long-haul destinations to its network during 2027. &#8230; The post Starlux Airlines to launch services to Barcelona, Zurich, Sydney and Auckland appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-29T09:36:46Z",
+    "url": "https://www.aerotime.aero/articles/starlux-airlines-to-launch-services-to-barcelona-zurich-sydney-and-auckland",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dd3480b8e544",
+    "title": "250 Hawaiian Airlines Flight Attendants Told To Drop Leis & Aloha Shirts On New Seattle Routes",
+    "summary": "Alaska Air Group executives admitted that the move was a \"difficult decision.\"",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T09:31:49Z",
+    "url": "https://simpleflying.com/250-hawaiian-airlines-flight-attendants-drop-leis-aloha-shirts-new-seattle-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b367b9b8ab6a",
+    "title": "The US Navy's Most Powerful Aircraft Carriers Ranked",
+    "summary": "Ranking the five most powerful US Navy aircraft carriers ever built, from the Midway class to the advanced Gerald R. Ford class supercarriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T08:01:17Z",
+    "url": "https://simpleflying.com/us-navy-aircraft-carriers-ranked/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c07ab7d62128",
+    "title": "How Much Do Fighter Pilots Earn Vs. Commercial Airline Pilots In 2026?",
+    "summary": "A closer look at what pilots earn in both fields around the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T05:03:34Z",
+    "url": "https://simpleflying.com/how-much-fighter-pilots-earn-commercial-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3a772140d5f3",
+    "title": "Japan Airlines tests world-first biodiesel made from rice bran oil byproducts",
+    "summary": "Japan Airlines (JAL) announced that it has begun a demonstration project at Yamagata Airport (GAJ) using biodiesel fuel&#8230; The post Japan Airlines tests world-first biodiesel made from rice bran oil byproducts appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-29T05:03:21Z",
+    "url": "https://www.aerotime.aero/articles/japan-airlines-tests-world-first-biodiesel-made-from-rice-bran-oil-byproducts",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "618537a60e34",
+    "title": "Spirit Airlines' 22 Coveted LaGuardia Slots Will Go To Highest Bidder, Valued At $87 Million",
+    "summary": "Prime real estate is heading to the auction block.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T04:54:39Z",
+    "url": "https://simpleflying.com/spirit-airlines-22-coveted-laguardia-slots-go-to-highest-bidder-valued-87-million/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a5a46207c879",
+    "title": "JAL bans cabin crew from drinking during layovers after flight delay incident",
+    "summary": "Japan Airlines has banned cabin crew from drinking alcohol during layovers before return flights, according to The Japan&#8230; The post JAL bans cabin crew from drinking during layovers after flight delay incident appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-29T04:01:06Z",
+    "url": "https://www.aerotime.aero/articles/jal-bans-cabin-crew-from-drinking-during-layovers-after-flight-delay-incident",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "836595098cc2",
+    "title": "Boeing Delivers FedEx\u2019s 152nd & Final 767-300 Freighter Ahead Of Production End Next Year",
+    "summary": "The final Boeing 767-300F for FedEx Express takes flight, marking the end of an era for the iconic twinjet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-29T03:46:55Z",
+    "url": "https://simpleflying.com/boeing-deliver-fedex-152nd-final-767-300f-ahead-production-end/",
+    "airlineTag": "FedEx Express",
     "isBreaking": false
   },
   {
@@ -72,7 +171,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -116,7 +215,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -127,7 +226,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -160,7 +259,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -189,7 +288,7 @@
   {
     "id": "6556ecee3d2e",
     "title": "FAA proposes AD to address Challenger 600-series flap malfunction risk",
-    "summary": "The Federal Aviation Administration (FAA) has proposed a new airworthiness directive for 610 US-registered Bombardier Challenger 600-series aircraft&#8230; The post FAA proposes AD to address Challenger 600-series flap malfunction risk appeared first on AeroTime.",
+    "summary": "The Federal Aviation Administration (FAA) has proposed a new airworthiness directive for 610 US-registered Bombardier Challenger 600-series aircraft.&#8230; The post FAA proposes AD to address Challenger 600-series flap malfunction risk appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "regulatory",
     "publishedDate": "2026-05-28T19:49:51Z",
@@ -288,7 +387,7 @@
   {
     "id": "569df691c2ce",
     "title": "Boeing \u2018off and rolling at the 47 rate\u2019 as FAA backs 737 production boost",
-    "summary": "Boeing CEO Kelly Ortberg says the planemaker is \u201coff and rolling at the 47 rate\u2019 after the Federal&#8230; The post Boeing \u2018off and rolling at the 47 rate\u2019 as FAA backs 737 production boost appeared first on AeroTime.",
+    "summary": "According to Boeing CEO Kelly Ortberg, the planemaker is \u201coff and rolling at the 47 rate\u201d after the&#8230; The post Boeing \u2018off and rolling at the 47 rate\u2019 as FAA backs 737 production boost appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-05-28T13:03:08Z",
@@ -627,17 +726,6 @@
     "isBreaking": false
   },
   {
-    "id": "dd3480b8e544",
-    "title": "250 Hawaiian Airlines Flight Attendants Told To Drop Leis & Aloha Shirts On New Seattle Routes",
-    "summary": "About 250 Hawaiian Airlines flight attendants in Seattle face new uniform limits as Alaska Air Group balances dual-brand integration and identity.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T17:46:44Z",
-    "url": "https://simpleflying.com/250-hawaiian-airlines-flight-attendants-drop-leis-aloha-shirts-new-seattle-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
     "id": "29c75eccc33b",
     "title": "Why Does Top Gun Feature F-18 Super Hornets Instead Of F-35 Lightning IIs?",
     "summary": "The selection of F/A-18 Super Hornets by Top Gun is based on special film needs and real-world flying considerations.",
@@ -869,6 +957,17 @@
     "isBreaking": false
   },
   {
+    "id": "fd8eaf0c947e",
+    "title": "Magnifica Air co-founder shares more details about the new US premium airline",
+    "summary": "October 2025 saw the unveiling of Magnifica Air, a new premium airline project for the United States. The&#8230; The post Magnifica Air co-founder shares more details about the new US premium airline appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-27T09:21:17Z",
+    "url": "https://www.aerotime.aero/articles/magnifica-air-founder-shares-more-details-about-the-new-us-premium-airline",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "28121ca333a1",
     "title": "Magnifica Air founder shares more details about the new US premium airline",
     "summary": "October 2025 saw the unveiling of Magnifica Air, a new premium airline project for the United States. The&#8230; The post Magnifica Air founder shares more details about the new US premium airline appeared first on AeroTime.",
@@ -908,7 +1007,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-27T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2085,7 +2184,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-22T19:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/22/why-recurrent-pilot-training-matters-when-renewing-insurance?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-05-22T18:53:01Z",
     "url": "https://simpleflying.com/american-airlines-denies-mother-final-goodbye-before-18-year-old-son-navy-deployment/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cb0bc803d0f3",
-    "title": "Part 141 overhaul: AOPA speaks up for small schools",
-    "summary": "A desire to leave room for small schools to operate under&mdash;and share the benefits of&mdash;an overhauled FAR Part 141, along with concerns about limiting FAA oversight capacity in ways that shift the burden to schools are themes woven through AOPA's detailed comments on i...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-22T18:29:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/22/part-141-overhaul-aopa-speaks-up-for-small-schools?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "698e01337503",
-    "title": "United Airlines Flight Diverts After Passenger Tries To Open Door & Attacks Another Traveler",
-    "summary": "A recent United Airlines flight from Newark to Guatemala City was diverted to Washington after a passenger allegedly tried to open the aircraft door.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-22T18:21:11Z",
-    "url": "https://simpleflying.com/united-airlines-flight-diverts-passenger-tries-open-door-attack-another-traveler/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "450ee9c7b19b",
-    "title": "This 2018 Cirrus SR20 G6 Is an Efficient, Easy-Flying \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Lighter and more forgiving than its SR22 sibling, the machine is ideal for personal use or training.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-22T18:00:00Z",
-    "url": "https://www.flyingmag.com/this-2018-cirrus-sr20-g6-is-an-efficient-easy-flying-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9196b81f63bd",
-    "title": "The Last Plane In America With Piston\u2011Engine Propellers",
-    "summary": "A closer look at the story of the Douglas DC-7, America's last piston-engine airliner, and its legacy before jets took over the skies,",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-22T17:30:19Z",
-    "url": "https://simpleflying.com/last-plane-america-with-piston-engine-propellers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "594ef395d7c7",
-    "title": "FAA Allows Taxpayers to Track Progress on $12.5B ATC Upgrades",
-    "summary": "Agency cites lack of transparency for undermining previous modernization efforts such as NextGen.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-22T17:00:00Z",
-    "url": "https://www.flyingmag.com/faa-tracks-progress-12-5b-atc-modernization/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5637e879b646",
-    "title": "US pauses longtime Canada defense pact amid ongoing F-35 dispute",
-    "summary": "The United States has paused its participation in a joint defense board with Canada formed by the two&#8230; The post US pauses longtime Canada defense pact amid ongoing F-35 dispute appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-22T16:05:09Z",
-    "url": "https://www.aerotime.aero/articles/us-pauses-canada-defense-pact-f35-dispute",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e9c5888b21c3",
-    "title": "15 New Routes In 5 Days: Where Breeze Airways, United Airlines & Delta Fly Now",
-    "summary": "Five airlines operate them, with one carrier launching 10 routes...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-22T16:00:20Z",
-    "url": "https://simpleflying.com/15-new-routes-in-5-days-where-breeze-airways-united-airlines-delta-fly-now/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6c3397610bce",
-    "title": "DOT, FAA Launch ATC Modernization Tracker",
-    "summary": "Modern Skies site tracks FAA infrastructure work nationwide.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-22T14:33:46Z",
-    "url": "https://avweb.com/aviation-news/dot-faa-atc-modernization-tracker/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eec726d5d3c3",
-    "title": "RIAT 2026 canceled as US bombers occupy RAF Fairford for Iran campaign",
-    "summary": "Organizers of the Royal International Air Tattoo (RIAT) have canceled the 2026 edition of the world\u2019s largest military&#8230; The post RIAT 2026 canceled as US bombers occupy RAF Fairford for Iran campaign appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-22T14:31:52Z",
-    "url": "https://www.aerotime.aero/articles/riat-2026-cancelled-raf-fairford-us-bombers-iran",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
