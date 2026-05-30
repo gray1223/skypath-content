@@ -1,5 +1,38 @@
 [
   {
+    "id": "b65b1088bdbc",
+    "title": "Over 400 Aircraft: What's Turkish Airlines' Fleet Like In 2026?",
+    "summary": "Today we take a brief look at the fleet composition of Turkish Airlines, which has over 400 aircraft under its air operator\u2019s certificate. From essentially brand new A350s and 787s to over 20-year-old A330s, let\u2019s see what the Star Alliance member is flying in 2026\u2026",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T12:27:19Z",
+    "url": "https://simpleflying.com/video/over-400-aircraft-what-s-turkish-airlines-fleet-like-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "218fa9924d23",
+    "title": "Hawaiian Airlines Drops Signature Free Economy Meal For $17 Pre-Order Menu",
+    "summary": "Complimentary Main Cabin meal service will end on July 1 in favor of an expanded menu.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T11:29:59Z",
+    "url": "https://simpleflying.com/hawaiian-airlines-drops-free-economy-meal-paid-pre-order-menu/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7f8bb9483c75",
+    "title": "6 Fighter Jets The US Military Is Quietly Phasing Out & What's Replacing Them",
+    "summary": "From the retirement of the F-15C and AV-8B to the phasedown of the A-10 and early-block F-22, the Pentagon is rethinking the future of airpower.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T11:00:17Z",
+    "url": "https://simpleflying.com/6-fighter-jets-us-military-quietly-phasing-out-replacing-them/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4839bf4a17ad",
     "title": "Premium Hold-Up: Why Airlines' Luxury Seats & Suites Are Failing FAA Safety Tests",
     "summary": "Airlines are being called upon to involve regulators earlier in the design process to provide sufficient recommendations.",
@@ -61,7 +94,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -446,7 +479,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -490,7 +523,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -501,7 +534,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -534,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-27T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-23T21:00:18Z",
     "url": "https://simpleflying.com/what-1-f-47-pilot-control-swarm-autonomous-drones/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3649e9d1a97a",
-    "title": "Upgrades: American & United Airlines Swap Regional Jets With Airbus A319s On Small City Routes",
-    "summary": "American and United are upgrading small-city routes with Airbus A319s, replacing regional jets in markets like Flagstaff and Appleton.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T20:01:43Z",
-    "url": "https://simpleflying.com/upgrades-american-united-airlines-swap-regional-jets-with-airbus-a319s-on-small-city-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "63e0610fac83",
-    "title": "How Much Does It Cost To Charter A Private Boeing 737?",
-    "summary": "One could reasonably expect to end up paying hundreds of thousands of dollars.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T20:01:39Z",
-    "url": "https://simpleflying.com/cost-charter-private-boeing-737/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1a927bc67554",
-    "title": "Delta Just Announced 1st-Ever Flights To This US City\u2014Should Alaska Airlines Be Worried?",
-    "summary": "Delta's twice-daily flights to Santa Rosa will go head to head with Alaska Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T18:48:55Z",
-    "url": "https://simpleflying.com/delta-just-announced-new-city-should-alaska-airlines-be-worried/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
