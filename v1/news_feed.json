@@ -1,5 +1,60 @@
 [
   {
+    "id": "7291cde7c8d6",
+    "title": "Why The Airbus A380's 4-Engine Layout Is Now Its Biggest Commercial Liability",
+    "summary": "With its striking size comes a striking operating bill, forcing airlines to reevaluate.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T19:00:20Z",
+    "url": "https://simpleflying.com/why-airbus-a380-4-engine-layout-biggest-commercial-liability/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ddcafbab96c",
+    "title": "8-Hour Nonstop Flights: WestJet Launches This New Boeing 737 MAX Route",
+    "summary": "WestJet celebrates its largest-ever European network from Halifax, the airline's 737 MAX 8 will operate four-times weekly flights to Copenhagen.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T18:50:26Z",
+    "url": "https://simpleflying.com/8-hour-flights-westjet-launches-new-737-max-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b26884da7b7e",
+    "title": "The Hidden Checklist Airlines Use To Decide Who Becomes A Flight Attendant",
+    "summary": "It is said that it is harder to become a flight attendant than to get a place at Harvard.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T18:00:20Z",
+    "url": "https://simpleflying.com/hidden-checklist-airlines-use-decide-who-becomes-flight-attendant/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9f95e68dda80",
+    "title": "The Real Reason Pilots Say Feet Instead Of Meters & Why Changing It Would Ground Aircraft Globally",
+    "summary": "However logical, switching now would simply wreak havoc",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T17:00:19Z",
+    "url": "https://simpleflying.com/real-reason-pilots-feet-meters-why-changing-ground-aircraft-globally/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3b4cf81931e9",
+    "title": "5 Things Passengers Don't Know About How Airlines Assign Business Class Upgrades",
+    "summary": "Here's the reason why most people will never receive a free business class upgrade.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T15:00:18Z",
+    "url": "https://simpleflying.com/5-things-passengers-dont-know-about-how-airlines-assign-business-class-upgrades/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "b65b1088bdbc",
     "title": "Over 400 Aircraft: What's Turkish Airlines' Fleet Like In 2026?",
     "summary": "Today we take a brief look at the fleet composition of Turkish Airlines, which has over 400 aircraft under its air operator\u2019s certificate. From essentially brand new A350s and 787s to over 20-year-old A330s, let\u2019s see what the Star Alliance member is flying in 2026\u2026",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-05-24T06:10:15Z",
     "url": "https://simpleflying.com/united-airlines-ai-help-passengers-make-flight-connections/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1076a9f5a740",
-    "title": "Under Fire: The Military Aircraft Seeing Real Combat & Why They Were Chosen",
-    "summary": "Are the most 'exquisite' airframes really on the frontline?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-24T02:01:19Z",
-    "url": "https://simpleflying.com/military-aircraft-seeing-real-combat-why-chosen/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b1adfea365b",
-    "title": "6-Hour Flights: Southwest Launches Longest Domestic Route Ever From Its Busiest Airport",
-    "summary": "These services will form a key part of the carrier's Alaskan expansion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T22:00:18Z",
-    "url": "https://simpleflying.com/southwest-longest-domestic-flight-denver/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0ef2ac3a58e0",
-    "title": "5.5-Hour Flights: Southwest Launches Longest Domestic Flight Ever From Its Busiest Airport",
-    "summary": "These services will form a key part of the carrier's Alaskan expansion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T22:00:18Z",
-    "url": "https://simpleflying.com/southwest-longest-domestic-flight-denver/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e5da913c5306",
-    "title": "How Airlines Decide When It's Time To Retire Aircraft",
-    "summary": "Determining exactly when to retire an aging aircraft is a complicated business.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T21:30:19Z",
-    "url": "https://simpleflying.com/how-airlines-decide-when-time-to-retire-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a368f5daa2c8",
-    "title": "Here's What 1 F-47 Pilot Will Actually Control In A Swarm Of Autonomous Drones",
-    "summary": "Discover the philosophy behind the F-47 and its flying companions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T21:00:18Z",
-    "url": "https://simpleflying.com/what-1-f-47-pilot-control-swarm-autonomous-drones/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
