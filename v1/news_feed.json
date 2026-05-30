@@ -1,8 +1,30 @@
 [
   {
+    "id": "4839bf4a17ad",
+    "title": "Premium Hold-Up: Why Airlines' Luxury Seats & Suites Are Failing FAA Safety Tests",
+    "summary": "Airlines are being called upon to involve regulators earlier in the design process to provide sufficient recommendations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T05:47:18Z",
+    "url": "https://simpleflying.com/airline-premium-seats-suites-failing-faa-safety-tests/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ee07fc30e7eb",
+    "title": "Why The Royal Air Force Can't Actually Afford To Fill Its New Aircraft Carriers With F-35Bs",
+    "summary": "A snowball of procurement problems for the RAF.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-30T05:01:17Z",
+    "url": "https://simpleflying.com/why-raf-cant-afford-fill-new-aircraft-carriers-f-35bs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8dbad0e72cd4",
     "title": "New: Phoenix To Become STARLUX Airlines\u2019 1st Airbus A350-1000 Long-Haul Destination",
-    "summary": "STARLUX Airlines is set to upgrade its long-haul operations from Taipei to Phoenix, swapping the Airbus A350-900 for the larger A350-1000 this July.",
+    "summary": "The equipment change is set for this summer.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-05-30T01:08:37Z",
@@ -39,7 +61,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -424,7 +446,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -468,7 +490,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -479,7 +501,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +534,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1282,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-27T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-05-23T18:48:55Z",
     "url": "https://simpleflying.com/delta-just-announced-new-city-should-alaska-airlines-be-worried/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "37c671b070b7",
-    "title": "Why A Commercial Jet Flying At 35,000 Feet Is Actually Traveling Through Airspace That Doesn't Legally Exist",
-    "summary": "Why jets at 35,000 feet fly through legally undefined airspace, where no nation owns the sky and international law still has major gaps.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T18:00:20Z",
-    "url": "https://simpleflying.com/why-commercial-jet-flying-35000-feet-traveling-airspace-doesnt-legally-exist/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "41f8323a4506",
-    "title": "Why Alaska Airlines Is Moving Toward Hub-Based Operations",
-    "summary": "More aircraft now means more flights to key markets from the airline's busiest airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-23T17:30:19Z",
-    "url": "https://simpleflying.com/alaska-airlines-hub-based-operations-why/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
