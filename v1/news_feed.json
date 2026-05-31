@@ -1,5 +1,71 @@
 [
   {
+    "id": "7475f0a6e5ec",
+    "title": "A Look At The Salaries Of Narrowbody Charter Pilots In 2026",
+    "summary": "Charter pilot pay can vary massively given the wide scope of the industry.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T19:00:18Z",
+    "url": "https://simpleflying.com/salaries-narrowbody-charter-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0f54e7786c7",
+    "title": "14 Hours Lying Flat: United Polaris Passenger Pays $7,400, Gets Just $350 For Broken Seat",
+    "summary": "Flight attendants allegedly dismissed the issue, leaving the passenger stuck with a lie-flat seat and no seatbelt for the remainder of the journey.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T18:37:12Z",
+    "url": "https://simpleflying.com/united-airlines-polaris-14-hours-lying-flat-broken-seat/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e2ca8464356b",
+    "title": "The Real Reason The US Air Force Is Still Flying B-52s Built Before Most Of Its Pilots Were B",
+    "summary": "The B-52 is an iconic Cold War aircraft. It was supposed to retire, now lets dive into why it has and will remain in service for decades to come.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T18:00:19Z",
+    "url": "https://simpleflying.com/real-reason-usaf-still-flying-b-52s-built-before-most-pilots-born/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cd8844f68fc3",
+    "title": "United flight to Spain returns to Newark after Bluetooth security concern",
+    "summary": "A United Airlines flight from Newark to Spain returned to Newark Liberty International Airport (EWR) on May 30,&#8230; The post United flight to Spain returns to Newark after Bluetooth security concern appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-05-31T16:11:34Z",
+    "url": "https://www.aerotime.aero/articles/united-flight-newark-bluetooth-security-concern",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3b5922f6533c",
+    "title": "3,600 Miles: Alaska Airlines Launches Record-Longest Boeing 737 Flight By A US Carrier",
+    "summary": "This will also be the second-longest 737 route in the world, and the airline will compete on this route with Icelandair.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T16:00:18Z",
+    "url": "https://simpleflying.com/3600-miles-alaska-airlines-record-lang-nonstop-737-us-airline/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "31008b1c976a",
+    "title": "6 Airlines Home To The World's Most Superior Business Class Seats In 2026",
+    "summary": "From mini hotel rooms to gold-plated seats, these airlines offer business class products that are similar to first class in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T14:00:19Z",
+    "url": "https://simpleflying.com/6-airlines-home-worlds-superior-business-class-seats-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "39c705befb5e",
     "title": "Spotted: United Airlines\u2019 1st Pair Of Airbus A321neo Coastliners Roll Out In Full Paint",
     "summary": "Plane spotter Tobias Gudat posted photos on social media that reveal a first look at the new 'Coastliner' sub-fleet being rolled out by United Airlines this year. Two Airbus A321neo jets sporting fresh liveries are part of United's modernization and expansion plan that will ad...",
@@ -281,7 +347,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -710,7 +776,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -721,7 +787,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -754,7 +820,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1568,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-27T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-05-25T00:00:19Z",
     "url": "https://simpleflying.com/why-next-generation-business-class-seats-heavier-lighter/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "72d53bb7c71f",
-    "title": "The Unexpected Reason Many Airlines Are Struggling To Retain Their Most Experienced Captains Right Now",
-    "summary": "The 'silver tsunami' is bearing down on commercial aviation as thousands of veteran pilots near mandatory retirement age at the same time.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-05-24T23:00:18Z",
-    "url": "https://simpleflying.com/unexepected-reason-airlines-struggling-retain-most-experienced-captains-right-now/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e233496293de",
-    "title": "8-Hour Nonstop Flights: United Launches New Longest Boeing 737 MAX Route Next Week [Map]",
-    "summary": "These flights will be the only long-haul services at a certain Spanish airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-24T22:00:19Z",
-    "url": "https://simpleflying.com/8-hour-flights-united-launches-new-longest-737-max-route-next-week/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "407228cf38ae",
-    "title": "Low Fuel: Delta Air Lines Flight Diverts After Disabled Plane Occupies Albuquerque Runway",
-    "summary": "It rerouted approximately 140 miles northwest of Albuquerque, landing safely without further incident.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-24T21:50:36Z",
-    "url": "https://simpleflying.com/delta-air-lines-flight-diverts-disabled-plane-occupies-albuquerque-runway/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "33e454c015d5",
-    "title": "Why Airlines Are Cutting Open Retired Boeing 777s & Turning Them Into Freighters",
-    "summary": "A retired Emirates 777 gets cut open, rebuilt as a freighter, and handed to Kalitta Air. Here is how it works and why the cargo industry needs it.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-24T21:01:19Z",
-    "url": "https://simpleflying.com/why-airlines-cutting-open-retired-boeing-777s-turning-into-freighters/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f8c1c59d048d",
-    "title": "How Much Money Do Boeing 747 Pilots Earn In 2026?",
-    "summary": "Discover how much Boeing 747 pilots earn in 2026, from Lufthansa passenger crews to Atlas Air cargo captains flying the legendary Queen of the Skies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-24T19:00:21Z",
-    "url": "https://simpleflying.com/how-much-money-boeing-747-pilots-earn-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4fabc35df45e",
-    "title": "Alaska Airlines Considering Nonstop Flights Between Portland & Juneau That Bypass Seattle",
-    "summary": "One of the weighing factors of the new route would be possibly axing a route from the Emerald City.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-24T18:41:49Z",
-    "url": "https://simpleflying.com/alaska-airlines-considering-nonstop-flights-portland-juneau-bypass-seattle/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
