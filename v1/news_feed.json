@@ -1,5 +1,82 @@
 [
   {
+    "id": "fd643bc0a438",
+    "title": "Philippine Airlines welcomes second A350-1000 as transpacific expansion ramps up",
+    "summary": "Philippine Airlines (PAL) announced the arrival of its second Airbus A350-1000 at Ninoy Aquino International Airport in Manila&#8230; The post Philippine Airlines welcomes second A350-1000 as transpacific expansion ramps up appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-01T03:27:57Z",
+    "url": "https://www.aerotime.aero/articles/philippine-airlines-welcomes-second-a350-1000-as-transpacific-expansion-ramps-up",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a91f9f2eb7eb",
+    "title": "Alaska Airlines Debuts Toy Story 5 Embraer E175 As Horizon Air Marks 45 Years Of Flying",
+    "summary": "Marking a major milestone with the christening of a special jet at Horizon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T03:06:45Z",
+    "url": "https://simpleflying.com/alaska-airlines-debut-toy-story-embraer-e175-horizon-air-45-years-flying/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8543330264e9",
+    "title": "How The FAA Plans To Modernize Air Traffic Control Without Shutting Down A Single Flight",
+    "summary": "Air traffic control across the US has been in need of an overhaul for several years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T01:00:19Z",
+    "url": "https://simpleflying.com/how-faa-modernize-atc-without-shutting-down-single-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6e45a215dc01",
+    "title": "Why Delta Air Lines Isn't Betting Its Long-Haul Future With Airbus Entirely",
+    "summary": "The carrier will operate three widebody aircraft types in the future.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T23:00:19Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-isnt-betting-long-haul-future-airbus-entirely/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "4874d9c052f2",
+    "title": "6.5 Hours On Southwest Airlines? Its Longest-Ever Lower 48 Flight Launches This Week",
+    "summary": "A closer look at the carrier's new transcontinental odyssey.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T22:00:19Z",
+    "url": "https://simpleflying.com/southwest-airlines-longest-lower-48-flight/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "56ab71c168f1",
+    "title": "From The DC-3 To The Airbus A350: Delta Air Lines Recognizes Flight Attendant\u2019s 66-Year Career",
+    "summary": "Delta's most senior flight attendant is preparing to retire after 66 years, a career spanning the Douglas DC-3 to the Airbus A350 era.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T21:23:25Z",
+    "url": "https://simpleflying.com/delta-air-lines-flight-attendant-recognized-66-year-career/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d027a89bd15b",
+    "title": "JetBlue Follows Suit, Overhauls Descent Procedures After Reviewing Turbulence Data",
+    "summary": "JetBlue's New Descent Initiative Aims To Protect Flight Attendants And Passengers From Turbulence",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-05-31T19:59:05Z",
+    "url": "https://simpleflying.com/jetblue-overhaul-descent-procedures-review-turbulence-data/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "7475f0a6e5ec",
     "title": "A Look At The Salaries Of Narrowbody Charter Pilots In 2026",
     "summary": "Charter pilot pay can vary massively given the wide scope of the industry.",
@@ -347,7 +424,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -732,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -820,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1568,7 +1645,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-27T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-25T09:24:00Z",
     "url": "https://avweb.com/aviation-news/kenya-airways-warns-bill-could-slow-aircraft-parts-clearance/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "959da63d6968",
-    "title": "FAA launches website for transparency on 10,000 air traffic control projects",
-    "summary": "The US Department of Transportation (DOT) has launched a new website that affords the public a direct look&#8230; The post FAA launches website for transparency on 10,000 air traffic control projects appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-25T08:57:23Z",
-    "url": "https://www.aerotime.aero/articles/faa-launches-website-for-transparency-on-10000-air-traffic-control-projects",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3ae8bf24fa14",
-    "title": "Why These Military Aircraft Are The Most Decisive Weapons In Active Conflicts Today",
-    "summary": "The most decisive military aircraft today vary depending on the specific conflict.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T07:00:17Z",
-    "url": "https://simpleflying.com/military-aircraft-most-decisive-weapons-active-conflicts-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f6ac0903a971",
-    "title": "RAF jet carrying UK defense secretary jammed near Russia border",
-    "summary": "A Royal Air Force (RAF) Dassault Falcon 900LX carrying UK Defense Secretary John Healey had its GPS signals jammed for&#8230; The post RAF jet carrying UK defense secretary jammed near Russia border appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-25T06:46:59Z",
-    "url": "https://www.aerotime.aero/articles/raf-jet-defense-secretary-healey-jammed-russia",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d12f3680b4b9",
-    "title": "Only 9 Airlines Operate The Airbus A380 With A First Class Cabin: Here Is How Much A Ticket Costs",
-    "summary": "From Emirates showers to Singapore\u2019s sky suites, here are the best Airbus A380 first-class cabins in 2026\u2014and what they cost to fly.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T04:00:23Z",
-    "url": "https://simpleflying.com/airlines-airbus-a380-first-class-cabin/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0345a6e20d5a",
-    "title": "Why Airlines Know Within Minutes Of Boarding Whether A Flight Is Going To Run Late",
-    "summary": "What happens when a flight is delayed?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T04:00:23Z",
-    "url": "https://simpleflying.com/why-airlines-know-minutes-boarding-whether-flight-late/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "626537059e5d",
-    "title": "Hong Kong airport opens Terminal 2 with 15 airlines set to relocate check-in",
-    "summary": "Hong Kong International Airport (HKIA) held the opening ceremony for its rebuilt Terminal 2 (T2) on May 22,&#8230; The post Hong Kong airport opens Terminal 2 with 15 airlines set to relocate check-in appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-25T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/hong-kong-airport-terminal-2-opens-15-airline-relocation",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "528c5dc98b75",
-    "title": "Why The Next Generation Of Business Class Seats Will Be Heavier, Not Lighter",
-    "summary": "Demand for better premium products is forcing airlines to incorporate heavy technologies, while the rest of the industry seeks weight savings.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T00:00:19Z",
-    "url": "https://simpleflying.com/why-next-generation-business-class-seats-heavier-lighter/",
     "airlineTag": null,
     "isBreaking": false
   }
