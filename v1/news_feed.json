@@ -1,5 +1,71 @@
 [
   {
+    "id": "f1715355f7aa",
+    "title": "Is This World-Class Airline Also The World\u2019s Worst Investor?",
+    "summary": "Singapore Airlines keeps investing in foreign airlines, but history suggests the strategy rarely works.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T21:00:19Z",
+    "url": "https://simpleflying.com/world-class-airline-worlds-worst-investor/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b648ea4d3d42",
+    "title": "Unmanned Quarterhorse MK 2.1 Hits Mach 1.21",
+    "summary": "Hermeus says Quarterhorse flight testing will continue toward higher-speed aircraft and payload demonstrations.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-01T19:35:13Z",
+    "url": "https://avweb.com/aviation-news/unmanned-quarterhorse-mk-2-1-hits-mach-1-2/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "41c970a22a57",
+    "title": "Maeve Aerospace collapses after SkyWest-backed hybrid aircraft program stalls",
+    "summary": "Dutch aircraft developer Maeve Aerospace has collapsed, ending an ambitious effort to bring a hybrid-electric regional aircraft to the market. Maeve Aerospace&#8230; The post Maeve Aerospace collapses after SkyWest-backed hybrid aircraft program stalls appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-01T19:03:12Z",
+    "url": "https://www.aerotime.aero/articles/maeve-aerospace-collapses-skywest-hybrid-aircraft",
+    "airlineTag": "SkyWest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5f3cb5ff3660",
+    "title": "End Of An Era: Icelandair Accelerates Boeing 757 Retirement To This Winter",
+    "summary": "Icelandair\u2019s accelerated 757 retirement closes a defining chapter in its transatlantic history.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T18:14:44Z",
+    "url": "https://simpleflying.com/icelandair-to-retire-757-this-winter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "69f0409569ca",
+    "title": "American Airlines Suspends Flights On 6 Key Routes [List & Map]",
+    "summary": "All are from two of the airline's major hubs. See where here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T18:00:18Z",
+    "url": "https://simpleflying.com/american-airlines-suspends-flights-on-6-key-routes-list-map/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5088886013ac",
+    "title": "How A Plane Built In 1968 Became The Most Strategically Important Aircraft In The US Military Today",
+    "summary": "The story behind America's flying colossus.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T18:00:18Z",
+    "url": "https://simpleflying.com/how-plane-built-1968-most-strategically-important-aircraft-us-military-today/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "426693b898f1",
     "title": "Which Are The Safest Commercial Aircraft Ever?",
     "summary": "Certain aircraft have not been in any hull loss or fatal event.",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-05-26T05:05:54Z",
     "url": "https://simpleflying.com/singapore-airlines-doubles-first-class-auckland-777-300er/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d396386706b3",
-    "title": "Why The Same Emirates Airbus A380 Business Class Seat Can Cost $2,500 Or $10,000 Depending On When You Book",
-    "summary": "The answer largely comes down to the pricing strategy the airline uses.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-26T01:00:18Z",
-    "url": "https://simpleflying.com/why-same-emirates-airbus-a380-business-class-seat-cost-2500-10000-depending-when-book/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "11040fd2df16",
-    "title": "Palaces In The Sky: How World Leaders' Aircraft Choices Reveal National Priorities",
-    "summary": "Some nations fly their leaders in flying military command centers, some in airborne palaces, and others tell them to catch a commercial flight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T23:00:19Z",
-    "url": "https://simpleflying.com/palace-sky-how-world-leaders-aircraft-choices-reveal-national-priorities/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f14402f87363",
-    "title": "Wing and Papa Johns Test Drone Delivery",
-    "summary": "Pilot near Charlotte offers sandwiches through Wing app; pizzas are not yet included",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-25T22:13:16Z",
-    "url": "https://avweb.com/aviation-news/papa-johns-tests-drone-delivery-nc/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "74f773852c24",
-    "title": "Two Mid-Air Pilot Incapacitations Trigger Emergencies On Delta Connection & Jet2 Days Apart",
-    "summary": "Two mid-air pilot incapacitations forced emergency responses aboard Jet2 and Delta Connection flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T21:25:14Z",
-    "url": "https://simpleflying.com/pilot-incapacitations-emergencies-delta-jet2/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "354467bfe80c",
-    "title": "Airbus' $445 Million Superjumbo Was Worth Less Than Its Landing Gear By 2020",
-    "summary": "Airbus' A380, once meant to be a flagship of fleets, was worth next to nothing during the pandemic.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T21:00:02Z",
-    "url": "https://simpleflying.com/airbus-445-million-superjumbo-worth-less-landing-gear-2020/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5b61dc421e17",
-    "title": "American Airlines' New Basic Economy Rules Even Punish Its Top-Tier Frequent Flyers",
-    "summary": "What does this mean for the oneworld carrier's passengers?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-25T20:01:19Z",
-    "url": "https://simpleflying.com/american-airlines-new-basic-economy-rules-punish-top-tier-frequent-flyers/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
