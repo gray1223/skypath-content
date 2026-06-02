@@ -1,5 +1,60 @@
 [
   {
+    "id": "08f693719e25",
+    "title": "Delta Ditching Lie-Flat A321neo First Class? Where Things Stand Now",
+    "summary": "As Delta's first A321neo with new business class seats sits in storage, rumors swirl that the airline may abandon its preferred Safran Vue design.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-02T02:07:09Z",
+    "url": "https://simpleflying.com/delta-ditching-lie-flat-a321neo-first-class/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "b0d06a88b7b1",
+    "title": "FAA, NTSB clash over ADS-B In mandate after fatal DCA crash",
+    "summary": "A dispute over cockpit collision-warning technology has opened a rift between the FAA and NTSB more than a&#8230; The post FAA, NTSB clash over ADS-B In mandate after fatal DCA crash appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "regulatory",
+    "publishedDate": "2026-06-02T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/faa-ntsb-ads-b-in-mandate-dca-crash",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "22ee862788c4",
+    "title": "What Airlines Will Actually Do With Their 777X Orders If Boeing Delays Again",
+    "summary": "Despite ongoing delays, there has been little sign that Boeing's 777X customers will abandon the aircraft. That won't change if it's delayed again.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-02T00:00:19Z",
+    "url": "https://simpleflying.com/what-airlines-actually-do-777x-order-boeing-delays-again/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eace2dda2646",
+    "title": "\"It'll Mess Up Your Head Really Quick\": What SR-71 Pilots Saw At The Edge Of Earth's Atmosphere",
+    "summary": "The SR-71 Blackbird was an incredible Intelligence asset, it was also a mobile stellar observatory, given the right conditions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T23:01:19Z",
+    "url": "https://simpleflying.com/what-sr-71-pilots-saw-edge-earth-atmosphere/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "933309a250a8",
+    "title": "Why The FAA's Pilot Retirement Age Rule Is Being Challenged Like Never Before",
+    "summary": "New legislation is gaining bipartisan support in Congress.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-01T22:00:19Z",
+    "url": "https://simpleflying.com/why-faa-pilot-retirement-age-rule-challenged-never-before/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f1715355f7aa",
     "title": "Is This World-Class Airline Also The World\u2019s Worst Investor?",
     "summary": "Singapore Airlines keeps investing in foreign airlines, but history suggests the strategy rarely works.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-26T10:00:21Z",
     "url": "https://simpleflying.com/qatar-airways-fifa-world-cup-2026-boeing-777-special-livery/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "72599c49739d",
-    "title": "STARLUX Airlines brings back Snoopy-themed flights for third consecutive year",
-    "summary": "STARLUX Airlines is bringing back its Snoopy-themed flights for a third consecutive year, with the new collaboration set&#8230; The post STARLUX Airlines brings back Snoopy-themed flights for third consecutive year appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-26T09:53:44Z",
-    "url": "https://www.aerotime.aero/articles/starlux-airlines-brings-back-snoopy-themed-flights-for-third-consecutive-year",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f69fe0b9790a",
-    "title": "Thales completes first X-Fire launcher firings in France\u2019s FLP-T race",
-    "summary": "Thales has carried out the first firings of its X-Fire ground-based long-range strike launcher, the French defense electronics&#8230; The post Thales completes first X-Fire launcher firings in France\u2019s FLP-T race appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-26T08:06:20Z",
-    "url": "https://www.aerotime.aero/articles/thales-x-fire-launcher-first-firings-flp-t",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "54628e3c8dbc",
-    "title": "\"Lower Fares Than Competitors\": Ryanair Is Now Debt-Free With 620 Owned 737s",
-    "summary": "As Ryanair celebrates becoming debt-free, the airline's CFO, Neil Sorahan, emphasizes the financial strength this carrier now holds.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-26T07:53:33Z",
-    "url": "https://simpleflying.com/ryanair-debt-free-620-owned-boeing-737s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b3d7a1d1904d",
-    "title": "\"You Have 30 Seconds\": United Pilot's FBI Warning Over Passenger's Wi-Fi Hotspot Name",
-    "summary": "A tense moment for passengers on one UA flight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-26T05:17:00Z",
-    "url": "https://simpleflying.com/united-pilot-fbi-warning-wifi-hotspot-name/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1c28433356c4",
-    "title": "Singapore Airlines Doubles First Class To Auckland With Boeing 777-300ER Swap",
-    "summary": "Singapore Airlines is set to offer more first-class seats than ever before on its flights to Auckland.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-26T05:05:54Z",
-    "url": "https://simpleflying.com/singapore-airlines-doubles-first-class-auckland-777-300er/",
     "airlineTag": null,
     "isBreaking": false
   }
