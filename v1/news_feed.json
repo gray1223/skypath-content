@@ -1,13 +1,90 @@
 [
   {
+    "id": "14a144a3a28f",
+    "title": "Delta Air Lines To Open 2nd Delta One Lounge At LAX This Summer Ahead Of The 2028 Olympics",
+    "summary": "Delta is the official airline partner for the LA 2028 Summer Olympics, which will take place in July 2028.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T20:15:16Z",
+    "url": "https://simpleflying.com/delta-air-lines-open-2nd-delta-one-lounge-lax-summer-ahead-2028-olympics/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "5303ec6d5cb7",
+    "title": "Allegiant Air Cuts 34 Routes To Florida: See All Flight Changes Now",
+    "summary": "The cuts involve eight airports in Florida.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T20:00:20Z",
+    "url": "https://simpleflying.com/allegiant-air-cuts-34-routes-to-florida-see-all-flight-changes-now/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1179e9bf8055",
+    "title": "Only 1 Fighter Jet In The US Air Force Can Supercruise Without Afterburners",
+    "summary": "A closer look at the USAF's most exquisite aerial predator.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T20:00:20Z",
+    "url": "https://simpleflying.com/usaf-fighter-jet-supercruise/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3ca2d10e27a0",
+    "title": "Commemorative Air Force Expands With New Hawaii Wing",
+    "summary": "The Commemorative Air Force has formed a new Hawaii Wing based in Honolulu.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-03T18:44:17Z",
+    "url": "https://avweb.com/aviation-news/commemorative-air-force-hawaii-wing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ac320d957e74",
+    "title": "How US Airline Elite Status Quietly Became A $15,000 Spending Club In 2026",
+    "summary": "It's now all about how much money you have to spend.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T18:00:20Z",
+    "url": "https://simpleflying.com/how-airline-elite-status-quitely-became-15000-spending-club-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5d0a81593340",
+    "title": "Newark Liberty Now Leading Northeast Airports For On-Time Flights After A Year Of Chaos",
+    "summary": "Just a year after grappling with ATC shortages, runway construction, and technical issues, Newark Liberty now boasts record on-time performance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T17:46:43Z",
+    "url": "https://simpleflying.com/newark-liberty-leading-northeast-airports-on-time-flights-year-chaos/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c07a3fb07391",
     "title": "From 'Tweety' to United",
     "summary": "In 2016, AOPA awarded a refurbished Cessna 150 to the newly formed Nate Abel Flying Club in Fort Worth, Texas. The club's members nicknamed it \"Tweety,\" and it became a frequent training aircraft for aspiring aviators.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a3781c7f59e1",
+    "title": "Here\u2019s Why The Boeing 777X Won\u2019t Let Pilots Take Off With Its Wings Still Folded",
+    "summary": "A closer look at the huge twinjet's safety features.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T17:30:21Z",
+    "url": "https://simpleflying.com/why-boeing-777x-wont-let-pilots-take-off-with-wings-folded/",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -193,7 +270,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1260,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1568,7 +1645,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1612,7 +1689,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1623,7 +1700,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1656,7 +1733,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-05-27T18:00:18Z",
     "url": "https://simpleflying.com/delta-air-lines-new-airbus-a321neos-44-first-class-seats-only-1-lavatory/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "29c75eccc33b",
-    "title": "Why Does Top Gun Feature F-18 Super Hornets Instead Of F-35 Lightning IIs?",
-    "summary": "The selection of F/A-18 Super Hornets by Top Gun is based on special film needs and real-world flying considerations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T17:30:18Z",
-    "url": "https://simpleflying.com/why-top-gun-has-f-18-super-hornets-not-f-35-lightning-ii/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c9aec0a1f1a3",
-    "title": "Electra Unveils Plan to Reshape Regional Travel With Hybrid-Electric Aircraft",
-    "summary": "Company\u2019s \u2018Direct Aviation Market Outlook\u2019 lays out more than 2,600 new air routes that could shorten drives.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-27T17:30:00Z",
-    "url": "https://www.flyingmag.com/electra-regional-travel-hybrid-electric-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "665523faa20b",
-    "title": "Aer Lingus marks its 90th anniversary with a special vintage flight",
-    "summary": "Irish airline Aer Lingus marked the 90th anniversary of its launch with a special flight operated by a&#8230; The post Aer Lingus marks its 90th anniversary with a special vintage flight appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T17:06:05Z",
-    "url": "https://www.aerotime.aero/articles/aer-lingus-marks-its-90th-anniversary-with-a-special-vintage-flight",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5bfdc5982120",
-    "title": "NTSB: Failure To Maintain Airspeed Caused Fatal 2024 AirVenture Crash",
-    "summary": "Investigators conclude pilot stalled the Lancair during arrival.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-05-27T17:05:19Z",
-    "url": "https://avweb.com/air-shows-events/airventure-lancair-crash-final-report-ntsb/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "02d2f947a0ff",
-    "title": "FAA Warns Red Lake Nation Over Seized Aircraft Dispute",
-    "summary": "Agency threatens enforcement action after tribe refuses to return a pilot\u2019s aircraft following an emergency landing.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-27T17:04:14Z",
-    "url": "https://avweb.com/aviation-news/faa-warns-red-lake-nation-over-seized-aircraft-dispute/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6a84efe11c06",
-    "title": "The Last Trijet In America With Commercial Service",
-    "summary": "The Boeing 727 played an important role in the early days of jet-powered commercial aviation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T15:41:34Z",
-    "url": "https://simpleflying.com/last-trijet-commercial-with-service-us/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7051eff077df",
-    "title": "TIACA names HACTL as corporate category winner in Air Cargo Sustainability Awards",
-    "summary": "The International Air Cargo Association (TIACA) announced the results of the Eighth edition of the Air Cargo Sustainability&#8230; The post TIACA names HACTL as corporate category winner in Air Cargo Sustainability Awards appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T15:22:35Z",
-    "url": "https://www.aerotime.aero/articles/tiaca-names-hactl-as-corporate-category-winner-in-air-cargo-sustainability-awards",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
