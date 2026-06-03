@@ -1,5 +1,16 @@
 [
   {
+    "id": "465775c8ce41",
+    "title": "Why Airlines Are Converting Boeing 757s Into Freighters",
+    "summary": "The Boeing 757 is still taking to the skies today, no longer with seats but with space for time-sensitive cargo. New aircraft still cannot match it.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T01:00:19Z",
+    "url": "https://simpleflying.com/boeing-757-passenger-to-freighter-conversions/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "80ce09d66c00",
     "title": "Training and Safety Tip: Visualize, avoid vortices",
     "summary": "In their role as choreographers of the sky, one factor air traffic controllers consider is adequate aircraft separation when wake turbulence may create a safety concern.",
@@ -7,6 +18,28 @@
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "776130d0e7ab",
+    "title": "6 Airlines With The World's Most Superior First Class Dining In 2026",
+    "summary": "It's all about detail, selection, and convenience.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-02T22:00:20Z",
+    "url": "https://simpleflying.com/6-airlines-with-the-worlds-superior-first-class-dining-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "854e50211876",
+    "title": "How Many Miles Per Gallon Does A B-52 Stratofortress Get?",
+    "summary": "Discover the bomber\u2019s real MPG, operating costs, and why the USAF still flies the BUFF.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-02T21:01:19Z",
+    "url": "https://simpleflying.com/b-52-stratofortress-miles-per-gallon/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-05-27T09:21:17Z",
     "url": "https://www.aerotime.aero/articles/magnifica-air-founder-shares-more-details-about-the-new-us-premium-airline",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cdbf41a236a1",
-    "title": "8 Aircraft That Have Broken The Sound Barrier",
-    "summary": "Two passenger supersonic jets ever entered service, only one manned hypersonic aircraft flew, but many military aircraft are supersonic capable.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T08:00:18Z",
-    "url": "https://simpleflying.com/aircraft-broken-sound-barrier/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a96e3ff7bfe5",
-    "title": "FAA Says Alaska Airlines Let Intoxicated Passengers Onto 11 Flights, Proposes $165K Fine",
-    "summary": "Allowing inebriated flyers aboard costs the airline big time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T05:42:24Z",
-    "url": "https://simpleflying.com/faa-alaska-airlines-intoxicated-passengers-fine/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4e4c0582ff8a",
-    "title": "Training and Safety Tip: Tidy up after flight",
-    "summary": "&ldquo;What, are we having a garage sale?&rdquo; I asked the dispatcher. Behind his station were four large boxes. One was full of sunglasses. The second was full of gloves. The third was full of cables and connectors. The fourth, water bottles.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-27T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/26/training-and-safety-tip-tidy-up-after-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
