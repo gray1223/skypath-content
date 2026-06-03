@@ -1,5 +1,49 @@
 [
   {
+    "id": "70a6ce2da803",
+    "title": "Taiwan signs new Dassault support deal for Mirage 2000-5 fleet",
+    "summary": "Taiwan\u2019s Air Force has awarded Dassault Aviation a new five-year technical support contract worth NT$926.47 million ($29.5 million)&#8230; The post Taiwan signs new Dassault support deal for Mirage 2000-5 fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-03T10:26:44Z",
+    "url": "https://www.aerotime.aero/articles/taiwan-dassault-mirage-2000-support-contract",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c4544b88968f",
+    "title": "The Problem United Airlines Ran Into When Developing Its New Polaris 2.0 Suites",
+    "summary": "United's new Polaris suites have privacy doors: they just can't close yet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T10:00:28Z",
+    "url": "https://simpleflying.com/problem-united-airlines-ran-into-developing-new-polaris-suites/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "25500d066ec1",
+    "title": "AirAsia Philippines faces shutdown order over US$4.7M in unpaid airport charges",
+    "summary": "The Civil Aviation Authority of the Philippines (CAAP) has ordered AirAsia Philippines to stop operating at all government-managed&#8230; The post AirAsia Philippines faces shutdown order over US$4.7M in unpaid airport charges appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-03T08:32:12Z",
+    "url": "https://www.aerotime.aero/articles/airasia-philippines-faces-shutdown-order-over-us4-7m-in-unpaid-airport-charges",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ed30ea712e12",
+    "title": "UK Airlines Could Be Fined For Failing Passengers Under New Bill",
+    "summary": "A new law is set to change the way airlines operate in the UK.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T05:07:10Z",
+    "url": "https://simpleflying.com/uk-airlines-fines-failing-passengers-civil-aviation-bill/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "465775c8ce41",
     "title": "Why Airlines Are Converting Boeing 757s Into Freighters",
     "summary": "The Boeing 757 is still taking to the skies today, no longer with seats but with space for time-sensitive cargo. New aircraft still cannot match it.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-05-27T09:52:02Z",
     "url": "https://www.aerotime.aero/articles/australia-receives-final-p-8a-poseidon-completing-its-maritime-patrol-fleet",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "033b55ab17da",
-    "title": "easyJet Faces New Probe Over How It Sells Baggage Add-Ons",
-    "summary": "Ancillary revenue is a key part of the puzzle for any budget airline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T09:48:53Z",
-    "url": "https://simpleflying.com/easyjet-new-baggage-add-ons-probe/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cbf7dfeb06af",
-    "title": "What Was The Longest Concorde Flight?",
-    "summary": "It only took around three hours for the supersonic airliner to cross the Atlantic, but how much longer could the jet fly for.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T09:44:27Z",
-    "url": "https://simpleflying.com/what-longest-concorde-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fd8eaf0c947e",
-    "title": "Magnifica Air co-founder shares more details about the new US premium airline",
-    "summary": "October 2025 saw the unveiling of Magnifica Air, a new premium airline project for the United States. The&#8230; The post Magnifica Air co-founder shares more details about the new US premium airline appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T09:21:17Z",
-    "url": "https://www.aerotime.aero/articles/magnifica-air-founder-shares-more-details-about-the-new-us-premium-airline",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "28121ca333a1",
-    "title": "Magnifica Air founder shares more details about the new US premium airline",
-    "summary": "October 2025 saw the unveiling of Magnifica Air, a new premium airline project for the United States. The&#8230; The post Magnifica Air founder shares more details about the new US premium airline appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T09:21:17Z",
-    "url": "https://www.aerotime.aero/articles/magnifica-air-founder-shares-more-details-about-the-new-us-premium-airline",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
