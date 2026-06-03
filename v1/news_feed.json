@@ -1,5 +1,137 @@
 [
   {
+    "id": "c07a3fb07391",
+    "title": "From 'Tweety' to United",
+    "summary": "In 2016, AOPA awarded a refurbished Cessna 150 to the newly formed Nate Abel Flying Club in Fort Worth, Texas. The club's members nicknamed it \"Tweety,\" and it became a frequent training aircraft for aspiring aviators.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-06-03T17:37:35Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4055083d1612",
+    "title": "Rare Kitbuilt Jet Donated for A&P Training",
+    "summary": "Colorado\u2019s Aims Community College students to gain hands-on experience with a Maverick TwinJet 1500.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-03T15:15:00Z",
+    "url": "https://www.flyingmag.com/rare-kitbuilt-jet-donated-for-ap-training/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d6dd01a1b322",
+    "title": "Why Southwest Airlines' Boeing 737 Fleet Makes Premium Cabins Almost Impossible To Profit From",
+    "summary": "The blue-liveried budget carrier famously operates an all-Boeing 737 fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T15:00:19Z",
+    "url": "https://simpleflying.com/why-southwest-airlines-boeing-737-fleet-premium-cabins-impossible-profit-from/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a84c02f565c6",
+    "title": "This 2005 Cirrus SR22 G2 Is a Value-Packed \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Upgraded DFC90 digital autopilot, fresh CAPS repack, and classic styling deliver an all-composite gateway to high-speed travel.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-03T14:15:50Z",
+    "url": "https://www.flyingmag.com/this-2005-cirrus-sr22-g2-is-a-value-packed-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fbb5e62afa32",
+    "title": "Air Astana launches new services to Larnaca, Cyprus, and Guangzhou, China",
+    "summary": "On June 2, 2026, Air Astana launched two new destinations from its base at Astana\u2019s Nursultan Nazarbayev International&#8230; The post Air Astana launches new services to Larnaca, Cyprus, and Guangzhou, China appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-03T14:09:57Z",
+    "url": "https://www.aerotime.aero/articles/air-astana-launches-new-services-to-larnaca-cyprus-and-guangzhou-china",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4cdf9fe470b",
+    "title": "15-Hour US Flights: El Al Expands Long-Haul Routes [Full List]",
+    "summary": "After a hiatus of six years, the airline will resume services to San Francisco this winter with three weekly flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T13:00:18Z",
+    "url": "https://simpleflying.com/15-hour-nonstop-flights-el-al-new-us-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "657345526643",
+    "title": "What We Know About The Boeing Supersonic Airliner The US Government Cancelled",
+    "summary": "Supersonic travel was once seen as the future for aviation. The era left just as fast as it arrived, particularly for Boeing and the 2707 project.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T13:00:18Z",
+    "url": "https://simpleflying.com/boeing-supersonic-airliner-cancelled/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ac2707dcbe02",
+    "title": "STARLUX Airlines to launch direct Sydney-Taiwan flights starting 2027",
+    "summary": "Taiwanese carrier STARLUX Airlines will launch direct flights between Sydney Airport (SYD) and Taiwan beginning in 2027, with&#8230; The post STARLUX Airlines to launch direct Sydney-Taiwan flights starting 2027 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-03T12:47:55Z",
+    "url": "https://www.aerotime.aero/articles/starlux-airlines-to-launch-direct-sydney-taiwan-flights-starting-2027",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b486f6ba309e",
+    "title": "There\u2019s Indeed a Science to Airline Cockpit Diplomacy",
+    "summary": "Maintaining civility is critical in a dynamic safety environment.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-03T12:00:00Z",
+    "url": "https://www.flyingmag.com/theres-indeed-a-science-to-airline-cockpit-diplomacy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1fb288d33ce0",
+    "title": "Three Royal Navy personnel killed in Devon helicopter crash during training",
+    "summary": "A Royal Navy helicopter has crashed into a field near Okehampton, Devon, with emergency services responding and an&#8230; The post Three Royal Navy personnel killed in Devon helicopter crash during training appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-03T11:26:17Z",
+    "url": "https://www.aerotime.aero/articles/royal-navy-helicopter-crash-devon",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bd861d586c7d",
+    "title": "\"That Guy's Insane\": JetBlue Pilot Dodges Wayward Aircraft On Approach To Fort Lauderdale",
+    "summary": "A JetBlue A321neo narrowly avoided a collision with another aircraft after receiving a TCAS alert.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T11:19:49Z",
+    "url": "https://simpleflying.com/jetblue-pilot-near-miss-wayward-aircraft-fort-lauderdale/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "e363aa13e929",
+    "title": "easyJet's Massive Expansion: 15 New Routes Launching This Month [Map]",
+    "summary": "They are all over Europe, but 13 involve three countries. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T11:00:19Z",
+    "url": "https://simpleflying.com/easyjets-massive-expansion-15-new-routes-launching-this-month-map/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "70a6ce2da803",
     "title": "Taiwan signs new Dassault support deal for Mirage 2000-5 fleet",
     "summary": "Taiwan\u2019s Air Force has awarded Dassault Aviation a new five-year technical support contract worth NT$926.47 million ($29.5 million)&#8230; The post Taiwan signs new Dassault support deal for Mirage 2000-5 fleet appeared first on AeroTime.",
@@ -61,7 +193,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1436,7 +1568,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1612,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1491,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1524,7 +1656,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2064,138 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-27T15:22:35Z",
     "url": "https://www.aerotime.aero/articles/tiaca-names-hactl-as-corporate-category-winner-in-air-cargo-sustainability-awards",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "299f3000869b",
-    "title": "Airbus H145 helicopters to replace Czech police\u2019s entire fleet of H135s",
-    "summary": "Airbus and the Czech Ministry of Interior have signed a contract for 11 five-bladed H145s to replace the&#8230; The post Airbus H145 helicopters to replace Czech police\u2019s entire fleet of H135s appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T14:53:04Z",
-    "url": "https://www.aerotime.aero/articles/airbus-h145-helicopters-to-replace-czech-polices-entire-fleet-of-h135s",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7f428baf9be7",
-    "title": "Why The Boeing 747SP's Ultra-Long-Range Fuselage Design Will Be Nearly Impossible To Replicate In 2026",
-    "summary": "The Boeing 747SP remains one of the most unique aircraft in commercial aviation history.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T14:00:18Z",
-    "url": "https://simpleflying.com/boeing-747sp-fuselage-design/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "902b9b8b35cb",
-    "title": "Rival airlines ANA and JAL team up to push for sustainable aviation fuel",
-    "summary": "Japan\u2019s two largest airlines are calling for a nationwide effort to accelerate the use of sustainable aviation fuel&#8230; The post Rival airlines ANA and JAL team up to push for sustainable aviation fuel appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T13:45:56Z",
-    "url": "https://www.aerotime.aero/articles/rival-airlines-ana-and-jal-team-up-to-push-for-sustainable-aviation-fuel",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "63066e19f1e4",
-    "title": "These Are The Busiest US-Canada Transborder Flights This Summer",
-    "summary": "United Airlines operate most number of flights to Canada of all US airlines, and Air Canada holds the majority of capacity across the entire market!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T12:46:45Z",
-    "url": "https://simpleflying.com/busiest-us-canada-transborder-summer-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "89392b2d27e2",
-    "title": "Airlines Strip New Airbus A320neo Family Jets For Parts As GTF Engines Are Worth More",
-    "summary": "Aircraft engines are among the most valuable components on commercial aircraft. However, amid the ongoing shortage of Pratt and Whitney geared turbofan (GTF) engines, some nearly new jets are being harvested for their engine parts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T12:24:19Z",
-    "url": "https://simpleflying.com/video/airlines-strip-new-airbus-a320neo-family-jets-for-parts-as-gtf-engines-are-worth-more/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0fee618404e3",
-    "title": "Platoon Aviation signs multi-Cessna Citation Longitude order with Textron",
-    "summary": "Business jet operator Platoon Aviation has signed a multi-aircraft order with Textron Aviation for a fleet of Cessna&#8230; The post Platoon Aviation signs multi-Cessna Citation Longitude order with Textron appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T12:18:20Z",
-    "url": "https://www.aerotime.aero/articles/platoon-aviation-signs-multi-cessna-citation-longitude-order-with-textron",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dab8f574359d",
-    "title": "Student Pilot Learns Value of Making Quick Decisions",
-    "summary": "Pre-briefing for abnormal situations could have made all the difference after aborted takeoff.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-05-27T12:00:00Z",
-    "url": "https://www.flyingmag.com/student-pilot-learns-value-of-making-quick-decisions/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a7d8dc1615a4",
-    "title": "NTSB calls for FAA to rethink wet runway landings after spate of overruns",
-    "summary": "The US National Transportation Safety Board (NTSB) is calling for the Federal Aviation Administration (FAA) to rethink wet&#8230; The post NTSB calls for FAA to rethink wet runway landings after spate of overruns appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "regulatory",
-    "publishedDate": "2026-05-27T11:21:17Z",
-    "url": "https://www.aerotime.aero/articles/ntsb-faa-wet-runway-landings-overruns",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac9a24bfe1bc",
-    "title": "Cathay Cargo expands freighter fleet with two additional Airbus A350F orders",
-    "summary": "Cathay Group has placed an order with Airbus for two additional A350F freighters, bringing the Hong Kong-based airline\u2019s&#8230; The post Cathay Cargo expands freighter fleet with two additional Airbus A350F orders appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T11:06:44Z",
-    "url": "https://www.aerotime.aero/articles/cathay-cargo-expands-freighter-fleet-with-two-additional-airbus-a350f-orders",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ed1fbcc0f196",
-    "title": "Cargo Airlines Desperately Need New Jets",
-    "summary": "The global air cargo industry is being defined by aging assets and stalled innovation at the present moment. The demand for high-capacity, fuel-efficient freighters has never been higher, but the path to modernization is blocked by a series of unprecedented manufacturing hurdl...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T11:00:19Z",
-    "url": "https://simpleflying.com/video/cargo-airlines-desperately-need-new-jets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "881244a86558",
-    "title": "Saudi low-cost airline flyadeal enters the Indian market with Hyderabad route",
-    "summary": "On May 27, 2026, Saudi low-cost carrier flyadeal announced the launch of its first scheduled services to India. &#8230; The post Saudi low-cost airline flyadeal enters the Indian market with Hyderabad route appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T10:06:53Z",
-    "url": "https://www.aerotime.aero/articles/saudi-low-cost-airline-flyadeal-enters-the-indian-market-with-hyderabad-route",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dc201405ed89",
-    "title": "Australia receives final P-8A Poseidon, completing its maritime patrol fleet",
-    "summary": "The Royal Australian Air Force (RAAF) has taken delivery of its 14th and final P-8A Poseidon aircraft, thereby&#8230; The post Australia receives final P-8A Poseidon, completing its maritime patrol fleet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T09:52:02Z",
-    "url": "https://www.aerotime.aero/articles/australia-receives-final-p-8a-poseidon-completing-its-maritime-patrol-fleet",
     "airlineTag": null,
     "isBreaking": false
   }
