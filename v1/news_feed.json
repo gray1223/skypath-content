@@ -1,5 +1,49 @@
 [
   {
+    "id": "8369c0a82a3c",
+    "title": "How United Airlines Spent The Pandemic Hoarding Widebodies To Beat Delta To The Mediterranean",
+    "summary": "A closer look at how United's COVID strategy has rewarded it with higher market share than ever.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-04T00:00:20Z",
+    "url": "https://simpleflying.com/how-united-airlines-spent-pandemic-hoarding-widebodies-beat-delta-mediterranean/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8ad676aadc20",
+    "title": "What Would Be The Benefits Of Flying On A Boeing 777X Versus An Airbus A380 On A Long-Haul Route?",
+    "summary": "Boeing\u2019s 777X and Airbus\u2019 A380 offer radically different long-haul experiences, balancing efficiency, luxury, airline economics, and passenger comfort",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T22:00:19Z",
+    "url": "https://simpleflying.com/benefits-flying-boeing-777x-vs-airbus-a380-long-haul/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "51e420cfba41",
+    "title": "New Era: United Airlines Takes Delivery Of 1st Airbus A321XLR From Hamburg",
+    "summary": "United\u2019s first Airbus A321XLR begins a new premium narrowbody era for long-haul flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T21:34:48Z",
+    "url": "https://simpleflying.com/united-airlines-takes-delivery-1st-airbus-a321xlr-hamburg/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d4ddec9b063b",
+    "title": "The Aircraft Set To Replace The Iconic C\u201117 Globemaster In US Air Force Service",
+    "summary": "From the C-141 Starlifter to the C-17 Globemaster III, the USAF's airlift capabilities have evolved over time.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-03T21:30:19Z",
+    "url": "https://simpleflying.com/aircraft-set-to-replace-iconic-c-17-globemaster-usaf/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "14a144a3a28f",
     "title": "Delta Air Lines To Open 2nd Delta One Lounge At LAX This Summer Ahead Of The 2028 Olympics",
     "summary": "Delta is the official airline partner for the LA 2028 Summer Olympics, which will take place in July 2028.",
@@ -72,7 +116,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -270,7 +314,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1645,7 +1689,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-29T00:34:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-schools-file-faa-complaint-over-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1689,7 +1733,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1700,7 +1744,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1733,7 +1777,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-05-27T19:56:42Z",
     "url": "https://simpleflying.com/southwest-airlines-shortest-flights-2026/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bcfa3089e219",
-    "title": "Picture of the Day: May 27, 2026",
-    "summary": "NOAA is celebrating 50 years of P-3 hurricane hunting in 2026.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-27T19:42:51Z",
-    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-may-27-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ad9be10f8f2b",
-    "title": "Two aviators eject safely before Navy T-45C crash in Mississippi",
-    "summary": "Two naval aviators ejected safely from a US Navy T-45C Goshawk training aircraft before it crashed on private&#8230; The post Two aviators eject safely before Navy T-45C crash in Mississippi appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-27T19:03:23Z",
-    "url": "https://www.aerotime.aero/articles/navy-t45c-crash-mississippi-aviators-eject",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "913965724acb",
-    "title": "FAA Flags Loss-of-Control Risk From Flap Malfunctions In Bombardier Aircraft",
-    "summary": "Proposed AD comes after reports of uncommanded flap movement raised concerns about potential loss of control during flight.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-27T18:22:14Z",
-    "url": "https://avweb.com/aviation-news/faa-flags-flap-malfunctions-bombardier/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4fa99b2bbbb7",
-    "title": "Delta Air Lines' New Airbus A321neos: 44 First Class Seats & Only 1 Lavatory?",
-    "summary": "What is the reason behind Delta's latest and odd domestic first class configuration on board the A321neo?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-27T18:00:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-new-airbus-a321neos-44-first-class-seats-only-1-lavatory/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
