@@ -1,5 +1,104 @@
 [
   {
+    "id": "25f67b337b20",
+    "title": "This Tiny US Airport Confirms 1st International Flights In 3 Years",
+    "summary": "BermudAir\u2019s new routes turn PIE from domestic leisure gateway into international launchpad.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-05T14:35:16Z",
+    "url": "https://simpleflying.com/tiny-us-airport-1st-international-flights-3-years/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8f014b08a81b",
+    "title": "Small Community Air Service Still Facing Pressure",
+    "summary": "Federal auditors say nonhub airports remain below pre-pandemic service levels as operating costs and revenue guarantees affect airline decisions.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-05T14:32:18Z",
+    "url": "https://avweb.com/aviation-news/small-community-air-service-pressure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ce6ef013824d",
+    "title": "Embraer secures additional firm order from Azorra for 15 E195-E2 aircraft",
+    "summary": "Embraer has secured a firm order from US lessor Azorra for 15 E195-E2 aircraft, with an option for&#8230; The post Embraer secures additional firm order from Azorra for 15 E195-E2 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-05T14:09:05Z",
+    "url": "https://www.aerotime.aero/articles/embraer-secures-additional-firm-order-from-azorra-for-15-e195-e2-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d323b8e1969d",
+    "title": "FAI Aviation\u2019s Georg Gruber on building a global mission-critical aviation group",
+    "summary": "In our recent feature on Albrecht D\u00fcrer Airport Nuremberg (NUE), we explored how one of Germany\u2019s mid-sized regional&#8230; The post FAI Aviation\u2019s Georg Gruber on building a global mission-critical aviation group appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-05T13:28:23Z",
+    "url": "https://www.aerotime.aero/articles/fai-aviations-georg-gruber-on-building-a-global-mission-critical-aviation-group",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6714b2e416d9",
+    "title": "NTSB Releases MD-11 Crash Footage, Explains How Engine Pylon Separated",
+    "summary": "On May 19th, the National Transportation Safety Board (NTSB) released a detailed video explaining how the tragic crash of UPS Flight 2976 took place.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-06-05T12:33:18Z",
+    "url": "https://simpleflying.com/video/ntsb-releases-md-11-crash-footage-explains-how-engine-pylon-separated/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6b3794d910e2",
+    "title": "Airbus ups aircraft delivery pace with annual target now in sight",
+    "summary": "Airbus has announced that it delivered 81 commercial aircraft in May 2025, marking a significant increase that, if&#8230; The post Airbus ups aircraft delivery pace with annual target now in sight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-05T11:49:03Z",
+    "url": "https://www.aerotime.aero/articles/airbus-aircraft-deliveries-may-2026",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8fdfdebf6085",
+    "title": "Leonardo orders jump 31% as fighters, AW149 lift Q1 2026 results",
+    "summary": "Italian aerospace and defense group Leonardo has reported a 31% year-over-year jump in first-quarter 2026 new orders to \u20ac9 billion (about $10.6 billion),&#8230; The post Leonardo orders jump 31% as fighters, AW149 lift Q1 2026 results appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-05T11:16:53Z",
+    "url": "https://www.aerotime.aero/articles/leonardo-q1-2026-orders-fighters-aw149",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "806fb196b17d",
+    "title": "PAL deploys A350-1000 on Manila-Toronto, its second North American route",
+    "summary": "Philippine Airlines (PAL) has announced that it will begin operating its Airbus A350-1000 on the Manila-Toronto route starting&#8230; The post PAL deploys A350-1000 on Manila-Toronto, its second North American route appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-05T11:03:39Z",
+    "url": "https://www.aerotime.aero/articles/pal-deploys-a350-1000-on-manila-toronto-its-second-north-american-route",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "00dbf167e3fe",
+    "title": "The Pilot Problem Airlines Didn\u2019t Expect",
+    "summary": "Airlines are confronting a crisis that money alone cannot solve. Thousands of veteran captains are reaching the FAA's mandatory retirement age at the same time, creating a demographic cliff that has been building for decades. The wave was intensified by the pandemic, when carr...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-05T11:01:17Z",
+    "url": "https://simpleflying.com/video/the-pilot-problem-airlines-didn-t-expect/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ffb977f0cd29",
     "title": "NTSB: United Airlines Pilot Warned Of Low & Slow Approach Before Hitting Light Pole In Newark",
     "summary": "More details have emerged regarding UA169's low pass over the New Jersey Turnpike.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-28T23:00:18Z",
     "url": "https://simpleflying.com/14-billion-airport-built-middle-nowhere-every-major-airline-wants-in/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8fa44c737b32",
-    "title": "American Airlines Responds After 20-Year Top-Tier Flyer Allegedly Finds Condom In Seat",
-    "summary": "The passenger who has \"felt a decline in service and quality\" said this incident \"takes the cake.\"",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-28T22:41:40Z",
-    "url": "https://simpleflying.com/american-airlines-responds-20-year-top-tier-flyer-condom-seat/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "77e029aca2fb",
-    "title": "Hall of fame honors former AOPA executives",
-    "summary": "The National Aviation Hall of Fame will present former AOPA President Mark Baker, and former AOPA Foundation President and Air Safety Institute Executive Director Bruce Landsberg, for their \"profound and lasting contributions to aviation safety, education, and pilot advocacy.\"",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-28T21:56:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/hall-of-fame-honors-former-aopa-executives?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6f2963b4d194",
-    "title": "New York state bills would help, hurt GA",
-    "summary": "A mixed bag of pending legislation in New York includes one bill that would impose a limited state-level ban on using ADS-B data to bill pilots, while another bill (which AOPA strongly opposes) would scuttle the tax exemption that helps keep the state competitive&mdash;at the ...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-28T21:25:42Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/new-york-state-bills-would-help-hurt-ga?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6714a41ea81d",
-    "title": "The Boeing Freighter Quietly Replacing The 747 On Factory Floors Right Now",
-    "summary": "Boeing's most important new aircraft program right now isn't a passenger jet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-28T21:00:19Z",
-    "url": "https://simpleflying.com/boeing-freighter-quietly-replacing-747-factory-floors-right-now/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0efe1573d3b2",
-    "title": "680 Breeze Airways Pilots Still Waiting For Their First Contract After 5 Years",
-    "summary": "Pilots and the ALPA call for better job security, benefits, and quality of life protections, which remain absent after five years of operation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-28T20:39:42Z",
-    "url": "https://simpleflying.com/breeze-airways-pilots-still-waiting-1st-contract-5-years/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "08b6162824bd",
-    "title": "Flight sim convention comes to Minnesota in June",
-    "summary": "Flight simulation enthusiasts, student pilots, and aviation professionals will gather in St. Paul, Minnesota, in June for FlightSimExpo 2026, a three-day convention showcasing how flight simulation can support pilot training, proficiency, and aviation education.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-28T20:16:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/28/flight-sim-convention-comes-to-minnesota-in-june?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1c65c2dc19c2",
-    "title": "Sources: Up To 10 Young Ex-Spirit Airlines Airbus A320s Could Be Headed To Turkish Airlines",
-    "summary": "The move comes as the international carrier continues to await deliveries from Airbus and Boeing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-28T20:12:50Z",
-    "url": "https://simpleflying.com/up-to-10-ex-spirit-airlines-airbus-a320s-headed-turkish-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "387cfafc3be0",
-    "title": "18 New Transatlantic Routes In June: Where Delta, WestJet, & Air Canada Fly Now",
-    "summary": "There are some highly exciting new routes coming. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-28T20:00:18Z",
-    "url": "https://simpleflying.com/18-new-transatlantic-routes-in-june-where-delta-westjet-air-canada-fly-now/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6556ecee3d2e",
-    "title": "FAA proposes AD to address Challenger 600-series flap malfunction risk",
-    "summary": "The Federal Aviation Administration (FAA) has proposed a new airworthiness directive for 610 US-registered Bombardier Challenger 600-series aircraft.&#8230; The post FAA proposes AD to address Challenger 600-series flap malfunction risk appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "regulatory",
-    "publishedDate": "2026-05-28T19:49:51Z",
-    "url": "https://www.aerotime.aero/articles/faa-challenger-600-flap-malfunction-ad",
     "airlineTag": null,
     "isBreaking": false
   }
