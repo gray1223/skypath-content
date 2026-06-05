@@ -1,5 +1,16 @@
 [
   {
+    "id": "ffb977f0cd29",
+    "title": "NTSB: United Airlines Pilot Warned Of Low & Slow Approach Before Hitting Light Pole In Newark",
+    "summary": "More details have emerged regarding UA169's low pass over the New Jersey Turnpike.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-06-05T04:19:44Z",
+    "url": "https://simpleflying.com/united-airlines-pilot-warned-low-slow-approach-hitting-light-pole-newark/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "6314d94363e1",
     "title": "The Skyraider Is Back: AFSOC's New Light Attack Aircraft Explained",
     "summary": "The Skyraider II is the US Air Force's newest aircraft, and its optimized for global transport and combat air support on a remote and tactical level.",
@@ -13,7 +24,7 @@
   {
     "id": "f976afb77d6a",
     "title": "Copilot warned United 767 was low, slow before Newark light pole strike: NTSB",
-    "summary": "The copilot of a United Airlines Boeing 767 warned the captain that the aircraft was low and slow&#8230; The post Copilot warned United 767 was low, slow before Newark light pole strike: NTSB appeared first on AeroTime.",
+    "summary": "The copilot of a United Airlines Boeing 767 warned the captain that the aircraft was flying low and&#8230; The post Copilot warned United 767 was low, slow before Newark light pole strike: NTSB appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "regulatory",
     "publishedDate": "2026-06-04T23:18:34Z",
@@ -2185,17 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-05-28T19:49:51Z",
     "url": "https://www.aerotime.aero/articles/faa-challenger-600-flap-malfunction-ad",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "24f23ed612d2",
-    "title": "New York Bill Would Ban ADS-B-Based Landing Fees",
-    "summary": "Measure would apply to smaller Part 91 aircraft operating in the state.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-28T19:29:28Z",
-    "url": "https://avweb.com/aviation-news/aviation-law/new-york-bill-ban-ads-b-based-landing-fees/",
     "airlineTag": null,
     "isBreaking": false
   }
