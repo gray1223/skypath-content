@@ -1,5 +1,60 @@
 [
   {
+    "id": "aad50ab13fb2",
+    "title": "McDonnell Douglas Actually Tried To Sell A Commercial C-17 Globemaster. Here's Why It Failed.",
+    "summary": "Why Boeing\u2019s BC-17X civilian Globemaster failed: the real story behind the commercial C-17 concept, crushed by costs, fuel burn and ITAR regulations.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-06-06T01:00:20Z",
+    "url": "https://simpleflying.com/mcdonnell-douglas-try-sell-commerical-c-17-globemaster-why-failed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "093749c398d0",
+    "title": "Straight To The Gate: TSA Pilots 1st-Ever Off-Site Security Screening At Boston Logan",
+    "summary": "Boston Logan\u2019s remote TSA pilot could reshape how airports handle security, parking, and congestion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-05T21:01:59Z",
+    "url": "https://simpleflying.com/tsa-pilots-1st-ever-off-site-security-screening-boston-logan/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "82a34b0532fc",
+    "title": "FAA Urges Halt To Falcon Field Landing Fees",
+    "summary": "The agency cited pending complaints, federal obligations and possible safety impacts.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-05T20:35:48Z",
+    "url": "https://avweb.com/aviation-news/faa-urges-halt-falcon-field-landing-fees/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c4c0ea4adc78",
+    "title": "American Airlines' Massive Expansion: 9 New Routes Launch On 1 Day [Full List]",
+    "summary": "They are from three major hubs. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-05T20:00:19Z",
+    "url": "https://simpleflying.com/american-airlines-massive-expansion-9-new-routes-launch-on-1-day-full-list/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "20078cd34718",
+    "title": "How Pratt & Whitney's Game-Changing GTF Engine Created Problems Airlines Weren't Prepared For",
+    "summary": "The Pratt & Whitney GTF engine has grounded hundreds of aircraft and exposed vulnerabilities in the global engine maintenance industry.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-05T20:00:19Z",
+    "url": "https://simpleflying.com/how-pratt-whitney-game-changing-gtf-engine-create-problems-airlines-werent-prepared-for/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "298f1aefd1f6",
     "title": "The Country That Desperately Needs Pilots But Won't Let Women Or Military Flyers Fill The Gap",
     "summary": "Institutional inertia threatens to cripple the nation.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-05-29T08:01:17Z",
     "url": "https://simpleflying.com/us-navy-aircraft-carriers-ranked/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c07ab7d62128",
-    "title": "How Much Do Fighter Pilots Earn Vs. Commercial Airline Pilots In 2026?",
-    "summary": "A closer look at what pilots earn in both fields around the world.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T05:03:34Z",
-    "url": "https://simpleflying.com/how-much-fighter-pilots-earn-commercial-pilots-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3a772140d5f3",
-    "title": "Japan Airlines tests world-first biodiesel made from rice bran oil byproducts",
-    "summary": "Japan Airlines (JAL) announced that it has begun a demonstration project at Yamagata Airport (GAJ) using biodiesel fuel&#8230; The post Japan Airlines tests world-first biodiesel made from rice bran oil byproducts appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-29T05:03:21Z",
-    "url": "https://www.aerotime.aero/articles/japan-airlines-tests-world-first-biodiesel-made-from-rice-bran-oil-byproducts",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "618537a60e34",
-    "title": "Spirit Airlines' 22 Coveted LaGuardia Slots Will Go To Highest Bidder, Valued At $87 Million",
-    "summary": "Prime real estate is heading to the auction block.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T04:54:39Z",
-    "url": "https://simpleflying.com/spirit-airlines-22-coveted-laguardia-slots-go-to-highest-bidder-valued-87-million/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a5a46207c879",
-    "title": "JAL bans cabin crew from drinking during layovers after flight delay incident",
-    "summary": "Japan Airlines (JAL) has banned cabin crew from drinking alcohol during layovers before return flights, according to The&#8230; The post JAL bans cabin crew from drinking during layovers after flight delay incident appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-05-29T04:01:06Z",
-    "url": "https://www.aerotime.aero/articles/jal-bans-cabin-crew-from-drinking-during-layovers-after-flight-delay-incident",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "836595098cc2",
-    "title": "Boeing Delivers FedEx\u2019s 152nd & Final 767-300 Freighter Ahead Of Production End Next Year",
-    "summary": "The final Boeing 767-300F for FedEx Express takes flight, marking the end of an era for the iconic twinjet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T03:46:55Z",
-    "url": "https://simpleflying.com/boeing-deliver-fedex-152nd-final-767-300f-ahead-production-end/",
-    "airlineTag": "FedEx Express",
     "isBreaking": false
   }
 ]
