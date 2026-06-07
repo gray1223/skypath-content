@@ -1,5 +1,104 @@
 [
   {
+    "id": "b10fadb9f65c",
+    "title": "Here's The Real Reason Airlines Keep Ordering Aircraft They Don't Need Yet",
+    "summary": "Getting orders in early can really shield airlines down the line.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T19:00:01Z",
+    "url": "https://simpleflying.com/real-reason-airlines-keep-ordering-aircaft-dont-need-yet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a9067011ed52",
+    "title": "United Airlines\u2019 CEO Slams Rolls-Royce, Says It Only Wins Orders Due To An Airbus A350 Monopoly",
+    "summary": "United\u2019s CEO criticised Rolls-Royce\u2019s A350 engine exclusivity and warned global engine shortages are grounding hundreds of aircraft worldwide.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T18:42:12Z",
+    "url": "https://simpleflying.com/united-airlines-ceo-slams-rolls-royce-only-wins-orders-airbus-a350-monopoly/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2e1f06b99142",
+    "title": "Willie Walsh fires broadside at OEMs, warns on aviation taxes in IATA farewell",
+    "summary": "As leaders of the airline industry gathered in Rio de Janeiro for the 82nd Annual General Meeting (AGM)&#8230; The post Willie Walsh fires broadside at OEMs, warns on aviation taxes in IATA farewell appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-07T18:24:55Z",
+    "url": "https://www.aerotime.aero/articles/willie-walsh-fires-broadside-at-oems-warns-on-aviation-taxes-in-iata-farewell",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "75afb478c308",
+    "title": "Why The Douglas DC-8 Outlasted The Boeing 707 By Decades",
+    "summary": "The DC-8, a rival to the Boeing 707, defied the odds and continued flying cargo missions well into the 2020s, outlasting its competitor by decades.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T18:00:19Z",
+    "url": "https://simpleflying.com/douglas-dc-8-outlast-boeing-707-decades/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f37223bf2699",
+    "title": "16-Hour Flights: Delta Air Lines Launches Brand-New Ultra-Long Route [Map]",
+    "summary": "Delta has launched a new daily Airbus A350-900 service between Los Angeles and Hong Kong, returning to the market after an eight-year absence.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T16:01:18Z",
+    "url": "https://simpleflying.com/16-hour-flights-delta-new-brand-new-ultra-long-route/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "c6e575b7d980",
+    "title": "ITA Airways considers legal action against P&W over GTF issues: report",
+    "summary": "ITA Airways is considering legal action against American engine manufacturer Pratt &#038; Whitney as problems with geared turbofan&#8230; The post ITA Airways considers legal action against P&W over GTF issues: report appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-07T15:46:31Z",
+    "url": "https://www.aerotime.aero/articles/ita-airways-considers-legal-action-against-pw-over-gtf-issues-report",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5879f4424450",
+    "title": "Why Pilots Deliberately Pull Back Thrust Seconds After Lifting Off The Runway",
+    "summary": "How does this affect the aircraft as it takes off?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T15:00:18Z",
+    "url": "https://simpleflying.com/why-pilots-pull-back-thrust-seconds-after-lifting-off-runway/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c29ae241ebbf",
+    "title": "High fuel prices to halve airline profits in 2026, IATA says",
+    "summary": "Global airline profitability is expected to fall sharply in 2026 as rising jet fuel prices and war-related disruptions&#8230; The post High fuel prices to halve airline profits in 2026, IATA says appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-06-07T14:34:18Z",
+    "url": "https://www.aerotime.aero/articles/high-fuel-prices-to-halve-airline-profits-in-2026-iata-says",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e2042a31239c",
+    "title": "The Surprising Reason Behind Cargo Airlines Hoarding Aging Boeing 747 Freighters",
+    "summary": "It will be a long time until the final Boeing 747 is retired from freighter service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T14:00:20Z",
+    "url": "https://simpleflying.com/surprising-reason-behind-cargo-airlines-hoarding-aging-boeing-747-freighters/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2d303b694320",
     "title": "One Of Europe's Last Boeing 767 Operators: Austrian Airlines",
     "summary": "Today we turn our attention to the former, and look at the 66 or so aircraft in service - from the Embraer E195 up to the 777-200ER. The carrier is also one of the few remaining European airlines still operating the 767!",
@@ -589,7 +688,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -633,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T20:01:22Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T19:24:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1117,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1216,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-30T17:00:19Z",
     "url": "https://simpleflying.com/real-reason-pilots-feet-meters-why-changing-ground-aircraft-globally/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3b4cf81931e9",
-    "title": "5 Things Passengers Don't Know About How Airlines Assign Business Class Upgrades",
-    "summary": "Here's the reason why most people will never receive a free business class upgrade.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T15:00:18Z",
-    "url": "https://simpleflying.com/5-things-passengers-dont-know-about-how-airlines-assign-business-class-upgrades/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b65b1088bdbc",
-    "title": "Over 400 Aircraft: What's Turkish Airlines' Fleet Like In 2026?",
-    "summary": "Today we take a brief look at the fleet composition of Turkish Airlines, which has over 400 aircraft under its air operator\u2019s certificate. From essentially brand new A350s and 787s to over 20-year-old A330s, let\u2019s see what the Star Alliance member is flying in 2026\u2026",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T12:27:19Z",
-    "url": "https://simpleflying.com/video/over-400-aircraft-what-s-turkish-airlines-fleet-like-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "218fa9924d23",
-    "title": "Hawaiian Airlines Drops Signature Free Economy Meal For $17 Pre-Order Menu",
-    "summary": "Complimentary Main Cabin meal service will end on July 1 in favor of an expanded menu.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T11:29:59Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-drops-free-economy-meal-paid-pre-order-menu/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7f8bb9483c75",
-    "title": "6 Fighter Jets The US Military Is Quietly Phasing Out & What's Replacing Them",
-    "summary": "From the retirement of the F-15C and AV-8B to the phasedown of the A-10 and early-block F-22, the Pentagon is rethinking the future of airpower.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T11:00:17Z",
-    "url": "https://simpleflying.com/6-fighter-jets-us-military-quietly-phasing-out-replacing-them/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4839bf4a17ad",
-    "title": "Premium Hold-Up: Why Airlines' Luxury Seats & Suites Are Failing FAA Safety Tests",
-    "summary": "Airlines are being called upon to involve regulators earlier in the design process to provide sufficient recommendations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T05:47:18Z",
-    "url": "https://simpleflying.com/airline-premium-seats-suites-failing-faa-safety-tests/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ee07fc30e7eb",
-    "title": "Why The Royal Air Force Can't Actually Afford To Fill Its New Aircraft Carriers With F-35Bs",
-    "summary": "A snowball of procurement problems for the RAF.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T05:01:17Z",
-    "url": "https://simpleflying.com/why-raf-cant-afford-fill-new-aircraft-carriers-f-35bs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8dbad0e72cd4",
-    "title": "New: Phoenix To Become STARLUX Airlines\u2019 1st Airbus A350-1000 Long-Haul Destination",
-    "summary": "The equipment change is set for this summer.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T01:08:37Z",
-    "url": "https://simpleflying.com/phoenix-become-starlux-airlines-1st-airbus-a350-1000-long-haul-destination/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0ef9efc7a632",
-    "title": "What Singapore Airlines' Luxurious Premium Economy Seats Actually Cost Vs. Business Class",
-    "summary": "Singapore Airlines premium economy costs up to 58% less than business class. Here is what that gap actually buys you.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T23:00:19Z",
-    "url": "https://simpleflying.com/singapore-airlines-luxurious-premium-economy-seats-actually-cost-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d163b1188c7c",
-    "title": "From Neutral To Nuclear-Capable Host: What This F-35 Buy Means For European Air Power In 2026",
-    "summary": "The F-35 is now the tip of the air power spear for several European air forces and arguably for Europe in general.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T22:00:20Z",
-    "url": "https://simpleflying.com/what-f-35-buy-means-european-air-power-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
