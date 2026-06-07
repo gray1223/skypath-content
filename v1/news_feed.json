@@ -1,5 +1,16 @@
 [
   {
+    "id": "db0526618081",
+    "title": "Why US Military Pilot Salaries Still Can't Compete With The Airlines In 2026",
+    "summary": "US military pilots now earn far less than airline crews in 2026, and even $600,000 bonuses still cannot stop the growing exodus.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-06-07T07:00:18Z",
+    "url": "https://simpleflying.com/why-us-military-pilot-salaries-cant-compete-airlines-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8be84914b1c8",
     "title": "5 Airports That Pilots Say Are The Most Technically Challenging To Land At",
     "summary": "Steep mountain approaches, rapidly changing winds, narrow valleys, and short landing strips leave little room for mistakes at these five airports.",
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-05-29T21:00:00Z",
     "url": "https://www.flyingmag.com/faa-adds-texas-school-12th-atc-university/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3694c24e0afc",
-    "title": "United Airlines To Launch Direct Flights To St. Croix, Cabo & Orange County From East Coast Hubs",
-    "summary": "The announcement of United Airlines' new routes from the East Coast to St. Croix, Cabo, and Orange County expands travel options from IAD and EWR.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T20:01:01Z",
-    "url": "https://simpleflying.com/united-airlines-launch-direct-flights-st-croix-cabo-orange-county-east-coast-hubs/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
