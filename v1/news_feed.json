@@ -1,5 +1,71 @@
 [
   {
+    "id": "8be84914b1c8",
+    "title": "5 Airports That Pilots Say Are The Most Technically Challenging To Land At",
+    "summary": "Steep mountain approaches, rapidly changing winds, narrow valleys, and short landing strips leave little room for mistakes at these five airports.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T00:00:20Z",
+    "url": "https://simpleflying.com/5-airports-pilots-most-technically-challenging-land/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d06a74fda8d4",
+    "title": "Why This New Aircraft Supercarrier Is Now Keeping The US Navy Up At Night",
+    "summary": "The leap in power of China's newest flat top.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-06T23:00:21Z",
+    "url": "https://simpleflying.com/why-new-aircraft-supercarrier-keeping-us-navy-up-night/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "07a317b188ae",
+    "title": "Why Airlines Are Quietly Adding Hidden Fees To Business Class In 2026",
+    "summary": "Unbundling has been common practice in the back of the cabin, but now it is slowly making its way to the front. Now the next target is business class.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-06T22:00:21Z",
+    "url": "https://simpleflying.com/why-airlines-quietly-adding-hidden-fees-business-class-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ada2e941f60c",
+    "title": "Exclusive: Turkish Airlines Targets Nonstop Istanbul-Sydney With Airbus A350-1000s In 2027",
+    "summary": "While the carrier has its ultra-long-haul sights set, it is also mulling an expansion in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-06T21:30:34Z",
+    "url": "https://simpleflying.com/exclusive-turkish-airlines-target-nonstop-istanbul-sydney-airbus-a350-1000s-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ebe996c57375",
+    "title": "Inside The Math That Convinced Southwest Airlines To Finally Kill Open Seating",
+    "summary": "Southwest's long standing tradition of providing open seating came to an abrupt end. There was a reason for this however, particularly for economics.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-06-06T21:00:19Z",
+    "url": "https://simpleflying.com/math-convinced-southwest-finally-kill-open-seating/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d4fa496182cf",
+    "title": "Upgrade Or Replace? Why The US Air Force Is Reconsidering The F-15EX Over A New 5th-Gen Fighter",
+    "summary": "USAF expands F-15EX fleet to 267 jets as the Eagle II emerges as a key partner to the F-35 and future F-47 fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-06T20:00:20Z",
+    "url": "https://simpleflying.com/why-usaf-reconsidering-f-15ex-over-new-5th-gen-fighter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c85ce3b0a09e",
     "title": "14.5-Hour Flights: American Airlines Ends Longest-Ever Route From Philadelphia",
     "summary": "The airline is ending flights to Doha from Philadelphia.",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-05-29T20:01:01Z",
     "url": "https://simpleflying.com/united-airlines-launch-direct-flights-st-croix-cabo-orange-county-east-coast-hubs/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3379c1b29ec2",
-    "title": "Southwest Airlines\u2019 CEO Hints A \u201cTrue First Class\u201d Could Be Only 5 Years Away",
-    "summary": "Bob Jordan has suggested that the airline may introduce its own first-class product, along with a lounge network and long-haul international flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T19:21:23Z",
-    "url": "https://simpleflying.com/southwest-airlines-ceo-hints-true-first-class-5-years-away/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "462fc829f332",
-    "title": "Airport Authority, Councilman Clash Over Florida Airport Training Plan",
-    "summary": "Dispute centers on proposed support for FSCJ aviation maintenance expansion.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-05-29T19:05:46Z",
-    "url": "https://avweb.com/aviation-news/jaa-councilman-clash-florida-airport-plan/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "61e952c9aa2f",
-    "title": "Simple Flying Podcast Episode 293: Hawaiian Airlines Flight Attendants Can't Wear Leis, American Airlines' Starlink Plans",
-    "summary": "Join Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T19:04:13Z",
-    "url": "https://simpleflying.com/podcast-293/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "736a4c128a60",
-    "title": "Medal Of Honor Recipient Helps Save Southwest Airlines Passenger Amid Medical Emergency",
-    "summary": "The incident ultimately only delayed the flight by a little over an hour.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T19:00:19Z",
-    "url": "https://simpleflying.com/medal-of-honor-recipient-save-southwest-airlines-passenger-amid-medical-emergency/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "72d90adde887",
-    "title": "Alaska Airlines Faces Potential Fine Over \u2018Intoxicated\u2019 Passengers",
-    "summary": "Carrier has made changes to its policies following FAA audit.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-29T18:53:42Z",
-    "url": "https://www.flyingmag.com/alaska-airlines-faces-potential-fine-over-intoxicated-passengers/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7f1bab05c9d1",
-    "title": "Southwest Airlines' Massive Expansion: 12 Long-Haul Routes Are Coming",
-    "summary": "The carrier's CEO has said that up to 12 long-haul routes are likely to be served in the coming years. Where could it fly?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T18:01:18Z",
-    "url": "https://simpleflying.com/southwest-airlines-plans-massive-expansion-12-long-haul-routes-are-coming/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
