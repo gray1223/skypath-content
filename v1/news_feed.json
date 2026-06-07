@@ -1,5 +1,60 @@
 [
   {
+    "id": "2d303b694320",
+    "title": "One Of Europe's Last Boeing 767 Operators: Austrian Airlines",
+    "summary": "Today we turn our attention to the former, and look at the 66 or so aircraft in service - from the Embraer E195 up to the 777-200ER. The carrier is also one of the few remaining European airlines still operating the 767!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T12:33:18Z",
+    "url": "https://simpleflying.com/video/one-of-europe-s-last-boeing-767-operators-austrian-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fcf57e28fb68",
+    "title": "Why Philippine Airlines Picked Oneworld Over Star Alliance And SkyTeam",
+    "summary": "PAL's decision was heavily influenced by its deepening ties with American Airlines and other oneworld members.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T12:16:18Z",
+    "url": "https://simpleflying.com/why-philippine-airlines-picked-oneworld/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "964027ed1981",
+    "title": "8-Hour Flights: LOT Polish Airlines' New Longest Ever Boeing 737 Route [Map]",
+    "summary": "Airspace restrictions are playing a key role in extending some of LOT's Asian routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T12:00:18Z",
+    "url": "https://simpleflying.com/8-hour-nonstop-lot-polish-new-longest-737-max-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "81e21d44a957",
+    "title": "Singapore Airlines Adds Airbus A380 Flights On This Major Route [Map]",
+    "summary": "With Auckland rejoining the A380 network, Singapore Airlines will operate four A380 services to Australasia this winter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T11:01:18Z",
+    "url": "https://simpleflying.com/singapore-airlines-adds-a380-flights-major-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e122cff156b1",
+    "title": "This Airline's Premium Economy Has Best-In-Class Screens, But There's 1 Notable Gap",
+    "summary": "One Bold Move: Riyadh Air's premium economy cabin features massive 15.6-inch 4K OLED screens, but passengers share lavatories with the economy cabin.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T10:00:26Z",
+    "url": "https://simpleflying.com/airline-premium-economy-best-in-class-screens-1-notable-gap/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "db0526618081",
     "title": "Why US Military Pilot Salaries Still Can't Compete With The Airlines In 2026",
     "summary": "US military pilots now earn far less than airline crews in 2026, and even $600,000 bonuses still cannot stop the growing exodus.",
@@ -534,7 +589,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T20:01:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -611,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T19:24:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -963,7 +1018,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1161,7 +1216,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-05-29T22:00:20Z",
     "url": "https://simpleflying.com/what-f-35-buy-means-european-air-power-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "416663c218d4",
-    "title": "First Generation Student to Captain: How One CAU Alumni is Inspiring the Next Generation of Aviators",
-    "summary": "At six years old, Jesus Gallegos had the opportunity to sit in the captain's seat of a Boeing 737 while travelling from Ontario, California to Mexico City with his family. Years later, he became a captain himself at GoJet Airlines.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8bf3602caf38",
-    "title": "CAU grad, first-generation captain inspires next generation",
-    "summary": "At six years old, Jesus Gallegos had the opportunity to sit in the captain's seat of a Boeing 737 while travelling from Ontario, California to Mexico City with his family. Years later, he became a captain himself at GoJet Airlines.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-05-29T21:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/may/29/cau-grad-first-generation-captain-inspires-next-generation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ddfa75f5333e",
-    "title": "Why In The World Did American Airlines Fly Between Seattle & London?",
-    "summary": "Launched in March 2021, this interesting route was eventually discontinued in late 2023.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-29T21:30:19Z",
-    "url": "https://simpleflying.com/american-airlines-fly-seattle-london-why/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9fafd41e7dba",
-    "title": "A Look At The Salaries Of US Military Pilots In 2026",
-    "summary": "A detailed 2026 comparison of US military pilot salaries across the Air Force, Navy, Marines, and Army helicopter aviation branches.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-05-29T21:00:19Z",
-    "url": "https://simpleflying.com/us-military-pilot-salaries/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c5a98ea4edad",
-    "title": "FAA Adds Texas School to ATC Feeder Network",
-    "summary": "Angelo State University is the 12th to join the agency\u2019s Enhanced Air Traffic\u2013Collegiate Training Initiative.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-05-29T21:00:00Z",
-    "url": "https://www.flyingmag.com/faa-adds-texas-school-12th-atc-university/",
     "airlineTag": null,
     "isBreaking": false
   }
