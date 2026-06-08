@@ -1,5 +1,82 @@
 [
   {
+    "id": "35223d5ab33b",
+    "title": "Spirit Won't Be The Last: IATA Warns Of More Failures, Halves Profit Outlook To $23B",
+    "summary": "2026's steadily worsening forecast for affordable airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T03:11:42Z",
+    "url": "https://simpleflying.com/spirit-airlines-iata-more-failures-profit-outlook-halves/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35b726b07efc",
+    "title": "Air Canada and Abra Group eye revenue-sharing partnership",
+    "summary": "Air Canada and Abra Group have signed a Memorandum of Understanding (MoU) to explore a deeper commercial partnership&#8230; The post Air Canada and Abra Group eye revenue-sharing partnership appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-08T03:02:00Z",
+    "url": "https://www.aerotime.aero/articles/air-canada-and-abra-group-eye-revenue-sharing-partnership",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7bfcff6bec25",
+    "title": "Coffin Corner: Here's What Worries Pilots Most When Flying Above 40,000 Feet",
+    "summary": "Low oxygen, high stall speeds, and thin air require pilots to be very focused at high altitudes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T02:00:33Z",
+    "url": "https://simpleflying.com/what-worries-pilots-most-flying-above-40000-feet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1b9355a92481",
+    "title": "Pilots killed in Gulfstream G200 crash in Dominican Republic",
+    "summary": "Two pilots were killed after a US-registered Gulfstream G200 crashed while attempting an emergency landing at La Romana&#8230; The post Pilots killed in Gulfstream G200 crash in Dominican Republic appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-08T01:49:39Z",
+    "url": "https://www.aerotime.aero/articles/pilots-killed-in-gulfstream-g200-crash-in-dominican-republic",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "4d9cf9d269d9",
+    "title": "The NATO Nations' Presidential Aircraft Ranked",
+    "summary": "The USAF operates the most militarized president aircraft, while other major NATO countries also operate militarized widebody airliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T01:00:20Z",
+    "url": "https://simpleflying.com/nato-nations-presidential-aircraft-ranked/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c92fb9bd5b90",
+    "title": "Only 5 Aircraft: British Airways Suspends Starlink Installations Until Later This Year",
+    "summary": "British Airways has paused Starlink retrofits after equipping only five aircraft, delaying its ambitious plan for fleet-wide free Wi-Fi.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T21:53:40Z",
+    "url": "https://simpleflying.com/british-airways-suspends-starlink-installations-later-this-year/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "10563b2720ef",
+    "title": "Why American Airlines' Longest-Ever Flight Needs Just 51 Business Class Suites To Pencil Out",
+    "summary": "The intricacies behind airline route economics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-07T21:00:20Z",
+    "url": "https://simpleflying.com/why-american-airlines-longest-ever-flight-needs-51-business-class-suites-pencil-out/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "b10fadb9f65c",
     "title": "Here's The Real Reason Airlines Keep Ordering Aircraft They Don't Need Yet",
     "summary": "Getting orders in early can really shield airlines down the line.",
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-05-30T20:54:11Z",
     "url": "https://simpleflying.com/united-airlines-flight-diverts-passenger-multiple-cockpit-breach-attempts/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c91bd025e9f1",
-    "title": "United Airlines Just Added Its 25th Mexico Destination [Here\u2019s Where It\u2019s Flying]",
-    "summary": "United Airlines will reconnect with a Mexican city it abandoned in 2013 is set to boost its network to 25 destinations in the country.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T20:15:27Z",
-    "url": "https://simpleflying.com/united-airliines-just-added-25th-mexican-destination/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e84baf44b190",
-    "title": "Big Mistake? The Airline That Had To Redesign Its Loyalty Program Months After Overhauling It",
-    "summary": "Attempts to tighten up Delta Air Lines' SkyMiles program was met with a humiliating backlash.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T20:00:20Z",
-    "url": "https://simpleflying.com/airline-redesign-loyalty-program-months-after-overhaul/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "5b0d844d93b3",
-    "title": "Farewell: Pilot Of Spirit Airlines' Last Las Vegas Jet Performs Final \"Wing Wave\"",
-    "summary": "The final Spirit Airlines aircraft to depart Las Vegas bid farewell with a symbolic wing wave as it left the City of Sin behind.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T19:19:59Z",
-    "url": "https://simpleflying.com/spirit-airlines-last-las-vegas-jet-wing-wave/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7291cde7c8d6",
-    "title": "Why The Airbus A380's 4-Engine Layout Is Now Its Biggest Commercial Liability",
-    "summary": "With its striking size comes a striking operating bill, forcing airlines to reevaluate.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T19:00:20Z",
-    "url": "https://simpleflying.com/why-airbus-a380-4-engine-layout-biggest-commercial-liability/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0ddcafbab96c",
-    "title": "8-Hour Nonstop Flights: WestJet Launches This New Boeing 737 MAX Route",
-    "summary": "WestJet celebrates its largest-ever European network from Halifax, the airline's 737 MAX 8 will operate four-times weekly flights to Copenhagen.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T18:50:26Z",
-    "url": "https://simpleflying.com/8-hour-flights-westjet-launches-new-737-max-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b26884da7b7e",
-    "title": "The Hidden Checklist Airlines Use To Decide Who Becomes A Flight Attendant",
-    "summary": "It is said that it is harder to become a flight attendant than to get a place at Harvard.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T18:00:20Z",
-    "url": "https://simpleflying.com/hidden-checklist-airlines-use-decide-who-becomes-flight-attendant/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9f95e68dda80",
-    "title": "The Real Reason Pilots Say Feet Instead Of Meters & Why Changing It Would Ground Aircraft Globally",
-    "summary": "However logical, switching now would simply wreak havoc",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-05-30T17:00:19Z",
-    "url": "https://simpleflying.com/real-reason-pilots-feet-meters-why-changing-ground-aircraft-globally/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
