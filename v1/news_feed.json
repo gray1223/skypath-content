@@ -1,5 +1,27 @@
 [
   {
+    "id": "bc0b15f83a48",
+    "title": "Pentagon adds Cirrus Aircraft to list of Chinese military companies",
+    "summary": "The US Department of Defense has added Cirrus Design Corporation, the Duluth, Minnesota-based aircraft manufacturer that does business&#8230; The post Pentagon adds Cirrus Aircraft to list of Chinese military companies appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T06:41:30Z",
+    "url": "https://www.aerotime.aero/articles/cirrus-pentagon-chinese-military-company-list",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5e35eb704eb2",
+    "title": "Spitfires, F-16s & Red Arrows: Inside The Hellenic Air Force\u2019s 95th Anniversary Flypast",
+    "summary": "Greece is a great place not just for beach and history lovers, but also for aviation fans!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T05:00:18Z",
+    "url": "https://simpleflying.com/hellenic-air-force-95th-anniversary-spitfires-f16-red-arrows/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f9cfceecb4d8",
     "title": "How American, Delta & United Airlines Quietly Adopted Identical Loyalty Math For 2026",
     "summary": "American AAdvantage, Delta SkyMiles, and United MileagePlus have converged on functionally identical revenue-based earning structures.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-06-01T18:00:18Z",
     "url": "https://simpleflying.com/how-plane-built-1968-most-strategically-important-aircraft-us-military-today/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "426693b898f1",
-    "title": "Which Are The Safest Commercial Aircraft Ever?",
-    "summary": "Certain aircraft have not been in any hull loss or fatal event.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T17:30:20Z",
-    "url": "https://simpleflying.com/safest-commercial-aircraft-in-history/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30e7b85f8404",
-    "title": "Maeve Aerospace\u2019s Hybrid-Electric Dreams Dashed by Insolvency",
-    "summary": "Company had partnered with Delta Air Lines, SkyWest, Pratt &#038; Whitney, and other major players.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-01T17:00:00Z",
-    "url": "https://www.flyingmag.com/maeve-aerospace-hybrid-electric-insolvency/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
