@@ -1,5 +1,93 @@
 [
   {
+    "id": "d45879dbf684",
+    "title": "Training and Safety Tip: Prepare your passengers",
+    "summary": "I recently flew with a first-time single-engine piston aircraft passenger. My plan was to do an hourlong local sightseeing flight, a route that I had done numerous times before and knew well.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-06-09T21:35:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3a7597aad8ae",
+    "title": "Pentagon Adds Cirrus to Chinese Military Firms List",
+    "summary": "The listing could affect future Defense contracting, though Cirrus has not engaged in much to date.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-09T14:47:06Z",
+    "url": "https://avweb.com/aviation-news/pentagon-cirrus-chinese-military-firm-list/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3c7d402d8aac",
+    "title": "US Navy surface drone rescues downed Apache crew off Oman in\u00a0apparent\u00a0first",
+    "summary": "Two US Army crew members were rescued after their AH-64 Apache attack helicopter went down off the coast&#8230; The post US Navy surface drone rescues downed Apache crew off Oman in apparent first appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T13:48:13Z",
+    "url": "https://www.aerotime.aero/articles/us-navy-surface-drone-rescues-apache-crew-oman",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5925db05db37",
+    "title": "Why Consistent Study Defines Great Pilots",
+    "summary": "Learn how to build flight training habits that keep you sharp, informed, and ahead of the curve.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-09T13:42:19Z",
+    "url": "https://www.flyingmag.com/why-consistent-study-defines-great-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0811c1de1987",
+    "title": "RAAF C-27J Spartan deploys to Cook Islands for Pacific surveillance mission",
+    "summary": "A Royal Australian Air Force (RAAF) C-27J Spartan conducted aerial surveillance missions over waters near the Cook Islands&#8230; The post RAAF C-27J Spartan deploys to Cook Islands for Pacific surveillance mission appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T12:34:33Z",
+    "url": "https://www.aerotime.aero/articles/raaf-c-27j-spartan-deploys-to-cook-islands-for-pacific-surveillance-mission",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "408300193b17",
+    "title": "Vertical\u2019s newest full-scale eVTOL prototype takes first piloted flight",
+    "summary": "Vertical Aerospace\u2019s newest, and last, full-scale electric vehicle takeoff and landing (eVTOL) prototype has taken its first piloted&#8230; The post Vertical\u2019s newest full-scale eVTOL prototype takes first piloted flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T12:21:40Z",
+    "url": "https://www.aerotime.aero/articles/verticals-newest-full-scale-evtol-prototype-takes-first-piloted-flight",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "78508353b02c",
+    "title": "Air Canada addresses penalty given to ex-pilot who flew without correct license",
+    "summary": "Air Canada has addressed a monetary penalty imposed by Transport Canada on a former pilot who had been&#8230; The post Air Canada addresses penalty given to ex-pilot who flew without correct license appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T12:13:59Z",
+    "url": "https://www.aerotime.aero/articles/air-canada-addresses-penalty-given-to-ex-pilot-who-flew-without-correct-license",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4083b372ba29",
+    "title": "Lufthansa Expands: 9 New Routes For The Summer [Map & List]",
+    "summary": "They're from both its Frankfurt and Munich hubs. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T11:01:17Z",
+    "url": "https://simpleflying.com/lufthansa-expands-9-new-routes-for-the-summer-map-list/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "bc0b15f83a48",
     "title": "Pentagon adds Cirrus Aircraft to list of Chinese military companies",
     "summary": "The US Department of Defense has added Cirrus Design Corporation, the Duluth, Minnesota-based aircraft manufacturer that does business&#8230; The post Pentagon adds Cirrus Aircraft to list of Chinese military companies appeared first on AeroTime.",
@@ -2108,94 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-06-02T01:00:00Z",
     "url": "https://www.aerotime.aero/articles/faa-ntsb-ads-b-in-mandate-dca-crash",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "22ee862788c4",
-    "title": "What Airlines Will Actually Do With Their 777X Orders If Boeing Delays Again",
-    "summary": "Despite ongoing delays, there has been little sign that Boeing's 777X customers will abandon the aircraft. That won't change if it's delayed again.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-02T00:00:19Z",
-    "url": "https://simpleflying.com/what-airlines-actually-do-777x-order-boeing-delays-again/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eace2dda2646",
-    "title": "\"It'll Mess Up Your Head Really Quick\": What SR-71 Pilots Saw At The Edge Of Earth's Atmosphere",
-    "summary": "The SR-71 Blackbird was an incredible Intelligence asset, it was also a mobile stellar observatory, given the right conditions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T23:01:19Z",
-    "url": "https://simpleflying.com/what-sr-71-pilots-saw-edge-earth-atmosphere/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "933309a250a8",
-    "title": "Why The FAA's Pilot Retirement Age Rule Is Being Challenged Like Never Before",
-    "summary": "New legislation is gaining bipartisan support in Congress.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T22:00:19Z",
-    "url": "https://simpleflying.com/why-faa-pilot-retirement-age-rule-challenged-never-before/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f1715355f7aa",
-    "title": "Is This World-Class Airline Also The World\u2019s Worst Investor?",
-    "summary": "Singapore Airlines keeps investing in foreign airlines, but history suggests the strategy rarely works.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T21:00:19Z",
-    "url": "https://simpleflying.com/world-class-airline-worlds-worst-investor/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b648ea4d3d42",
-    "title": "Unmanned Quarterhorse MK 2.1 Hits Mach 1.21",
-    "summary": "Hermeus says Quarterhorse flight testing will continue toward higher-speed aircraft and payload demonstrations.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-01T19:35:13Z",
-    "url": "https://avweb.com/aviation-news/unmanned-quarterhorse-mk-2-1-hits-mach-1-2/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "41c970a22a57",
-    "title": "Maeve Aerospace collapses after SkyWest-backed hybrid aircraft program stalls",
-    "summary": "Dutch aircraft developer Maeve Aerospace has collapsed, ending an ambitious effort to bring a hybrid-electric regional aircraft to the market. Maeve Aerospace&#8230; The post Maeve Aerospace collapses after SkyWest-backed hybrid aircraft program stalls appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-01T19:03:12Z",
-    "url": "https://www.aerotime.aero/articles/maeve-aerospace-collapses-skywest-hybrid-aircraft",
-    "airlineTag": "SkyWest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "69f0409569ca",
-    "title": "American Airlines Suspends Flights On 6 Key Routes [List & Map]",
-    "summary": "All are from two of the airline's major hubs. See where here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T18:00:18Z",
-    "url": "https://simpleflying.com/american-airlines-suspends-flights-on-6-key-routes-list-map/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5088886013ac",
-    "title": "How A Plane Built In 1968 Became The Most Strategically Important Aircraft In The US Military Today",
-    "summary": "The story behind America's flying colossus.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T18:00:18Z",
-    "url": "https://simpleflying.com/how-plane-built-1968-most-strategically-important-aircraft-us-military-today/",
     "airlineTag": null,
     "isBreaking": false
   }
