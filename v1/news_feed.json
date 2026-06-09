@@ -1,5 +1,104 @@
 [
   {
+    "id": "f9cfceecb4d8",
+    "title": "How American, Delta & United Airlines Quietly Adopted Identical Loyalty Math For 2026",
+    "summary": "American AAdvantage, Delta SkyMiles, and United MileagePlus have converged on functionally identical revenue-based earning structures.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T01:00:20Z",
+    "url": "https://simpleflying.com/how-american-delta-united-quietly-adopted-identical-loyalty-math-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "70f3f9af7515",
+    "title": "Southwest, Singapore Airlines launch single-ticket connection partnership",
+    "summary": "Southwest Airlines and Singapore Airlines have launched a partnership allowing passengers to book single-ticket trips connecting Singapore Airlines\u2019 long-haul&#8230; The post Southwest, Singapore Airlines launch single-ticket connection partnership appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/southwest-singapore-airlines-single-ticket-connections",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1410a5cf092c",
+    "title": "First Look: Inside American Airlines\u2019 $3 Billion, 9 Gate Expansion At Dallas-Fort Worth",
+    "summary": "AA pulls back the curtain on the iconic carrier's future.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T00:30:20Z",
+    "url": "https://simpleflying.com/american-airlines-3-billion-9-gate-expansion-dfw/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1cb8ae88b485",
+    "title": "Why Full Power Takeoffs Aren't Necessary Most Of The Time",
+    "summary": "Airlines don\u2019t always use full thrust for takeoff, often reducing power to protect engines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T00:00:20Z",
+    "url": "https://simpleflying.com/why-full-power-takeoff-arent-necessary-most-time/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f9a586be1193",
+    "title": "Why Emirates' 8,810-Mile Dubai To Auckland Flight Is Actually A UK & India Route",
+    "summary": "By operating a hub-and-spoke model, each route operated by Emirates feeds passengers onto multiple routes across its global network!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T23:00:20Z",
+    "url": "https://simpleflying.com/why-emirates-8810-mile-dubai-auckland-flight-actually-uk-india-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5983b85b6286",
+    "title": "From 180 F-35s To 400 Next-Gen Fighters: How Much Larger Europe's Air Power Could Get",
+    "summary": "The stunning growth trajectory of European air forces.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T22:00:20Z",
+    "url": "https://simpleflying.com/180-f-35s-400-next-gen-fighters-how-much-larger-europe-air-power-get/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dbcefa4a0bb0",
+    "title": "Air Force One\u2019s New Look: Ex-Qatari Boeing 747 Rolls Out In Trump\u2019s New Livery",
+    "summary": "The new aircraft is set to be ready by July 4th.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T21:19:47Z",
+    "url": "https://simpleflying.com/air-force-one-747-trump-new-livery-look/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8947a2a4dd0b",
+    "title": "FAA Weighs In on Falcon Field Landing Fees",
+    "summary": "Agency cites possible violation of grant assurances and safety concerns.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-08T21:07:56Z",
+    "url": "https://www.flyingmag.com/faa-weighs-in-on-falcon-field-landing-fees/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ab2a4b2b6158",
+    "title": "Are Long-Haul Pilots On The Boeing 787 Really Paid More Than Those Flying The 777 At Most Carriers?",
+    "summary": "Boeing 787 pilots could find themselves earning north of half a million dollars at the right airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-08T21:00:20Z",
+    "url": "https://simpleflying.com/long-haul-pilots-boeing-787-really-paid-more-those-flying-777-most-carriers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "09f00e9f9963",
     "title": "Otto Phantom 3500 program advances with FAA Part 23 certification basis in place",
     "summary": "Otto Aerospace has finalized the G-1 Issue Paper for its Phantom 3500 business jet program, establishing the aircraft\u2019s&#8230; The post Otto Phantom 3500 program advances with FAA Part 23 certification basis in place appeared first on AeroTime.",
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-06-01T17:00:00Z",
     "url": "https://www.flyingmag.com/maeve-aerospace-hybrid-electric-insolvency/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9ec822cc00b7",
-    "title": "This 1973 Cessna 182P Skylane Is a STOL-Optimized \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "High-performance 260 hp conversion pairs an incredibly clean airframe with IFR stack and S-Tec autopilot.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-01T14:00:49Z",
-    "url": "https://www.flyingmag.com/this-1973-cessna-182p-skylane-is-a-stol-optimized-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2004ffe5d236",
-    "title": "Ryanair's Massive Expansion: 15 New Routes Launching In 2 Days [Full List]",
-    "summary": "They'll all begin today and tomorrow, with some highly intriguing additions. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T14:00:19Z",
-    "url": "https://simpleflying.com/ryanairs-massive-expansion-15-new-routes-launching-in-2-days-full-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a76d65fbc948",
-    "title": "Beginning Of The End: Emirates Wraps Up Its First Retrofit Of A Two-Class Airbus A380",
-    "summary": "On May 20th, 2026, Emirates announced that it had quote \u201creached a defining milestone in its ambitious multi-billion dollar retrofit programme with the successful reconfiguration of its first two-class A380 aircraft.\u201d The two-class A380s are also known as the airline\u2019s 615-sea...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T12:27:19Z",
-    "url": "https://simpleflying.com/video/beginning-of-the-end-emirates-wraps-up-its-first-retrofit-of-a-two-class-airbus-a380/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b26b8f51ea3",
-    "title": "Massive 19-Hour Flights: Ethiopian Airlines' 10 New Ultra-Long Routes In 2026 [Full List]",
-    "summary": "How many of them can you guess? There is a great mix. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T12:00:20Z",
-    "url": "https://simpleflying.com/massive-19-hour-flights-ethiopian-airlines-10-new-ultra-long-routes-2026-full-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "91394eee8faa",
-    "title": "The Art of the Pilot Debrief",
-    "summary": "Don't rush the most important part of the flight.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-01T12:00:00Z",
-    "url": "https://www.flyingmag.com/the-art-of-the-pilot-debrief/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a97a28776b9e",
-    "title": "Paraguayan airline Paranair sold to Canadian and Bolivian investors",
-    "summary": "Paraguayan airline Paranair has been sold to a new owner. According to reports that appeared in local media,&#8230; The post Paraguayan airline Paranair sold to Canadian and Bolivian investors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-01T09:04:37Z",
-    "url": "https://www.aerotime.aero/articles/paraguayan-airline-paranair-sold-to-canadian-and-bolivian-investors",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6eab45fae46",
-    "title": "\"Four-Letter Word\": United Airlines 767 Returns To Newark After Bluetooth Name Sparks Alert",
-    "summary": "The flight crew issued repeated warnings and a one-minute ultimatum to passengers, demanding they turn off their Bluetooth devices.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T08:55:55Z",
-    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "28dfb05c2eb3",
-    "title": "5 Airlines With The World's Most Superior Business Class Dining In 2026",
-    "summary": "These are the airlines that feature award-winning restaurant-level catering on board their business class products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T08:00:18Z",
-    "url": "https://simpleflying.com/5-airlines-home-world-superior-business-class-dining-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ee4bb0274d1",
-    "title": "Frontier Airlines Investigating After Cabin Odor Hospitalizes 3 Passengers In Orlando",
-    "summary": "A mysterious odor on a Frontier Airlines flight from Orlando left passengers feeling unwell, leading to three being hospitalized.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-01T07:22:22Z",
-    "url": "https://simpleflying.com/frontier-airlines-investigating-cabin-odor-hospitalizes-3-passengers-orlando/",
-    "airlineTag": "Frontier Airlines",
     "isBreaking": false
   }
 ]
