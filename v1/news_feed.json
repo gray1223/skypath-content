@@ -1,13 +1,112 @@
 [
   {
+    "id": "ac5029a3d429",
+    "title": "United Airlines Edges Ahead In Long-Haul Wi-Fi Race With First 777 Starlink Retrofit",
+    "summary": "United's new network upgrades take a big step forward.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T03:29:35Z",
+    "url": "https://simpleflying.com/united-airlines-long-haul-wifi-first-777-starlink-retrofit/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "428eccb8d20b",
+    "title": "The Aircraft Set To Replace The Largest Quadjet In The World",
+    "summary": "The A380 is no longer a viable aircraft in many airline's fleets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T02:15:19Z",
+    "url": "https://simpleflying.com/aircraft-set-to-replace-largest-quadjet-in-world/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b4f824bdd1bc",
+    "title": "How The Airline That Invented Business Class Beds Continues To Reinvent Them Decades Later",
+    "summary": "British Airways invented the lie-flat business class bed in 2000. Three generations later, the airline is still reinventing it.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T01:00:19Z",
+    "url": "https://simpleflying.com/airline-invented-business-class-beds-reinvent-decades-later/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5a3dc8a63f98",
+    "title": "Why Southwest Airlines Won't Even Bat An Eye At The Boeing 737 MAX 9 Or MAX 10",
+    "summary": "The carrier is all about smaller 737s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T00:00:20Z",
+    "url": "https://simpleflying.com/why-southwest-airlines-wont-even-bat-eye-boeing-737-max-9-max-10/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "43098d3e1034",
+    "title": "Air Canada Captain Arrested & Fired After Flying Without Required Pilot\u2019s License",
+    "summary": "Former Air Canada captain accused of flying 900 flights without the required airline transport license.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T23:04:53Z",
+    "url": "https://simpleflying.com/air-canada-captain-arrested-fired-flying-without-pilot-license/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a49d3dabe9ee",
+    "title": "70 Frequent Flyers Race To All 7 United Airlines Hubs In 1 Day, With Some Controversial Help",
+    "summary": "United has one of the largest commercial networks in the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T22:51:35Z",
+    "url": "https://simpleflying.com/70-frequent-flyers-race-7-united-airlines-hub-controversial/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0841a38e6253",
+    "title": "Southwest Unlocks Over 130 Destinations With New Singapore Airlines Interline Agreement",
+    "summary": "Southwest's new Singapore Airlines partnership unlocks 130+ global destinations, marking its fourth international airline agreement in a year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T22:20:23Z",
+    "url": "https://simpleflying.com/southwest-singapore-airlines-interline-agreement-130-destinations/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5cf700dd0a0e",
+    "title": "How This Airline Made Transatlantic Low-Cost Flights Work",
+    "summary": "While low-cost long-haul operators continue to struggle, IAG appears to have found a key to profitability on low-cost transatlantic flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-09T22:00:19Z",
+    "url": "https://simpleflying.com/how-airline-made-transatlantic-low-cost-flights-work/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d45879dbf684",
     "title": "Training and Safety Tip: Prepare your passengers",
     "summary": "I recently flew with a first-time single-engine piston aircraft passenger. My plan was to do an hourlong local sightseeing flight, a route that I had done numerous times before and knew well.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "df59ae1b5bd0",
+    "title": "American Airlines, Google sign record sustainable aviation fuel deal",
+    "summary": "American Airlines and Google have signed a three-year sustainable aviation fuel (SAF) agreement covering 35 million gallons of&#8230; The post American Airlines, Google sign record sustainable aviation fuel deal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-09T20:25:27Z",
+    "url": "https://www.aerotime.aero/articles/american-google-sustainable-aviation-fuel-deal",
+    "airlineTag": "American Airlines",
     "isBreaking": false
   },
   {
@@ -1326,7 +1425,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T20:01:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1502,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T19:24:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1755,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1953,7 +2052,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-02T16:00:00Z",
     "url": "https://www.flyingmag.com/czepielas-flight-test-refines-rotax-916-is-power/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c5034dc9323",
-    "title": "Saab rolls out first Gripen F fighter for Brazilian Air Force",
-    "summary": "Saab presented the first Gripen F, the two-seat version of its Gripen E series, for the Brazilian Air&#8230; The post Saab rolls out first Gripen F fighter for Brazilian Air Force appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-02T15:13:11Z",
-    "url": "https://www.aerotime.aero/articles/saab-gripen-f-rollout-brazil",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "54eeacad6c4a",
-    "title": "Sweden adds Saab radar and air defense command systems to army brigades",
-    "summary": "Sweden is equipping its army brigades with dedicated ground-based air defense (GBAD) sensors and command-and-control systems under a&#8230; The post Sweden adds Saab radar and air defense command systems to army brigades appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-02T15:01:43Z",
-    "url": "https://www.aerotime.aero/articles/sweden-adds-saab-radar-and-air-defense-command-systems-to-army-brigades",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6e13a7b290a3",
-    "title": "Only 38% Full: Southwest Airlines' 10 Emptiest Routes Revealed [Full List]",
-    "summary": "There are some shockingly low results. Check them all out here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-02T15:00:19Z",
-    "url": "https://simpleflying.com/only-38pc-full-southwest-airlines-10-emptiest-routes-revealed-full-list/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f0c5f892ac2e",
-    "title": "This 2024 Van\u2019s RV-12iS Is a Flight School-Ready \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Factory-built S-LSA features an ultra-efficient Rotax powerplant and modern Garmin G3X Touch avionics.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-02T15:00:00Z",
-    "url": "https://www.flyingmag.com/this-2024-vans-rv-12is-is-a-flight-school-ready-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba1fae64b3ef",
-    "title": "How Much Do Boeing 737 MAX Pilots Actually Earn At US Carriers In 2026?",
-    "summary": "The top pilot salaries were once reserved for long-haul flying. Today, flying the 737 MAX or other narrowbodies actually provides similar pay levels.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-02T14:00:19Z",
-    "url": "https://simpleflying.com/how-much-boeing-737-max-pilots-actually-earn-us-carriers-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d33f093c06bf",
-    "title": "Success as a Young CFI Goes Beyond the Right Seat",
-    "summary": "Flight instructing is all about mastering mentorship, recordkeeping, and professional responsibility.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-02T14:00:00Z",
-    "url": "https://www.flyingmag.com/success-as-a-young-cfi-goes-beyond-the-right-seat/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "125b95b34993",
-    "title": "SITA acquires Big Blue Analytics to scale AI disruption recovery for airlines",
-    "summary": "SITA announced on June 1, 2026 that it has acquired Big Blue Analytics, the company behind OCC Assistant&#8230; The post SITA acquires Big Blue Analytics to scale AI disruption recovery for airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-06-02T12:49:07Z",
-    "url": "https://www.aerotime.aero/articles/sita-acquires-big-blue-analytics-to-scale-ai-disruption-recovery-for-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "89d5d5c0ddc6",
-    "title": "The US Fuel Blockade Just Caused Another Airline To Drop Cuba Flights",
-    "summary": "Options for flights between Europe and Cuba are becoming increasingly limited.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-02T12:38:23Z",
-    "url": "https://simpleflying.com/iberia-drops-cuba-flights-us-fuel-blockade/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "23bade1c4da7",
-    "title": "Italy Will Buy Six Airbus A330 MRRTs In $1.6B-Value Deal",
-    "summary": "On May 19th, it was reported by the Italian Ministry of Defense that it had awarded a contract to Airbus for the planned procurement of a fleet of six A330 multi-role tanker transport aircraft, as part of a deal valued at \u20ac1.4 billion ($1.6 billion).",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-02T12:26:19Z",
-    "url": "https://simpleflying.com/video/italy-will-buy-six-airbus-a330-mrrts-in-1-6b-value-deal/",
     "airlineTag": null,
     "isBreaking": false
   }
