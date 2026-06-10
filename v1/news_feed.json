@@ -1,5 +1,27 @@
 [
   {
+    "id": "07af6720374d",
+    "title": "US Air Force says KC-46 vision system is fixed, production rollout in 2028",
+    "summary": "The US Air Force believes the most persistent defect of the Boeing KC-46A Pegasus has finally been resolved,&#8230; The post US Air Force says KC-46 vision system is fixed, production rollout in 2028 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-10T07:33:24Z",
+    "url": "https://www.aerotime.aero/articles/kc-46-vision-system-fixed-production-2028",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f5953494855a",
+    "title": "The Real Reason Pilots Sometimes Fly A Longer Route On Purpose",
+    "summary": "The actual flight path an aircraft flies is determined by several factors ranging from efficiency to flight safety and even geopolitics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T05:00:18Z",
+    "url": "https://simpleflying.com/real-reason-pilots-sometimes-fly-longer-route-purpose/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ac5029a3d429",
     "title": "United Airlines Edges Ahead In Long-Haul Wi-Fi Race With First 777 Starlink Retrofit",
     "summary": "United's new network upgrades take a big step forward.",
@@ -94,7 +116,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1425,7 +1447,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1469,7 +1491,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T20:01:22Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1524,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T19:24:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1854,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2052,7 +2074,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-02T23:57:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/02/training-and-safety-tip-visualize-avoid-vortices?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-02T17:00:19Z",
     "url": "https://simpleflying.com/new-f-35-system-upgrade-reshape-worlds-most-advanced-fighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9f56327b32f1",
-    "title": "Volaris' Massive US Expansion: 10 New Routes In 2 Days [Full List]",
-    "summary": "The Mexican budget carrier has opened a wide variety of transborder corridors.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-02T16:00:20Z",
-    "url": "https://simpleflying.com/volaris-new-us-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a65eb367e6a2",
-    "title": "Czepiela\u2019s Flight Test Refines Rotax 916 iS Power",
-    "summary": "CubCrafters pilots gain quicker takeoffs and better climb performance with new software upgrade.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-02T16:00:00Z",
-    "url": "https://www.flyingmag.com/czepielas-flight-test-refines-rotax-916-is-power/",
     "airlineTag": null,
     "isBreaking": false
   }
