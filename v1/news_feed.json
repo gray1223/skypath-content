@@ -1,5 +1,93 @@
 [
   {
+    "id": "cfaebd8555b0",
+    "title": "Why The Airbus A220 Is The Most Underrated Commercial Aircraft Flying Today",
+    "summary": "Forget the A320 or the 737, the Airbus A220 is flying well under the radar, and may soon become the most sought-after airliner in the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T20:00:19Z",
+    "url": "https://simpleflying.com/why-airbus-a220-most-underrated-commercial-aircraft-flying-today/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "925a589f6e7e",
+    "title": "Downed Apache Marks at Least 43 U.S. Aircraft Damaged or Destroyed in Iran War",
+    "summary": "Two pilots rescued after helicopter was downed near the Strait of Hormuz.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-10T19:42:02Z",
+    "url": "https://www.flyingmag.com/apache-ah64-helicopter-iran-war-43-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cac969f874f1",
+    "title": "MQ-28 Ghost Bat Gains Range, Payload",
+    "summary": "Boeing says the planned changes increase payload, range and command-and-control options.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-06-10T19:10:33Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/mq-28-ghost-bad-range-payload/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d8b19f7c6325",
+    "title": "Continental Aerospace Returns to U.S. Ownership in $535 Million Arcline Deal",
+    "summary": "Arcline Investment Management agreed to acquire the Alabama-based piston engine manufacturer from subsidiaries of China\u2019s AVIC in a $535 million deal.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-10T18:45:00Z",
+    "url": "https://avweb.com/aviation-news/continental-aerospace-arcline-acquisition/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d11939fe14c1",
+    "title": "Merge Or Not? Scott Kirby Now Wants United Airlines & JetBlue To Do \u201cAs Much As We Can Together\u201d",
+    "summary": "The CEO's recent remarks have reignited speculation about potential closer ties between the two carriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T18:04:50Z",
+    "url": "https://simpleflying.com/scott-kirby-wants-united-airlines-jetblue-as-much-as-we-can-together/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c9d70a60dea0",
+    "title": "Meet Airbus\u2019 Newest Uncrewed Additions",
+    "summary": "Manufacturer unveils two new uncrewed aircraft, one based around its H145 helicopter.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-10T17:36:00Z",
+    "url": "https://www.flyingmag.com/airbus-uncrewed-u145-helicopter-u760-ravenstorm/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0c1fa0a65061",
+    "title": "NTSB Finds No Mechanical Anomalies in Fatal F-51D Crash",
+    "summary": "The aircraft was producing power and operating normally during an aerobatic practice flight before impact.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-06-10T16:04:00Z",
+    "url": "https://avweb.com/aviation-news/f51d-mustang-crash-ntsb-preliminary-report/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6c2ef2fb7d57",
+    "title": "This 1973 Beechcraft V35B Bonanza Is a Fresh-Engine \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Dual Garmin GPS/coms, GFC 500 autopilot, and ADS-B weather make this classic V-tail a serious instrument platform.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-10T15:38:23Z",
+    "url": "https://www.flyingmag.com/this-1973-beechcraft-v35b-bonanza-is-a-fresh-engine-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ba968e442465",
     "title": "Airline With World's Youngest Airbus A380 Fleet Won't Retire Superjumbo Anytime Soon",
     "summary": "ANA's three A380s will continue to fly between Tokyo Narita and Honolulu, with no retirement plans in sight.",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-03T12:47:55Z",
     "url": "https://www.aerotime.aero/articles/starlux-airlines-to-launch-direct-sydney-taiwan-flights-starting-2027",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b486f6ba309e",
-    "title": "There\u2019s Indeed a Science to Airline Cockpit Diplomacy",
-    "summary": "Maintaining civility is critical in a dynamic safety environment.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-03T12:00:00Z",
-    "url": "https://www.flyingmag.com/theres-indeed-a-science-to-airline-cockpit-diplomacy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1fb288d33ce0",
-    "title": "Three Royal Navy personnel killed in Devon helicopter crash during training",
-    "summary": "A Royal Navy helicopter has crashed into a field near Okehampton, Devon, with emergency services responding and an&#8230; The post Three Royal Navy personnel killed in Devon helicopter crash during training appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-03T11:26:17Z",
-    "url": "https://www.aerotime.aero/articles/royal-navy-helicopter-crash-devon",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bd861d586c7d",
-    "title": "\"That Guy's Insane\": JetBlue Pilot Dodges Wayward Aircraft On Approach To Fort Lauderdale",
-    "summary": "A JetBlue A321neo narrowly avoided a collision with another aircraft after receiving a TCAS alert.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T11:19:49Z",
-    "url": "https://simpleflying.com/jetblue-pilot-near-miss-wayward-aircraft-fort-lauderdale/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "e363aa13e929",
-    "title": "easyJet's Massive Expansion: 15 New Routes Launching This Month [Map]",
-    "summary": "They are all over Europe, but 13 involve three countries. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T11:00:19Z",
-    "url": "https://simpleflying.com/easyjets-massive-expansion-15-new-routes-launching-this-month-map/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "70a6ce2da803",
-    "title": "Taiwan signs new Dassault support deal for Mirage 2000-5 fleet",
-    "summary": "Taiwan\u2019s Air Force has awarded Dassault Aviation a new five-year technical support contract worth NT$926.47 million ($29.5 million)&#8230; The post Taiwan signs new Dassault support deal for Mirage 2000-5 fleet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-03T10:26:44Z",
-    "url": "https://www.aerotime.aero/articles/taiwan-dassault-mirage-2000-support-contract",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c4544b88968f",
-    "title": "The Problem United Airlines Ran Into When Developing Its New Polaris 2.0 Suites",
-    "summary": "United's new Polaris suites have privacy doors: they just can't close yet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T10:00:28Z",
-    "url": "https://simpleflying.com/problem-united-airlines-ran-into-developing-new-polaris-suites/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "25500d066ec1",
-    "title": "AirAsia Philippines faces shutdown order over US$4.7M in unpaid airport charges",
-    "summary": "The Civil Aviation Authority of the Philippines (CAAP) has ordered AirAsia Philippines to stop operating at all government-managed&#8230; The post AirAsia Philippines faces shutdown order over US$4.7M in unpaid airport charges appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-03T08:32:12Z",
-    "url": "https://www.aerotime.aero/articles/airasia-philippines-faces-shutdown-order-over-us4-7m-in-unpaid-airport-charges",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ed30ea712e12",
-    "title": "UK Airlines Could Be Fined For Failing Passengers Under New Bill",
-    "summary": "A new law is set to change the way airlines operate in the UK.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T05:07:10Z",
-    "url": "https://simpleflying.com/uk-airlines-fines-failing-passengers-civil-aviation-bill/",
     "airlineTag": null,
     "isBreaking": false
   }
