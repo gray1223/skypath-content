@@ -1,5 +1,82 @@
 [
   {
+    "id": "29ac0c58f530",
+    "title": "United Plans To Block A321XLR Middle Seats To Fly With 3 Flight Attendants, Not 4",
+    "summary": "A new way to fly economy with UA's latest single-aisle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T02:21:59Z",
+    "url": "https://simpleflying.com/united-a321xlr-blocked-middle-seats-flight-attendants/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5e43efff01e1",
+    "title": "The 21% Fuel Burn Gap That Made Delta Air Lines Retire Its Entire Boeing 777 Fleet",
+    "summary": "The SkyTeam carrier previously operated a fleet of 18 Boeing 777s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T00:00:20Z",
+    "url": "https://simpleflying.com/21-percent-fuel-gap-made-delta-air-lines-retire-entire-boeing-777-fleet/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "c76aaa159782",
+    "title": "\u201cUnlock New Markets\u201d: LATAM Airlines Shows Off 1st Embraer E195-E2 Ahead Of Late 2026 Debut",
+    "summary": "The unveiling sets the stage for a transformative shift in regional air travel.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T23:21:23Z",
+    "url": "https://simpleflying.com/latam-airlines-shows-off-1st-embraer-e195-e2-ahead-2026debut/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8f347cf894df",
+    "title": "Here's How Much A Private Jet Charter From New York To Miami Actually Costs In 2026",
+    "summary": "Private jet travel costs vary widely based on aircraft type, timing, and demand, especially on busy luxury routes like New York to Miami.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T23:00:18Z",
+    "url": "https://simpleflying.com/private-jet-charter-new-york-miami-cost-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "597f2b4cf29b",
+    "title": "American Airlines & Google Sign Record 35 Million-Gallon Fuel Deal",
+    "summary": "The agreement could reshape aviation fuel financing.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T22:41:55Z",
+    "url": "https://simpleflying.com/american-airlines-google-sign-record-35-million-gallon-fuel-deal/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0db5a570ee2c",
+    "title": "5 Commercial Aircraft Programs Boeing And Airbus Cancelled",
+    "summary": "Over time, numerous aircraft variants have been proposed, but many of these were never built. Were they too ambitious? Or simply not good enough?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T22:01:20Z",
+    "url": "https://simpleflying.com/5-commercial-aircraft-programmes-boeing-and-airbus-cancelled/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ebd6cecb3392",
+    "title": "8-Hour Nonstop Flights: United Airlines' 10 Longest Boeing 737 MAX Routes [List]",
+    "summary": "United Airlines is pushing the Boeing 737 MAX to its limits, with flights approaching eight hours linking Newark, Alaska, Europe, and the Caribbean.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-10T21:04:30Z",
+    "url": "https://simpleflying.com/8-hour-nonstop-flights-uniteds-10-longest-737-max-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "cfaebd8555b0",
     "title": "Why The Airbus A220 Is The Most Underrated Commercial Aircraft Flying Today",
     "summary": "Forget the A320 or the 737, the Airbus A220 is flying well under the radar, and may soon become the most sought-after airliner in the world.",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-03T17:30:21Z",
     "url": "https://simpleflying.com/why-boeing-777x-wont-let-pilots-take-off-with-wings-folded/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4055083d1612",
-    "title": "Rare Kitbuilt Jet Donated for A&P Training",
-    "summary": "Colorado\u2019s Aims Community College students to gain hands-on experience with a Maverick TwinJet 1500.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-03T15:15:00Z",
-    "url": "https://www.flyingmag.com/rare-kitbuilt-jet-donated-for-ap-training/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d6dd01a1b322",
-    "title": "Why Southwest Airlines' Boeing 737 Fleet Makes Premium Cabins Almost Impossible To Profit From",
-    "summary": "The blue-liveried budget carrier famously operates an all-Boeing 737 fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T15:00:19Z",
-    "url": "https://simpleflying.com/why-southwest-airlines-boeing-737-fleet-premium-cabins-impossible-profit-from/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a84c02f565c6",
-    "title": "This 2005 Cirrus SR22 G2 Is a Value-Packed \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Upgraded DFC90 digital autopilot, fresh CAPS repack, and classic styling deliver an all-composite gateway to high-speed travel.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-03T14:15:50Z",
-    "url": "https://www.flyingmag.com/this-2005-cirrus-sr22-g2-is-a-value-packed-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fbb5e62afa32",
-    "title": "Air Astana launches new services to Larnaca, Cyprus, and Guangzhou, China",
-    "summary": "On June 2, 2026, Air Astana launched two new destinations from its base at Astana\u2019s Nursultan Nazarbayev International&#8230; The post Air Astana launches new services to Larnaca, Cyprus, and Guangzhou, China appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-03T14:09:57Z",
-    "url": "https://www.aerotime.aero/articles/air-astana-launches-new-services-to-larnaca-cyprus-and-guangzhou-china",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4cdf9fe470b",
-    "title": "15-Hour US Flights: El Al Expands Long-Haul Routes [Full List]",
-    "summary": "After a hiatus of six years, the airline will resume services to San Francisco this winter with three weekly flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T13:00:18Z",
-    "url": "https://simpleflying.com/15-hour-nonstop-flights-el-al-new-us-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "657345526643",
-    "title": "What We Know About The Boeing Supersonic Airliner The US Government Cancelled",
-    "summary": "Supersonic travel was once seen as the future for aviation. The era left just as fast as it arrived, particularly for Boeing and the 2707 project.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T13:00:18Z",
-    "url": "https://simpleflying.com/boeing-supersonic-airliner-cancelled/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac2707dcbe02",
-    "title": "STARLUX Airlines to launch direct Sydney-Taiwan flights starting 2027",
-    "summary": "Taiwanese carrier STARLUX Airlines will launch direct flights between Sydney Airport (SYD) and Taiwan beginning in 2027, with&#8230; The post STARLUX Airlines to launch direct Sydney-Taiwan flights starting 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-03T12:47:55Z",
-    "url": "https://www.aerotime.aero/articles/starlux-airlines-to-launch-direct-sydney-taiwan-flights-starting-2027",
     "airlineTag": null,
     "isBreaking": false
   }
