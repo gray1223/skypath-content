@@ -1,8 +1,63 @@
 [
   {
+    "id": "38915bb28f9b",
+    "title": "16-Hour Flights: Singapore Airlines Launches New Ultra-Long Route [Map]",
+    "summary": "After a 22-year absence, Singapore Airlines is set to restore passenger service to Madrid, marking a significant expansion of its European network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T10:00:23Z",
+    "url": "https://simpleflying.com/16-hour-singapore-airlines-new-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7c3f75975f50",
+    "title": "The World\u2019s 10 Largest Airports Currently Operating",
+    "summary": "These are the world's largest airports by land size.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T09:28:35Z",
+    "url": "https://simpleflying.com/worlds-largest-airports-operating/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6333ac910b94",
+    "title": "Alaska Airlines unveils FIFA World Cup 2026 livery on Boeing 737-9 MAX",
+    "summary": "Alaska Airlines has revealed a new aircraft livery celebrating Seattle\u2019s role as one of 16 host cities for&#8230; The post Alaska Airlines unveils FIFA World Cup 2026 livery on Boeing 737-9 MAX appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-11T09:21:36Z",
+    "url": "https://www.aerotime.aero/articles/alaska-airlines-unveils-fifa-world-cup-2026-livery-on-boeing-737-9-max",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0731f35f6cb6",
+    "title": "Boeing lands double-digit aircraft order from Uganda Airlines",
+    "summary": "Boeing has received a double-digit aircraft order from Uganda Airlines worth $985 million, as the carrier looks to&#8230; The post Boeing lands double-digit aircraft order from Uganda Airlines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-11T08:01:58Z",
+    "url": "https://www.aerotime.aero/articles/boeing-lands-double-digit-aircraft-order-from-uganda-airlines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "75dde673e3eb",
+    "title": "FL Technics expands in Bangkok to support APAC aircraft transitions",
+    "summary": "Asia-Pacific remains one of the fastest-growing aviation markets, driven by fleet expansion, increasing aircraft leasing activity, and strong&#8230; The post FL Technics expands in Bangkok to support APAC aircraft transitions appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-11T07:59:36Z",
+    "url": "https://www.aerotime.aero/articles/fl-technics-expands-in-bangkok-to-support-apac-aircraft-transitions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "29ac0c58f530",
     "title": "United Plans To Block A321XLR Middle Seats To Fly With 3 Flight Attendants, Not 4",
-    "summary": "A new way to fly economy with UA's latest single-aisle.",
+    "summary": "A new way to fly economy with United's latest single-aisle jet.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-06-11T02:21:59Z",
@@ -424,7 +479,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1755,7 +1810,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T20:01:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1832,7 +1887,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T19:24:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-03T20:00:20Z",
     "url": "https://simpleflying.com/usaf-fighter-jet-supercruise/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3ca2d10e27a0",
-    "title": "Commemorative Air Force Expands With New Hawaii Wing",
-    "summary": "The Commemorative Air Force has formed a new Hawaii Wing based in Honolulu.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-03T18:44:17Z",
-    "url": "https://avweb.com/aviation-news/commemorative-air-force-hawaii-wing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac320d957e74",
-    "title": "How US Airline Elite Status Quietly Became A $15,000 Spending Club In 2026",
-    "summary": "It's now all about how much money you have to spend.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T18:00:20Z",
-    "url": "https://simpleflying.com/how-airline-elite-status-quitely-became-15000-spending-club-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5d0a81593340",
-    "title": "Newark Liberty Now Leading Northeast Airports For On-Time Flights After A Year Of Chaos",
-    "summary": "Just a year after grappling with ATC shortages, runway construction, and technical issues, Newark Liberty now boasts record on-time performance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T17:46:43Z",
-    "url": "https://simpleflying.com/newark-liberty-leading-northeast-airports-on-time-flights-year-chaos/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c07a3fb07391",
-    "title": "From 'Tweety' to United",
-    "summary": "In 2016, AOPA awarded a refurbished Cessna 150 to the newly formed Nate Abel Flying Club in Fort Worth, Texas. The club's members nicknamed it \"Tweety,\" and it became a frequent training aircraft for aspiring aviators.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-06-03T17:37:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/03/from-tweety-to-united?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a3781c7f59e1",
-    "title": "Here\u2019s Why The Boeing 777X Won\u2019t Let Pilots Take Off With Its Wings Still Folded",
-    "summary": "A closer look at the huge twinjet's safety features.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T17:30:21Z",
-    "url": "https://simpleflying.com/why-boeing-777x-wont-let-pilots-take-off-with-wings-folded/",
     "airlineTag": null,
     "isBreaking": false
   }
