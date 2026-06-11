@@ -1,5 +1,93 @@
 [
   {
+    "id": "bb6b85cc6647",
+    "title": "The Hidden Reason Why First Class On Major Airlines Is Disappearing",
+    "summary": "First class is no longer a given on all airlines, and for a good reason. Let's dive into how the front of the aircraft has totally changed today.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T15:52:58Z",
+    "url": "https://simpleflying.com/hidden-reason-why-first-class-major-airlines-disappearing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "40570f819985",
+    "title": "2026 World Aerobatic Championship Coming to Iowa",
+    "summary": "The event is expected to bring aerobatic pilots from 14 nations to Iowa next August.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-11T15:21:05Z",
+    "url": "https://avweb.com/air-shows-events/2026-world-aerobatic-championship-iowa/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "52ca42ce2869",
+    "title": "Ohio CAP Squadron Renamed For Vietnam-Era Air Force Pilot",
+    "summary": "The Knox County-based unit will formally dedicate its new name June 27.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-06-11T14:30:47Z",
+    "url": "https://avweb.com/aviation-news/ohia-cap-squad-renamed-vietnam-era-pilot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f84a5221b927",
+    "title": "South Korea\u2019s Jeju Air reduces 2018 Boeing 737 MAX 8 order by 20%",
+    "summary": "South Korea\u2019s Jeju Air has reduced an order placed with Boeing in 2018 for 737 MAX 8 aircraft,&#8230; The post South Korea\u2019s Jeju Air reduces 2018 Boeing 737 MAX 8 order by 20% appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-11T14:15:42Z",
+    "url": "https://www.aerotime.aero/articles/south-korea-jeju-air-reduces-2018-boeing-737-max-8-order",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "36d3f29a0f27",
+    "title": "Ryanair Is Now Debt-Free With 620 Owned 737s",
+    "summary": "On May 25th, Ryanair announced that it had repaid its last \u20ac1.2 billion bond leaving the Ryanair Group effectively debt free. It comes at a good time as the airline heads into a challenging summer of growth, while hopefully still offering low fares.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T12:29:20Z",
+    "url": "https://simpleflying.com/video/ryanair-is-now-debt-free-with-620-owned-737s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fdfe5c010f96",
+    "title": "What Are the Best Shoes for Pilots?",
+    "summary": "Here are top footwear choices for optimal performance in the cockpit and beyond.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-11T12:00:00Z",
+    "url": "https://www.flyingmag.com/best-shoes-for-pilots-2/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f5ed859c4b1",
+    "title": "American Airlines in talks with Boeing and Airbus over new widebody order",
+    "summary": "American Airlines is in contacted with both Boeing and Airbus over a possible new widebody aircraft order as&#8230; The post American Airlines in talks with Boeing and Airbus over new widebody order appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-11T11:13:50Z",
+    "url": "https://www.aerotime.aero/articles/american-airlines-boeing-airbus-widebody-order",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b61231499284",
+    "title": "Here's Why The US Navy Jointly Operates The F/A-18 Super Hornet & F-35C For Carrier Ops",
+    "summary": "The dynamic duo of America's carrier air wings.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-11T11:00:20Z",
+    "url": "https://simpleflying.com/why-us-navy-jointly-operates-f-18-super-hornet-f-35c-carrier-ops/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "38915bb28f9b",
     "title": "16-Hour Flights: Singapore Airlines Launches New Ultra-Long Route [Map]",
     "summary": "After a 22-year absence, Singapore Airlines is set to restore passenger service to Madrid, marking a significant expansion of its European network.",
@@ -479,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1810,7 +1898,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1844,6 +1932,17 @@
     "category": "training",
     "publishedDate": "2026-06-04T20:14:02Z",
     "url": "https://avweb.com/flight-safety/flight-training/wai-opens-2027-scholarship-applications/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d0af12b41bd7",
+    "title": "Updated: Latest Mexico entry procedures clarified",
+    "summary": "Just as pilots were getting used to the \"Single Entry Authorization\" procedures implemented in early 2024, the Mexican Federal Civil Aviation Agency (AFAC) now requires that every domestic and international flight receive prior authorization from its central office in Mexico C...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-06-04T20:01:22Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/updated-entry-procedures-in-effect-in-mexico?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1887,7 +1986,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-04T19:24:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/faa-asks-arizona-city-to-delay-falcon-field-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-04T09:00:18Z",
     "url": "https://www.aerotime.aero/articles/emirates-promotes-its-first-emirati-female-pilots-to-captain",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9172bc2704e8",
-    "title": "Which Airline Employs The Most Flight Attendants In The World?",
-    "summary": "Flying the friendly skies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-04T08:00:18Z",
-    "url": "https://simpleflying.com/airline-employs-most-fa-world/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2d4a24e22d72",
-    "title": "AirAsia Philippines settles US$4.7M debt with CAAP, averts shutdown order",
-    "summary": "AirAsia Philippines has settled its outstanding obligations with the Civil Aviation Authority of the Philippines (CAAP), removing the&#8230; The post AirAsia Philippines settles US$4.7M debt with CAAP, averts shutdown order appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-04T07:57:10Z",
-    "url": "https://www.aerotime.aero/articles/airasia-philippines-settles-us4-7m-debt-with-caap-averts-shutdown-order",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8369c0a82a3c",
-    "title": "How United Airlines Spent The Pandemic Hoarding Widebodies To Beat Delta To The Mediterranean",
-    "summary": "A closer look at how United's COVID strategy has rewarded it with higher market share than ever.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-04T00:00:20Z",
-    "url": "https://simpleflying.com/how-united-airlines-spent-pandemic-hoarding-widebodies-beat-delta-mediterranean/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8ad676aadc20",
-    "title": "What Would Be The Benefits Of Flying On A Boeing 777X Versus An Airbus A380 On A Long-Haul Route?",
-    "summary": "Boeing\u2019s 777X and Airbus\u2019 A380 offer radically different long-haul experiences, balancing efficiency, luxury, airline economics, and passenger comfort",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T22:00:19Z",
-    "url": "https://simpleflying.com/benefits-flying-boeing-777x-vs-airbus-a380-long-haul/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51e420cfba41",
-    "title": "New Era: United Airlines Takes Delivery Of 1st Airbus A321XLR From Hamburg",
-    "summary": "United\u2019s first Airbus A321XLR begins a new premium narrowbody era for long-haul flying.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T21:34:48Z",
-    "url": "https://simpleflying.com/united-airlines-takes-delivery-1st-airbus-a321xlr-hamburg/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d4ddec9b063b",
-    "title": "The Aircraft Set To Replace The Iconic C\u201117 Globemaster In US Air Force Service",
-    "summary": "From the C-141 Starlifter to the C-17 Globemaster III, the USAF's airlift capabilities have evolved over time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T21:30:19Z",
-    "url": "https://simpleflying.com/aircraft-set-to-replace-iconic-c-17-globemaster-usaf/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "14a144a3a28f",
-    "title": "Delta Air Lines To Open 2nd Delta One Lounge At LAX This Summer Ahead Of The 2028 Olympics",
-    "summary": "Delta is the official airline partner for the LA 2028 Summer Olympics, which will take place in July 2028.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T20:15:16Z",
-    "url": "https://simpleflying.com/delta-air-lines-open-2nd-delta-one-lounge-lax-summer-ahead-2028-olympics/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "5303ec6d5cb7",
-    "title": "Allegiant Air Cuts 34 Routes To Florida: See All Flight Changes Now",
-    "summary": "The cuts involve eight airports in Florida.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T20:00:20Z",
-    "url": "https://simpleflying.com/allegiant-air-cuts-34-routes-to-florida-see-all-flight-changes-now/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1179e9bf8055",
-    "title": "Only 1 Fighter Jet In The US Air Force Can Supercruise Without Afterburners",
-    "summary": "A closer look at the USAF's most exquisite aerial predator.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-03T20:00:20Z",
-    "url": "https://simpleflying.com/usaf-fighter-jet-supercruise/",
     "airlineTag": null,
     "isBreaking": false
   }
