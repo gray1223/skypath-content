@@ -1,5 +1,93 @@
 [
   {
+    "id": "c69a29307a40",
+    "title": "N.J. Man Gets 6\u00bd Years In Fatal Training Accident",
+    "summary": "Former flight instructor barred from aviation industry after 2022 accident that killed student pilot.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-06-12T14:51:15Z",
+    "url": "https://avweb.com/flight-safety/accidents-ntsb/nj-man-6-years-fatal-training-accident/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d1439937f340",
+    "title": "FlexJet buys (TikTok-famous) London aircraft brokerage The Jet Business",
+    "summary": "US private aviation firm FlexJet has purchased the London-based aircraft brokerage and advisory firm The Jet Business, founded&#8230; The post FlexJet buys (TikTok-famous) London aircraft brokerage The Jet Business appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-12T14:13:37Z",
+    "url": "https://www.aerotime.aero/articles/flexjet-buys-tiktok-famous-london-aircraft-brokerage-jet-business",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f0a4abc3ed56",
+    "title": "France orders development of ASN4G hypersonic nuclear missile from MBDA",
+    "summary": "France has formally launched the development of the ASN4G, the hypersonic missile that will arm the airborne component&#8230; The post France orders development of ASN4G hypersonic nuclear missile from MBDA appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-12T14:13:23Z",
+    "url": "https://www.aerotime.aero/articles/france-asn4g-hypersonic-nuclear-missile-mbda",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2a696f8461bb",
+    "title": "Hawaiian Airlines reveals Moana liveries on A321neo, A330, and Boeing 717",
+    "summary": "Hawaiian Airlines has revealed the first of three commemorative aircraft liveries celebrating Disney\u2019s upcoming live-action Moana, ahead of&#8230; The post Hawaiian Airlines reveals Moana liveries on A321neo, A330, and Boeing 717 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-12T13:36:57Z",
+    "url": "https://www.aerotime.aero/articles/hawaiian-airlines-reveals-moana-liveries-on-a321neo-a330-and-boeing-717",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9e8e76347f5d",
+    "title": "Breeze Airways Launches 5 International Routes: See All Flights Now [Map]",
+    "summary": "Breeze is expanding to a total of 14 international routes, as Tampa becomes its new gateway.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T13:05:20Z",
+    "url": "https://simpleflying.com/breeze-airways-launches-5-international-routes/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "33928d9c8650",
+    "title": "Even With Better Tools, Pilots Make Same Mistakes",
+    "summary": "Most accidents involve a weather component, exposing flaws in pilot training and information delivery.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-12T12:00:00Z",
+    "url": "https://www.flyingmag.com/even-with-better-tools-pilots-make-same-mistakes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "67b1584db19b",
+    "title": "The Airlines With The World\u2019s Longest Legroom In Economy In 2026",
+    "summary": "Who has the most room to stretch in coach?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T11:40:52Z",
+    "url": "https://simpleflying.com/airlines-with-worlds-longest-legroom-economy-seats-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "24133c801c40",
+    "title": "Here's How Much An American Airlines Flagship Business Seat On The Boeing 777-300ER Actually Costs In 2026",
+    "summary": "American Airlines is giving the 777-300ER a well deserved refresh with its new Flagship business product. Is it worth trying out?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T11:00:20Z",
+    "url": "https://simpleflying.com/how-much-american-airlines-flagship-business-seat-boeing-777-300er-actually-cost-2026/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "c930ccc15e1f",
     "title": "Wow! Taxiing Turkish Airlines Boeing 777 Knocks Over Radar Tower, Mast Pierces Cabin",
     "summary": "Incredible. Passengers on a Turkish Airlines flight from Istanbul Airport experienced a terrifying arrival at Antalya International Airport at around 8:00 PM local time on Thursday, June 11th. After landing, the Boeing 777-300ER struck a radar antenna mast whilst taxiing.The m...",
@@ -127,7 +215,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T22:05:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -149,7 +237,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T21:51:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -259,7 +347,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T17:54:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -853,7 +941,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-06-05T11:01:17Z",
     "url": "https://simpleflying.com/video/the-pilot-problem-airlines-didn-t-expect/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ffb977f0cd29",
-    "title": "NTSB: United Airlines Pilot Warned Of Low & Slow Approach Before Hitting Light Pole In Newark",
-    "summary": "More details have emerged regarding UA169's low pass over the New Jersey Turnpike.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-06-05T04:19:44Z",
-    "url": "https://simpleflying.com/united-airlines-pilot-warned-low-slow-approach-hitting-light-pole-newark/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6314d94363e1",
-    "title": "The Skyraider Is Back: AFSOC's New Light Attack Aircraft Explained",
-    "summary": "The Skyraider II is the US Air Force's newest aircraft, and its optimized for global transport and combat air support on a remote and tactical level.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-05T02:31:20Z",
-    "url": "https://simpleflying.com/skyraider-back-afsoc-new-light-attack-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f976afb77d6a",
-    "title": "Copilot warned United 767 was low, slow before Newark light pole strike: NTSB",
-    "summary": "The copilot of a United Airlines Boeing 767 warned the captain that the aircraft was flying low and&#8230; The post Copilot warned United 767 was low, slow before Newark light pole strike: NTSB appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "regulatory",
-    "publishedDate": "2026-06-04T23:18:34Z",
-    "url": "https://www.aerotime.aero/articles/united-767-newark-light-pole-strike-ntsb",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f95f349a31fa",
-    "title": "7 Airlines With The World's Most Luxurious Business Class Seats In 2026",
-    "summary": "These carriers have been recognized for their superb business class products and seats.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-04T23:00:19Z",
-    "url": "https://simpleflying.com/7-airlines-world-most-luxurious-business-class-seat-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "22c6233fdad3",
-    "title": "How Much Money Do Boeing 777X Test Pilots Earn In 2026?",
-    "summary": "Unlike traditional airline pilots, Boeing's flight-test crews are tasked with pushing an unfinished aircraft into extreme operating conditions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-04T22:05:30Z",
-    "url": "https://simpleflying.com/how-much-money-boeing-777x-test-pilots-earn-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c4c04295b660",
-    "title": "What Would A Southwest Airlines First Class Cabin Actually Look Like?",
-    "summary": "First class is likely a matter of when, not if, for Southwest Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-04T22:00:20Z",
-    "url": "https://simpleflying.com/what-would-southwest-airlines-first-class-cabin-actually-look-like/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "41f965c412b7",
-    "title": "Turns to make a point",
-    "summary": "Michael Bremner is calling on fellow general aviation pilots to help him raise awareness of elder abuse, including financial crimes, and he plans to resume circling the famous piers in Santa Monica and Huntington Beach, California, on June 15 to mark World Elder Abuse Awarenes...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-06-04T21:51:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/04/turns-to-make-a-point?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dafb444ad482",
-    "title": "Alaska Airlines Strips Miles Earning For Basic Economy Passengers Starting This Summer",
-    "summary": "The change comes in a market where many legacy carriers have done the same.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-04T21:34:33Z",
-    "url": "https://simpleflying.com/alaska-airlines-strips-miles-earning-basic-economy-passenger-this-summer/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
