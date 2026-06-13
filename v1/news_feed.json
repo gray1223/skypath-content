@@ -1,5 +1,60 @@
 [
   {
+    "id": "4a56bca66077",
+    "title": "\u201cHold My Beer\u201d: United Airlines Boeing 737 Clears Bee Swarm On Wing During Takeoff In Cancun",
+    "summary": "A United Airlines 737's bee swarm delay highlights aviation's surprisingly serious insect hazards.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T22:03:38Z",
+    "url": "https://simpleflying.com/united-airlines-boeing-737-clears-bee-swarm-wing-takeoff-cancun/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d0501308f2ec",
+    "title": "Why Emirates Just Deleted 46 Seats From Its Densest Airbus A380",
+    "summary": "Few airlines today would see removing seats from an aircraft as a good idea, especially from an A380. Emirates has done just that, and for good reason",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T22:00:20Z",
+    "url": "https://simpleflying.com/why-emirates-just-deleted-46-seats-densest-airbus-a380/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d5fed4c7b27b",
+    "title": "The New Inflight Addition Hawaiian Airlines Passengers Are Raving About",
+    "summary": "Hawaiian Airlines is set to introduce new first class and premium economy products on its A330s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T21:30:21Z",
+    "url": "https://simpleflying.com/new-inflight-addition-hawaiian-airlines-passengers-are-raving-about/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "99cbee8b4253",
+    "title": "Why The Airbus A380's 4-Engine Layout Costs Airlines Millions More Per Year Than Twin-Engine Rivals",
+    "summary": "Once a symbol of the peak of aviation, today the A380 is seen more as a liability than an icon. The main reason for this is its four engine layout",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-12T21:30:21Z",
+    "url": "https://simpleflying.com/why-airbus-a380-4-engine-layout-cost-airlines-millions-more-per-year-twin-engine-rivals/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "26756a3787f0",
+    "title": "A Look At Why US Navy Pilot Total Compensation Quietly Rivals A Regional Airline First Officer",
+    "summary": "Regional airlines now offer their pilots far higher salaries then before.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-06-12T21:00:19Z",
+    "url": "https://simpleflying.com/look-why-us-navy-pilot-total-compensation-quietly-rivals-regional-airline-first-officer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "08bfc863e9b2",
     "title": "The Forgotten Widebody That Outsold The 747 On Medium-Haul Routes & Quietly Disappeared From Every Fleet",
     "summary": "Everyone knows about the Boeing 747, but there was another aircraft that outsold it for medium-haul routes and ushered in a new era of global flight.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-05T20:35:48Z",
     "url": "https://avweb.com/aviation-news/faa-urges-halt-falcon-field-landing-fees/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c4c0ea4adc78",
-    "title": "American Airlines' Massive Expansion: 9 New Routes Launch On 1 Day [Full List]",
-    "summary": "They are from three major hubs. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-05T20:00:19Z",
-    "url": "https://simpleflying.com/american-airlines-massive-expansion-9-new-routes-launch-on-1-day-full-list/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "20078cd34718",
-    "title": "How Pratt & Whitney's Game-Changing GTF Engine Created Problems Airlines Weren't Prepared For",
-    "summary": "The Pratt & Whitney GTF engine has grounded hundreds of aircraft and exposed vulnerabilities in the global engine maintenance industry.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-05T20:00:19Z",
-    "url": "https://simpleflying.com/how-pratt-whitney-game-changing-gtf-engine-create-problems-airlines-werent-prepared-for/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "298f1aefd1f6",
-    "title": "The Country That Desperately Needs Pilots But Won't Let Women Or Military Flyers Fill The Gap",
-    "summary": "Institutional inertia threatens to cripple the nation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-05T19:00:20Z",
-    "url": "https://simpleflying.com/country-desperately-needs-pilots-wont-let-women-military-flyers-fill-gap/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fa3bbdf835b2",
-    "title": "United\u2019s first Airbus A321XLR arrives in US ahead of summer 2026 debut",
-    "summary": "United Airlines\u2019 first Airbus A321XLR has arrived in the United States as the carrier prepares to put the&#8230; The post United\u2019s first Airbus A321XLR arrives in US ahead of summer 2026 debut appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-05T18:06:29Z",
-    "url": "https://www.aerotime.aero/articles/united-first-airbus-a321xlr-arrives-us",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6f169f8eec0c",
-    "title": "Why Do Pilots Spool Up Jet Engines Before Takeoff?",
-    "summary": "The answer lies in a fascinating dance of air, fire, and spinning blades.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-05T17:30:19Z",
-    "url": "https://simpleflying.com/why-do-pilots-spool-jet-engines-before-takeoff/",
     "airlineTag": null,
     "isBreaking": false
   }
