@@ -1,5 +1,71 @@
 [
   {
+    "id": "94d3601cb775",
+    "title": "The Airline That Made The Airbus A380 Iconic Just Quietly Dropped It On 11 Major Routes",
+    "summary": "Singapore Airlines, known for its luxurious Airbus A380s, has withdrawn the superjumbo from 11 key routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T19:00:20Z",
+    "url": "https://simpleflying.com/airline-made-airbus-a380-iconic-quietly-dropped-11-major-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ffd5a4be4d2",
+    "title": "JetBlue President Says Opening New Lounge In Fort Lauderdale Makes \u201cA lot Of Sense\u201d",
+    "summary": "JetBlue is considering a Fort Lauderdale lounge as part of its premium push, leveraging strong passenger demand and its growing South Florida hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T18:31:56Z",
+    "url": "https://simpleflying.com/jetblue-president-opening-new-lounge-fort-lauderdale-makes-a-lot-sense/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "711e2e550b72",
+    "title": "Ouch: Lufthansa Faces Six-Figure Bill As A380 With 500+ Onboard Diverts To Boston",
+    "summary": "While diversions are rare, they are expensive disruptions for airlines, particularly on routes operated by large aircraft like the A380.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-06-14T18:29:24Z",
+    "url": "https://simpleflying.com/lufthansa-a380-diverts-boston-500-passengers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71d432089e11",
+    "title": "Pilot \"Nearly Blinded\" By Trump's White House UFC Lights On Reagan Approach",
+    "summary": "A commercial pilot claims the intense lights were \"ten times worse than any laser.\"",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T17:29:45Z",
+    "url": "https://simpleflying.com/pilot-trump-white-house-ufc-lights-reagan-approach/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "23a79f567b21",
+    "title": "8-Hour Nonstop Flights: Alaska Airlines Launches Brand-New Boeing 737 MAX Route [Map]",
+    "summary": "The Anchorage to Boston service will be offered this summer.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T16:00:20Z",
+    "url": "https://simpleflying.com/8-hour-nonstop-flights-alaska-launches-new-737-max-route/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3397deb9c931",
+    "title": "The F-4 Phantom's Raw Power Is Exactly Why 60 Years Later No Modern Jet Has Fully Replaced It",
+    "summary": "The legacy of the iconic American 'muscle jet.'",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T15:00:22Z",
+    "url": "https://simpleflying.com/f-4-phantom-raw-power-exactly-why-60-years-later-no-modern-jet-replace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cb89aa91d012",
     "title": "Operational pilot flies Northrop Grumman B-21 Raider during historic test flight",
     "summary": "The United States Air Force (USAF) has confirmed that an operational pilot has flown a Northrop Grumman B-21 Raider&#8230; The post Operational pilot flies Northrop Grumman B-21 Raider during historic test flight appeared first on AeroTime.",
@@ -194,17 +260,6 @@
     "category": "industry",
     "publishedDate": "2026-06-13T17:01:20Z",
     "url": "https://simpleflying.com/airbus-must-deliver-84-jets-month-hit-2026-target/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "711e2e550b72",
-    "title": "Ouch: Lufthansa Faces Six-Figure Bill As A380 With 500+ Onboard Diverts To Boston",
-    "summary": "While diversions are rare, they are expensive disruptions for airlines, particularly on routes operated by large aircraft like the A380.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-06-13T15:56:14Z",
-    "url": "https://simpleflying.com/lufthansa-a380-diverts-boston-500-passengers/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -655,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T22:05:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T21:51:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T17:54:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1425,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-07T12:00:18Z",
     "url": "https://simpleflying.com/8-hour-nonstop-lot-polish-new-longest-737-max-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "81e21d44a957",
-    "title": "Singapore Airlines Adds Airbus A380 Flights On This Major Route [Map]",
-    "summary": "With Auckland rejoining the A380 network, Singapore Airlines will operate four A380 services to Australasia this winter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T11:01:18Z",
-    "url": "https://simpleflying.com/singapore-airlines-adds-a380-flights-major-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e122cff156b1",
-    "title": "This Airline's Premium Economy Has Best-In-Class Screens, But There's 1 Notable Gap",
-    "summary": "One Bold Move: Riyadh Air's premium economy cabin features massive 15.6-inch 4K OLED screens, but passengers share lavatories with the economy cabin.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T10:00:26Z",
-    "url": "https://simpleflying.com/airline-premium-economy-best-in-class-screens-1-notable-gap/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db0526618081",
-    "title": "Why US Military Pilot Salaries Still Can't Compete With The Airlines In 2026",
-    "summary": "US military pilots now earn far less than airline crews in 2026, and even $600,000 bonuses still cannot stop the growing exodus.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-06-07T07:00:18Z",
-    "url": "https://simpleflying.com/why-us-military-pilot-salaries-cant-compete-airlines-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8be84914b1c8",
-    "title": "5 Airports That Pilots Say Are The Most Technically Challenging To Land At",
-    "summary": "Steep mountain approaches, rapidly changing winds, narrow valleys, and short landing strips leave little room for mistakes at these five airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T00:00:20Z",
-    "url": "https://simpleflying.com/5-airports-pilots-most-technically-challenging-land/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d06a74fda8d4",
-    "title": "Why This New Aircraft Supercarrier Is Now Keeping The US Navy Up At Night",
-    "summary": "The leap in power of China's newest flat top.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-06T23:00:21Z",
-    "url": "https://simpleflying.com/why-new-aircraft-supercarrier-keeping-us-navy-up-night/",
     "airlineTag": null,
     "isBreaking": false
   }
