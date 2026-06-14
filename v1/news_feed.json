@@ -1,5 +1,60 @@
 [
   {
+    "id": "cb89aa91d012",
+    "title": "Operational pilot flies Northrop Grumman B-21 Raider during historic test flight",
+    "summary": "The United States Air Force (USAF) has confirmed that an operational pilot has flown a Northrop Grumman B-21 Raider&#8230; The post Operational pilot flies Northrop Grumman B-21 Raider during historic test flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-14T12:01:23Z",
+    "url": "https://www.aerotime.aero/articles/operational-pilot-flies-northrop-grumman-b-21-test-flight",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "62ca5838e613",
+    "title": "Royal Marines Commandos raid Russian shadow fleet oil tanker: video",
+    "summary": "Overnight, Royal Marine Commandos intercepted a Russian shadow fleet oil tanker in the English Channel using Chinooks, a&#8230; The post Royal Marines Commandos raid Russian shadow fleet oil tanker: video appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-14T11:14:27Z",
+    "url": "https://www.aerotime.aero/articles/royal-marines-commandos-raid-russian-shadow-fleet-oil-tanker-video",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8df03e5cae1a",
+    "title": "Indian Air Force releases names of five personnel killed in An-32 crash tragedy",
+    "summary": "The Indian Air Force (IAF) has released photos and the names of the five personnel killed in the&#8230; The post Indian Air Force releases names of five personnel killed in An-32 crash tragedy appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-14T10:22:04Z",
+    "url": "https://www.aerotime.aero/articles/indian-air-force-releases-names-of-five-personnel-killed-in-an-32-crash-tragedy",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3b91fb730115",
+    "title": "Sitting Comfortably? Airlink To Launch New 6.5-Hour Nonstop Flights [Map]",
+    "summary": "Starting in October, the airline will compete with Air Mauritius and South African Airways on the CPT-MRU route.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T10:10:58Z",
+    "url": "https://simpleflying.com/airlink-unveils-new-65-hour-embraer-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fc1d96d2e454",
+    "title": "36 Aging Widebodies, One 2030 Deadline: Inside Delta Air Lines' Boeing 767-300ER Phaseout Problem",
+    "summary": "The issue with replacing the 767-300ER on all routes, as well as the problem wth the 767-300ER's interiors.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-14T10:00:25Z",
+    "url": "https://simpleflying.com/inside-delta-air-lines-boeing-767-300er-phaseout-problem/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "35843d7c69d6",
     "title": "Riyadh Air completes first domestic commercial flight to Jeddah",
     "summary": "In another milestone for Riyadh Air, the startup airline has completed its first domestic commercial flight between the&#8230; The post Riyadh Air completes first domestic commercial flight to Jeddah appeared first on AeroTime.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-06-06T23:00:21Z",
     "url": "https://simpleflying.com/why-new-aircraft-supercarrier-keeping-us-navy-up-night/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "07a317b188ae",
-    "title": "Why Airlines Are Quietly Adding Hidden Fees To Business Class In 2026",
-    "summary": "Unbundling has been common practice in the back of the cabin, but now it is slowly making its way to the front. Now the next target is business class.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-06T22:00:21Z",
-    "url": "https://simpleflying.com/why-airlines-quietly-adding-hidden-fees-business-class-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ada2e941f60c",
-    "title": "Exclusive: Turkish Airlines Targets Nonstop Istanbul-Sydney With Airbus A350-1000s In 2027",
-    "summary": "While the carrier has its ultra-long-haul sights set, it is also mulling an expansion in the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-06T21:30:34Z",
-    "url": "https://simpleflying.com/exclusive-turkish-airlines-target-nonstop-istanbul-sydney-airbus-a350-1000s-2027/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ebe996c57375",
-    "title": "Inside The Math That Convinced Southwest Airlines To Finally Kill Open Seating",
-    "summary": "Southwest's long standing tradition of providing open seating came to an abrupt end. There was a reason for this however, particularly for economics.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-06-06T21:00:19Z",
-    "url": "https://simpleflying.com/math-convinced-southwest-finally-kill-open-seating/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d4fa496182cf",
-    "title": "Upgrade Or Replace? Why The US Air Force Is Reconsidering The F-15EX Over A New 5th-Gen Fighter",
-    "summary": "USAF expands F-15EX fleet to 267 jets as the Eagle II emerges as a key partner to the F-35 and future F-47 fighter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-06T20:00:20Z",
-    "url": "https://simpleflying.com/why-usaf-reconsidering-f-15ex-over-new-5th-gen-fighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c85ce3b0a09e",
-    "title": "14.5-Hour Flights: American Airlines Ends Longest-Ever Route From Philadelphia",
-    "summary": "The airline is ending flights to Doha from Philadelphia.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-06T19:15:19Z",
-    "url": "https://simpleflying.com/american-airlines-ends-longest-ever-route-from-philadelphia/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
