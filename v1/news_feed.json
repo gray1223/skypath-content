@@ -1,5 +1,82 @@
 [
   {
+    "id": "96309a54f468",
+    "title": "Paralyzed Pilot Goes Beyond His Limits",
+    "summary": "Grant Korgan rediscovers freedom in backcountry skies after a life-changing injury.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-15T12:00:00Z",
+    "url": "https://www.flyingmag.com/paralyzed-pilot-goes-beyond-his-limits/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c183b5d7f605",
+    "title": "Avincis orders up to 15 Airbus H145 helicopters for European fleet",
+    "summary": "Avincis, Europe\u2019s largest emergency aerial services operator, has signed a contract with Airbus Helicopters for up to 15&#8230; The post Avincis orders up to 15 Airbus H145 helicopters for European fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-15T11:13:38Z",
+    "url": "https://www.aerotime.aero/articles/avincis-orders-up-to-15-airbus-h145-helicopters-for-european-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4e303a078ae5",
+    "title": "Why The B-21 Raider Can Be Deployed To Forward Bases The B-2 Spirit Could Never Operate From",
+    "summary": "The Raider is designed to overcome the enormous logistical difficulties of the Spirit, but it also faces a much more dangerous forward deployed world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T10:00:24Z",
+    "url": "https://simpleflying.com/why-b21-raider-can-operate-from-bases-b2-cannot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ab29b2240979",
+    "title": "Etihad adds Krakow and Palma de Mallorca to growing European network",
+    "summary": "Etihad Airways has added two new European destinations to its growing network, inaugurating direct services to Krakow John&#8230; The post Etihad adds Krakow and Palma de Mallorca to growing European network appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-15T09:59:00Z",
+    "url": "https://www.aerotime.aero/articles/etihad-adds-krakow-and-palma-de-mallorca-to-growing-european-network",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8d0b34ca1f24",
+    "title": "Man Indicted After Live Bomb With 15-Minute Timer Found Before American Airlines Flight",
+    "summary": "The man's luggage also contained various blades.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T08:15:23Z",
+    "url": "https://simpleflying.com/american-airlines-bomb-15-minute-timer-sacramento-airport/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "517d83b01ed9",
+    "title": "Why Every One Of Dubai's New 400 Airport Gates Will Fit An Airbus A380",
+    "summary": "Dubai is about to get a major airport upgrade, one that has the fleet of Emirates in mind, with every gate being compatible with the superjumbo.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T07:00:19Z",
+    "url": "https://simpleflying.com/why-every-one-dubai-new-400-airport-gates-fit-airbus-a380/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20d3cc4e1786",
+    "title": "One Boeing 737 Every 3 Days: Alaska Airlines Wraps Up Fleet-Wide Premium Cabin Refresh",
+    "summary": "Alaska Airlines has closed the book on a massive fleet overhaul.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T05:05:15Z",
+    "url": "https://simpleflying.com/alaska-airlines-wraps-up-fleet-wide-premium-cabin-refresh/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "7ce08ff6733c",
     "title": "Here's How Much A US Marine Corps Major Pilot Actually Earns In 2026",
     "summary": "The mid-career experience of pilots in the USMC.",
@@ -787,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T22:05:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +886,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T21:51:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -919,7 +996,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T17:54:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1579,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-06-08T01:00:20Z",
     "url": "https://simpleflying.com/nato-nations-presidential-aircraft-ranked/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c92fb9bd5b90",
-    "title": "Only 5 Aircraft: British Airways Suspends Starlink Installations Until Later This Year",
-    "summary": "British Airways has paused Starlink retrofits after equipping only five aircraft, delaying its ambitious plan for fleet-wide free Wi-Fi.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T21:53:40Z",
-    "url": "https://simpleflying.com/british-airways-suspends-starlink-installations-later-this-year/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "10563b2720ef",
-    "title": "Why American Airlines' Longest-Ever Flight Needs Just 51 Business Class Suites To Pencil Out",
-    "summary": "The intricacies behind airline route economics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T21:00:20Z",
-    "url": "https://simpleflying.com/why-american-airlines-longest-ever-flight-needs-51-business-class-suites-pencil-out/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b10fadb9f65c",
-    "title": "Here's The Real Reason Airlines Keep Ordering Aircraft They Don't Need Yet",
-    "summary": "Getting orders in early can really shield airlines down the line.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T19:00:01Z",
-    "url": "https://simpleflying.com/real-reason-airlines-keep-ordering-aircaft-dont-need-yet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a9067011ed52",
-    "title": "United Airlines\u2019 CEO Slams Rolls-Royce, Says It Only Wins Orders Due To An Airbus A350 Monopoly",
-    "summary": "United\u2019s CEO criticised Rolls-Royce\u2019s A350 engine exclusivity and warned global engine shortages are grounding hundreds of aircraft worldwide.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T18:42:12Z",
-    "url": "https://simpleflying.com/united-airlines-ceo-slams-rolls-royce-only-wins-orders-airbus-a350-monopoly/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2e1f06b99142",
-    "title": "Willie Walsh fires broadside at OEMs, warns on aviation taxes in IATA farewell",
-    "summary": "As leaders of the airline industry gathered in Rio de Janeiro for the 82nd Annual General Meeting (AGM)&#8230; The post Willie Walsh fires broadside at OEMs, warns on aviation taxes in IATA farewell appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-07T18:24:55Z",
-    "url": "https://www.aerotime.aero/articles/willie-walsh-fires-broadside-at-oems-warns-on-aviation-taxes-in-iata-farewell",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "75afb478c308",
-    "title": "Why The Douglas DC-8 Outlasted The Boeing 707 By Decades",
-    "summary": "The DC-8, a rival to the Boeing 707, defied the odds and continued flying cargo missions well into the 2020s, outlasting its competitor by decades.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T18:00:19Z",
-    "url": "https://simpleflying.com/douglas-dc-8-outlast-boeing-707-decades/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f37223bf2699",
-    "title": "16-Hour Flights: Delta Air Lines Launches Brand-New Ultra-Long Route [Map]",
-    "summary": "Delta has launched a new daily Airbus A350-900 service between Los Angeles and Hong Kong, returning to the market after an eight-year absence.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-07T16:01:18Z",
-    "url": "https://simpleflying.com/16-hour-flights-delta-new-brand-new-ultra-long-route/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
