@@ -1,5 +1,104 @@
 [
   {
+    "id": "fb4e4e797146",
+    "title": "Training and Safety Tip: Seek crosswinds",
+    "summary": "When an airport is built (with few exceptions), its primary runway is aligned to the prevailing wind&mdash;the &nbsp;direction from which the wind most commonly blows&mdash;because airplanes and pilots (especially student pilots) are happiest taking off and landing into the wind.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-06-16T21:38:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/16/training-and-safety-tip-seek-crosswinds?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c4035de09302",
+    "title": "Hop-A-Jet Seeks to Bolster FAA Engine Corrosion AD",
+    "summary": "Charter operator urges regulators to close critical inspection loopholes following fatal Challenger 604 accident.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-16T16:43:27Z",
+    "url": "https://www.flyingmag.com/hop-a-jet-seeks-to-bolster-faa-engine-corrosion-ad/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "99e6297c61ba",
+    "title": "Why DC-10 Air Tanker Pilots Must Shove The Yoke Forward After Dropping 85,000 Pounds Of Retardant",
+    "summary": "What it takes to fly the biggest firefighting plane in the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T16:00:19Z",
+    "url": "https://simpleflying.com/why-dc-10-air-tanker-pilots-shove-yoke-forward-dropping-85000-pounds-retardant/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8f67dd2cda18",
+    "title": "Garmin Pilot Adds New Weather Tools",
+    "summary": "Daily Weather moves to mobile as Garmin also adds turbulence data and Database Concierge updates.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-16T15:34:20Z",
+    "url": "https://avweb.com/aviation-news/company-news/garmin-pilot-adds-new-weather-tools/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "018cb20204d0",
+    "title": "4 New Routes In 4 Days: Where Etihad Airways Flies Now [Map & List]",
+    "summary": "All of these corridors are served by narrowbody aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T13:00:18Z",
+    "url": "https://simpleflying.com/4-new-routes-4-days-etihad-airways-growth/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8cb2ffa0db20",
+    "title": "Uncertified Flight Instructor Sentenced to Prison Following Fatal Crash",
+    "summary": "Philip Everton McPherson II received six and a half years behind bars for involuntary manslaughter.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-16T13:00:00Z",
+    "url": "https://www.flyingmag.com/uncertified-flight-instructor-sentenced-to-prison-following-fatal-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "839870c36776",
+    "title": "British Airways Boeing 787 Pilot Reports 'Scorched' Cabin After Mid-Air Phone Fire",
+    "summary": "The flight landed safely and punctually despite the fire.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T12:59:17Z",
+    "url": "https://simpleflying.com/british-airways-boeing-787-phone-fire-las-vegas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5409388398dd",
+    "title": "Singapore Airlines appoints veteran lawyer Adrian Chan Pengee to its board",
+    "summary": "Singapore Airlines (SIA) has appointed Adrian Chan Pengee as an independent Non-Executive Director.The appointment took effect on June&#8230; The post Singapore Airlines appoints veteran lawyer Adrian Chan Pengee to its board appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-16T12:08:25Z",
+    "url": "https://www.aerotime.aero/articles/singapore-airlines-appoints-veteran-lawyer-adrian-chan-pengee-to-its-board",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a1dd8aa38e1f",
+    "title": "When the Learner Is Successful, the CFI Shares the Joy",
+    "summary": "Acknowledging progress\u2014no matter how small\u2014is essential for building endurance and confidence in the cockpit.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-16T12:00:00Z",
+    "url": "https://www.flyingmag.com/when-the-learner-is-successful-the-cfi-shares-the-joy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "db0a449109fa",
     "title": "The Pricing Playbook That Lets This Airline Outcharge Emirates & Qatar Airways On Identical Routes",
     "summary": "The airline that outcharges Emirates and Qatar on the same routes has built a pricing playbook that few can match, thanks to a combination of factors.",
@@ -51,6 +150,17 @@
     "category": "industry",
     "publishedDate": "2026-06-16T08:06:34Z",
     "url": "https://www.aerotime.aero/articles/avincis-airbus-h145-order-leonardo-helicopters",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9216a9256aea",
+    "title": "The US Air Force Retired Its Last A-10 Warthog From South Korea: Here's What Fills The Gap",
+    "summary": "Why the A-10's role is not being directly replaced and why debate is whether its role is disappearing or evolving.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T08:00:19Z",
+    "url": "https://simpleflying.com/usaf-retired-last-a-10-warthod-what-fills-gap/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-06-09T13:42:19Z",
     "url": "https://www.flyingmag.com/why-consistent-study-defines-great-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0811c1de1987",
-    "title": "RAAF C-27J Spartan deploys to Cook Islands for Pacific surveillance mission",
-    "summary": "A Royal Australian Air Force (RAAF) C-27J Spartan conducted aerial surveillance missions over waters near the Cook Islands&#8230; The post RAAF C-27J Spartan deploys to Cook Islands for Pacific surveillance mission appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-09T12:34:33Z",
-    "url": "https://www.aerotime.aero/articles/raaf-c-27j-spartan-deploys-to-cook-islands-for-pacific-surveillance-mission",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "408300193b17",
-    "title": "Vertical\u2019s newest full-scale eVTOL prototype takes first piloted flight",
-    "summary": "Vertical Aerospace\u2019s newest, and last, full-scale electric vehicle takeoff and landing (eVTOL) prototype has taken its first piloted&#8230; The post Vertical\u2019s newest full-scale eVTOL prototype takes first piloted flight appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-09T12:21:40Z",
-    "url": "https://www.aerotime.aero/articles/verticals-newest-full-scale-evtol-prototype-takes-first-piloted-flight",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "78508353b02c",
-    "title": "Air Canada addresses penalty given to ex-pilot who flew without correct license",
-    "summary": "Air Canada has addressed a monetary penalty imposed by Transport Canada on a former pilot who had been&#8230; The post Air Canada addresses penalty given to ex-pilot who flew without correct license appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-09T12:13:59Z",
-    "url": "https://www.aerotime.aero/articles/air-canada-addresses-penalty-given-to-ex-pilot-who-flew-without-correct-license",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4083b372ba29",
-    "title": "Lufthansa Expands: 9 New Routes For The Summer [Map & List]",
-    "summary": "They're from both its Frankfurt and Munich hubs. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T11:01:17Z",
-    "url": "https://simpleflying.com/lufthansa-expands-9-new-routes-for-the-summer-map-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bc0b15f83a48",
-    "title": "Pentagon adds Cirrus Aircraft to list of Chinese military companies",
-    "summary": "The US Department of Defense has added Cirrus Design Corporation, the Duluth, Minnesota-based aircraft manufacturer that does business&#8230; The post Pentagon adds Cirrus Aircraft to list of Chinese military companies appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-09T06:41:30Z",
-    "url": "https://www.aerotime.aero/articles/cirrus-pentagon-chinese-military-company-list",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e35eb704eb2",
-    "title": "Spitfires, F-16s & Red Arrows: Inside The Hellenic Air Force\u2019s 95th Anniversary Flypast",
-    "summary": "Greece is a great place not just for beach and history lovers, but also for aviation fans!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T05:00:18Z",
-    "url": "https://simpleflying.com/hellenic-air-force-95th-anniversary-spitfires-f16-red-arrows/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f9cfceecb4d8",
-    "title": "How American, Delta & United Airlines Quietly Adopted Identical Loyalty Math For 2026",
-    "summary": "American AAdvantage, Delta SkyMiles, and United MileagePlus have converged on functionally identical revenue-based earning structures.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T01:00:20Z",
-    "url": "https://simpleflying.com/how-american-delta-united-quietly-adopted-identical-loyalty-math-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "70f3f9af7515",
-    "title": "Southwest, Singapore Airlines launch single-ticket connection partnership",
-    "summary": "Southwest Airlines and Singapore Airlines have launched a partnership allowing passengers to book single-ticket trips connecting Singapore Airlines\u2019 long-haul&#8230; The post Southwest, Singapore Airlines launch single-ticket connection partnership appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-09T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/southwest-singapore-airlines-single-ticket-connections",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1410a5cf092c",
-    "title": "First Look: Inside American Airlines\u2019 $3 Billion, 9 Gate Expansion At Dallas-Fort Worth",
-    "summary": "AA pulls back the curtain on the iconic carrier's future.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T00:30:20Z",
-    "url": "https://simpleflying.com/american-airlines-3-billion-9-gate-expansion-dfw/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1cb8ae88b485",
-    "title": "Why Full Power Takeoffs Aren't Necessary Most Of The Time",
-    "summary": "Airlines don\u2019t always use full thrust for takeoff, often reducing power to protect engines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T00:00:20Z",
-    "url": "https://simpleflying.com/why-full-power-takeoff-arent-necessary-most-time/",
     "airlineTag": null,
     "isBreaking": false
   }
