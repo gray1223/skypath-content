@@ -1,5 +1,104 @@
 [
   {
+    "id": "4599b870322e",
+    "title": "American Airlines Maintenance Technician Climbs Through Window After Pilots Locked Out Of Cockpit",
+    "summary": "An unusual issue delays push back.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T02:49:10Z",
+    "url": "https://simpleflying.com/american-airlines-technician-climbs-window-pilots-locked-out-cockpit/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1b952c117623",
+    "title": "Why Production Of The World's Most Environmentally Sound Mid-Size Freighter Will Soon Cease To Exist",
+    "summary": "The Boeing 767-300F has been a cornerstone of global air cargo for nearly three decades, but new environmental standards are set to end production.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T02:01:12Z",
+    "url": "https://simpleflying.com/why-production-worlds-most-environmentally-sound-mid-size-freighter-cease-to-exist/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "33156c25926f",
+    "title": "A Look At The Salaries Of America's Forgotten Turboprop Regional Pilots In 2026",
+    "summary": "Regional jet pilots now start at six figures. Turboprop and piston pilots are still waiting for that same pay revolution.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-16T00:00:19Z",
+    "url": "https://simpleflying.com/look-salaries-america-forgotten-turboprop-regional-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "395a6628d3fd",
+    "title": "Quietly Canceled: Why Boeing Got Rid Of 777-300ER Production",
+    "summary": "The aircraft remains an integral part in many fleets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T22:00:19Z",
+    "url": "https://simpleflying.com/why-boeing-got-rid-777-300er-production/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6335ee7f9954",
+    "title": "All-Business-Class Airline Beond Asks Employees to Keep Working Despite Months Without Pay",
+    "summary": "Beond has asked employees to keep working while awaiting a Saudi lifeline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T21:32:39Z",
+    "url": "https://simpleflying.com/beond-employees-work-months-without-pay/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b8c8724c925a",
+    "title": "How Much Do F-35 Pilots Earn Compared To F-22 Pilots In 2026?",
+    "summary": "Why 5th-generation fighter jet pilots earn the same base pay as every other officer of the same rank and years of service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T21:00:19Z",
+    "url": "https://simpleflying.com/how-much-f-35-pilots-earn-compared-f-22-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "109fb40a3ea1",
+    "title": "FAA Reportedly Snubs Palantir, Thales for AI-Based Air Traffic Management",
+    "summary": "Agency said to be close to deciding who will build its Strategic Management of Airspace Routing Trajectories (SMART) platform.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-15T21:00:00Z",
+    "url": "https://www.flyingmag.com/faa-smart-ai-air-traffic-system-contract/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "510973477bc3",
+    "title": "Singapore Airlines 737 MAX Bursts Tire Upon Landing, Shuts Down Runway For Hours",
+    "summary": "A Boeing 737 MAX 8 operated by Singapore Airlines suffered a double tire failure upon landing at Kuala Lumpur International Airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-15T20:58:58Z",
+    "url": "https://simpleflying.com/massive-singapore-airlines-737-max-bursts-tire-shuts-runway/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5afc88f7ebb4",
+    "title": "Eight Believed Killed in B-52 Crash",
+    "summary": "Strategic bomber went down near Edwards Air Force Base on Monday.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-15T20:13:12Z",
+    "url": "https://www.flyingmag.com/breaking-b-52-crashes-in-california/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2deb6189d6e8",
     "title": "NetJets Petitions FAA For Longer Crew Duty Periods",
     "summary": "The petition would allow extended crew duty hours for Global 7500 operations.",
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-06-08T18:00:19Z",
     "url": "https://simpleflying.com/delta-air-lines-expands-launches-4-new-routes-in-just-2-days/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "8f3cbfdcfed2",
-    "title": "How A Sub-30-Minute Turn Time Makes A First Class Cabin Uneconomic For Southwest Airlines",
-    "summary": "The airline is evolving, but it still holds onto the core values that define its operation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T18:00:19Z",
-    "url": "https://simpleflying.com/how-sub-30-minute-turn-time-first-class-cabin-uneconomic-southwest-airlines/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "40f9c709df78",
-    "title": "The 11 Knots That Separated Frontier Airlines Flight 4345 From Catastrophe In Denver",
-    "summary": "A few seconds can separate a rejected takeoff and a single-engine rotation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T17:00:19Z",
-    "url": "https://simpleflying.com/11-knots-separated-frontier-airlines-flight-4345-catastrophe-denver/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c8c4b717ab3e",
-    "title": "The Ex-Qatari Boeing 747-8 Is Almost Complete: Here's When It Will Replace Air Force One",
-    "summary": "The former Qatari Boeing 747-8 has completed testing and is to enter service as Air Force One before July 4, ahead of the delayed VC-25B fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T16:00:19Z",
-    "url": "https://simpleflying.com/ex-qatari-boeing-747-8-almost-complete-when-replace-air-force-one/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cef3f619e077",
-    "title": "Turkish Airlines' Massive Growth: Set To Launch 3 New US Routes [List]",
-    "summary": "The carrier plans flights to three more US cities, with only one previously revealed. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T15:05:19Z",
-    "url": "https://simpleflying.com/turkish-airlines-massive-growth-set-to-launch-3-new-us-routes-list/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08a5b656f858",
-    "title": "The 5 Most Advanced Military Drones In Service Today",
-    "summary": "A closer look at some of the deadliest remote controlled planes in the sky.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T14:00:19Z",
-    "url": "https://simpleflying.com/5-most-advanced-military-drones-service-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0621c43ffc9e",
-    "title": "Etihad and TAROM open codeshare ahead of new Abu Dhabi-Bucharest service",
-    "summary": "Etihad Airways and TAROM, the national airline of Romania, have signed a codeshare agreement that opens up connections&#8230; The post Etihad and TAROM open codeshare ahead of new Abu Dhabi-Bucharest service appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-08T13:26:44Z",
-    "url": "https://www.aerotime.aero/articles/etihad-and-tarom-open-codeshare-ahead-of-new-abu-dhabi-bucharest-service",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e5640b32837f",
-    "title": "Why 22 Russian-Built Jets Have Sat Rotting At Mexican Airports Since 2020",
-    "summary": "Why are Interjet's Sukhoi Superjets still parked in Mexico? Exploring the fleet's unusual journey and uncertain future.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T13:00:19Z",
-    "url": "https://simpleflying.com/why-22-russian-built-jets-have-sat-rotting-at-mexican-airports-since-2020/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "749fbd1151ec",
-    "title": "The logistics of keeping Australia\u2019s eight C-17A Globemasters in the air",
-    "summary": "Australia\u2019s fleet of eight Boeing C-17A Globemaster III aircraft is the backbone of the country\u2019s strategic airlift capability. &#8230; The post The logistics of keeping Australia\u2019s eight C-17A Globemasters in the air appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-08T12:43:14Z",
-    "url": "https://www.aerotime.aero/articles/the-logistics-of-keeping-australias-eight-c-17a-globemasters-in-the-air",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5f3cb5ff3660",
-    "title": "End Of An Era: Icelandair Accelerates Boeing 757 Retirement To This Winter",
-    "summary": "Icelandair is bringing forward the end of one of the most important aircraft chapters in its history. The Icelandic flag carrier, long associated with the Boeing 757 and its ability to connect smaller European and North American markets through Keflavik Airport, now plans to r...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-08T12:27:19Z",
-    "url": "https://simpleflying.com/video/end-of-an-era-icelandair-accelerates-boeing-757-retirement-to-this-winter/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
