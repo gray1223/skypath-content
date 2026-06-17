@@ -1,5 +1,38 @@
 [
   {
+    "id": "0180307e4fa9",
+    "title": "American Airlines Steps In After British Airways Won't Fly Solo Wheelchair Passenger",
+    "summary": "Reportedly, this was caused by concerns that crew might not be able to assist the passenger to and from the lavatory or help in case of an evacuation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T10:39:24Z",
+    "url": "https://simpleflying.com/american-airlines-british-airways-solo-wheelchair-passenger/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dbf85be8900b",
+    "title": "NetJets Cessna 680 Citation Latitude executive jet crashes on Texas highway",
+    "summary": "A Cessna 680 Citation Latitude executive jet (registration N523QS) operated by NetJets crashed on the Loop 20 highway,&#8230; The post NetJets Cessna 680 Citation Latitude executive jet crashes on Texas highway appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-17T09:46:32Z",
+    "url": "https://www.aerotime.aero/articles/netjets-cessna-680-citation-latitude-executive-jet-crashes-on-texas-highway",
+    "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "675f7d643aa7",
+    "title": "Lufthansa Technik to build second Philippine facility at Clark Airport",
+    "summary": "Lufthansa Technik Philippines is set to grow its presence in the country with a new base maintenance facility&#8230; The post Lufthansa Technik to build second Philippine facility at Clark Airport appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-17T09:30:39Z",
+    "url": "https://www.aerotime.aero/articles/lufthansa-technik-to-build-second-philippine-facility-at-clark-airport",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cf250709a7b9",
     "title": "How US Fighter Pilot Salaries Compare With Other Leading Nations In 2026",
     "summary": "The reward for service in the leading air powers.",
@@ -2163,39 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-06-09T21:35:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "df59ae1b5bd0",
-    "title": "American Airlines, Google sign record sustainable aviation fuel deal",
-    "summary": "American Airlines and Google have signed a three-year sustainable aviation fuel (SAF) agreement covering 35 million gallons of&#8230; The post American Airlines, Google sign record sustainable aviation fuel deal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-09T20:25:27Z",
-    "url": "https://www.aerotime.aero/articles/american-google-sustainable-aviation-fuel-deal",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1d935fd4aef3",
-    "title": "American Airlines, Google Sign SAF Agreement",
-    "summary": "The companies say the agreement will support 35 million gallons of sustainable aviation fuel over three years.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-09T20:03:37Z",
-    "url": "https://avweb.com/aviation-news/american-airlines-google-saf-agreement/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "871ef6303ff2",
-    "title": "Airbus Vs. Boeing: Which Manufacturer Delivered More Aircraft In May?",
-    "summary": "As both manufacturers aim for higher production rates, May's delivery figures provide an important snapshot of the current standing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T20:00:40Z",
-    "url": "https://simpleflying.com/airbus-vs-boeing-which-manufacturer-delivered-more-aircraft-in-may/",
     "airlineTag": null,
     "isBreaking": false
   }
