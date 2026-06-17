@@ -1,5 +1,93 @@
 [
   {
+    "id": "da91912c8071",
+    "title": "Hop-A-Jet Urges FAA To Expand Engine Corrosion Mandate",
+    "summary": "Hop-A-Jet is calling on the FAA to expand proposed CF34 engine inspection requirements and close what it describes as gaps in corrosion detection and reporting.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-17T15:08:33Z",
+    "url": "https://avweb.com/aviation-news/hop-a-jet-corrosion-inspections/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "608cb5e9a8ab",
+    "title": "Can Student Pilots Fly Through Military Airspace?",
+    "summary": "It\u2019s just a matter of understanding the rules and ATC requirements for transitioning through the controlled corridor during training.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-17T15:00:00Z",
+    "url": "https://www.flyingmag.com/can-student-pilots-fly-through-military-airspace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d20103eb8b61",
+    "title": "New details emerge in B-52 crash at Edwards Air Force Base that killed eight",
+    "summary": "Fresh details are emerging about the final moments of a fatal B-52 Stratofortress crash at Edwards Air Force&#8230; The post New details emerge in B-52 crash at Edwards Air Force Base that killed eight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-17T14:44:58Z",
+    "url": "https://www.aerotime.aero/articles/edwards-b-52-crash-new-details-eight-killed",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0e2252b94771",
+    "title": "Drunk Crew Causes 30% Pay Cut For A Major Airline CEO",
+    "summary": "JAL cabin crew breached alcohol rules on a layover, leading to a failed pre-flight test, a 40-minute delay, and a wider internal investigation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T14:28:18Z",
+    "url": "https://simpleflying.com/japan-airlines-ceo-pay-cut-drunk-crew/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39fc41e6d191",
+    "title": "Here's What An Extra Inch Of Legroom Actually Costs On A New York-Tokyo Flight",
+    "summary": "The pricing dynamics between the American and Japanese airlines in this lucrative market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T14:00:20Z",
+    "url": "https://simpleflying.com/what-extra-inch-legroom-actually-costs-new-york-tokyo-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "737f4f5a46c7",
+    "title": "One Dead In NetJets Accident In Texas",
+    "summary": "The Cessna 680A had diverted from a flight to Austin before the accident on Loop 20.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-06-17T13:48:22Z",
+    "url": "https://avweb.com/flight-safety/accidents-ntsb/one-dead-netjets-accident-texas/",
+    "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "350a4c9dd6dd",
+    "title": "When the Sky Had No Ceiling for Pilots",
+    "summary": "Book chronicles All-Woman Transcontinental Air Race participants helping define a special generation of aviation.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-17T13:00:00Z",
+    "url": "https://www.flyingmag.com/when-the-sky-had-no-ceiling-for-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "303cb56b5228",
+    "title": "18-Hours Nonstop: United Airlines' Longest Route In 2026",
+    "summary": "When ranking using maximum block time, which includes taxiing at both ends of a route, the flight time, and a short period for delays, San Francisco to Singapore is United\u2019s longest nonstop service at 17 hours and 40 minutes (during our examined period).",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T12:28:19Z",
+    "url": "https://simpleflying.com/video/18-hours-nonstop-united-airlines-longest-route-in-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "0180307e4fa9",
     "title": "American Airlines Steps In After British Airways Won't Fly Solo Wheelchair Passenger",
     "summary": "Reportedly, this was caused by concerns that crew might not be able to assist the passenger to and from the lavatory or help in case of an evacuation.",
@@ -50,7 +138,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-16T21:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/16/training-and-safety-tip-seek-crosswinds?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/16/training-and-safety-tip-seek-crosswinds?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1568,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T22:05:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1590,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T21:51:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1612,7 +1700,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T17:54:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-06-10T03:29:35Z",
     "url": "https://simpleflying.com/united-airlines-long-haul-wifi-first-777-starlink-retrofit/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "428eccb8d20b",
-    "title": "The Aircraft Set To Replace The Largest Quadjet In The World",
-    "summary": "The A380 is no longer a viable aircraft in many airline's fleets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T02:15:19Z",
-    "url": "https://simpleflying.com/aircraft-set-to-replace-largest-quadjet-in-world/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b4f824bdd1bc",
-    "title": "How The Airline That Invented Business Class Beds Continues To Reinvent Them Decades Later",
-    "summary": "British Airways invented the lie-flat business class bed in 2000. Three generations later, the airline is still reinventing it.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T01:00:19Z",
-    "url": "https://simpleflying.com/airline-invented-business-class-beds-reinvent-decades-later/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5a3dc8a63f98",
-    "title": "Why Southwest Airlines Won't Even Bat An Eye At The Boeing 737 MAX 9 Or MAX 10",
-    "summary": "The carrier is all about smaller 737s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T00:00:20Z",
-    "url": "https://simpleflying.com/why-southwest-airlines-wont-even-bat-eye-boeing-737-max-9-max-10/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "43098d3e1034",
-    "title": "Air Canada Captain Arrested & Fired After Flying Without Required Pilot\u2019s License",
-    "summary": "Former Air Canada captain accused of flying 900 flights without the required airline transport license.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T23:04:53Z",
-    "url": "https://simpleflying.com/air-canada-captain-arrested-fired-flying-without-pilot-license/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a49d3dabe9ee",
-    "title": "70 Frequent Flyers Race To All 7 United Airlines Hubs In 1 Day, With Some Controversial Help",
-    "summary": "United has one of the largest commercial networks in the world.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T22:51:35Z",
-    "url": "https://simpleflying.com/70-frequent-flyers-race-7-united-airlines-hub-controversial/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0841a38e6253",
-    "title": "Southwest Unlocks Over 130 Destinations With New Singapore Airlines Interline Agreement",
-    "summary": "Southwest's new Singapore Airlines partnership unlocks 130+ global destinations, marking its fourth international airline agreement in a year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T22:20:23Z",
-    "url": "https://simpleflying.com/southwest-singapore-airlines-interline-agreement-130-destinations/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5cf700dd0a0e",
-    "title": "How This Airline Made Transatlantic Low-Cost Flights Work",
-    "summary": "While low-cost long-haul operators continue to struggle, IAG appears to have found a key to profitability on low-cost transatlantic flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-09T22:00:19Z",
-    "url": "https://simpleflying.com/how-airline-made-transatlantic-low-cost-flights-work/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d45879dbf684",
-    "title": "Training and Safety Tip: Prepare your passengers",
-    "summary": "I recently flew with a first-time single-engine piston aircraft passenger. My plan was to do an hourlong local sightseeing flight, a route that I had done numerous times before and knew well.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-06-09T21:35:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/09/training-and-safety-tip-prepare-your-passengers?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
