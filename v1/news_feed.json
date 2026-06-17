@@ -1,5 +1,137 @@
 [
   {
+    "id": "a973ab925ca3",
+    "title": "More Cuts: JetBlue Abruptly Drops 2 Cross-Country Routes & Will Close Newark Crew Base",
+    "summary": "Although two routes are being discontinued, another transcontinental flight will return after a long break.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-06-17T20:07:29Z",
+    "url": "https://simpleflying.com/jetblue-drop-2-cross-country-routes-newark-base-closure/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "d1cfa4fece7e",
+    "title": "Allegiant Air's Massive Expansion: Launches 27 New Routes To Florida [Interactive Map]",
+    "summary": "They involve nine Florida airports. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T20:01:22Z",
+    "url": "https://simpleflying.com/allegiant-airs-massive-expansion-27-new-routes-to-florida/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a9132b504b4d",
+    "title": "Alaska\u2019s Horizon Air Flight Attendants Threaten Strike After 99.8% Vote Authorization",
+    "summary": "Horizon flight attendants backed strike authorization, increasing pressure on Alaska Air Group contract talks.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T19:55:01Z",
+    "url": "https://simpleflying.com/alaska-horizon-air-flight-attendants-threaten-strike-vote-authorization/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59c326e5b2a2",
+    "title": "A Full Breakdown Of What UK Commercial Airline Pilots Actually Take Home In 2026",
+    "summary": "Becoming a pilot remains one of Britain's most lucrative career paths in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T19:00:08Z",
+    "url": "https://simpleflying.com/full-breakdown-what-uk-commercial-airline-pilots-take-home-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc2ea8255b08",
+    "title": "Winnebago County Approves Hangar Expansion At Wittman Regional Airport",
+    "summary": "The move is expected to expand general aviation and business aviation capacity in Oshkosh.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-17T19:00:00Z",
+    "url": "https://avweb.com/aviation-news/wittman-regional-airport-hangar-expansion/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bcfcc65e2d0f",
+    "title": "NetJets Crash in Texas Kills 1, Injures 5",
+    "summary": "Capital Factory CEO dies when Cessna Citation Latitude goes down on Laredo highway.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-17T19:00:00Z",
+    "url": "https://www.flyingmag.com/netjets-crash-in-texas-kills-1-injures-5/",
+    "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "a0a5d87ae812",
+    "title": "Projected oil glut could give airlines a major fuel-cost tailwind in 2027",
+    "summary": "Airlines could see meaningful fuel-cost relief in 2027 if a projected rebound in global oil supply turns this&#8230; The post Projected oil glut could give airlines a major fuel-cost tailwind in 2027 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-17T18:50:49Z",
+    "url": "https://www.aerotime.aero/articles/projected-2027-oil-glut-airline-fuel-cost-tailwind",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c6fe66bc3b94",
+    "title": "Spirit Airlines\u2019 LaGuardia Slots Are Worth $87 Million, But Maybe Not To Budget Carriers",
+    "summary": "The 22 daily flight slots at New York's LaGuardia Airport, once held by Spirit Airlines, could be worth as much as $87 million.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T18:21:53Z",
+    "url": "https://simpleflying.com/spirit-airlines-laguardia-slots-87-million-not-budget-carriers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c57dd11e3e01",
+    "title": "Embry-Riddle Faces Pushback Over Rural Airstrip Training Plan",
+    "summary": "Residents have voiced concerns about noise, traffic, and environmental impact as the proposal moves through local review.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-17T18:08:11Z",
+    "url": "https://avweb.com/aviation-news/embry-riddle-airstrip-training-opposition/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eadea6666728",
+    "title": "The Career Advantage Hiding in Plain Sight at US Aviation Academy",
+    "summary": "Landmark Air Force contract creates employment pipeline most flight schools can't match.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-17T17:58:45Z",
+    "url": "https://www.flyingmag.com/the-career-advantage-hiding-in-plain-sight-at-us-aviation-academy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4af44f6a193",
+    "title": "Horizon Air flight attendants vote overwhelmingly to authorize strike",
+    "summary": "Horizon Air flight attendants have voted to authorize a strike as contract negotiations continue with the Alaska Air&#8230; The post Horizon Air flight attendants vote overwhelmingly to authorize strike appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-17T17:28:49Z",
+    "url": "https://www.aerotime.aero/articles/horizon-air-flight-attendants-strike-vote",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3a28ba7f8c97",
+    "title": "Report: FAA, Airlines Must Do More to Protect Crews From Radiation",
+    "summary": "Doses are low on individual flights, but additional research is needed to understand health impacts from exposure.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-17T17:00:00Z",
+    "url": "https://www.flyingmag.com/report-faa-airlines-crew-radiation-exposure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "da91912c8071",
     "title": "Hop-A-Jet Urges FAA To Expand Engine Corrosion Mandate",
     "summary": "Hop-A-Jet is calling on the FAA to expand proposed CF34 engine inspection requirements and close what it describes as gaps in corrosion detection and reporting.",
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-06-10T14:01:19Z",
     "url": "https://simpleflying.com/us-navy-vs-us-air-force-pilot-salaries-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1c362de77df4",
-    "title": "Air Canada Captain Accused Of Flying Without ATP",
-    "summary": "Canadian authorities allege the former captain spent nearly 17 years flying without holding an airline transport pilot license.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-10T13:41:03Z",
-    "url": "https://avweb.com/aviation-news/air-canada-captain-17-years-without-atpl/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bf560a71180b",
-    "title": "Qantas and Jetstar to launch flights from Western Sydney International Airport",
-    "summary": "Jetstar will become the first commercial airline to operate from Western Sydney International Airport (WSI) when it launches&#8230; The post Qantas and Jetstar to launch flights from Western Sydney International Airport appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-10T12:37:31Z",
-    "url": "https://www.aerotime.aero/articles/qantas-and-jetstar-to-launch-flights-from-western-sydney-international-airport",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e6f006e64dd5",
-    "title": "The Aircraft Replacing The Iconic Boeing 747 Freighter",
-    "summary": "A look at the the next heavy hauler of the sky.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T12:30:20Z",
-    "url": "https://simpleflying.com/the-aircraft-replacing-boeing-747-freighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4bcdb31a6a9",
-    "title": "\u201cSupply Chain Issues\u201d Further Delay Qantas' First Airbus A350-1000ULR",
-    "summary": "The highly anticipated ultra-long-range (ULR) Airbus A350-1000 in development to join Qantas' fleet is facing another delay due to undisclosed \"supply chain issues,\" according to Airbus. Bloomberg News reported early Monday May 25th that the first A350-1000ULR is expected to a...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T12:26:21Z",
-    "url": "https://simpleflying.com/video/supply-chain-issues-further-delay-qantas-first-airbus-a350-1000ulr/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3664c3fb5471",
-    "title": "Where Does Lufthansa Fly The Airbus A380? The Complete 8-Route List [Map]",
-    "summary": "A brand-new route will see the type next month. Find out where the airline will be flying here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T12:00:21Z",
-    "url": "https://simpleflying.com/where-does-lufthansa-fly-the-airbus-a380-the-complete-8-route-list-map/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fe50cadc7c23",
-    "title": "Aviation Fuel-ishness Can\u2019t Be Overlooked",
-    "summary": "Coming up dry often isn't an FAA violation, but it's always a tragic failure of pilot planning.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-10T12:00:00Z",
-    "url": "https://www.flyingmag.com/aviation-fuel-ishness-cant-be-overlooked/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c3097de181a",
-    "title": "Boeing delivers 51 737 MAXs in May following damaged wiring holdup",
-    "summary": "Boeing has posted its latest delivery and order data, revealing that the US aircraft manufacturer delivered over 50&#8230; The post Boeing delivers 51 737 MAXs in May following damaged wiring holdup appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-10T10:45:17Z",
-    "url": "https://www.aerotime.aero/articles/boeing-delivers-737-max-aircraft-may-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4798c4aef79e",
-    "title": "France orders multi-layer ASTER/MICA VL version of SAMP/T NG air defense",
-    "summary": "France has ordered the development of a multi-layer version of the SAMP/T NG air defense system that will&#8230; The post France orders multi-layer ASTER/MICA VL version of SAMP/T NG air defense appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-10T10:19:30Z",
-    "url": "https://www.aerotime.aero/articles/france-samp-t-ng-multi-layer-aster-mica-vl",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "578f2bb34391",
-    "title": "Romania orders seven H160 and five H145 Airbus helicopters under EU SAFE program",
-    "summary": "Airbus Helicopters has signed a contract with the Romanian Ministry of Internal Affairs for 12 multirole helicopters: seven&#8230; The post Romania orders seven H160 and five H145 Airbus helicopters under EU SAFE program appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-10T10:00:42Z",
-    "url": "https://www.aerotime.aero/articles/romania-orders-seven-h160-and-five-h145-airbus-helicopters-under-eu-safe-program",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "07af6720374d",
-    "title": "US Air Force says KC-46 vision system is fixed, production rollout in 2028",
-    "summary": "The US Air Force believes the most persistent defect of the Boeing KC-46A Pegasus has finally been resolved,&#8230; The post US Air Force says KC-46 vision system is fixed, production rollout in 2028 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-10T07:33:24Z",
-    "url": "https://www.aerotime.aero/articles/kc-46-vision-system-fixed-production-2028",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f5953494855a",
-    "title": "The Real Reason Pilots Sometimes Fly A Longer Route On Purpose",
-    "summary": "The actual flight path an aircraft flies is determined by several factors ranging from efficiency to flight safety and even geopolitics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T05:00:18Z",
-    "url": "https://simpleflying.com/real-reason-pilots-sometimes-fly-longer-route-purpose/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac5029a3d429",
-    "title": "United Airlines Edges Ahead In Long-Haul Wi-Fi Race With First 777 Starlink Retrofit",
-    "summary": "United's new network upgrades take a big step forward.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T03:29:35Z",
-    "url": "https://simpleflying.com/united-airlines-long-haul-wifi-first-777-starlink-retrofit/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
