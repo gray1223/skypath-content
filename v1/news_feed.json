@@ -1,5 +1,60 @@
 [
   {
+    "id": "8231cbce3d83",
+    "title": "FAA To Introduce \u201cNew Flight Procedure\u201d In San Francisco After Banning Parallel Landings",
+    "summary": "The FAA is working to keep safety high and improve efficiency at SFO.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T02:10:42Z",
+    "url": "https://simpleflying.com/faa-introduce-new-flight-procedure-san-francisco-banning-parallel-landings/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ca040c690a5e",
+    "title": "Why Airlines Are Physically Cutting Open Older Planes To Give Them A Second Life As Freighters",
+    "summary": "It's usually more cost-effective for cargo airlines to buy used planes then to order from Boeing or Airbus.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T01:00:19Z",
+    "url": "https://simpleflying.com/why-airlines-physically-cutting-open-older-planes-second-life-freighters/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d60e07c8658f",
+    "title": "Here's What United Airlines Actually Spends Per Passenger On Its Polaris Business Class Amenities",
+    "summary": "The onboard amenities are a significant part of the business class experience.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T00:00:10Z",
+    "url": "https://simpleflying.com/what-united-airlines-actually-spends-per-passenger-polaris-business-class-amenities/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "19b4cd5b0549",
+    "title": "Seattle Relief: Alaska Airlines Breaks Ground On $135 Million Widebody Hangar In Portland",
+    "summary": "Alaska's $135 million Portland hangar signals growing ambitions beyond traditional domestic operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-17T21:55:24Z",
+    "url": "https://simpleflying.com/alaska-airlines-breaks-ground-135-million-widebody-hangar-portland/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "901097afb69d",
+    "title": "More Cuts: JetBlue Abruptly Drops 2 Cross-Country Routes & Will Close New York Crew Bases",
+    "summary": "Although two routes are being discontinued, another transcontinental flight will return after a long break.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-06-17T20:07:29Z",
+    "url": "https://simpleflying.com/jetblue-drop-2-cross-country-routes-newark-base-closure/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "a973ab925ca3",
     "title": "More Cuts: JetBlue Abruptly Drops 2 Cross-Country Routes & Will Close Newark Crew Base",
     "summary": "Although two routes are being discontinued, another transcontinental flight will return after a long break.",
@@ -2141,61 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-06-10T16:04:00Z",
     "url": "https://avweb.com/aviation-news/f51d-mustang-crash-ntsb-preliminary-report/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6c2ef2fb7d57",
-    "title": "This 1973 Beechcraft V35B Bonanza Is a Fresh-Engine \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Dual Garmin GPS/coms, GFC 500 autopilot, and ADS-B weather make this classic V-tail a serious instrument platform.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-10T15:38:23Z",
-    "url": "https://www.flyingmag.com/this-1973-beechcraft-v35b-bonanza-is-a-fresh-engine-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba968e442465",
-    "title": "Airline With World's Youngest Airbus A380 Fleet Won't Retire Superjumbo Anytime Soon",
-    "summary": "ANA's three A380s will continue to fly between Tokyo Narita and Honolulu, with no retirement plans in sight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T15:12:56Z",
-    "url": "https://simpleflying.com/ana-worlds-youngest-a380-fleet-no-retirement/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "523884132b35",
-    "title": "\"Serious Safety Concerns\": Europe Just Banned 1 Airline From Its Airspace",
-    "summary": "Serious safety concerns ground an Algerian airline in the EU, while Kyrgyzstan's aviation sector takes off after years of regulatory reforms.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T14:58:30Z",
-    "url": "https://simpleflying.com/air-express-algeria-banned-eu-airspace-safety-concerns/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aedcf6efaabb",
-    "title": "LATAM presents first E195-E2 at Embraer facility ahead of fleet debut",
-    "summary": "LATAM Airlines Brazil has presented its first freshly painted E195-E2 at the Embraer facility at S\u00e3o Jos\u00e9 dos&#8230; The post LATAM presents first E195-E2 at Embraer facility ahead of fleet debut appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-10T14:57:27Z",
-    "url": "https://www.aerotime.aero/articles/latam-first-e195-e2-embraer-facility-fleet-debut",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8d0620fecc0",
-    "title": "How Much Do US Navy Pilots Make Compared To US Air Force Pilots In 2026?",
-    "summary": "A look at how Uncle Sam pays flyers in the service.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-06-10T14:01:19Z",
-    "url": "https://simpleflying.com/us-navy-vs-us-air-force-pilot-salaries-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
