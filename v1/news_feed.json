@@ -1,5 +1,38 @@
 [
   {
+    "id": "8d0bf1840ead",
+    "title": "Montreal's New Airport Just Opened - But It Can't Offer A Single International Flight",
+    "summary": "Porter would have launched 11 new routes from the new airport by next week, but all of them will be domestic due to YUL's exclusivity clauses.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T09:57:48Z",
+    "url": "https://simpleflying.com/montreal-new-airport-opens-no-international-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "76ca71c9b720",
+    "title": "The Most Powerful Rolls-Royce Engine Ever",
+    "summary": "The Airbus A380 superjumbo is the world's only full double-deck commercial jet and has a maximum takeoff weight or MTOW far exceeding any other aircraft in existence. It is optionally powered by four Rolls-Royce Trent 900 engines or four Engine Alliance GP7200 engines (built b...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T05:00:21Z",
+    "url": "https://simpleflying.com/video/the-most-powerful-rolls-royce-engine-ever/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f8e5075c3b31",
+    "title": "The US Air Force Spent $10 Billion On A Tanker That Still Can't Do Its Most Basic Job",
+    "summary": "The US Air Force's KC-46 Pegasus remains trapped in a costly limbo more than a decade after development began.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T05:00:21Z",
+    "url": "https://simpleflying.com/usaf-10-billion-tanker-still-cant-do-basic-job/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8231cbce3d83",
     "title": "FAA To Introduce \u201cNew Flight Procedure\u201d In San Francisco After Banning Parallel Landings",
     "summary": "The FAA is working to keep safety high and improve efficiency at SFO.",
@@ -325,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-16T21:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/16/training-and-safety-tip-seek-crosswinds?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/16/training-and-safety-tip-seek-crosswinds?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1755,7 +1788,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T22:05:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/minnesota-tribe-returns-airplane-seven-months-after-seizure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1777,7 +1810,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T21:51:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/building-support-for-vermont-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1887,7 +1920,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-11T17:54:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-10T18:45:00Z",
     "url": "https://avweb.com/aviation-news/continental-aerospace-arcline-acquisition/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d11939fe14c1",
-    "title": "Merge Or Not? Scott Kirby Now Wants United Airlines & JetBlue To Do \u201cAs Much As We Can Together\u201d",
-    "summary": "The CEO's recent remarks have reignited speculation about potential closer ties between the two carriers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-10T18:04:50Z",
-    "url": "https://simpleflying.com/scott-kirby-wants-united-airlines-jetblue-as-much-as-we-can-together/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c9d70a60dea0",
-    "title": "Meet Airbus\u2019 Newest Uncrewed Additions",
-    "summary": "Manufacturer unveils two new uncrewed aircraft, one based around its H145 helicopter.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-10T17:36:00Z",
-    "url": "https://www.flyingmag.com/airbus-uncrewed-u145-helicopter-u760-ravenstorm/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0c1fa0a65061",
-    "title": "NTSB Finds No Mechanical Anomalies in Fatal F-51D Crash",
-    "summary": "The aircraft was producing power and operating normally during an aerobatic practice flight before impact.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-06-10T16:04:00Z",
-    "url": "https://avweb.com/aviation-news/f51d-mustang-crash-ntsb-preliminary-report/",
     "airlineTag": null,
     "isBreaking": false
   }
