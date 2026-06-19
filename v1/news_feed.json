@@ -1,5 +1,71 @@
 [
   {
+    "id": "033592e3ae16",
+    "title": "The 5 New First Class Suite Designs Launching On Long-Haul Routes In 2026 And 2027",
+    "summary": "Qantas, Singapore Airlines, Air France, Lufthansa, and Qatar Airways are unveiling game-changing First Class suites on long-haul flights in 2026\u20132027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T03:00:21Z",
+    "url": "https://simpleflying.com/first-class-suites-launching-2026-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a9a18ef3333b",
+    "title": "6 Largest US Naval Air Stations By Land Area",
+    "summary": "From TOPGUN's desert home at NAS Fallon to the massive 1.1-million-acre China Lake complex, these are the six largest US naval aviation bases.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T02:00:33Z",
+    "url": "https://simpleflying.com/largest-us-naval-air-stations-by-land-area/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "09c0be986228",
+    "title": "LATAM Airlines Leading Digital Transformation With Technology Advancements & AI",
+    "summary": "The innovation happening in South America's biggest carrier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T01:29:41Z",
+    "url": "https://simpleflying.com/latam-airlines-leading-digital-transformation-technology-advancements-ai/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0511c4e03371",
+    "title": "Why Boeing's MQ-28 Ghost Bat Just Gatecrashed The US Air Force's Next Big Drone Decision",
+    "summary": "The MQ-28 Ghost Bat is one of the more mature CCA designs and has attracted the attention of the USAF and other potential operators.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T01:00:19Z",
+    "url": "https://simpleflying.com/why-boeing-mq-28-ghost-bat-gatecrashed-us-air-force-next-big-drone-decision/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9cb75f351ab3",
+    "title": "Delta Air Lines' New SkyMiles Rules Even Punish Its Top-Tier Diamond Medallion Members",
+    "summary": "SkyMiles has revised its rewards for top-tier members.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T00:00:20Z",
+    "url": "https://simpleflying.com/delta-air-lines-new-skymiles-rules-punish-top-tier-diamond-medallion-members/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "ad8b113352e6",
+    "title": "\u201cThe Default\u201d: Alaska Airlines Eyes Interisland Boeing 737s To Replace Hawaiian\u2019s Aging 717s",
+    "summary": "Other aircraft, such as the Airbus A220 and the Embraer E195-E2, have also emerged as potential candidates.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T22:35:43Z",
+    "url": "https://simpleflying.com/alaska-airlines-eyes-interisland-boeing-737s-replace-hawaiian-aging-717s/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "a63bf30309a5",
     "title": "GPS jamming active when King Air struck mountain",
     "summary": "A Beechcraft King Air collided with a New Mexico mountain ridge while attempting an instrument approach shortly after midnight on a moonless May 14, killing four people and igniting a wildfire that took nearly a month to extinguish. GPS interference&mdash;an increasingly commo...",
@@ -7,6 +73,39 @@
     "category": "training",
     "publishedDate": "2026-06-18T22:25:50Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/june/18/gps-jamming-active-when-king-air-struck-mountain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "47a607a42ddb",
+    "title": "Why The Aircraft A Pilot Bids On Matters More Than The Airline They Fly For",
+    "summary": "Widebody captains can earn over $150,000 more annually than narrowbody first officers, proving aircraft choice often matters more than airline choice.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-18T21:00:21Z",
+    "url": "https://simpleflying.com/why-aircraft-pilot-bids-matters-more-than-airline-fly-for/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "527e181c5e8a",
+    "title": "Mixed Messages On Retirement As Staffers Bid Farewell To VC-25A",
+    "summary": "White House officials posted farewells to tail number 29000 after what they described as a final flight.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-18T20:48:07Z",
+    "url": "https://avweb.com/aviation-news/mixed-messages-air-force-one-vc-25a/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "047d1bff9983",
+    "title": "Taylor Flat Airstrip Reopens In Utah",
+    "summary": "RAF and Utah Back Country Pilots restored the dormant backcountry strip.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-18T20:36:54Z",
+    "url": "https://avweb.com/aviation-news/taylor-flat-airstrip-reopens-in-utah/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-06-11T19:37:58Z",
     "url": "https://www.aerotime.aero/articles/qatar-747-8-air-force-one-new-livery",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "12062cd31c38",
-    "title": "Why USAF Wanted To Cancel Its $1.8 Billion E-7 Wedgetail Order For Smaller Aircraft",
-    "summary": "The USAF is acquiring new aircraft to replace the E-3 AWACS in the short term, but it's looking to space for long-term detection and surveillance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-11T19:00:19Z",
-    "url": "https://simpleflying.com/why-us-air-force-cancelled-e7-wedgetail-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "92226a5fe900",
-    "title": "America\u2019s Largest Drone Delivery Service Just Got Larger",
-    "summary": "Wing will serve more Walmart customers in California, Arizona, Utah, Louisiana, Tennessee, and Pennsylvania.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-11T18:30:00Z",
-    "url": "https://www.flyingmag.com/walmart-wing-drone-delivery-7-city-expansion/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "01fbcb6a8fd4",
-    "title": "LCC Interest: US Company May Bid For easyJet Ownership After Spirit Airlines\u2019 Talks Failed",
-    "summary": "The move could spark one of Europe's most significant airline takeover attempts in recent years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-11T18:15:15Z",
-    "url": "https://simpleflying.com/us-company-bid-easyjet-ownership-spirit-airlines-talks-failed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7af8e8db4ed6",
-    "title": "7 Commercial Airports With Runways So Long They Were Originally Built To Handle Space Shuttles",
-    "summary": "Many forget that airports are not always designed with airliners in mind. Many are actually designed with craft that fly much higher.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-11T18:00:20Z",
-    "url": "https://simpleflying.com/7-commerical-airports-runways-so-long-originally-built-handle-space-shuttles/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ad3f4b56f530",
-    "title": "New VFR procedure for Merrill Field",
-    "summary": "The FAA has developed a new VFR procedure for aircraft departing from or arriving to Merrill Field in Alaska.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-06-11T17:54:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/11/new-vfr-procedure-for-merrill-field?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dc7ae06f3b73",
-    "title": "Why The Boeing 737 MAX 10 Has 1,400+ Orders But Still Can't Carry A Single Passenger",
-    "summary": "Ongoing certification issues have meant no 737 MAX 10s have been delivered, although Boeing has indicated the process will be completed in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-11T17:00:19Z",
-    "url": "https://simpleflying.com/why-boeing-737-max-10-still-not-certified/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a4575f420cbb",
-    "title": "Is This Aviation\u2019s Coolest Airline CEO?",
-    "summary": "Perhaps you've come across his social media posts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-11T16:00:20Z",
-    "url": "https://simpleflying.com/coolest-airline-ceo/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb6b85cc6647",
-    "title": "The Hidden Reason Why First Class On Major Airlines Is Disappearing",
-    "summary": "First class is no longer a given on all airlines, and for a good reason. Let's dive into how the front of the aircraft has totally changed today.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-11T15:52:58Z",
-    "url": "https://simpleflying.com/hidden-reason-why-first-class-major-airlines-disappearing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40570f819985",
-    "title": "2026 World Aerobatic Championship Coming to Iowa",
-    "summary": "The event is expected to bring aerobatic pilots from 14 nations to Iowa next August.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-11T15:21:05Z",
-    "url": "https://avweb.com/air-shows-events/2026-world-aerobatic-championship-iowa/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
