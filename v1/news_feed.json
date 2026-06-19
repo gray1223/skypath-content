@@ -1,5 +1,93 @@
 [
   {
+    "id": "9808775277a5",
+    "title": "Inside Riyadh Air's 72-Boeing 787 Order & The Slot-Sitting Trick That Got It To Heathrow",
+    "summary": "Riyadh Air is quickly moving from a mere startup to one of the world's top airlines. Can it challenge the status quo?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T19:00:20Z",
+    "url": "https://simpleflying.com/inside-riyadh-air-72-boeing-787-order-slot-sitting-trrick-got-heathrow/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "abe27704f4f4",
+    "title": "Nobody Owns The Sky Over The Atlantic & International Law Has Never Resolved It",
+    "summary": "International groups define procedures, but stop short of granting ownership.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T19:00:20Z",
+    "url": "https://simpleflying.com/nobody-owns-sky-over-atlantic-international-law-never-resloved/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "feba741fab6b",
+    "title": "Why The US Air Force Is Retiring 100 F-15C Eagles But Keeping A Specific Group Flying",
+    "summary": "Why the F-15C is retiring but select \u201cPlatinum Eagles\u201d still fly, and how the USAF bridges the gap to the F-15EX.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T18:00:19Z",
+    "url": "https://simpleflying.com/why-usaf-retiring-100-f-15c-eagles-keeping-specific-80-flying/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "11f71d3fe4e6",
+    "title": "These Airlines Had The Top Premium Economy Seats Last Year",
+    "summary": "A closer look at which of the world's premium economy seats were the best in 2025.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T17:30:20Z",
+    "url": "https://simpleflying.com/which-airlines-top-premium-economy-seats-2025/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7bbcca94a47c",
+    "title": "FAA SMART Airspace Tool Could Demo In September",
+    "summary": "The AI-supported platform is intended to help traffic managers find congestion earlier in the planning process.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-19T16:36:00Z",
+    "url": "https://avweb.com/aviation-news/faa-smart-airspace-tool-could-launch-sept/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "01fe5f276c0b",
+    "title": "Alaska Airlines names new president amid Hawaiian integration",
+    "summary": "Alaska Airlines has named longtime executive Shane Tackett President and Chief Financial Officer, expanding his CFO role as&#8230; The post Alaska Airlines names new president amid Hawaiian integration appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-19T16:31:33Z",
+    "url": "https://www.aerotime.aero/articles/alaska-names-new-president-hawaiian-integration",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f8cbf22353a9",
+    "title": "Pan Am\u2019s Old HQ Is Now Miami\u2019s New Luxury $1,295-Per-Use Private Terminal: Here\u2019s What\u2019s Inside",
+    "summary": "Groups of four can also book private spaces within the terminal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-19T16:00:20Z",
+    "url": "https://simpleflying.com/pan-am-miami-luxury-1295-dollars-private-terminal-inside/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3b5e82e95fd6",
+    "title": "Alaska Airlines Names New President",
+    "summary": "Former CFO adds commercial duties as carrier continues Hawaiian integration.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-19T15:30:00Z",
+    "url": "https://avweb.com/aviation-news/company-news/alaska-airlines-names-new-president/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "89cdd4873289",
     "title": "Why Ultra-Long-Haul Flights Still Need 4 Pilots In The Cockpit For Takeoff",
     "summary": "Why the flight deck gets crowded on lift off.",
@@ -616,17 +704,6 @@
     "isBreaking": false
   },
   {
-    "id": "bc2ea8255b08",
-    "title": "Winnebago County Approves Hangar Expansion At Wittman Regional Airport",
-    "summary": "The move is expected to expand general aviation and business aviation capacity in Oshkosh.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-17T19:00:00Z",
-    "url": "https://avweb.com/aviation-news/wittman-regional-airport-hangar-expansion/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
     "id": "bcfcc65e2d0f",
     "title": "NetJets Crash in Texas Kills 1, Injures 5",
     "summary": "Capital Factory CEO dies when Cessna Citation Latitude goes down on Laredo highway.",
@@ -635,6 +712,17 @@
     "publishedDate": "2026-06-17T19:00:00Z",
     "url": "https://www.flyingmag.com/netjets-crash-in-texas-kills-1-injures-5/",
     "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "bc2ea8255b08",
+    "title": "Winnebago County Approves Hangar Expansion At Wittman Regional Airport",
+    "summary": "The move is expected to expand general aviation and business aviation capacity in Oshkosh.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-17T19:00:00Z",
+    "url": "https://avweb.com/aviation-news/wittman-regional-airport-hangar-expansion/",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-06-12T13:05:20Z",
     "url": "https://simpleflying.com/breeze-airways-launches-5-international-routes/",
     "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "33928d9c8650",
-    "title": "Even With Better Tools, Pilots Make Same Mistakes",
-    "summary": "Most accidents involve a weather component, exposing flaws in pilot training and information delivery.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-12T12:00:00Z",
-    "url": "https://www.flyingmag.com/even-with-better-tools-pilots-make-same-mistakes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "67b1584db19b",
-    "title": "The Airlines With The World\u2019s Longest Legroom In Economy In 2026",
-    "summary": "Who has the most room to stretch in coach?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T11:40:52Z",
-    "url": "https://simpleflying.com/airlines-with-worlds-longest-legroom-economy-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "24133c801c40",
-    "title": "Here's How Much An American Airlines Flagship Business Seat On The Boeing 777-300ER Actually Costs In 2026",
-    "summary": "American Airlines is giving the 777-300ER a well deserved refresh with its new Flagship business product. Is it worth trying out?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T11:00:20Z",
-    "url": "https://simpleflying.com/how-much-american-airlines-flagship-business-seat-boeing-777-300er-actually-cost-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c930ccc15e1f",
-    "title": "Wow! Taxiing Turkish Airlines Boeing 777 Knocks Over Radar Tower, Mast Pierces Cabin",
-    "summary": "Incredible. Passengers on a Turkish Airlines flight from Istanbul Airport experienced a terrifying arrival at Antalya International Airport at around 8:00 PM local time on Thursday, June 11th. After landing, the Boeing 777-300ER struck a radar antenna mast whilst taxiing.The m...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T10:00:24Z",
-    "url": "https://simpleflying.com/video/wow-taxiing-turkish-airlines-boeing-777-knocks-over-radar-tower-mast-pierces-cabin/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6946ed348e6",
-    "title": "TIACA Executive Summit 2026 highlights air cargo growth in Warsaw",
-    "summary": "The International Air Cargo Association (TIACA) successfully concluded its Executive Summit 2026, held in Warsaw, Poland from June&#8230; The post TIACA Executive Summit 2026 highlights air cargo growth in Warsaw appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-12T08:07:49Z",
-    "url": "https://www.aerotime.aero/articles/tiaca-executive-summit-2026-warsaw-air-cargo",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "714f7c81f2dd",
-    "title": "Why The US Navy Flew F/A-18s At Extreme Angles Of Attack During Carrier Qualification",
-    "summary": "The Hornet needed a high angle of attack as this comes with the territory of carrier operations and it lacks the F-14's variable wings.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T08:00:18Z",
-    "url": "https://simpleflying.com/why-us0navy-flew-f-18s-extreme-angles-attack-carrier-qualification/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2d5ecae4e895",
-    "title": "American Airlines In Talks With Airbus & Boeing Over Replacement For Aging 777-200ERs",
-    "summary": "The carrier has begun the search for its next big twinjet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T05:01:54Z",
-    "url": "https://simpleflying.com/american-airlines-talks-airbus-boeing-replacement-aging-777-200ers/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d81283b3d581",
-    "title": "The Airline That Created Premium Economy Now Has The Most Spacious Version In The Sky",
-    "summary": "EVA Air, having pioneered the concept of premium economy, is still leading the charge for innovation in this tier of the cabin after over 30 years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T05:01:18Z",
-    "url": "https://simpleflying.com/airline-created-premium-economy-most-spacious-version-sky/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
