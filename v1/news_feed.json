@@ -1,5 +1,27 @@
 [
   {
+    "id": "56963cf3158b",
+    "title": "The Airline That Invented Premium Economy Just Built A 42-Inch Seat Nobody Else Can Match",
+    "summary": "When looking at premium economy offerings, there is only one airline where you can find a 42-inch seat.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T08:00:18Z",
+    "url": "https://simpleflying.com/airline-invented-premium-economy-built-42-inch-seat-nobody-else-match/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0a6aef060335",
+    "title": "Why Qatar Airways Is Rebuilding Its Qsuite After Winning World's Best Airline For The 9th Time",
+    "summary": "Qatar Airways is about to lead the industry again.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T05:00:18Z",
+    "url": "https://simpleflying.com/why-qatar-airways-rebuilding-qsuite-winning-worlds-best-airline-9th-time/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "0cddd29a3062",
     "title": "The Top 5 Highest Paid Air Force Crew Roles In The US Military In 2026",
     "summary": "From Air Force One to the B-2 Spirit, discover the highest-paid USAF aircrew roles and the compensation behind them.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-06-12T16:50:00Z",
     "url": "https://avweb.com/aviation-news/company-news/garmin-expands-nav-database-to-africa/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "655a07abed1b",
-    "title": "Poll Shows Support For Airline Return To Naples Airport",
-    "summary": "American Airlines is proposing PSA CRJ-700 service between Naples, Florida, and Charlotte.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-12T16:15:35Z",
-    "url": "https://avweb.com/aviation-news/poll-support-airline-return-naples-airport/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a28e3c8e06ee",
-    "title": "17-Hour Nonstop Flights: Delta's Ultra-Long Airbus A350 Routes [Map & List]",
-    "summary": "Transpacific corridors dominate this list, although the very longest routes serve destinations in Africa.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T16:01:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-longest-airbus-a350-routes-2026/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
