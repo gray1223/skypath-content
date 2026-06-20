@@ -1,5 +1,60 @@
 [
   {
+    "id": "9f9d10b0e435",
+    "title": "\"15 Loud Bangs:\" United 777 To Munich Makes Emergency Landing In Houston After Engine Fire",
+    "summary": "A series of bangs echoed through the cabin after an engine fire shortly after takeoff.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T19:18:00Z",
+    "url": "https://simpleflying.com/united-777-munich-emergency-landing-houston-engine-fire/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3ab510a3bdd8",
+    "title": "Southwest Airlines Has No Direct Competition On 60% Of Its Routes: Here's Why That's Changing In 2026",
+    "summary": "Recent policy changes are redefining the airline's business structure.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T18:00:20Z",
+    "url": "https://simpleflying.com/southwest-airlines-no-direct-competiton-60-percent-routes-why-changing-2026/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "eccd0553dadf",
+    "title": "Airbus Booked 170 Orders In 1 Quarter, But Boeing Quietly Won The Delivery Race By 2026",
+    "summary": "The current outlook on the battle between Boeing and Airbus.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T17:00:19Z",
+    "url": "https://simpleflying.com/airbus-booked-170-orders-1-quarter-boeing-quietly-won-delivery-race-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2bd49cd5f613",
+    "title": "Why The US Air Force Just Cut Its 2026 F-35A Order Nearly In Half",
+    "summary": "Fifth-generation fighters still struggling to live up to the hype.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T15:00:20Z",
+    "url": "https://simpleflying.com/why-us-air-force-cut-2026-f-35a-order-nearly-half/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4cc6f367eb34",
+    "title": "Ryanair CEO O'Leary Extends To 2032 In Deal Worth \u20ac150M, Nears 40 Years At The Helm",
+    "summary": "This \u20ac150M deal ensuresO'Leary's leadership steers Ryanair through a decade of growth, as the airline eyes 300 million annual passengers by the 2030s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T14:21:53Z",
+    "url": "https://simpleflying.com/ryanair-ceo-oleary-contract-extension-2032/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c6504f168282",
     "title": "5 Things Pilots Notice When Flying A Brand-New Aircraft For The Very First Time",
     "summary": "Pilots notice more than just speed and performance when flying a new aircraft.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-06-12T21:30:21Z",
     "url": "https://simpleflying.com/why-airbus-a380-4-engine-layout-cost-airlines-millions-more-per-year-twin-engine-rivals/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "26756a3787f0",
-    "title": "A Look At Why US Navy Pilot Total Compensation Quietly Rivals A Regional Airline First Officer",
-    "summary": "Regional airlines now offer their pilots far higher salaries then before.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-06-12T21:00:19Z",
-    "url": "https://simpleflying.com/look-why-us-navy-pilot-total-compensation-quietly-rivals-regional-airline-first-officer/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08bfc863e9b2",
-    "title": "The Forgotten Widebody That Outsold The 747 On Medium-Haul Routes & Quietly Disappeared From Every Fleet",
-    "summary": "Everyone knows about the Boeing 747, but there was another aircraft that outsold it for medium-haul routes and ushered in a new era of global flight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T20:00:19Z",
-    "url": "https://simpleflying.com/forgotten-widebody-outsold-747-medium-haul/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "652bd7641a77",
-    "title": "NORAD Responds To More Than A Dozen NY/NJ TFR Violations",
-    "summary": "The incursions took place this month in FAA-issued restricted airspace.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-06-12T19:25:37Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/norad-responds-to-15-tfr-violations-june/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "486f451f01ea",
-    "title": "\u201cLooking Into It\u201d: Minneapolis & Philadelphia Could Be Turkish Airlines\u2019 Newest US Markets",
-    "summary": "The US is already a big market for the carrier, and it could be about to get even bigger.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T19:00:18Z",
-    "url": "https://simpleflying.com/minneapolis-philadelphia-turkish-airlines-newest-us-markets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "362da6e0b347",
-    "title": "Why Delta Air Lines' Decision To Cut Main Cabin Drinks & Snacks Is Actually Better For Flight Attendants",
-    "summary": "A matter of safety or service cuts?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T19:00:18Z",
-    "url": "https://simpleflying.com/why-delta-air-lines-decision-cut-main-cabin-drinks-snacks-actually-better-flight-attendants/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
