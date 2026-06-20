@@ -1,5 +1,60 @@
 [
   {
+    "id": "c6504f168282",
+    "title": "5 Things Pilots Notice When Flying A Brand-New Aircraft For The Very First Time",
+    "summary": "Pilots notice more than just speed and performance when flying a new aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T14:00:19Z",
+    "url": "https://simpleflying.com/things-pilots-notice-flying-brand-new-aircraft-first-time/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fcf57e28fb68",
+    "title": "Why Philippine Airlines Picked Oneworld Over Star Alliance And SkyTeam",
+    "summary": "Philippine Airlines has announced it will join the oneworld airline alliance, becoming the union\u2019s 16th member. The decision was revealed at the IATA AGM in Rio de Janeiro on June 6th, 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T12:29:19Z",
+    "url": "https://simpleflying.com/video/why-philippine-airlines-picked-oneworld-over-star-alliance-and-skyteam/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cf1b93755707",
+    "title": "Emirates Axes Airbus A380 Flights On This Major Route [Map]",
+    "summary": "Starting in July, the airline will resume its regular double-daily 777 services, as it did before the start of the Middle East conflict.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T12:00:19Z",
+    "url": "https://simpleflying.com/emirates-axes-airbus-a380-this-major-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "db659b503b4b",
+    "title": "Beyond English: How USIM Is Transforming Flight Training",
+    "summary": "Versatile simulation tool is now helping student pilots and future ATCs navigate complex, high-pressure scenarios.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-20T12:00:00Z",
+    "url": "https://www.flyingmag.com/beyond-english-how-usim-is-transforming-flight-training/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c85d66b54b7a",
+    "title": "Why Senior Pilots Are Quietly Picking UPS Over Delta & American Airlines In 2026",
+    "summary": "No passengers to please and competitive pay are flipping pilots from the airlines to cargo.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-20T11:00:35Z",
+    "url": "https://simpleflying.com/senior-pilots-picking-ups-over-delta-american-airlines-2026/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "56963cf3158b",
     "title": "The Airline That Invented Premium Economy Just Built A 42-Inch Seat Nobody Else Can Match",
     "summary": "When looking at premium economy offerings, there is only one airline where you can find a 42-inch seat.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-06-12T19:00:18Z",
     "url": "https://simpleflying.com/why-delta-air-lines-decision-cut-main-cabin-drinks-snacks-actually-better-flight-attendants/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "932c3b46e37d",
-    "title": "American Airlines Hits 100 Latin American Destinations With New Venezuela & Haiti Routes",
-    "summary": "The launch of new routes to Maracaibo and Cap-Ha\u00eftien marks American Airlines' 100th destination in Latin America.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T18:08:07Z",
-    "url": "https://simpleflying.com/american-airlines-100-latin-american-destinations-new-venezuela-haiti-routes/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3bbd8456fda1",
-    "title": "Flexjet Acquires TikTok-Famous The Jet Business",
-    "summary": "London-based aircraft brokerage and advisory and its viral founder join the fractional ownership company.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-12T18:01:16Z",
-    "url": "https://www.flyingmag.com/flexjet-acquires-the-jet-business/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ef45e20513d3",
-    "title": "Why Is The World\u2019s Largest Air Force Still Growing?",
-    "summary": "The USAF remains the world's largest, but its number of crewed aircraft is shrinking as the PLAAF grows in numbers. Its UAV fleet is on the up though.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-12T17:30:18Z",
-    "url": "https://simpleflying.com/why-is-worlds-largest-air-force-still-growing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dbf66ac4fa61",
-    "title": "Former NAAA President Rick Boardman Killed In Accident",
-    "summary": "Boardman was a former NAAA president and longtime Nebraska aerial application operator known for mentoring pilots and advancing industry safety.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-12T16:56:25Z",
-    "url": "https://avweb.com/aviation-news/naaa-president-rick-boardman-accident/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "18897b9bc87b",
-    "title": "Garmin Expands Navigation Database Coverage To Africa",
-    "summary": "The new Transatlantic OnePak covers compatible Garmin avionics in aircraft flying in Africa, Europe and the Americas.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-12T16:50:00Z",
-    "url": "https://avweb.com/aviation-news/company-news/garmin-expands-nav-database-to-africa/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
