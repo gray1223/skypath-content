@@ -1,5 +1,82 @@
 [
   {
+    "id": "9e62b9a724f5",
+    "title": "Alaska Airlines Downsizes In Mexico By Dropping 4 Seasonal Routes From Los Angeles & Las Vegas",
+    "summary": "Alaska Airlines has dropped four planned seasonal Mexico routes from Los Angeles, San Francisco, and Las Vegas ahead of the 2026\u20132027 schedule period.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T19:18:57Z",
+    "url": "https://simpleflying.com/alaska-airlines-downsize-mexico-dropping-4-seasonal-los-angeles-las-vegas/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c2302e7057b9",
+    "title": "6-Hour Flights: Southwest Airlines Launches Exciting New Route To Hawaii In August [Map]",
+    "summary": "Southwest is the second carrier this year to launch service on this route, which had previously been unserved since 2005.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T18:00:19Z",
+    "url": "https://simpleflying.com/southwest-airlines-new-hawaii-route-august-launch/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "cc37c8e07974",
+    "title": "Ex-American Airlines A330 Stored Since 2020 Joins Israir For New York Launch",
+    "summary": "The Israeli carrier will welcome two A330s to realize its long-haul ambitions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T17:40:12Z",
+    "url": "https://simpleflying.com/israir-first-airbus-a330-new-york-august-2026/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "32cdf679d14d",
+    "title": "7-Hour Nonstop Flights: Southwest Airlines' 10 Record-Breaking Longest Routes [Map & List]",
+    "summary": "Only one of Southwest's 10 longest routes by block time is international.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T16:00:19Z",
+    "url": "https://simpleflying.com/southwest-airlines-longest-routes/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fb55257f01cd",
+    "title": "How Southwest Airlines' 'Trip For Pay' Model Pushes Senior Boeing 737 Captains Past $450,000 In 2026",
+    "summary": "Southwest Airlines' unique Trip For Pay system quietly generates pay that helps narrowbody pilots earn levels often associated with widebody flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T16:00:19Z",
+    "url": "https://simpleflying.com/southwest-airlines-trip-pay-model-pushes-senior-boeing-737-captains-past-450000-2026/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b0eaf759bdc0",
+    "title": "In Photos: Trump Unveils VC-25B 'Bridge' Air Force One After Rapid 10-Month Conversion",
+    "summary": "The president's interim jumbo jet arrives.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T15:07:44Z",
+    "url": "https://simpleflying.com/trump-unveils-vc-25b-bridge-air-force-one-photos/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "df01af4493a4",
+    "title": "Why This Country Walked Away From The F-35 & Ordered 20 More Eurofighters Instead",
+    "summary": "Why Spain chose new Eurofighters over the F-35, and what the Halcon program reveals about its future air combat strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-21T15:00:19Z",
+    "url": "https://simpleflying.com/why-country-walked-away-f35-ordered-20-more-eurofighters-instead/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f4610938b322",
     "title": "15-Hour Flights: Turkish Airlines Eyes Brand-New Ultra-Long Route [Map]",
     "summary": "The airline first considered the idea back in 2024, but Turkish Airlines will only launch services to Lima \"based on market conditions\".",
@@ -293,17 +370,6 @@
     "category": "pay",
     "publishedDate": "2026-06-20T03:00:20Z",
     "url": "https://simpleflying.com/highest-paid-air-force-one-crew-roles-us-military-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b0eaf759bdc0",
-    "title": "In Photos: Trump Unveils VC-25B 'Bridge' Air Force One After Rapid 10-Month Conversion",
-    "summary": "The president's interim jumbo jet arrives.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-20T00:56:41Z",
-    "url": "https://simpleflying.com/trump-unveils-vc-25b-bridge-air-force-one-photos/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-06-14T10:00:25Z",
     "url": "https://simpleflying.com/inside-delta-air-lines-boeing-767-300er-phaseout-problem/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "35843d7c69d6",
-    "title": "Riyadh Air completes first domestic commercial flight to Jeddah",
-    "summary": "In another milestone for Riyadh Air, the startup airline has completed its first domestic commercial flight between the&#8230; The post Riyadh Air completes first domestic commercial flight to Jeddah appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-14T09:26:58Z",
-    "url": "https://www.aerotime.aero/articles/riyadh-air-completes-first-domestic-commercial-flight-to-jeddah",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51e57e08852a",
-    "title": "Why Northrop Grumman Must Accelerate B-21 Raider Production Before The USAF Can Hit Its 100-Bomber Target",
-    "summary": "The urgency is rising to debut the Air Force's newest bomber.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-06-14T07:00:19Z",
-    "url": "https://simpleflying.com/why-northrop-grumman-must-speed-up-b21-raider-production/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e73b7d16baa",
-    "title": "JetBlue Apologizes After Mint Passenger Reportedly Discovers Rat Crawling In Cabin Ceiling",
-    "summary": "A shocking discovery for one Mint flyer.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-14T04:55:37Z",
-    "url": "https://simpleflying.com/jetblue-apologizes-mint-passenger-discovers-rat-crawing-cabin-ceiling/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "6c1d8b2a0a5d",
-    "title": "Here's Who Actually Earns American Airlines Executive Platinum Status In 2026",
-    "summary": "Anyone can now reach Executive Platinum without spending hundreds of hours in the air.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-14T04:00:25Z",
-    "url": "https://simpleflying.com/who-actually-earns-american-airlines-platinum-status-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ab4aa27555ab",
-    "title": "How Much Do Boeing 777 Captains At The World's Top 5 Carriers Actually Earn In 2026?",
-    "summary": "Discover how much Boeing 777 captains earn at Emirates, Delta, Cathay Pacific, Singapore Airlines, and Lufthansa in 2026, including tax-adjusted pay.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-14T02:00:34Z",
-    "url": "https://simpleflying.com/how-much-boeing-777-captains-worlds-top-5-carriers-actually-earn-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "67af7f6aaf43",
-    "title": "The Ryanair Paradox: Passengers Say They Hate The Airline, But Keep Booking It Anyway",
-    "summary": "Ryanair's no-frills offering may be easy to dislike, but its value for money is hard to ignore.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-14T01:00:20Z",
-    "url": "https://simpleflying.com/ryanair-paradox-passengers-hate-keep-booking-anyway/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
