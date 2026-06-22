@@ -1,5 +1,38 @@
 [
   {
+    "id": "73e2c7b374aa",
+    "title": "California startup building commercial GPS alternative as jamming threats grow",
+    "summary": "As GPS jamming and spoofing become a growing concern for aviation, defense and space operators, a California satellite&#8230; The post California startup building commercial GPS alternative as jamming threats grow appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-22T20:19:14Z",
+    "url": "https://www.aerotime.aero/articles/commercial-gps-backup-jamming-threats",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b6c22cd81591",
+    "title": "Allegiant Air Cuts 24 California Routes: See All Flight Changes Now [List & Map]",
+    "summary": "39% of the budget carrier's California routes have gone. See more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T20:00:19Z",
+    "url": "https://simpleflying.com/allegiant-air-cuts-24-california-routes-see-all-flight-changes-now/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3c48b66332da",
+    "title": "9-Hour Boeing 737 Flights: Qantas Launches This Exciting New Route [Map]",
+    "summary": "The carrier relaunches its connection between Sydney and Samoa via a stopover in Auckland.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T20:00:19Z",
+    "url": "https://simpleflying.com/9-hour-boeing-737-flights-qantas-new-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "61e28c7abc98",
     "title": "Louisiana Governor Signs ADS-B Billing Ban",
     "summary": "WASHINGTON\u2014Louisiana Gov. Jeff Landry signed HB 730 into law, joining the growing number of states moving to stop the use of ADS-B\u2014a safety technology\u2014to collect fees from pilots. AOPA views this action as an important recognition that ADS-B, a technology used by pilots and ai...",
@@ -7,6 +40,83 @@
     "category": "training",
     "publishedDate": "2026-06-22T19:00:32Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/june/22/pr-louisiana-governor-signs-ads-b-billing-ban?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f94c323d0bbb",
+    "title": "On Board the \u2018Bridge\u2019 Air Force One",
+    "summary": "New livery and original Qatari design set jet apart from earlier VC-25As.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-22T18:51:52Z",
+    "url": "https://www.flyingmag.com/on-board-the-bridge-air-force-one/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c810986d3abf",
+    "title": "VC-25B Bridge Aircraft Arrives At Joint Base Andrews",
+    "summary": "The former Qatari 747-8i has begun the final step before joining the presidential airlift fleet.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-22T18:30:55Z",
+    "url": "https://avweb.com/aviation-news/vc-25b-bridge-aircraft-joint-base-andrews/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bdf777a9da1d",
+    "title": "Delta To Retire Six 27+ Year-Old Boeing 717s Nearly 4 Years Ahead Of Schedule",
+    "summary": "The retirement of six aging Boeing 717s by Delta, nearly four years earlier than expected, may mark the beginning of a measured transition strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T18:07:26Z",
+    "url": "https://simpleflying.com/delta-retire-six-boeing-717-4-years-ahead-schedule/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "91da7126826c",
+    "title": "How A $175 Million Engine Dispute Quietly Killed United Airlines' 45-Jet Airbus A350 Order",
+    "summary": "While details of the contractual breach remain confidential, it has resulted in United scrapping its aircraft order from 2009.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T18:00:20Z",
+    "url": "https://simpleflying.com/how-175-million-engine-dispute-quietly-killed-united-airlines-45-jet-airbus-a350-order/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8020a0ef41ad",
+    "title": "2 Israelis, 1 Canadian Dead in Maryland Flight School Crash",
+    "summary": "Piper PA-28 Cherokee crashed in a wooded area for unknown reasons, police say.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-06-22T18:00:00Z",
+    "url": "https://www.flyingmag.com/2-israelis-1-canadian-dead-maryland-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f267c713bdc7",
+    "title": "\u2018I Will Pay Somebody\u2019: How Airlines & Airports Are Abandoning Blind Travelers",
+    "summary": "Airports are improving accessibility, but blind and visually impaired travelers still face avoidable failures during disruption.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-06-22T17:48:14Z",
+    "url": "https://simpleflying.com/how-airlines-airports-are-abandoning-blind-travelers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "764a113314ca",
+    "title": "5 Of The Most Spacious Economy Seats You Can Book In 2026",
+    "summary": "The airlines with the best economy class seats are mostly found in East Asia with the region's top mainline carriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T17:30:19Z",
+    "url": "https://simpleflying.com/5-most-spacious-economy-seats-book-in-2026/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-15T19:00:19Z",
     "url": "https://simpleflying.com/exact-math-justify-reviving-british-airways-retired-boeing-747-400-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "711e2e550b72",
-    "title": "Ouch: Lufthansa Faces Six-Figure Bill As A380 With 500+ Onboard Diverts To Boston",
-    "summary": "While diversions are rare, they are expensive disruptions for airlines, particularly on routes operated by large aircraft like the A380.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-06-15T18:55:18Z",
-    "url": "https://simpleflying.com/lufthansa-a380-diverts-boston-500-passengers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d7c0aef94342",
-    "title": "United Airlines\u2019 Military Pilot Hiring Program Reaches New Milestone",
-    "summary": "Nearly 600 military aviators have transitioned to roles at the airline through the pathway since 2024.",
-    "source": "Flying Magazine",
-    "category": "hiring",
-    "publishedDate": "2026-06-15T18:45:00Z",
-    "url": "https://www.flyingmag.com/united-airlines-military-pilot-hiring-program-reaches-new-milestone/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "eacffd8c6148",
-    "title": "F/A-18 Hornet Crashes in Washington National Forest; Pilot Safe",
-    "summary": "Marine Corps aviator ejects without injury following training mission mishap near Rimrock Lake.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-15T17:30:00Z",
-    "url": "https://www.flyingmag.com/f-a-18-hornet-crashes-in-washington-national-forest-pilot-safe/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bda1802b035d",
-    "title": "B-21 Flight Tests Add Combat Evaluation",
-    "summary": "The Air Force says the move brings operational test into the Raider program earlier than usual.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-06-15T16:59:02Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/b-21-flight-tests-add-combat-evaluation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac6b1efe65fe",
-    "title": "Gorgeous: United Airlines Unveils Stunning \"Stars & Stripes\" Boeing 737 & 787 America250 Liveries",
-    "summary": "United becomes the latest US airline to unveil two stunning new liveries celebrating America's 250th birthday.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T16:58:32Z",
-    "url": "https://simpleflying.com/united-airlines-stunning-boeing-737-787-america-250-liveries/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "eb2b51f3412c",
-    "title": "15 New Routes In Only 4 Days: Where Alaska Airlines & Breeze Airways Fly Now [Map]",
-    "summary": "Nearly half of them are brand-new, which is a significant proportion. Find out where's now being served!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T16:00:20Z",
-    "url": "https://simpleflying.com/15-new-routes-in-only-4-days-where-alaska-airlines-breeze-airways-fly-now-map/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ba5435635475",
-    "title": "National Academies Calls For Crew Radiation Tracking",
-    "summary": "A new report says the FAA has enough science and operational tools in place to begin formal oversight of airline crew exposure.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-15T15:03:15Z",
-    "url": "https://avweb.com/aviation-news/national-academies-crew-radiation-tracking/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a66baa9e82a4",
-    "title": "KLM names first A350 after Rembrandt painting starting new aircraft naming theme",
-    "summary": "KLM Royal Dutch Airlines has named its first Airbus A350 after Rembrandt Harmensz. van Rijn\u2019s painting masterpiece \u2018The&#8230; The post KLM names first A350 after Rembrandt painting starting new aircraft naming theme appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-15T14:14:58Z",
-    "url": "https://www.aerotime.aero/articles/klm-names-a350-after-rembrandt-painting-night-watch-aircraft-naming-theme",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "54e91af32ec5",
-    "title": "11 Skydivers, Pilot Killed in Plane Crash",
-    "summary": "NTSB and FAA will lead the investigation, officials said.",
-    "source": "Flying Magazine",
-    "category": "regulatory",
-    "publishedDate": "2026-06-15T13:25:24Z",
-    "url": "https://www.flyingmag.com/11-skydivers-pilot-killed-in-plane-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3312e99ccc3f",
-    "title": "Nasaruddin A. Bakar of Malaysia Aviation Group joins IATA Board of Governors",
-    "summary": "Malaysia Aviation Group (MAG) announced that its President and Group Chief Executive Officer, Captain Nasaruddin A. Bakar has&#8230; The post Nasaruddin A. Bakar of Malaysia Aviation Group joins IATA Board of Governors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-15T12:50:10Z",
-    "url": "https://www.aerotime.aero/articles/nasaruddin-a-bakar-of-malaysia-aviation-group-joins-iata-board-of-governors",
     "airlineTag": null,
     "isBreaking": false
   }
