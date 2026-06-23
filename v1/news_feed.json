@@ -1,5 +1,38 @@
 [
   {
+    "id": "57779521c48b",
+    "title": "Asiana Airlines to leave Star Alliance in December 2026",
+    "summary": "Asiana Airlines, Korea\u2019s second largest airline, will leave Star Alliance on December 16, 2026, at midnight. The move&#8230; The post Asiana Airlines to leave Star Alliance in December 2026 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-23T08:13:57Z",
+    "url": "https://www.aerotime.aero/articles/asiana-airlines-to-leave-star-alliance-in-december-2026",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4d969559e386",
+    "title": "The World's 5 Largest Air Cargo Hubs In Operation",
+    "summary": "From North America to Asia, which are the world's largest air cargo hubs?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T08:00:18Z",
+    "url": "https://simpleflying.com/worlds-largest-air-cargo-hubs-in-operation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "98009c7d00f2",
+    "title": "San Francisco Airport Delays Are Now 4X Longer After FAA Banned Parallel Landings",
+    "summary": "The clocks keeps running out for flyers at SFO.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T04:22:12Z",
+    "url": "https://simpleflying.com/sfo-delays-4x-longer-faa-parallel-landing-ban/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "7472ca57da91",
     "title": "Southwest Boeing 737 Pulled From Service After Ramp Vehicle Wedges Beneath Its Belly",
     "summary": "Emergency crews were called to Memphis International Airport after a ground vehicle became wedged under a Southwest Airlines plane.",
@@ -8,6 +41,17 @@
     "publishedDate": "2026-06-23T03:07:50Z",
     "url": "https://simpleflying.com/southwest-boeing-737-ramp-vehicle-memphis/",
     "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fc63024a0040",
+    "title": "United Sends 1st 'Elevated' 787-9 Back To Boeing After Weeks Of Maintenance Issues",
+    "summary": "It remains unclear how long the flagship 787-9 will remain out of service and has been ferried to Moses Lake, a Boeing maintenance facility.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T01:40:07Z",
+    "url": "https://simpleflying.com/united-1st-premium-787-9-sent-boeing-break-down/",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-16T00:00:19Z",
     "url": "https://simpleflying.com/look-salaries-america-forgotten-turboprop-regional-pilots-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "395a6628d3fd",
-    "title": "Quietly Canceled: Why Boeing Got Rid Of 777-300ER Production",
-    "summary": "The aircraft remains an integral part in many fleets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T22:00:19Z",
-    "url": "https://simpleflying.com/why-boeing-got-rid-777-300er-production/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6335ee7f9954",
-    "title": "All-Business-Class Airline Beond Asks Employees to Keep Working Despite Months Without Pay",
-    "summary": "Beond has asked employees to keep working while awaiting a Saudi lifeline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T21:32:39Z",
-    "url": "https://simpleflying.com/beond-employees-work-months-without-pay/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "66d528b97fc3",
-    "title": "Russian Tu-22M3 bomber crashes during Siberia training flight",
-    "summary": "A Russian Tu-22M3 bomber crashed during a training flight in Siberia on June 15, 2026, according to Russia\u2019s&#8230; The post Russian Tu-22M3 bomber crashes during Siberia training flight appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-15T21:22:05Z",
-    "url": "https://www.aerotime.aero/articles/russian-tu-22m3-bomber-crash-siberia",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0719c8fb9616",
-    "title": "Marine F/A-18D pilot ejects safely before crash in Washington state",
-    "summary": "A US Marine Corps pilot safely ejected from an F/A-18D Hornet before the fighter crashed near Rimrock Lake&#8230; The post Marine F/A-18D pilot ejects safely before crash in Washington state appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-15T21:04:32Z",
-    "url": "https://www.aerotime.aero/articles/marine-fa-18d-crash-washington-pilot-ejects",
     "airlineTag": null,
     "isBreaking": false
   }
