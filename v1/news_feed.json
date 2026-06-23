@@ -1,5 +1,104 @@
 [
   {
+    "id": "7472ca57da91",
+    "title": "Southwest Boeing 737 Pulled From Service After Ramp Vehicle Wedges Beneath Its Belly",
+    "summary": "Emergency crews were called to Memphis International Airport after a ground vehicle became wedged under a Southwest Airlines plane.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T03:07:50Z",
+    "url": "https://simpleflying.com/southwest-boeing-737-ramp-vehicle-memphis/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8b30eee62f0e",
+    "title": "United Sends 1st \u201cElevated\u201d 787-9 Back To Boeing After Weeks Of Maintenance Issues",
+    "summary": "It remains unclear how long the flagship 787-9 will remain out of service and has been ferried to Moses Lake, a Boeing maintenance facility.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T01:40:07Z",
+    "url": "https://simpleflying.com/united-1st-premium-787-9-sent-boeing-break-down/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ab5cb0545b46",
+    "title": "Why Delta Air Lines' 20 Airbus A350-1000s Signal A Completely Different Long-Haul Bet Than United",
+    "summary": "Delta's A350-1000 will carry half its seats in premium cabins. United chose 787s instead. Here is what the split says about each carrier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T01:00:19Z",
+    "url": "https://simpleflying.com/delta-air-lines-20-airbus-a350-1000s-signal-completely-different-long-haul-bet-united/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "10e3eb4846bb",
+    "title": "United launches first Starlink-equipped transatlantic widebody flight",
+    "summary": "United Airlines operated its first Starlink-equipped transatlantic widebody flight on June 22, 2026, when Flight 14 departed Newark&#8230; The post United launches first Starlink-equipped transatlantic widebody flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-23T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/united-starlink-transatlantic-widebody-flight",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "37b27063faae",
+    "title": "United Launches Its 1st Transatlantic Starlink Flight Today Onboard One Of Its Oldest Jets",
+    "summary": "United is set to revolutionize transatlantic flights with the debut of onboard Starlink WiFi on its first-ever widebody aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-23T00:51:54Z",
+    "url": "https://simpleflying.com/united-1st-transatlantic-starlink-oldest-jets/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "daa47f1438ff",
+    "title": "Inside Qantas' Brand-New Pilot & Crew Rest Areas Built For 22-Hour Project Sunrise Flights",
+    "summary": "Anticipation grows for Project Sunrise, which is set to launch in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T23:42:32Z",
+    "url": "https://simpleflying.com/qantas-pilot-crew-rest-areas-built-22-hour-project-sunrise/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8045d2ab5184",
+    "title": "Why The US Air Force Wants To Give KC-46 & KC-135 Tankers Active Defenses Against Missiles & Drones",
+    "summary": "The USAFs tanker fleet enables power projection and sustained combat operations, learn about a new system that will enhance their safety.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-22T23:00:18Z",
+    "url": "https://simpleflying.com/why-usaf-give-kc-46-kc-135-tankers-active-defenses-against-missiles-drones/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0fc90cd51e6f",
+    "title": "Get SMART: FAA Picks ASI for Predictive Air Traffic Management",
+    "summary": "Agency awards a reported 12-year, $875 million contract to startup Air Space Intelligence.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-22T21:06:05Z",
+    "url": "https://www.flyingmag.com/smart-faa-contract-asi-air-traffic-management/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35aa2efb608d",
+    "title": "FAA picks ASI for $875M AI-enabled airspace-management system",
+    "summary": "The Federal Aviation Administration (FAA) has awarded Air Space Intelligence (ASI) a 12-year, $875 million contract to build&#8230; The post FAA picks ASI for $875M AI-enabled airspace-management system appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-22T21:00:26Z",
+    "url": "https://www.aerotime.aero/articles/faa-asi-smart-airspace-management-contract",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "73e2c7b374aa",
     "title": "California startup building commercial GPS alternative as jamming threats grow",
     "summary": "As GPS jamming and spoofing become a growing concern for aviation, defense and space operators, a California satellite&#8230; The post California startup building commercial GPS alternative as jamming threats grow appeared first on AeroTime.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-15T21:04:32Z",
     "url": "https://www.aerotime.aero/articles/marine-fa-18d-crash-washington-pilot-ejects",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8c8724c925a",
-    "title": "How Much Do F-35 Pilots Earn Compared To F-22 Pilots In 2026?",
-    "summary": "Why 5th-generation fighter jet pilots earn the same base pay as every other officer of the same rank and years of service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T21:00:19Z",
-    "url": "https://simpleflying.com/how-much-f-35-pilots-earn-compared-f-22-pilots-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "109fb40a3ea1",
-    "title": "FAA Reportedly Snubs Palantir, Thales for AI-Based Air Traffic Management",
-    "summary": "Agency said to be close to deciding who will build its Strategic Management of Airspace Routing Trajectories (SMART) platform.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-15T21:00:00Z",
-    "url": "https://www.flyingmag.com/faa-smart-ai-air-traffic-system-contract/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "510973477bc3",
-    "title": "Singapore Airlines 737 MAX Bursts Tire Upon Landing, Shuts Down Runway For Hours",
-    "summary": "A Boeing 737 MAX 8 operated by Singapore Airlines suffered a double tire failure upon landing at Kuala Lumpur International Airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T20:58:58Z",
-    "url": "https://simpleflying.com/massive-singapore-airlines-737-max-bursts-tire-shuts-runway/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5afc88f7ebb4",
-    "title": "Eight Believed Killed in B-52 Crash",
-    "summary": "Strategic bomber went down near Edwards Air Force Base on Monday.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-15T20:13:12Z",
-    "url": "https://www.flyingmag.com/breaking-b-52-crashes-in-california/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2deb6189d6e8",
-    "title": "NetJets Petitions FAA For Longer Crew Duty Periods",
-    "summary": "The petition would allow extended crew duty hours for Global 7500 operations.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-15T20:02:33Z",
-    "url": "https://avweb.com/aviation-news/net-jets-seeks-faa-exemption-global-7500/",
-    "airlineTag": "NetJets",
-    "isBreaking": false
-  },
-  {
-    "id": "307cb9748b91",
-    "title": "B-52 Accident At Edwards Air Force Base",
-    "summary": "Emergency crews responded after the aircraft went down on the airfield.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-06-15T19:45:07Z",
-    "url": "https://avweb.com/flight-safety/accidents-ntsb/b-52-crashes-edwards-air-force-base/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f37d90a3f4d9",
-    "title": "B-52 crashes shortly after takeoff at Edwards Air Force Base",
-    "summary": "A US Air Force B-52 Stratofortress crashed shortly after takeoff at Edwards Air Force Base in California on&#8230; The post B-52 crashes shortly after takeoff at Edwards Air Force Base appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-15T19:21:55Z",
-    "url": "https://www.aerotime.aero/articles/b-52-crashes-shortly-after-takeoff-at-edwards-air-force-base",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "03e4d7d6ffa2",
-    "title": "Allegiant Air Cuts 61 Routes: See All Flight Changes Now [Interactive Map]",
-    "summary": "How many of them can you guess? See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T19:00:19Z",
-    "url": "https://simpleflying.com/allegiant-air-cuts-61-routes-see-all-flight-changes-now-interactive-map/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ad1522f2c04a",
-    "title": "Here's The Exact Math That Would Justify Reviving British Airways' Retired Boeing 747-400 Fleet",
-    "summary": "Could the 747 actually return to the skies with British Airways? This is, of course, hypothetical, but what would it take for this to become reality?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-15T19:00:19Z",
-    "url": "https://simpleflying.com/exact-math-justify-reviving-british-airways-retired-boeing-747-400-fleet/",
     "airlineTag": null,
     "isBreaking": false
   }
