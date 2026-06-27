@@ -1,5 +1,60 @@
 [
   {
+    "id": "d79a7972843d",
+    "title": "Simple Flying Podcast Episode 296: American Airlines' Airbus A319 & A320 Retrofits, SFO Delays Quadruple",
+    "summary": "Join Tom & Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T18:54:11Z",
+    "url": "https://simpleflying.com/podcast-296/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1cf4944a0f84",
+    "title": "Why RAF Typhoon Pilots Are Walking Away From $83,881 Salaries For Commercial Cockpits",
+    "summary": "The Royal Air Force is a prime hunting ground for commercial airlines, which presents an issue for readiness and possibly combat effectiveness.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T18:00:18Z",
+    "url": "https://simpleflying.com/why-raf-typhoon-pilots-walking-away-salaries-commerical-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "772a9e74dff4",
+    "title": "United Boeing 737 MAX 9 Came Within 100 Feet Of A Drone On Final Approach To Newark",
+    "summary": "Another aircraft reported seeing the drone at around 2,000 feet of altitude.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T17:11:21Z",
+    "url": "https://simpleflying.com/united-boeing-737-max-drone-near-miss-newark/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e5c67b24bcf6",
+    "title": "Coast-To-Coast: United Airlines Debuts 2 Brand-New 6\u2011Hour 737 MAX Routes",
+    "summary": "The introduction of these flights will provide a new way to travel to the region of New England.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T16:01:18Z",
+    "url": "https://simpleflying.com/united-airlines-debuts-2-brand-new-6-hour-737-max-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "65f49f98d7e0",
+    "title": "How Alaska Airlines & Delta Air Lines Went From Friends To Frenemies In Just 13 Years",
+    "summary": "Timeline of the battle in Seattle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T15:00:19Z",
+    "url": "https://simpleflying.com/how-alaska-air-lines-delta-air-lines-friends-frenemies-13-years/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "5e6bbb54f96d",
     "title": "United Sends 1st 'Elevated' 787-9 Back To Boeing After Weeks Of Issues",
     "summary": "The first Boeing 787 to be fitted with United Airlines\u2019 elevated onboard cabin has been plagued with several problems since its delivery. It now appears that the jet, registered N61101, has been sent back to Boeing!",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-21T13:01:18Z",
     "url": "https://simpleflying.com/things-airbus-a380-no-other-airline-does/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e4560867d113",
-    "title": "The Airlines With The World\u2019s Widest Premium Economy Seats In 2026",
-    "summary": "A closer look at the biggest seats in a popular cabin.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T12:31:32Z",
-    "url": "https://simpleflying.com/airlines-with-widest-premium-economy-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e2edacd16115",
-    "title": "14 Hours Lying Flat: United Polaris Passenger Pays $7,400, Gets Just $500 For Broken Seat",
-    "summary": "A United Airlines passenger has recounted her experience of flying in a faulty Polaris seat with the Star Alliance carrier last October. The woman, named Cathy, purchased two business class (Polaris) seats to Beijing - the 2nd ticket for her adult daughter.Cathy was unfortunat...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T12:23:18Z",
-    "url": "https://simpleflying.com/video/14-hours-lying-flat-united-polaris-passenger-pays-7-400-gets-just-500-for-broken-seat/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9cc513116105",
-    "title": "US approves revised $1.5 billion Black Hawk sale to Austria",
-    "summary": "The US State Department has approved a possible Foreign Military Sale to Austria covering 12 Sikorsky UH-60M Black&#8230; The post US approves revised $1.5 billion Black Hawk sale to Austria appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-21T09:02:59Z",
-    "url": "https://www.aerotime.aero/articles/austria-uh60m-black-hawk-revised-fms",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5f45ee4b4af1",
-    "title": "Canada opens negotiations to buy Leonardo M-346 jet trainers",
-    "summary": "Canada has opened negotiations to acquire Leonardo\u2019s M-346 Master advanced jet trainer for the Royal Canadian Air Force,&#8230; The post Canada opens negotiations to buy Leonardo M-346 jet trainers appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-21T08:31:28Z",
-    "url": "https://www.aerotime.aero/articles/canada-negotiations-leonardo-m346-jet-trainers",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "46498b9047b3",
-    "title": "Why The US Navy Is Sending Super Hornets To Fight F-5 Tigers In Reserve Squadrons",
-    "summary": "The Northrop F-5 is a valuable aggressor aircraft, but now it is increasingly seen as sub-par and the Navy wants to train with older Super Hornets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T04:00:25Z",
-    "url": "https://simpleflying.com/why-us-navy-sending-hornets-fight-f-5-tigers-reserve-squadrons/",
     "airlineTag": null,
     "isBreaking": false
   }
