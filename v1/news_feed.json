@@ -1,5 +1,27 @@
 [
   {
+    "id": "5e6bbb54f96d",
+    "title": "United Sends 1st 'Elevated' 787-9 Back To Boeing After Weeks Of Issues",
+    "summary": "The first Boeing 787 to be fitted with United Airlines\u2019 elevated onboard cabin has been plagued with several problems since its delivery. It now appears that the jet, registered N61101, has been sent back to Boeing!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T12:29:18Z",
+    "url": "https://simpleflying.com/video/united-sends-1st-elevated-787-9-back-to-boeing-after-weeks-of-issues/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9e3451e1e88b",
+    "title": "The Real Reason The Air Force Retired The SR-71 & Why It Was A Mistake",
+    "summary": "The SR-71 was retired during the 'peace dividend' following the end of the Cold War and the emergence satellites and advanced ISR UAVs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T11:00:32Z",
+    "url": "https://simpleflying.com/real-reason-us-air-force-retired-sr-71-why-mistake/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e8c14f74222f",
     "title": "United Airlines Has Quietly Hired 1 Military Pilot Class Per Week Since 2024: Here's How",
     "summary": "A closer look at how United streamlines the transition from a military jet to a commercial flight deck.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-06-21T04:00:25Z",
     "url": "https://simpleflying.com/why-us-navy-sending-hornets-fight-f-5-tigers-reserve-squadrons/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c9e81bf371b",
-    "title": "How Qantas' $128 Billion Fleet Renewal Project Is Reshaping The Airline's Future",
-    "summary": "Qantas' massive fleet renewal will introduce A350s, A321XLRs and A220s, transforming its network and future growth plans.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T03:00:19Z",
-    "url": "https://simpleflying.com/qantas-fleet-renewal-project-reshaping-airline-future/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a2bc74883982",
-    "title": "Delta Pilots Avert Disaster After American Jet Cleared Into Their Path At Boston Logan",
-    "summary": "Conflicting air control orders cause a close call.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T01:31:38Z",
-    "url": "https://simpleflying.com/delta-pilots-avert-disaster-american-jet-boston-logan/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
