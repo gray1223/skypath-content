@@ -1,5 +1,82 @@
 [
   {
+    "id": "028610b50e49",
+    "title": "Pilatus PC-6 Skydiving Plane Crashes Shortly After Takeoff In France, Killing 11",
+    "summary": "The turboprop crashed moments after takeoff in France, killing the pilot, five instructors and five jumpers.",
+    "source": "Simple Flying",
+    "category": "training",
+    "publishedDate": "2026-06-28T17:28:12Z",
+    "url": "https://simpleflying.com/pilatus-pc-6-skydiving-plane-crash-france/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f168ed17f47d",
+    "title": "COMAC C909 marks 10th anniversary with 70% share of China\u2019s regional fleet",
+    "summary": "China\u2019s Commercial Aircraft Corporation (COMAC) marked the 10th anniversary of the C909 regional jet entering commercial service on&#8230; The post COMAC C909 marks 10th anniversary with 70% share of China\u2019s regional fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-28T16:26:17Z",
+    "url": "https://www.aerotime.aero/articles/comac-c909-marks-10th-anniversary-with-70-share-of-chinas-regional-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "be4590faef3b",
+    "title": "Here's How Boeing's MQ-25 Takes The Pilot Out Of The US Navy's Riskiest Refueling Job",
+    "summary": "The revolution coming to the flight deck of America's supercarriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T16:00:18Z",
+    "url": "https://simpleflying.com/how-boeing-mq-25-takes-pilot-out-us-navy-riskiest-refueling-job/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "662d946739a9",
+    "title": "FAA to probe Miami runway close call between American Airlines A319 & Phenom 300",
+    "summary": "The Federal Aviation Administration (FAA) has reportedly opened an investigation after an American Airlines Airbus A319 rejected takeoff&#8230; The post FAA to probe Miami runway close call between American Airlines A319 & Phenom 300 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-28T15:19:06Z",
+    "url": "https://www.aerotime.aero/articles/faa-to-probe-miami-runway-close-call-between-american-airlines-a319-phenom-300",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f257d44bdfad",
+    "title": "How The F-4 Phantom Defined Naval Aviation Before The F-14 & F-18",
+    "summary": "How he Navy's first missileer led the way.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T15:01:18Z",
+    "url": "https://simpleflying.com/how-f-4-phantom-defined-naval-aviation-before-f-14-f-18/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "70da3c90137f",
+    "title": "Ukrainian MiG-29 crashes during combat mission, pilot ejects safely",
+    "summary": "A Ukrainian Air Force MiG-29 fighter jet crashed overnight on June 27, 2026, while carrying out a combat&#8230; The post Ukrainian MiG-29 crashes during combat mission, pilot ejects safely appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-06-28T14:11:42Z",
+    "url": "https://www.aerotime.aero/articles/ukrainian-mig-29-crashes-during-combat-mission-pilot-ejects-safely",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9fe13c792eff",
+    "title": "Why The Boeing 727 Needed Three Engines To Settle A Fight Between United, American, & Eastern Airlines",
+    "summary": "The aircraft was a popular aircraft for many carriers across the US and beyond.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T14:00:18Z",
+    "url": "https://simpleflying.com/why-the-boeing-727-needed-three-engines-to-settle-a-fight-between-united-american-eastern-airlines/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "bece20f4bf2a",
     "title": "How A Software Update To The F-22's Engine Is Keeping America's Stealth Fighter Flying Into The 2030s",
     "summary": "As the Air Force rushes to produce the F-47, it is also upgrading the Raptor to keep it cutting-edge into the 2040s.",
@@ -666,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T22:56:26Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -743,7 +820,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T19:03:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1359,7 +1436,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-24T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1480,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T22:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1425,7 +1502,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T20:55:13Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1854,7 +1931,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-22T19:00:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/22/pr-louisiana-governor-signs-ads-b-billing-ban?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/22/pr-louisiana-governor-signs-ads-b-billing-ban?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-06-22T04:00:23Z",
     "url": "https://simpleflying.com/why-us-pilot-retirement-age-67-ground-senior-captains-every-international-route/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "673dea2037af",
-    "title": "Ryanair extends Michael O\u2019Leary\u2019s contract as Group CEO to April 2032",
-    "summary": "Ryanair Holdings has agreed a new contract that will keep Michael O\u2019Leary as Group CEO until April 2032,&#8230; The post Ryanair extends Michael O\u2019Leary\u2019s contract as Group CEO to April 2032 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-22T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/ryanair-oleary-ceo-contract-extension-2032",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "89af930967f6",
-    "title": "The $4 Billion Construction Project Turning A Remote US Air Force Base Into America's Primary Stealth Bomber",
-    "summary": "A big investment in America's future air defense.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T02:00:32Z",
-    "url": "https://simpleflying.com/construction-project-transforming-us-air-force-base-stealth-bomber-hub/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9e6433ac4365",
-    "title": "17-Hour Nonstop Flights: American Airlines' Ultra-Long Routes In 2026 [Map]",
-    "summary": "Most serve transpacific destinations, but there is one notable exception.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T01:00:21Z",
-    "url": "https://simpleflying.com/american-airlines-ultra-long-routes-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4430cdaa3be2",
-    "title": "Here's How Much A Private Jet Charter From San Francisco To New York Actually Costs In 2026",
-    "summary": "Getting from one side of the US to the other can be done in style and speed for a fair fee. This is how much flying private will actually set you back",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T01:00:21Z",
-    "url": "https://simpleflying.com/private-jet-charter-san-francisco-new-york-cost-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "82881e8aecc7",
-    "title": "7 Fighter Jets The US Air Force Has Retired That Pilots Still Wish Were Flying",
-    "summary": "That most missed warbirds.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T23:00:19Z",
-    "url": "https://simpleflying.com/retired-us-air-force-fighter-jets-pilots-still-miss/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3d76d05052df",
-    "title": "The Top 5 Highest Paid Royal Australian Air Force Pilot Ranks & Their Average 2026 Salaries",
-    "summary": "From Group Captain to Air Chief Marshal, discover the five highest-paid Royal Australian Air Force pilot ranks and their estimated 2026 salaries.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-06-21T23:00:19Z",
-    "url": "https://simpleflying.com/highest-paid-royal-australian-air-force-pilot-ranks-salaries-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5263ddce28be",
-    "title": "Why American Airlines Is Quietly Killing The Last International First Class Cabin In The US",
-    "summary": "Rivals Delta and United ditched their traditional first class offerings years ago.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T21:00:19Z",
-    "url": "https://simpleflying.com/american-airlines-quietly-killing-last-international-first-class-cabin-us/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
