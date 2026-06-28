@@ -1,5 +1,60 @@
 [
   {
+    "id": "bece20f4bf2a",
+    "title": "How A Software Update To The F-22's Engine Is Keeping America's Stealth Fighter Flying Into The 2030s",
+    "summary": "As the Air Force rushes to produce the F-47, it is also upgrading the Raptor to keep it cutting-edge into the 2040s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T13:00:18Z",
+    "url": "https://simpleflying.com/software-update-f-22-engine-keeping-americas-stealth-fighter-flying-2030s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e5640b32837f",
+    "title": "Why 22 Russian-Built Jets Have Sat Rotting At Mexican Airports Since 2020",
+    "summary": "In 2011 Interjet was Mexico's third-largest airline by passengers and was looking for a regional aircraft to support its domestic network. The obvious candidates were from Bombardier and Embraer but the carrier instead signed for 30 Sukhoi Superjet 100s! The financial logic wa...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T12:23:19Z",
+    "url": "https://simpleflying.com/video/why-22-russian-built-jets-have-sat-rotting-at-mexican-airports-since-2020/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "01a3e0005b64",
+    "title": "Delta Eyes LAX To Philadelphia And Washington Dulles By 2028 After Adding Newark",
+    "summary": "Delta's ambitious expansion plans at LAX could shake up the competitive landscape at Philadelphia and Washington Dulles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T12:08:57Z",
+    "url": "https://simpleflying.com/delta-lax-philadelphia-washington-dulles-2028/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "fbbb5961dfcb",
+    "title": "How Much Do Royal Air Force Fighter Jet Pilots Make?",
+    "summary": "Unraveling the mystery of RAF fighter pilot pay: What factors shape their earnings?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T10:30:29Z",
+    "url": "https://simpleflying.com/how-much-do-raf-fighter-jet-pilots-make/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2112388ddbe8",
+    "title": "Why United Airlines' Same Premium Plus Seat Now Sells As 3 Different Products",
+    "summary": "United's Premium Plus seat is no longer considered a singular product; instead, three tiers have been introduced to further unbundle premium economy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T10:00:19Z",
+    "url": "https://simpleflying.com/why-united-airlines-same-premium-plus-seat-now-sells-3-different-products/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "014ca845c4aa",
     "title": "Why RAAF F-35 Pilots Earning $180,000 Are Quitting For US Airlines On The E-3 Visa",
     "summary": "The unique career option for Australia's veterans.",
@@ -611,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T22:56:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T19:03:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1304,7 +1359,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-24T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1348,7 +1403,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T22:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1425,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T20:55:13Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-22T19:00:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/22/pr-louisiana-governor-signs-ads-b-billing-ban?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/22/pr-louisiana-governor-signs-ads-b-billing-ban?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-06-21T21:00:19Z",
     "url": "https://simpleflying.com/american-airlines-quietly-killing-last-international-first-class-cabin-us/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9e62b9a724f5",
-    "title": "Alaska Airlines Downsizes In Mexico By Dropping 4 Seasonal Routes From Los Angeles & Las Vegas",
-    "summary": "The changes include regional and mainline flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T19:18:57Z",
-    "url": "https://simpleflying.com/alaska-airlines-downsize-mexico-dropping-4-seasonal-los-angeles-las-vegas/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c2302e7057b9",
-    "title": "6-Hour Flights: Southwest Airlines Launches Exciting New Route To Hawaii In August [Map]",
-    "summary": "Southwest is the second carrier this year to launch service on this route, which had previously been unserved since 2005.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T18:00:19Z",
-    "url": "https://simpleflying.com/southwest-airlines-new-hawaii-route-august-launch/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cc37c8e07974",
-    "title": "Ex-American Airlines A330 Stored Since 2020 Joins Israir For New York Launch",
-    "summary": "The Israeli carrier will welcome two A330s to realize its long-haul ambitions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T17:40:12Z",
-    "url": "https://simpleflying.com/israir-first-airbus-a330-new-york-august-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "32cdf679d14d",
-    "title": "7-Hour Nonstop Flights: Southwest Airlines' 10 Record-Breaking Longest Routes [Map & List]",
-    "summary": "Only one of Southwest's 10 longest routes by block time is international.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T16:00:19Z",
-    "url": "https://simpleflying.com/southwest-airlines-longest-routes/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fb55257f01cd",
-    "title": "How Southwest Airlines' 'Trip For Pay' Model Pushes Senior Boeing 737 Captains Past $450,000 In 2026",
-    "summary": "Southwest Airlines' unique Trip For Pay system quietly generates pay that helps narrowbody pilots earn levels often associated with widebody flying.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T16:00:19Z",
-    "url": "https://simpleflying.com/southwest-airlines-trip-pay-model-pushes-senior-boeing-737-captains-past-450000-2026/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
