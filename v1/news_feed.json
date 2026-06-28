@@ -1,5 +1,49 @@
 [
   {
+    "id": "014ca845c4aa",
+    "title": "Why RAAF F-35 Pilots Earning $180,000 Are Quitting For US Airlines On The E-3 Visa",
+    "summary": "The unique career option for Australia's veterans.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-28T00:00:18Z",
+    "url": "https://simpleflying.com/why-raaf-f-35-pilots-earning-180-000-quitting-for-us-airlines-e-3-visa/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e96a388dadfc",
+    "title": "Here's How The FAA Lets Boeing Sign Off On Its Own 737 MAX Deliveries",
+    "summary": "This is the story of the 737 MAX and the ODA, a relationship once broken and now mended. Boeing's push to return to its best is making big strides.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T22:00:18Z",
+    "url": "https://simpleflying.com/how-faa-lets-boeing-sign-off-own-737-max-deliveries/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6699c3af3de4",
+    "title": "\u201cCrashed Into The Ceiling\u201d: Delta Air Lines Sued After Severe Turbulence Sent 25 To Hospital",
+    "summary": "A 2.5-minute turbulence ordeal on Delta Flight DL56 left passengers with head trauma and orthopedic injuries, prompting a lawsuit and investigation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T21:10:49Z",
+    "url": "https://simpleflying.com/delta-air-lines-sued-severe-tubulence-sent-25-hospital/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "65ebda40626c",
+    "title": "How The C-17 Globemaster's Externally Blown Flap System Creates Landing Noise Challenges No Other Military Transport Faces",
+    "summary": "The C-17's short-field landing capability comes from a system that no other military transport uses. It also creates a noise problem.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-27T21:00:19Z",
+    "url": "https://simpleflying.com/c17-globemaster-externally-blown-flap-system-landing-noise-challenges/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d79a7972843d",
     "title": "Simple Flying Podcast Episode 296: American Airlines' Airbus A319 & A320 Retrofits, SFO Delays Quadruple",
     "summary": "Join Tom & Channing for the latest aviation hot topics.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-06-21T16:00:19Z",
     "url": "https://simpleflying.com/southwest-airlines-trip-pay-model-pushes-senior-boeing-737-captains-past-450000-2026/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b0eaf759bdc0",
-    "title": "In Photos: Trump Unveils VC-25B 'Bridge' Air Force One After Rapid 10-Month Conversion",
-    "summary": "The president's interim jumbo jet arrives.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T15:07:44Z",
-    "url": "https://simpleflying.com/trump-unveils-vc-25b-bridge-air-force-one-photos/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "df01af4493a4",
-    "title": "Why This Country Walked Away From The F-35 & Ordered 20 More Eurofighters Instead",
-    "summary": "Why Spain chose new Eurofighters over the F-35, and what the Halcon program reveals about its future air combat strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T15:00:19Z",
-    "url": "https://simpleflying.com/why-country-walked-away-f35-ordered-20-more-eurofighters-instead/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4610938b322",
-    "title": "15-Hour Flights: Turkish Airlines Eyes Brand-New Ultra-Long Route [Map]",
-    "summary": "The airline first considered the idea back in 2024, but Turkish Airlines will only launch services to Lima \"based on market conditions\".",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T14:00:19Z",
-    "url": "https://simpleflying.com/15-hour-flights-turkish-airlines-eyes-brand-new-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f1735fc23df",
-    "title": "5 Things The Airbus A380 Enables Airlines To Do That No Other Aircraft Today Can",
-    "summary": "The plane remains uniquely capable in multiple areas, and will be missed by some of its operators once it's retired.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-21T13:01:18Z",
-    "url": "https://simpleflying.com/things-airbus-a380-no-other-airline-does/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
