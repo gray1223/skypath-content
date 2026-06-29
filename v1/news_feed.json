@@ -1,5 +1,71 @@
 [
   {
+    "id": "fd59f6402555",
+    "title": "Pueblo Removes Proposed 100-Hour CFI Cap",
+    "summary": "City says revised minimum standards draft will go to council July 13.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-06-29T19:50:14Z",
+    "url": "https://avweb.com/flight-safety/flight-training/pueblo-removes-proposed-100-hour-cfi-cap/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3b03a014a7c",
+    "title": "2 Types: Inside This ACMI Operator\u2019s Long-Term Fleet Plan",
+    "summary": "Simple Flying sat down with euroAtlantic Airways CEO Pauls Calitis to discuss the carrier's strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T19:00:19Z",
+    "url": "https://simpleflying.com/inside-euroatlantic-airways-long-term-fleet-plan/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6801f782126f",
+    "title": "FAA Investigates JetBlue Drone Strike",
+    "summary": "The aircraft landed normally at JFK and a post-flight inspection found no damage.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-29T18:52:01Z",
+    "url": "https://avweb.com/aviation-news/faa-investigates-jetblue-drone-strike/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "3279ba564353",
+    "title": "Breeze Airways Launches A Staggering 19 New Routes This Week: See All Flights Now",
+    "summary": "They'll all begin between July 1 and 3. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T18:00:21Z",
+    "url": "https://simpleflying.com/breeze-airways-launches-a-staggering-19-new-routes-this-week/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "ea2aad9568c3",
+    "title": "A First-Class Hot Dog: SWISS Launches Limited Edition \"Bastardo\" In-Flight Snack",
+    "summary": "\"Bastardo\" is proof that airline dining may be entering a new era: less caviar tradition, more comfort food with a boarding pass.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T17:51:25Z",
+    "url": "https://simpleflying.com/swiss-launches-first-class-hot-dog-bastardo-snack/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "72361ef15f7f",
+    "title": "The Airbus A350F's Massive Cargo Door Is Bigger Than Most Regional Jet Fuselages",
+    "summary": "The A350F's giant cargo door exists primarily to replace the Boeing 747F's unique oversized-cargo capability",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T16:01:20Z",
+    "url": "https://simpleflying.com/airbus-a350f-massive-cargo-door-bigger-most-regional-jet-fuselages/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c160322a19f9",
     "title": "Air India Pilot Accidentally Flies Into Pakistan, Grounded From Future Flights",
     "summary": "A routine bird-strike inspection at Amritsar exposed how tight border-airport operations can become.",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-06-22T20:00:19Z",
     "url": "https://simpleflying.com/allegiant-air-cuts-24-california-routes-see-all-flight-changes-now/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c48b66332da",
-    "title": "9-Hour Boeing 737 Flights: Qantas Launches This Exciting New Route [Map]",
-    "summary": "The carrier relaunches its connection between Sydney and Samoa via a stopover in Auckland.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T20:00:19Z",
-    "url": "https://simpleflying.com/9-hour-boeing-737-flights-qantas-new-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "61e28c7abc98",
-    "title": "Louisiana Governor Signs ADS-B Billing Ban",
-    "summary": "WASHINGTON\u2014Louisiana Gov. Jeff Landry signed HB 730 into law, joining the growing number of states moving to stop the use of ADS-B\u2014a safety technology\u2014to collect fees from pilots. AOPA views this action as an important recognition that ADS-B, a technology used by pilots and ai...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-06-22T19:00:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/22/pr-louisiana-governor-signs-ads-b-billing-ban?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f94c323d0bbb",
-    "title": "On Board the \u2018Bridge\u2019 Air Force One",
-    "summary": "New livery and original Qatari design set jet apart from earlier VC-25As.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-22T18:51:52Z",
-    "url": "https://www.flyingmag.com/on-board-the-bridge-air-force-one/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c810986d3abf",
-    "title": "VC-25B Bridge Aircraft Arrives At Joint Base Andrews",
-    "summary": "The former Qatari 747-8i has begun the final step before joining the presidential airlift fleet.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-22T18:30:55Z",
-    "url": "https://avweb.com/aviation-news/vc-25b-bridge-aircraft-joint-base-andrews/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bdf777a9da1d",
-    "title": "Delta To Retire Six 27+ Year-Old Boeing 717s Nearly 4 Years Ahead Of Schedule",
-    "summary": "The retirement of six aging Boeing 717s by Delta, nearly four years earlier than expected, may mark the beginning of a measured transition strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T18:07:26Z",
-    "url": "https://simpleflying.com/delta-retire-six-boeing-717-4-years-ahead-schedule/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "91da7126826c",
-    "title": "How A $175 Million Engine Dispute Quietly Killed United Airlines' 45-Jet Airbus A350 Order",
-    "summary": "While details of the contractual breach remain confidential, it has resulted in United scrapping its aircraft order from 2009.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T18:00:20Z",
-    "url": "https://simpleflying.com/how-175-million-engine-dispute-quietly-killed-united-airlines-45-jet-airbus-a350-order/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
