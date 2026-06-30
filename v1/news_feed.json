@@ -1,5 +1,16 @@
 [
   {
+    "id": "eb5389d2bf63",
+    "title": "Aircraft renters insurance checklist",
+    "summary": "Many pilots who rent or borrow aircraft assume that the FBO, flight school, or aircraft owner\u2019s insurance will protect them if something goes wrong. Unfortunately, that is not always the case.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-03T21:42:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "827a1b7b282e",
     "title": "Training and Safety Tip: First things stick",
     "summary": "Flight instructor candidates are typically taught a few fundamentals of education theory, including the laws of learning: readiness, exercise, effect, primacy, intensity, and recency.",
@@ -7,6 +18,127 @@
     "category": "training",
     "publishedDate": "2026-07-01T00:09:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fde72c0e87a7",
+    "title": "FAA Takes First Steps to Repeal Supersonic Flight Ban",
+    "summary": "Proposed interim standards mark the agency\u2019s first major step to undo the decades-old ban.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-30T19:45:55Z",
+    "url": "https://www.flyingmag.com/faa-first-steps-repeal-supersonic-flight-ban/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d21466c24005",
+    "title": "Is It True That Airlines Are Shrinking Economy Cabins To Chase Wealthy Vacationers Instead Of Business Travelers?",
+    "summary": "Passengers are feeling a continuous compression in the economy cabin.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T19:00:20Z",
+    "url": "https://simpleflying.com/true-airlines-shrinking-economy-cabins-chase-wealthy-vacationers-not-business-travelers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "00db6657c9bc",
+    "title": "Photos: Inside Delta\u2019s Stunning New 4,000-Square-Foot Delta One Lounge At LAX",
+    "summary": "Delta continues its premium product expansion at LAX. What does the new Terminal 2 Delta One Lounge have to offer?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T18:50:11Z",
+    "url": "https://simpleflying.com/inside-delta-4000-square-foot-delta-one-lounge-lax/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "0f3de1ea06a6",
+    "title": "Days After Banning First Officers From Landing, Russian Airline\u2019s Boeing 737 Overruns Runway",
+    "summary": "S7 Airlines' Boeing 737-800 overran the runway at Mirny just days after the carrier restricted first officers from landing aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T17:40:10Z",
+    "url": "https://simpleflying.com/banning-first-officers-landing-boeing-737-overruns-runway/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d8b32d4fe423",
+    "title": "United Airlines Bet Its Premium Future On 1 Boeing 787-9 & It Keeps Breaking Down",
+    "summary": "One of United's new 787s has been flown to Boeing for repairs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T17:00:20Z",
+    "url": "https://simpleflying.com/united-airlines-bet-its-premium-future-on-1-boeing-787-9-it-keeps-breaking-down/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "859001ad815a",
+    "title": "Only 42% Full: The Top 10 Shockingly Empty US Long-Haul Routes Revealed",
+    "summary": "They're operated by eight airlines, with some surprising entries. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T16:00:19Z",
+    "url": "https://simpleflying.com/only-42pc-full-the-10-shockingly-empty-us-long-haul-routes-revealed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b50a748f0dfd",
+    "title": "FAA Weighs Drone Restrictions Near Critical Infrastructure",
+    "summary": "The proposed rule would create a process for limiting drone operations near certain fixed site facilities.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-06-30T15:52:17Z",
+    "url": "https://avweb.com/aviation-news/drones/faa-drone-restrictions-comments/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4cbd2543afed",
+    "title": "No Regrets: Why Alaska Airlines Easily Got Rid Of The Boeing 737-900",
+    "summary": "The Boeing 737-900 was part of Alaska Airlines' fleet for almost 25 years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T15:12:47Z",
+    "url": "https://simpleflying.com/why-alaska-airlines-got-rid-of-the-boeing-737-900/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f603c6a7b762",
+    "title": "W Aviation Organizes Venezuela Relief Flights",
+    "summary": "The Fort Lauderdale-based operator is coordinating donated aircraft, crews and supplies for relief flights to Caracas.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-06-30T15:09:28Z",
+    "url": "https://avweb.com/aviation-news/w-aviation-venezuela-relief-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "33a99cc41115",
+    "title": "Why American Airlines Keeps Its Largest Maintenance Base 250 Miles From Its Fort Worth Hub",
+    "summary": "From it's wartime roots, Tulsa Tech Ops remains essential to the airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T15:00:19Z",
+    "url": "https://simpleflying.com/why-american-airlines-keeps-maintenance-base-250-miles-from-fort-worth-hub/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e55a6c01c809",
+    "title": "How Airline Pilots Can Break Through 401(k) Limits",
+    "summary": "Allworth helps give pilots more runway for retirement.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-06-30T15:00:00Z",
+    "url": "https://www.flyingmag.com/how-airline-pilots-can-break-through-401k-limits/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2064,138 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-23T19:04:28Z",
     "url": "https://simpleflying.com/singapore-airlines-737-identical-double-tire-blowout-same-flight-8-days/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e1031aba5382",
-    "title": "Senate Hearing Focuses On ADS-B In Mandate",
-    "summary": "Lawmakers and aviation groups discussed ADS-B In, runway surveillance and ATC modernization during a hearing on National Airspace System safety.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-23T18:35:14Z",
-    "url": "https://avweb.com/aviation-news/senate-hearing-focuses-on-ads-b-in-mandate/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5862f2c50f92",
-    "title": "Russian Airline Bans First Officers From Landings After Surge In Hard Landing Incidents",
-    "summary": "Russian carrier S7 Airlines has barred most first officers from performing landings after a series of hard landings, highlighting operational pressure",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T18:26:51Z",
-    "url": "https://simpleflying.com/russian-airline-bans-first-officiers-landings-surge-hard-landing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "998a8a0f9c00",
-    "title": "Coast Guard Recovers 4 Crew With Minor Injuries After Alaska Helicopter Crash",
-    "summary": "Officials said the personnel escaped with \u2018non-serious\u2019 injuries after a training flight accident.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-23T18:00:00Z",
-    "url": "https://www.flyingmag.com/coast-guard-recovers-4-crew-helicopter-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "326c4f2a106d",
-    "title": "A Look At The Salaries Of Private Jet Pilots In The US In 2026",
-    "summary": "Private jet careers are still popular for pilots even though they typically pay less than commercial pilot positions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T17:30:20Z",
-    "url": "https://simpleflying.com/salaries-of-private-jet-pilots-us-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a6abf7398169",
-    "title": "What Squawk Code 7700 Actually Means",
-    "summary": "How often is it used by commercial airline pilots?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T17:00:21Z",
-    "url": "https://simpleflying.com/what-squawk-code-770-meas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c4f087f1588",
-    "title": "Bristow to Acquire Berry Aviation in $105M Transaction",
-    "summary": "Helicopter operator diversifies fleet with fixed-wing additions as it seeks more government customers.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-23T16:30:00Z",
-    "url": "https://www.flyingmag.com/bristow-acquires-berry-aviation-105m/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "66db6970c443",
-    "title": "FAA Picks ASI For Air Traffic Management Software",
-    "summary": "The 12-year contract covers FMDS and SMART, two systems aimed at helping the agency manage traffic flow before delays form.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-23T15:18:52Z",
-    "url": "https://avweb.com/aviation-news/faa-picks-asi-for-air-traffic-management/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "702dc3c7f1b9",
-    "title": "The Island That Sent Its Last Transmission To Pearl Harbor In 1941 Is Back In Service For The US Navy",
-    "summary": "For years, Wake Island has largely been a sleepy Pacific outpost, now will become an important node for Indo-Pacific strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T15:00:20Z",
-    "url": "https://simpleflying.com/island-sent-last-transmission-pearl-harbor-1941-back-service-us-navy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c6c5c557356c",
-    "title": "FAA Extends Northeast ATC Staffing Relief",
-    "summary": "Controller staffing shortages continue to affect operations at several major airports.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-23T14:37:33Z",
-    "url": "https://avweb.com/aviation-news/faa-extends-northeast-atc-staffing-relief/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "96a4a7c22e70",
-    "title": "Korean Air, Delta expand Seamless Baggage Transfer to Seattle and Los Angeles",
-    "summary": "Korean Air announced that it has expanded its Seamless Baggage Transfer service with Delta Air Lines to two&#8230; The post Korean Air, Delta expand Seamless Baggage Transfer to Seattle and Los Angeles appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-23T14:15:07Z",
-    "url": "https://www.aerotime.aero/articles/korean-air-delta-expand-seamless-baggage-transfer-to-seattle-and-los-angeles",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1f1b7cb5a942",
-    "title": "6 Airlines Flying The Boeing 787 Dreamliner The Most In 2026",
-    "summary": "The airlines operating the most Boeing 787 flights in 2026 are based in the United States, Middle East, and Japan.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T13:00:19Z",
-    "url": "https://simpleflying.com/6-airlines-flying-boeing-787-dreamliner-most-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a09899e26b02",
-    "title": "France renews Harmattan AI contract with order for 5,000 Sonora drones",
-    "summary": "Harmattan AI has secured a renewed program of record from the French Ministry of the Armed Forces for&#8230; The post France renews Harmattan AI contract with order for 5,000 Sonora drones appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-23T12:31:53Z",
-    "url": "https://www.aerotime.aero/articles/france-harmattan-ai-sonora-renewed-order",
     "airlineTag": null,
     "isBreaking": false
   }
