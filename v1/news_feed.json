@@ -1,12 +1,89 @@
 [
   {
+    "id": "0655d586e724",
+    "title": "Apple AirTags Helped Airlines Cut Permanently Lost Bags By 90% In Just One Year",
+    "summary": "Mobile tech combines with airline IT to save billions in lost baggage.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T03:16:42Z",
+    "url": "https://simpleflying.com/apple-airtags-airlines-lost-bags-90-percent-sita/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39a9ec700304",
+    "title": "Less Capacity: Why Southwest Airlines Reversed A $60 Million Decision Made 14 Years Ago",
+    "summary": "A small decision with big consequences.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T01:30:20Z",
+    "url": "https://simpleflying.com/why-southwest-airlines-reversed-a-60-million-decision-14-years-ago/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "275a223c15ca",
+    "title": "Delta's CEO Blames \"Congested\" ATC For 20%+ Airfare Surge",
+    "summary": "Ed Bastian claims that the air traffic control system is the culprit, causing a logjam in the market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T00:25:05Z",
+    "url": "https://simpleflying.com/delta-ceo-congested-atc-20-airfare-surge/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "a589bb6628b8",
+    "title": "Still On Track? How Aircraft Delivery Delays Are Affecting Aviation's 2050 Net-Zero Goal",
+    "summary": "The aviation industry is unlikely to remain fully on track to meet its 2050 net-zero target under current conditions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T00:01:19Z",
+    "url": "https://simpleflying.com/how-aircraft-delivery-delays-affecting-aviation-2050-net-zero-goal/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "206179dc0246",
+    "title": "TSA PreCheck Touchless ID Gets Major Expansion With New Google Wallet Option",
+    "summary": "TSA PreCheck Touchless ID is available at 65 airports nationwide and supports more than 100 participating airlines",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T23:08:57Z",
+    "url": "https://simpleflying.com/tsa-precheck-touchless-id-expansion-google-wallet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fd59f6402555",
     "title": "Pueblo Removes Proposed 100-Hour CFI Cap",
     "summary": "City says revised minimum standards draft will go to council July 13.",
     "source": "AvWeb",
     "category": "training",
-    "publishedDate": "2026-06-29T19:50:14Z",
+    "publishedDate": "2026-06-29T22:50:00Z",
     "url": "https://avweb.com/flight-safety/flight-training/pueblo-removes-proposed-100-hour-cfi-cap/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d79a1447d1a6",
+    "title": "United Launches Brand-New Nonstop Service To Cartagena From 2 Major US Hubs",
+    "summary": "United Airlines announces its third Colombian destination, Cartagena, the airline's four-weekly flights from Houston and Washington Dulles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T22:48:10Z",
+    "url": "https://simpleflying.com/united-launches-nonstop-service-cartagena-2-us-hubs/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a84777db9cc1",
+    "title": "Still No Answers: Malaysia Airlines MH370 Search Extended Through 2027, 12+ Years After Disappearance",
+    "summary": "Malaysia extends the MH370 search until 2027, giving Ocean Infinity another year to solve aviation's biggest mystery and bring closure to families.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-29T22:00:41Z",
+    "url": "https://simpleflying.com/malaysia-airlines-mh370-search-extended-2027/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1029,7 +1106,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T22:56:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1106,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T19:03:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1722,7 +1799,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-24T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1766,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T22:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1788,7 +1865,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T20:55:13Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-06-23T01:00:00Z",
     "url": "https://www.aerotime.aero/articles/united-starlink-transatlantic-widebody-flight",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "37b27063faae",
-    "title": "United Launches Its 1st Transatlantic Starlink Flight Today Onboard One Of Its Oldest Jets",
-    "summary": "United is set to revolutionize transatlantic flights with the debut of onboard Starlink WiFi on its first-ever widebody aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T00:51:54Z",
-    "url": "https://simpleflying.com/united-1st-transatlantic-starlink-oldest-jets/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "daa47f1438ff",
-    "title": "Inside Qantas' Brand-New Pilot & Crew Rest Areas Built For 22-Hour Project Sunrise Flights",
-    "summary": "Anticipation grows for Project Sunrise, which is set to launch in 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T23:42:32Z",
-    "url": "https://simpleflying.com/qantas-pilot-crew-rest-areas-built-22-hour-project-sunrise/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8045d2ab5184",
-    "title": "Why The US Air Force Wants To Give KC-46 & KC-135 Tankers Active Defenses Against Missiles & Drones",
-    "summary": "The USAFs tanker fleet enables power projection and sustained combat operations, learn about a new system that will enhance their safety.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T23:00:18Z",
-    "url": "https://simpleflying.com/why-usaf-give-kc-46-kc-135-tankers-active-defenses-against-missiles-drones/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0fc90cd51e6f",
-    "title": "Get SMART: FAA Picks ASI for Predictive Air Traffic Management",
-    "summary": "Agency awards a reported 12-year, $875 million contract to startup Air Space Intelligence.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-22T21:06:05Z",
-    "url": "https://www.flyingmag.com/smart-faa-contract-asi-air-traffic-management/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "35aa2efb608d",
-    "title": "FAA picks ASI for $875M AI-enabled airspace-management system",
-    "summary": "The Federal Aviation Administration (FAA) has awarded Air Space Intelligence (ASI) a 12-year, $875 million contract to build&#8230; The post FAA picks ASI for $875M AI-enabled airspace-management system appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-22T21:00:26Z",
-    "url": "https://www.aerotime.aero/articles/faa-asi-smart-airspace-management-contract",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "73e2c7b374aa",
-    "title": "California startup building commercial GPS alternative as jamming threats grow",
-    "summary": "As GPS jamming and spoofing become a growing concern for aviation, defense and space operators, a California satellite&#8230; The post California startup building commercial GPS alternative as jamming threats grow appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-22T20:19:14Z",
-    "url": "https://www.aerotime.aero/articles/commercial-gps-backup-jamming-threats",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6c22cd81591",
-    "title": "Allegiant Air Cuts 24 California Routes: See All Flight Changes Now [List & Map]",
-    "summary": "39% of the budget carrier's California routes have gone. See more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-22T20:00:19Z",
-    "url": "https://simpleflying.com/allegiant-air-cuts-24-california-routes-see-all-flight-changes-now/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
