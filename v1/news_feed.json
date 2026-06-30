@@ -1,5 +1,38 @@
 [
   {
+    "id": "19b0eb0498e2",
+    "title": "Breaking: SAS Announces Order For Up To 40 Airbus A330 Aircraft",
+    "summary": "The carrier has put pen to paper on the largest investment in its history.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T08:41:28Z",
+    "url": "https://simpleflying.com/sas-orders-up-to-40-airbus-a330s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7aca866fa31e",
+    "title": "American, Delta & United Will Pay TSA $6.8 Million A Year For Crew To Skip Security",
+    "summary": "A new system of air crew security screening is taking off.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T05:08:50Z",
+    "url": "https://simpleflying.com/american-delta-united-tsa-fee-crew-security/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5fa8d37fea3b",
+    "title": "Delta Plots 1st Transatlantic Flight From Austin With Nonstop Link To Paris",
+    "summary": "Could Austin's airport soon become the only U.S. gateway to Paris? Delta's plans could shake up the trans-Atlantic market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-06-30T04:57:59Z",
+    "url": "https://simpleflying.com/delta-1st-transatlantic-flight-austin-nonstop-paris/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "0655d586e724",
     "title": "Apple AirTags Helped Airlines Cut Permanently Lost Bags By 90% In Just One Year",
     "summary": "Mobile tech combines with airline IT to save billions in lost baggage.",
@@ -1106,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T22:56:26Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1216,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T19:03:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1832,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-24T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/24/flying-low?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1843,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T22:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/training-and-safety-tip-know-your-nordo-plan?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1865,7 +1898,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-23T20:55:13Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/23/keeping-older-popular-training-aircraft-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-23T01:40:07Z",
     "url": "https://simpleflying.com/united-1st-premium-787-9-sent-boeing-break-down/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8b30eee62f0e",
-    "title": "United Sends 1st \u201cElevated\u201d 787-9 Back To Boeing After Weeks Of Maintenance Issues",
-    "summary": "It remains unclear how long the flagship 787-9 will remain out of service and has been ferried to Moses Lake, a Boeing maintenance facility.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T01:40:07Z",
-    "url": "https://simpleflying.com/united-1st-premium-787-9-sent-boeing-break-down/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ab5cb0545b46",
-    "title": "Why Delta Air Lines' 20 Airbus A350-1000s Signal A Completely Different Long-Haul Bet Than United",
-    "summary": "Delta's A350-1000 will carry half its seats in premium cabins. United chose 787s instead. Here is what the split says about each carrier.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-23T01:00:19Z",
-    "url": "https://simpleflying.com/delta-air-lines-20-airbus-a350-1000s-signal-completely-different-long-haul-bet-united/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "10e3eb4846bb",
-    "title": "United launches first Starlink-equipped transatlantic widebody flight",
-    "summary": "United Airlines operated its first Starlink-equipped transatlantic widebody flight on June 22, 2026, when Flight 14 departed Newark&#8230; The post United launches first Starlink-equipped transatlantic widebody flight appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-23T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/united-starlink-transatlantic-widebody-flight",
     "airlineTag": "United Airlines",
     "isBreaking": false
   }
