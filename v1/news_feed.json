@@ -6,7 +6,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,7 +17,95 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "794a1938a895",
+    "title": "Avolon to buy 11 Airbus A321neo aircraft ordered by Frontier Airlines",
+    "summary": "Lessor Avolon will purchase 11 Airbus A321neo aircraft ordered by Frontier Airlines, after its parent company Bohai Leasing&#8230; The post Avolon to buy 11 Airbus A321neo aircraft ordered by Frontier Airlines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-02T13:12:59Z",
+    "url": "https://www.aerotime.aero/articles/avolon-buy-airbus-a321neo-aircraft-frontier-airlines",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d40606c1fa0a",
+    "title": "How Inflight Service Affects The Passenger Experience",
+    "summary": "As aircraft seat designs homogenize, exceptional in-flight service and human connection have become the ultimate battleground for airline loyalty",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-02T13:00:19Z",
+    "url": "https://simpleflying.com/how-inflight-service-affects-passenger-experience/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3ebb9bf191a1",
+    "title": "VC-25A Bows Out After 35 Years As Trump's 'Bridge' Air Force One Eyes July 3 Debut",
+    "summary": "The world has been so focused on the new/interim/\u2019bridge\u2019 Boeing 747-8 Air Force One and its journey to entering service that many failed to think about how it would spell the end for the VC-25As in their long-running role in transporting the president.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-02T12:28:18Z",
+    "url": "https://simpleflying.com/video/vc-25a-bows-out-after-35-years-as-trump-s-bridge-air-force-one-eyes-july-3-debut/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4fb11518ff4c",
+    "title": "Emirates Abruptly Cuts Airbus A380 Flights To Heathrow In July [Full Schedule]",
+    "summary": "The airline will now 'only' fly the superjumbo five times daily. See the latest information here!",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-07-02T12:00:18Z",
+    "url": "https://simpleflying.com/emirates-abruptly-cuts-airbus-a380-flights-to-heathrow-in-july-full-schedule/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bfcead7b9884",
+    "title": "Embraer completes takeover of Safran\u2019s joint stake in EZ Air Interior",
+    "summary": "Embraer has completed the takeover of Safran\u2019s joint stake in Mexico-based EZ Air Interior, purchasing the remaining 50%&#8230; The post Embraer completes takeover of Safran\u2019s joint stake in EZ Air Interior appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-02T10:41:10Z",
+    "url": "https://www.aerotime.aero/articles/embraer-completes-takeover-of-safrans-joint-stake-in-ez-air-interior",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2748d51d9714",
+    "title": "\"Stop The Plane\": United Passenger Calls 911 Mid-Takeoff, Rushes Toward Flight Deck",
+    "summary": "The aircraft landed back in Indianapolis within 15 minutes of taking off.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-02T10:33:47Z",
+    "url": "https://simpleflying.com/stop-the-plane-united-passenger-911-call-indianapolis/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e4d7bb298c91",
+    "title": "Trump steps onto Qatar-gifted Boeing 747 for first trip on new Air Force One",
+    "summary": "US President Donald Trump stepped on to a Qatar-gifted Boeing 747 for his first trip in the new&#8230; The post Trump steps onto Qatar-gifted Boeing 747 for first trip on new Air Force One appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-02T09:24:05Z",
+    "url": "https://www.aerotime.aero/articles/president-trump-qatar-gifted-boeing-747-air-force-one",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "de26ecfdde88",
+    "title": "Why Did Boeing Build The 747 Freighter With A Nose Door?",
+    "summary": "Discover the surprising reason behind the 747 Freighter's iconic nose door design.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-02T08:55:00Z",
+    "url": "https://simpleflying.com/why-boeing-build-747-freighter-nose-door/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -413,7 +501,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T01:40:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -435,7 +523,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T00:09:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1865,7 +1953,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T22:56:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/aopa-new-jersey-pilots-oppose-hangar-eviction-effort?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +2030,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-06-25T19:03:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/25/louisiana-becomes-third-state-to-ban-ads-b-based-billing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-25T12:05:29Z",
     "url": "https://www.aerotime.aero/articles/france-russian-shadow-fleet-tanker-sicily",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b4f843a2220",
-    "title": "Flight Attendant Career Paths Outside of an Airline",
-    "summary": "If you\u2019re thinking about hanging up your crew wings, these unexpected jobs could be the perfect next step.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-25T12:00:00Z",
-    "url": "https://www.flyingmag.com/flight-attendant-other-career-paths/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0937aa616d9c",
-    "title": "How to unshackle airlines from the constraints of future engine MRO bottlenecks",
-    "summary": "The International Air Transport Association (IATA) has released a new report looking at engine maintenance, repair, and overhaul&#8230; The post How to unshackle airlines from the constraints of future engine MRO bottlenecks appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-25T11:44:49Z",
-    "url": "https://www.aerotime.aero/articles/how-to-unshackle-airlines-from-the-constraints-of-future-engine-mro-bottlenecks",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7f2b2d938bc9",
-    "title": "Massive Expansion: easyJet Launches 13 New Routes From The UK [List & Map]",
-    "summary": "They involve multiple airports across the country. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-25T11:40:18Z",
-    "url": "https://simpleflying.com/massive-expansion-easyjet-launches-13-new-routes-from-the-uk-list-map/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cabda8c7a226",
-    "title": "Regional feeder subsidiary of Brazil\u2019s Azul upgauges to Cessna 408 SkyCourier",
-    "summary": "Azul Conecta, the regional feeder operation of Brazilian carrier Azul Airlines, confirmed on June 24, 2026, that it&#8230; The post Regional feeder subsidiary of Brazil\u2019s Azul upgauges to Cessna 408 SkyCourier appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-25T11:38:48Z",
-    "url": "https://www.aerotime.aero/articles/regional-feeder-subsidiary-of-brazils-azul-upgauges-to-cessna-408-skycourier",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "29e809d141c9",
-    "title": "NATO and Ukraine launch \u20ac250,000 airfield denial innovation challenge",
-    "summary": "NATO Allied Command Transformation (ACT) and the NATO-Ukraine Joint Analysis, Training and Education Centre (JATEC) have opened an&#8230; The post NATO and Ukraine launch \u20ac250,000 airfield denial innovation challenge appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-25T08:43:29Z",
-    "url": "https://www.aerotime.aero/articles/nato-and-ukraine-launch-250000-airfield-denial-innovation-challenge",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1ca58987f2d7",
-    "title": "How A 24-Jet F-35 Order & A Halted A-10 Retirement Created The US Air Force's 2030 Fighter Gap",
-    "summary": "Why the US Air Force faces a 2030 fighter shortfall, and how F-35 cuts, A-10 retirements, and F-15EX buys shape the outcome.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-25T08:01:17Z",
-    "url": "https://simpleflying.com/how-24-jet-f-35-order-halted-a-10-retirement-create-usaf-2030-fighter-gap/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ef59c96b304",
-    "title": "Iberia completes first commercial flight with Starlink Wi-Fi onboard",
-    "summary": "Spanish flag carrier Iberia has joined the ranks of airlines offering Starlink internet connectivity onboard. The first Iberia&#8230; The post Iberia completes first commercial flight with Starlink Wi-Fi onboard appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-25T07:56:13Z",
-    "url": "https://www.aerotime.aero/articles/iberia-completes-first-commercial-flight-with-starlink-wi-fi-onboard",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5b0822134f75",
-    "title": "Lockheed Martin wins $35 billion award to quadruple THAAD production",
-    "summary": "On June 24, 2026, the US government awarded Lockheed Martin a seven-year contract worth up to $35 billion&#8230; The post Lockheed Martin wins $35 billion award to quadruple THAAD production appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-25T07:53:28Z",
-    "url": "https://www.aerotime.aero/articles/lockheed-martin-35-billion-thaad-contract",
     "airlineTag": null,
     "isBreaking": false
   }
