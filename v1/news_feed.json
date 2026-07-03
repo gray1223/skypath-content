@@ -22,6 +22,116 @@
     "isBreaking": false
   },
   {
+    "id": "ba421e88cdf5",
+    "title": "Major Reduction: American Airlines Scraps 18,900 Seats From Seasonal Austin-Los Cabos Route",
+    "summary": "The carrier's abrupt scale-back leaves a massive capacity void, allowing competitors to absorb the demand.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-07-03T19:10:43Z",
+    "url": "https://simpleflying.com/american-airlines-scraps-18900-seats-seasonal-austin-los-cabos-route/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "85625c92d2a6",
+    "title": "Air New Zealand Ends Rolls-Royce Trent 1000 Nightmare As Last Boeing 787-9 Exits Storage",
+    "summary": "As the final Boeing 787-9 rejoins Air New Zealand's fleet, the airline's general manager reveals plans for targeted growth in widebody capacity.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T19:08:41Z",
+    "url": "https://simpleflying.com/air-new-zealand-ends-rolls-royce-trent-1000-nightmare-last-boeing-787-9-exits-storage/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c2e500e14dec",
+    "title": "Southwest Airlines Scrutinized Over Social Media Post Calling Out People Who Immediately After Seat Belt Sign Turns Off",
+    "summary": "The post has sparked passionate debate from both sides.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T19:05:28Z",
+    "url": "https://simpleflying.com/southwest-airlines-scrutinized-social-media-post-calling-out-people-stand-seat-belt/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d77bb3b33e8f",
+    "title": "Bumped To First Class: What Actually Happens When An Airline Upgrades You At The Gate",
+    "summary": "Learn how airline gate upgrades really work, who gets bumped to first class first, and the factors that determine complimentary premium seats.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T19:00:09Z",
+    "url": "https://simpleflying.com/what-happens-when-you-get-upgraded-at-the-gate/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "efc8cddf1786",
+    "title": "UPS Blames Boeing For Skipping Enhanced McDonnell Douglas MD-11 Checks Before Fatal Crash",
+    "summary": "The planemaker is said to have told the airline that the MD-11's engine flaw was not a flight safety risk.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T18:56:59Z",
+    "url": "https://simpleflying.com/ups-blames-boeing-skipping-enhanced-mcdonnell-douglas-md-11-checks-before-fatal-crash/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "57e9809029ba",
+    "title": "1 Time Only: American Airlines To Fly Its Largest Aircraft On Rare Hub-To-Hub Route",
+    "summary": "The flights are scheduled to operate in September.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T18:33:39Z",
+    "url": "https://simpleflying.com/1-time-only-american-airlines-fly-largest-aircraft-new-york-dallas-fort-worth/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "81cb82a9045f",
+    "title": "Behind The Scenes: Inside The Test Airbus A220-300",
+    "summary": "With emergency exits hidden behind cargo doors, the A220-300 test aircraft holds secrets that could only be revealed in the event of a catastrophic failure.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T18:02:26Z",
+    "url": "https://simpleflying.com/behind-the-scenes-inside-the-test-airbus-a220-300/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8383e1451e85",
+    "title": "FAA Proposes New Inspection Rating For Mechanics",
+    "summary": "The proposal would replace the current inspection authorization renewal process.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-03T17:01:00Z",
+    "url": "https://avweb.com/aviation-news/faa-proposes-new-inspection-rating/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fb2111465ab8",
+    "title": "Frontier Airlines Cuts 34 International Routes: See All Flight Changes Now [Map]",
+    "summary": "They involve 14 airports across the US. See all the eliminated routes here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T17:00:19Z",
+    "url": "https://simpleflying.com/frontier-cuts-34-international-routes-see-all-flight-changes-now/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1fb446096b97",
+    "title": "Why United Airlines Would Have Beaten Delta For Best US Carrier If Not For 1 Fixable Problem",
+    "summary": "United has the potential to lead the way for US airlines, but its baggage handling is letting it down and keeping it from achieving that goal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T17:00:19Z",
+    "url": "https://simpleflying.com/why-united-airlines-beaten-delta-best-us-carrier-not-1-fixable-problem/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "df5acfbff16a",
     "title": "How Airbus Fixed The A350's Cracking Problem Without A Fleet-Wide Grounding",
     "summary": "Fixing a problem affecting hundreds of aircraft globally is no easy task, but Airbus managed to do so without forcing an international grounding.",
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-26T15:00:34Z",
     "url": "https://simpleflying.com/united-airlines-fills-embraer-erj145-with-sandbags/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7396ca460045",
-    "title": "FAA Proposes Part 25 Certification Updates",
-    "summary": "The proposal would fold frequently used approvals into transport category standards.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-06-26T14:05:29Z",
-    "url": "https://avweb.com/aviation-news/aviation-law/faa-proposes-part-25-certification-updates/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "22a1ec333c01",
-    "title": "Only 57% Full: The 10 Shockingly Empty Europe-US Airline Routes [List & Map]",
-    "summary": "They involve eight airlines, with only one from the US. Find out all ten underperforming routes here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T14:00:19Z",
-    "url": "https://simpleflying.com/only-57pc-full-10-emptiest-europe-us-airline-routes-revealed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "195023892392",
-    "title": "The 8 Routes The Airbus A380 Has Been Deployed On The Most So Far In 2026",
-    "summary": "2026's thickest A380 routes are dominated by Emirates, with Singapore Airlines and Qantas also being big hitters.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T14:00:19Z",
-    "url": "https://simpleflying.com/8-routes-airbus-a380-deployed-most-so-far-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "55e67e6ae1d3",
-    "title": "This 1974 Cessna 172M Skyhawk Is a Low-Time \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Neat, well-turned-out machine appeals to pilots with a broad range of missions.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-26T14:00:00Z",
-    "url": "https://www.flyingmag.com/this-1974-cessna-172m-skyhawk-is-a-low-time-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bea7150cf4c",
-    "title": "What Slot Problem? Heathrow Welcomes 5 New Airlines In 2026 [Full List]",
-    "summary": "The UK's top hub continues to showcase considerable operational diversity.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T13:30:19Z",
-    "url": "https://simpleflying.com/london-heathrow-new-airlines-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cd28a8df6ded",
-    "title": "Airbus Secures Historic $9.4B Widebody Deal In China",
-    "summary": "The order concerns the A330neo family.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T13:08:27Z",
-    "url": "https://simpleflying.com/china-eastern-airlines-airbus-a330neo-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4efc32a14eaf",
-    "title": "Airbus lands $9.5 billion A330neo order from China Eastern Airlines",
-    "summary": "Airbus has landed a $9.5 billion order for A330neos from China Eastern Airlines, just three months after the&#8230; The post Airbus lands $9.5 billion A330neo order from China Eastern Airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T13:05:31Z",
-    "url": "https://www.aerotime.aero/articles/airbus-lands-9-5-billion-a330neo-order-from-china-eastern-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9a280fc270ec",
-    "title": "Delta Air Lines Adds New Transpacific Routes & Boosts Las Vegas Flights For CES 2027",
-    "summary": "Overall, the carrier has added more than 120 peak-day flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T13:00:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-new-transpacific-routes-boosts-las-vegas-flights-ces-2027/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "36d2f08a3d4c",
-    "title": "On United's Turf: Delta Air Lines Will Fly Nonstop Between Los Angeles & Newark In 2027",
-    "summary": "The new route underscores the City of Angeles as one of the industry\u2019s top battlegrounds in the country.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T13:00:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-fly-nonstop-los-angles-newark-2027/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4cd08cfb33a0",
-    "title": "A Satisfying Watch: United Boeing 737 Clears Bee Swarm On Wing With Takeoff",
-    "summary": "United Airlines encountered an unusual problem with one of its aircraft before departure from Cancun International Airport: A swarm of bees had gathered on the aircraft\u2019s wing!The incident, captured on video and widely shared online, showed the Boeing 737 on the ground with th...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T12:29:18Z",
-    "url": "https://simpleflying.com/video/a-satisfying-watch-united-boeing-737-clears-bee-swarm-on-wing-with-takeoff/",
     "airlineTag": "United Airlines",
     "isBreaking": false
   }
