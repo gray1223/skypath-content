@@ -6,7 +6,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,7 +17,106 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "df5acfbff16a",
+    "title": "How Airbus Fixed The A350's Cracking Problem Without A Fleet-Wide Grounding",
+    "summary": "Fixing a problem affecting hundreds of aircraft globally is no easy task, but Airbus managed to do so without forcing an international grounding.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T14:00:19Z",
+    "url": "https://simpleflying.com/airbus-a350-fuselage-cracking-fix-no-grounding/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8708976f1227",
+    "title": "CEO of European airline emerges as frontrunner to lead Air Canada: Bloomberg",
+    "summary": "The CEO of a major European airline has emerged as the leading contender to head up Air Canada&#8230; The post CEO of European airline emerges as frontrunner to lead Air Canada: Bloomberg appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-03T13:30:02Z",
+    "url": "https://www.aerotime.aero/articles/ceo-of-european-airline-emerges-as-frontrunner-to-lead-air-canada-bloomberg",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f64e25fdf056",
+    "title": "FAA Awards L3Harris ADS-B Upgrade Contract",
+    "summary": "L3Harris will modernize more than 700 FAA ground stations used for aircraft position reporting.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-03T13:01:00Z",
+    "url": "https://avweb.com/aviation-news/faa-awards-l3harris-ads-b-upgrade-contract/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4a20bdb3e43d",
+    "title": "First-Ever Airbus A350F Now Fully Assembled",
+    "summary": "Airbus has just completed assembly of its very first A350F freighter, officially moving the program into its testing phase. The news came from the company\u2019s head of Freighter Marketing in late June.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T12:34:18Z",
+    "url": "https://simpleflying.com/video/first-ever-airbus-a350f-now-fully-assembled/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2748d51d9714",
+    "title": "\"Stop The Plane\": United Passenger Calls 911 Mid-Takeoff, Rushes Toward Flight Deck",
+    "summary": "The aircraft landed back in Indianapolis within 15 minutes of taking off.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T12:14:56Z",
+    "url": "https://simpleflying.com/stop-the-plane-united-passenger-911-call-indianapolis/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4c002935bd3e",
+    "title": "Inside The $105 Billion Orders Of Farnborough 2024: What 2026 Has To Beat",
+    "summary": "One of the biggest aviation events of the year is now just over two weeks away.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T12:05:48Z",
+    "url": "https://simpleflying.com/farnborough-airshow-2024-orders-recap/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c7d6ab4fc719",
+    "title": "Pilots Must Recognize Not-If-But-When Scenarios",
+    "summary": "It only takes one close call to teach an aviator about the importance of preparation.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-07-03T12:00:00Z",
+    "url": "https://www.flyingmag.com/pilots-must-recognize-not-if-but-when-scenarios/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "29dbe530fb5f",
+    "title": "\u2018The luxury is time.\u2019 Alex Wilcox on how JSX created a unique value proposition",
+    "summary": "In the US airline landscape, JSX is one-of-a-kind, occupying a market niche that is a halfway point between&#8230; The post \u2018The luxury is time.\u2019 Alex Wilcox on how JSX created a unique value proposition appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-03T11:35:37Z",
+    "url": "https://www.aerotime.aero/articles/the-luxury-is-time-alex-wilcox-on-how-jsx-created-a-unique-value-proposition",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f9f7abebb18b",
+    "title": "Wizz Air's Massive Expansion: 19 New Routes Unveiled [Map]",
+    "summary": "From hidden winter sun escapes to fresh mountain gateways, find out where Wizz Air is flying next.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-03T11:00:19Z",
+    "url": "https://simpleflying.com/wizz-air-major-expansion-15-new-routes/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -50,7 +149,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T22:36:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -138,7 +237,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T19:01:13Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -160,7 +259,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T18:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -382,17 +481,6 @@
     "publishedDate": "2026-07-02T10:41:10Z",
     "url": "https://www.aerotime.aero/articles/embraer-completes-takeover-of-safrans-joint-stake-in-ez-air-interior",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2748d51d9714",
-    "title": "\"Stop The Plane\": United Passenger Calls 911 Mid-Takeoff, Rushes Toward Flight Deck",
-    "summary": "The aircraft landed back in Indianapolis within 15 minutes of taking off.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-02T10:33:47Z",
-    "url": "https://simpleflying.com/stop-the-plane-united-passenger-911-call-indianapolis/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -809,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T01:40:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +919,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T00:09:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-06-26T12:29:18Z",
     "url": "https://simpleflying.com/video/a-satisfying-watch-united-boeing-737-clears-bee-swarm-on-wing-with-takeoff/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "afd2df29fa27",
-    "title": "USAF deploys B-2 stealth bombers to Australia for Exercise Diamond Storm training",
-    "summary": "The United States Air Force (USAF) has deployed B-2 Spirit stealth bombers to Australia to train alongside Royal&#8230; The post USAF deploys B-2 stealth bombers to Australia for Exercise Diamond Storm training appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T12:02:57Z",
-    "url": "https://www.aerotime.aero/articles/usaf-b-2-bombers-australia-exercise-diamond-storm",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "13a525c185ce",
-    "title": "US approves $250 million Australia\u2019s Super Hornet and Growler training case",
-    "summary": "The US State Department has approved a possible Foreign Military Sale (FMS) covering training for Australia\u2019s F/A-18F Super Hornet and&#8230; The post US approves $250 million Australia\u2019s Super Hornet and Growler training case appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T11:27:55Z",
-    "url": "https://www.aerotime.aero/articles/us-australia-super-hornet-growler-training-fms",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b0c8576c2788",
-    "title": "Why United Airlines Bought The Shorter-Range Dreamliner For Its 6,306-Mile Chicago-Tokyo Route",
-    "summary": "United trades range for capacity on this high demand route.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T11:00:18Z",
-    "url": "https://simpleflying.com/why-united-airlines-bought-shorter-range-dreamliner-6306-mile-chicago-tokyo-route-26/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "921fde53cdcc",
-    "title": "DOT and FAA break ground on $8.3 million facility for eVTOL research in Oklahoma",
-    "summary": "It has been announced that the US Department of Transportation (DOT) and Federal Aviation Administration (FAA) have broken&#8230; The post DOT and FAA break ground on $8.3 million facility for eVTOL research in Oklahoma appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T09:44:09Z",
-    "url": "https://www.aerotime.aero/articles/dot-and-faa-break-ground-on-8-3-million-facility-for-evtol-research-in-oklahoma",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6853c568af08",
-    "title": "The FAA plans to streamline the certification process for new aircraft",
-    "summary": "The Federal Aviation Administration (FAA) of the United States has proposed a revamp of the certification process for&#8230; The post The FAA plans to streamline the certification process for new aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T08:55:22Z",
-    "url": "https://www.aerotime.aero/articles/the-faa-plans-to-streamline-the-certification-process-for-new-aircraft",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "75f3088540e0",
-    "title": "Fire at Delta Air Lines\u2019 key oil refinery leaves \u2018four employees injured\u2019",
-    "summary": "A large fire at the Delta Air Lines-owned oil refinery in Trainer, Philadelphia, has resulted in injuries to&#8230; The post Fire at Delta Air Lines\u2019 key oil refinery leaves \u2018four employees injured\u2019 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T08:44:57Z",
-    "url": "https://www.aerotime.aero/articles/fire-delta-air-lines-oil-refinery-monroe-energy",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "a93523ca568b",
-    "title": "The Navy Jet That The US Air Force Was Forced To Fly & Eventually Loved",
-    "summary": "How the Phantom earned its place in history.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T08:01:18Z",
-    "url": "https://simpleflying.com/navy-jet-us-air-force-forced-fly-eventually-loved/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e5dae0b4d30b",
-    "title": "Top 10: Most widely used fighter jets in 2026",
-    "summary": "Thousands of fighter jets are in active duty across the world\u2019s air forces in 2026, from 5th-generation models&#8230; The post Top 10: Most widely used fighter jets in 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T06:00:00Z",
-    "url": "https://www.aerotime.aero/articles/top-10-most-widely-operated-fighter-jets",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
