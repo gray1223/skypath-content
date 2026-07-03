@@ -6,7 +6,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,7 +17,18 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "38733dcfede3",
+    "title": "Air New Zealand\u2019s final 787-9 Dreamliner returns from long-term storage",
+    "summary": "Air New Zealand is celebrating a major milestone as its last remaining Boeing 787-9 Dreamliner has returned from&#8230; The post Air New Zealand\u2019s final 787-9 Dreamliner returns from long-term storage appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-03T08:38:03Z",
+    "url": "https://www.aerotime.aero/articles/air-new-zealands-final-787-9-dreamliner-long-term-storage",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -39,7 +50,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T22:36:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -127,7 +138,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T19:01:13Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -149,7 +160,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T18:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -798,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T01:40:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -820,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T00:09:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-06-26T06:00:00Z",
     "url": "https://www.aerotime.aero/articles/top-10-most-widely-operated-fighter-jets",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5b9188acb50f",
-    "title": "United Airlines Passenger Dispute Allegedly Forces Diversion & $30,000 Lost In Dumped Fuel",
-    "summary": "UA858 had to make an expensive and unexpected stopover in Japan.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T05:04:52Z",
-    "url": "https://simpleflying.com/united-airlines-passenger-dispute-allegedly-forces-diversion-30000-lost-dumped-fuel/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
