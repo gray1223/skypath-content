@@ -11,6 +11,72 @@
     "isBreaking": false
   },
   {
+    "id": "db382518ef3f",
+    "title": "Brutal: American Airlines Flight Delayed By 7.5 Hours, Then Diverted To The Wrong City",
+    "summary": "A combination of operational setbacks and bad weather affected the flight from Charlotte to Chicago.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T12:55:18Z",
+    "url": "https://simpleflying.com/american-airlines-charlotte-chicago-flight-diverted-wrong-city/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6699c3af3de4",
+    "title": "\u201cCrashed Into The Ceiling\u201d: Delta Air Lines Sued After Severe Turbulence Sent 25 To Hospital",
+    "summary": "Delta Air Lines is facing a lawsuit filed by passengers who were aboard the July 30th 2025 flight of DL56, a scheduled service between Salt Lake City and Amsterdam Schiphol.The lawsuit is the result of severe turbulence which led to injuries among passengers and crew members a...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T12:33:19Z",
+    "url": "https://simpleflying.com/video/crashed-into-the-ceiling-delta-air-lines-sued-after-severe-turbulence-sent-25-to-hospital/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e21ae56eab81",
+    "title": "Lightning Strikes SriLankan A330 Engine, Sparking Flames And Mid-Air Turnback",
+    "summary": "On June 12th, a SriLankan Airlines Airbus A330-200 from Colombo to Sydney returned to the origin airport shortly after departure after a lightning strike affected one of the aircraft's engines. The crew elected to turn back as a precaution, and the aircraft landed safely with ...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T12:33:19Z",
+    "url": "https://simpleflying.com/video/lightning-strikes-srilankan-a330-engine-sparking-flames-and-mid-air-turnback/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b864d94266d9",
+    "title": "Air Canada Goes Big: USA Widebody Flights Surge 35% This Summer",
+    "summary": "Air Canada's bold move to increase widebody flights to the US by 35% this summer signals a surge in trans-border travel.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T12:00:19Z",
+    "url": "https://simpleflying.com/air-canada-goes-big-usa-widebodu-flights-up-35pc/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "964cbff1d3a5",
+    "title": "United Rolls Out \"Twilight Bag Drop\" At Chicago O'Hare For Its Busiest July 4 Ever",
+    "summary": "This program will significantly elevate passengers' ground experience at ORD during the peak travel period, allowing them to avoid all the hassle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T11:08:38Z",
+    "url": "https://simpleflying.com/united-airlines-twilight-bag-drop-chicago-ohare/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "65077c9ebc52",
+    "title": "The $22 Billion Airport Saudi Arabia Is Building That Will Process More Passengers Than Any Hub On Earth",
+    "summary": "Can Saudi Arabia really fill a 185-million-passenger airport? Inside the plans, airlines, and strategy behind Riyadh's mega-hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T11:01:29Z",
+    "url": "https://simpleflying.com/saudi-airports-22-billion-mega-hub/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fa607e0309bc",
     "title": "Corporate Jet Captains Now Earn $188,800 As Business Aviation Quietly Closes The Gap With Major Airlines",
     "summary": "Exploring the earning potential of private pilots today.",
@@ -1947,17 +2013,6 @@
     "isBreaking": false
   },
   {
-    "id": "6699c3af3de4",
-    "title": "\u201cCrashed Into The Ceiling\u201d: Delta Air Lines Sued After Severe Turbulence Sent 25 To Hospital",
-    "summary": "A 2.5-minute turbulence ordeal on Delta Flight DL56 left passengers with head trauma and orthopedic injuries, prompting a lawsuit and investigation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-27T21:10:49Z",
-    "url": "https://simpleflying.com/delta-air-lines-sued-severe-tubulence-sent-25-hospital/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
     "id": "65ebda40626c",
     "title": "How The C-17 Globemaster's Externally Blown Flap System Creates Landing Noise Challenges No Other Military Transport Faces",
     "summary": "The C-17's short-field landing capability comes from a system that no other military transport uses. It also creates a noise problem.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-06-26T19:34:56Z",
     "url": "https://simpleflying.com/united-airlines-expands-3-new-international-routes/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a6e295d39106",
-    "title": "The FAA's New Secondary Cockpit Door Just Debuted On A Southwest Airlines Boeing 737, But Most Planes Won't Get It",
-    "summary": "Southwest flew the first US flight with a secondary cockpit barrier. Most of the fleet won't get one for years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T19:00:19Z",
-    "url": "https://simpleflying.com/faa-new-secondary-cockpit-door-debut-southwest-airlines-boeing-737-most-planes-wont-get-it/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "427c90954000",
-    "title": "Deer Jet launches charter flights with first Comac business jet",
-    "summary": "Deer Jet has launched commercial service with the first Comac Business Jet, marking the entry into service of&#8230; The post Deer Jet launches charter flights with first Comac business jet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-26T18:58:00Z",
-    "url": "https://www.aerotime.aero/articles/deer-jet-comac-business-jet-charter-flights",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4849863184f5",
-    "title": "Pulling Back: Allegiant Air Removes Nearly 30 Routes With Short-Term Exits From 3 Cities",
-    "summary": "This update comes days after the airline slashed over 60 routes from its schedule.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T18:57:32Z",
-    "url": "https://simpleflying.com/allegiant-air-removes-nearly-30-routes-short-term-exits-3-cities/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "29bc072975c0",
-    "title": "FAA Reviewing Boeing 777 Low Pass In Texas",
-    "summary": "Aircraft was on a predelivery flight before expected entry into Qatar Airways Cargo fleet.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-26T18:21:08Z",
-    "url": "https://avweb.com/aviation-news/faa-reviewing-boeing-777-low-pass-texas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ae8e0b1c18b6",
-    "title": "Air Canada Vs. WestJet Vs. Porter: Which Carrier Has The Most Leg Room?",
-    "summary": "A closer look at the legroom available on Canada's top airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T17:30:19Z",
-    "url": "https://simpleflying.com/air-canada-westjet-porter-airlines-most-leg-room-who/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
