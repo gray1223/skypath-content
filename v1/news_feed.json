@@ -6,8 +6,63 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0313ca50b926",
+    "title": "The US Air Force Just 3D-Printed Its Own F-35 Parts & Didn't Mention Lockheed Martin Once",
+    "summary": "The USAF is looking to 3D printing to work around a parts shortage attributed to Lockheed's vendor lock over the F-35 that the US military resents.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T18:00:18Z",
+    "url": "https://simpleflying.com/usaf-3d-print-own-f-35-parts-didnt-mention-lockheed-martin-once/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a98ab68ee13b",
+    "title": "The Airport That Once Dominated New York Is Now A National Park",
+    "summary": "In 1933, the airport was one of the busiest in the United States by flight volume.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T17:30:18Z",
+    "url": "https://simpleflying.com/airport-dominated-new-york-is-now-national-park/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a4058785b763",
+    "title": "American Airlines Launches 7 New Nonstop Long-Haul Routes: See All Flights Now",
+    "summary": "A closer look at the carrier's intercontinental expansion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T16:00:18Z",
+    "url": "https://simpleflying.com/american-airlines-new-long-haul-routes/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8fd03c96abbb",
+    "title": "United Airlines' Polaris Studio Is The 1st Widebody Suite Where The IFE Server Lives In The Cloud",
+    "summary": "United Airlines is entering a new era of connected aviation, where the entertainment onboard is almost identical to that on the ground.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T16:00:18Z",
+    "url": "https://simpleflying.com/united-airlines-polaris-studio-widebody-suite-ife-server-lives-cloud/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9f2fc64310c1",
+    "title": "Bald Eagle Flies Economy With Delta, Takes Up 2 Seats For America's 250th",
+    "summary": "Auburn University's Bald Eagle will be present in Philadelphia for the celebrations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-04T15:55:24Z",
+    "url": "https://simpleflying.com/bald-eagle-flies-delta-two-seats-americas-250th/",
+    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
   {
@@ -127,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -402,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T22:36:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -490,7 +545,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T19:01:13Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -512,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T18:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1150,7 +1205,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T01:40:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1172,7 +1227,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T00:09:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-06-26T23:00:19Z",
     "url": "https://simpleflying.com/why-usaf-keeping-54-a-10-warthogs-flying-after-operation-epic-fury/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0370998bcc47",
-    "title": "Joining oneworld Alliance Is An Invitation, Not An Application: Here's How It Works",
-    "summary": "Joining oneworld isn't a simple application process. Here's how airlines are invited, integrated, and ultimately approved as full alliance members.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T22:00:20Z",
-    "url": "https://simpleflying.com/joining-oneworld-alliance-invitation-not-application-how-it-works/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4077f66d0b2f",
-    "title": "Insurers value recurrent pilot training",
-    "summary": "AOPA members understand that flying safely is about far more than meeting the minimum requirements&mdash;it&rsquo;s about maintaining proficiency, protecting your investment, and being a responsible steward of general aviation. That philosophy carries real weight when it comes...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-06-26T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/26/insurers-value-recurrent-pilot-training?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c1443844a166",
-    "title": "American Airlines\u2019 New Pilot Policy Upsets Passengers: Is It Necessary?",
-    "summary": "The move is frustrating frequent flyers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T21:30:19Z",
-    "url": "https://simpleflying.com/american-airlines-new-pilot-policy-upsets-passengers-really-necessary/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f931edb7d3b2",
-    "title": "Report: Next-Gen Air Force Trainers Have \u2018Serious\u2019 Flight Concerns",
-    "summary": "Boeing T-7 Red Hawk faces a litany of issues as officials seek to move quickly.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-06-26T20:00:00Z",
-    "url": "https://www.flyingmag.com/air-force-t7-trainer-flight-concerns/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7ddb80495ef1",
-    "title": "Revealed: United Airlines Launches 3 New Nonstop International Routes [Map]",
-    "summary": "As winter approaches, United Airlines prepares to offer travelers a tropical escape with new seasonal routes to Cartagena and Providenciales.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-26T19:34:56Z",
-    "url": "https://simpleflying.com/united-airlines-expands-3-new-international-routes/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
