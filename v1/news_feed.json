@@ -11,6 +11,50 @@
     "isBreaking": false
   },
   {
+    "id": "b9335b1090d1",
+    "title": "Surprising: Why Qatar Airways Has Only Had 1 Airbus A380 Flight To The US",
+    "summary": "Despite the popularity of the American market, the Middle Eastern carrier opts not to fly its superjumbos there.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-05T13:00:19Z",
+    "url": "https://simpleflying.com/qatar-airways-only-one-us-a380-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc2341d41101",
+    "title": "\"Big Bang\": Delta Airbus A319 Struck By July 4 Firework Landing At Chicago Midway",
+    "summary": "The narrowbody was hit by a firework just moments before touchdown.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-05T12:07:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-airbus-a319-july-4-firework-chicago-midway/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e1d61f86fc4e",
+    "title": "Massive flight display marks the 250th anniversary of the United States",
+    "summary": "The United States celebrated its 250th anniversary on July 4, 2026, with a massive flight display over the&#8230; The post Massive flight display marks the 250th anniversary of the United States appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-05T11:25:57Z",
+    "url": "https://www.aerotime.aero/articles/massive-flight-display-marks-the-250th-anniversary-of-the-united-states",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fd1a5020f8a9",
+    "title": "Only 45 Minutes: Ethiopian Airlines Launches Europe's Shortest Airbus A350 Flights",
+    "summary": "Ethiopian's new services to Lyon via Geneva is replacing the airline's services to Brussels, via Geneva.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-05T10:01:18Z",
+    "url": "https://simpleflying.com/only-45-minutes-ethiopian-launches-europes-shortest-new-airbus-a350-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4b176462632b",
     "title": "How Much Do Pilots Earn On The World's Longest Commercial Routes In 2026?",
     "summary": "Flying nearly 20 hours across the globe is a quick way to earn a fortune. Let's take a look across the globe at how much these pilots really earn.",
@@ -24,7 +68,7 @@
   {
     "id": "6b1699ca06ce",
     "title": "Why 56 American Airlines Regional Jets Have A Table Bolted Where A Seat Should Be",
-    "summary": "Airlines' Table Seat Puzzle: Unraveling the Reason Behind the Empty Row.",
+    "summary": "The carrier has an interesting solution to reducing seat count on these planes.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-07-05T05:10:10Z",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-06-27T22:00:18Z",
     "url": "https://simpleflying.com/how-faa-lets-boeing-sign-off-own-737-max-deliveries/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "65ebda40626c",
-    "title": "How The C-17 Globemaster's Externally Blown Flap System Creates Landing Noise Challenges No Other Military Transport Faces",
-    "summary": "The C-17's short-field landing capability comes from a system that no other military transport uses. It also creates a noise problem.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-27T21:00:19Z",
-    "url": "https://simpleflying.com/c17-globemaster-externally-blown-flap-system-landing-noise-challenges/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d79a7972843d",
-    "title": "Simple Flying Podcast Episode 296: American Airlines' Airbus A319 & A320 Retrofits, SFO Delays Quadruple",
-    "summary": "Join Tom & Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-27T18:54:11Z",
-    "url": "https://simpleflying.com/podcast-296/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1cf4944a0f84",
-    "title": "Why RAF Typhoon Pilots Are Walking Away From $83,881 Salaries For Commercial Cockpits",
-    "summary": "The Royal Air Force is a prime hunting ground for commercial airlines, which presents an issue for readiness and possibly combat effectiveness.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-27T18:00:18Z",
-    "url": "https://simpleflying.com/why-raf-typhoon-pilots-walking-away-salaries-commerical-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "772a9e74dff4",
-    "title": "United Boeing 737 MAX 9 Came Within 100 Feet Of A Drone On Final Approach To Newark",
-    "summary": "Another aircraft reported seeing the drone at around 2,000 feet of altitude.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-27T17:11:21Z",
-    "url": "https://simpleflying.com/united-boeing-737-max-drone-near-miss-newark/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
