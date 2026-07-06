@@ -6,7 +6,106 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "daf3cd8bcf0e",
+    "title": "Isaacman Flew F-5 In July 4 Flyover After FAA Denial",
+    "summary": "The FAA had classified the vintage jets as \u201cvery high-risk.\u201d",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-06T15:04:35Z",
+    "url": "https://avweb.com/aviation-news/isaacman-f-5-july-4-flyover-faa-denial/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6717bd7d792d",
+    "title": "Delta A319 Reports Firework Strike",
+    "summary": "The FAA said it will investigate after the July Fourth incident at Midway.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-06T14:00:28Z",
+    "url": "https://avweb.com/aviation-news/delta-a319-reports-firework-strike/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "ed944cfd5e6d",
+    "title": "Cirrus launches TRAC10, a new light aircraft for the flight training market",
+    "summary": "Cirrus Aircraft has unveiled a new aircraft type, called TRAC10, for the flight training market. With this launch,&#8230; The post Cirrus launches TRAC10, a new light aircraft for the flight training market appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "training",
+    "publishedDate": "2026-07-06T13:32:36Z",
+    "url": "https://www.aerotime.aero/articles/cirrus-launches-trac10-a-new-light-aircraft-for-the-flight-training-market",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bb69050fe84b",
+    "title": "Not Done Yet: Breeze Airways Schedules Embraer E190 Flights On 9 Routes Over The Next 2 Months",
+    "summary": "The airline will operate the Embraer aircraft for a little longer before moving to the Airbus A220.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-06T13:30:18Z",
+    "url": "https://simpleflying.com/breeze-airways-schedules-embraer-e190-flights-9-routes-next-2-months/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "47155adab633",
+    "title": "This Airline Was The Last Operator Of The Boeing 747SP",
+    "summary": "How can an airline keep an aircraft from the 70s operating into the 2010s? This is the story of Iran Air and the Boeing 747SP, a tale of resilience.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-06T13:00:18Z",
+    "url": "https://simpleflying.com/airline-last-operators-boeing-747sp-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "53e82538e3f3",
+    "title": "Southwest Airlines Scrutinized Over Social Media Post Calling Out People Who Stand At The Gate",
+    "summary": "The post has sparked passionate debate from both sides.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-06T12:57:18Z",
+    "url": "https://simpleflying.com/southwest-airlines-scrutinized-social-media-post-calling-out-people-stand-seat-belt/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b1629313f6a2",
+    "title": "Ouch: Lufthansa Likely Faces Six-Figure Bill As A380 With 500+ Onboard Diverts To Boston",
+    "summary": "A passenger disturbance aboard a Lufthansa Airbus A380 has likely left the German carrier facing a substantial financial headache after the superjumbo was forced to divert to Boston while operating a transatlantic flight from San Francisco to Munich.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-06T12:25:18Z",
+    "url": "https://simpleflying.com/video/ouch-lufthansa-likely-faces-six-figure-bill-as-a380-with-500-onboard-diverts-to-boston/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71ae8e0cf906",
+    "title": "F-35 fighters from UK Carrier Strike Group scramble to pursue Russian Bear-F",
+    "summary": "Two F-35 fighters from the Royal Navy\u2019s HMS Prince of Wales aircraft carrier have been scrambled to intercept&#8230; The post F-35 fighters from UK Carrier Strike Group scramble to pursue Russian Bear-F appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-06T12:21:29Z",
+    "url": "https://www.aerotime.aero/articles/f-35-fighters-uk-carrier-strike-group-scramble-russian-bear-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1d5e81ee7ddf",
+    "title": "19-Hour Flights: Singapore Airlines' 11 New Ultra-Long Airbus A350 Routes Revealed [Map]",
+    "summary": "The list includes the two longest scheduled commercial flights in the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-06T11:20:53Z",
+    "url": "https://simpleflying.com/singapore-airlines-11-longest-a350-flights/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -74,17 +173,6 @@
     "publishedDate": "2026-07-05T23:00:19Z",
     "url": "https://simpleflying.com/large-cabin-private-jets-quietly-took-over-65-percent-high-end-charter-market-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb69050fe84b",
-    "title": "Not Done Yet: Breeze Airways Schedules Embraer E190 Flights On 9 Routes Over The Next 2 Months",
-    "summary": "The airline will operate the Embraer aircraft for a little longer before moving to the Airbus A220.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T21:26:56Z",
-    "url": "https://simpleflying.com/breeze-airways-schedules-embraer-e190-flights-9-routes-next-2-months/",
-    "airlineTag": "Breeze Airways",
     "isBreaking": false
   },
   {
@@ -501,7 +589,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T22:36:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -864,7 +952,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T19:01:13Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -886,7 +974,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T18:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -914,7 +1002,7 @@
   },
   {
     "id": "c8ed6c6937b0",
-    "title": "When GPS Fails: Lessons from a Fatal Air Ambulance Crash",
+    "title": "When GPS Fails: Lessons From a Fatal Air Ambulance Crash",
     "summary": "Preliminary NTSB report explores role of military signal jamming in recent accident and need for pilots to maintain robust situational awareness.",
     "source": "Flying Magazine",
     "category": "regulatory",
@@ -958,7 +1046,7 @@
   },
   {
     "id": "c82889d5690f",
-    "title": "Navy Searches For Missing MH-60S Crewmember",
+    "title": "Navy Searches for Missing MH-60S Crewmember",
     "summary": "Maritime helicopter made an emergency water landing on Wednesday.",
     "source": "Flying Magazine",
     "category": "industry",
@@ -1524,7 +1612,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T01:40:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/pr-aopa-foundation-celebrates-helping-15000-rusty-pilots-return-to-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1546,7 +1634,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-01T00:09:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/june/30/training-and-safety-tip-first-things-stick?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-06-29T11:06:00Z",
     "url": "https://www.aerotime.aero/articles/russian-airlines-weak-sanctions-operate-fleets-grounded",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "37a775c1df29",
-    "title": "Boeing Secures 1st Chinese 777-8F Order With Deal Worth $3.6 Billion",
-    "summary": "The carrier also has options for more of the next-generation freighters.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-29T10:13:50Z",
-    "url": "https://simpleflying.com/china-southern-airlines-boeing-777-8f-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "858ed99c85df",
-    "title": "Philippine Airlines restarts Manila-Dubai service with four weekly flights",
-    "summary": "Philippine Airlines will resume nonstop flights between Manila and Dubai starting October 2, 2026, restoring direct service between&#8230; The post Philippine Airlines restarts Manila-Dubai service with four weekly flights appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-29T10:09:24Z",
-    "url": "https://www.aerotime.aero/articles/philippine-airlines-restarts-manila-dubai-service-with-four-weekly-flights",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a0a990db4754",
-    "title": "Boeing wins order for 777-8Fs and 777Fs from China Southern Airlines",
-    "summary": "The cargo unit of China Southern Airlines has placed an order with Boeing for up to eight freighter&#8230; The post Boeing wins order for 777-8Fs and 777Fs from China Southern Airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-06-29T08:34:06Z",
-    "url": "https://www.aerotime.aero/articles/boeing-wins-order-for-777-8fs-and-777fs-from-china-southern-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "00b808ab212a",
-    "title": "\u201cBe Ashamed\u201d: Southwest Airlines Rejects Flyer From Boarding With Guitar, Then Calls Police",
-    "summary": "Gate agent goes beyond SWA rules to ground one flyer.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-29T05:18:50Z",
-    "url": "https://simpleflying.com/southwest-airlines-rejects-flyer-boarding-guitar-calls-police/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7e14e707479c",
-    "title": "Why Only 1 In 4 F-35s Can Actually Fly Every Mission It Was Built For",
-    "summary": "The chronic issues keeping the fleet of stealth fighters grounded.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-29T04:00:24Z",
-    "url": "https://simpleflying.com/why-only-1-4-f-35s-actually-fly-every-mission-built-for/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "718c7c26bdca",
-    "title": "Delta Air Lines' Secret Weapon: The Fastest-Growing Focus City In 2026 [9 New Routes]",
-    "summary": "The carrier has the second-largest market share at the airport in question.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-29T01:00:18Z",
-    "url": "https://simpleflying.com/delta-austin-growth/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "998096e2b4a2",
-    "title": "Why LATAM Airlines Has Such A Massive Loyalty Membership",
-    "summary": "The South American carrier has a wide-reaching network.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-28T23:00:18Z",
-    "url": "https://simpleflying.com/why-latam-airlines-such-massive-loyalty-membership/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5f7acd4300ae",
-    "title": "Massive Cuts: Southwest Airlines Ends 7 Routes From This Important Airport [List & Map]",
-    "summary": "The facility is still Southwest's 11th-busiest airport by departing flights this Q3.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-06-28T22:00:19Z",
-    "url": "https://simpleflying.com/southwest-ends-7-routes-from-major-midwest-airport/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
