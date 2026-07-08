@@ -1,5 +1,93 @@
 [
   {
+    "id": "ebf77d9d30a2",
+    "title": "Aircraft Maintenance: Preparing for summer travel",
+    "summary": "With EAA AirVenture Oshkosh in Wisconsin around the corner, thousands of pilots are preparing to take their aircraft on long cross country trips. Inevitably, some of those pilots will find themselves facing a challenging maintenance issue far from home. Preparation is the key ...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-09T00:30:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28cfea03963a",
+    "title": "The A&P who built a business while logging flight hours",
+    "summary": "At 23, Philip Krzyszton owns a 1965 Mooney, flies cargo, operates a growing mobile aircraft maintenance company known as AircraftMD, and holds both his pilot and airframe and powerplant certificates. He did it all without taking on debt.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-08T18:18:02Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5726e2437c02",
+    "title": "\u201cOld Time\u2019s Sake\u201d: Trump Sidelines New Qatari-Gifted Air Force One After 1st Overseas Trip",
+    "summary": "The unexpected move is raising questions about why the President would make such a decision.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-08T18:15:08Z",
+    "url": "https://simpleflying.com/president-trump-sidelines-new-qatari-gifted-air-force-one-1st-international-trip/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5dffd20861a0",
+    "title": "When Is the Best Time to Begin Training for an Instrument Rating?",
+    "summary": "Pilots don\u2019t need to wait for winter to build an IFR foundation.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-08T17:00:00Z",
+    "url": "https://www.flyingmag.com/when-is-the-best-time-to-begin-training-for-an-instrument-rating/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f939add1a69f",
+    "title": "Old Airport Records Lead To $4.2 Million FAA Runway Grant",
+    "summary": "Airport officials uncovered decades-old records that helped secure federal funding.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-08T16:45:00Z",
+    "url": "https://avweb.com/aviation-news/danbury-municipal-airport-faa-records/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ac6cca6cb6c1",
+    "title": "7-Hour Flights: JetBlue's Longest Nonstop Airbus A220 Routes Revealed [Map]",
+    "summary": "The A220 allows carriers the flexibility to downsize or right size its operations on a particular route, depending on passenger demand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-08T16:00:18Z",
+    "url": "https://simpleflying.com/7-hour-flights-jetblues-longest-a220-routes/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "20dd373efb2f",
+    "title": "NASA\u2019s Super Guppy Will Miss AirVenture Due to Storm Damage",
+    "summary": "Iconic cargo transport remains grounded for repairs after impact of recent severe weather.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-08T16:00:00Z",
+    "url": "https://www.flyingmag.com/nasas-super-guppy-will-miss-airventure-due-to-storm-damage/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9dcb18a89949",
+    "title": "737 Freighter Disappears Over Arabian Sea",
+    "summary": "Crew reported navigation difficulties before apparent crash.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-08T14:47:38Z",
+    "url": "https://www.flyingmag.com/737-freighter-disappears-over-arabian-sea/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c01aebdc35a5",
     "title": "Latest Updates: Search Continues As Prime Minister Confirms Pakistan Cargo Boeing 737 Crash",
     "summary": "The aircraft was enroute to Karachi.",
@@ -33,6 +121,17 @@
     "isBreaking": false
   },
   {
+    "id": "30fe898596f1",
+    "title": "SAS CEO Anko van der Werff to leave airline for Air Canada in 2027",
+    "summary": "Anko van der Werff, Chief Executive Officer (CEO) of Scandinavian Airlines (SAS), has informed the airline\u2019s board that&#8230; The post SAS CEO Anko van der Werff to leave airline for Air Canada in 2027 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-08T13:48:44Z",
+    "url": "https://www.aerotime.aero/articles/sas-ceo-anko-van-der-werff-to-leave-airline-for-air-canada-in-2027",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "637f34421066",
     "title": "K2 Airways 737 Freighter Missing Off Pakistan Coast",
     "summary": "Search-and-rescue teams are searching the Arabian Sea for the missing aircraft and its five crewmembers.",
@@ -41,6 +140,28 @@
     "publishedDate": "2026-07-08T13:29:40Z",
     "url": "https://avweb.com/aviation-news/k2-airways-737-missing-pakistan-coast/",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a2d5b4b3a0d8",
+    "title": "Philippine Airlines raises $300 million in first international bond offering",
+    "summary": "Philippine Airlines has raised $300 million through its first international bond offering, attracting strong interest from global investors&#8230; The post Philippine Airlines raises $300 million in first international bond offering appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-08T13:26:09Z",
+    "url": "https://www.aerotime.aero/articles/philippine-airlines-raises-300-million-in-first-international-bond-offering",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "df944030ff43",
+    "title": "UK commits \u00a31.4 billion to Stratus missile as part of European deep strike push",
+    "summary": "The United Kingdom will invest \u00a31.4 billion ($1.9 billion) over the next four years in Stratus, the Franco-British-Italian successor&#8230; The post UK commits \u00a31.4 billion to Stratus missile as part of European deep strike push appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-08T13:19:05Z",
+    "url": "https://www.aerotime.aero/articles/uk-commits-1-4-billion-to-stratus-missile-as-part-of-european-deep-strike-push",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -2075,127 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-01T16:34:34Z",
     "url": "https://avweb.com/aviation-news/aopa-rusty-pilots-program-15000-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "236a1cc189b5",
-    "title": "FAA Issues Guidance On Trump Airport Name Change",
-    "summary": "Operators may need to update certificates, authorizing documents and airport data before fall.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-01T16:10:51Z",
-    "url": "https://avweb.com/aviation-news/faa-issues-guidance-trump-airport-name/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9a49c593bc8f",
-    "title": "Ukraine SBU drones strike Su-30 hangars at Russia\u2019s Saki airbase",
-    "summary": "Ukraine\u2019s Security Service (SBU) said its drones struck hangars holding Russian fighter jets at the Saki military airbase&#8230; The post Ukraine SBU drones strike Su-30 hangars at Russia\u2019s Saki airbase appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-01T14:39:45Z",
-    "url": "https://www.aerotime.aero/articles/ukraine-drone-strike-su-30-hangars-saki-crimea",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "56900076afac",
-    "title": "Saab signs firm order for 16 Gripen E fighters bound for Ukraine",
-    "summary": "Saab has signed a contract with the Swedish Defence Materiel Administration (FMV) for 16 new-build Gripen E fighters&#8230; The post Saab signs firm order for 16 Gripen E fighters bound for Ukraine appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-01T14:05:51Z",
-    "url": "https://www.aerotime.aero/articles/saab-gripen-e-fighter-order-ukraine",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b9936401111c",
-    "title": "Where Does Singapore Airlines Fly The Airbus A380? All 9 Routes For 2026 [Map]",
-    "summary": "The largest A380 market for the airline is Australasia, where the carrier will operate four daily A380 services to three destinations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-01T13:00:18Z",
-    "url": "https://simpleflying.com/where-singapore-airlines-flies-the-a380-all-9-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e1158620bd46",
-    "title": "BOC Aviation signs lease agreement with STARLUX Airlines for eight A321neo jets",
-    "summary": "BOC Aviation announced that it has signed a lease agreement with STARLUX Airlines for eight Airbus A321neo aircraft,&#8230; The post BOC Aviation signs lease agreement with STARLUX Airlines for eight A321neo jets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-01T12:55:44Z",
-    "url": "https://www.aerotime.aero/articles/boc-aviation-signs-lease-agreement-with-starlux-airlines-for-eight-a321neo-jets",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "116ca41de4e9",
-    "title": "Hawaiian Airlines Marks oneworld Entry With Special \"Aloha\" Airbus A330 Livery",
-    "summary": "The carrier joined oneworld in April, the first-ever time it has been part of an airline alliance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-01T12:08:33Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-oneworld-airbus-a330-livery/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08bc1f83a340",
-    "title": "FAA proposes rule to enable supersonic flight over the continental United States",
-    "summary": "The Federal Aviation Administration (FAA) has proposed a new rule that would set the stage for civil supersonic&#8230; The post FAA proposes rule to enable supersonic flight over the continental United States appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-01T11:12:15Z",
-    "url": "https://www.aerotime.aero/articles/faa-proposes-rule-to-enable-supersonic-flight-over-the-continental-united-states",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "385585fd3344",
-    "title": "NASA picks flight-proven moon landers for more lunar surface mission deliveries",
-    "summary": "NASA has picked a further wave of flight-proven moon landers to deliver science payloads to the lunar surface&#8230; The post NASA picks flight-proven moon landers for more lunar surface mission deliveries appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-01T10:38:43Z",
-    "url": "https://www.aerotime.aero/articles/nasa-moon-landers-for-more-lunar-firefly-astrobotic-intuitive-machines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "156b7495b77d",
-    "title": "SAS Orders Up To 40 Airbus A330 Aircraft - Including The -900!",
-    "summary": "Scandinavian Airlines has announced the largest investment in the history of the company by shaking hands on a deal for as many as 40 Airbus A330 family aircraft.The deal features both brand-new A330-900s and leased older A330-300s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-01T09:03:34Z",
-    "url": "https://simpleflying.com/video/sas-orders-up-to-40-airbus-a330-aircraft-including-the-900/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1cde8a3760af",
-    "title": "Why Don't Any US Airlines Want To Order The World's Largest Twinjet?",
-    "summary": "Explore why America's best new widebody jet is not expected to fly in any US airline colors.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-01T09:03:17Z",
-    "url": "https://simpleflying.com/why-no-us-airlines-order-boeing-777x/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "abfad63ff87f",
-    "title": "False hijack code on Warsaw-Tel Aviv flight scrambles jets in three countries",
-    "summary": "A LOT Polish Airlines flight bound for Tel Aviv triggered fighter jet scrambles across three national air defense&#8230; The post False hijack code on Warsaw-Tel Aviv flight scrambles jets in three countries appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-01T08:21:28Z",
-    "url": "https://www.aerotime.aero/articles/false-hijack-code-on-warsaw-tel-aviv-flight-scrambles-jets-in-three-countries",
     "airlineTag": null,
     "isBreaking": false
   }
