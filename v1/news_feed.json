@@ -1,5 +1,27 @@
 [
   {
+    "id": "d1551f3a11ed",
+    "title": "The Aging Software That Canceled 16,700 Southwest Airlines Flights Is Finally Being Replaced By 2028",
+    "summary": "A closer look at how IT issues are impacting the airline industry.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-08T08:00:19Z",
+    "url": "https://simpleflying.com/aging-software-canceled-16700-southwest-airlines-flights-finally-replaced-2028/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "179360a3205c",
+    "title": "The 10 cheapest planes you can buy in 2026",
+    "summary": "The absolute cheapest planes for personal flying are lightweight aircraft. Classic, FAA and EASA-certified models from ERCO, Cessna,&#8230; The post The 10 cheapest planes you can buy in 2026 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-08T06:00:00Z",
+    "url": "https://www.aerotime.aero/articles/top-10-cheapest-planes-in-the-world",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "11b220b9ba9d",
     "title": "Trump\u2019s $400M \u201cBridge\u201d Air Force One Makes 1st International Journey To Turkey NATO Summit",
     "summary": "The 747-8 is serving as a bridge to the new Air Force One fleet.",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-06-30T20:30:00Z",
     "url": "https://www.flyingmag.com/c-2-greyhound-makes-last-carrier-landing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "204b57287720",
-    "title": "Hartzell Receives STC For Frontier Prop On Cessna 180s",
-    "summary": "The two-blade aluminum propeller is approved for Cessna 180 A-J models powered by Continental O-470 engines.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-06-30T20:00:00Z",
-    "url": "https://avweb.com/aviation-news/company-news/hartzell-receives-stc-cessna-180-frontier/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fde72c0e87a7",
-    "title": "FAA Takes First Steps to Repeal Supersonic Flight Ban",
-    "summary": "Proposed interim standards mark the agency\u2019s first major step to undo the decades-old ban.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-06-30T19:45:55Z",
-    "url": "https://www.flyingmag.com/faa-first-steps-repeal-supersonic-flight-ban/",
     "airlineTag": null,
     "isBreaking": false
   }
