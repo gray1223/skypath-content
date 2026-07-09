@@ -1,5 +1,126 @@
 [
   {
+    "id": "41f8323a4506",
+    "title": "Why Alaska Airlines Is Moving Toward Hub-Based Operations",
+    "summary": "A larger fleet now means more flights to key markets from the airline's busiest airports.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-09T19:30:19Z",
+    "url": "https://simpleflying.com/alaska-airlines-moving-hub-based-operations-why/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a84d0206566f",
+    "title": "Aviation Legend Wally Funk Dead at 87",
+    "summary": "Pilot icon and tireless trailblazer broke barriers from the cockpit to the edge of space.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-09T19:00:25Z",
+    "url": "https://www.flyingmag.com/aviation-legend-wally-funk-dead-at-87/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dd83fd0fa00b",
+    "title": "Socata GA pilots rendezvous with French aerobatic team",
+    "summary": "A spur-of-the-moment idea morphed into a one-of-a-kind get together between general aviation pilots flying Socata TB30 Epsilon piston-engine military trainers and their jet counterparts flying the blue-white-and-red livery of the French Air and Space Force during a stopover at...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-09T18:40:02Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "66e46f78e839",
+    "title": "Why JetBlue Is Betting Its Biggest Mint Schedule Ever On Fort Lauderdale",
+    "summary": "Excerpt:JetBlue is turning Fort Lauderdale into its biggest Mint platform, testing premium leisure at scale.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-09T18:00:19Z",
+    "url": "https://simpleflying.com/why-jetblue-betting-biggest-mint-schedule-ever-fort-lauderdale/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "249f53c412c1",
+    "title": "FAA Tried to Block a July Fourth Flyover\u2014NASA Did It Anyway",
+    "summary": "Regulator rejected request due to safety concerns, but the space agency devised a workaround.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-07-09T18:00:00Z",
+    "url": "https://www.flyingmag.com/faa-nasa-isaacman-july-4-flyover/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f095ff43a18c",
+    "title": "Why Delta Is Scrapping Near\u2011Free Upgrades to Boost Premium Revenue",
+    "summary": "The decision is not just a policy change, but the result of a broader strategic shift that was already well underway.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-09T17:28:11Z",
+    "url": "https://simpleflying.com/why-delta-scrapping-near-free-upgrades-boost-premium-revenue/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "9c4255d0d3c6",
+    "title": "AURA AERO To Fly INTEGRAL R At AirVenture",
+    "summary": "The European-certified aerobatic trainer is nearing FAA certification ahead of planned U.S. deliveries.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-09T17:17:00Z",
+    "url": "https://avweb.com/aviation-news/aura-aero-integral-r-airventure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "91914a16565b",
+    "title": "Palm Beach International Officially Renamed President Donald J. Trump International",
+    "summary": "FAA has updated Florida airport\u2019s identifier to KDJT, requiring flight plan adjustments and documentation updates for operators.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-09T16:30:00Z",
+    "url": "https://www.flyingmag.com/palm-beach-international-officially-renamed-president-donald-j-trump-international/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "343c6c69df6b",
+    "title": "ZeroAvia, Marshall Study Hydrogen-Electric Defense Uses",
+    "summary": "The companies will evaluate propulsion applications for military aircraft.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-09T16:03:54Z",
+    "url": "https://avweb.com/aviation-news/zeroavia-hydrogen-electric-defense/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d218f0c57897",
+    "title": "Sun Country Airlines Will Be Out Once A Single Operating Certificate Arrives, Executive Says",
+    "summary": "The planned retirement of the Sun Country brand marks the end of more than four decades of independent operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-09T15:36:19Z",
+    "url": "https://simpleflying.com/sun-country-airlines-out-single-operating-certificate-arrives/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2c1e3f260535",
+    "title": "Boeing Plaza Lineup Set For AirVenture 2026",
+    "summary": "Large aircraft ramp will feature military, airline and historic displays.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-09T15:29:43Z",
+    "url": "https://avweb.com/air-shows-events/airventure/boeing-plaza-lineup-set-for-airventure-26/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d3b7788244f8",
     "title": "Etihad Airways Rumored To Announce Boeing 787 Order At Farnborough Airshow",
     "summary": "The carrier already operates the largest two variants of the Dreamliner.",
@@ -237,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T00:30:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -249,17 +370,6 @@
     "category": "industry",
     "publishedDate": "2026-07-08T23:00:18Z",
     "url": "https://simpleflying.com/why-p-8-poseidon-fly-200-feet-above-waves-almost-never-will/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d218f0c57897",
-    "title": "Sun Country Airlines Will Be Out Once A Single Operating Certificate Arrives, Executive Says",
-    "summary": "The planned retirement of the Sun Country brand marks the end of more than four decades of independent operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-08T22:27:19Z",
-    "url": "https://simpleflying.com/sun-country-airlines-out-single-operating-certificate-arrives/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -325,7 +435,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-08T18:18:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -600,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +776,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -699,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1667,7 +1777,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +2052,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T22:36:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2030,7 +2140,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T19:01:13Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/faa-to-reduce-rco-network?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2052,7 +2162,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-02T18:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/02/necessary-turbulence-necessary-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-07-02T18:00:00Z",
     "url": "https://www.flyingmag.com/when-gps-fails-lessons-from-a-fatal-air-ambulance-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2fd6321c7f07",
-    "title": "FAA Announces $1.776 Billion In Airport Grants",
-    "summary": "Funding will support runway, taxiway, terminal and safety projects at airports in 46 states.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-02T17:05:00Z",
-    "url": "https://avweb.com/aviation-news/faa-announces-1-776-billion-airport-grants/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d3de0c801010",
-    "title": "Why The US Air Force's 1950s B-52 Is Easier To Modernize Than Its 1990s F-22 Raptor",
-    "summary": "While the F-22 is the \"king of air combat\", the crown for \"ease of upgrade\" easily goes to the venerable B-52. Now let's see why that is.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-02T17:00:19Z",
-    "url": "https://simpleflying.com/why-usaf-1950s-b-52-easier-modernize-1990s-f-22-raptor/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b4f671f350cb",
-    "title": "FAA Says Happy Fourth of July With $1.776B in Airport Grants",
-    "summary": "Fresh funding will support a range of projects, from runway rehabilitations to safety upgrades.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-02T17:00:00Z",
-    "url": "https://www.flyingmag.com/faa-4th-july-america-250-airport-grants/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c82889d5690f",
-    "title": "Navy Searches for Missing MH-60S Crewmember",
-    "summary": "Maritime helicopter made an emergency water landing on Wednesday.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-02T16:00:00Z",
-    "url": "https://www.flyingmag.com/navy-searches-missing-helicopter-crewmember/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "39c63f23a8d1",
-    "title": "FAA To Decommission 674 Flight Service RCOs",
-    "summary": "The agency says 262 outlets will remain in service after public comments and additional safety reviews.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-02T15:12:41Z",
-    "url": "https://avweb.com/aviation-news/faa-decommission-674-flight-service-rcos/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2e43b637f562",
-    "title": "NATO set to announce Saab\u00a0GlobalEye\u00a0AWACS replacement in Ankara: Reuters",
-    "summary": "NATO is expected to announce plans to replace its aging Boeing E-3A Sentry AWACS fleet with Saab GlobalEye surveillance aircraft, Reuters&#8230; The post NATO set to announce Saab GlobalEye AWACS replacement in Ankara: Reuters appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-02T15:11:05Z",
-    "url": "https://www.aerotime.aero/articles/nato-saab-globaleye-awacs-ankara-report",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "854f8704bdee",
-    "title": "US pilot shot dead by Papua separatists, Indonesian airline aircraft set on fire",
-    "summary": "A Papua separatist group has claimed its fighters have shot a US pilot and set fire to aircraft&#8230; The post US pilot shot dead by Papua separatists, Indonesian airline aircraft set on fire appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-02T14:54:36Z",
-    "url": "https://www.aerotime.aero/articles/us-pilot-shot-dead-by-papua-separatists-indonesian-airline-aircraft-set-on-fire",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "06ca47373bc9",
-    "title": "Delta Pilots Accuse Airline Of 'Unacceptable' Summer Flight Delays",
-    "summary": "The pilots have expressed their passengers' frustrations when it comes to reliability issues.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-02T14:31:23Z",
-    "url": "https://simpleflying.com/delta-air-lines-pilots-passenger-care-website/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6a5ada7b2248",
-    "title": "Russia likely used shadow fleet ships for drone campaign over Europe: IISS",
-    "summary": "It is highly likely that the Kremlin conducted a drone campaign over Europe between August 2024 and February&#8230; The post Russia likely used shadow fleet ships for drone campaign over Europe: IISS appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-02T14:23:28Z",
-    "url": "https://www.aerotime.aero/articles/iiss-report-russia-drone-campaign-europe-shadow-fleet",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "642b0e5ee30c",
-    "title": "Does Ryanair Make More Money Per Passenger In Economy Than Some Airlines Make In Business Class?",
-    "summary": "Despite its low-cost model, Ryanair is incredibly profitable.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-02T14:00:19Z",
-    "url": "https://simpleflying.com/does-ryanair-earn-more-per-economy-passenger/",
     "airlineTag": null,
     "isBreaking": false
   }
