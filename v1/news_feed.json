@@ -1,5 +1,71 @@
 [
   {
+    "id": "7243d701a3df",
+    "title": "Boeing\u2019s MAX 7 only weeks from approval 13 years after Southwest launch: WSJ",
+    "summary": "Boeing is only weeks away from gaining Federal Aviation Administration (FAA) certification for its 737 MAX 7 aircraft,&#8230; The post Boeing\u2019s MAX 7 only weeks from approval 13 years after Southwest launch: WSJ appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-10T08:51:40Z",
+    "url": "https://www.aerotime.aero/articles/boeing-max-737-7-approval-faa-certification-southwest",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "eaa382268565",
+    "title": "Why United Airlines Just Sent 14 Boeing 777-200s To The Desert Instead Of Fixing Its Pratt & Whitney Engines",
+    "summary": "What was the reason behind the Star Alliance carrier's decision?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-10T08:01:17Z",
+    "url": "https://simpleflying.com/united-airlines-sent-14-boeing-777-200s-desert-fixing-pratt-whitney-engines/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e51702cce5e7",
+    "title": "Why Qantas Is Suddenly Canceling Airbus A380 Flights",
+    "summary": "July hasn't started well for the Australian flag carrier's superjumbo fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-10T07:58:25Z",
+    "url": "https://simpleflying.com/why-qantas-is-suddently-canceling-airbus-a380-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1763df6aa64a",
+    "title": "Student Pilot Lands Cessna 150 Alone After Instructor Jumps To Death Mid-Flight",
+    "summary": "As the instructor made a brief comment and exited the plane mid-flight, the trainee pilot Rosario found himself having to land the plane alone.",
+    "source": "Simple Flying",
+    "category": "training",
+    "publishedDate": "2026-07-10T05:57:15Z",
+    "url": "https://simpleflying.com/student-pilot-lands-cessna-150-alone-instructor-jumps-death-mid-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "290150beef49",
+    "title": "\"Very Disappointed\": JetBlue's Manchester Exit Leaves Fliers Scrambling For Options",
+    "summary": "JetBlue pulls its operations to grab real estate left behind by Spirit.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-10T03:33:13Z",
+    "url": "https://simpleflying.com/jetblue-manchester-exit-fliers-scrambling-options/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "14d98b1587a9",
+    "title": "Association of Asia Pacific Airlines chief on fuel crisis and SAF struggles",
+    "summary": "The Association of Asia Pacific Airlines (AAPA) represents the interests of carriers in what, according to most industry&#8230; The post Association of Asia Pacific Airlines chief on fuel crisis and SAF struggles appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-10T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/association-of-asia-pacific-airlines-chief-on-fuel-crisis-and-saf-struggles",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "77cad969d788",
     "title": "Why No US Ally Could Replicate The B-21 Raider's Hardened Network Of Stealth Bomber Bases",
     "summary": "Discover why the B-21's billion-dollar stealth bases, not its price tag, put America's next bomber beyond allied reach.",
@@ -127,7 +193,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T18:40:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -457,7 +523,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T00:30:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -534,7 +600,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-08T18:18:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +875,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -875,7 +941,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -908,7 +974,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1876,7 +1942,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-03T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/03/aircraft-renters-insurance-checklist?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-03T08:38:03Z",
     "url": "https://www.aerotime.aero/articles/air-new-zealands-final-787-9-dreamliner-long-term-storage",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c5c3164bf26",
-    "title": "How Much A Private Jet Flight Actually Costs Per Hour In 2026",
-    "summary": "Private jet charter rates range from $2,000 to more than $20,000 per hour, but taxes, fees, discounts, and passenger count determine the true costs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T00:00:19Z",
-    "url": "https://simpleflying.com/how-much-private-jet-flight-actually-cost-per-hour-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "471da8d1afcf",
-    "title": "AOPA's Rusty Pilots initiative passes milestone",
-    "summary": "In 2007, David Wing was just starting his commercial training when the economy turned, his flying club started selling off its airplanes, and work got too busy for him to fly regularly. Like many lapsed pilots, he hoped he would get back into the air, perhaps in retirement, or...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-02T22:36:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/02/aopas-rusty-pilots-initiative-passes-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "169b669dc942",
-    "title": "Why The US Air Force Is Short 1,000 Fighter Pilots Despite A $50,000 Retention Bonus",
-    "summary": "The USAF's struggle to fill fighter jet cockpits.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-07-02T22:00:18Z",
-    "url": "https://simpleflying.com/why-usaf-short-1000-fighter-pilots-despite-50000-retention-bonus/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bb82174cc17",
-    "title": "The Airlines That Offer Amenity Kits To Economy Class Passengers In 2026",
-    "summary": "Amenity kits are becoming ever rarer in economy class.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-02T21:30:18Z",
-    "url": "https://simpleflying.com/airlines-offer-amenity-kits-in-economy-class-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f7ccd23cd97a",
-    "title": "How Much Do US Army Aviation Warrant Officers Make Compared To US Air Force Pilots In 2026?",
-    "summary": "Two paths to serve the nation from the flight deck.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-07-02T21:00:18Z",
-    "url": "https://simpleflying.com/army-aviation-warrant-officer-vs-air-force-pilot-pay-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c8787ae54862",
-    "title": "Here's What Emirates' 56-Seat Premium Economy Cabin Offers That Singapore Airlines Structurally Cannot Match",
-    "summary": "Emirates' premium economy seats are an inch wider than Singapore Airlines,' offering passengers a more spacious and comfortable flying experience.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-02T21:00:18Z",
-    "url": "https://simpleflying.com/emirates-56-seat-premium-economy-cabin-offer-singapore-airlines-structurally-cannot-match/",
     "airlineTag": null,
     "isBreaking": false
   }
