@@ -1,5 +1,38 @@
 [
   {
+    "id": "efbad15a4585",
+    "title": "FAA Awards Certification Basis for Electra\u2019s \u2018Ultra Short\u2019 Hybrid-Electric Aircraft",
+    "summary": "Agency closed manufacturer\u2019s G-1 issue paper, giving it roadmap for certifying flagship EL9.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-10T19:00:00Z",
+    "url": "https://www.flyingmag.com/faa-cert-basis-electra-el9-ultra-short-hybrid/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ded4023c76db",
+    "title": "FAA Establishes Certification Basis For Electra EL9",
+    "summary": "Closure of the G-1 issue paper moves the nine-passenger hybrid-electric aircraft into compliance planning.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-10T18:50:01Z",
+    "url": "https://avweb.com/aviation-news/faa-certification-basis-electra-el9/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "11d6efadfa67",
+    "title": "The New US Law That Just Killed Airbus' Single-Pilot Cockpit Plans For A Generation",
+    "summary": "Airplanes flying in America will remain occupied by two pilots.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-10T18:00:18Z",
+    "url": "https://simpleflying.com/new-us-law-killed-airbus-single-pilot-cockpit-plans-generation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e5cca715a297",
     "title": "AOPA\u2019s Air Safety Institute Releases Accident Case Study: Night Falls on Final",
     "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association Air Safety Institute (ASI) has released a new episode of its popular Accident Case Study video series.",
@@ -7,6 +40,61 @@
     "category": "training",
     "publishedDate": "2026-07-10T17:48:07Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c879d39a42fe",
+    "title": "Why Southwest Airlines Doesn't Want Its Boeing 737NGs Anymore",
+    "summary": "Southwest Airlines is famous for operating only the Boeing 737 series.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-10T17:14:34Z",
+    "url": "https://simpleflying.com/southwest-airlines-does-not-want-boeing-737-ng/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8d58fe918dea",
+    "title": "FAA Seeks Members For Overdue Noise Panel",
+    "summary": "The panel\u2019s recommendations could affect airport land-use policy, noise mitigation funding and environmental reviews.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-10T17:07:06Z",
+    "url": "https://avweb.com/aviation-news/faa-overdue-noise-panel/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc57cb5aa91c",
+    "title": "DOT\u2019s 26-State Electric and Autonomous Aircraft Trials Officially Begin",
+    "summary": "Beta Technologies conducted the first flights under the highly anticipated program, demonstrating medical logistics in Maryland and Virginia.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-10T16:30:00Z",
+    "url": "https://www.flyingmag.com/dot-26-states-electric-autonomous-aircraft-trial/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b06f80b1821f",
+    "title": "Why laser weapons are finally moving from the test range to the battlefield",
+    "summary": "For decades, military laser weapons promised revolutionary capability but rarely moved beyond laboratory testing and field demonstrations. That&#8230; The post Why laser weapons are finally moving from the test range to the battlefield appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-10T16:15:15Z",
+    "url": "https://www.aerotime.aero/articles/why-laser-weapons-are-moving-from-test-range-to-battlefield",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3b844d56a5b9",
+    "title": "Pentagon Lifts Apache Pilot Suspension After Beach Flyover",
+    "summary": "Eight South Carolina Army National Guard pilots were grounded while officials reviewed their low-level Fourth of July flight.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-07-10T15:11:06Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/pentagon-lifts-apache-pilot-suspension/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-07-03T20:36:38Z",
     "url": "https://simpleflying.com/united-airlines-grounds-new-premium-boeing-787-9-again-suffering-tcas-issues/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ba421e88cdf5",
-    "title": "Major Reduction: American Airlines Scraps 18,900 Seats From Seasonal Austin-Los Cabos Route",
-    "summary": "The carrier's abrupt scale-back leaves a massive capacity void, allowing competitors to absorb the demand.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-07-03T19:10:43Z",
-    "url": "https://simpleflying.com/american-airlines-scraps-18900-seats-seasonal-austin-los-cabos-route/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "85625c92d2a6",
-    "title": "Air New Zealand Ends Rolls-Royce Trent 1000 Nightmare As Last Boeing 787-9 Exits Storage",
-    "summary": "As the final Boeing 787-9 rejoins Air New Zealand's fleet, the airline's general manager reveals plans for targeted growth in widebody capacity.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T19:08:41Z",
-    "url": "https://simpleflying.com/air-new-zealand-ends-rolls-royce-trent-1000-nightmare-last-boeing-787-9-exits-storage/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c2e500e14dec",
-    "title": "Southwest Airlines Scrutinized Over Social Media Post Calling Out People Who Immediately After Seat Belt Sign Turns Off",
-    "summary": "The post has sparked passionate debate from both sides.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T19:05:28Z",
-    "url": "https://simpleflying.com/southwest-airlines-scrutinized-social-media-post-calling-out-people-stand-seat-belt/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d77bb3b33e8f",
-    "title": "Bumped To First Class: What Actually Happens When An Airline Upgrades You At The Gate",
-    "summary": "Learn how airline gate upgrades really work, who gets bumped to first class first, and the factors that determine complimentary premium seats.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T19:00:09Z",
-    "url": "https://simpleflying.com/what-happens-when-you-get-upgraded-at-the-gate/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "efc8cddf1786",
-    "title": "UPS Blames Boeing For Skipping Enhanced McDonnell Douglas MD-11 Checks Before Fatal Crash",
-    "summary": "The planemaker is said to have told the airline that the MD-11's engine flaw was not a flight safety risk.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T18:56:59Z",
-    "url": "https://simpleflying.com/ups-blames-boeing-skipping-enhanced-mcdonnell-douglas-md-11-checks-before-fatal-crash/",
-    "airlineTag": "UPS Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "57e9809029ba",
-    "title": "1 Time Only: American Airlines To Fly Its Largest Aircraft On Rare Hub-To-Hub Route",
-    "summary": "The flights are scheduled to operate in September.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T18:33:39Z",
-    "url": "https://simpleflying.com/1-time-only-american-airlines-fly-largest-aircraft-new-york-dallas-fort-worth/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "81cb82a9045f",
-    "title": "Behind The Scenes: Inside The Test Airbus A220-300",
-    "summary": "With emergency exits hidden behind cargo doors, the A220-300 test aircraft holds secrets that could only be revealed in the event of a catastrophic failure.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-03T18:02:26Z",
-    "url": "https://simpleflying.com/behind-the-scenes-inside-the-test-airbus-a220-300/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8383e1451e85",
-    "title": "FAA Proposes New Inspection Rating For Mechanics",
-    "summary": "The proposal would replace the current inspection authorization renewal process.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-03T17:01:00Z",
-    "url": "https://avweb.com/aviation-news/faa-proposes-new-inspection-rating/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
