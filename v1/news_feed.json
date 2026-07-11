@@ -1,5 +1,49 @@
 [
   {
+    "id": "78ec832f334c",
+    "title": "American Airlines\u2019 \u201cError\u201d Prompts Removal Of 25,000 AAdvantage Miles Gifted To Some Fliers",
+    "summary": "The airline mistakenly gave thousands of miles to some fliers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T18:54:35Z",
+    "url": "https://simpleflying.com/american-airlines-error-removal-25000-aadvantage-miles-gifted-fliers/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "72febe66c47f",
+    "title": "Here's Why Lufthansa Is Buying GE9X Engines For Jets That Won't Arrive Until 2027",
+    "summary": "Lufthansa Cargo's mix of next-generation and current-generation engines highlights balancing long-term efficiency goals with immediate business needs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T18:00:18Z",
+    "url": "https://simpleflying.com/why-lufthansa-buying-ge9x-engines-jets-wont-arrive-until-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ef0adcdcb75b",
+    "title": "Why Don\u2019t Any US Airlines Fly Nonstop To Thailand?",
+    "summary": "There are currently no non-stop flights between the US and Thailand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T17:30:19Z",
+    "url": "https://simpleflying.com/why-dont-us-airlines-fly-to-thailand-nonstop/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "765dbe0b1da5",
+    "title": "The Questions Every Pilot Asks Before Deciding To Divert Your Flight",
+    "summary": "Diversions are never the intended outcome, but they are always prepared for. Before making this decision, this is what pilots must do.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T15:00:18Z",
+    "url": "https://simpleflying.com/questions-every-pilot-asks-before-deciding-divert-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "80083ea2c4be",
     "title": "Delta Airbus A319 Struck By July 4 Firework Landing At Chicago Midway",
     "summary": "A Delta Air Lines jet was struck by a firework while landing at Chicago's Midway Airport on the 4th of July.The incident occurred at around 8:40 PM as the Airbus A319 was at roughly 200 feet, with pilots telling air traffic control they quote \"felt a big bang.\"",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-07-04T20:53:29Z",
     "url": "https://simpleflying.com/america-250-stunning-airline-liveries-celebrate-usa-250th-birthday/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a7e03a40215c",
-    "title": "Why The US Air Force's New T-7A Trainer Is Quietly Becoming Its 1st Software-Defined Combat Jet",
-    "summary": "The US Air Force needs a new training aircraft; the Red Hawk is their answer. This aircraft will prepare pilots for the future of air warfare.",
-    "source": "Simple Flying",
-    "category": "training",
-    "publishedDate": "2026-07-04T20:00:19Z",
-    "url": "https://simpleflying.com/why-usaf-new-t-7a-trainer-quietly-becoming-1st-software-defined-combat-jet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0313ca50b926",
-    "title": "The US Air Force Just 3D-Printed Its Own F-35 Parts & Didn't Mention Lockheed Martin Once",
-    "summary": "The USAF is looking to 3D printing to work around a parts shortage attributed to Lockheed's vendor lock over the F-35 that the US military resents.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-04T18:00:18Z",
-    "url": "https://simpleflying.com/usaf-3d-print-own-f-35-parts-didnt-mention-lockheed-martin-once/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a98ab68ee13b",
-    "title": "The Airport That Once Dominated New York Is Now A National Park",
-    "summary": "In 1933, the airport was one of the busiest in the United States by flight volume.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-04T17:30:18Z",
-    "url": "https://simpleflying.com/airport-dominated-new-york-is-now-national-park/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a4058785b763",
-    "title": "American Airlines Launches 7 New Nonstop Long-Haul Routes: See All Flights Now",
-    "summary": "A closer look at the carrier's intercontinental expansion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-04T16:00:18Z",
-    "url": "https://simpleflying.com/american-airlines-new-long-haul-routes/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
