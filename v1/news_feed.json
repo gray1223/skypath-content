@@ -1,5 +1,93 @@
 [
   {
+    "id": "48f005b8f62b",
+    "title": "The Airline Quietly Putting Lie-Flat Throne Suites 8 On Short European Routes This Summer",
+    "summary": "A closer look at one of the most comfortable ways to travel throughout Western Europe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T01:00:19Z",
+    "url": "https://simpleflying.com/airline-quietly-putting-lie-flat-throne-suites-8-short-european-routes-summer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d3822c8ac2b9",
+    "title": "Aging Fleet: 2 US-Bound British Airways Boeing 777s Turn Back With Tech Issues In 2 Days",
+    "summary": "As British Airways' oldest Boeing 777s encounter technical issues, passengers are left wondering how long these aging planes will continue to operate.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T00:08:01Z",
+    "url": "https://simpleflying.com/british-airways-boeing-777-us-flights-turn-back/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9f9231fdd5f6",
+    "title": "American Airlines Launches 13 Exciting New Nonstop International Routes [Full List]",
+    "summary": "These range from transatlantic odysseys to cross-border hops.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T22:00:19Z",
+    "url": "https://simpleflying.com/american-airlines-new-international-routes/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1f1ce0033bef",
+    "title": "The Carrier Behind LATAM Airlines' Inflight Entertainment Overhaul",
+    "summary": "LATAM is reinventing inflight entertainment by following Delta Air Lines' digital blueprint, combining AI, Viasat WiFi, and personalization.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T22:00:19Z",
+    "url": "https://simpleflying.com/carrier-behind-latam-airlines-ife-overhaul/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7fa2e66b82df",
+    "title": "Why Does Alaska Airlines Fly Internationally From St. Louis?",
+    "summary": "A closer look at the carrier's strategy on how best to utilize its aircraft during the slow winter season, and the competitive landscape in St Louis.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T21:30:19Z",
+    "url": "https://simpleflying.com/why-alaska-airlines-flies-internationally-from-st-louis/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "832d278fa5e6",
+    "title": "Why The Airbus A350 Can Fly Late-Night Slots At London Heathrow That Ground Competing Widebodies",
+    "summary": "The Airbus A350 is one of aviation\u2019s quietest widebodies, but how does that help airlines operate overnight at London Heathrow?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T21:00:19Z",
+    "url": "https://simpleflying.com/why-airbus-a350-fly-late-night-slots-london-heathrow-ground-competing-widebodies/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "531f2c4dfa8a",
+    "title": "West & East: Alaska Airlines Expands Portland Network With 2 New Routes",
+    "summary": "The new routes will be a game-changer for air travel in the region.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T20:17:57Z",
+    "url": "https://simpleflying.com/alaska-airlines-expand-portland-network-2-routes/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fe99ff9b52cc",
+    "title": "500+ Flights Canceled, 4,000 Delayed: Storms And ATC Shortages Hit New York Airports",
+    "summary": "New York has one of the most complex and congested airspaces in the country.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-11T19:52:06Z",
+    "url": "https://simpleflying.com/new-york-airports-flight-cancellations-storms-atc-staffing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "78ec832f334c",
     "title": "American Airlines\u2019 \u201cError\u201d Prompts Removal Of 25,000 AAdvantage Miles Gifted To Some Fliers",
     "summary": "The airline mistakenly gave thousands of miles to some fliers.",
@@ -259,7 +347,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-10T17:48:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -622,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T18:40:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -655,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T17:41:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -963,7 +1051,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T00:30:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1040,7 +1128,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-08T18:18:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1315,7 +1403,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1381,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1414,7 +1502,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-05T11:25:57Z",
     "url": "https://www.aerotime.aero/articles/massive-flight-display-marks-the-250th-anniversary-of-the-united-states",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fd1a5020f8a9",
-    "title": "Only 45 Minutes: Ethiopian Airlines Launches Europe's Shortest Airbus A350 Flights",
-    "summary": "Ethiopian's new services to Lyon via Geneva is replacing the airline's services to Brussels, via Geneva.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T10:01:18Z",
-    "url": "https://simpleflying.com/only-45-minutes-ethiopian-launches-europes-shortest-new-airbus-a350-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b176462632b",
-    "title": "How Much Do Pilots Earn On The World's Longest Commercial Routes In 2026?",
-    "summary": "Flying nearly 20 hours across the globe is a quick way to earn a fortune. Let's take a look across the globe at how much these pilots really earn.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T07:00:19Z",
-    "url": "https://simpleflying.com/pilot-salaries-worlds-longest-commercial-routes-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b1699ca06ce",
-    "title": "Why 56 American Airlines Regional Jets Have A Table Bolted Where A Seat Should Be",
-    "summary": "The carrier has an interesting solution to reducing seat count on these planes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T05:10:10Z",
-    "url": "https://simpleflying.com/american-airlines-e170-blocked-seat-pilot-scope-clause/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7470df5d5e3a",
-    "title": "Here's Why US Marine F-35B Pilots Quit For Airline Jobs Paying Roughly Double",
-    "summary": "Like other service branches and other professional air forces, the Marines are facing issues retaining their trained fast jet pilots.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T04:00:22Z",
-    "url": "https://simpleflying.com/why-us-marine-f-35b-pilots-quit-airline-jobs-paying-roughly-double/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1edaf1bd2681",
-    "title": "The Tiny Fin You'll Never Notice From Your Window Seat That Could Quietly Save Delta Air Lines Millions",
-    "summary": "Delta is further cutting fuel burn by adding fins on the rear fuselage of its 737s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T01:00:18Z",
-    "url": "https://simpleflying.com/tiny-fin-never-notice-window-seat-quietly-save-delta-air-lines-millions/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "87ee1a277fb2",
-    "title": "Flyovers, Paint Jobs & Art In The Skies: How Aviation Is Celebrating America\u2019s 250th",
-    "summary": "Massive military flyovers, a coast-to-coast livery showcase and a six-hour drawing in the sky celebrate America's 250th birthday.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-04T22:02:08Z",
-    "url": "https://simpleflying.com/flyovers-liveries-art-aviation-celebrating-america-250/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6e3bfd3dff15",
-    "title": "The Salaries Of Pilots Flying For These 5 US Airlines In 2026",
-    "summary": "Airlines have clear, structured pay scales.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-04T21:00:18Z",
-    "url": "https://simpleflying.com/pilot-salaries-us-airlines-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1bfc88d449c9",
-    "title": "America 250 Takes Flight: The Stunning Airline Liveries Celebrating The USA\u2019s 250th Birthday",
-    "summary": "From decals to full liveries, airlines like Delta, United, JetBlue, Southwest, and Allegiant are paying tribute to America's historic milestone.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-04T20:53:29Z",
-    "url": "https://simpleflying.com/america-250-stunning-airline-liveries-celebrate-usa-250th-birthday/",
     "airlineTag": "United Airlines",
     "isBreaking": false
   }
