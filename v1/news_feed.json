@@ -1,5 +1,71 @@
 [
   {
+    "id": "9f3cabe91ad1",
+    "title": "The USAF Is Paying $2 Billion Upfront For The First B-21 Base And 2 Out Of 3 Have Already Broken Ground",
+    "summary": "Why the USAF is clearing house for its newest bomber.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T18:00:18Z",
+    "url": "https://simpleflying.com/b-21-raider-cost-per-operational-base/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "36cd9b4919ca",
+    "title": "7-Hour Flights: Air Canada's 10 Longest Nonstop Airbus A220 Routes Revealed [Map]",
+    "summary": "Montreal serves as a key A220 launch point for the airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T16:00:18Z",
+    "url": "https://simpleflying.com/7-hour-flights-air-canadas-10-longest-a220-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a66f725bd38f",
+    "title": "Man Jailed For 18 Months After 90-Second Laser Attack On Delta Flight Landing In Buffalo",
+    "summary": "The judge deemed the incident a dangerous crime that could have brought the plane down.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T15:58:56Z",
+    "url": "https://simpleflying.com/delta-air-lines-flight-buffalo-laser-attack-18-months/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "ffa38182259b",
+    "title": "Wizz Air Suddenly Scraps 7-Hour Flights: The Airbus A321XLR Experiment Ends",
+    "summary": "Wizz Air has scrapped its longest Airbus A321XLR flights to Saudi Arabia, leaving the jet with little purpose as the airline pivots back to Europe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T15:16:12Z",
+    "url": "https://simpleflying.com/wizz-air-scraps-7-hour-flights-a321xlr-experiment-ends/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "888e60009348",
+    "title": "Why Boeing Is Still Producing The 767 Freighter More Than A Decade After The Passenger Variant Received Its Last Commercial Order",
+    "summary": "Once a staple of the passenger airline industry, the 767-300 actually remains in production as a cargo variant. Here is why it remains in production.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T15:00:18Z",
+    "url": "https://simpleflying.com/why-boeing-still-builds-767-freighter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eed4918ca6d3",
+    "title": "Why A Rumored United Airlines' Ultra-Long-Haul Flight Could Become Among The Most Profitable Routes In Aviation",
+    "summary": "Will United Airlines really dare to commence flights between San Francisco and India?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T14:00:19Z",
+    "url": "https://simpleflying.com/why-rumored-united-airlines-ultra-long-haul-flight-among-most-profitable-routes-aviation/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "759667da151e",
     "title": "Why The US Air Force Still Flies A Strategic Bomber With A Cockpit Designed In The 1960s",
     "summary": "The B-52 began its service life in the 1950s, it's still flying today because it easy to modernize and it can carry any weapon in the US arsenal.",
@@ -424,7 +490,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-10T17:48:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T18:40:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -820,7 +886,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T17:41:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1194,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T00:30:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1205,7 +1271,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-08T18:18:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1546,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1546,7 +1612,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1579,7 +1645,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-05T23:00:19Z",
     "url": "https://simpleflying.com/large-cabin-private-jets-quietly-took-over-65-percent-high-end-charter-market-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "440fea278b72",
-    "title": "This Airline's Premium Economy Has 4 More Inches Of Legroom Than Award-Winning Emirates & Qantas",
-    "summary": "This oneworld carrier offers one of the industry's leading premium economy products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T21:00:19Z",
-    "url": "https://simpleflying.com/airline-premium-economy-4-more-inches-legroom-award-winning-emirates-qantas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "153d8a459fa8",
-    "title": "Frontier Airlines To Shrink Its Fleet By Selling 11 Airbus A321neos To Avolon",
-    "summary": "The airline is offloading the aircraft from its orderbook.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T20:54:43Z",
-    "url": "https://simpleflying.com/frontier-airlines-shrink-fleet-selling-11-airbus-a321neos-avolon/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "756683408c75",
-    "title": "United Passenger Gets Entire Boeing 737 To Himself After British Airways Abandoned Him",
-    "summary": "The passenger could take any seat he wanted, and was invited to meet the pilots and sit in the cockpit for a photo.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T19:42:58Z",
-    "url": "https://simpleflying.com/united-passenger-entire-boeing-737-british-airways-abandoned/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7e1ad577b8cb",
-    "title": "This Is How Fast The B\u20112 Spirit Bomber Can Fly",
-    "summary": "The military aircraft is not as fast as you might think.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T19:15:18Z",
-    "url": "https://simpleflying.com/how-fast-b-2-spirit-bomber-can-fly/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b228146c6260",
-    "title": "Why Airlines' New Business Class Suites Aren't About Luxury \u2013 They're About Accounting",
-    "summary": "What is the real purpose of a business class suite for airlines? Is it to bring in more corporate customers, or is there a different motive?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T19:00:18Z",
-    "url": "https://simpleflying.com/airlines-new-business-class-suites-arent-about-luxury-about-accounting/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cc004fa9aa51",
-    "title": "Why A Boeing 737 Pilot's Muscle Memory Becomes The Enemy On Their 1st Approach In The 787",
-    "summary": "Pilots rely heavily on control feedback.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T18:00:19Z",
-    "url": "https://simpleflying.com/why-boeing-737-pilot-muscle-memory-enemy-1st-approach-787/",
     "airlineTag": null,
     "isBreaking": false
   }
