@@ -1,5 +1,16 @@
 [
   {
+    "id": "ca53cc7c14fd",
+    "title": "Why A Commercial Flight Sometimes Orbits The Same Point For Over An Hour Before Landing",
+    "summary": "Despite increasingly sophisticated arrival management systems, holding patterns remain one of the most effective tools for keeping busy skies safe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T04:00:24Z",
+    "url": "https://simpleflying.com/why-flights-orbit-before-landing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "48f005b8f62b",
     "title": "The Airline Quietly Putting Lie-Flat Throne Suites 8 On Short European Routes This Summer",
     "summary": "A closer look at one of the most comfortable ways to travel throughout Western Europe.",
@@ -347,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-10T17:48:07Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -710,7 +721,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T18:40:02Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -743,7 +754,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T17:41:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1062,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T00:30:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-08T18:18:02Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1414,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1469,7 +1480,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1513,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-07-05T12:07:14Z",
     "url": "https://simpleflying.com/delta-air-lines-airbus-a319-july-4-firework-chicago-midway/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "e1d61f86fc4e",
-    "title": "Massive flight display marks the 250th anniversary of the United States",
-    "summary": "The United States celebrated its 250th anniversary on July 4, 2026, with a massive flight display over the&#8230; The post Massive flight display marks the 250th anniversary of the United States appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-05T11:25:57Z",
-    "url": "https://www.aerotime.aero/articles/massive-flight-display-marks-the-250th-anniversary-of-the-united-states",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
