@@ -1,5 +1,82 @@
 [
   {
+    "id": "972d9e3ec9b4",
+    "title": "Canada Has Quietly Funded 14 More F-35s While Publicly Debating Whether To Cancel The Order",
+    "summary": "Canada\u2019s fighter jet decision is already moving faster than politics: 30 F-35s are in the pipeline while Ottawa still debates the full 88.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-13T02:00:31Z",
+    "url": "https://simpleflying.com/canada-quietely-fund-14-more-f-35s-publicly-debating-whether-cancel-order/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4cb9301daf4f",
+    "title": "Here's How Much You Now Have To Spend On Southwest Airlines To Earn A Companion Pass In 2026",
+    "summary": "The Companion Pass is still an extremely valuable benefit.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-13T01:00:18Z",
+    "url": "https://simpleflying.com/how-much-spend-southwest-airlines-earn-companion-pass-2026/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "88b81e284645",
+    "title": "Is It True That American Airlines' Airbus A321neo Main Cabin Extra Exit Row Has More Legroom Than First Class?",
+    "summary": "The oneworld carrier's exit row seats can offer a comfortable ride for passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T23:00:18Z",
+    "url": "https://simpleflying.com/true-american-airlines-airbus-a321neo-mce-more-legroom-first-class/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ef654484b684",
+    "title": "Delta Air Lines' Oldest Active Jet Is 37 Years Old: Here\u2019s Where It's Still Flying",
+    "summary": "The carrier has several veteran narrowbodies at its disposal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T22:00:18Z",
+    "url": "https://simpleflying.com/delta-oldest-active-jet-analysis/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "275f42b67407",
+    "title": "Breeze Airways Grows Tampa Network By Adding 2 New Routes To Las Vegas & Islip",
+    "summary": "Breeze Airways is expanding in Tampa with new Las Vegas and Islip routes, entering a fast-growing Long Island market dominated by Frontier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T21:45:37Z",
+    "url": "https://simpleflying.com/breeze-airways-grows-tampa-network-2-new-routes-las-vegas-islip/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1ee7100b20e7",
+    "title": "The Aircraft Replacing The Airbus A380",
+    "summary": "Airlines are steadily moving away from A380s in favor of long-haul twin-engine aircraft that offer improved efficiency and operating costs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T21:31:18Z",
+    "url": "https://simpleflying.com/aircraft-replacing-airbus-a380-26/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3ac747224d92",
+    "title": "Cracked? Woman Claims United Airlines Flew Damaged 30-Year-Old Boeing 777, Sparking Uproar",
+    "summary": "The viral photo has gained traction among travelers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-12T20:45:30Z",
+    "url": "https://simpleflying.com/woman-claims-united-airlines-flew-damaged-30-year-old-boeing-777-uproar/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "9f3cabe91ad1",
     "title": "The USAF Is Paying $2 Billion Upfront For The First B-21 Base And 2 Out Of 3 Have Already Broken Ground",
     "summary": "Why the USAF is clearing house for its newest bomber.",
@@ -490,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-10T17:48:07Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/10/pr-aopas-air-safety-institute-releases-accident-case-study-night-falls-on-final?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -853,7 +930,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T18:40:02Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/socata-ga-pilots-rendezvous-with-french-aerobatic-team?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -886,7 +963,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T17:41:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/09/pr-aopa-foundation-expand-high-school-aviation-education-with-maintenance-manufacturing-curriculum?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1194,7 +1271,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-09T00:30:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/aircraft-maintenance-preparing-for-summer-travel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1271,7 +1348,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-08T18:18:02Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/08/the-aandp-who-built-a-business-while-logging-flight-hours?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1546,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T23:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/training-and-safety-tip-clear-the-prop-properly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1612,7 +1689,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1645,7 +1722,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-06T12:21:29Z",
     "url": "https://www.aerotime.aero/articles/f-35-fighters-uk-carrier-strike-group-scramble-russian-bear-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1d5e81ee7ddf",
-    "title": "19-Hour Flights: Singapore Airlines' 11 New Ultra-Long Airbus A350 Routes Revealed [Map]",
-    "summary": "The list includes the two longest scheduled commercial flights in the world.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T11:20:53Z",
-    "url": "https://simpleflying.com/singapore-airlines-11-longest-a350-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d666cc1fce5e",
-    "title": "Here's What Pilots Actually Touch In The Cockpit When The Autopilot Is 'Flying The Plane'",
-    "summary": "Modern airliner autopilots still require constant pilot inputs, monitoring, and oversight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T10:00:18Z",
-    "url": "https://simpleflying.com/what-pilots-actually-touch-cockpit-autopilot-flying-plane/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "073ad7820012",
-    "title": "\"Large Silver Object\": NetJets Pilots Report Near Miss At 15,800 Feet Over New York",
-    "summary": "The aircraft was able to continue to its destination as planned despite the mid-air scare.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T08:20:49Z",
-    "url": "https://simpleflying.com/netjets-pilots-near-miss-silver-object-new-york/",
-    "airlineTag": "NetJets",
-    "isBreaking": false
-  },
-  {
-    "id": "8542a1b011ce",
-    "title": "5 Passenger Airports That Share Facilities With Active Military Squadrons",
-    "summary": "These five US airports share their runways with active military squadrons operating C-17s, KC-135 tankers, MQ-9 Reapers, and F-22 Raptors.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T07:00:18Z",
-    "url": "https://simpleflying.com/airports-sharing-runways-with-military-bases/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0db5a570ee2c",
-    "title": "5 Commercial Aircraft Programs Boeing And Airbus Cancelled",
-    "summary": "Over the years, a wide range of aircraft designs have been proposed by both Boeing and Airbus. The design principles of several of these proposed programs have helped shape aviation as we know it today, despite never having taken to the skies themselves. Some were too expensiv...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T05:00:18Z",
-    "url": "https://simpleflying.com/video/5-commercial-aircraft-programs-boeing-and-airbus-cancelled/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "171cba00ea63",
-    "title": "Delta Air Lines A319 hit by fireworks while landing in Chicago: media reports",
-    "summary": "A Delta Air Lines Airbus A319 was hit by a firework while on final approach to Chicago Midway&#8230; The post Delta Air Lines A319 hit by fireworks while landing in Chicago: media reports appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-06T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/delta-air-lines-a319-hit-by-fireworks-while-landing-in-chicago-media-reports",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "322b513f03a2",
-    "title": "How Large-Cabin Private Jets Quietly Took Over 65% Of The High-End Charter Market In 2026",
-    "summary": "This is why larger private jets continue to lead the industry in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-05T23:00:19Z",
-    "url": "https://simpleflying.com/large-cabin-private-jets-quietly-took-over-65-percent-high-end-charter-market-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
