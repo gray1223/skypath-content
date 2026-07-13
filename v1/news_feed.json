@@ -1,5 +1,115 @@
 [
   {
+    "id": "9ce46fb4cf4f",
+    "title": "Why Emirates' Airbus A380 Premium Economy Has Quietly Become The Sweet Spot On Europe-Dubai Routes",
+    "summary": "Premium economy offers just enough of an elevated experience that passengers will pay big money.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-13T19:01:16Z",
+    "url": "https://simpleflying.com/why-emirates-airbus-a380-premium-economy-quietly-become-sweet-spot-europe-dubai-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bb93e67b3517",
+    "title": "Riyadh Air weighs firm order for 25-30 more Boeing 787s",
+    "summary": "Riyadh Air is considering placing an order for as many as 30 additional Boeing 787 Dreamliners as the&#8230; The post Riyadh Air weighs firm order for 25-30 more Boeing 787s appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-13T18:36:24Z",
+    "url": "https://www.aerotime.aero/articles/riyadh-air-weighs-firm-order-for-25-30-more-boeing-787s",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a4dcd22e60f9",
+    "title": "Why Southwest Airlines Might Change Its Cabin Interior Again",
+    "summary": "A closer look at why a Southwest Airlines first class cabin could be an inevitability rather than a thought experiment.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-13T17:30:17Z",
+    "url": "https://simpleflying.com/why-southwest-airlines-might-change-cabin-interior-again/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "372576011322",
+    "title": "NTSB: NetJets Crew Faced Dual Engine Flameout",
+    "summary": "The Citation Latitude crew reported an unusual vibration before a sequence of fuel and electrical warnings.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-07-13T16:19:38Z",
+    "url": "https://avweb.com/flight-safety/accidents-ntsb/ntsb-netjets-crew-dual-engine-flameout/",
+    "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "77c5e29ee657",
+    "title": "Oregon Adds Public Drone Training Framework",
+    "summary": "The state template includes written tests, practical evaluations, emergency drills and airspace-deconfliction exercises.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-13T16:10:00Z",
+    "url": "https://avweb.com/aviation-news/oregon-add-public-drone-training-framework/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a96906363382",
+    "title": "Jeppesen ForeFlight Simplifies Flight Planning With AI-Powered ClearNOTAMs App",
+    "summary": "New feature decodes cryptic info into plain English, helping pilots focus on operational impact rather than complex abbreviations.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-13T16:02:48Z",
+    "url": "https://www.flyingmag.com/jeppesen-foreflight-simplifies-flight-planning-with-ai-powered-clearnotams-app/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ac1d59d7ffb2",
+    "title": "Why Delta, American, & United Airlines Elites Should Almost Never Book Basic Economy In 2026",
+    "summary": "Basic economy has become the single biggest trap for anyone who holds an elite status with the Big Three US carriers. Why is this the case?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-13T16:00:16Z",
+    "url": "https://simpleflying.com/why-delta-american-united-airlines-elite-never-book-basic-economy-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f47bad62745f",
+    "title": "GA in Action: Volunteer Flying Opens The Way To Camp",
+    "summary": "A recent flight for 16-year-old Susy connected one volunteer pilot\u2019s decision to begin training in 2020 with a camp program she has attended since 2019.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-13T15:20:51Z",
+    "url": "https://avweb.com/features/fun-flying/ga-in-action-volunteer-flying-opens-camp/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "72174b6e34ee",
+    "title": "This 1966 Cessna 150G Is a Time-Building \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Affordable operating economics, modern Garmin glass, and fresh annual inspection anchor dependable two-seat trainer.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-13T15:00:00Z",
+    "url": "https://www.flyingmag.com/this-1966-cessna-150g-is-a-time-building-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c049ed8f0f63",
+    "title": "Pilot Killed In Colorado Firefighting Aircraft Accident",
+    "summary": "The aircraft entered Silver Jack Reservoir during operations associated with the Gold Mountain Fire.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-13T14:45:17Z",
+    "url": "https://avweb.com/aviation-news/pilot-died-colorado-firefighting-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d5628a0d2a6b",
     "title": "NTSB Focuses on Engine Generator in Fatal Laredo Citation Crash",
     "summary": "Preliminary investigation of NetJets accident reveals failed right engine starter generator after reports of unusual in-flight vibrations.",
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-06T21:16:00Z",
     "url": "https://simpleflying.com/faa-1776-billion-airport-grants-celebrate-america-250/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "489aee2c721f",
-    "title": "Cirrus Introduces TRAC10 Training Aircraft",
-    "summary": "The three-seat trainer is slated for U.S. deliveries in 2027.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-06T21:03:07Z",
-    "url": "https://avweb.com/aviation-news/cirrus-introduces-trac10-training-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f660c0a8da60",
-    "title": "How Emirates Quietly Built A Backup Plan For The World's Longest Airbus A380 Route",
-    "summary": "The airline offers a nonstop and one-stop itinerary between Dubai and Auckland.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T21:00:19Z",
-    "url": "https://simpleflying.com/how-emirates-quietly-built-backup-plan-worlds-longest-airbus-a380-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a5b8ec3f16ec",
-    "title": "Edgewing wins $6.1B contract to advance UK-Italy-Japan GCAP fighter program",
-    "summary": "Edgewing has secured a \u00a34.6 billion ($6.1 billion) contract to advance development of the Global Combat Air Program&#8230; The post Edgewing wins $6.1B contract to advance UK-Italy-Japan GCAP fighter program appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-06T20:52:21Z",
-    "url": "https://www.aerotime.aero/articles/edgewing-gcap-fighter-contract",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "569e57ae057f",
-    "title": "NTSB Releases Final Report on Rob Holland Accident",
-    "summary": "50-year-old was one of the top aerobatic pilots in the world.",
-    "source": "Flying Magazine",
-    "category": "regulatory",
-    "publishedDate": "2026-07-06T19:00:00Z",
-    "url": "https://www.flyingmag.com/ntsb-releases-final-report-on-rob-holland-accident/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "24a2a5dbac57",
-    "title": "United Airlines Froze Its 2026 Premier Status Thresholds, But Quietly Rewired Who Actually Earns Miles",
-    "summary": "The status requirements are the same, but the program itself has changed fundamentally.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T18:00:21Z",
-    "url": "https://simpleflying.com/united-airlines-froze-2026-premier-status-thresholds-quietly-rewired-actually-earns-miles/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7c94ea5c7b69",
-    "title": "The Real Reason Why Delta Air Lines Brought Back The Boeing 747",
-    "summary": "The 747's return to Delta after an 18-year hiatus was no mere coincidence.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T17:30:18Z",
-    "url": "https://simpleflying.com/real-reason-why-delta-air-lines-brought-back-boeing-747/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "78b69d40fc67",
-    "title": "Here's What Happens To A Commercial Aircraft's Market Value The Moment The Airline Operating It Files For Bankruptcy",
-    "summary": "When an airline files for bankruptcy, its aircraft become stranded assets, but what happens to their value?",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-07-06T17:00:19Z",
-    "url": "https://simpleflying.com/what-happens-to-aircraft-values-after-airline-bankruptcy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "81d40b7cd548",
-    "title": "Pilot Behind \u2018USA 250th\u2019 Flight Path Breaks Down Mission",
-    "summary": "Cessna Skylane RG makes a meticulous, six-plus-hour flight to celebrate the nation\u2019s 250th anniversary.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-06T16:52:02Z",
-    "url": "https://www.flyingmag.com/pilot-ohio-usa-250-anniversary-flight-path/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cdbc8aafe5d8",
-    "title": "Pilot Paints \u2018USA 250th\u2019 Flight Path",
-    "summary": "Cessna Skylane RG makes a meticulous, six-plus-hour flight to celebrate the nation\u2019s 250th anniversary.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-06T16:52:02Z",
-    "url": "https://www.flyingmag.com/pilot-ohio-usa-250-anniversary-flight-path/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e8c5ec594f95",
-    "title": "Garmin Pilot Brings Flight Planning, SmartCharts Changes",
-    "summary": "SmartCharts availability will expand to Canada and Mexico in August.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-06T16:49:51Z",
-    "url": "https://avweb.com/flight-safety/flight-planning/garmin-pilot-flight-planning-smartcharts/",
     "airlineTag": null,
     "isBreaking": false
   }
