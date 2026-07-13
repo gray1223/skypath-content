@@ -1,5 +1,60 @@
 [
   {
+    "id": "d5628a0d2a6b",
+    "title": "NTSB Focuses on Engine Generator in Fatal Laredo Citation Crash",
+    "summary": "Preliminary investigation of NetJets accident reveals failed right engine starter generator after reports of unusual in-flight vibrations.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-07-13T14:02:34Z",
+    "url": "https://www.flyingmag.com/ntsb-focuses-on-engine-generator-in-fatal-laredo-citation-crash/",
+    "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "bcffb834f19f",
+    "title": "RAAF P-8A Poseidons complete Operation Gateway rotation as mission turns 45",
+    "summary": "The Royal Australian Air Force (RAAF) has completed this year\u2019s first rotation of Operation Gateway, with three P-8A&#8230; The post RAAF P-8A Poseidons complete Operation Gateway rotation as mission turns 45 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-13T13:24:17Z",
+    "url": "https://www.aerotime.aero/articles/raaf-p-8a-poseidons-complete-operation-gateway-rotation-as-mission-turns-45",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "671701c78783",
+    "title": "Boeing poised for FIA after tapering activity in 2024 due to Alaska 737 incident",
+    "summary": "Boeing will be attending this year\u2019s Farnborough Airshow with a more confident approach after tapering its commercial activity&#8230; The post Boeing poised for FIA after tapering activity in 2024 due to Alaska 737 incident appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-13T13:01:51Z",
+    "url": "https://www.aerotime.aero/articles/boeing-farnborough-airshow-2026-display-exhibit",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a73d1f8cd9f4",
+    "title": "World Cup Fever: 1.2% North America Flight Boost At Heathrow, Gatwick Adds Late US Trip",
+    "summary": "North American traffic was on the rise at Heathrow last month. Tomorrow, Norse Atlantic will operate a rare one-off flight from Gatwick to Atlanta.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-13T12:54:50Z",
+    "url": "https://simpleflying.com/london-north-america-world-cup-traffic-boosts/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c74fdc81d062",
+    "title": "Qantas A321 becomes first freighter to land at Western Sydney International",
+    "summary": "A Qantas Airbus A321 freighter has become the first cargo aircraft to land at Western Sydney International Airport&#8230; The post Qantas A321 becomes first freighter to land at Western Sydney International appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-13T11:30:39Z",
+    "url": "https://www.aerotime.aero/articles/qantas-a321-becomes-first-freighter-to-land-at-western-sydney-international",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "91a099de4224",
     "title": "Historic: Qantas Airbus A321 Freighter Is First To Land At New Western Sydney Airport",
     "summary": "This marks a key milestone for the new airport.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-07-06T16:49:51Z",
     "url": "https://avweb.com/flight-safety/flight-planning/garmin-pilot-flight-planning-smartcharts/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9c5db9a9bb97",
-    "title": "FAA Proposes Federal Standard for Crew Breaks",
-    "summary": "Recent litigation prompted the proposal, which would preempt state and local meal and rest break laws for Part 121 crews.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-07-06T16:02:21Z",
-    "url": "https://avweb.com/aviation-news/aviation-law/faa-proposes-federal-standard-crew-breaks/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "daf3cd8bcf0e",
-    "title": "Isaacman Flew F-5 In July 4 Flyover After FAA Denial",
-    "summary": "The FAA had classified the vintage jets as \u201cvery high-risk.\u201d",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-06T15:04:35Z",
-    "url": "https://avweb.com/aviation-news/isaacman-f-5-july-4-flyover-faa-denial/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6717bd7d792d",
-    "title": "Delta A319 Reports Firework Strike",
-    "summary": "The FAA said it will investigate after the July Fourth incident at Midway.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-06T14:00:28Z",
-    "url": "https://avweb.com/aviation-news/delta-a319-reports-firework-strike/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ed944cfd5e6d",
-    "title": "Cirrus launches TRAC10, a new light aircraft for the flight training market",
-    "summary": "Cirrus Aircraft has unveiled a new aircraft type, called TRAC10, for the flight training market. With this launch,&#8230; The post Cirrus launches TRAC10, a new light aircraft for the flight training market appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "training",
-    "publishedDate": "2026-07-06T13:32:36Z",
-    "url": "https://www.aerotime.aero/articles/cirrus-launches-trac10-a-new-light-aircraft-for-the-flight-training-market",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb69050fe84b",
-    "title": "Not Done Yet: Breeze Airways Schedules Embraer E190 Flights On 9 Routes Over The Next 2 Months",
-    "summary": "The airline will operate the Embraer aircraft for a little longer before moving to the Airbus A220.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-06T13:30:18Z",
-    "url": "https://simpleflying.com/breeze-airways-schedules-embraer-e190-flights-9-routes-next-2-months/",
-    "airlineTag": "Breeze Airways",
     "isBreaking": false
   }
 ]
