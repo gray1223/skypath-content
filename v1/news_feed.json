@@ -1,5 +1,38 @@
 [
   {
+    "id": "51405efeabfe",
+    "title": "Boeing posts strongest first-half\u00a0aircraft\u00a0deliveries since 2018",
+    "summary": "Boeing delivered 314 commercial aircraft during the first half of 2026, its highest total for the period since 2018 as&#8230; The post Boeing posts strongest first-half aircraft deliveries since 2018 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-14T19:14:15Z",
+    "url": "https://www.aerotime.aero/articles/boeing-strongest-first-half-deliveries-since-2018",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4a5543d4345a",
+    "title": "uAvionix and Jeppesen\u2019s SkyPlay Brings ForeFlight to Cockpit",
+    "summary": "Partners integrate popular flight planning platform directly into instrument panel.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-14T18:30:00Z",
+    "url": "https://www.flyingmag.com/uavionix-jeppesen-skyplay-foreflight-integration/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bca4d1d4285a",
+    "title": "Texas Cadet Becomes CAP\u2019s 200th Ray-Funded Pilot",
+    "summary": "Sebastian Vargas earned his private pilot certificate after completing his FAA check ride in McAllen.",
+    "source": "AvWeb",
+    "category": "hiring",
+    "publishedDate": "2026-07-14T18:15:29Z",
+    "url": "https://avweb.com/flight-safety/flight-training/texas-cadet-cap-200th-ray-funded-pilot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cd2b9caa834a",
     "title": "Training and Safety Tip: Maintain weather awareness",
     "summary": "Most pilots can tell at least one story about a flight that did not go as planned because of unpredicted weather along the route. We all know that weather forecasts aren&rsquo;t perfect, but that can lead to concerns regarding the safety of the flight.",
@@ -7,6 +40,94 @@
     "category": "training",
     "publishedDate": "2026-07-14T17:59:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/july/14/training-and-safety-tip-maintain-weather-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ec9fac5f8263",
+    "title": "\u2018Miracle on the Hudson\u2019 Pilot Sully Sullenberger Diagnosed With Alzheimer\u2019s",
+    "summary": "Retired captain says symptoms are relatively mild but acknowledges \u2018long journey\u2019 ahead.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-14T17:01:43Z",
+    "url": "https://www.flyingmag.com/miracle-on-the-hudson-pilot-sully-sullenberger-diagnosed-with-alzheimers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ca1c261e2c9e",
+    "title": "Pentagon To Deploy New Counter-Drone System",
+    "summary": "The transportable SkyValor system follows operational testing conducted in coordination with Customs and Border Protection.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-14T16:47:00Z",
+    "url": "https://avweb.com/aviation-news/pentagon-to-deploy-counter-drone-system/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8473ec718343",
+    "title": "Frontier Becomes 1st American ULCC To Offer Starlink WiFi, Will Others Follow?",
+    "summary": "Frontier becomes the first US ULCC to adopt Starlink WiFi, raising new questions over paid internet and whether rival budget airlines will follow",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-14T16:26:48Z",
+    "url": "https://simpleflying.com/frontier-1st-american-ulcc-starlink-wifi/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b6edf5100f9c",
+    "title": "Alaska Airlines Unveils 2 Surprising New 7-Hour Boeing 737 Routes: Full Schedule Here",
+    "summary": "The carrier will begin two routes to Hawaii, neither of which has had nonstop flights in 12 years. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-14T16:00:16Z",
+    "url": "https://simpleflying.com/alaska-airlines-unveils-2-surprising-new-7-hour-boeing-737-routes-full-schedule-here/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "66a26440918b",
+    "title": "The US Army Is Training Its Future Tiltrotor Pilots On A Marine Aircraft They'll Never Fly",
+    "summary": "Army helo pilots team up with the Jarheads for a new era in rotary-wing flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-14T16:00:16Z",
+    "url": "https://simpleflying.com/us-army-training-future-tiltrotor-pilots-marine-aircraft-never-fly/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "98482e5b4af2",
+    "title": "EASA instructs airlines to avoid Gulf airspace as US-Iran fighting reignites",
+    "summary": "The European Union Aviation Safety Agency (EASA) has told airlines not to operate in the airspace of Bahrain,&#8230; The post EASA instructs airlines to avoid Gulf airspace as US-Iran fighting reignites appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-14T15:59:48Z",
+    "url": "https://www.aerotime.aero/articles/easa-instructs-airlines-to-avoid-gulf-airspace-as-us-iran-fighting-reignites",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "287cf1484193",
+    "title": "Embraer Launches Phenom 300EV With Emergency Autoland",
+    "summary": "The updated light jet adds automated emergency landing, new flight controls and increased payload capacity.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-14T14:41:30Z",
+    "url": "https://avweb.com/aviation-news/embraer-phenom-300ev-emergency-autoland/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "18d8514fa373",
+    "title": "Why Airline Captains Still Overrule The Dispatcher's Fuel Number Before Long-Haul Flights",
+    "summary": "How air crew find the true numbers before every top up.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-14T14:00:16Z",
+    "url": "https://simpleflying.com/why-airline-captains-overrule-dispatcher-fuel-number-before-long-haul-flights/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2075,127 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-07T20:58:44Z",
     "url": "https://simpleflying.com/pakistan-cargo-boeing-737-missing-search-rescue/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79a9775dba7c",
-    "title": "Southwest's Major Expansion: Launches 8 New International Routes [Interactive Map]",
-    "summary": "They are from five airports dotted across the US. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-07T20:00:20Z",
-    "url": "https://simpleflying.com/southwests-major-expansion-launches-8-new-international-routes/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3ea0d3a92204",
-    "title": "Cirrus announces clean-sheet trainer",
-    "summary": "Cirrus announced July 6 the forthcoming arrival of a three-seat trainer with a Rotax engine and a mission to fill flight school lines with what Pat Waddick, president of innovation and operations, called a \"complete reimagining of the modern training aircraft.\"",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-07T19:28:26Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/cirrus-announces-clean-sheet-trainer?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dcdb61911a84",
-    "title": "7-Hour Flights: The 7 Longest US Routes Flown By The Airbus A321neo In 2026",
-    "summary": "American Airlines flies the A321neo from Dallas to Anchorage, nearly 7 hours in a single-aisle seat. Here are the 7 longest US routes on the type.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-07T19:00:19Z",
-    "url": "https://simpleflying.com/7-longest-us-routes-flown-airbus-a321neo-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "94df8d9d70cf",
-    "title": "FAA Aims to Block State, Local Crew Break Requirements",
-    "summary": "Flight personnel have successfully sued air carriers regarding mandatory rest periods.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-07T19:00:00Z",
-    "url": "https://www.flyingmag.com/faa-state-local-crew-break-requirements/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "773521b541f9",
-    "title": "When students lose confidence",
-    "summary": "One aviation family believes the industry's biggest challenge isn't just attracting future pilots&mdash;it's making sure they stay.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-07T18:44:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/07/when-students-lose-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6de47ced98a8",
-    "title": "Boeing MQ-28 Flies With U.S. Air Force In Indo-Pacific Exercise",
-    "summary": "The Australian-developed Ghost Bat operated alongside U.S. and coalition aircraft during Valiant Shield 2026.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-07-07T18:33:04Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/boeing-mq-28-flies-with-air-force/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3beb1e28b8ef",
-    "title": "Copa Airlines Becomes 1st Carrier To Charge For Starlink WiFi: Will Other Airlines Follow Suit?",
-    "summary": "Copa Airlines becomes the first carrier to charge most passengers for Starlink WiFi, breaking industry tradition as rivals continue offering it free.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-07T18:21:23Z",
-    "url": "https://simpleflying.com/copa-airlines-1st-charge-starlink-wifi-airlines-follow-suit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d05dc5630dda",
-    "title": "Electra, UrbanV, Signature Sign Regional Mobility MOU",
-    "summary": "The companies plan to study access points for Electra\u2019s nine-passenger EL9 aircraft.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-07T16:27:00Z",
-    "url": "https://avweb.com/aviation-news/company-news/electra-urbanv-signature-sign-regional-mou/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b0e1d42e0383",
-    "title": "uAvionix Partners With Extra USA On AV-30 Upgrade",
-    "summary": "Extra USA will offer certified and experimental versions of the 3-inch electronic flight instrument through its service center.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-07T15:30:00Z",
-    "url": "https://avweb.com/avionics/uavionix-partners-with-extra-av-30-upgrade/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "366166411361",
-    "title": "Syrian president plans to order eight Airbus aircraft as Macron visits country",
-    "summary": "During a visit by French President Emmanuel Macron, the Syrian President Ahmad al-Sharaa has said the country plans&#8230; The post Syrian president plans to order eight Airbus aircraft as Macron visits country appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-07T14:50:04Z",
-    "url": "https://www.aerotime.aero/articles/syrian-president-order-eight-airbus-aircraft-amacron-visit",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2c36e16d2720",
-    "title": "Why Airbus Pilots Can Switch From An A320 To An A350 In Just 8 Days",
-    "summary": "Vast commonality between Airbus aircraft mean obtaining additional type ratings is easier than normal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-07T14:00:19Z",
-    "url": "https://simpleflying.com/why-airbus-pilots-switch-a320-a350-8-days/",
     "airlineTag": null,
     "isBreaking": false
   }
