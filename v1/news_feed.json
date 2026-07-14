@@ -1,5 +1,27 @@
 [
   {
+    "id": "3b86a65c1a4f",
+    "title": "Why This Rule Is Quietly Forcing United Airlines' Boeing 777-200s Into The Desert",
+    "summary": "New climate policies are increasing the operating costs of older aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-14T08:00:15Z",
+    "url": "https://simpleflying.com/why-europe-2026-carbon-rules-quietly-forceing-united-airlines-boeing-777-200s-desert/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e3f5bb3276fa",
+    "title": "Boston Logan Sees 340+ Flights Delayed After Tall Ships Sail Under Its Approach Path",
+    "summary": "BOS has a rough weekend after an very special fleet pulls into the harbor.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-14T03:27:02Z",
+    "url": "https://simpleflying.com/boston-logan-airport-flights-delayed-tall-ships/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "142a666f8c62",
     "title": "Why Delta Air Lines Is The Only US Major Carrier That Lets Basic Economy Flyers Keep Their Carry-On",
     "summary": "Delta Air Lines may have removed plenty from its basic economy product, but at the very least, you can still keep your carry on without an added fee",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-07T07:55:03Z",
     "url": "https://www.aerotime.aero/articles/nato-a400m-fleet-globaleye-awacs-ankara",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7f7092e589d2",
-    "title": "How Much Do US Army Helicopter Pilots Make Compared To US Navy Helicopter Pilots In 2026?",
-    "summary": "The unique career paths for Americans serving their country from the flight deck.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-07T05:00:19Z",
-    "url": "https://simpleflying.com/army-vs-navy-helicopter-pilot-pay-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "07329c8a9576",
-    "title": "FAA moves to block US states from setting their own airline crew rest rules",
-    "summary": "The Federal Aviation Administration (FAA) is moving to stop US states and local governments from applying their own&#8230; The post FAA moves to block US states from setting their own airline crew rest rules appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-07T02:35:13Z",
-    "url": "https://www.aerotime.aero/articles/faa-block-us-states-airline-crew-break-rules",
     "airlineTag": null,
     "isBreaking": false
   }
