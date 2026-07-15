@@ -1,5 +1,104 @@
 [
   {
+    "id": "5e9b54f81b63",
+    "title": "\u2018Miracle on the Hudson\u2019 Captain Sully Reveals Alzheimer\u2019s Diagnosis",
+    "summary": "The retired airline captain said he hopes speaking publicly about his diagnosis will encourage others facing the disease.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-15T13:08:13Z",
+    "url": "https://avweb.com/aviation-news/sully-sullenberger-alzheimers-diagnosis/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "55dfc171acd6",
+    "title": "Safran\u2019s Turbogenerator Will Propel Electra\u2019s Hybrid EL9",
+    "summary": "TG600 helicopter engine will be the \u2018heart\u2019 of the aircraft\u2019s hybrid propulsion system.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-15T13:00:00Z",
+    "url": "https://www.flyingmag.com/safran-turbogenerator-electra-hybrid-el9/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "756683408c75",
+    "title": "United Passenger Gets Entire Boeing 737 To Himself After British Airways Abandoned Him",
+    "summary": "A United Airlines passenger ended up as the sole occupant on board a Boeing 737 after he was reportedly abandoned by British Airways at Cincinnati Northern Kentucky Airport on the 4th of July.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-15T12:31:17Z",
+    "url": "https://simpleflying.com/video/united-passenger-gets-entire-boeing-737-to-himself-after-british-airways-abandoned-him/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "84e0b08922dc",
+    "title": "Pilots Cherish Many Rites of Passage",
+    "summary": "From snipped shirts to seven stripes, major milestones need to be celebrated.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-07-15T12:00:00Z",
+    "url": "https://www.flyingmag.com/pilots-cherish-many-rites-of-passage/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "54fa03b19133",
+    "title": "Singapore Airlines Cuts 16 Long-Haul Destinations: See The Full List",
+    "summary": "All of these places have stopped seeing Singapore Airlines in the past 20 years. But is that at simple as it seems? Find out here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-15T11:00:31Z",
+    "url": "https://simpleflying.com/singapore-airlines-cuts-16-long-haul-destinations-see-the-full-list/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7a053dc49546",
+    "title": "Why A US Admiral Wants To Double The B-21 Raider Fleet To 200 Bombers",
+    "summary": "Why the Navy wants to build more Air Force bombers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-15T11:00:31Z",
+    "url": "https://simpleflying.com/why-us-admiral-double-b-21-raider-fleet-200-bombers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0035a17457af",
+    "title": "Airbus, Boeing and Embraer all in contention for new Ethiopian narrowbody order",
+    "summary": "Airbus, Boeing and Embraer are all in contention for a new narrowbody order from Ethiopian Airlines, with a&#8230; The post Airbus, Boeing and Embraer all in contention for new Ethiopian narrowbody order appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-15T10:03:53Z",
+    "url": "https://www.aerotime.aero/articles/airbus-boeing-embraer-ethiopian-airlines-narrowbody-order",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e464aa8d6324",
+    "title": "How Much Do Widebody Pilots Earn?",
+    "summary": "Stepping into the cockpit of a widebody aircraft is the pinnacle of a pilot's career, but the path to the top is fraught with challenges.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-15T10:02:21Z",
+    "url": "https://simpleflying.com/how-much-widebody-pilots-earn/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "09107cb85940",
+    "title": "STARLUX chairman pilots Airsorayama Silver\u2019s inaugural flight to Tokyo",
+    "summary": "STARLUX Airlines celebrated a milestone over the weekend of July 11, 2026, as Airsorayama Silver, one of two&#8230; The post STARLUX chairman pilots Airsorayama Silver\u2019s inaugural flight to Tokyo appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-15T09:43:48Z",
+    "url": "https://www.aerotime.aero/articles/starlux-chairman-pilots-airsorayama-silvers-inaugural-flight-to-tokyo",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "96b47febbc36",
     "title": "Why The World's Newest Airline Picked The Boeing 787-9 & Safran Unity Suites To Challenge The Big 3 Gulf Carriers",
     "summary": "Riyadh Air's Boeing 787-9s, Safran Unity suites, and new Panasonic technology reveal how Saudi Arabia's new airline plans to challenge the Gulf giants",
@@ -7,6 +106,17 @@
     "category": "industry",
     "publishedDate": "2026-07-15T08:00:16Z",
     "url": "https://simpleflying.com/why-worlds-newest-airline-picked-boeing-787-9-safran-unity-suites-challenge-big-3-gulf-carriers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4fa963fdb0c6",
+    "title": "ASELSAN to show full UAV payload chain at Farnborough 2026",
+    "summary": "As uncrewed aircraft take on harder missions, a UAV is increasingly defined less by its airframe than by&#8230; The post ASELSAN to show full UAV payload chain at Farnborough 2026 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-15T07:51:35Z",
+    "url": "https://www.aerotime.aero/articles/aselsan-uav-payloads-farnborough-2026",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -35,7 +145,7 @@
   {
     "id": "e5f300f24ed9",
     "title": "7,206 Orders And Counting: The 737 MAX Just Became Boeing's Best-Selling Aircraft Ever",
-    "summary": "America's iconic planemaker marks a major milestone.",
+    "summary": "The major American planemaker has marked a major milestone.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-07-15T04:31:14Z",
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-08T14:00:00Z",
     "url": "https://www.flyingmag.com/faa-issues-new-guidance-to-prevent-cvr-data-loss/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30fe898596f1",
-    "title": "SAS CEO Anko van der Werff to leave airline for Air Canada in 2027",
-    "summary": "Anko van der Werff, Chief Executive Officer (CEO) of Scandinavian Airlines (SAS), has informed the airline\u2019s board that&#8230; The post SAS CEO Anko van der Werff to leave airline for Air Canada in 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T13:48:44Z",
-    "url": "https://www.aerotime.aero/articles/sas-ceo-anko-van-der-werff-to-leave-airline-for-air-canada-in-2027",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "637f34421066",
-    "title": "K2 Airways 737 Freighter Missing Off Pakistan Coast",
-    "summary": "Search-and-rescue teams are searching the Arabian Sea for the missing aircraft and its five crewmembers.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-08T13:29:40Z",
-    "url": "https://avweb.com/aviation-news/k2-airways-737-missing-pakistan-coast/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a2d5b4b3a0d8",
-    "title": "Philippine Airlines raises $300 million in first international bond offering",
-    "summary": "Philippine Airlines has raised $300 million through its first international bond offering, attracting strong interest from global investors&#8230; The post Philippine Airlines raises $300 million in first international bond offering appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T13:26:09Z",
-    "url": "https://www.aerotime.aero/articles/philippine-airlines-raises-300-million-in-first-international-bond-offering",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "df944030ff43",
-    "title": "UK commits \u00a31.4 billion to Stratus missile as part of European deep strike push",
-    "summary": "The United Kingdom will invest \u00a31.4 billion ($1.9 billion) over the next four years in Stratus, the Franco-British-Italian successor&#8230; The post UK commits \u00a31.4 billion to Stratus missile as part of European deep strike push appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T13:19:05Z",
-    "url": "https://www.aerotime.aero/articles/uk-commits-1-4-billion-to-stratus-missile-as-part-of-european-deep-strike-push",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "17520f7e6c07",
-    "title": "FL Technics Indonesia opens Bali aircraft painting facility, welcomes Skyway Airlines as first customer",
-    "summary": "FL Technics Indonesia, the FAA Part-145 certified MRO provider, has opened a new aircraft painting facility at its Denpasar, Bali&#8230; The post FL Technics Indonesia opens Bali aircraft painting facility, welcomes Skyway Airlines as first customer appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T13:04:46Z",
-    "url": "https://www.aerotime.aero/articles/fl-technics-indonesia-bali-aircraft-painting-facility-skyway-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5862f2c50f92",
-    "title": "Russian Airline Bans First Officers From Landings After Surge In Hard Landing Incidents",
-    "summary": "Russian airline S7 Airlines has introduced a temporary rule that prevents most first officers from performing landings at most of the carrier's destinations following a series of hard-landing incidents. The restriction, which took effect on June 1st and is scheduled to remain ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-08T12:33:02Z",
-    "url": "https://simpleflying.com/video/russian-airline-bans-first-officers-from-landings-after-surge-in-hard-landing-incidents/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac9c5af81321",
-    "title": "AAPA hosts safety forum for Asia Pacific turboprop and regional jet operators",
-    "summary": "The Association of Asia Pacific Airlines (AAPA) hosted a virtual safety forum on June 30, 2026, bringing together&#8230; The post AAPA hosts safety forum for Asia Pacific turboprop and regional jet operators appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T11:52:14Z",
-    "url": "https://www.aerotime.aero/articles/aapa-hosts-safety-forum-for-asia-pacific-turboprop-and-regional-jet-operators",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "745a6f5970e1",
-    "title": "Ukraine strikes Russian pipeline station 1,500 km from border",
-    "summary": "Ukraine\u2019s Security Service (SBU) said its long-range drones struck the Cherkasy linear production dispatch station (LPDS) in Russia\u2019s&#8230; The post Ukraine strikes Russian pipeline station 1,500 km from border appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T11:44:07Z",
-    "url": "https://www.aerotime.aero/articles/ukraine-sbu-drone-strike-cherkasy-pipeline-station-bashkortostan",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ff239f08661e",
-    "title": "Saudia Boeing 787 Strikes Philippine Airlines Airbus A320 Tail While Taxiing At Manila",
-    "summary": "No passengers or crew were hurt in this ground collision; however, both aircraft have sustained damage and are grounded.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-08T11:30:41Z",
-    "url": "https://simpleflying.com/saudia-787-strikes-philippine-airlines-a320-manila/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ae3609261a82",
-    "title": "Airbus wins double-digit H125 helicopter order from US federal agency",
-    "summary": "Airbus has received a new order for H125 helicopters from US Customs and Border Protection Air and Marine&#8230; The post Airbus wins double-digit H125 helicopter order from US federal agency appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-08T11:20:50Z",
-    "url": "https://www.aerotime.aero/articles/airbus-h125-helicopter-order-us-federal-agency",
     "airlineTag": null,
     "isBreaking": false
   }
