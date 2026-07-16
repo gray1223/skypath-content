@@ -1,5 +1,49 @@
 [
   {
+    "id": "96a3d27f677a",
+    "title": "The US Air Force Just Asked For $1.7 Billion To Keep The B-1 & B-2 Flying Because The B-21 Raider Won't Arrive Fast Enough",
+    "summary": "While the US Air Force waits for its new B-21 bomber, it will rely on legacy platforms for deterrence and precision strike missions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-16T08:00:11Z",
+    "url": "https://simpleflying.com/usaf-asked-1-7-billion-keep-b-1-b2-flying-b-21-raider-wont-arrive-fast-enough/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e4d80af10c11",
+    "title": "84% Increase: United Airlines Spent An Extra $2.3 Billion In Fuel Costs During Q2",
+    "summary": "One of the world's largest carriers is being throttled by fuel prices.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-16T06:04:23Z",
+    "url": "https://simpleflying.com/united-airlines-spent-extra-2-3-billion-fuel-costs-q2/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "19523ca90516",
+    "title": "How A Jet Carrying 12 Missiles Became The US Air Force's Answer To This Country's Stealth Numbers Problem",
+    "summary": "The Air Force is increasing its F-15EX purchase in part to aid the F-35, even as it awards contracts for CCA off-board platforms for the F-35.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-16T05:00:11Z",
+    "url": "https://simpleflying.com/how-jet-carrying-12-missiles-become-us-air-force-answer-country-stealth-numbers-problem/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "636a0754c402",
+    "title": "Airbus Closes In On 2 A330neo Deals Ahead Of Farnborough Airshow",
+    "summary": "Anticipation is already becoming orders before the show even starts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-16T03:48:21Z",
+    "url": "https://simpleflying.com/airbus-2-a330neo-deals-farnborough-airshow/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2972a4095fc9",
     "title": "Everybody called her 'Mama'",
     "summary": "For nearly a century, women have raced small airplanes across the United States, testing their navigation, planning, weather judgment, and teamwork as much as stick-and-rudder skills.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-07-09T11:45:21Z",
     "url": "https://simpleflying.com/president-trump-sidelines-new-qatari-gifted-air-force-one-1st-international-trip/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "56604b2eefd2",
-    "title": "Half-time whistle: Airbus hits its stride on road to annual delivery goal",
-    "summary": "It\u2019s half-time for Airbus, with the release of its latest commercial aircraft order and delivery figures providing a&#8230; The post Half-time whistle: Airbus hits its stride on road to annual delivery goal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-09T10:37:42Z",
-    "url": "https://www.aerotime.aero/articles/airbus-deliveries-orders-june-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3a07cf9fcebf",
-    "title": "US Army turns to startups in push for cheaper missile interceptors",
-    "summary": "The US Army has launched a new prize competition offering up to $8 million to accelerate the development&#8230; The post US Army turns to startups in push for cheaper missile interceptors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-09T09:58:19Z",
-    "url": "https://www.aerotime.aero/articles/us-army-startups-cheaper-missile-interceptors",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f8ec8e3bdfb7",
-    "title": "Boeing 737 Freighter Crash: Missing K2 Airways Jet Wreckage Found",
-    "summary": "On July 8th Pakistan Airports Authority confirmed that search teams had found and identified wreckage belonging to the missing K2 Airways Boeing 737 freighter. As you can see HERE, pieces of the aircraft were found in the sea 53 NM (98 km) to the south of the Pakistani coastal...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-09T09:32:20Z",
-    "url": "https://simpleflying.com/video/boeing-737-freighter-crash-missing-k2-airways-jet-wreckage-found/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c23c8503a996",
-    "title": "Germany to buy Tomahawk cruise missiles after deal with US, Merz says",
-    "summary": "Germany has reached an agreement with the United States to purchase Tomahawk cruise missiles and station them on&#8230; The post Germany to buy Tomahawk cruise missiles after deal with US, Merz says appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-09T08:29:50Z",
-    "url": "https://www.aerotime.aero/articles/germany-tomahawk-cruise-missiles-us-deal",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
