@@ -1,5 +1,104 @@
 [
   {
+    "id": "ecebc9d03172",
+    "title": "The Only US Carrier: Delta Air Lines To Launch 1st-Ever Flights Between Los Angeles & Manila",
+    "summary": "The new route will break another airline's longtime monopoly between the two destinations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T13:01:11Z",
+    "url": "https://simpleflying.com/delta-air-lines-launch-1st-ever-flights-los-angeles-manila/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "b9a2217c4b0f",
+    "title": "British Airways Axes 36 Long-Haul Routes From London: Full List Here",
+    "summary": "In the past 20 years, the airline has stopped flying to all these places. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T13:00:11Z",
+    "url": "https://simpleflying.com/british-airways-axes-36-long-haul-routes-from-london/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c32441b1816f",
+    "title": "United Airlines Loses Bid To Dismiss Lawsuit Over 'Windowless' Window Seats",
+    "summary": "Does booking a WINDOW seat literally mean getting a window? Is it acceptable to just have.. A wall?Well, that\u2019s what\u2019s up for debate, as United Airlines will have to face a lawsuit from passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T12:27:11Z",
+    "url": "https://simpleflying.com/video/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5777146fa3a6",
+    "title": "Air China orders 15 A350-900s with additional 40 A320neos for Shenzhen Airlines",
+    "summary": "Air China has informed the Shanghai Stock Exchange of the purchase of 15 A350-900 widebodies, with an additional&#8230; The post Air China orders 15 A350-900s with additional 40 A320neos for Shenzhen Airlines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-17T12:26:14Z",
+    "url": "https://www.aerotime.aero/articles/air-china-orders-a350-900s-a320neo-shenzhen-airlines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4985ba3a0f4e",
+    "title": "Administrator Goes In Depth on the FAA\u2019s Next Act",
+    "summary": "Bryan Bedford discusses ATC modernization, MOSAIC, and hot-button issues facing general aviation.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-17T12:00:00Z",
+    "url": "https://www.flyingmag.com/administrator-goes-in-depth-on-the-faas-next-act/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "decd9dd631af",
+    "title": "Evolito submits E800 electric engine for approval, intended for Electra\u2019s EL9",
+    "summary": "UK-based developer Evolito has submitted its E800 electric engine, a power base intended for integration on Electra\u2019s EL9&#8230; The post Evolito submits E800 electric engine for approval, intended for Electra\u2019s EL9 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-17T10:48:25Z",
+    "url": "https://www.aerotime.aero/articles/evolito-e800-electric-engine-type-certification-caa-electra-el9",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "97c2af5f8131",
+    "title": "The World\u2019s Widest Transpacific Premium Economy Seats You Can Book Today",
+    "summary": "Which airlines offer the comfiest rides across the Pacific?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T09:24:20Z",
+    "url": "https://simpleflying.com/widest-transpacific-premium-economy-seats-book-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e00c3deb0bd8",
+    "title": "Embraer delivers first C-390 Millennium to Czech Air Force after 20 months",
+    "summary": "The first C-390 Millennium transport aircraft was handed over to the Czech Air Force by Embraer on July&#8230; The post Embraer delivers first C-390 Millennium to Czech Air Force after 20 months appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-17T09:11:53Z",
+    "url": "https://www.aerotime.aero/articles/embraer-delivers-first-c-390-millennium-to-czech-air-force-after-20-months",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "78915b2d83f0",
+    "title": "US Airlines Warn Permanent Daylight Saving Time Would Create \"Considerable Implications\u201d",
+    "summary": "One small change could have a big impact on the airline industry.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T08:34:52Z",
+    "url": "https://simpleflying.com/us-airlines-permanent-daylight-saving-time-considerable-implications/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "38d1a8d6782d",
     "title": "Here's How Much The US Air Force's New F-47 Fighter Jet Actually Costs",
     "summary": "The F-47 is slated to be the future of American air dominance. But how much will this new technology cost? Hint, it will exceed the F-22 per unit.",
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-07-10T13:30:23Z",
     "url": "https://www.aerotime.aero/articles/airlines-cancel-dozens-of-taiwan-and-hong-kong-flights-as-typhoon-bavi-nears",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8b6e74f9e0e",
-    "title": "American Airlines To Reportedly Deploy 1st Retrofitted Boeing 777-300ER Next Month",
-    "summary": "American Airlines\u2019 first retrofitted Boeing 777-300ER appears to be nearing the end of its long stay in Hong Kong, with aviation watcher JonNYC reporting that the aircraft could depart before the middle of July and ideally enter passenger service in early or mid-August. If tha...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T12:28:18Z",
-    "url": "https://simpleflying.com/video/american-airlines-to-reportedly-deploy-1st-retrofitted-boeing-777-300er-next-month/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a31744340632",
-    "title": "AMAC Aerospace launches maintenance training academy in Basel",
-    "summary": "Swiss completion and maintenance company AMAC Aerospace will open a training school for aircraft mechanics at its Basel&#8230; The post AMAC Aerospace launches maintenance training academy in Basel appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-10T12:02:44Z",
-    "url": "https://www.aerotime.aero/articles/amac-aerospace-launches-amac-academy-basel",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "472dd43d2128",
-    "title": "Let\u2019s Talk About a La Carte Avionics",
-    "summary": "All instrument panels aren\u2019t created equal.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-10T12:00:00Z",
-    "url": "https://www.flyingmag.com/lets-talk-about-a-la-carte-avionics/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4722c0daa9a2",
-    "title": "MQ-28A Ghost Bat debuts at Valiant Shield with F-15EX flight and FARP refueling",
-    "summary": "Australia\u2019s MQ-28A Ghost Bat has made its debut in a major international exercise during Valiant Shield 2026, demonstrating&#8230; The post MQ-28A Ghost Bat debuts at Valiant Shield with F-15EX flight and FARP refueling appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-10T11:51:17Z",
-    "url": "https://www.aerotime.aero/articles/mq-28a-ghost-bat-debuts-at-valiant-shield-with-f-15ex-flight-and-farp-refueling",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db0de15f6856",
-    "title": "Hegseth vows to \u2018fix\u2019 US Army Apache pilots suspension over July 4 beach flybys",
-    "summary": "US Defense Secretary Pete Hegseth has announced that he will \u201cfix\u201d the suspension of eight South Carolina Army National Guard&#8230; The post Hegseth vows to \u2018fix\u2019 US Army Apache pilots suspension over July 4 beach flybys appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-10T11:02:20Z",
-    "url": "https://www.aerotime.aero/articles/hegseth-apache-pilots-suspension-july-4-flyby",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e7b89c99ae6e",
-    "title": "Why The US Army Locks Its Aviation Warrant Officers Into A 10-Year Flying Contract",
-    "summary": "The struggle to keep talent inside the world's biggest helo fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T11:00:34Z",
-    "url": "https://simpleflying.com/why-us-army-locks-aviation-warrant-officers-10-year-flying-contract/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c9e42a97bed8",
-    "title": "Why This US Air Force Base Is Considered Unstoppable",
-    "summary": "Eglin AFB\u2019s massive range, advanced testing and multi\u2011domain integration make it unmatched in proving and refining US airpower.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T10:16:36Z",
-    "url": "https://simpleflying.com/why-this-us-air-force-base-unstoppable/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7243d701a3df",
-    "title": "Boeing\u2019s MAX 7 only weeks from approval 13 years after Southwest launch: WSJ",
-    "summary": "Boeing is only weeks away from gaining Federal Aviation Administration (FAA) certification for its 737 MAX 7 aircraft,&#8230; The post Boeing\u2019s MAX 7 only weeks from approval 13 years after Southwest launch: WSJ appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-10T08:51:40Z",
-    "url": "https://www.aerotime.aero/articles/boeing-max-737-7-approval-faa-certification-southwest",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "eaa382268565",
-    "title": "Why United Airlines Just Sent 14 Boeing 777-200s To The Desert Instead Of Fixing Its Pratt & Whitney Engines",
-    "summary": "What was the reason behind the Star Alliance carrier's decision?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T08:01:17Z",
-    "url": "https://simpleflying.com/united-airlines-sent-14-boeing-777-200s-desert-fixing-pratt-whitney-engines/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
