@@ -1,5 +1,49 @@
 [
   {
+    "id": "38d1a8d6782d",
+    "title": "Here's How Much The US Air Force's New F-47 Fighter Jet Actually Costs",
+    "summary": "The F-47 is slated to be the future of American air dominance. But how much will this new technology cost? Hint, it will exceed the F-22 per unit.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T08:00:11Z",
+    "url": "https://simpleflying.com/how-much-usaf-new-f-47-fighter-jet-actually-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4e4b21e03a39",
+    "title": "Here's What Delta Air Lines' Medallion Status Actually Gets You After Your Hometown Loses Its 50-Seater",
+    "summary": "Loyalty status now favors revenue over frequency.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T05:00:11Z",
+    "url": "https://simpleflying.com/what-delta-air-lines-medallion-status-actually-gets-hometown-loses-50-seater/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "00d0c9be2b15",
+    "title": "\"Please Fix The WiFi\": Retired Delta Air Lines Pilot Makes Plea To Drop Amazon For Starlink",
+    "summary": "A veteran aviator calls for action.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T04:42:01Z",
+    "url": "https://simpleflying.com/retired-delta-air-lines-pilot-plea-drop-amazon-starlink/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "da15a62c7212",
+    "title": "Blue Angels Pilot Behind Viral Low-Altitude Florida Beach Flyover Won\u2019t Be Fired, US Navy Says",
+    "summary": "The dust settles overnight after the Blues' flyby kicks up sand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T03:42:08Z",
+    "url": "https://simpleflying.com/blue-angels-pilot-viral-low-altitdue-florida-beach-flyover-wont-be-fired/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "21a8469124d5",
     "title": "Why The US Air Force Is Quietly Giving 19 B-2 Stealth Bombers A New Role In The Pacific",
     "summary": "While the USAF waits for the B-21 to arrive in numbers, the B-2 will be an important component for deterrence in the Indo-Pacific.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-07-10T08:01:17Z",
     "url": "https://simpleflying.com/united-airlines-sent-14-boeing-777-200s-desert-fixing-pratt-whitney-engines/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6c5e6a831fbe",
-    "title": "Unscheduled Engine Change Prompts Short-Term Cancellations To Qantas Airbus A380 Flights",
-    "summary": "July hasn't started well for the Australian flag carrier's superjumbo fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T07:58:25Z",
-    "url": "https://simpleflying.com/why-qantas-is-suddently-canceling-airbus-a380-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e51702cce5e7",
-    "title": "Why Qantas Is Suddenly Canceling Airbus A380 Flights",
-    "summary": "July hasn't started well for the Australian flag carrier's superjumbo fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T07:58:25Z",
-    "url": "https://simpleflying.com/why-qantas-is-suddently-canceling-airbus-a380-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1763df6aa64a",
-    "title": "Student Pilot Lands Cessna 150 Alone After Instructor Jumps To Death Mid-Flight",
-    "summary": "As the instructor made a brief comment and exited the plane mid-flight, the trainee pilot Rosario found himself having to land the plane alone.",
-    "source": "Simple Flying",
-    "category": "training",
-    "publishedDate": "2026-07-10T05:57:15Z",
-    "url": "https://simpleflying.com/student-pilot-lands-cessna-150-alone-instructor-jumps-death-mid-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "290150beef49",
-    "title": "\"Very Disappointed\": JetBlue's Manchester Exit Leaves Fliers Scrambling For Options",
-    "summary": "JetBlue pulls its operations to grab real estate left behind by Spirit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T03:33:13Z",
-    "url": "https://simpleflying.com/jetblue-manchester-exit-fliers-scrambling-options/",
-    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   }
 ]
