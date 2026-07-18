@@ -1,5 +1,38 @@
 [
   {
+    "id": "c792eb3e0c2d",
+    "title": "FAA Hands Boeing Back Full Authority To Certify Its Own 737 MAX & 787s For Delivery",
+    "summary": "After years of intense scrutiny, the FAA has finally returned Boeing the authority to certify airworthiness certificates.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-18T05:11:03Z",
+    "url": "https://simpleflying.com/faa-boeing-authority-certify-737-max-787-delivery/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9d47de6de851",
+    "title": "How This Major Airline Is Creating The Most Spacious Business Suite In The Sky",
+    "summary": "ANA's new 787 business class suite is 41.5 inches wide. Most competitors offer roughly half that.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-18T05:00:11Z",
+    "url": "https://simpleflying.com/creating-most-spacious-business-suite-sky/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "252e10699223",
+    "title": "FAA clears certification path for new MOSAIC light-sport aircraft",
+    "summary": "The Federal Aviation Administration (FAA) has accepted a new set of industry standards that will allow manufacturers to&#8230; The post FAA clears certification path for new MOSAIC light-sport aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-18T02:11:03Z",
+    "url": "https://www.aerotime.aero/articles/faa-mosaic-light-sport-aircraft-standards",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "20845e9cffed",
     "title": "Air Taxis Could Begin Flying From Orlando Airport \u201cLater This Year,\u201d Executive Says",
     "summary": "As eVTOL aircraft inch closer to commercial operations, the Greater Orlando Aviation Authority bets big on a vertistop at MCO.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-11T12:00:18Z",
     "url": "https://simpleflying.com/emirates-all-in-london-a380-flights-to-9-daily/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d1fdd9d1baf1",
-    "title": "Apache Pilots\u2019 Suspension Lifted After Pentagon Review",
-    "summary": "Eight Army helicopter aviators have been reinstated after Defense Secretary Pete Hegseth\u2019s vow to \u2018fix\u2019 the situation.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-11T12:00:00Z",
-    "url": "https://www.flyingmag.com/apache-pilots-suspension-lifted-pentagon/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4030548036e0",
-    "title": "Chicago O'Hare Flight Cap Extended To Oct 2027, Freezing United Vs American Growth Race",
-    "summary": "The FAA's extension has effectively paused the high-profile 'turf war' between American and United.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T11:41:34Z",
-    "url": "https://simpleflying.com/chicago-ohare-flight-cap-october-2027-united-american-growth-race/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "68c86cc27d73",
-    "title": "The $1.1 Billion Missile Contract That Quietly Arms Every Western Fighter Jet",
-    "summary": "America and its allies begin rebuilding missile stockpiles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T11:00:25Z",
-    "url": "https://simpleflying.com/1-1-billion-missle-contract-quietly-arms-every-western-fighter-jet/",
     "airlineTag": null,
     "isBreaking": false
   }
