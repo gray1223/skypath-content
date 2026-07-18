@@ -1,5 +1,93 @@
 [
   {
+    "id": "20845e9cffed",
+    "title": "Air Taxis Could Begin Flying From Orlando Airport \u201cLater This Year,\u201d Executive Says",
+    "summary": "As eVTOL aircraft inch closer to commercial operations, the Greater Orlando Aviation Authority bets big on a vertistop at MCO.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T23:54:01Z",
+    "url": "https://simpleflying.com/air-taxis-begin-flying-orlando-airport-later-this-year/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "006564e4921f",
+    "title": "How Breeze Airways Makes Money On Routes With Just 10 Passengers Per Day Each Way",
+    "summary": "By focusing on city pairs largely ignored by other airlines, Breeze's network serves markets with limited competition and relatively stable demand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T23:00:11Z",
+    "url": "https://simpleflying.com/how-breeze-airways-makes-money-routes-just-10-passengers-per-day-each-way/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "42e149648beb",
+    "title": "The Hub & Spoke Loophole That Puts A Widebody Business Class On A 2-Hour Europe Flight",
+    "summary": "Can you really fly on a widebody on European short-haul flights? This guide explores why and how airlines are making this a possibility.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T22:00:11Z",
+    "url": "https://simpleflying.com/hub-spoke-loophole-widebody-business-class-2-hour-europe-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "27ad4ec224ec",
+    "title": "The Airlines With The World's Newest Premium Economy Seats In 2026",
+    "summary": "A few new airlines will have premium economy offerings in 2026, while most are continuing to roll out expanded and/or refreshed seats.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T21:30:11Z",
+    "url": "https://simpleflying.com/airlines-with-worlds-newest-premium-economy-seats-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ca81c74f81d1",
+    "title": "United Airlines Launches 4 New Nonstop Routes From Major Hub: See Flights Now",
+    "summary": "All of them were served before, but they'll now have five daily flights between them. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T21:20:11Z",
+    "url": "https://simpleflying.com/united-airlines-launches-4-new-nonstop-routes-from-major-hub/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "05b354341f7b",
+    "title": "The Airline That Once Rejected Premium Economy Is Now Spending $100 Million To Build It",
+    "summary": "Curious why LATAM is switching its two-cabin strategy? Find how the airline has found an upward trajectory and continues to invest in its future.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-17T21:00:11Z",
+    "url": "https://simpleflying.com/airline-once-rejected-premium-economy-now-spending-100-milion-build/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e30ac4457e77",
+    "title": "Sodbusters STOL Opens Near Oshkosh",
+    "summary": "The Hartford competition serves as a lead-in to AirVenture for short-field pilots and spectators.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-17T19:44:30Z",
+    "url": "https://avweb.com/air-shows-events/airventure/sodbusters-stol-opens-near-oshkosh/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a5fa5773cfe5",
+    "title": "Wildfire Smoke Delays Oshkosh Arrivals",
+    "summary": "Haze reduced visibility at Wittman Regional Airport days before AirVenture.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-17T19:13:22Z",
+    "url": "https://avweb.com/air-shows-events/airventure/wildfire-smoke-delays-oshkosh-arrivals/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "135bc0e2808a",
     "title": "Is It True That One Of The World's Longest Flights Burns 2% Of A Captain's Legal Flying Year?",
     "summary": "A closer look at how pilots are paid on the world's longest flights and how these services are staffed.",
@@ -358,7 +446,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:53:57Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -380,7 +468,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:25:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -468,7 +556,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T18:39:23Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +600,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T17:39:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T07:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -721,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T00:28:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1216,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-14T17:59:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/14/training-and-safety-tip-maintain-weather-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/14/training-and-safety-tip-maintain-weather-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-11T11:00:25Z",
     "url": "https://simpleflying.com/1-1-billion-missle-contract-quietly-arms-every-western-fighter-jet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "65b813fb1ad1",
-    "title": "The Airline That Pioneered Low-Cost Long-Haul Widebody Flying Just Killed The Model It Created",
-    "summary": "AirAsia has long championed the idea that low-cost works on a widebody platform. Now, attention has moved elsewhere to new generation narrowbodies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T08:00:19Z",
-    "url": "https://simpleflying.com/airline-pioneered-low-cost-long-haul-widebody-flying-killed-model-created/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c73fb12181af",
-    "title": "US To Launch Deportation Airline With 737s & Luxury Gulfstreams In 2027",
-    "summary": "With a focus on round-the-clock operations and a hub-and-spoke network, the DHS deportation airline aims to reduce reliance on charter providers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T02:43:26Z",
-    "url": "https://simpleflying.com/us-deportation-airline-737-gulfstream-2027/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2afc15611c08",
-    "title": "Why Airbus Is Quietly Selling Its $366 Million A350-1000 For Nearly Half Off In 2026",
-    "summary": "A350s are half price? It's no flash sale; rather a common practice in aircraft purchasing where airlines negotiate well below the list price.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T02:00:32Z",
-    "url": "https://simpleflying.com/why-airbus-quietly-selling-366-million-a350-1000-nearly-half-off-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5b2277175f00",
-    "title": "24-Hour Flights: Singapore Airlines' 11 New Ultra-Long Boeing 777 Routes Revealed [Map]",
-    "summary": "When nonstop and one-stop flights are included, how many can you guess? See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T01:01:21Z",
-    "url": "https://simpleflying.com/24-hour-flights-singapore-airlines-11-new-ultra-long-boeing-777-routes-revealed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba222356f64b",
-    "title": "The 5 Regional Aircraft Manufacturers Still Competing For Airline Orders Under 100 Seats",
-    "summary": "Headlines always refer to Airbus and Boeing, but these five manufacturers dominate the market in their own way for aircraft under 100 seats.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-11T00:00:20Z",
-    "url": "https://simpleflying.com/regional-aircraft-makers-under-100-seats/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3195bb3eabb9",
-    "title": "Secret Service Urged Trump To Ditch New Air Force One Because It Lacks Critical Defense Systems",
-    "summary": "A former Air Force official claimed there wasn\u2019t enough time to equip the aircraft with all of the \u201cnormal\u201d modifications.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T23:42:23Z",
-    "url": "https://simpleflying.com/secret-service-urge-trump-ditch-new-air-force-one-lacks-critical-defense-systems/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e963077c37a8",
-    "title": "Qantas Just Set A 2032 Date To Retire Its Airbus A380s & The Clock Is Now Ticking For First Class Flyers",
-    "summary": "Qantas will begin retiring its Airbus A380 fleet in 2032, making now the best time to experience its iconic First Class before it disappears.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T23:00:20Z",
-    "url": "https://simpleflying.com/qantas-set-2032-date-retire-airbus-a380s-clock-ticking-first-class-flyers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "95ffb1b7ad56",
-    "title": "Why An Airbus A321XLR Captain Crossing The Atlantic Thinks About Diversions Differently Than A Boeing 787 Captain",
-    "summary": "A 787 can fly 330 minutes from the nearest diversion airport. An A321XLR gets 180. Here is what that difference means over the North Atlantic.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-10T22:00:18Z",
-    "url": "https://simpleflying.com/why-airbus-a321xlr-captain-crossing-atlantic-thinks-diversions-differently-boeing-787-captain/",
     "airlineTag": null,
     "isBreaking": false
   }
