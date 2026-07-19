@@ -1,5 +1,71 @@
 [
   {
+    "id": "e00c928ce9ac",
+    "title": "How New CF6 Engines Made The C-5M Galaxy More Fuel Efficient Than The Original C-5",
+    "summary": "In the Early 2000s the C-5 Galaxy fleet began an engine replacement program, now completed, these aircraft will likely fly beyond 2040.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T13:00:11Z",
+    "url": "https://simpleflying.com/c-5m-cf6-engine-upgrade/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3862994b749",
+    "title": "Boeing Tore Apart An Emirates-Bound 777X Rather Than Pay The Huge Rework Costs",
+    "summary": "The manufacturer has over 30 777X aircraft requiring expensive change incorporation rework.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T12:32:06Z",
+    "url": "https://simpleflying.com/boeing-tore-apart-emirates-777x-rework-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "214f21c4c30a",
+    "title": "What American Airlines Should Have Done? STARLUX Airlines Receives \u201cSilver Airsorayama\u201d A350-1000",
+    "summary": "Airbus has delivered an A350-1000 to Taiwanese carrier STARLUX Airlines with an eye-catching metallic livery!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T12:26:11Z",
+    "url": "https://simpleflying.com/video/what-american-airlines-should-have-done-starlux-airlines-receives-silver-airsorayama-a350-1000/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b64460f9b5fa",
+    "title": "FAA restores authority for Boeing to issue 737MAX & 787 airworthiness certificates",
+    "summary": "The Federal Aviation Administration (FAA) will allow Boeing to resume issuing airworthiness certificates for all newly built 737&#8230; The post FAA restores authority for Boeing to issue 737MAX & 787 airworthiness certificates appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-19T10:35:23Z",
+    "url": "https://www.aerotime.aero/articles/faa-restores-authority-for-boeing-to-issue-737max-787-airworthiness-certificates",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b983211b7361",
+    "title": "Delta Air Lines Broke A Decade Of Airbus Widebody Loyalty To Give Boeing 1 Order",
+    "summary": "Delta has finally returned to Boeing after years of Airbus reliance. This is what the landmark order may mean for the airline's future plans",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T10:00:11Z",
+    "url": "https://simpleflying.com/delta-air-lines-broke-decade-airbus-widebody-loyalty-give-boeing-1-order/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e22c0f8311ac",
+    "title": "Airlines will need nearly 44,000 new jets by 2045: Boeing",
+    "summary": "Boeing expects airlines and cargo operators to need nearly 44,000 new commercial aircraft over the next 20 years&#8230; The post Airlines will need nearly 44,000 new jets by 2045: Boeing appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-19T08:17:17Z",
+    "url": "https://www.aerotime.aero/articles/airlines-will-need-nearly-44000-new-jets-by-2045-boeing",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "71535703ac6c",
     "title": "How This Airline Packs 39 Business Class Seats Into A 17-Hour Flight Nobody Talks About",
     "summary": "EVA Air uses its 777-300ERs with a premium dense layout to offer a seldom-mentioned high quantity of business class ultra-long-haul seats.",
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-12T16:00:18Z",
     "url": "https://simpleflying.com/7-hour-flights-air-canadas-10-longest-a220-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a66f725bd38f",
-    "title": "Man Jailed For 18 Months After 90-Second Laser Attack On Delta Flight Landing In Buffalo",
-    "summary": "The judge deemed the incident a dangerous crime that could have brought the plane down.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-12T15:58:56Z",
-    "url": "https://simpleflying.com/delta-air-lines-flight-buffalo-laser-attack-18-months/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ffa38182259b",
-    "title": "Wizz Air Suddenly Scraps 7-Hour Flights: The Airbus A321XLR Experiment Ends",
-    "summary": "Wizz Air has scrapped its longest Airbus A321XLR flights to Saudi Arabia, leaving the jet with little purpose as the airline pivots back to Europe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-12T15:16:12Z",
-    "url": "https://simpleflying.com/wizz-air-scraps-7-hour-flights-a321xlr-experiment-ends/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "888e60009348",
-    "title": "Why Boeing Is Still Producing The 767 Freighter More Than A Decade After The Passenger Variant Received Its Last Commercial Order",
-    "summary": "Once a staple of the passenger airline industry, the 767-300 actually remains in production as a cargo variant. Here is why it remains in production.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-12T15:00:18Z",
-    "url": "https://simpleflying.com/why-boeing-still-builds-767-freighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eed4918ca6d3",
-    "title": "Why A Rumored United Airlines' Ultra-Long-Haul Flight Could Become Among The Most Profitable Routes In Aviation",
-    "summary": "Will United Airlines really dare to commence flights between San Francisco and India?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-12T14:00:19Z",
-    "url": "https://simpleflying.com/why-rumored-united-airlines-ultra-long-haul-flight-among-most-profitable-routes-aviation/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "759667da151e",
-    "title": "Why The US Air Force Still Flies A Strategic Bomber With A Cockpit Designed In The 1960s",
-    "summary": "The B-52 began its service life in the 1950s, it's still flying today because it easy to modernize and it can carry any weapon in the US arsenal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-12T13:00:19Z",
-    "url": "https://simpleflying.com/why-the-b-52-still-flies-with-a-1960s-cockpit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fd9e5fd9d6da",
-    "title": "Airbus and Boeing set to win Philippine Airlines orders at Farnborough: Reuters",
-    "summary": "Both Airbus and Boeing are set to win widebody orders from Philippine Airlines (PAL) at this year\u2019s Farnborough&#8230; The post Airbus and Boeing set to win Philippine Airlines orders at Farnborough: Reuters appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-12T12:36:42Z",
-    "url": "https://www.aerotime.aero/articles/airbus-boeing-philippine-airlines-order-farnborough-rairshow-2026",
     "airlineTag": null,
     "isBreaking": false
   }
