@@ -1,5 +1,16 @@
 [
   {
+    "id": "bc70fe2e37c6",
+    "title": "Why American Airlines' COVID-Retired Widebodies Sat In Roswell For 5 Years Before Vietnam Came Calling",
+    "summary": "The real COVID-era 747 boneyard story.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T04:00:12Z",
+    "url": "https://simpleflying.com/why-american-airlines-covid-retired-widebodies-sat-roswell-5-years-before-vietnam-calling/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "10e6ba95432a",
     "title": "Why The US Air Force Is Turning The B-21 Raider's Test Jets Into Its 1st Combat Bombers",
     "summary": "The Air Force has designed its fleet of B-21 test aircraft from the ground up to enter operational service after testing is complete.",
@@ -7,6 +18,17 @@
     "category": "industry",
     "publishedDate": "2026-07-20T03:00:11Z",
     "url": "https://simpleflying.com/why-usaf-turning-b-21-raiders-test-jets-1st-combat-bombers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "892b5b57db82",
+    "title": "Boeing sees demand for 2.4M aviation professionals in 20 years",
+    "summary": "Boeing expects the global commercial aviation industry to require more than 2.4 million new aviation professionals over the&#8230; The post Boeing sees demand for 2.4M aviation professionals in 20 years appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-20T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/boeing-sees-demand-for-2-4m-aviation-professionals-in-20-years",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-07-13T14:02:34Z",
     "url": "https://www.flyingmag.com/ntsb-focuses-on-engine-generator-in-fatal-laredo-citation-crash/",
     "airlineTag": "NetJets",
-    "isBreaking": false
-  },
-  {
-    "id": "bcffb834f19f",
-    "title": "RAAF P-8A Poseidons complete Operation Gateway rotation as mission turns 45",
-    "summary": "The Royal Australian Air Force (RAAF) has completed this year\u2019s first rotation of Operation Gateway, with three P-8A&#8230; The post RAAF P-8A Poseidons complete Operation Gateway rotation as mission turns 45 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-13T13:24:17Z",
-    "url": "https://www.aerotime.aero/articles/raaf-p-8a-poseidons-complete-operation-gateway-rotation-as-mission-turns-45",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "671701c78783",
-    "title": "Boeing poised for FIA after tapering activity in 2024 due to Alaska 737 incident",
-    "summary": "Boeing will be attending this year\u2019s Farnborough Airshow with a more confident approach after tapering its commercial activity&#8230; The post Boeing poised for FIA after tapering activity in 2024 due to Alaska 737 incident appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-13T13:01:51Z",
-    "url": "https://www.aerotime.aero/articles/boeing-farnborough-airshow-2026-display-exhibit",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
