@@ -1,5 +1,115 @@
 [
   {
+    "id": "10e6ba95432a",
+    "title": "Why The US Air Force Is Turning The B-21 Raider's Test Jets Into Its 1st Combat Bombers",
+    "summary": "The Air Force has designed its fleet of B-21 test aircraft from the ground up to enter operational service after testing is complete.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T03:00:11Z",
+    "url": "https://simpleflying.com/why-usaf-turning-b-21-raiders-test-jets-1st-combat-bombers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "136619018847",
+    "title": "The US Air Force Is Pouring 20 Acres Of Concrete At Guam's Andersen AFB But Refuses To Build Shelters",
+    "summary": "How America is investing in air power over the Pacific.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T02:00:21Z",
+    "url": "https://simpleflying.com/usaf-pouring-20-acres-concrete-guam-andersen-afb-refuse-build-shelters/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5686af533313",
+    "title": "Why The US Air Force Is Quietly Flying Its Retired F-117 Stealth Jets Until 2034",
+    "summary": "The enduring mission of the world's first operational stealth fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T01:00:11Z",
+    "url": "https://simpleflying.com/why-usaf-quietly-flying-retired-f-117-stealth-jets-2034/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20d7931f7d9d",
+    "title": "Why A C-130 Hercules Landing On A US Navy Carrier Deck In 1963 Is A Record The Military Has Never Tried To Break",
+    "summary": "Incredibly, despite its size, the US Navy looked at the C-130 as a possible delivery vehicle for carriers at sea. The results were surprising.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T00:00:11Z",
+    "url": "https://simpleflying.com/c-130-carrier-landing-record/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dc4a2c72e00a",
+    "title": "Airlines Are Now Ripping Out Economy Seats To Make Room For Doored First-Class Suites",
+    "summary": "Airlines are shrinking economy cabins to make room for luxury suites as premium travelers generate record profits and reshape aircraft interiors.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T23:00:11Z",
+    "url": "https://simpleflying.com/airlines-now-ripping-out-economy-seats-make-room-doored-first-class-suites/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "444554c79c11",
+    "title": "American Airlines CEO Lays Out Plan To Close A $3 Billion Profit Gap With United & Delta",
+    "summary": "American Airlines plans premium cabin upgrades, new widebody jets, and better reliability as CEO Robert Isom targets a $3 billion profit gap.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T22:49:45Z",
+    "url": "https://simpleflying.com/american-airlines-ceo-lays-out-plan-close-3-billion-profit-gap-united-delta/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0839e68a33a4",
+    "title": "Hang On: Here's Why Allegiant Air Flew The Boeing 757",
+    "summary": "The carrier primarily flew the type to Hawaii.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T22:00:11Z",
+    "url": "https://simpleflying.com/alegiant-air-boeing-757-analysis/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7677d7ba5b44",
+    "title": "The 5 Longest-Running Military Aircraft Production Lines Still Active Today",
+    "summary": "These US military aircraft lines have been running for decades.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T22:00:11Z",
+    "url": "https://simpleflying.com/longest-running-military-aircraft-production-lines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aae38bce1a50",
+    "title": "The Airline That Introduced Premium Economy To The World",
+    "summary": "EVA Air debuted Premium Economy back in the 1990s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T21:30:11Z",
+    "url": "https://simpleflying.com/airline-introduced-premium-economy-to-world/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bfc2f186bade",
+    "title": "Why Airline Pilots Deliberately Shut Down An Airbus A320 Engine While Taxiing",
+    "summary": "Have you ever noticed an A320 taxiing with just one engine? It is not because of a failure, rather something that helps airline economics",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-19T21:00:11Z",
+    "url": "https://simpleflying.com/why-airline-pilots-deliberately-shut-down-airbus-a320-engine-taxiing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "356b3ca133db",
     "title": "Why Canada Suddenly Values Saab's Source Code Access More Than F-35 Stealth",
     "summary": "Canada is seeking both an American-built F-35 5th-generation fighter jet and a somewhat sovereign 4.5th gen locally built secondary jet.",
@@ -820,7 +930,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:53:57Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,7 +952,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:25:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -930,7 +1040,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T18:39:23Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -974,7 +1084,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T17:39:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1139,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T07:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T00:28:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1678,7 +1788,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-14T17:59:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/14/training-and-safety-tip-maintain-weather-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/14/training-and-safety-tip-maintain-weather-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-07-13T13:01:51Z",
     "url": "https://www.aerotime.aero/articles/boeing-farnborough-airshow-2026-display-exhibit",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a73d1f8cd9f4",
-    "title": "World Cup Fever: 1.2% North America Flight Boost At Heathrow, Gatwick Adds Late US Trip",
-    "summary": "North American traffic was on the rise at Heathrow last month. Tomorrow, Norse Atlantic will operate a rare one-off flight from Gatwick to Atlanta.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T12:54:50Z",
-    "url": "https://simpleflying.com/london-north-america-world-cup-traffic-boosts/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c74fdc81d062",
-    "title": "Qantas A321 becomes first freighter to land at Western Sydney International",
-    "summary": "A Qantas Airbus A321 freighter has become the first cargo aircraft to land at Western Sydney International Airport&#8230; The post Qantas A321 becomes first freighter to land at Western Sydney International appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-13T11:30:39Z",
-    "url": "https://www.aerotime.aero/articles/qantas-a321-becomes-first-freighter-to-land-at-western-sydney-international",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "91a099de4224",
-    "title": "Historic: Qantas Airbus A321 Freighter Is First To Land At New Western Sydney Airport",
-    "summary": "This marks a key milestone for the new airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T09:22:23Z",
-    "url": "https://simpleflying.com/qantas-a321-freighter-first-flight-western-sydney-airport/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40cba9d023a9",
-    "title": "10 Of The Most Comfortable Economy Class Seats You Can Book Today",
-    "summary": "Which airlines are raising the bar for economy class comfort?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T08:25:42Z",
-    "url": "https://simpleflying.com/the-most-comfortable-economy-class-seats-today/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "07df4194f211",
-    "title": "Here's What A Senior United Airlines Flight Attendant Will Actually Earn When The $100/Hour Rate Hits In 2030",
-    "summary": "A closer look at the math.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T07:00:17Z",
-    "url": "https://simpleflying.com/what-senior-united-airlines-flight-attendant-actually-earn-100-hour-rate-2030-hits/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "513ba4211479",
-    "title": "65% On-Time: Southwest Falls From America's Most Punctual To Rock Bottom In 6 Months",
-    "summary": "The spiral of SWA from first-to-worst with widespread delays.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T04:10:16Z",
-    "url": "https://simpleflying.com/southwest-airlines-most-punctual-to-rock-bottom-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0bc782198267",
-    "title": "Malaysia Airlines expands network in China thanks to \u2018surging demand\u2019",
-    "summary": "Malaysia Airlines (MAS) has expanded its network in China with the addition of two new destinations after seeing&#8230; The post Malaysia Airlines expands network in China thanks to \u2018surging demand\u2019 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-13T03:01:00Z",
-    "url": "https://www.aerotime.aero/articles/malaysia-airlines-expands-network-in-china-thanks-to-surging-demand",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "972d9e3ec9b4",
-    "title": "Canada Has Quietly Funded 14 More F-35s While Publicly Debating Whether To Cancel The Order",
-    "summary": "Canada\u2019s fighter jet decision is already moving faster than politics: 30 F-35s are in the pipeline while Ottawa still debates the full 88.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T02:00:31Z",
-    "url": "https://simpleflying.com/canada-quietely-fund-14-more-f-35s-publicly-debating-whether-cancel-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4cb9301daf4f",
-    "title": "Here's How Much You Now Have To Spend On Southwest Airlines To Earn A Companion Pass In 2026",
-    "summary": "The Companion Pass is still an extremely valuable benefit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-13T01:00:18Z",
-    "url": "https://simpleflying.com/how-much-spend-southwest-airlines-earn-companion-pass-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "88b81e284645",
-    "title": "Is It True That American Airlines' Airbus A321neo Main Cabin Extra Exit Row Has More Legroom Than First Class?",
-    "summary": "The oneworld carrier's exit row seats can offer a comfortable ride for passengers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-12T23:00:18Z",
-    "url": "https://simpleflying.com/true-american-airlines-airbus-a321neo-mce-more-legroom-first-class/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
