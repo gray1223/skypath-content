@@ -22,6 +22,94 @@
     "isBreaking": false
   },
   {
+    "id": "363d92077d5b",
+    "title": "Sparks Fly After Kalitta Air Boeing 777-300 Tail Strike At Cincinnati Airport",
+    "summary": "The Boeing 777-300, operating as K4 264, scraped the runway at CVG after a go-around.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-21T00:11:54Z",
+    "url": "https://simpleflying.com/sparks-kalitta-air-boeing-777-300-tail-strike-cincinnati/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20ad0d07d976",
+    "title": "The 12% Fleet Shift That Signals How Airlines Are Hollowing Out Coach Before Flyers Notice",
+    "summary": "Is this an impact of an increased focus on premium air travel.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-21T00:00:11Z",
+    "url": "https://simpleflying.com/12-percent-fleet-shift-signals-airlines-hollowing-out-coach-before-flyers-notice/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d95b18eccfe1",
+    "title": "JetBlue Wins $58.5 Million Bid For 22 Ex-Spirit Slots At LaGuardia",
+    "summary": "JetBlue eyes a strategic move to the Marine Air Terminal, aiming to boost profitability and route expansion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T23:18:09Z",
+    "url": "https://simpleflying.com/jetblue-wins-585m-bid-22-ex-spirit-slots-laguardia/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "702d355eebd4",
+    "title": "The US Air Force Is Scrapping 119 F-15E Strike Eagles While Saudi Arabia Pays $5 Billion For Upgraded Versions Of The Same Jet",
+    "summary": "The technical nuances behind a massive upgrade to the Kingdom's fighter fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T23:00:11Z",
+    "url": "https://simpleflying.com/us-air-force-scrapping-f-15e-saudi-upgrading/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0af78c9c84a8",
+    "title": "American Airlines Goes All In At DFW With Largest Admirals Club & 1st Ever Flagship Check-In",
+    "summary": "American Airlines unveils its first-ever Flagship check-in experience at Dallas/Fort Worth, setting a new standard for premium travelers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T22:36:44Z",
+    "url": "https://simpleflying.com/american-airlines-premium-dfw-largest-admirals-club-first-flagship/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ff360eae19a",
+    "title": "The Top 5 Highest Paid US Air Force Pilot Ranks & Their Average 2026 Salaries",
+    "summary": "Air Force pilots are paid based on their rank and years of service, although even the highest ranks typically earn less than commercial pilots.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-07-20T21:30:11Z",
+    "url": "https://simpleflying.com/top-highest-paid-usaf-pilot-ranks-average-salaries-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "effb7c3b2433",
+    "title": "Delta Air Lines Cuts 25 Transatlantic Destinations: See All Major Flight Changes Now",
+    "summary": "In the past 20 years, the carrier's network involved many places that you may have forgotten, including Abuja. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-20T20:00:11Z",
+    "url": "https://simpleflying.com/delta-air-lines-cuts-25-transatlantic-destinations-see-all-major-flight-changes-now/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "800d35501698",
+    "title": "Piper\u00a0brings\u00a0DeltaHawk-powered Seminole DX prototype to\u00a0AirVenture",
+    "summary": "Piper Aircraft is displaying the first flying prototype of its DeltaHawk-powered Seminole DX at EAA AirVenture Oshkosh 2026, less&#8230; The post Piper brings DeltaHawk-powered Seminole DX prototype to AirVenture appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-20T19:57:21Z",
+    "url": "https://www.aerotime.aero/articles/piper-seminole-dx-deltahawk-diesel-airventure-2026",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "13348974002b",
     "title": "Redbird dials up simulation fidelity",
     "summary": "Flight schools have long faced a tradeoff when choosing a simulator. Devices that closely replicate a specific aircraft provide more realistic training but are limited to that airplane, while reconfigurable simulators support multiple aircraft using more generic controls and a...",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-14T19:14:15Z",
     "url": "https://www.aerotime.aero/articles/boeing-strongest-first-half-deliveries-since-2018",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a5543d4345a",
-    "title": "uAvionix and Jeppesen\u2019s SkyPlay Brings ForeFlight to Cockpit",
-    "summary": "Partners integrate popular flight planning platform directly into instrument panel.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-14T18:30:00Z",
-    "url": "https://www.flyingmag.com/uavionix-jeppesen-skyplay-foreflight-integration/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bca4d1d4285a",
-    "title": "Texas Cadet Becomes CAP\u2019s 200th Ray-Funded Pilot",
-    "summary": "Sebastian Vargas earned his private pilot certificate after completing his FAA check ride in McAllen.",
-    "source": "AvWeb",
-    "category": "hiring",
-    "publishedDate": "2026-07-14T18:15:29Z",
-    "url": "https://avweb.com/flight-safety/flight-training/texas-cadet-cap-200th-ray-funded-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cd2b9caa834a",
-    "title": "Training and Safety Tip: Maintain weather awareness",
-    "summary": "Most pilots can tell at least one story about a flight that did not go as planned because of unpredicted weather along the route. We all know that weather forecasts aren&rsquo;t perfect, but that can lead to concerns regarding the safety of the flight.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-14T17:59:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/14/training-and-safety-tip-maintain-weather-awareness?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ec9fac5f8263",
-    "title": "\u2018Miracle on the Hudson\u2019 Pilot Sully Sullenberger Diagnosed With Alzheimer\u2019s",
-    "summary": "Retired captain says symptoms are relatively mild but acknowledges \u2018long journey\u2019 ahead.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-14T17:01:43Z",
-    "url": "https://www.flyingmag.com/miracle-on-the-hudson-pilot-sully-sullenberger-diagnosed-with-alzheimers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ca1c261e2c9e",
-    "title": "Pentagon To Deploy New Counter-Drone System",
-    "summary": "The transportable SkyValor system follows operational testing conducted in coordination with Customs and Border Protection.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-14T16:47:00Z",
-    "url": "https://avweb.com/aviation-news/pentagon-to-deploy-counter-drone-system/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8473ec718343",
-    "title": "Frontier Becomes 1st American ULCC To Offer Starlink WiFi, Will Others Follow?",
-    "summary": "Frontier becomes the first US ULCC to adopt Starlink WiFi, raising new questions over paid internet and whether rival budget airlines will follow",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-14T16:26:48Z",
-    "url": "https://simpleflying.com/frontier-1st-american-ulcc-starlink-wifi/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b6edf5100f9c",
-    "title": "Alaska Airlines Unveils 2 Surprising New 7-Hour Boeing 737 Routes: Full Schedule Here",
-    "summary": "The carrier will begin two routes to Hawaii, neither of which has had nonstop flights in 12 years. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-14T16:00:16Z",
-    "url": "https://simpleflying.com/alaska-airlines-unveils-2-surprising-new-7-hour-boeing-737-routes-full-schedule-here/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "66a26440918b",
-    "title": "The US Army Is Training Its Future Tiltrotor Pilots On A Marine Aircraft They'll Never Fly",
-    "summary": "Army helo pilots team up with the Jarheads for a new era in rotary-wing flying.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-14T16:00:16Z",
-    "url": "https://simpleflying.com/us-army-training-future-tiltrotor-pilots-marine-aircraft-never-fly/",
     "airlineTag": null,
     "isBreaking": false
   }
