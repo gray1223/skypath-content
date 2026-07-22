@@ -6,7 +6,139 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "37ea082d3e7f",
+    "title": "Running Out Of Room: Miami International Airport Goes On Land-Buying Spree For Future Growth",
+    "summary": "Miami serves as one the country's busiest commercial and cargo gateways.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T19:07:34Z",
+    "url": "https://simpleflying.com/miami-international-airport-land-buying-spree-future-growth/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fc04e5425663",
+    "title": "Senior United Airlines Flight Attendants Terminated After Trading Trips For Profit",
+    "summary": "United Airlines has reportedly terminated several senior flight attendants following an internal investigation into trip trading.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T19:01:49Z",
+    "url": "https://simpleflying.com/senior-united-airlines-flight-attendants-terminated-after-trading-trips-for-profit/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8025df1b83d3",
+    "title": "The Real Product Boeing & Airbus Sell Airlines Isn't The Jet: It's The Cockpit",
+    "summary": "This guide details just how important cockpit design is to the success of any aircraft program.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T19:00:11Z",
+    "url": "https://simpleflying.com/real-product-boeing-airbus-sell-airlines-isnt-jet-cockpit/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6121e72daa95",
+    "title": "Border-crossing app FlashPass launches new iOS version",
+    "summary": "FlashPass, an app that streamlines U.S. and Mexican customs paperwork for international flights, has launched a new version that makes creating and submitting manifests to each country&rsquo;s governing authority a matter of minutes.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-22T18:05:25Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e622ae746b32",
+    "title": "How The Boeing 777X's Automated Wing-Fold Systems Prevent Takeoff Disasters For Pilots",
+    "summary": "Folding wings are not often associated with commercial aviation, but the 777X breaks this norm. How do these systems work?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T17:30:11Z",
+    "url": "https://simpleflying.com/how-boeing-777x-automated-wing-fold-systems-prevent-takeoff-disasters-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "09feb0568e68",
+    "title": "DeltaHawk-Powered Seminole DX Begins Flight Testing",
+    "summary": "The Jet-A-powered twin has completed multiple flights as development moves toward an FAA supplemental type certificate.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-22T17:23:00Z",
+    "url": "https://avweb.com/aviation-news/deltahawk-powered-seminole-dx-flight-test/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "8e04985f67c7",
+    "title": "60% Of Southwest Airlines Flyers Are Now Paying To Upgrade & It Reveals What LCC Loyalty Was Really About",
+    "summary": "A closer look at why Southwest is now more successful after getting rid of open seating and free checked bags.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T17:00:11Z",
+    "url": "https://simpleflying.com/60-percent-southwest-airlines-fliers-paying-upgrade-reveal-lcc-really-about/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e240dc57a1ab",
+    "title": "Merlin Completes Autonomous Landing At EAA AirVenture Oshkosh",
+    "summary": "Merlin completed an autonomous landing of a Cessna 208B Grand Caravan at EAA AirVenture Oshkosh, demonstrating its AI-powered flight technology.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-22T16:30:35Z",
+    "url": "https://avweb.com/air-shows-events/merlin-autonomous-landing-oshkosh/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "05cd2e2c33b4",
+    "title": "Is It True That Air Force One Pilots Earn Around $215K While Big 3 Widebody Captains Clear $480K?",
+    "summary": "Air Force One pilots are some of the most senior pilots routinely flying for the Air Force, but they earn half of what commercial widebody pilots get.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T16:00:11Z",
+    "url": "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-clear-480k/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "feeb7b5e8234",
+    "title": "New Statue Commemorates WWII \u2018Triple Ace\u2019 at Oshkosh",
+    "summary": "Bronze likeness of legendary pilot C.E. \u2018Bud\u2019 Anderson now stands in the warbirds section at EAA AirVenture.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-22T14:00:00Z",
+    "url": "https://www.flyingmag.com/new-statue-commemorates-wwii-triple-ace-at-oshkosh/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b6ac311c7361",
+    "title": "Saudi carrier flynas firms up order for five A330-900neo, 20 A321neo aircraft",
+    "summary": "Saudi low-cost carrier flynas agreed to firm up an order for five Airbus A330-900neo and 20 A321neo aircraft&#8230; The post Saudi carrier flynas firms up order for five A330-900neo, 20 A321neo aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T13:59:36Z",
+    "url": "https://www.aerotime.aero/articles/saudi-carrier-flynas-firms-up-order-for-five-a330-900neo-20-a321neo-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f16736b17bdb",
+    "title": "BermudAir becomes newest Airbus A220 customer with order for 10 aircraft",
+    "summary": "BermudAir, Bermuda\u2019s hometown airline, has placed an order for 10 A220-300 aircraft, marking its first-ever order with Airbus. &#8230; The post BermudAir becomes newest Airbus A220 customer with order for 10 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T13:38:31Z",
+    "url": "https://www.aerotime.aero/articles/bermudair-becomes-newest-airbus-a220-customer-with-order-for-10-aircraft",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -127,7 +259,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -160,7 +292,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -171,7 +303,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -193,7 +325,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -204,7 +336,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -215,7 +347,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -226,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -237,7 +369,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -567,7 +699,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1920,7 +2052,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:53:57Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +2074,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:25:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2030,7 +2162,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T18:39:23Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-07-16T18:00:00Z",
     "url": "https://www.flyingmag.com/lightspeed-adds-rotax-specific-audio-profile-to-delta-zulu-headset/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "67257aa51319",
-    "title": "Disaster relief aviation group awards Texas pilots for flood response",
-    "summary": "Operation Airdrop awarded its first-ever Wings of Hope Award, one year after floods in central Texas killed 139 people during the Fourth of July weekend in 2025.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-16T17:39:29Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "693a317bd525",
-    "title": "AOPA Sets September Vote On Revised Bylaws",
-    "summary": "The proposal will incorporate member feedback and could allow electronic voting in future trustee elections.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-16T15:20:00Z",
-    "url": "https://avweb.com/air-shows-events/aopa-air-shows-events/aopa-september-vote-revised-bylaws/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a988d3a42380",
-    "title": "The Two-Hangar Generation: What Successful Pilots Fly When No One\u2019s Watching",
-    "summary": "Aircraft owners always seem more excited to talk about what is in the second hangar.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-16T15:00:00Z",
-    "url": "https://www.flyingmag.com/the-two-hangar-generation-what-successful-pilots-fly-when-no-ones-watching/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1fce846f1456",
-    "title": "United beats earnings expectations despite $6 billion fuel hit projection",
-    "summary": "United Airlines\u2019 second quarter financial results beat Wall Street projections despite the US carrier projecting a $6 billion&#8230; The post United beats earnings expectations despite $6 billion fuel hit projection appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T14:50:44Z",
-    "url": "https://www.aerotime.aero/articles/united-airlines-financial-resultssecond-quarter-2026",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0070010f59d4",
-    "title": "Aviation Coalition Seeks $20 Billion More For ATC Overhaul",
-    "summary": "The request would close what the group calls a funding gap in the FAA\u2019s Brand-New Air Traffic Control System.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-16T14:23:32Z",
-    "url": "https://avweb.com/aviation-news/coalition-seeks-20-billion-atc-overhaul/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c311a4ae35f6",
-    "title": "Why Virgin Atlantic Is Targeting The 40 RAF Pilots Keeping Britain's F-35 Fleet Flyable",
-    "summary": "Virgin Atlantic has campaigned to entice former RAF fast jet pilots to fly for them on long-haul transatlantic routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T14:00:11Z",
-    "url": "https://simpleflying.com/why-virgin-atlantic-targeting-40-raf-pilots-britain-f-35-fleet-flyable/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c87d9c3cbec9",
-    "title": "Sporty\u2019s Becomes Authorized Distributor of Jeppesen ForeFlight Education Tools",
-    "summary": "Partnership will supply comprehensive portfolio of training materials to individual pilots and flight schools.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-16T14:00:00Z",
-    "url": "https://www.flyingmag.com/sportys-becomes-authorized-distributor-of-jeppesen-foreflight-education-tools/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "20fa5c3df0e7",
-    "title": "Did You Know About Ryanair's Bombardier Challenger 3500 Fleet?",
-    "summary": "Did you know that Ryanair currently has a fleet of four business jets? It\u2019s true! The airline group acquired the Bombardier Challenger 3500s over the past year and a half, adding the 4th aircraft in April 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T12:33:11Z",
-    "url": "https://simpleflying.com/video/did-you-know-about-ryanair-s-bombardier-challenger-3500-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f5306a20a95b",
-    "title": "Asia Pacific airlines post $12.1 billion in profits for 2025, AAPA reports",
-    "summary": "Airlines across the Asia Pacific region had a strong year in 2025, posting a combined $12.1 billion in&#8230; The post Asia Pacific airlines post $12.1 billion in profits for 2025, AAPA reports appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T12:15:42Z",
-    "url": "https://www.aerotime.aero/articles/asia-pacific-airlines-post-12-1-billion-in-profits-for-2025-aapa-reports",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "96122f1a8682",
-    "title": "Actions of Blue Angels pilot called into question over low pass at busy US beach",
-    "summary": "The actions of a US Navy pilot for the Blue Angels aerobatic display team are under review after&#8230; The post Actions of Blue Angels pilot called into question over low pass at busy US beach appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-07-16T11:07:15Z",
-    "url": "https://www.aerotime.aero/articles/blue-angels-pilot-low-pass-pensacola-beach",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6953b1867f95",
-    "title": "Why The World's Most Exclusive Airline Cabin Is Cheaper To Book In 2026 Than Ever Before",
-    "summary": "Etihad has brought back its most exclusive product in recent years, but at a drastically reduced price.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T11:00:11Z",
-    "url": "https://simpleflying.com/why-worlds-most-exclusive-airline-cabin-cheaper-book-2026-ever-before/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "63b1c5ab4746",
-    "title": "China Eastern launches first direct flight between Shanghai and Tbilisi",
-    "summary": "China Eastern Airlines has kicked off a new direct route connecting Shanghai and Tbilisi, giving travelers between China&#8230; The post China Eastern launches first direct flight between Shanghai and Tbilisi appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T10:43:56Z",
-    "url": "https://www.aerotime.aero/articles/china-eastern-launches-first-direct-flight-between-shanghai-and-tbilisi",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
