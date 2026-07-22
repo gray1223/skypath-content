@@ -6,7 +6,106 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c21e41596c43",
+    "title": "Hawaiian Airlines To Replace Inter-Island Boeing 717s With The 737-800",
+    "summary": "The carrier will inherit these jets from Alaska Airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T13:38:02Z",
+    "url": "https://simpleflying.com/hawaiian-airlines-replaces-boeing-717-with-737-800/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1d4de0c7c457",
+    "title": "Archer and Anduril unveil Halo, the commercial version of their dual-use VTOL",
+    "summary": "Archer Aviation has unveiled \u2018Halo,\u2019 the commercial version of the unmanned, dual-use hybrid-electric VTOL aircraft it has jointly&#8230; The post Archer and Anduril unveil Halo, the commercial version of their dual-use VTOL appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T12:58:37Z",
+    "url": "https://www.aerotime.aero/articles/archer-and-anduril-unveil-halo-the-commercial-version-of-their-dual-use-vtol",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "41890e56bbc1",
+    "title": "Boeing 737 MAX 7 And 10 Certification 'Closer Than Ever,' FAA Says",
+    "summary": "FAA Administrator Bryan Bedford told Reuters that the FAA had increased resources allocated to the Boeing planes by 35% to 40% after coordinating with the plane maker to streamline priorities. He indicated that the MAX 7 is likely to be the first to pass final scrutiny before ...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T12:24:11Z",
+    "url": "https://simpleflying.com/video/boeing-737-max-7-and-10-certification-closer-than-ever-faa-says/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1b21a08ac744",
+    "title": "Indonesia\u2019s T-50i Golden Eagle makes its debut at Exercise Pitch Black 26",
+    "summary": "The Indonesian Air Force has deployed its T-50i Golden Eagle to Australia\u2019s Northern Territory for the first time,&#8230; The post Indonesia\u2019s T-50i Golden Eagle makes its debut at Exercise Pitch Black 26 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T11:32:56Z",
+    "url": "https://www.aerotime.aero/articles/indonesias-t-50i-golden-eagle-makes-its-debut-at-exercise-pitch-black-26",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4c166d85c791",
+    "title": "The Highest Paid US Flight Attendants (2026 Salaries Revealed)",
+    "summary": "Unlike pilots, the US Flight Attendant pay structure is not formally tiered by specific 'ranks' on a five-level hierarchy. Compensation at the major carriers is purely driven by position and seniority rather than by a distinct rank designation. So in this video, we take a look...",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-07-22T11:00:11Z",
+    "url": "https://simpleflying.com/video/the-highest-paid-us-flight-attendants-2026-salaries-revealed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c4a6949414f7",
+    "title": "BOC Aviation confirms order for up to 220 Pratt & Whitney GTF engines",
+    "summary": "BOC Aviation has confirmed an order for up to 220 Pratt &#038; Whitney GTF engines, enough to power&#8230; The post BOC Aviation confirms order for up to 220 Pratt & Whitney GTF engines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T10:16:46Z",
+    "url": "https://www.aerotime.aero/articles/boc-aviation-confirms-order-for-up-to-220-pratt-whitney-gtf-engines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71de604646db",
+    "title": "Emirates Refuses 10 Pre-Built Boeing 777Xs Over Rework Costs",
+    "summary": "Despite being the largest customer for the type, Emirates has confirmed that it does not plan to take delivery of the oldest Boeing 777X jets that have already been built. This was confirmed at the Farnborough International Airshow by Tim Clark, President at Emirates. The reas...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T08:35:50Z",
+    "url": "https://simpleflying.com/video/emirates-refuses-10-pre-built-boeing-777xs-over-rework-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3679d88cc7a3",
+    "title": "Farnborough Airshow live: Day three kicks off hoping to beat Tuesday\u2019s 82 orders",
+    "summary": "Day three of Farnborough Airshow 2026 kicks off looking to surpass Tuesday\u2019s 82 firm aircraft orders split between&#8230; The post Farnborough Airshow live: Day three kicks off hoping to beat Tuesday\u2019s 82 orders appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T08:20:28Z",
+    "url": "https://www.aerotime.aero/articles/farnborough-airshow-live-day-three",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fe2d95165c23",
+    "title": "JetZero secures backing from Gulf Air, Japan Airlines at Farnborough 2026",
+    "summary": "JetZero, the startup currently developing a clean-sheet blended-wing-body (BWB) airliner, secured the endorsement of two prominent international airlines&#8230; The post JetZero secures backing from Gulf Air, Japan Airlines at Farnborough 2026 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-22T08:15:57Z",
+    "url": "https://www.aerotime.aero/articles/jetzero-secures-backing-from-gulf-air-japan-airlines-at-farnborough-2026",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -28,7 +127,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -44,24 +143,24 @@
     "isBreaking": false
   },
   {
+    "id": "4a2c37218206",
+    "title": "ALPA, NATCA, FAA Call for $20B to Complete ATC Modernization Push",
+    "summary": "Officials praise progress made over the last year but say more support from Congress is needed.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-21T21:00:00Z",
+    "url": "https://www.flyingmag.com/alpa-natca-faa-call-for-20b-to-complete-atc-modernization-push/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3503e3a333ba",
     "title": "Passing the wrench",
     "summary": "Fourth Front Aviation is tackling aviation's Airframe and Powerplant mechanic shortage by pairing experienced mentors with the next generation of technicians, including more women entering the profession.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a2c37218206",
-    "title": "ALPA, NATCA, FAA Call for $20B to Complete ATC Modernization Push",
-    "summary": "Officials praise progress made over the last year but say more support from Congress is needed.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-21T20:30:00Z",
-    "url": "https://www.flyingmag.com/alpa-natca-faa-call-for-20b-to-complete-atc-modernization-push/",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -72,7 +171,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -94,7 +193,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -105,7 +204,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -116,7 +215,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -127,7 +226,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -138,7 +237,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -468,18 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "41890e56bbc1",
-    "title": "Boeing 737 MAX 7 And 10 Certification 'Closer Than Ever,' FAA Says",
-    "summary": "The FAA's top brass weigh in on Boeing's progress.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-21T04:02:40Z",
-    "url": "https://simpleflying.com/boeing-737-max-7-10-certification-closer-faa/",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1832,7 +1920,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:53:57Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1854,7 +1942,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:25:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +2030,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T18:39:23Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1986,7 +2074,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T17:39:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-07-16T10:43:56Z",
     "url": "https://www.aerotime.aero/articles/china-eastern-launches-first-direct-flight-between-shanghai-and-tbilisi",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "722376c9aef4",
-    "title": "Brussels Airlines appoints ITA Airways executive as new CEO",
-    "summary": "Brussels Airlines has appointed ITA Airways executive Lorenza Maggio as its new CEO after the current head Dorothea&#8230; The post Brussels Airlines appoints ITA Airways executive as new CEO appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T09:17:17Z",
-    "url": "https://www.aerotime.aero/articles/brussels-airlines-appoints-ita-airways-executive-as-new-ceo",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a43c0d4aa07b",
-    "title": "Cebu Pacific to wet lease A320neo aircraft to Vietnam Airlines",
-    "summary": "Cebu Pacific announced a new agreement to provide wet lease services to Vietnam Airlines, deploying one of its&#8230; The post Cebu Pacific to wet lease A320neo aircraft to Vietnam Airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T08:20:57Z",
-    "url": "https://www.aerotime.aero/articles/cebu-pacific-to-wet-lease-a320neo-aircraft-to-vietnam-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "96a3d27f677a",
-    "title": "The US Air Force Just Asked For $1.7 Billion To Keep The B-1 & B-2 Flying Because The B-21 Raider Won't Arrive Fast Enough",
-    "summary": "While the US Air Force waits for its new B-21 bomber, it will rely on legacy platforms for deterrence and precision strike missions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T08:00:11Z",
-    "url": "https://simpleflying.com/usaf-asked-1-7-billion-keep-b-1-b2-flying-b-21-raider-wont-arrive-fast-enough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e08cf152701a",
-    "title": "New display brings ForeFlight into the panel",
-    "summary": "Pilots who rely on ForeFlight for flight planning will soon be able to view the popular navigation app's display of charts, procedures, and flight information in the instrument panel.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-16T07:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e4d80af10c11",
-    "title": "84% Increase: United Airlines Spent An Extra $2.3 Billion In Fuel Costs During Q2",
-    "summary": "One of the world's largest carriers is being throttled by fuel prices.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T06:04:23Z",
-    "url": "https://simpleflying.com/united-airlines-spent-extra-2-3-billion-fuel-costs-q2/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "19523ca90516",
-    "title": "How A Jet Carrying 12 Missiles Became The US Air Force's Answer To This Country's Stealth Numbers Problem",
-    "summary": "The Air Force is increasing its F-15EX purchase in part to aid the F-35, even as it awards contracts for CCA off-board platforms for the F-35.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T05:00:11Z",
-    "url": "https://simpleflying.com/how-jet-carrying-12-missiles-become-us-air-force-answer-country-stealth-numbers-problem/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "636a0754c402",
-    "title": "Airbus Closes In On 2 A330neo Deals Ahead Of Farnborough Airshow",
-    "summary": "Anticipation is already becoming orders before the show even starts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T03:48:21Z",
-    "url": "https://simpleflying.com/airbus-2-a330neo-deals-farnborough-airshow/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2972a4095fc9",
-    "title": "Everybody called her 'Mama'",
-    "summary": "For nearly a century, women have raced small airplanes across the United States, testing their navigation, planning, weather judgment, and teamwork as much as stick-and-rudder skills.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-16T00:28:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
