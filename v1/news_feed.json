@@ -6,7 +6,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,7 +17,18 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eb3dceb7a64b",
+    "title": "Here's Why Australia Canceled Its Order For F-35 Fighter Jets",
+    "summary": "Australia has extended the life of its Super Hornets, allowing it to cancel its final order of F-35s with the option to buy them another day.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-21T21:30:11Z",
+    "url": "https://simpleflying.com/why-australia-canceled-order-for-f-35-fighter-jets/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -28,7 +39,18 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4a2c37218206",
+    "title": "ALPA, NATCA, FAA Call for $20B to Complete ATC Modernization Push",
+    "summary": "Officials praise progress made over the last year but say more support from Congress is needed.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-21T20:30:00Z",
+    "url": "https://www.flyingmag.com/alpa-natca-faa-call-for-20b-to-complete-atc-modernization-push/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -39,18 +61,29 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0beceba9a263",
+    "title": "Southwest's Massive Expansion: 25 New Nonstop Routes Unveiled [Full List]",
+    "summary": "22 are domestic and three are international. See them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-21T20:00:17Z",
+    "url": "https://simpleflying.com/southwests-massive-expansion-25-new-nonstop-routes-unveiled-full-list/",
+    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   },
   {
     "id": "452ebcc3e452",
     "title": "Blackshape presents Veloce, Gabri\u00e9l at AirVenture",
-    "summary": "BravoFox, Blackshape Aircraft&rsquo;s U.S. distributor, is showcasing the 916iS Prime Veloce at EAA AirVenture Oshkosh in Wisconsin. The Italy-based manufacturer&rsquo;s Gabri&eacute;l is on display at the Dynon Avionics exhibit space.",
+    "summary": "Blackshape Aircraft&rsquo;s U.S. distributor is showcasing the 916iS Prime Veloce at EAA AirVenture Oshkosh in Wisconsin. The Italy-based manufacturer&rsquo;s Gabri&eacute;l is on display at the Dynon Avionics exhibit space.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -61,7 +94,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -72,7 +105,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -83,7 +116,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -94,7 +127,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -424,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -534,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1788,7 +1821,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:53:57Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/swift-100r-unleaded-stc-expands-as-distribution-ramps-up?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1810,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T21:25:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/aopa-asks-new-jersey-governor-to-intervene-in-hangar-evictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1898,7 +1931,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T18:39:23Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +1975,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T17:39:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/disaster-relief-aviation-group-awards-texas-pilots-for-flood-response?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2107,7 +2140,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T07:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/16/new-display-brings-foreflight-into-the-panel?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2151,7 +2184,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-16T00:28:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/15/everybody-called-her-mama?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-15T23:00:17Z",
     "url": "https://simpleflying.com/alaska-airlines-1st-transatlantic-boeing-787-9-missing-1-product-ceo-admits-matters-most/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d5b699eed9d1",
-    "title": "United Airlines' Huge New Denver Training Center Could Bring 6,000 Jobs By 2030",
-    "summary": "The carrier is preparing for decades of growth to expand pilot capacity and reshape its footprint in the Mile High City.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-15T21:36:44Z",
-    "url": "https://simpleflying.com/united-airlines-huge-new-denver-training-center-could-bring-6000-jobs-by-2030/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "51b3fea91b4f",
-    "title": "A Look At The Salaries Of Royal Canadian Air Force Fighter Jet Pilots In 2026",
-    "summary": "The organization has continued to raise salaries over time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-15T21:30:17Z",
-    "url": "https://simpleflying.com/salaries-of-royal-canadian-air-force-fighter-jet-pilots-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "af203d2f7fd7",
-    "title": "Alaska Airlines' New Boeing 787s Will Debut \u201cNext Level\u201d Business Class & Premium Economy",
-    "summary": "The cabin is inspired from previous Hawaiian products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-15T21:20:32Z",
-    "url": "https://simpleflying.com/alaska-airlines-new-boeing-787s-debut-next-level-business-class-premium-economy/",
     "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
