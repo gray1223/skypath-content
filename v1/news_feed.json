@@ -11,6 +11,83 @@
     "isBreaking": false
   },
   {
+    "id": "32d8d58e3a5c",
+    "title": "Senate committee advances bill lifting 'speed limit in the sky'",
+    "summary": "The Supersonic Aviation Modernization Act (S.1759), introduced by Sen.Ted Budd (R-N.C.), passed the Senate Committee on Commerce, Science, and Transportation July 22. The bill would &ldquo;require the Federal Aviation Administration (FAA) Administrator to issue regulations to ...",
+    "source": "AOPA",
+    "category": "regulatory",
+    "publishedDate": "2026-07-22T23:55:12Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0d4fbc37a0eb",
+    "title": "Aviation medication transparency bill advances",
+    "summary": "The Senate Committee on Commerce, Science, and Transportation voted to advance the Aviation Medication Transparency Act (S.3258) on July 22&mdash;a bill that would provide needed clarity for pilots on medications they are allowed to take.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-22T23:46:22Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c459d71338fe",
+    "title": "The Cabin Class Airlines Once Dismissed Is Now The Most Profitable Square Footage On Any Widebody Jet",
+    "summary": "Airlines nowadays are rushing to roll out their versions of premium economy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T23:00:11Z",
+    "url": "https://simpleflying.com/cabin-class-airlines-dismissed-now-most-profitable-square-footage-any-widebody-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "21a7baec4996",
+    "title": "Emirates Only Flies Its Enclosed First Class Suites On 9 Of 250+ Aircraft: Here's Why",
+    "summary": "Emirates' Game Changer First Class offers unrivaled privacy, discover the fleet strategy and economics behind that.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T23:00:11Z",
+    "url": "https://simpleflying.com/emirates-only-flies-enclosed-first-class-suites-9-aircraft-why/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3fa04f2eb7d8",
+    "title": "How The Fairchild Republic A-10 Warthog\u2019s Titanium Bathtub Protects Pilots From Ground-Level Ballistics",
+    "summary": "The story behind America's flying tank buster.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T21:30:11Z",
+    "url": "https://simpleflying.com/a-10-warthog-titanium-bathtub-pilot-protection-guide/",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "9c0129f28207",
+    "title": "Is It True That Earning Southwest Airlines' Companion Pass By Flying Alone Now Requires Over $67,000 In Basic Fares?",
+    "summary": "What is the true cost of a Companion Pass?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T21:00:11Z",
+    "url": "https://simpleflying.com/true-earning-southwest-airlines-companion-pass-flying-alone-requires-67000-dollars-basic-fares/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1fad8ff8ab3e",
+    "title": "Southwest Launches Massive 100+ Daily International Flights: See All Destinations",
+    "summary": "Until now, the carrier had no more than 93 daily services past the US border. Now it does. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-22T20:00:11Z",
+    "url": "https://simpleflying.com/southwest-launches-massive-100-daily-international-flights-see-all-destinations/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "37ea082d3e7f",
     "title": "Running Out Of Room: Miami International Airport Goes On Land-Buying Spree For Future Growth",
     "summary": "Miami serves as one the country's busiest commercial and cargo gateways.",
@@ -40,6 +117,17 @@
     "category": "industry",
     "publishedDate": "2026-07-22T19:00:11Z",
     "url": "https://simpleflying.com/real-product-boeing-airbus-sell-airlines-isnt-jet-cockpit/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "37717e61961c",
+    "title": "With the TRAC10, Cirrus reimagines what a training aircraft can be",
+    "summary": "The story of how Cirrus Aircraft decided to go all-in on the flight training market with the newly&#8230; The post With the TRAC10, Cirrus reimagines what a training aircraft can be appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "training",
+    "publishedDate": "2026-07-22T18:59:19Z",
+    "url": "https://www.aerotime.aero/articles/cirrus-trac10-flight-training-aircraft",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-07-16T20:27:37Z",
     "url": "https://avweb.com/air-shows-events/2026-oshkosh-flight-procedures-in-effect/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5ecc4b102e55",
-    "title": "Wildfire Smoke Clouds Oshkosh Arrival Plans",
-    "summary": "Hazardous air quality and low visibility conditions are complicating travel for pilots heading to AirVenture.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-16T20:00:00Z",
-    "url": "https://www.flyingmag.com/wildfire-smoke-clouds-oshkosh-arrival-plans/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1cb96bd68e3e",
-    "title": "Redbird Unveils G1000 NXi Emulator, Enhanced Simulator Panel",
-    "summary": "The software is scheduled for release in August, while the first new interchangeable instrument panel is planned for early 2027.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-16T19:45:00Z",
-    "url": "https://avweb.com/aviation-news/redbird-g1000-nxi-release/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8bd3f3fff04d",
-    "title": "US Air Force combat drone fires long-range missile for first time",
-    "summary": "The US Air Force has fired a live air-to-air missile from a jet-powered combat drone for the first&#8230; The post US Air Force combat drone fires long-range missile for first time appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T19:18:16Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-combat-drone-aim-120-missile-first",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e8f77282cc4d",
-    "title": "What American Airlines Elites Lose When They Book Basic Economy In 2026",
-    "summary": "American Airlines elites used to book Basic Economy and keep all their benefits. Two rounds of changes in 2025 and 2026 ended that.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-16T19:00:11Z",
-    "url": "https://simpleflying.com/what-american-airlines-elites-lose-book-basic-economy-2026/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "23ad9c3e30ee",
-    "title": "AOPA, Coalition Urge Congress to Provide Additional ATC Modernization Funding",
-    "summary": "WASHINGTON\u2014The Aircraft Owners and Pilots Association (AOPA), along with more than 50 other aviation organizations, sent a letter to congressional leaders, requesting an additional $20 billion be allocated toward the ongoing Brand-New Air Traffic Control System (BNATCS) initia...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-16T18:39:23Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/16/pr-aopa-coalition-urge-congress-to-provide-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "de56c43ce261",
-    "title": "Canadian wildfire smoke raises concerns for EAA AirVenture arrivals",
-    "summary": "Canadian wildfire smoke has sharply reduced visibility in parts of Wisconsin, raising concerns for pilots preparing to fly&#8230; The post Canadian wildfire smoke raises concerns for EAA AirVenture arrivals appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-16T18:36:12Z",
-    "url": "https://www.aerotime.aero/articles/canadian-wildfire-smoke-eaa-airventure-oshkosh-arrivals",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5669eb7df0c9",
-    "title": "Air Race X Race 2 Streams Sunday",
-    "summary": "Eight pilots will fly matching courses from bases around the world as the young air racing series begins its second round.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-16T18:15:00Z",
-    "url": "https://avweb.com/air-shows-events/air-race-x-race-2-streams-sunday/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f0aa9006e44e",
-    "title": "Lightspeed Adds Rotax-Specific Audio Profile to Delta Zulu Headset",
-    "summary": "Company says firmware update this fall promises clearer communications and enhanced comfort for pilots.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-16T18:00:00Z",
-    "url": "https://www.flyingmag.com/lightspeed-adds-rotax-specific-audio-profile-to-delta-zulu-headset/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
