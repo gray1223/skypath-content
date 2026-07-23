@@ -6,7 +6,106 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6ed0760db084",
+    "title": "UND CFI takes command of AOPA Sweepstakes Aviat Husky",
+    "summary": "University of North Dakota flight instructor Ashley Almquist is the winner of the AOPA Sweepstakes Aviat Husky. Almquist graduated from UND in 2026 with a degree in commercial aviation and aviation safety.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-23T19:26:58Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2c957fe549c1",
+    "title": "Laredo Accident: When a Vibration Becomes a Warning",
+    "summary": "Preliminary findings from the Laredo Citation crash offer pilots a sobering lesson in recognizing unfamiliar anomalies, resisting bias, and declaring emergencies early.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-07-23T18:24:00Z",
+    "url": "https://avweb.com/features/laredo-accident-when-vibration-is-warning/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aa0a181382f4",
+    "title": "5 Economy Seats So Spacious That Passengers Mistake Them For Premium",
+    "summary": "Wider seats and sacrificing density for passenger comfort define economy class on these airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-23T18:00:11Z",
+    "url": "https://simpleflying.com/5-economy-seats-spacious-passengers-mistake-premium/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d72d78254d51",
+    "title": "This Airline's Business Class Has 7 More Inches Of Width Than Its Award-Winning Competitor",
+    "summary": "The premium travel experience is more than just the seat or the space, but the cohesive experience, including amenities, soft product, and services.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-23T17:00:11Z",
+    "url": "https://simpleflying.com/airline-business-class-7-more-inches-width-award-winning-competitor/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "40b42f5fa936",
+    "title": "FAA Debuts New Tool for Digital Departure Clearances",
+    "summary": "\u2018Mobile Clearance\u2019 will reduce misunderstandings and help controllers focus on safety, agency says.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-07-23T16:55:08Z",
+    "url": "https://avweb.com/news/faa-debuts-new-tool-for-digital-departure-clearances/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6dfa65095c9d",
+    "title": "FAA Debuts New Tool for Digital Departure Clearances",
+    "summary": "\u2018Mobile Clearance\u2019 will reduce misunderstandings and help controllers focus on safety, agency says.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-23T16:54:11Z",
+    "url": "https://www.flyingmag.com/faa-debuts-new-tool-for-digital-departure-clearances/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0ed1348550a",
+    "title": "Airlines revise 2026 earnings outlooks as jet fuel prices surge again",
+    "summary": "American Airlines and Southwest Airlines have lowered their 2026 earnings expectations as another sharp increase in jet fuel&#8230; The post Airlines revise 2026 earnings outlooks as jet fuel prices surge again appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-23T14:33:32Z",
+    "url": "https://www.aerotime.aero/articles/airlines-cut-2026-outlooks-jet-fuel-prices-surge",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "978a613f76ac",
+    "title": "Senate Panel Advances Bill Requiring FAA Medication Guidance For Pilots",
+    "summary": "A Senate committee advanced legislation that would require the FAA to provide pilots with clearer, updated guidance on medications and medical certification.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-23T14:22:42Z",
+    "url": "https://avweb.com/aviation-news/aviation-medication-transparency-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "43fa4cdf807f",
+    "title": "Piper Aircraft Secures New Fleet Order From ATP Flight School",
+    "summary": "Deal includes three Archer TX and three Seminole airplanes, with options for 25 additional units for 2027 delivery.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-07-23T14:00:00Z",
+    "url": "https://www.flyingmag.com/piper-aircraft-secures-new-fleet-order-from-atp-flight-school/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -171,7 +270,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-07-22T23:55:12Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -182,7 +281,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T23:46:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -292,7 +391,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T18:05:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -501,7 +600,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -534,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -545,7 +644,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -567,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +677,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -589,7 +688,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -600,7 +699,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -611,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -941,7 +1040,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1040,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-07-17T13:01:11Z",
     "url": "https://simpleflying.com/delta-air-lines-launch-1st-ever-flights-los-angeles-manila/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "b9a2217c4b0f",
-    "title": "British Airways Axes 36 Long-Haul Routes From London: Full List Here",
-    "summary": "In the past 20 years, the airline has stopped flying to all these places. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T13:00:11Z",
-    "url": "https://simpleflying.com/british-airways-axes-36-long-haul-routes-from-london/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c32441b1816f",
-    "title": "United Airlines Loses Bid To Dismiss Lawsuit Over 'Windowless' Window Seats",
-    "summary": "Does booking a WINDOW seat literally mean getting a window? Is it acceptable to just have.. A wall?Well, that\u2019s what\u2019s up for debate, as United Airlines will have to face a lawsuit from passengers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T12:27:11Z",
-    "url": "https://simpleflying.com/video/united-airlines-loses-bid-to-dismiss-lawsuit-over-windowless-window-seats/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5777146fa3a6",
-    "title": "Air China orders 15 A350-900s with additional 40 A320neos for Shenzhen Airlines",
-    "summary": "Air China has informed the Shanghai Stock Exchange of the purchase of 15 A350-900 widebodies, with an additional&#8230; The post Air China orders 15 A350-900s with additional 40 A320neos for Shenzhen Airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-17T12:26:14Z",
-    "url": "https://www.aerotime.aero/articles/air-china-orders-a350-900s-a320neo-shenzhen-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4985ba3a0f4e",
-    "title": "Administrator Goes In Depth on the FAA\u2019s Next Act",
-    "summary": "Bryan Bedford discusses ATC modernization, MOSAIC, and hot-button issues facing general aviation.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-17T12:00:00Z",
-    "url": "https://www.flyingmag.com/administrator-goes-in-depth-on-the-faas-next-act/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "decd9dd631af",
-    "title": "Evolito submits E800 electric engine for approval, intended for Electra\u2019s EL9",
-    "summary": "UK-based developer Evolito has submitted its E800 electric engine, a power base intended for integration on Electra\u2019s EL9&#8230; The post Evolito submits E800 electric engine for approval, intended for Electra\u2019s EL9 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-17T10:48:25Z",
-    "url": "https://www.aerotime.aero/articles/evolito-e800-electric-engine-type-certification-caa-electra-el9",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "97c2af5f8131",
-    "title": "The World\u2019s Widest Transpacific Premium Economy Seats You Can Book Today",
-    "summary": "Which airlines offer the comfiest rides across the Pacific?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T09:24:20Z",
-    "url": "https://simpleflying.com/widest-transpacific-premium-economy-seats-book-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e00c3deb0bd8",
-    "title": "Embraer delivers first C-390 Millennium to Czech Air Force after 20 months",
-    "summary": "The first C-390 Millennium transport aircraft was handed over to the Czech Air Force by Embraer on July&#8230; The post Embraer delivers first C-390 Millennium to Czech Air Force after 20 months appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-17T09:11:53Z",
-    "url": "https://www.aerotime.aero/articles/embraer-delivers-first-c-390-millennium-to-czech-air-force-after-20-months",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "78915b2d83f0",
-    "title": "US Airlines Warn Permanent Daylight Saving Time Would Create \"Considerable Implications\u201d",
-    "summary": "One small change could have a big impact on the airline industry.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T08:34:52Z",
-    "url": "https://simpleflying.com/us-airlines-permanent-daylight-saving-time-considerable-implications/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "38d1a8d6782d",
-    "title": "Here's How Much The US Air Force's New F-47 Fighter Jet Actually Costs",
-    "summary": "The F-47 is slated to be the future of American air dominance. But how much will this new technology cost? Hint, it will exceed the F-22 per unit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T08:00:11Z",
-    "url": "https://simpleflying.com/how-much-usaf-new-f-47-fighter-jet-actually-costs/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
