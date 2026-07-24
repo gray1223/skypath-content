@@ -6,7 +6,84 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5f34d437cc11",
+    "title": "Faulty American Airlines Plane Allegedly Leaves Passengers \u201cStranded\u201d In St. Croix For 2 Days",
+    "summary": "One flyer chronicles a travel nightmare unfolding on an idyllic isle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T08:24:28Z",
+    "url": "https://simpleflying.com/faulty-american-airlines-plane-allegedly-leaves-passengers-stranded-st-croix-2-days/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4f11bf84ff3d",
+    "title": "How The A400M's Propeller Design Creates A Noise Signature No Other Military Transport Has",
+    "summary": "The hidden benefits of Airbus' unique engines on the mighty Atlas.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T08:00:11Z",
+    "url": "https://simpleflying.com/how-a400m-propeller-design-create-noise-signature-no-other-military-tranport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f8af62a9f8a",
+    "title": "Heart Aerospace gets FAA greenlight for X1 demonstrator flight tests",
+    "summary": "On July 23, 2026, Heart Aerospace announced that it had received a Special Airworthiness Certificate in the Experimental&#8230; The post Heart Aerospace gets FAA greenlight for X1 demonstrator flight tests appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-24T07:54:24Z",
+    "url": "https://www.aerotime.aero/articles/heart-aerospace-gets-faa-greenlight-for-x1-demonstrator-flight-tests",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3290467cb31e",
+    "title": "LATAM\u2019s Chief Experience Officer discusses new cabins, lounges and A321XLRs",
+    "summary": "Not only is LATAM Airlines Group the largest airline group in South America, but it has also been&#8230; The post LATAM\u2019s Chief Experience Officer discusses new cabins, lounges and A321XLRs appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-24T07:14:15Z",
+    "url": "https://www.aerotime.aero/articles/latams-chief-experience-officer-discusses-new-cabins-lounges-and-a321xlrs",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f50a8108404b",
+    "title": "No Other Choice: United Airlines Drops 11 Routes From Chicago O\u2019Hare Due To FAA Flight Caps",
+    "summary": "Federal limits on daily flight at ORD are here to stay.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T06:48:06Z",
+    "url": "https://simpleflying.com/united-airlines-drops-11-routes-chicago-ohare-faa-flight-caps/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "145ead0a37de",
+    "title": "How Much A Boeing 747 Charter Actually Costs Per Hour In 2026",
+    "summary": "The Boeing 747 charter: A grandiose solution for unusually large groups or cargo, but is it worth the cost?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T05:00:11Z",
+    "url": "https://simpleflying.com/how-much-boeing-747-charter-actually-costs-hour-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a008bef5e6d3",
+    "title": "Thales posts strong first-half growth, driven by defense and space demand",
+    "summary": "Thales reported a strong first half of 2026, with orders, sales, and profitability all climbing as demand for&#8230; The post Thales posts strong first-half growth, driven by defense and space demand appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-24T02:49:36Z",
+    "url": "https://www.aerotime.aero/articles/thales-posts-strong-first-half-growth-driven-by-defense-and-space-demand",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -39,7 +116,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T23:43:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -105,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T19:26:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -358,7 +435,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-07-22T23:55:12Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -369,7 +446,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T23:46:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -479,7 +556,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T18:05:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -721,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -732,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -754,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -798,7 +875,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1205,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1227,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-17T19:13:22Z",
     "url": "https://avweb.com/air-shows-events/airventure/wildfire-smoke-delays-oshkosh-arrivals/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "135bc0e2808a",
-    "title": "Is It True That One Of The World's Longest Flights Burns 2% Of A Captain's Legal Flying Year?",
-    "summary": "A closer look at how pilots are paid on the world's longest flights and how these services are staffed.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T19:00:11Z",
-    "url": "https://simpleflying.com/true-one-worlds-longest-flights-burn-2-percent-captain-legal-flying-year/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b4e38c2afbc2",
-    "title": "United Airlines To Complete Boeing 737 MAX 8 Guam Swap Out 2 Months Earlier Than Planned",
-    "summary": "United Airlines races to complete its Boeing 737 MAX 8 swap-out in Guam two months earlier than planned.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T18:44:00Z",
-    "url": "https://simpleflying.com/united-airlines-complete-boeing-737-max-8-guam-swap-out-2-months-earlier-planned/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "54aabb52b2a6",
-    "title": "United Airlines Denies Report Of Allowing Flyers To Avoid New Trump-Named Airport For Free",
-    "summary": "A memo suggesting United would allow passengers to change bookings without a fee due to the controversial airport name change was 'poorly written.'",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T18:14:10Z",
-    "url": "https://simpleflying.com/united-airlines-denies-report-allowing-flyers-avoid-new-trump-named-airport-free/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "29d69940bc6b",
-    "title": "The 5 Fighter Jets America Retired Before Their Replacements Were Combat Ready",
-    "summary": "Five US military aircraft retired before their replacements were fully ready, exposing capability gaps across the Air Force, Navy, and Marines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T18:00:11Z",
-    "url": "https://simpleflying.com/fighter-jets-retired-too-soon/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "93d408274516",
-    "title": "T-7A Completes First Joint Test Sortie",
-    "summary": "The June 25 flight paired developmental and operational test personnel at Edwards Air Force Base.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-17T17:45:00Z",
-    "url": "https://avweb.com/aviation-news/t-7a-completes-first-joint-test-sortie/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "606b5b6a4551",
-    "title": "Southwest Airlines Sued After Allegedly Unprotecting Woman From Unruly Passenger Inflight",
-    "summary": "Southwest Airlines is facing a lawsuit after a female passenger claims the airline did not protect her from an intoxicated male passenger.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T17:44:08Z",
-    "url": "https://simpleflying.com/southwest-airlines-sued-allegedly-unprotecting-woman-unruly-passenger-inflight/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b72ee47d0524",
-    "title": "The Airlines With The World\u2019s Most High-Density Economy Cabins In 2026",
-    "summary": "Ryanair is notable for asking Boeing to build a specific MAX 8 variant for high-density seating, while others configure A350s ten-abreast.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-17T16:50:14Z",
-    "url": "https://simpleflying.com/airlines-with-worlds-most-high-density-economy-cabins-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
