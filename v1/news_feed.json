@@ -1,5 +1,115 @@
 [
   {
+    "id": "423ec5ab3929",
+    "title": "Breeze Airways Launches 17 New Destinations In Massive Expansion [Full List]",
+    "summary": "Most of this growth is domestic.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T19:00:11Z",
+    "url": "https://simpleflying.com/breeze-airways-new-destinations/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "5391c3cb5fec",
+    "title": "The US Air Force Is Quietly Shrinking Below 5,000 Aircraft For The 1st Time In Its History",
+    "summary": "Analyzing the numbers behind the USAF's fleet modernization strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T18:00:11Z",
+    "url": "https://simpleflying.com/usaf-quietly-shrinking-below-5000-aircraft-1st-time-history/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5533afd8f283",
+    "title": "General Aviation Awards\u00a0Recognizes\u00a02026 National Honorees",
+    "summary": "AirVenture recipients were selected for work in flight instruction, aircraft maintenance and pilot safety.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-25T18:00:00Z",
+    "url": "https://avweb.com/news/general-aviation-awards-recognizes-2026-national-honorees/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8e55cdb4dc7d",
+    "title": "Is It True That American Airlines Accidentally Flew A Non-ETOPS Airbus A321 To Hawaii?",
+    "summary": "A closer look at an unusual incident.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T17:30:11Z",
+    "url": "https://simpleflying.com/true-american-airlines-accidentally-flew-non-etops-airbus-a321-to-hawaii/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1a598cb4f4fa",
+    "title": "The RQ-4 Global Hawk Drone Costs More Per Flight Hour To Operate Than The U-2 Spy Plane It Was Built To Replace",
+    "summary": "While the Global Hawk has proven to be more expensive over the long haul, its ISR capabilities remain essential to US military and allied commanders.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T17:00:11Z",
+    "url": "https://simpleflying.com/rq4-global-hawk-vs-u2-operating-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2fab3934c8d0",
+    "title": "Only 64 Miles: American Airlines' 11 New Ultra-Short International Flights [Map]",
+    "summary": "Experience the thrill of flying on some of the world's shortest international flights, from Miami to the Bahamas and beyond.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T16:00:11Z",
+    "url": "https://simpleflying.com/64-miles-american-airlines-11-new-ultra-short-international-flights/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4b56e5b30321",
+    "title": "King Schools Announces Scholarships, MEI Course And Educator Cruise",
+    "summary": "The AirVenture announcements cover instructor scholarships, an expanded Part 141 curriculum and the return of Envision Flight.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-07-25T16:00:00Z",
+    "url": "https://avweb.com/news/king-schools-announces-scholarships-mei-course-and-educator-cruise/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "965997feb35e",
+    "title": "The Highest Paid Airline CEOs & What They Earn Annually",
+    "summary": "Four out of the top five work at US airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T15:00:11Z",
+    "url": "https://simpleflying.com/highest-paid-airline-ceos-what-they-earn-annually/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f2f16c4ab55f",
+    "title": "Airbus Explains Why Premium Travelers Will Drive US Domestic Aviation Through 2045",
+    "summary": "Airbus believes premium cabins, larger aircraft, and increasingly sophisticated cabin layouts will shape airline fleet decisions through 2045.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T14:00:11Z",
+    "url": "https://simpleflying.com/airbus-premium-driving-us-aviation/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b120698f0e36",
+    "title": "Archer Unveils Halo Autonomous VTOL",
+    "summary": "The commercial aircraft shares its airframe and hybrid-electric powertrain with Anduril\u2019s Thunder defense variant.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-25T14:00:00Z",
+    "url": "https://avweb.com/news/archer-unveils-halo-autonomous-vtol/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "6f3128e551d3",
     "title": "When Is Flight Training Actually Tax Deductible?",
     "summary": "FLYING Finance walks you through the basics of this common question.",
@@ -105,7 +215,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -446,7 +556,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T23:43:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +622,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T19:26:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +875,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-07-22T23:55:12Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +886,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T23:46:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -886,7 +996,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T18:05:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1205,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1238,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1139,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1161,7 +1271,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1172,7 +1282,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1194,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1205,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1535,7 +1645,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1634,7 +1744,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-19T17:30:11Z",
     "url": "https://simpleflying.com/5-airlines-with-premium-economy-seats-worlds-longest-legroom-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6e0705d9fcf8",
-    "title": "Luxair's Massive Expansion: 11 New Routes Launching In 2026 [Map]",
-    "summary": "Much of the carrier's growth this year has been focused on Mediterranean leisure destinations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T16:00:11Z",
-    "url": "https://simpleflying.com/luxair-new-routes-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "beca968d3909",
-    "title": "Why Qatar Airways Announced Then Abruptly Scrapped 1st Nonstop Las Vegas Flights",
-    "summary": "Almost a decade later, Las Vegas still has no regular service from any Middle Eastern airlines.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-07-19T16:00:11Z",
-    "url": "https://simpleflying.com/qatar-airways-las-vegas-flights-history/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2045497e6667",
-    "title": "Airlines Are Now Selling Business Class Seats Like Smartphones: Inches & 4K Screens Replacing Soft Service",
-    "summary": "Premium cabins now compete on hard specs like 32\u2011inch 4K screens, Bluetooth audio, and next\u2011gen IFE platforms.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T16:00:11Z",
-    "url": "https://simpleflying.com/airlines-now-selling-business-class-seats-smartphones-inches-4k-screens-replacing-soft-service/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f98a69aae39",
-    "title": "The $14 Million Nuclear Missile Quietly Linking America's 70-Year-Old B-52 To The Brand-New B-21 Raider",
-    "summary": "The B-52J and B-21 are to be linked by the next-generation stealthy nuclear cruise missile currently under development by the Air Force.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T15:00:11Z",
-    "url": "https://simpleflying.com/14-million-nuclear-missile-quietly-linking-america-b-52-brand-new-b-21-raider/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e00c928ce9ac",
-    "title": "How New CF6 Engines Made The C-5M Galaxy More Fuel Efficient Than The Original C-5",
-    "summary": "In the Early 2000s the C-5 Galaxy fleet began an engine replacement program, now completed, these aircraft will likely fly beyond 2040.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T13:00:11Z",
-    "url": "https://simpleflying.com/c-5m-cf6-engine-upgrade/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a3862994b749",
-    "title": "Boeing Tore Apart An Emirates-Bound 777X Rather Than Pay The Huge Rework Costs",
-    "summary": "The manufacturer has over 30 777X aircraft requiring expensive change incorporation rework.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T12:32:06Z",
-    "url": "https://simpleflying.com/boeing-tore-apart-emirates-777x-rework-costs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "214f21c4c30a",
-    "title": "What American Airlines Should Have Done? STARLUX Airlines Receives \u201cSilver Airsorayama\u201d A350-1000",
-    "summary": "Airbus has delivered an A350-1000 to Taiwanese carrier STARLUX Airlines with an eye-catching metallic livery!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T12:26:11Z",
-    "url": "https://simpleflying.com/video/what-american-airlines-should-have-done-starlux-airlines-receives-silver-airsorayama-a350-1000/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b64460f9b5fa",
-    "title": "FAA restores authority for Boeing to issue 737MAX & 787 airworthiness certificates",
-    "summary": "The Federal Aviation Administration (FAA) will allow Boeing to resume issuing airworthiness certificates for all newly built 737&#8230; The post FAA restores authority for Boeing to issue 737MAX & 787 airworthiness certificates appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-19T10:35:23Z",
-    "url": "https://www.aerotime.aero/articles/faa-restores-authority-for-boeing-to-issue-737max-787-airworthiness-certificates",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b983211b7361",
-    "title": "Delta Air Lines Broke A Decade Of Airbus Widebody Loyalty To Give Boeing 1 Order",
-    "summary": "Delta has finally returned to Boeing after years of Airbus reliance. This is what the landmark order may mean for the airline's future plans",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T10:00:11Z",
-    "url": "https://simpleflying.com/delta-air-lines-broke-decade-airbus-widebody-loyalty-give-boeing-1-order/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "e22c0f8311ac",
-    "title": "Airlines will need nearly 44,000 new jets by 2045: Boeing",
-    "summary": "Boeing expects airlines and cargo operators to need nearly 44,000 new commercial aircraft over the next 20 years&#8230; The post Airlines will need nearly 44,000 new jets by 2045: Boeing appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-19T08:17:17Z",
-    "url": "https://www.aerotime.aero/articles/airlines-will-need-nearly-44000-new-jets-by-2045-boeing",
     "airlineTag": null,
     "isBreaking": false
   }
