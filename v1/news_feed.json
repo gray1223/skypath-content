@@ -1,5 +1,38 @@
 [
   {
+    "id": "ef7e8a494b17",
+    "title": "Southwest Flight Attendant Arrested By ICE Agents Waiting At His Nashville Crew Base",
+    "summary": "One man's fight for citizenship turns into a battle against ICE: A Southwest flight attendant's ordeal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T00:06:03Z",
+    "url": "https://simpleflying.com/news-4/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6570ce17f223",
+    "title": "Does The Airbus A350 Freighter Truly Threaten A Market Boeing Once Owned Outright?",
+    "summary": "The Airbus A350F has broken Boeing's large-freighter near-monopoly, but can it overcome the powerful 777-8F and reshape the cargo market?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-25T00:00:11Z",
+    "url": "https://simpleflying.com/airbus-a350-freighter-truly-threaten-market-boeing-once-owned/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "096299bf7711",
+    "title": "JetBlue Is The 1st US Carrier To Build An Entire Transatlantic Model Around A Single-Aisle Jet",
+    "summary": "The carrier operates a growing network of routes across the Atlantic.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T22:00:11Z",
+    "url": "https://simpleflying.com/jetblue-single-aisle-transatlantic-strategy/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "406db469a96e",
     "title": "What every pilot needs to know about leases and liability",
     "summary": "For many pilots, flying isn't just a profession or hobby&mdash;it's a lifelong passion.",
@@ -7,6 +40,50 @@
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1db1ef6a26ae",
+    "title": "Sources: United Airlines May Scoop Up The Early Boeing 777Xs Rejected By Emirates",
+    "summary": "United Airlines eyes bargain opportunity as Emirates rejects early Noeing 777X frames.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T21:23:14Z",
+    "url": "https://simpleflying.com/united-airlines-scoop-up-early-boeing-777xs-emirates-rejected/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1095efb076a6",
+    "title": "Why Airlines Will Need Over 42,000 New Passenger Jets In The Next 20 Years",
+    "summary": "Airbus forecasts 42,060 new passenger aircraft deliveries over the next 20 years. Here is what is driving the demand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T21:00:11Z",
+    "url": "https://simpleflying.com/42000-new-passenger-aircraft-2045/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "989b492b5661",
+    "title": "American Airlines\u2019 New Flight Attendant Performance Scoring Draws Scrutiny Over Privacy",
+    "summary": "The Me@Work platform raises privacy concerns as critics argue that scores could be influenced by factors outside the flight attendants' control.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-24T20:06:50Z",
+    "url": "https://simpleflying.com/american-airlines-new-flight-attendant-performance-scoring-scrutiny-privacy/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2ff16bfac4d2",
+    "title": "Boeing, ATP JETS Sign Training Collaboration Agreement at EAA AirVenture",
+    "summary": "ATP JETS becomes the first third-party Part 142 training center to license Boeing technical publications.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-24T19:30:00Z",
+    "url": "https://avweb.com/news/boeing-atp-jets-sign-training-collaboration-agreement-at-eaa-airventure/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-18T20:00:11Z",
     "url": "https://simpleflying.com/us-military-combat-aircraft-manufacturers-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e06602654dbb",
-    "title": "Open & Closed: FAA Finally Certifies American Airlines\u2019 Airbus A321XLR Flagship Suite Doors",
-    "summary": "The Federal Aviation Administration finally certified the Flagship Suite privacy doors on July 18.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T19:15:51Z",
-    "url": "https://simpleflying.com/faa-certifies-american-airlines-flagship-suite-doors/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3426daf383f9",
-    "title": "What Pilots Actually Do Hour-By-Hour On An 18-Hour Flight To New York-JFK",
-    "summary": "A350-900ULR flights use four pilots. They have dedicated rest periods and are always busy in the cockpit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T19:00:11Z",
-    "url": "https://simpleflying.com/what-pilot-actually-do-hour-by-hour-18-hour-new-york-jfk-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "574c5a408587",
-    "title": "Oops: Dallas-New York American Airlines Flight Diverts 30 Minutes From Landing Due To Low Fuel",
-    "summary": "As the Boeing 737-800 approached New York, concerns arose about the aircraft's fuel levels, forcing the captain to divert to Philadelphia.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T18:34:23Z",
-    "url": "https://simpleflying.com/dallas-new-york-american-airlines-flight-diverts-low-fuel/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "86cd54d46fc4",
-    "title": "United Airlines Flights Delayed Nationwide As Tech Outage Hits Check-In And Boarding",
-    "summary": "A sudden technology outage at United Airlines has left passengers across the country stranded, with flights delayed and services down.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T18:03:05Z",
-    "url": "https://simpleflying.com/united-airlines-flights-delayed-tech-outage-check-in-boarding/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "98950b03e3f0",
-    "title": "Delta One To Europe Just Hit 115,000 SkyMiles: Here's What It Says About Summer 2026 Premium Demand",
-    "summary": "Delta One may have just become more accessible than ever with a massive slash in mileage cost. What does this indicate about the wider industry?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T18:00:11Z",
-    "url": "https://simpleflying.com/delta-one-europe-hit-115000-miles-what-says-summer-2026-premium-demand/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "196c5b9af3c4",
-    "title": "The Airlines With The World\u2019s Widest Economy Seats In 2026",
-    "summary": "Beyond some Asian airlines, the best way to get extra space between other economy class passengers is to focus on the aircraft type.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T17:30:11Z",
-    "url": "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f254f4b90abd",
-    "title": "The $5.3 Billion Program Turning 2 Stored Boeing 747-8s Into America's Next Air Force One",
-    "summary": "Air Force One is getting the modern treatment, with the new VC-25B program almost arriving. In the meantime, a bridge 747-8 is being trusted.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-18T17:00:11Z",
-    "url": "https://simpleflying.com/next-air-force-one-747-conversion/",
     "airlineTag": null,
     "isBreaking": false
   }
