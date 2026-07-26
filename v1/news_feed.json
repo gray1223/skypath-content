@@ -1,5 +1,60 @@
 [
   {
+    "id": "b0a713686551",
+    "title": "9-Hour Flights: Breeze Airways' 11 Longest Airbus A220 Routes Revealed [Map]",
+    "summary": "Have you ever flown on one of these one-stop odysseys?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T19:00:11Z",
+    "url": "https://simpleflying.com/breeze-airways-longest-airbus-a220-routes/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "f81bacb3a343",
+    "title": "The World\u2019s Largest Air Forces By Number Of Pilots",
+    "summary": "Which air force has the deepest roster?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T17:30:11Z",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a4d871f44312",
+    "title": "American Airlines Blames Odor As 787 Diverts To Dublin With 6 Of 9 Cabin Crew Ill",
+    "summary": "The flight from Rome to Philadelphia that made an unexpected detour to Dublin after the majority of its cabin crew reported feeling unwell.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T16:06:18Z",
+    "url": "https://simpleflying.com/american-airlines-787-odor-dublin-diversion/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8f3078ac438b",
+    "title": "Delta Air Lines Cancels 3 Routes From This Major Hub: See Affected Flights Now",
+    "summary": "Delta cancels three routes from its major hub, with the airline's decision to focus on LaGuardia for Memphis, Houston, and St. Louis services.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T16:00:11Z",
+    "url": "https://simpleflying.com/delta-cancels-3-routes-from-major-hub/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "58515c873336",
+    "title": "Lockheed Built The Constellation's Famous Triple Tail For One Key Reason \u2014 To Fit Inside An Airline's Existing Hangars",
+    "summary": "The Constellation's triple tail was not a design choice. It was the only way to fit the aircraft inside TWA's hangars.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T14:00:11Z",
+    "url": "https://simpleflying.com/why-lockheed-constellation-had-three-vertical-stab/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "08e53bcd4ca2",
     "title": "How Commercial Aircraft Tires Survive 150mph Runway Contact Under 20 Tonnes Of Weight Without Bursting",
     "summary": "Aircraft tires go from zero to 170 mph in a fraction of a second at touchdown. Here is the engineering that keeps them from bursting.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-20T10:41:20Z",
     "url": "https://www.aerotime.aero/articles/smbc-orders-100-b737-max-aircraft-at-farnborough-airshow-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6961ef5a093b",
-    "title": "Riyadh Air Adds 28 More 787s & 6 A350s To Its Fleet On 1st Day Of Farnborough",
-    "summary": "It\u2019s the first day of the Farnborough Airshow and it\u2019s already off to an exciting start!Today, Riyadh Air announced a deal to exercise options for 28 more 787 Dreamliner jets as part of its growth plan. On the Airbus side, the carrier ALSO firmed up an order for six additional...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T10:31:53Z",
-    "url": "https://simpleflying.com/video/riyadh-air-adds-28-more-787s-6-a350s-to-its-fleet-on-1st-day-of-farnborough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5ec1b4788819",
-    "title": "Boeing Secures 100-Jet 737 MAX Order From SMBC Aviation Capital",
-    "summary": "Big news out of the 2026 Farnborough International Airshow!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T10:04:26Z",
-    "url": "https://simpleflying.com/smbc-boeing-737-max-order-farnborough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "10866ed3513d",
-    "title": "UK\u2019s National Police Air Service orders two more H135s, brings order to nine",
-    "summary": "The UK\u2019s National Police Air Service (NPAS) has placed an order for two additional H135 helicopters, bringing its&#8230; The post UK\u2019s National Police Air Service orders two more H135s, brings order to nine appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T09:47:49Z",
-    "url": "https://www.aerotime.aero/articles/uks-national-police-air-service-orders-two-more-h135s-brings-order-to-nine",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3270e647015d",
-    "title": "Riyadh Air Firms Up Major Airbus A350 & Boeing 787 Orders",
-    "summary": "Big news out of the 2026 Farnborough International Airshow!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T09:29:53Z",
-    "url": "https://simpleflying.com/riyadh-air-boeing-787-airbus-a350-order-farnborough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f28edd272aa",
-    "title": "Eve reports new orders, noise certification framework ahead of Farnborough 2026",
-    "summary": "Embraer\u2019s advanced air mobility arm, Eve Air Mobility announced on July 19, 2026, just ahead of Farnborough International&#8230; The post Eve reports new orders, noise certification framework ahead of Farnborough 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T09:02:31Z",
-    "url": "https://www.aerotime.aero/articles/eve-reports-new-orders-noise-certification-framework-ahead-of-farnborough-2026",
     "airlineTag": null,
     "isBreaking": false
   }
