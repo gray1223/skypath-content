@@ -1,5 +1,71 @@
 [
   {
+    "id": "08e53bcd4ca2",
+    "title": "How Commercial Aircraft Tires Survive 150mph Runway Contact Under 20 Tonnes Of Weight Without Bursting",
+    "summary": "Aircraft tires go from zero to 170 mph in a fraction of a second at touchdown. Here is the engineering that keeps them from bursting.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T13:00:11Z",
+    "url": "https://simpleflying.com/how-commercial-aircraft-tires-survive-150mph-runway-contact-under-20-tonnes-of-weight-without-bursting/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "52b46c1d4dea",
+    "title": "Coming Soon: Delta Boeing 787-10s To Feature 50% Premium Seats",
+    "summary": "Delta Air Lines is preparing a premium-heavy cabin layout for the 30 Boeing 787-10 Dreamliners it ordered in January, with chief commercial officer Joe Esposito confirming on the carrier's July 10th earnings call.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T12:30:11Z",
+    "url": "https://simpleflying.com/video/coming-soon-delta-boeing-787-10s-to-feature-50-premium-seats/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "63c46e244a82",
+    "title": "Boeing Scrapped An Unused 777X Rather Than Pay The Huge Rework Costs",
+    "summary": "It was revealed recently that Boeing had quietly scrapped one of its earliest-built Boeing 777-9 airframes, dismantling a jet that had sat unflown at its Everett facility since 2019. Partially wearing the colors of Emirates, the widebody was intended to join the Middle Eastern...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T12:28:11Z",
+    "url": "https://simpleflying.com/video/boeing-scrapped-an-unused-777x-rather-than-pay-the-huge-rework-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6ee7b2c8a677",
+    "title": "The Reason Airlines At The Same Airport Pay Completely Different Prices For The Same Fuel On The Same Day",
+    "summary": "Fuel is a complicated variable to invoice, meaning that even under identical circumstances, two different aircraft can pay different prices.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T10:00:11Z",
+    "url": "https://simpleflying.com/why-airlines-pay-different-fuel-prices/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6df2b30b13d3",
+    "title": "FAA to require 5G-tolerant radio altimeters as FCC clears C-band auction",
+    "summary": "The Federal Aviation Administration (FAA) said it would issue a final rule on July 24, 2026, requiring all&#8230; The post FAA to require 5G-tolerant radio altimeters as FCC clears C-band auction appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-26T09:31:06Z",
+    "url": "https://www.aerotime.aero/articles/faa-to-require-5g-tolerant-radio-altimeters-as-fcc-clears-c-band-auction",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0479a2b57367",
+    "title": "UK builds Mach 5 target to test future hypersonic missile defenses",
+    "summary": "The UK Ministry of Defence has awarded a \u00a320 million ($27 million) contract to Lockheed Martin UK to&#8230; The post UK builds Mach 5 target to test future hypersonic missile defenses appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-26T08:55:58Z",
+    "url": "https://www.aerotime.aero/articles/uk-hypersonic-target-project-bowline",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "82d43a17f3f4",
     "title": "The Lockheed P-38 Lightning Pilot With More Confirmed Aerial Victories Than Any Other American In World War II",
     "summary": "The battle record of America's ace of aces.",
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-20T09:02:31Z",
     "url": "https://www.aerotime.aero/articles/eve-reports-new-orders-noise-certification-framework-ahead-of-farnborough-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bc70fe2e37c6",
-    "title": "Why American Airlines' COVID-Retired Widebodies Sat In Roswell For 5 Years Before Vietnam Came Calling",
-    "summary": "The real COVID-era 747 boneyard story.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T04:00:12Z",
-    "url": "https://simpleflying.com/why-american-airlines-covid-retired-widebodies-sat-roswell-5-years-before-vietnam-calling/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "10e6ba95432a",
-    "title": "Why The US Air Force Is Turning The B-21 Raider's Test Jets Into Its 1st Combat Bombers",
-    "summary": "The Air Force has designed its fleet of B-21 test aircraft from the ground up to enter operational service after testing is complete.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T03:00:11Z",
-    "url": "https://simpleflying.com/why-usaf-turning-b-21-raiders-test-jets-1st-combat-bombers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "892b5b57db82",
-    "title": "Boeing sees demand for 2.4M aviation professionals in 20 years",
-    "summary": "Boeing expects the global commercial aviation industry to require more than 2.4 million new aviation professionals over the&#8230; The post Boeing sees demand for 2.4M aviation professionals in 20 years appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/boeing-sees-demand-for-2-4m-aviation-professionals-in-20-years",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "136619018847",
-    "title": "The US Air Force Is Pouring 20 Acres Of Concrete At Guam's Andersen AFB But Refuses To Build Shelters",
-    "summary": "How America is investing in air power over the Pacific.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T02:00:21Z",
-    "url": "https://simpleflying.com/usaf-pouring-20-acres-concrete-guam-andersen-afb-refuse-build-shelters/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5686af533313",
-    "title": "Why The US Air Force Is Quietly Flying Its Retired F-117 Stealth Jets Until 2034",
-    "summary": "The enduring mission of the world's first operational stealth fighter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T01:00:11Z",
-    "url": "https://simpleflying.com/why-usaf-quietly-flying-retired-f-117-stealth-jets-2034/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "20d7931f7d9d",
-    "title": "Why A C-130 Hercules Landing On A US Navy Carrier Deck In 1963 Is A Record The Military Has Never Tried To Break",
-    "summary": "Incredibly, despite its size, the US Navy looked at the C-130 as a possible delivery vehicle for carriers at sea. The results were surprising.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T00:00:11Z",
-    "url": "https://simpleflying.com/c-130-carrier-landing-record/",
     "airlineTag": null,
     "isBreaking": false
   }
