@@ -1,5 +1,27 @@
 [
   {
+    "id": "82d43a17f3f4",
+    "title": "The Lockheed P-38 Lightning Pilot With More Confirmed Aerial Victories Than Any Other American In World War II",
+    "summary": "The battle record of America's ace of aces.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T07:00:11Z",
+    "url": "https://simpleflying.com/p38-lightning-richard-bong-record/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9fd86b7cd3b6",
+    "title": "Why Alaska Airlines Paid $2.6 Billion For Virgin America Then Retired Its Brand Within 2 Years Of Closing The Deal",
+    "summary": "The company ultimately chose to focus on growing Alaska Airlines and, increasingly, its own brand relevance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T04:00:13Z",
+    "url": "https://simpleflying.com/why-alaska-retired-virgin-america/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "91f6bf5ff5f7",
     "title": "What Airbus A350 Pilots Actually Do With The Autopilot On A 14-Hour Flight",
     "summary": "Learn why Airbus A350 pilots still hand-fly, how autopilot works, and why AF447 changed modern airline training forever.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-07-20T00:00:11Z",
     "url": "https://simpleflying.com/c-130-carrier-landing-record/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dc4a2c72e00a",
-    "title": "Airlines Are Now Ripping Out Economy Seats To Make Room For Doored First-Class Suites",
-    "summary": "Airlines are shrinking economy cabins to make room for luxury suites as premium travelers generate record profits and reshape aircraft interiors.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T23:00:11Z",
-    "url": "https://simpleflying.com/airlines-now-ripping-out-economy-seats-make-room-doored-first-class-suites/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "444554c79c11",
-    "title": "American Airlines CEO Lays Out Plan To Close A $3 Billion Profit Gap With United & Delta",
-    "summary": "American Airlines plans premium cabin upgrades, new widebody jets, and better reliability as CEO Robert Isom targets a $3 billion profit gap.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-19T22:49:45Z",
-    "url": "https://simpleflying.com/american-airlines-ceo-lays-out-plan-close-3-billion-profit-gap-united-delta/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
