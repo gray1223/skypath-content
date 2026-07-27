@@ -1,5 +1,60 @@
 [
   {
+    "id": "a034ff884ccf",
+    "title": "Discounts Won't Fix It: Why The Boeing 777-9 Just Doesn't Fit Any US Airline's Network",
+    "summary": "US carriers could find a use for it, but they don't need the 777-9.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-27T01:00:11Z",
+    "url": "https://simpleflying.com/why-boeing-777-9-doesnt-fit-any-us-airline-network/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7b47c60b56d4",
+    "title": "United Airlines' Oldest Active Jet Is 35 Years Old: Here's Where It's Still Flying",
+    "summary": "The carrier's most vintage planes date back to the early 1990s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T22:00:11Z",
+    "url": "https://simpleflying.com/united-airlines-oldest-aircraft-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "67333445e678",
+    "title": "Boeing's 737 MAX 7 Is Finally Nearing FAA Approval & Southwest Airlines' Entire Next Decade Depends On It",
+    "summary": "Southwest Airlines has been waiting longer than ever for the Boeing 737 MAX 7, as its entire business model revolves around a single aircraft fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T22:00:11Z",
+    "url": "https://simpleflying.com/boeing-737-max-7-finally-nearing-faa-approval-southwest-airlines-entire-next-decade-depends/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2273418479b6",
+    "title": "United Airlines\u2019 Scott Kirby Also Approached Delta In Hopes Of A Megadeal, New Report Unveils",
+    "summary": "A new report reveals United CEO Scott Kirby approached Delta about a merger, highlighting his bold ambitions despite major antitrust hurdles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T21:25:10Z",
+    "url": "https://simpleflying.com/united-airlines-scott-kirby-approach-delta-megadeal/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ce4142918508",
+    "title": "How Much A Delta Air Lines Flight Attendant Actually Earns During The 30 Minutes Before Door Close",
+    "summary": "The first airline to solve a long term grievance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-26T21:00:11Z",
+    "url": "https://simpleflying.com/how-much-delta-air-lines-flight-attendant-actually-earns-during-30-minutes-before-door-close/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "b0a713686551",
     "title": "9-Hour Flights: Breeze Airways' 11 Longest Airbus A220 Routes Revealed [Map]",
     "summary": "Have you ever flown on one of these one-stop odysseys?",
@@ -44,6 +99,17 @@
     "isBreaking": false
   },
   {
+    "id": "1d5f5ac2b2e7",
+    "title": "EAA Honors Rep. Sam Graves With Freedom of Flight Award",
+    "summary": "The retiring Missouri lawmaker was recognized at AirVenture for his work on FAA policy and air traffic control modernization.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-26T15:10:00Z",
+    "url": "https://avweb.com/air-shows-events/airventure/eaa-honors-sam-graves-freedom-of-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "58515c873336",
     "title": "Lockheed Built The Constellation's Famous Triple Tail For One Key Reason \u2014 To Fit Inside An Airline's Existing Hangars",
     "summary": "The Constellation's triple tail was not a design choice. It was the only way to fit the aircraft inside TWA's hangars.",
@@ -51,6 +117,17 @@
     "category": "industry",
     "publishedDate": "2026-07-26T14:00:11Z",
     "url": "https://simpleflying.com/why-lockheed-constellation-had-three-vertical-stab/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39e5084ecba0",
+    "title": "First MOSAIC-Compliant RV-12 Delivered at AirVenture",
+    "summary": "The Van\u2019s-built aircraft will join a Tennessee flight school\u2019s training fleet.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-07-26T13:05:00Z",
+    "url": "https://avweb.com/air-shows-events/airventure/first-mosaic-compliant-rv-12-delivered-at-airventure/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -424,7 +501,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T23:43:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +908,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T19:26:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1084,7 +1161,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-07-22T23:55:12Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/senate-committee-advances-bill-lifting-speed-limit-in-the-sky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1172,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T23:46:22Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/aviation-medication-transparency-bill-advances?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1205,7 +1282,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-22T18:05:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1414,7 +1491,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1447,7 +1524,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/passing-the-wrench?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1458,7 +1535,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T20:14:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/pilot-demand-ticks-up-in-boeing-forecast?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1557,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:59:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/blackshape-presents-veloce-and-gabriel-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1491,7 +1568,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T19:13:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/continental-works-on-io-370-stc-for-piper-airframes?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1579,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:56:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/the-people-you-meet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1513,7 +1590,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:39:34Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/texas-aircraft-eyes-aerial-work?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1524,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T18:00:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/textron-announces-pipistrel-voyager?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1854,7 +1931,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/21/vans-updates-rv-12-for-mosaic?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1953,7 +2030,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-20T19:40:20Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/20/closing-the-gap-between-simulator-and-flight-deck?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-20T13:00:11Z",
     "url": "https://simpleflying.com/us-navy-retired-100-pound-cargo-workhourse-tiltrotor-carries-4000-pounds-less/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "528e0283af22",
-    "title": "Seaplane Bases That Really Make a Splash",
-    "summary": "From Alaska's busiest hub to Manhattan's East River, these special spots redefine flying freedom.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-20T12:00:00Z",
-    "url": "https://www.flyingmag.com/seaplane-bases-that-really-make-a-splash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bc5f820ea30b",
-    "title": "Riyadh Air firms up order for six more Airbus A350-1000s at Farnborough 2026",
-    "summary": "Riyadh Air, Saudi Arabia\u2019s new premium international carrier, has firmed up an order for six additional Airbus A350-1000&#8230; The post Riyadh Air firms up order for six more Airbus A350-1000s at Farnborough 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T11:57:05Z",
-    "url": "https://www.aerotime.aero/articles/riyadh-air-firms-up-order-for-six-more-airbus-a350-1000s-at-farnborough-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5fbd0c1de245",
-    "title": "Philippine Airlines confirms speculation with Boeing 787 Dreamliner order at FIA",
-    "summary": "Philippine Airlines has confirmed rumors of a new Boeing order with the announcement that the carrier will acquire&#8230; The post Philippine Airlines confirms speculation with Boeing 787 Dreamliner order at FIA appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T11:41:35Z",
-    "url": "https://www.aerotime.aero/articles/philippine-airlines-orders-boeing-787-dreamliner-order-farnborough",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c8544563d5e6",
-    "title": "Vertical Aerospace names Sigma Air Mobility as new customer at Farnborough 2026",
-    "summary": "Vertical Aerospace has named Sigma Air Mobility, a subsidiary of Luxembourg-based executive aviation operator Luxaviation Group, as a&#8230; The post Vertical Aerospace names Sigma Air Mobility as new customer at Farnborough 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T11:02:57Z",
-    "url": "https://www.aerotime.aero/articles/vertical-aerospace-names-sigma-air-mobility-as-new-customer-at-farnborough-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a4f344a661dd",
-    "title": "Philippine Airlines Orders 15 Boeing 787s, Options For 5 More",
-    "summary": "Big news out of the 2026 Farnborough International Airshow!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-20T10:50:23Z",
-    "url": "https://simpleflying.com/philippine-airlines-boeing-787-order-farnborough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7e699707a8a2",
-    "title": "Riyadh Air firms up order for 28 Boeing 787s, adds 787-10 at Farnborough 2026",
-    "summary": "Riyadh Air, Saudi Arabia\u2019s new national carrier, has exercised options for 28 additional Boeing 787 Dreamliner jets, a&#8230; The post Riyadh Air firms up order for 28 Boeing 787s, adds 787-10 at Farnborough 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T10:46:27Z",
-    "url": "https://www.aerotime.aero/articles/riyadh-air-firms-up-order-for-28-boeing-787s-adds-787-10-at-farnborough-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "517474714286",
-    "title": "SMBC orders 100 B737 MAX aircraft at Farnborough Airshow 2026",
-    "summary": "Japanese-owned leasing firm SMBC Aviation Capital placed an order for 100 Boeing 737 MAX aircraft on July 20,&#8230; The post SMBC orders 100 B737 MAX aircraft at Farnborough Airshow 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-20T10:41:20Z",
-    "url": "https://www.aerotime.aero/articles/smbc-orders-100-b737-max-aircraft-at-farnborough-airshow-2026",
     "airlineTag": null,
     "isBreaking": false
   }
