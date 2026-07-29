@@ -1,5 +1,148 @@
 [
   {
+    "id": "ae476aeacf47",
+    "title": "FAA Proposes Streamlining Commercial Space Licensing",
+    "summary": "The FAA is proposing changes to streamline commercial space licensing and reduce regulatory delays as the U.S. commercial space industry continues to grow.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-29T14:05:25Z",
+    "url": "https://avweb.com/aviation-news/faa-streamlines-commercial-space-licensing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "155f6127949e",
+    "title": "Heart Aerospace Aims to Field Hybrid-Electric ES-30 by 2031",
+    "summary": "Company\u2019s recent FAA special airworthiness certification permits X1 demonstrator flight testing \u2018immediately.\u2019",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-29T14:00:00Z",
+    "url": "https://www.flyingmag.com/heart-aerospace-hybrid-electric-es30-2031/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "525e20c2ddfc",
+    "title": "ATP Flight School Slashes Check Ride Wait Times",
+    "summary": "Proprietary software and expanded fleet enable near-immediate testing availability for pilot trainees.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-07-29T13:00:00Z",
+    "url": "https://www.flyingmag.com/atp-flight-school-slashes-check-ride-wait-times/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a9d5150aff91",
+    "title": "Nonprofit watchdog releases TSA-ICE agreement amid airport arrests scrutiny",
+    "summary": "A nonprofit government watchdog organization, American Oversight, reported on July 29, 2026, that it had obtained and released&#8230; The post Nonprofit watchdog releases TSA-ICE agreement amid airport arrests scrutiny appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-29T12:58:16Z",
+    "url": "https://www.aerotime.aero/articles/nonprofit-watchdog-releases-tsa-ice-agreement-amid-airport-arrests-scrutiny",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "30fb71ddf13e",
+    "title": "ANA increases Embraer order to include eight additional E190-E2 aircraft",
+    "summary": "All Nippon Airways (ANA) has increased its current order with Embraer to include eight additional E190-E2 aircraft in&#8230; The post ANA increases Embraer order to include eight additional E190-E2 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-29T12:45:52Z",
+    "url": "https://www.aerotime.aero/articles/ana-embraer-order-eight-additional-embraer-e190-e2-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "570fc1e336e2",
+    "title": "2 Defective Boeing 737 MAX 8s To Be Scrapped After Barely 6 Months In Service",
+    "summary": "In another case of quality control issues with the Boeing 737 MAX series, two MAX 8s that only began service with Brazilian airline GOL Linhas A\u00e9reas six months ago are already expected to be parted out.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T12:27:11Z",
+    "url": "https://simpleflying.com/video/2-defective-boeing-737-max-8s-to-be-scrapped-after-barely-6-months-in-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f3b0552ca6a4",
+    "title": "LATAM Airlines unveils cabin interiors for new E195 E2 fleet",
+    "summary": "On July 28, 2026, LATAM Airlines unveiled the cabin interiors for its new Embraer E195 E2 fleet, expected&#8230; The post LATAM Airlines unveils cabin interiors for new E195 E2 fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-29T12:18:31Z",
+    "url": "https://www.aerotime.aero/articles/latam-airlines-unveils-cabin-interiors-for-new-e195-e2-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6dac9891ebec",
+    "title": "Supersonic Flight\u2019s New Golden Age Getting Closer",
+    "summary": "Boom leads push for return to high-speed commercial air travel.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-29T12:00:00Z",
+    "url": "https://www.flyingmag.com/supersonic-flights-new-golden-age-getting-closer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "061b652fb6ea",
+    "title": "Australia introduces national air tanker safety standards after 737 crash",
+    "summary": "Australia has introduced its first national standard operating procedures for large air tanker firefighting aircraft, including minimum drop&#8230; The post Australia introduces national air tanker safety standards after 737 crash appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-29T11:25:18Z",
+    "url": "https://www.aerotime.aero/articles/australia-introduces-national-air-tanker-safety-standards-after-737-crash",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "57577cfc50e3",
+    "title": "The Hidden Problem With Boeing's 787, 747-8 & 737 MAX Engines",
+    "summary": "Modern commercial jet engines are among the most refined pieces of engineering ever developed. They are quieter, more fuel-efficient, and dramatically cleaner than the engines that powered earlier generations of airliners. So in this video, we take a look at why Boeing introdu...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T11:00:11Z",
+    "url": "https://simpleflying.com/video/the-hidden-problem-with-boeing-s-787-747-8-737-max-engines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "60f1458f7059",
+    "title": "London Nonstop: This Tiny Airline Launches New 11-Hour Long-Haul Flights [Map]",
+    "summary": "London Gatwick Airport's expanding African network soars to new heights with the launch of Air Zimbabwe's nonstop flights to Harare.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T10:09:01Z",
+    "url": "https://simpleflying.com/london-nonstop-tiny-airline-launches-new-11-hour-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "72b3c64b735e",
+    "title": "Philippine Airlines welcomes third Airbus A350-1000 aircraft",
+    "summary": "Philippine Airlines (PAL) has taken delivery of its third Airbus A350-1000 as the carrier continues building out its&#8230; The post Philippine Airlines welcomes third Airbus A350-1000 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-29T09:25:18Z",
+    "url": "https://www.aerotime.aero/articles/philippine-airlines-welcomes-third-airbus-a350-1000-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "60daa556f430",
+    "title": "COMAC\u2019s new compact C919 variant completes first test flight in Shanghai",
+    "summary": "Commercial Aircraft Corporation of China (COMAC) has completed the maiden test flight of its new compact C919 aircraft&#8230; The post COMAC\u2019s new compact C919 variant completes first test flight in Shanghai appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-29T08:32:00Z",
+    "url": "https://www.aerotime.aero/articles/comac-c919-600-aircraft-variant-test-flight-shanghai",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8187621840f7",
     "title": "How Qatar Airways Turned Retired Widebodies Into A Backup Fleet To Cover Its Grounded Airbus A350s",
     "summary": "In times of fleet groundings, few options are left available. Qatar Airways turned to its 'past mistakes' and proved that having a backup is vital.",
@@ -2054,149 +2197,6 @@
     "publishedDate": "2026-07-22T19:01:49Z",
     "url": "https://simpleflying.com/senior-united-airlines-flight-attendants-terminated-after-trading-trips-for-profit/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8025df1b83d3",
-    "title": "The Real Product Boeing & Airbus Sell Airlines Isn't The Jet: It's The Cockpit",
-    "summary": "This guide details just how important cockpit design is to the success of any aircraft program.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T19:00:11Z",
-    "url": "https://simpleflying.com/real-product-boeing-airbus-sell-airlines-isnt-jet-cockpit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "37717e61961c",
-    "title": "With the TRAC10, Cirrus reimagines what a training aircraft can be",
-    "summary": "The story of how Cirrus Aircraft decided to go all-in on the flight training market with the newly&#8230; The post With the TRAC10, Cirrus reimagines what a training aircraft can be appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "training",
-    "publishedDate": "2026-07-22T18:59:19Z",
-    "url": "https://www.aerotime.aero/articles/cirrus-trac10-flight-training-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6121e72daa95",
-    "title": "Border-crossing app FlashPass launches new iOS version",
-    "summary": "FlashPass, an app that streamlines U.S. and Mexican customs paperwork for international flights, has launched a new version that makes creating and submitting manifests to each country&rsquo;s governing authority a matter of minutes.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-22T18:05:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/22/border-crossing-app-flashpass-launches-new-ios-version?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e622ae746b32",
-    "title": "How The Boeing 777X's Automated Wing-Fold Systems Prevent Takeoff Disasters For Pilots",
-    "summary": "Folding wings are not often associated with commercial aviation, but the 777X breaks this norm. How do these systems work?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T17:30:11Z",
-    "url": "https://simpleflying.com/how-boeing-777x-automated-wing-fold-systems-prevent-takeoff-disasters-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "09feb0568e68",
-    "title": "DeltaHawk-Powered Seminole DX Begins Flight Testing",
-    "summary": "The Jet-A-powered twin has completed multiple flights as development moves toward an FAA supplemental type certificate.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-22T17:23:00Z",
-    "url": "https://avweb.com/aviation-news/deltahawk-powered-seminole-dx-flight-test/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "8e04985f67c7",
-    "title": "60% Of Southwest Airlines Flyers Are Now Paying To Upgrade & It Reveals What LCC Loyalty Was Really About",
-    "summary": "A closer look at why Southwest is now more successful after getting rid of open seating and free checked bags.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T17:00:11Z",
-    "url": "https://simpleflying.com/60-percent-southwest-airlines-fliers-paying-upgrade-reveal-lcc-really-about/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e240dc57a1ab",
-    "title": "Merlin Completes Autonomous Landing At EAA AirVenture Oshkosh",
-    "summary": "Merlin completed an autonomous landing of a Cessna 208B Grand Caravan at EAA AirVenture Oshkosh, demonstrating its AI-powered flight technology.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-22T16:30:35Z",
-    "url": "https://avweb.com/air-shows-events/merlin-autonomous-landing-oshkosh/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05cd2e2c33b4",
-    "title": "Is It True That Air Force One Pilots Earn Around $215K While Big 3 Widebody Captains Clear $480K?",
-    "summary": "Air Force One pilots are some of the most senior pilots routinely flying for the Air Force, but they earn half of what commercial widebody pilots get.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T16:00:11Z",
-    "url": "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-clear-480k/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "feeb7b5e8234",
-    "title": "New Statue Commemorates WWII \u2018Triple Ace\u2019 at Oshkosh",
-    "summary": "Bronze likeness of legendary pilot C.E. \u2018Bud\u2019 Anderson now stands in the warbirds section at EAA AirVenture.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-22T14:00:00Z",
-    "url": "https://www.flyingmag.com/new-statue-commemorates-wwii-triple-ace-at-oshkosh/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6ac311c7361",
-    "title": "Saudi carrier flynas firms up order for five A330-900neo, 20 A321neo aircraft",
-    "summary": "Saudi low-cost carrier flynas agreed to firm up an order for five Airbus A330-900neo and 20 A321neo aircraft&#8230; The post Saudi carrier flynas firms up order for five A330-900neo, 20 A321neo aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T13:59:36Z",
-    "url": "https://www.aerotime.aero/articles/saudi-carrier-flynas-firms-up-order-for-five-a330-900neo-20-a321neo-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f16736b17bdb",
-    "title": "BermudAir becomes newest Airbus A220 customer with order for 10 aircraft",
-    "summary": "BermudAir, Bermuda\u2019s hometown airline, has placed an order for 10 A220-300 aircraft, marking its first-ever order with Airbus. &#8230; The post BermudAir becomes newest Airbus A220 customer with order for 10 aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T13:38:31Z",
-    "url": "https://www.aerotime.aero/articles/bermudair-becomes-newest-airbus-a220-customer-with-order-for-10-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c21e41596c43",
-    "title": "Hawaiian Airlines To Replace Inter-Island Boeing 717s With The 737-800",
-    "summary": "The carrier will inherit these jets from Alaska Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T13:38:02Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-replaces-boeing-717-with-737-800/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1d4de0c7c457",
-    "title": "Archer and Anduril unveil Halo, the commercial version of their dual-use VTOL",
-    "summary": "Archer Aviation has unveiled \u2018Halo,\u2019 the commercial version of the unmanned, dual-use hybrid-electric VTOL aircraft it has jointly&#8230; The post Archer and Anduril unveil Halo, the commercial version of their dual-use VTOL appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T12:58:37Z",
-    "url": "https://www.aerotime.aero/articles/archer-and-anduril-unveil-halo-the-commercial-version-of-their-dual-use-vtol",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
