@@ -1,5 +1,38 @@
 [
   {
+    "id": "8187621840f7",
+    "title": "How Qatar Airways Turned Retired Widebodies Into A Backup Fleet To Cover Its Grounded Airbus A350s",
+    "summary": "In times of fleet groundings, few options are left available. Qatar Airways turned to its 'past mistakes' and proved that having a backup is vital.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T08:00:11Z",
+    "url": "https://simpleflying.com/how-qatar-airways-turned-retired-widebodies-backup-fleet-cover-grounded-airbus-a350s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "84460f97008f",
+    "title": "Singapore Airlines Posts First Quarterly Loss Since 2022 As Fuel Bill Jumps $767 Million",
+    "summary": "Singapore's flag carrier faces headwinds despite strong performance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T07:13:13Z",
+    "url": "https://simpleflying.com/singapore-airlines-first-quarterly-loss-since-2022-fuel-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fca7bc9f3d25",
+    "title": "American Airlines Briefly Grounds Every Flight After Nationwide IT Outage",
+    "summary": "The entire fleet was grounded as a technology failure hit during the peak evening rush hour.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T06:30:08Z",
+    "url": "https://simpleflying.com/american-airlines-nationwide-ground-stop-it-outage/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "8cf400767c3f",
     "title": "How United Airlines' Lie-Flat Boeing 757 Ruled Premium Transcon & What's About To Replace It",
     "summary": "United plans to eventually replace its premium 757 fleet with A321XLR aircraft.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-22T12:58:37Z",
     "url": "https://www.aerotime.aero/articles/archer-and-anduril-unveil-halo-the-commercial-version-of-their-dual-use-vtol",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "41890e56bbc1",
-    "title": "Boeing 737 MAX 7 And 10 Certification 'Closer Than Ever,' FAA Says",
-    "summary": "FAA Administrator Bryan Bedford told Reuters that the FAA had increased resources allocated to the Boeing planes by 35% to 40% after coordinating with the plane maker to streamline priorities. He indicated that the MAX 7 is likely to be the first to pass final scrutiny before ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T12:24:11Z",
-    "url": "https://simpleflying.com/video/boeing-737-max-7-and-10-certification-closer-than-ever-faa-says/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b21a08ac744",
-    "title": "Indonesia\u2019s T-50i Golden Eagle makes its debut at Exercise Pitch Black 26",
-    "summary": "The Indonesian Air Force has deployed its T-50i Golden Eagle to Australia\u2019s Northern Territory for the first time,&#8230; The post Indonesia\u2019s T-50i Golden Eagle makes its debut at Exercise Pitch Black 26 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T11:32:56Z",
-    "url": "https://www.aerotime.aero/articles/indonesias-t-50i-golden-eagle-makes-its-debut-at-exercise-pitch-black-26",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c166d85c791",
-    "title": "The Highest Paid US Flight Attendants (2026 Salaries Revealed)",
-    "summary": "Unlike pilots, the US Flight Attendant pay structure is not formally tiered by specific 'ranks' on a five-level hierarchy. Compensation at the major carriers is purely driven by position and seniority rather than by a distinct rank designation. So in this video, we take a look...",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-07-22T11:00:11Z",
-    "url": "https://simpleflying.com/video/the-highest-paid-us-flight-attendants-2026-salaries-revealed/",
     "airlineTag": null,
     "isBreaking": false
   }
