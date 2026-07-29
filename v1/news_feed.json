@@ -1,5 +1,16 @@
 [
   {
+    "id": "8cf400767c3f",
+    "title": "How United Airlines' Lie-Flat Boeing 757 Ruled Premium Transcon & What's About To Replace It",
+    "summary": "United plans to eventually replace its premium 757 fleet with A321XLR aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T01:00:11Z",
+    "url": "https://simpleflying.com/how-united-airlines-lie-flat-boeing-757-ruled-premium-transcon-replacement/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "5e30363bc91c",
     "title": "Training and Safety Tip: Beware of thin air",
     "summary": "With the summer months upon us, the days are longer and warmer, and it&rsquo;s a lovely time to go fly. As with each change of season, there are factors to consider during these months that affect aircraft performance. Density altitude is one of them.",
@@ -7,6 +18,72 @@
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2241d2e20344",
+    "title": "5 Airlines Where Premium Economy Is The Smarter Buy Than Business Class In 2026",
+    "summary": "Many airlines offer excellent premium economy fares that make it not worth the cost of upgrading to business class on some routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-28T23:00:11Z",
+    "url": "https://simpleflying.com/5-airlines-premium-economy-smarter-buy-business-class/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0c75316a2ae4",
+    "title": "How Much Does A Boeing 747 Engine Cost?",
+    "summary": "For many 747-400 freighters, the cost of a major engine overhaul can exceed the market value of the airframe itself.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-28T21:30:11Z",
+    "url": "https://simpleflying.com/how-much-does-boeing-747-engine-cost/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "79bc2c17fe9a",
+    "title": "How Delta Air Lines Quietly Built A Backup Plan For Its Longest Airbus A350 Route",
+    "summary": "Why Delta Air Lines uses a lower-capacity Airbus A350 on its longest Atlanta\u2013Johannesburg flight\u2014and why fewer seats matter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-28T21:00:11Z",
+    "url": "https://simpleflying.com/how-delta-air-lines-quietly-built-backup-plan-longest-airbus-a350-route/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "6c40f7d8eeb5",
+    "title": "Breeze Airways Has Dropped Flights To These 6 Airports [Full List]",
+    "summary": "All six airports were removed between 2022 and 2026. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-28T20:00:11Z",
+    "url": "https://simpleflying.com/breeze-airways-drops-flights-to-these-6-airports/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "5f71721f64ee",
+    "title": "The Airline Known To Have The World's Most Comfortable Premium Economy Seat",
+    "summary": "What Emirates has done to differentiate premium economy from the competition.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-28T20:00:11Z",
+    "url": "https://simpleflying.com/airline-known-have-worlds-most-comfortable-premium-economy-seat/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "367e55ee5b76",
+    "title": "Merlin, IAI Explore Autonomy for Cargo Aircraft",
+    "summary": "The memorandum covers joint development, integration and certification work for Part 25 freighters.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-28T19:54:25Z",
+    "url": "https://avweb.com/aviation-news/merlin-iai-autonomy-for-cargo-aircraft/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "pay",
     "publishedDate": "2026-07-22T11:00:11Z",
     "url": "https://simpleflying.com/video/the-highest-paid-us-flight-attendants-2026-salaries-revealed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c4a6949414f7",
-    "title": "BOC Aviation confirms order for up to 220 Pratt & Whitney GTF engines",
-    "summary": "BOC Aviation has confirmed an order for up to 220 Pratt &#038; Whitney GTF engines, enough to power&#8230; The post BOC Aviation confirms order for up to 220 Pratt & Whitney GTF engines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T10:16:46Z",
-    "url": "https://www.aerotime.aero/articles/boc-aviation-confirms-order-for-up-to-220-pratt-whitney-gtf-engines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "71de604646db",
-    "title": "Emirates Refuses 10 Pre-Built Boeing 777Xs Over Rework Costs",
-    "summary": "Despite being the largest customer for the type, Emirates has confirmed that it does not plan to take delivery of the oldest Boeing 777X jets that have already been built. This was confirmed at the Farnborough International Airshow by Tim Clark, President at Emirates. The reas...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T08:35:50Z",
-    "url": "https://simpleflying.com/video/emirates-refuses-10-pre-built-boeing-777xs-over-rework-costs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3679d88cc7a3",
-    "title": "Farnborough Airshow live: Day three kicks off hoping to beat Tuesday\u2019s 82 orders",
-    "summary": "Day three of Farnborough Airshow 2026 kicks off looking to surpass Tuesday\u2019s 82 firm aircraft orders split between&#8230; The post Farnborough Airshow live: Day three kicks off hoping to beat Tuesday\u2019s 82 orders appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T08:20:28Z",
-    "url": "https://www.aerotime.aero/articles/farnborough-airshow-live-day-three",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fe2d95165c23",
-    "title": "JetZero secures backing from Gulf Air, Japan Airlines at Farnborough 2026",
-    "summary": "JetZero, the startup currently developing a clean-sheet blended-wing-body (BWB) airliner, secured the endorsement of two prominent international airlines&#8230; The post JetZero secures backing from Gulf Air, Japan Airlines at Farnborough 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-22T08:15:57Z",
-    "url": "https://www.aerotime.aero/articles/jetzero-secures-backing-from-gulf-air-japan-airlines-at-farnborough-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "311981e91f05",
-    "title": "The US Air Force Just Spent $143 Million On Software To Keep Its 1960s-Era C-5 Galaxy Flying",
-    "summary": "The massive C-5 Galaxy will remain in service until 2050, as currently projected.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-22T05:00:11Z",
-    "url": "https://simpleflying.com/usaf-spent-143-million-software-keep-1960s-c-5-galaxy-flying/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d1bb0d0452e9",
-    "title": "Training and Safety Tip: Say it out loud",
-    "summary": "The kid sitting at the simulator was talking to himself. His phone lay on the chair next to him, its screen blank and cold. He didn't have earbuds in. The sim, like his phone, was still blank and cold, too. But I wasn't concerned about his mental health. In fact, I could not h...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-21T23:37:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/21/training-and-safety-tip-say-it-out-loud?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eb3dceb7a64b",
-    "title": "Here's Why Australia Canceled Its Order For F-35 Fighter Jets",
-    "summary": "Australia has extended the life of its Super Hornets, allowing it to cancel its final order of F-35s with the option to buy them another day.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-21T21:30:11Z",
-    "url": "https://simpleflying.com/why-australia-canceled-order-for-f-35-fighter-jets/",
     "airlineTag": null,
     "isBreaking": false
   }
