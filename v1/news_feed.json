@@ -1,5 +1,115 @@
 [
   {
+    "id": "c68f39a0d189",
+    "title": "Why Is Qantas The Only Airline Flying Nonstop From Australia To Continental Europe?",
+    "summary": "Qantas' seasonal Perth to Rome flights are key routes in the airline's network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T01:00:11Z",
+    "url": "https://simpleflying.com/why-qantas-only-airline-flying-nonstop-australia-continental-europe/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e99efd6399b2",
+    "title": "Lightspeed Aviation develops custom ANR profile for Rotax engines",
+    "summary": "As Rotax engines proliferate in new aircraft offerings, Lightspeed Aviation cleverly has developed a Rotax-specific audio and active noise reduction profile for its Delta Zulu headset.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-30T00:03:50Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e2ad540bf89d",
+    "title": "Unleaded fuel takes center stage at AirVenture",
+    "summary": "The long-awaited transition from 100LL to unleaded avgas was once again a hot topic at EAA AirVenture Oshkosh in Wisconsin as FAA officials, fuel developers, and the aviation industry all discussed what the future may look like\u2014with some suggesting that the transition may take...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-29T23:09:19Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ec6c738e0aa4",
+    "title": "Tecnam teases Rivale",
+    "summary": "During EAA AirVenture Oshkosh in Wisconsin, Tecnam Managing Director Giovanni Pascale Langer unveiled a 3,000-pound sculpture incorporating the propeller, cowl, engine, and windshield of a new personal aircraft called the Rivale.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-29T23:08:27Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9a5f7194b508",
+    "title": "Frontier Airlines Credits \u201cFavorable Competitive Capacity\u201d For $1.28 Billion Q2 Earnings",
+    "summary": "The record revenue number represents a 38% increase compared to Q2 2025.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T22:52:10Z",
+    "url": "https://simpleflying.com/frontier-airlines-favorable-competitve-capacity-q2-earnings/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "57b3d4417222",
+    "title": "Which Airline Introduced Lie-Flat Business Class Seats To The World?",
+    "summary": "This has now become the standard, narrowing the gap to first class.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T21:30:11Z",
+    "url": "https://simpleflying.com/which-airline-introduced-lie-flat-business-class-seats-world/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c9e9bf38c823",
+    "title": "New: Allegiant Air Set To Introduce First Class On Select Aircraft & Adds Complimentary Drinks",
+    "summary": "Allegiant is moving beyond bare-bones flying with a new premium cabin, bigger seats and complimentary drinks for passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T21:23:48Z",
+    "url": "https://simpleflying.com/allegiant-air-introduce-first-class-select-aircraft-adds-complimentary-drinks/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "18e0229482e9",
+    "title": "How Much A Boeing 747 Actually Costs Airlines To Operate Per Hour In 2026",
+    "summary": "The true cost of flying a Boeing 747 isn't one number. Learn why airlines and charter operators pay dramatically different rates.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T21:00:11Z",
+    "url": "https://simpleflying.com/how-much-boeing-747-costs-airlines-flight-hour-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "370a66447575",
+    "title": "22-Hour Flights: United Airlines' 13 New Longest Boeing 787 Routes [Full List]",
+    "summary": "They are from five hubs across the country. Find out the longest links here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T20:00:17Z",
+    "url": "https://simpleflying.com/22-hour-flights-united-airlines-13-new-longest-boeing-787-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "96cefcbc4fc9",
+    "title": "Nearly 40% More: Airbus Achieves 237 Deliveries In 2nd Quarter, Keeps 870 Target For Full Year",
+    "summary": "Airbus' ability to maintain a sustainable production ramp-up will be crucial in achieving its 870-aircraft delivery target for the full year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-29T19:25:34Z",
+    "url": "https://simpleflying.com/airbus-achieve-237-deliveries-2nd-quarter-keep-87-target-full-year/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "343c6a5a4b01",
     "title": "This Airline's Business Class Has A Wider Bed Than Award-Winning Qatar Airways' Qsuite",
     "summary": "Qsuite may no longer be the clear winner for business class excellence, as ANA is proving that space can feel almost unlimited in The Room.",
@@ -347,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -754,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-27T19:27:23Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1612,7 +1722,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +2052,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T23:43:08Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/having-fun?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2008,7 +2118,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-23T19:26:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/23/und-cfi-takes-command-of-aopa-sweepstakes-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-23T14:22:42Z",
     "url": "https://avweb.com/aviation-news/aviation-medication-transparency-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "43fa4cdf807f",
-    "title": "Piper Aircraft Secures New Fleet Order From ATP Flight School",
-    "summary": "Deal includes three Archer TX and three Seminole airplanes, with options for 25 additional units for 2027 delivery.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-23T14:00:00Z",
-    "url": "https://www.flyingmag.com/piper-aircraft-secures-new-fleet-order-from-atp-flight-school/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "97e6e36feb5a",
-    "title": "Lockheed Martin\u2019s Q2 2026 profit jumps as prior-year contract losses ease",
-    "summary": "Lockheed Martin\u2019s second-quarter earnings look much stronger than last year, largely because a set of one-time losses from&#8230; The post Lockheed Martin\u2019s Q2 2026 profit jumps as prior-year contract losses ease appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-23T13:32:50Z",
-    "url": "https://www.aerotime.aero/articles/lockheed-martins-q2-2026-profit-jumps-as-prior-year-contract-losses-ease",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "19ac67a62120",
-    "title": "Did a Russian Air Force SU-57 crash in Moscow? Here\u2019s what we know so far",
-    "summary": "A Russian military aircraft crashed in the Moscow region on July 23, 2026, prompting online speculation via channels&#8230; The post Did a Russian Air Force SU-57 crash in Moscow? Here\u2019s what we know so far appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-23T13:22:21Z",
-    "url": "https://www.aerotime.aero/articles/did-a-russian-air-force-su-57-crash-in-moscow-heres-what-we-know-so-far",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0030b7d84440",
-    "title": "The Highest Paid US Airline Pilots Ranks & Their Average 2026 Salaries",
-    "summary": "A closer look at why US legacy widebody Captains enjoy some of the highest pilot salaries in the world and typically serve until retirement.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-23T13:00:11Z",
-    "url": "https://simpleflying.com/highest-paid-us-airline-pilots-ranks-average-2026-salaries/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "36815ff7a480",
-    "title": "Kalitta Air Ferries Boeing 777-300ER Freighter To Michigan For Repairs After Tail Strike",
-    "summary": "Flight tracking data showed the damaged Boeing 777-300ER being ferried to Kalitta Maintenance's overhaul facility.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-23T12:46:05Z",
-    "url": "https://simpleflying.com/kalitta-air-ferries-boeing-777-300er-freighter-michigan-tail-strike/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "141a7506bc68",
-    "title": "Largely Unchanged For Nearly 20 Years: Delta's Longest Route In 2026",
-    "summary": "What is Delta\u2019s longest route? For those who know the airline well, it won\u2019t at all be a surprise...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-23T12:26:11Z",
-    "url": "https://simpleflying.com/video/largely-unchanged-for-nearly-20-years-delta-s-longest-route-in-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "42461eaa164c",
-    "title": "Boeing's 200-Jet China Order Reportedly 'Falling Apart' In Standoff Over Engine Parts",
-    "summary": "The $19 billion deal hangs in the balance due to a dispute over engine parts and maintenance terms.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-23T12:17:43Z",
-    "url": "https://simpleflying.com/boeing-china-200-jet-order-engine-parts-standoff/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "de1fc83863a5",
-    "title": "More than 700 drones seized by FAA-led counter-drone effort during World Cup \u201926",
-    "summary": "The Federal Aviation Administration (FAA) announced that federal, state, and local agencies carried out the most comprehensive airspace&#8230; The post More than 700 drones seized by FAA-led counter-drone effort during World Cup \u201926 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-23T12:00:38Z",
-    "url": "https://www.aerotime.aero/articles/more-than-700-drones-seized-by-faa-led-counter-drone-effort-during-world-cup-26",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b199d75e39b8",
-    "title": "How to Become a Test Pilot",
-    "summary": "Aviation job helps to ensure aircraft prototypes are in safe condition for flight.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-23T12:00:00Z",
-    "url": "https://www.flyingmag.com/how-to-become-a-test-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e4b26824b1b",
-    "title": "The US Air Force Retired Its Only Theater-Wide Ground Radar Jet Before Its Replacement Was Ready",
-    "summary": "Why the USAF abandoned its premier 'eye in the sky.'",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-23T11:00:11Z",
-    "url": "https://simpleflying.com/usaf-retired-only-theater-wide-ground-radar-jet-before-replacement-ready/",
     "airlineTag": null,
     "isBreaking": false
   }
