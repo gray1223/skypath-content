@@ -1,5 +1,104 @@
 [
   {
+    "id": "ae4e0e26c83c",
+    "title": "Five questions: Mike McCoy",
+    "summary": "Anyone convinced that aircraft ownership is only for the affluent, or that working for FBO line wages is no longer a viable plan to support flight training, ought to chat with Mike McCoy, a 31-year-old private pilot who lives in Mentor, Ohio.",
+    "source": "AOPA",
+    "category": "pay",
+    "publishedDate": "2026-07-30T21:41:14Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4fbe8aead319",
+    "title": "Environmentalists Condemn \u2018Obscene\u2019 FAA Space Licensing Proposal",
+    "summary": "Agency proposes waiving environmental regulations to reduce launch delays and costs.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-07-30T19:00:00Z",
+    "url": "https://www.flyingmag.com/faa-commercial-space-licensing-nepa-waivers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ce4d03193760",
+    "title": "FAA enables ATC clearance via EFBs",
+    "summary": "The FAA has released a new program that enables general aviation pilots to request, receive, and cancel instrument flight rules clearances directly in ForeFlight and Garmin Pilot\u2014with no radio or phone calls required.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-30T17:34:38Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bd4968d91ada",
+    "title": "The Aircraft Set To Replace The Iconic Boeing 777-300ER",
+    "summary": "The clock is ticking for this aviation legend. Airlines have more than one option as a replacement, but which will they pick?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T17:30:12Z",
+    "url": "https://simpleflying.com/the-aircraft-set-to-replace-boeing-777-300er/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "98b692102405",
+    "title": "Emirates Is Quietly Ripping Viasat Off Its New Airbus A350s To Standardize On Starlink",
+    "summary": "The Dubai-based carrier is still receiving deliveries of Airbus A350s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T17:00:11Z",
+    "url": "https://simpleflying.com/emirates-quietly-ripping-viasat-off-new-airbus-a350s-standarize-starlink/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fc6e7222e799",
+    "title": "Lydian Raises $43 Million for Synthetic SAF",
+    "summary": "The company plans to use the funding to develop a commercial demonstration plant targeted for 2028.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-30T16:31:51Z",
+    "url": "https://avweb.com/ownership/fuel-news/lydian-raises-43m-for-synthetic-saf/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d471bf5a2b82",
+    "title": "Final Unleaded Avgas Transition Plan Is Here",
+    "summary": "The roadmap retains the 2030 goal while leaving the detailed schedules for its national and Alaska phases unsettled.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-30T15:25:52Z",
+    "url": "https://avweb.com/ownership/fuel-news/final-unleaded-avgas-transition-plan-here/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eda77df1a743",
+    "title": "Bombardier backlog jumps by $4.3B as orders outpace production",
+    "summary": "Bombardier\u2019s order backlog climbed to $21.8 billion during the first half of 2026 as demand for its Challenger&#8230; The post Bombardier backlog jumps by $4.3B as orders outpace production appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-30T14:56:55Z",
+    "url": "https://www.aerotime.aero/articles/bombardier-backlog-private-jet-orders-surge",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "48c4667b7720",
+    "title": "C-2A Greyhound\u2019s Six Decades of Service End at NAS Pensacola",
+    "summary": "The Navy\u2019s carrier delivery aircraft completed its final in-service flight after joining the Blue Angels over Pensacola.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-07-30T14:17:28Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/c2a-greyound-ends-service-nas-pensacola/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "26ada18db337",
     "title": "FAA proposes waiving environmental rules to speed commercial space launches",
     "summary": "The US Federal Aviation Administration (FAA) has proposed allowing the agency to waive requirements under 13 federal environmental&#8230; The post FAA proposes waiving environmental rules to speed commercial space launches appeared first on AeroTime.",
@@ -138,7 +237,18 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f8f84a124a34",
+    "title": "Denver pilots fight hangar rent hike in court",
+    "summary": "A legal fight unfolding in Colorado stands to either make it easier or more difficult for FBOs around the country to charge egregious hangar rents in apparent defiance of FAA policy, and Denver pilots are seeking donations to sustain their effort to stop the practice from spre...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-07-30T08:00:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -204,7 +314,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T00:03:50Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -215,7 +325,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:09:19Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -226,7 +336,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:08:27Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -644,7 +754,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-27T19:27:23Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1909,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-24T12:53:34Z",
     "url": "https://www.aerotime.aero/articles/airbus-helicopter-academy-uk-train-pilots-engineers",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5f4746c564b6",
-    "title": "Why Airbus Just Quietly Shelved Its Next All-New Aircraft Until At Least 2031",
-    "summary": "For decades, Airbus and Boeing have shaped commercial aviation through successive aircraft. From the Airbus A300 in the 1970s and the Airbus A380 to the Boeing 777 family, both manufacturers have redefined airline fleets worldwide. So in this video, we take a look at why Airbu...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T11:00:11Z",
-    "url": "https://simpleflying.com/video/why-airbus-just-quietly-shelved-its-next-all-new-aircraft-until-at-least-2031/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db083e678b7d",
-    "title": "Why Emirates Is One Of The Only Airlines That Can Profitably Operate An A380 On A Route Where Every Other Carrier Uses A Narrowbody",
-    "summary": "Emirates is a clear anomaly in the airline world, not bringing in highly efficient narrowbodies to serve shorter routes. Instead, it uses the A380.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T11:00:11Z",
-    "url": "https://simpleflying.com/why-emirates-can-fly-a380-short-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b12416cb95b",
-    "title": "Romanian F-16 shoot down drone in country\u2019s airspace, Italian Eurofighters join",
-    "summary": "The President of Romania, Nicu\u0219or Dan, has confirmed that a Romanian Air Force F-16 shot down a drone&#8230; The post Romanian F-16 shoot down drone in country\u2019s airspace, Italian Eurofighters join appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-24T10:07:03Z",
-    "url": "https://www.aerotime.aero/articles/romanian-f-16-shot-down-drone-airspace-italian-eurofighters-join",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "473d86873554",
-    "title": "12.6 Million Gallons: Southwest Airlines Shipped Jet Fuel On A Boat Due To Fears Over Supply",
-    "summary": "This year has been marked by considerable volatility when it comes to fuel prices and supply levels.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T09:26:25Z",
-    "url": "https://simpleflying.com/southwest-airlines-shipped-jet-fuel-boat-fears-supply/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5f34d437cc11",
-    "title": "Faulty American Airlines Plane Allegedly Leaves Passengers \u201cStranded\u201d In St. Croix For 2 Days",
-    "summary": "One of the affected flyers has chronicled their travel nightmare on an idyllic isle.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T08:24:28Z",
-    "url": "https://simpleflying.com/faulty-american-airlines-plane-allegedly-leaves-passengers-stranded-st-croix-2-days/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4f11bf84ff3d",
-    "title": "How The A400M's Propeller Design Creates A Noise Signature No Other Military Transport Has",
-    "summary": "The hidden benefits of Airbus' unique engines on the mighty Atlas.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T08:00:11Z",
-    "url": "https://simpleflying.com/how-a400m-propeller-design-create-noise-signature-no-other-military-tranport/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f8af62a9f8a",
-    "title": "Heart Aerospace gets FAA greenlight for X1 demonstrator flight tests",
-    "summary": "On July 23, 2026, Heart Aerospace announced that it had received a Special Airworthiness Certificate in the Experimental&#8230; The post Heart Aerospace gets FAA greenlight for X1 demonstrator flight tests appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-24T07:54:24Z",
-    "url": "https://www.aerotime.aero/articles/heart-aerospace-gets-faa-greenlight-for-x1-demonstrator-flight-tests",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3290467cb31e",
-    "title": "LATAM\u2019s Chief Experience Officer discusses new cabins, lounges and A321XLRs",
-    "summary": "Not only is LATAM Airlines Group the largest airline group in South America, but it has also been&#8230; The post LATAM\u2019s Chief Experience Officer discusses new cabins, lounges and A321XLRs appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-24T07:14:15Z",
-    "url": "https://www.aerotime.aero/articles/latams-chief-experience-officer-discusses-new-cabins-lounges-and-a321xlrs",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f50a8108404b",
-    "title": "No Other Choice: United Airlines Drops 11 Routes From Chicago O\u2019Hare Due To FAA Flight Caps",
-    "summary": "Federal limits on daily flight at ORD are here to stay.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T06:48:06Z",
-    "url": "https://simpleflying.com/united-airlines-drops-11-routes-chicago-ohare-faa-flight-caps/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "145ead0a37de",
-    "title": "How Much A Boeing 747 Charter Actually Costs Per Hour In 2026",
-    "summary": "The Boeing 747 charter: A grandiose solution for unusually large groups or cargo, but is it worth the cost?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T05:00:11Z",
-    "url": "https://simpleflying.com/how-much-boeing-747-charter-actually-costs-hour-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
