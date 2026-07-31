@@ -1,5 +1,38 @@
 [
   {
+    "id": "67910d8ddd52",
+    "title": "The 4 Most Critical Air Bases In The 2026 Iran Campaign & Why They Matter",
+    "summary": "Where America's birds are based on combat deployment.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T08:00:11Z",
+    "url": "https://simpleflying.com/4-most-critical-air-bases-2026-iran-campaign-why-matter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "16aa0a95b6e3",
+    "title": "American Airlines Scraps 24-Hour Refunds On Flights Booked Under 7 Days Out",
+    "summary": "Quiet changes have removed safeguards for American Airlines flyers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T06:33:54Z",
+    "url": "https://simpleflying.com/american-airlines-24-hour-refund-policy-change/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "682fac606137",
+    "title": "Why JetBlue's Mint Studio Has Quietly Become The Sweet Spot On Transcon Routes",
+    "summary": "The carrier operates a wide variety of routes across the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T03:00:11Z",
+    "url": "https://simpleflying.com/why-jetblue-mint-studio-quietly-become-sweet-spot-transcon-routes/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "a63c45222761",
     "title": "10 Abreast In Economy: Philippine Airlines Airbus A350-1000 Flight Review",
     "summary": "I flew Philippine Airlines' A350-1000 on a long-haul flight in economy, and I probably wouldn't want to do it again.",
@@ -34,7 +67,7 @@
   },
   {
     "id": "3512e90b787c",
-    "title": "Qantas Axing Airbus A380 Flights From Major Airport: Here\u2019s the Final Date",
+    "title": "Qantas Axing Airbus A380 Flights From Major Airport: Here\u2019s The Final Date",
     "summary": "The final flight of Qantas' Airbus A380 from Melbourne to Los Angeles on October 24 marks the end of an era, as the airline opts for Boeing 787-9.",
     "source": "Simple Flying",
     "category": "industry",
@@ -50,7 +83,7 @@
     "source": "AOPA",
     "category": "pay",
     "publishedDate": "2026-07-30T21:41:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -127,7 +160,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T17:34:38Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -200,7 +233,7 @@
   {
     "id": "26ada18db337",
     "title": "FAA proposes waiving environmental rules to speed commercial space launches",
-    "summary": "The US Federal Aviation Administration (FAA) has proposed allowing the agency to waive requirements under 13 federal environmental&#8230; The post FAA proposes waiving environmental rules to speed commercial space launches appeared first on AeroTime.",
+    "summary": "A new proposal would allow the US Federal Aviation Administration (FAA) to waive requirements under 13 federal environmental&#8230; The post FAA proposes waiving environmental rules to speed commercial space launches appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-07-30T13:30:05Z",
@@ -336,7 +369,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -347,7 +380,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -413,7 +446,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T00:03:50Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -424,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:09:19Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -435,7 +468,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:08:27Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -853,7 +886,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-27T19:27:23Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2118,7 +2151,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-24T21:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/24/what-every-pilot-needs-to-know-about-leases-and-liability?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-07-24T19:00:18Z",
     "url": "https://simpleflying.com/why-southwest-airlines-new-choice-fare-tiers-creating-boarding-chaos-didnt-see-coming/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "38ffd82d93a5",
-    "title": "\u201cUnable To Fill Up Their Airplanes\u201d: United Airlines Executive Slams Delta On New LAX Route",
-    "summary": "COO Andrew Nocella aimed at Delta Air Lines' new Los Angeles to Hong Kong route, suggesting that the competitor is struggling to fill its planes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T18:50:35Z",
-    "url": "https://simpleflying.com/unable-to-fill-up-their-airplanes-united-airlines-executive-slams-delta-on-new-lax-route/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "484e47aca093",
-    "title": "Why Do Airlines Turn Off The Cabin Lights During Takeoff And Landing?",
-    "summary": "This practice ensures that passengers are better prepared during an emergency.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T18:00:16Z",
-    "url": "https://simpleflying.com/why-airlines-turn-off-cabin-lights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "579f78ded9f4",
-    "title": "American Airlines Cuts 15 Transatlantic Destinations: See All Major Flight Changes Now",
-    "summary": "You might have forgotten that American flew to these places. See where here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T17:00:11Z",
-    "url": "https://simpleflying.com/american-airlines-cuts-15-transatlantic-destinations-see-all-major-flight-changes-now/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
