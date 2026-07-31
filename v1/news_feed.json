@@ -1,5 +1,115 @@
 [
   {
+    "id": "8e05b6a2f82f",
+    "title": "Southwest Will Board Most Flights 5 Minutes Earlier Because Of More Carry-On Bags",
+    "summary": "Southwest Airlines is adjusting its boarding times, giving passengers more time to stow carry-on luggage as checked baggage fees take effect.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T19:04:27Z",
+    "url": "https://simpleflying.com/southwest-boarding-5-minutes-earlier-carry-on-bags/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "aea9e75131b5",
+    "title": "How Boeing Fixed The 787 Dreamliner's Battery Problem Without Permanently Grounding The Fleet",
+    "summary": "How Boeing fixed the 787 Dreamliner's battery crisis without finding the exact cause\u2014and why the solution has worked ever since.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T19:00:11Z",
+    "url": "https://simpleflying.com/how-boeing-fixed-787-dreamliner-battery-problem-without-permanently-grounding-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ab12a618087e",
+    "title": "United Airlines Has \"No Interest\" In Buying Ex-Emirates Pre-Built 777X Aircraft",
+    "summary": "While United has ruled out taking possession of up to 20 of these aircraft, it has left room for other airlines to step in.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T18:42:27Z",
+    "url": "https://simpleflying.com/united-airlines-no-interest-20-777x/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "296207bef53c",
+    "title": "What $700K in Income Couldn\u2019t Fix",
+    "summary": "Allworth Airline Advisors\u2019 new case study demonstrates how successful flying careers can still leave financial gaps.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-07-31T18:15:21Z",
+    "url": "https://avweb.com/sponsored/what-700k-in-income-couldnt-fix/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "93f05555945f",
+    "title": "FAA Deputy Administrator Who Led 2025 Washington DC Crash Response Resigns",
+    "summary": "FAA deputy administrator Chris Rocheleau, who oversaw the agency's response to the 2025 Washington DC midair collision, returns to the NBAA.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T18:13:55Z",
+    "url": "https://simpleflying.com/faa-deputy-administrator-2025-crash-resigns/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8e583d5eb6d6",
+    "title": "Why In The World Does American Airlines Fly The Boeing 787 And Not The Airbus A350?",
+    "summary": "The carrier has decided against operating the flagship Airbus widebody.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T17:30:11Z",
+    "url": "https://simpleflying.com/why-does-american-airlines-fly-boeing-787-and-not-airbus-a350/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "32ce47156fca",
+    "title": "Breeze Airways Launches 16 Massive New Routes From Florida: See All Flights Now",
+    "summary": "They involve nearly half of the carrier's served airports in the Sunshine State. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T17:00:11Z",
+    "url": "https://simpleflying.com/breeze-airways-launches-16-massive-new-routes-from-florida/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "8eee2bceb9e1",
+    "title": "The 72-Jet Gap Between Canada's F-35 Order & Its $19 Billion Fighter Budget",
+    "summary": "The big changes coming to Canadian air power.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T17:00:11Z",
+    "url": "https://simpleflying.com/72-jet-gap-between-canada-f-35-order-19-billion-fighter-budget/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3dc7dbf13c88",
+    "title": "NTSB: Overweight Aircraft, Severe Icing Caused Fatal Bering Air Crash",
+    "summary": "Final report on 2025 accident near Nome, Alaska, cites poor airspeed management and degraded situational awareness as key factors.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-07-31T16:29:33Z",
+    "url": "https://www.flyingmag.com/ntsb-overweight-aircraft-severe-icing-caused-fatal-bering-air-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc202df972cf",
+    "title": "FAA finalizes 100LL phaseout plan but leaves key details unresolved",
+    "summary": "The Federal Aviation Administration (FAA) has released its final plan for eliminating leaded aviation gasoline across the US,&#8230; The post FAA finalizes 100LL phaseout plan but leaves key details unresolved appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-07-31T14:50:54Z",
+    "url": "https://www.aerotime.aero/articles/faa-finalizes-100ll-phaseout-plan-but-leaves-key-details-unresolved",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "324e876cdef1",
     "title": "5 Things Passengers Don't Realize Airlines Sacrifice To Operate 18+ Hour Nonstop Flights",
     "summary": "Few nonstop flights last over 18 hours today, but where they do, airlines have to make concessions.",
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-07-25T16:00:11Z",
     "url": "https://simpleflying.com/64-miles-american-airlines-11-new-ultra-short-international-flights/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4b56e5b30321",
-    "title": "King Schools Announces Scholarships, MEI Course And Educator Cruise",
-    "summary": "The AirVenture announcements cover instructor scholarships, an expanded Part 141 curriculum and the return of Envision Flight.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-07-25T16:00:00Z",
-    "url": "https://avweb.com/news/king-schools-announces-scholarships-mei-course-and-educator-cruise/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "965997feb35e",
-    "title": "The Highest Paid Airline CEOs & What They Earn Annually",
-    "summary": "Four out of the top five work at US airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T15:00:11Z",
-    "url": "https://simpleflying.com/highest-paid-airline-ceos-what-they-earn-annually/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f2f16c4ab55f",
-    "title": "Airbus Explains Why Premium Travelers Will Drive US Domestic Aviation Through 2045",
-    "summary": "Airbus believes premium cabins, larger aircraft, and increasingly sophisticated cabin layouts will shape airline fleet decisions through 2045.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T14:00:11Z",
-    "url": "https://simpleflying.com/airbus-premium-driving-us-aviation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b120698f0e36",
-    "title": "Archer Unveils Halo Autonomous VTOL",
-    "summary": "The commercial aircraft shares its airframe and hybrid-electric powertrain with Anduril\u2019s Thunder defense variant.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-25T14:00:00Z",
-    "url": "https://avweb.com/news/archer-unveils-halo-autonomous-vtol/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6f3128e551d3",
-    "title": "When Is Flight Training Actually Tax Deductible?",
-    "summary": "FLYING Finance walks you through the basics of this common question.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-25T13:00:00Z",
-    "url": "https://www.flyingmag.com/when-is-flight-training-actually-tax-deductible/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "45903fae12ac",
-    "title": "United To Block Some A321XLR Middle Seats To Fly With 3 Flight Attendants, Not 4",
-    "summary": "United Airlines may be installing some peculiar-looking rows of seats in the new Airbus A321XLR's economy section. The extra-long-range A321neo narrowbody jets can carry more than 200 flyers in higher-density layouts, but United's XLRs that are planned to debut this summer wil...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T12:29:11Z",
-    "url": "https://simpleflying.com/video/united-to-block-some-a321xlr-middle-seats-to-fly-with-3-flight-attendants-not-4/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "344cd014a272",
-    "title": "Hartzell Expands Navigator Propeller Approval For Bonanzas",
-    "summary": "The amended STC covers additional A36, G36 and A36TC aircraft.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-25T12:00:00Z",
-    "url": "https://avweb.com/news/hartzell-expands-navigator-propeller-approval-for-bonanzas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b4688ed9ce2b",
-    "title": "Embraer backlog hits record $34.5B as E2 and C-390 orders lift demand",
-    "summary": "Embraer closed the second quarter of 2026 with a firm order backlog of $34.5 billion, the seventh consecutive&#8230; The post Embraer backlog hits record $34.5B as E2 and C-390 orders lift demand appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-25T11:15:13Z",
-    "url": "https://www.aerotime.aero/articles/embraer-record-backlog-q2-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e6d28c1ebd6",
-    "title": "15-Hour Flights: Singapore Airlines' 9 New Longest Nonstop Airbus A380 Routes [Map]",
-    "summary": "The carrier flies its superjumbos to a wide range of destinations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T11:00:11Z",
-    "url": "https://simpleflying.com/singapore-airlines-new-longest-airbus-a380-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e4b95f507c0e",
-    "title": "France rushes A400M into firefighting role over Gironde wildfire",
-    "summary": "France has carried out the first operational firefighting mission by an Airbus A400M Atlas, using the military transport&#8230; The post France rushes A400M into firefighting role over Gironde wildfire appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-25T10:40:49Z",
-    "url": "https://www.aerotime.aero/articles/france-a400m-firefighting-debut-gironde",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
