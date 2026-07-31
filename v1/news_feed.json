@@ -1,5 +1,49 @@
 [
   {
+    "id": "a63c45222761",
+    "title": "10 Abreast In Economy: Philippine Airlines Airbus A350-1000 Flight Review",
+    "summary": "I flew Philippine Airlines' A350-1000 on a long-haul flight in economy, and I probably wouldn't want to do it again.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T00:00:11Z",
+    "url": "https://simpleflying.com/flight-review-philippine-airlines-airbus-a350-1000-economy-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a8762b064680",
+    "title": "Damaged Japan Airlines A350-1000 Flies For 1st Time In 7+ Months After JFK Collision",
+    "summary": "A damaged Japan Airlines A350-1000 has flown again after seven months grounded at JFK.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T22:05:47Z",
+    "url": "https://simpleflying.com/japan-airlines-a350-1000-1st-flight-7-months-jfk/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71b1c40f1eb4",
+    "title": "Why Britain's Military Will Have Fewer Helicopters Than It Needs Starting In 2027",
+    "summary": "Britain faces a major helicopter capability gap from 2027 as Wildcat retirements outpace AW149 deliveries and drones race to fill the void.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T22:00:11Z",
+    "url": "https://simpleflying.com/why-britains-military-fewer-helicopters-needs-starting-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3512e90b787c",
+    "title": "Qantas Axing Airbus A380 Flights From Major Airport: Here\u2019s the Final Date",
+    "summary": "The final flight of Qantas' Airbus A380 from Melbourne to Los Angeles on October 24 marks the end of an era, as the airline opts for Boeing 787-9.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T21:42:43Z",
+    "url": "https://simpleflying.com/qantas-axing-a380-flights-from-major-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ae4e0e26c83c",
     "title": "Five questions: Mike McCoy",
     "summary": "Anyone convinced that aircraft ownership is only for the affluent, or that working for FBO line wages is no longer a viable plan to support flight training, ought to chat with Mike McCoy, a 31-year-old private pilot who lives in Mentor, Ohio.",
@@ -7,6 +51,61 @@
     "category": "pay",
     "publishedDate": "2026-07-30T21:41:14Z",
     "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c347410c85d6",
+    "title": "This Airline Has The World\u2019s Best Economy Class Seat In 2026",
+    "summary": "Japan Airlines was recently given the award for the best economy class seat in the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T21:30:11Z",
+    "url": "https://simpleflying.com/worlds-best-economy-seat-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8ce8df43f84f",
+    "title": "Less Than 72 Hours: 4,400 WestJet Flight Attendants On Verge Of August 2nd Strike",
+    "summary": "A potential strike at WestJet looms, with 72-hour notice given, as the airline and its cabin crew remain deadlocked over unpaid work and compensation.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-07-30T21:04:58Z",
+    "url": "https://simpleflying.com/westjet-4400-flight-attendants-strike/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "374ab955fccb",
+    "title": "NTSB Cites Airspeed, Weight in Bering Air Accident",
+    "summary": "The Caravan was operating nearly 1,000 pounds above its weight limit for flight in icing conditions before entering an aerodynamic stall.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-07-30T20:28:34Z",
+    "url": "https://avweb.com/aviation-news/ntsb-bering-air-final-report-released/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fefc0edf58ac",
+    "title": "Southwest Cancels 17 Routes From Its 5 Busiest Airports: See Where Now",
+    "summary": "Some of the cuts were very intriguing. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T20:00:11Z",
+    "url": "https://simpleflying.com/southwest-cancels-17-routes-from-its-5-busiest-airports-see-where-now/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "eb43362f934d",
+    "title": "5 Things Passengers Don't Know About How Airlines Personalize Ticket Prices",
+    "summary": "Flight tickets today are high personalized figures, but how airlines actually achieve this is something that is often misunderstood by many travelers",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-30T20:00:11Z",
+    "url": "https://simpleflying.com/5-things-passengers-dont-know-airlines-personalize-ticket-prices/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-07-24T17:00:11Z",
     "url": "https://simpleflying.com/american-airlines-cuts-15-transatlantic-destinations-see-all-major-flight-changes-now/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3560f51f5d7b",
-    "title": "These Airlines Operate Planes With The World's Quietest Widebody Cabin",
-    "summary": "Emirates, British Airways, and Singapore all operate the widebody offering by far the quietest flight possible",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T17:00:11Z",
-    "url": "https://simpleflying.com/airline-worlds-quietest-widebody-cabin/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "69edc6ef5f85",
-    "title": "FAA allows IFR clearances through ForeFlight and Garmin Pilot in new trial",
-    "summary": "The FAA is testing a new system that allows general and business aviation pilots in the US to&#8230; The post FAA allows IFR clearances through ForeFlight and Garmin Pilot in new trial appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-24T15:00:00Z",
-    "url": "https://www.aerotime.aero/articles/faa-mobile-clearance-foreflight-garmin-pilot-trial",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e66c8a85d6eb",
-    "title": "Pipistrel Unveils Voyager Trainer, Lands Launch Customer With Up to 50 Aircraft",
-    "summary": "Company says the model is intended for frequent instructor-student operations and can support training from the beginner level through more advanced phases.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-07-24T14:50:42Z",
-    "url": "https://avweb.com/aviation-news/pipistrel-voyager-aircraft-epic-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d1cdab866315",
-    "title": "11 Survive After Kenmore Air Floatplane Crashes in Washington State",
-    "summary": "All passengers and pilot accounted for following DHC-3 Otter accident in San Juan Islands.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-24T14:35:00Z",
-    "url": "https://www.flyingmag.com/11-survive-after-kenmore-air-floatplane-crashes-in-washington-state/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "721830afdfd8",
-    "title": "Why This Country Is Quietly Expanding Its Eurofighter Fleet While Also Buying More F-35s",
-    "summary": "Germany is purchasing the F-35A and the Eurofighter for two very important strategic reasons. Both will contribute to the over all security of Europe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T14:00:11Z",
-    "url": "https://simpleflying.com/why-country-quietly-expanding-eurofighter-fleet-also-buying-more-f-35s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "df1dba526c40",
-    "title": "King Schools Awards Latest Scholarships",
-    "summary": "Longtime aviation educators John and Martha King continue their support for future pilots.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-24T13:35:47Z",
-    "url": "https://www.flyingmag.com/king-schools-awards-latest-scholarships/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aba79c93df13",
-    "title": "14-Hour Flights: Tiny Airline Launches 68-Seat All-Business Heathrow Route In 2026",
-    "summary": "The flights will operate overnight in both directions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-24T13:00:11Z",
-    "url": "https://simpleflying.com/beond-revised-london-heathrow-launch/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e32470b3e5fe",
-    "title": "India\u2019s The ePlane Company showcases e200X eVTOL, signs medical services deal",
-    "summary": "The ePlane Company, the commercial brand under which Indian advanced air mobility developer Ubifly Technologies operates, has shared&#8230; The post India\u2019s The ePlane Company showcases e200X eVTOL, signs medical services deal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-24T12:56:54Z",
-    "url": "https://www.aerotime.aero/articles/indias-the-eplane-company-unveils-e200x-evtol-medical-air-transport-deal",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5c55c5cd9d72",
-    "title": "Airbus launches new UK helicopter academy to train pilots, engineers and execs",
-    "summary": "Airbus has launched a new helicopter academy in the UK, providing a hub for rotary wing technical training&#8230; The post Airbus launches new UK helicopter academy to train pilots, engineers and execs appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-24T12:53:34Z",
-    "url": "https://www.aerotime.aero/articles/airbus-helicopter-academy-uk-train-pilots-engineers",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
