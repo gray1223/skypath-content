@@ -1,5 +1,126 @@
 [
   {
+    "id": "14925fc43118",
+    "title": "800 Feet Apart: American Airlines 737 & E175 Nearly Collide At Washington Reagan",
+    "summary": "An American Airlines regional jet's mistaken acceptance of runway clearance meant for another aircraft led to a near-miss at DCA.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T00:36:55Z",
+    "url": "https://simpleflying.com/american-airlines-737-e175-near-collision-washington-reagan/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "7800fe31308d",
+    "title": "AOPA Thanks Chris Rocheleau for FAA Leadership, Congratulates Return to NBAA",
+    "summary": "WASHINGTON, July 31, 2026&mdash;The Aircraft Owners and Pilots Association (AOPA) congratulates FAA Deputy Administrator Chris Rocheleau on his return to general aviation as chief operating officer of the National Business Aviation Association.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-01T00:27:02Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1e2a423bc1ff",
+    "title": "Is It True That Most Airline Pilots Pick A Flap Setting The Manual Doesn't Actually Require?",
+    "summary": "There's no single 'correct' flap setting for every flight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T23:00:11Z",
+    "url": "https://simpleflying.com/true-most-airline-pilots-pick-flap-setting-manual-doesnt-actually-require/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "48de9727240c",
+    "title": "Why Lufthansa's Airbus A350 Premium Economy Has Quietly Become The Sweet Spot On US Routes",
+    "summary": "Lufthansa's A350 fleet features the new Allegris premium economy product and is one of the products to watch for this year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T22:00:11Z",
+    "url": "https://simpleflying.com/why-lufthansa-airbus-a350-premium-economy-quietly-become-sweet-spot-us-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "45dcb12f8a4d",
+    "title": "US Marine Corps F-35B Stealth Fighter Crashes In San Diego, Pilot Ejects Safely",
+    "summary": "A Marine pilot survived after ejecting from an F-35B that crashed near Miramar.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T21:47:27Z",
+    "url": "https://simpleflying.com/us-f35-b-stealth-fighter-crashes-pilot-ejects/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "75870195ed99",
+    "title": "Why Doesn't The World's Fastest Commercial Aircraft Have Winglets?",
+    "summary": "The Boeing 747-8's innovative raked wingtips offer a sleek, integrated solution to reduce induced drag.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T21:30:11Z",
+    "url": "https://simpleflying.com/why-worlds-fast-commerical-aircraft-has-no-winglets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cc94c1fe2e8b",
+    "title": "United Taps Houston For \u201cElevated\u201d 787-9 Expansion, Names 4 Long-Haul Destinations",
+    "summary": "Three routes will begin in October with the fourth starting in January 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T20:58:10Z",
+    "url": "https://simpleflying.com/united-houston-elevated-787-9-expansion/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "63a833813b49",
+    "title": "Air Force CCA Aircraft Move Into Early Production",
+    "summary": "The first Ohio-built Fury has left Anduril\u2019s production line as General Atomics begins manufacturing its competing FQ-42A.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-07-31T20:26:15Z",
+    "url": "https://avweb.com/aviation-news/military-aviation/air-force-cca-aircraft-early-production/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9fa18735ba5b",
+    "title": "Massive Cuts: Delta Air Lines Has Pulled 20 Long-Haul Routes From Atlanta [Map]",
+    "summary": "Delta\u2019s Atlanta long-haul map has changed dramatically, with 20 routes disappearing since 2007.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T20:19:29Z",
+    "url": "https://simpleflying.com/delta-cuts-24-long-haul-routes-from-worlds-busiest-airport/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "9fe7c3f11759",
+    "title": "93%+ Full: Southwest's 11 Busiest Routes With Seats Nearly Sold Out [Map & List]",
+    "summary": "They are all across the US, with some intriguing entries. Find them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-07-31T20:00:13Z",
+    "url": "https://simpleflying.com/93pc-full-southwests-11-busiest-routes-with-seats-nearly-sold-out/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d61d90cc7f9b",
+    "title": "F-35 Involved in Serious Accident in San Diego",
+    "summary": "Pilot was able to eject from the aircraft.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-07-31T19:24:54Z",
+    "url": "https://www.flyingmag.com/f-35-involved-in-serious-accident-in-san-diego/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8e05b6a2f82f",
     "title": "Southwest Will Board Most Flights 5 Minutes Earlier Because Of More Carry-On Bags",
     "summary": "Southwest Airlines is adjusting its boarding times, giving passengers more time to stow carry-on luggage as checked baggage fees take effect.",
@@ -2076,127 +2197,6 @@
     "publishedDate": "2026-07-25T23:00:11Z",
     "url": "https://simpleflying.com/what-airbus-a350-pilots-actually-do-autopilot-14-hour-flight/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "70075e00f85b",
-    "title": "How Airbus Solved The A380's Wing Crack Issue Before It Grounded The Fleet",
-    "summary": "The manufacturer worked alongside EASA to implement a solution under the airworthiness directive.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-07-25T22:00:11Z",
-    "url": "https://simpleflying.com/how-airbus-solve-a380-wing-crack-issue-before-grounded-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "09dc127baac5",
-    "title": "Why The Aircraft Boeing Never Built Is Now The Most Expensive Gap In Every US Airline's Network",
-    "summary": "Boeing has a meaningful gap between the 737 and 787 that the 757 is slowly failing to fill.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T21:00:11Z",
-    "url": "https://simpleflying.com/boeing-midsize-aircraft-network-gap/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "211110badf65",
-    "title": "NTSB: Controller Forgot He'd Cleared American 737 For Takeoff In June Boston Near-Miss",
-    "summary": "The narrow margin of error in the June 20 near-miss at Boston Logan highlights the pressure on US airport systems.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-07-25T20:28:10Z",
-    "url": "https://simpleflying.com/ntsb-boston-logan-near-miss-controller-forgot-takeoff-clearance/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b53356309646",
-    "title": "Delta Air Lines To Bring Back Pre-COVID Route From Raleigh\u2013Durham, But Cuts 3 Routes From JFK",
-    "summary": "As Delta Air Lines brings back a beloved route from Raleigh to Fort Myers, the airline is making a bold move by axing three routes from New York JFK.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T19:49:35Z",
-    "url": "https://simpleflying.com/delta-air-lines-bring-back-pre-covid-route-raleigh-cuts-3-routes-jfk/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "e5c1dfe529ce",
-    "title": "Ryanair & Wizz Air Among 9 Airlines Facing Gatwick Refuelling Strike Groundings",
-    "summary": "A day of travel chaos could be on the horizon for London Gatwick Airport as refuelling workers demand a 4.5% pay rise, potentially grounding planes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T19:07:51Z",
-    "url": "https://simpleflying.com/gatwick-refueling-strike-9-airlines-grounded/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "423ec5ab3929",
-    "title": "Breeze Airways Launches 17 New Destinations In Massive Expansion [Full List]",
-    "summary": "Most of this growth is domestic.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T19:00:11Z",
-    "url": "https://simpleflying.com/breeze-airways-new-destinations/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "5391c3cb5fec",
-    "title": "The US Air Force Is Quietly Shrinking Below 5,000 Aircraft For The 1st Time In Its History",
-    "summary": "Analyzing the numbers behind the USAF's fleet modernization strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T18:00:11Z",
-    "url": "https://simpleflying.com/usaf-quietly-shrinking-below-5000-aircraft-1st-time-history/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5533afd8f283",
-    "title": "General Aviation Awards\u00a0Recognizes\u00a02026 National Honorees",
-    "summary": "AirVenture recipients were selected for work in flight instruction, aircraft maintenance and pilot safety.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-25T18:00:00Z",
-    "url": "https://avweb.com/news/general-aviation-awards-recognizes-2026-national-honorees/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e55cdb4dc7d",
-    "title": "Is It True That American Airlines Accidentally Flew A Non-ETOPS Airbus A321 To Hawaii?",
-    "summary": "A closer look at an unusual incident.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T17:30:11Z",
-    "url": "https://simpleflying.com/true-american-airlines-accidentally-flew-non-etops-airbus-a321-to-hawaii/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1a598cb4f4fa",
-    "title": "The RQ-4 Global Hawk Drone Costs More Per Flight Hour To Operate Than The U-2 Spy Plane It Was Built To Replace",
-    "summary": "While the Global Hawk has proven to be more expensive over the long haul, its ISR capabilities remain essential to US military and allied commanders.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T17:00:11Z",
-    "url": "https://simpleflying.com/rq4-global-hawk-vs-u2-operating-costs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2fab3934c8d0",
-    "title": "Only 64 Miles: American Airlines' 11 New Ultra-Short International Flights [Map]",
-    "summary": "Experience the thrill of flying on some of the world's shortest international flights, from Miami to the Bahamas and beyond.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-25T16:00:11Z",
-    "url": "https://simpleflying.com/64-miles-american-airlines-11-new-ultra-short-international-flights/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
