@@ -1,5 +1,82 @@
 [
   {
+    "id": "34e3c492d9ec",
+    "title": "Why Airlines Cannot Update The 787's Core Software Without Boeing's Direct Involvement",
+    "summary": "The 787's core software is part of its FAA type certificate. When a bug appears, airlines cannot patch it themselves. Here is why.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T18:00:11Z",
+    "url": "https://simpleflying.com/why-airlines-cannot-update-787-dreamliner-core-software-without-boeing-direct-involvement/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "488f29769442",
+    "title": "The Aircraft Set To Replace Delta Air Lines' Boeing 717s",
+    "summary": "Delta's 717 fleet is soon to be retired, and the airline will be replacing the type's operations with the Airbus A220 family.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T17:30:11Z",
+    "url": "https://simpleflying.com/the-aircraft-replacing-delta-air-lines-boeing-717-fleet/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e6370375aa8a",
+    "title": "6 Delta Air Lines Hubs Are Losing Passengers Fast: Worst-Hit Airports Revealed",
+    "summary": "In contrast, only three Delta hubs saw passenger numbers grow last year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T16:00:11Z",
+    "url": "https://simpleflying.com/delta-air-lines-hubs-losing-passengers/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "169b52aa63d1",
+    "title": "Why The US Air Force Just Sent A Third Of Its B-1B Fleet To 1 British Airbase",
+    "summary": "England's RAF Fairford has been the primary strategic bomber air base used to conduct missions over Iran in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T16:00:11Z",
+    "url": "https://simpleflying.com/why-usaf-sent-third-b-1b-fleet-1-british-airbase/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "96f277e079a3",
+    "title": "What Pilots Actually Do In The 10 Minutes Before Pushback That Passengers Never See",
+    "summary": "A closer look at the procedures that go behind preparing for a flight before, during, and after pushback.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T15:00:11Z",
+    "url": "https://simpleflying.com/what-pilots-actually-do-10-minutes-before-pushback-passengers-never-see/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1f1baf92b0b9",
+    "title": "5 Lockheed Engineering Decisions That Quietly Became Standard On Modern Airliners",
+    "summary": "How Lockheed Martin has influenced the development of commercial airliners from both the aircraft and space sides of its merged business.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T14:00:11Z",
+    "url": "https://simpleflying.com/5-lockheed-engineering-decisions-quietly-became-standard-modern-airliners/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "15e33f253b7f",
+    "title": "'Very Violent Manoeuvre': British Airways Passenger Describes A320 Stall Warning Scare",
+    "summary": "The captain reportedly intervened while on approach to London Heathrow.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T13:19:30Z",
+    "url": "https://simpleflying.com/british-airways-captain-intervened-first-officer-stall/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "5ae778927de4",
     "title": "Alaska Awaits Flight Sim Pilots on MSFS2024",
     "summary": "Floatplane Pilot mission pack offers a taste of rugged bush flying adventure.",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-26T15:10:00Z",
     "url": "https://avweb.com/air-shows-events/airventure/eaa-honors-sam-graves-freedom-of-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "58515c873336",
-    "title": "Lockheed Built The Constellation's Famous Triple Tail For One Key Reason \u2014 To Fit Inside An Airline's Existing Hangars",
-    "summary": "The Constellation's triple tail was not a design choice. It was the only way to fit the aircraft inside TWA's hangars.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T14:00:11Z",
-    "url": "https://simpleflying.com/why-lockheed-constellation-had-three-vertical-stab/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "39e5084ecba0",
-    "title": "First MOSAIC-Compliant RV-12 Delivered at AirVenture",
-    "summary": "The Van\u2019s-built aircraft will join a Tennessee flight school\u2019s training fleet.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-07-26T13:05:00Z",
-    "url": "https://avweb.com/air-shows-events/airventure/first-mosaic-compliant-rv-12-delivered-at-airventure/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08e53bcd4ca2",
-    "title": "How Commercial Aircraft Tires Survive 150mph Runway Contact Under 20 Tonnes Of Weight Without Bursting",
-    "summary": "Aircraft tires go from zero to 170 mph in a fraction of a second at touchdown. Here is the engineering that keeps them from bursting.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T13:00:11Z",
-    "url": "https://simpleflying.com/how-commercial-aircraft-tires-survive-150mph-runway-contact-under-20-tonnes-of-weight-without-bursting/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "52b46c1d4dea",
-    "title": "Coming Soon: Delta Boeing 787-10s To Feature 50% Premium Seats",
-    "summary": "Delta Air Lines is preparing a premium-heavy cabin layout for the 30 Boeing 787-10 Dreamliners it ordered in January, with chief commercial officer Joe Esposito confirming on the carrier's July 10th earnings call.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T12:30:11Z",
-    "url": "https://simpleflying.com/video/coming-soon-delta-boeing-787-10s-to-feature-50-premium-seats/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "63c46e244a82",
-    "title": "Boeing Scrapped An Unused 777X Rather Than Pay The Huge Rework Costs",
-    "summary": "It was revealed recently that Boeing had quietly scrapped one of its earliest-built Boeing 777-9 airframes, dismantling a jet that had sat unflown at its Everett facility since 2019. Partially wearing the colors of Emirates, the widebody was intended to join the Middle Eastern...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T12:28:11Z",
-    "url": "https://simpleflying.com/video/boeing-scrapped-an-unused-777x-rather-than-pay-the-huge-rework-costs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6ee7b2c8a677",
-    "title": "The Reason Airlines At The Same Airport Pay Completely Different Prices For The Same Fuel On The Same Day",
-    "summary": "Fuel is a complicated variable to invoice, meaning that even under identical circumstances, two different aircraft can pay different prices.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T10:00:11Z",
-    "url": "https://simpleflying.com/why-airlines-pay-different-fuel-prices/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6df2b30b13d3",
-    "title": "FAA to require 5G-tolerant radio altimeters as FCC clears C-band auction",
-    "summary": "The Federal Aviation Administration (FAA) said it would issue a final rule on July 24, 2026, requiring all&#8230; The post FAA to require 5G-tolerant radio altimeters as FCC clears C-band auction appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-26T09:31:06Z",
-    "url": "https://www.aerotime.aero/articles/faa-to-require-5g-tolerant-radio-altimeters-as-fcc-clears-c-band-auction",
     "airlineTag": null,
     "isBreaking": false
   }
