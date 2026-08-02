@@ -1,5 +1,60 @@
 [
   {
+    "id": "1e2415d9f319",
+    "title": "5 Airlines With The World's Quietest Business Class Cabins In 2026",
+    "summary": "These carriers offer exceptional premium products.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-02T00:00:11Z",
+    "url": "https://simpleflying.com/airlines-worlds-quietest-business-class-cabins-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "681ff6cf7e76",
+    "title": "Why Southwest Airlines Can\u2019t Fly All Of Its Boeing 737 MAX 8s Over The Pacific",
+    "summary": "These jets are subject to certain operational requirements.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T21:30:11Z",
+    "url": "https://simpleflying.com/why-southwest-airlines-cant-fly-all-boeing-737-max-8s-over-pacific/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "7b649e73cbec",
+    "title": "Permanent No-Fly Zone Established Over Trump Tower, Effective Even After Leaving Office",
+    "summary": "The FAA has proposed adding a regulation to Title 14 of the Code of Federal Regulations, creating a prohibited area necessary for the president.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-08-01T21:18:20Z",
+    "url": "https://simpleflying.com/trump-tower-no-fly-zone/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "329e9b6b2d3a",
+    "title": "Vietnam's Bamboo Airways Halts Scheduled Flights Months After Reviving Boeing 787 Plans",
+    "summary": "The airline has significantly reduced its fleet, dropping five aircraft and remaining with just three, with only one plane currently operational.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T20:46:24Z",
+    "url": "https://simpleflying.com/bamboo-airways-halts-scheduled-flights-boeing-787-plans/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "42aa4161176f",
+    "title": "Congress Just Added $897 Million To Pick The Fighter Replacing The US Navy's Super Hornet",
+    "summary": "The Navy's accelerating next-gen fighter plan.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-01T20:00:11Z",
+    "url": "https://simpleflying.com/congress-added-897-millon-pick-fighter-replacing-us-navy-super-hornet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "34e3c492d9ec",
     "title": "Why Airlines Cannot Update The 787's Core Software Without Boeing's Direct Involvement",
     "summary": "The 787's core software is part of its FAA type certificate. When a bug appears, airlines cannot patch it themselves. Here is why.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-07-26T21:00:11Z",
     "url": "https://simpleflying.com/how-much-delta-air-lines-flight-attendant-actually-earns-during-30-minutes-before-door-close/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "b0a713686551",
-    "title": "9-Hour Flights: Breeze Airways' 11 Longest Airbus A220 Routes Revealed [Map]",
-    "summary": "Have you ever flown on one of these one-stop odysseys?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T19:00:11Z",
-    "url": "https://simpleflying.com/breeze-airways-longest-airbus-a220-routes/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "f81bacb3a343",
-    "title": "The World\u2019s Largest Air Forces By Number Of Pilots",
-    "summary": "Which air force has the deepest roster?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T17:30:11Z",
-    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a4d871f44312",
-    "title": "American Airlines Blames Odor As 787 Diverts To Dublin With 6 Of 9 Cabin Crew Ill",
-    "summary": "The flight from Rome to Philadelphia that made an unexpected detour to Dublin after the majority of its cabin crew reported feeling unwell.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T16:06:18Z",
-    "url": "https://simpleflying.com/american-airlines-787-odor-dublin-diversion/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8f3078ac438b",
-    "title": "Delta Air Lines Cancels 3 Routes From This Major Hub: See Affected Flights Now",
-    "summary": "Delta cancels three routes from its major hub, with the airline's decision to focus on LaGuardia for Memphis, Houston, and St. Louis services.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T16:00:11Z",
-    "url": "https://simpleflying.com/delta-cancels-3-routes-from-major-hub/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1d5f5ac2b2e7",
-    "title": "EAA Honors Rep. Sam Graves With Freedom of Flight Award",
-    "summary": "The retiring Missouri lawmaker was recognized at AirVenture for his work on FAA policy and air traffic control modernization.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-26T15:10:00Z",
-    "url": "https://avweb.com/air-shows-events/airventure/eaa-honors-sam-graves-freedom-of-flight/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
