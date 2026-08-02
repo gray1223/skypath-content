@@ -1,5 +1,49 @@
 [
   {
+    "id": "90df09d4529c",
+    "title": "13 Dead After Cessna Grand Caravan Sightseeing Flight Crashes Near Peru's Nazca Lines",
+    "summary": "Eleven foreign tourists and two Peruvian pilots lost their lives after the aircraft was engulfed in flames upon impact.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-02T13:10:58Z",
+    "url": "https://simpleflying.com/cessna-grand-caravan-crash-peru-nazca-lines-13-dead/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "05c4508359e1",
+    "title": "Qantas Airbus A350-1000ULR Flies For 43 Hours Across 2 Test Flights",
+    "summary": "Airbus and Qantas have made history by operating their longest-ever nonstop test flight with the new A350-1000ULR that will eventually be used to link eastern Australia with Europe and New York. The momentous test flight took off from Airbus's facilities at Toulouse on July 23rd.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-02T12:31:11Z",
+    "url": "https://simpleflying.com/video/qantas-airbus-a350-1000ulr-flies-for-43-hours-across-2-test-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6be249e39f5c",
+    "title": "WestJet cabin crew go on strike, more than 300 flights canceled",
+    "summary": "More than 4,400 cabin crew members have launched strike action after nearly 11 months of contract negotiations, forcing&#8230; The post WestJet cabin crew go on strike, more than 300 flights canceled appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-02T12:08:04Z",
+    "url": "https://www.aerotime.aero/articles/westjet-cabin-crew-go-on-strike-more-than-300-flights-canceled",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "210d9c984fc9",
+    "title": "22-Hour Flights: Turkish Airlines Unveils This New Ultra-Long Route [Map]",
+    "summary": "Turkish Airlines' decision to reroute its Istanbul to Sydney flights through Singapore has caught the attention of aviation enthusiasts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-02T11:00:11Z",
+    "url": "https://simpleflying.com/22-hour-flights-turkish-airlines-unveils-new-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a7dd8566c6d8",
     "title": "One Night Only: Emirates To Operate Rare Airbus A380 Flight To Jakarta Next Weekend",
     "summary": "The charter service is being deployed specifically to transport a select group of European football clubs.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-27T07:00:11Z",
     "url": "https://simpleflying.com/boeing-777-route-so-long-single-headwind-risks-fuel-stop/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a034ff884ccf",
-    "title": "Discounts Won't Fix It: Why The Boeing 777-9 Just Doesn't Fit Any US Airline's Network",
-    "summary": "US carriers could find a use for it, but they don't need the 777-9.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T01:00:11Z",
-    "url": "https://simpleflying.com/why-boeing-777-9-doesnt-fit-any-us-airline-network/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7b47c60b56d4",
-    "title": "United Airlines' Oldest Active Jet Is 35 Years Old: Here's Where It's Still Flying",
-    "summary": "The carrier's most vintage planes date back to the early 1990s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T22:00:11Z",
-    "url": "https://simpleflying.com/united-airlines-oldest-aircraft-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "67333445e678",
-    "title": "Boeing's 737 MAX 7 Is Finally Nearing FAA Approval & Southwest Airlines' Entire Next Decade Depends On It",
-    "summary": "Southwest Airlines has been waiting longer than ever for the Boeing 737 MAX 7, as its entire business model revolves around a single aircraft fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T22:00:11Z",
-    "url": "https://simpleflying.com/boeing-737-max-7-finally-nearing-faa-approval-southwest-airlines-entire-next-decade-depends/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2273418479b6",
-    "title": "United Airlines\u2019 Scott Kirby Also Approached Delta In Hopes Of A Megadeal, New Report Unveils",
-    "summary": "A new report reveals United CEO Scott Kirby approached Delta about a merger, highlighting his bold ambitions despite major antitrust hurdles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-26T21:25:10Z",
-    "url": "https://simpleflying.com/united-airlines-scott-kirby-approach-delta-megadeal/",
     "airlineTag": "United Airlines",
     "isBreaking": false
   }
