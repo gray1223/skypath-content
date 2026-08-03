@@ -1,5 +1,104 @@
 [
   {
+    "id": "c82e8a3884c4",
+    "title": "Archer Midnight Completes California City-to-City Flight",
+    "summary": "The piloted round trip connected Salinas and Monterey as Archer prepares for planned eIPP operations.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-03T13:38:38Z",
+    "url": "https://avweb.com/recent-updates/evtols-urban-mobility/archer-midnight-city-to-city-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d383fdd5ec30",
+    "title": "Bamboo Airways halts ticket sales as fleet shrinks to just three planes",
+    "summary": "Vietnam\u2019s Bamboo Airways has effectively stopped selling tickets for individual domestic flights, with its website showing \u201cno flights&#8230; The post Bamboo Airways halts ticket sales as fleet shrinks to just three planes appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-03T13:23:53Z",
+    "url": "https://www.aerotime.aero/articles/bamboo-airways-halts-ticket-sales-as-fleet-shrinks-to-just-three-planes",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0f8641d62698",
+    "title": "The F-47 Will Fly 3 Years Before Its Engine Is Ready: Here's Why That's a Problem",
+    "summary": "As Boeing develops the F-47, the Air Force is keeping the heat on the GE and Pratt competition to complete development of the next-gen engine.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T13:00:11Z",
+    "url": "https://simpleflying.com/f-47-fly-3-years-before-engine-ready-why-problem/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "74a3601a1661",
+    "title": "Boston Red Sox Strike Out With 3rd Delta Air Lines Breakdown",
+    "summary": "The latest issue delayed the team by more than five hours, taking the shine off an otherwise impressive West Coast swing results-wise.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T12:34:55Z",
+    "url": "https://simpleflying.com/boston-red-sox-delta-air-lines-breakdowns/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e3c7b8542616",
+    "title": "Hundreds Of Boeing 737 MAXs May Have Had Seats Incorrectly Installed",
+    "summary": "On Monday, July 27th, the U.S. Federal Aviation Administration (FAA) said that seats on hundreds of Boeing 737 MAX jets, registered in the U.S., may require inspections on suspicion that they were incorrectly installed and must be fixed.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T12:28:11Z",
+    "url": "https://simpleflying.com/video/hundreds-of-boeing-737-maxs-may-have-had-seats-incorrectly-installed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ee956f3d067b",
+    "title": "French Air Force chief says it cannot wait until 2033 for more Rafale jets",
+    "summary": "The Chief of Staff of the French Air and Space Force told senators that his service needs additional&#8230; The post French Air Force chief says it cannot wait until 2033 for more Rafale jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-03T11:44:47Z",
+    "url": "https://www.aerotime.aero/articles/french-air-force-rafale-f5-2033-senate-hearing",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6be086f6cf09",
+    "title": "Starlux Airlines launches first European route with Taipei-Prague flight",
+    "summary": "Starlux Airlines launched its first European route on August 1, 2026, with an inaugural flight between Taoyuan International&#8230; The post Starlux Airlines launches first European route with Taipei-Prague flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-03T11:17:48Z",
+    "url": "https://www.aerotime.aero/articles/starlux-airlines-launches-first-european-route-with-taipei-prague-flight",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "731ef40a450e",
+    "title": "Why The FAA Is Making Boeing Certify The 737 MAX 7 & MAX 10 Before The 777X",
+    "summary": "These planes will finally be coming soon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T10:30:11Z",
+    "url": "https://simpleflying.com/why-faa-making-boeing-certify-737-max-7-max-10-before-777x/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b7b0dd8295e3",
+    "title": "How The Queen Of The Skies Made A Comeback At Delta Air Lines",
+    "summary": "The story behind the 747's last hurrah in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T10:19:05Z",
+    "url": "https://simpleflying.com/how-queen-skies-comeback-delta-air-lines/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "ccb7677ffa29",
     "title": "Engineer Sacked Over 17-Minute Delay After Singapore Airlines Jet Reboot Awarded $28,000",
     "summary": "The man had also reportedly been working extra shifts at a competing maintenance company.",
@@ -435,7 +534,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-01T00:27:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +930,7 @@
     "source": "AOPA",
     "category": "pay",
     "publishedDate": "2026-07-30T21:41:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -908,7 +1007,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T17:34:38Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1216,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1227,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1194,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T00:03:50Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -1205,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:09:19Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1216,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:08:27Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1634,7 +1733,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2041,7 +2140,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-27T19:27:23Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/27/pr-flight-instructor-wins-aopa-sweepstakes-aviat-husky?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-07-27T18:02:48Z",
     "url": "https://simpleflying.com/453-boeing-737-max-face-faa-mandated-seat-inspections/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "47bab4bd23aa",
-    "title": "Why Canada May Have Already Passed The Point Of Canceling Its F-35 Order",
-    "summary": "Is it too late for Ottawa to back track on the JSF?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T18:00:11Z",
-    "url": "https://simpleflying.com/why-canada-may-already-passed-point-cancel-f-35-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f7936c1ec57",
-    "title": "Southwest Airlines Launches 6-Hour Flights On This New Route Next Week [Map]",
-    "summary": "Until last year, this route had not had nonstop flights for 21 years. Things are very different now!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T17:00:11Z",
-    "url": "https://simpleflying.com/southwest-airlines-launches-6-hour-flights-on-this-new-route-next-week/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7b4263b6b3d0",
-    "title": "Delta Air Lines Just Hit A Milestone No US Airline Has Ever Reached & Economy Passengers Quietly Paid For It",
-    "summary": "SkyMiles and Comfort Plus have driven substantial growth in premium revenue for Delta Air Lines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T17:00:11Z",
-    "url": "https://simpleflying.com/delta-hit-milestone-no-us-airline-ever-reaches-economy-passengers-quietly-paid-for-it/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "68874631e49f",
-    "title": "Autonomous, VTOL Aircraft Tech Debuts at Oshkosh, Farnborough",
-    "summary": "Merlin Labs lands AI pilot-powered Cessna, and Vertical Aerospace completes a hover-to-fixed-wing transition.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-27T16:30:00Z",
-    "url": "https://www.flyingmag.com/autonomous-vtol-aircraft-oshkosh-farnborough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2606024b4371",
-    "title": "Why Airlines Don\u2019t Want First Class Anymore",
-    "summary": "Airlines are making a surprising move that's leaving some luxury travellers in the lurch. What's behind this shift?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T15:30:11Z",
-    "url": "https://simpleflying.com/airlines-dont-want-first-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5060059feab4",
-    "title": "Why Both Pilots Stop Talking For The Final 1,000 Feet Of Every Climb & Descent",
-    "summary": "Silence is often seen as the enemy in a high-stress environment. In reality, staying quiet is written into many airline rules, learned from disaster.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T15:00:11Z",
-    "url": "https://simpleflying.com/why-both-pilots-stop-talking-final-1000-feet-climb-descent/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a322b2e0fc40",
-    "title": "AirVenture 2026 Comes To A Close",
-    "summary": "Week saw start of MOSAIC operations, first next-generation light-sport aircraft delivery and Red Arrows\u2019 Oshkosh debut.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-27T14:54:15Z",
-    "url": "https://avweb.com/air-shows-events/airventure/airventure-2026-comes-to-a-close/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "650f7311cce3",
-    "title": "Ukraine moves toward deal to build drone factory in the US",
-    "summary": "Ukraine and the United States are moving forward with plans to jointly produce Ukrainian-designed drones in the US,&#8230; The post Ukraine moves toward deal to build drone factory in the US appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-27T14:46:05Z",
-    "url": "https://www.aerotime.aero/articles/ukraine-us-drone-factory-production-deal",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "119e18e9acd2",
-    "title": "Austrian Airlines Crew Finds Stowaway In Embraer E190 Cabin Ahead Of Flight To Vienna",
-    "summary": "The unlikely discovery delayed the jet's departure by two hours.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T14:44:34Z",
-    "url": "https://simpleflying.com/austrian-airlines-embraer-e190-cabin-stowaway/",
     "airlineTag": null,
     "isBreaking": false
   }
