@@ -1,5 +1,104 @@
 [
   {
+    "id": "ccb7677ffa29",
+    "title": "Engineer Sacked Over 17-Minute Delay After Singapore Airlines Jet Reboot Awarded $28,000",
+    "summary": "The man had also reportedly been working extra shifts at a competing maintenance company.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T09:17:54Z",
+    "url": "https://simpleflying.com/engineer-sacked-singapore-airlines-reboot-17-minute-delay/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7d4ce4619504",
+    "title": "Edelweiss appoints new CEO as Bernd Bauer steps down after 12 years",
+    "summary": "Swiss leisure airline Edelweiss Air has appointed a new CEO as current leader Bernd Bauer prepares to step&#8230; The post Edelweiss appoints new CEO as Bernd Bauer steps down after 12 years appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-03T08:11:57Z",
+    "url": "https://www.aerotime.aero/articles/edelweiss-appoints-new-ceo-as-bernd-bauer-steps-down-after-12-years",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0dc1eeff14e",
+    "title": "Is It True That The Boeing 787 Dreamliner Can Serve Hot & High Airports That Limit Competing Widebodies?",
+    "summary": "The 787 can depart high-altitude airports at payloads that older widebodies cannot match. Here is how, and where the advantage has limits.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T08:00:11Z",
+    "url": "https://simpleflying.com/true-boeing-787-dreamliner-serve-hot-high-airports-limit-competing-widebodies/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e1cf3a30a3dd",
+    "title": "USAF \u2018Franken-tanker\u2019 KC-135 flies again with donor tail after Iraq collision",
+    "summary": "A US Air Force KC-135R Stratotanker that lost the upper portion of its vertical stabilizer in a mid-air collision over&#8230; The post USAF \u2018Franken-tanker\u2019 KC-135 flies again with donor tail after Iraq collision appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-03T07:56:31Z",
+    "url": "https://www.aerotime.aero/articles/usaf-franken-tanker-kc-135-flies-again-donor-tail-iraq-collision",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5a3a2cea2518",
+    "title": "American Airlines Gets Green Light For $100M Stake In Brazil's Azul",
+    "summary": "American Airlines' $100 million investment in Azul could reshape the Brazilian aviation market, but not everyone is on board with the deal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T07:27:43Z",
+    "url": "https://simpleflying.com/american-airlines-100m-stake-brazil-azul/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "34c3ca176287",
+    "title": "Only 84 Miles: American Airlines Launches New Extremely Short Route [Map]",
+    "summary": "American is resurrecting a route last flown 27 years ago with three daily flights on 65-seater regional jets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T07:13:40Z",
+    "url": "https://simpleflying.com/only-84-miles-american-launches-new-ultra-short-route/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "799a99d9640e",
+    "title": "Australia's F-35 Pipeline Is Quietly Bottlenecked By A 25-Year-Old Trainer Fleet Barely Keeping The Schoolhouse Open",
+    "summary": "The latest with Australia's fighter modernization plans.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T05:00:11Z",
+    "url": "https://simpleflying.com/australia-f-35-pipeline-quietly-bottlenecked-25-year-old-trainer-fleet-barely-keeping-schoolhouse-open/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "191c73686720",
+    "title": "The UK's 'Expanded' F-35 Fleet Won't Add A Single Jet Until The 2030s",
+    "summary": "The story behind the strategic pause in stealth fighter deliveries.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T05:00:11Z",
+    "url": "https://simpleflying.com/uk-expanded-f-35-fleet-wont-add-single-jet-2030s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d949b462bc15",
+    "title": "Authorities probe screening after Malaysia Airlines pilot\u2019s alleged drug smuggling",
+    "summary": "Malaysia\u2019s Civil Aviation Authority (CAAM) has opened a regulatory investigation into airport security procedures following the arrest of&#8230; The post Authorities probe screening after Malaysia Airlines pilot\u2019s alleged drug smuggling appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-03T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/authorities-probe-screening-after-malaysia-airlines-pilots-alleged-drug-smuggling",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f05811d2531e",
     "title": "Why The Boeing 777X\u2019s New Cabin Architecture Will Be Such A Game Changer For Airlines",
     "summary": "A look inside the next generation of widebodies.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-27T14:44:34Z",
     "url": "https://simpleflying.com/austrian-airlines-embraer-e190-cabin-stowaway/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a3ee6b20363d",
-    "title": "FAA Sets Radio Altimeter Upgrade Deadlines",
-    "summary": "The rule reaches Part 135 operators and radio-altimeter-equipped general aviation aircraft.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-27T14:19:29Z",
-    "url": "https://avweb.com/aviation-news/faa-sets-radio-altimeter-upgrade-deadlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bb2a2b0967f6",
-    "title": "Super Hornet, Eurofighter fly together as Australian, German air chiefs unite",
-    "summary": "Australia\u2019s top air force officer and his German counterpart flew together during Exercise Pitch Black 2026. Both leaders&#8230; The post Super Hornet, Eurofighter fly together as Australian, German air chiefs unite appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-27T12:58:50Z",
-    "url": "https://www.aerotime.aero/articles/super-hornet-eurofighter-fly-together-as-australian-german-air-chiefs-unite",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ea15dd3bd67c",
-    "title": "Saab wins GlobalEye order from undisclosed Middle East customer",
-    "summary": "Saab has received an order for two GlobalEye airborne early warning and control (AEW&#038;C) aircraft from an unnamed&#8230; The post Saab wins GlobalEye order from undisclosed Middle East customer appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-27T12:41:36Z",
-    "url": "https://www.aerotime.aero/articles/saab-wins-globaleye-order-from-undisclosed-middle-east-customer",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0553f7628750",
-    "title": "The New Inflight Technology That Delta Air Lines Passengers Are Raving About In 2026",
-    "summary": "The carrier offers exceptional long-haul technological capabilities.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T11:30:11Z",
-    "url": "https://simpleflying.com/new-inflight-technology-delta-air-lines-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "72eea1bdd8c3",
-    "title": "FAA says 453 Boeing 737 MAXs may require work to correct passenger seat assembly",
-    "summary": "The Federal Aviation Administration (FAA) has said that 453 Boeing 737 MAX type aircraft may require work to correct passenger seat assemblies&#8230; The post FAA says 453 Boeing 737 MAXs may require work to correct passenger seat assembly appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-27T11:07:12Z",
-    "url": "https://www.aerotime.aero/articles/faa-boeing-737-max-seats-airworthiness-directive",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51ae29fc6849",
-    "title": "Singapore Airlines Confirms Airbus A380 Flights On This Major New Route [Map]",
-    "summary": "Will the carrier finally launch regular superjumbo service to this destination? Time will tell!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T11:00:11Z",
-    "url": "https://simpleflying.com/singapore-airlines-confirms-airbus-a380-flights-on-this-major-new-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a205aab7fcd5",
-    "title": "Why A Single Airline CEO Can Block A Carrier From Joining oneworld Alliance",
-    "summary": "In the early days of aviation, there was no concept of airline alliances. Airlines built their own networks, sold tickets for their own flights, and competed largely on the destinations they could serve. That, however, has changed significantly over the past few decades. Airli...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T11:00:11Z",
-    "url": "https://simpleflying.com/video/why-a-single-airline-ceo-can-block-a-carrier-from-joining-oneworld-alliance/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aa9861e6aeb1",
-    "title": "How Much A Boeing 737 Costs Airlines Per Seat Compared To An Airbus A320",
-    "summary": "Cost per seat is the metric that reveals all. This guide looks into how this metric can truly compare the Boeing 737 and Airbus A320.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T10:00:11Z",
-    "url": "https://simpleflying.com/how-much-boeing-737-costs-airlines-per-seat-compared-airbus-a320/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "540b456d661c",
-    "title": "Japan Airlines partners with airlines, airports to prevent human trafficking",
-    "summary": "Japan Airlines (JAL) is teaming up with a group of airlines, airports, and international organizations to strengthen efforts&#8230; The post Japan Airlines partners with airlines, airports to prevent human trafficking appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-27T09:57:11Z",
-    "url": "https://www.aerotime.aero/articles/japan-airlines-partners-with-airlines-airports-to-prevent-human-trafficking",
     "airlineTag": null,
     "isBreaking": false
   }
