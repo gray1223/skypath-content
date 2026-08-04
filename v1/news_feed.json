@@ -1,5 +1,60 @@
 [
   {
+    "id": "d3edf730459f",
+    "title": "Boeing's 777-8F Backlog Just Crossed 80 Jets & The Newest Buyer Isn't Even An Airline",
+    "summary": "MSC Air Cargo's unexpected order for five Boeing 777-8 Freighters reveals a mystery customer and signals strong demand for the yet-to-fly aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T00:00:11Z",
+    "url": "https://simpleflying.com/boeing-777-8f-backlog-crossed-8-jets-newest-buyer-isnt-even-airline/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "34d8762adb50",
+    "title": "American Fights Back: Reimagined Card, Lounge Updates Take Aim At Delta & United",
+    "summary": "American\u2019s revamped Citi card and lounge overhaul sharpen its premium fight with Delta and United.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T22:07:47Z",
+    "url": "https://simpleflying.com/american-airlines-card-lounge-updates-delta-united/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "da78413e42c4",
+    "title": "Picture of the Day: August 3, 2026",
+    "summary": "Greg Koontz Airshows American Champion Super Decathlon at EAA Airventure 2026",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-03T20:45:01Z",
+    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-august-3-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "70f88e17dbfd",
+    "title": "First UK-Built Islander in Nearly 60 Years Rolls Out",
+    "summary": "The BN2B-26 will undergo ground testing before delivery to the Falkland Islands Government Air Service.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-03T20:10:56Z",
+    "url": "https://avweb.com/aviation-news/first-uk-built-islander-60-years-done/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b98855755342",
+    "title": "American Airlines Launches 4 New Nonstop International Routes: See Full List Now",
+    "summary": "They are from four hubs around the country, and contribute to nearly 400 international departures this coming winter. See more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-03T20:00:11Z",
+    "url": "https://simpleflying.com/american-airlines-launches-4-new-nonstop-international-routes/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "431b21a1d581",
     "title": "Southwest Airlines Launches These 4 New Nonstop Routes This Week [List & Map]",
     "summary": "The carrier will begin these links on August 4 and 8, with some highly intriguing additions. See them all here!",
@@ -622,7 +677,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-01T00:27:02Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1073,7 @@
     "source": "AOPA",
     "category": "pay",
     "publishedDate": "2026-07-30T21:41:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1150,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T17:34:38Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1304,7 +1359,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1315,7 +1370,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1381,7 +1436,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T00:03:50Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -1392,7 +1447,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:09:19Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1458,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:08:27Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1821,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-07-28T01:00:11Z",
     "url": "https://simpleflying.com/how-worlds-most-delivered-widebody-2026-quietly-retiring-3-legacy-aircraft-4-airlines/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d6095b4ae3be",
-    "title": "Southwest To Move Forward With Plans For Its 1st Ever Airport Lounges",
-    "summary": "Southwest's move into airline lounges could unlock premium travel options for high-spending passengers, as the airline shifts away from discounting.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T23:13:13Z",
-    "url": "https://simpleflying.com/southwest-move-forward-plans-1st-airport-lounges/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "896b28b5d0c0",
-    "title": "6 US Air Force Bases In Europe With Massive New Strategic Roles In 2026",
-    "summary": "European air bases are central to the US's ability to project air power in the Middle East, with some becoming more important after others are denied.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T23:00:11Z",
-    "url": "https://simpleflying.com/6-us-air-force-bases-in-europe-with-massive-new-strategic-roles-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a8a568b9e95f",
-    "title": "Why Delta Air Lines Doesn\u2019t Want Blended Winglets On Most Aircraft Anymore",
-    "summary": "The carrier appears to be following a similar practice to that of Southwest Airlines and others",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T21:30:11Z",
-    "url": "https://simpleflying.com/delta-air-lines-blended-winglets-no-more-why/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ea8f9f92ab08",
-    "title": "United & Delta Become Latest Airlines To Ban Humanoid Robots From All Flights",
-    "summary": "The two airlines join Southwest as the other US carrier to ban such items.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T20:57:39Z",
-    "url": "https://simpleflying.com/united-delta-latest-ban-humanoid-robots-all-flights/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6dca080714e4",
-    "title": "JetBlue's New \"BlueFirst\" First Class To Debut Late 2026: What We Know So Far",
-    "summary": "JetBlue's upcoming 'BlueFirst' first class cabin promises to elevate domestic travel, but what secrets lie within this new premium experience?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-27T20:47:32Z",
-    "url": "https://simpleflying.com/jetblue-bluefirst-first-class-debut-late-2026/",
-    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   }
 ]
