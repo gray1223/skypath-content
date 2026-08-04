@@ -1,5 +1,16 @@
 [
   {
+    "id": "06f1866d492b",
+    "title": "CAU brings Boeing CBTA to students",
+    "summary": "Becoming a pilot requires more than mastering the aircraft. California Aeronautical University&rsquo;s collaboration with Boeing helps students develop the real-world skills that contribute to safer, more confident flight operations.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-07T18:21:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/07/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f259ff41b75e",
     "title": "Training and Safety Tip: Tab as you go",
     "summary": "Increasingly, flight students rely on electronic books for ground studies, with one notable exception: the Federal Aviation Regulations/Aeronautical Information Manual, better known as the FAR/AIM, a classic printed book that is published annually, updated to reflect changes t...",
@@ -7,6 +18,149 @@
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "723aed19e1ac",
+    "title": "Elixir, Turbotech Move Turbine Trainer Toward Certification",
+    "summary": "The companies are targeting EASA and FAA approval and a 2030 entry into service.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-04T19:27:35Z",
+    "url": "https://avweb.com/aviation-news/elixir-turbotech-advance-turbine-trainer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5baf3ca31694",
+    "title": "Breeze Airways Confirms It's Pulling Out Of This Major US Airport: See Flights Now",
+    "summary": "Its the end of an era for passengers in Newark.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T19:00:11Z",
+    "url": "https://simpleflying.com/breeze-airways-cuts-charleston-newark-flights/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "385381379fef",
+    "title": "Congress Targets AAM Certification Timelines",
+    "summary": "The Aviation Innovation and Global Competitiveness Act would require the FAA to publish a certification plan and expected time ranges for advanced aircraft projects.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-04T18:47:56Z",
+    "url": "https://avweb.com/aviation-news/congress-targets-aam-certification-speed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a24a2a25e959",
+    "title": "FAA Awards $870M for Airport Infrastructure Improvements",
+    "summary": "Agency allocates grants program funding to facilities in 44 U.S. states and two territories.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-08-04T18:30:00Z",
+    "url": "https://www.flyingmag.com/faa-870m-airport-infrastructure-grants/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5b6072a500e7",
+    "title": "Marine pilot survives low-altitude ejection before F-35B crashes at Miramar",
+    "summary": "A US Marine Corps pilot survived an ejection moments before an F-35B crashed and caught fire near the&#8230; The post Marine pilot survives low-altitude ejection before F-35B crashes at Miramar appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T18:12:20Z",
+    "url": "https://www.aerotime.aero/articles/marine-pilot-ejects-f35b-crash-miramar",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9a9c8d6f38b1",
+    "title": "Why Southwest Airlines Pulled Out Of The World's Busiest Airport After Only 5 Years",
+    "summary": "The carrier has recently consolidated its capacity in the Windy City.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T18:00:11Z",
+    "url": "https://simpleflying.com/southwest-airlines-chicago-o-hare-withdrawal-analysis/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "7338be74770f",
+    "title": "The Death Of The Middle: How Airlines Are Splitting Into Premium & Ultra-Budget",
+    "summary": "Segmentation in the airline industry is reaching new heights as the traditional economy class pricing strategy proves unsustainable.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T18:00:11Z",
+    "url": "https://simpleflying.com/how-airlines-splitting-premium-ultra-budget/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "390630c34411",
+    "title": "Breeze Airways Abruptly Cancels 2nd Longest International Route: Here's Why",
+    "summary": "The carrier only started this route earlier this year, but it won't be coming back. See more here!",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-08-04T17:00:11Z",
+    "url": "https://simpleflying.com/breeze-airways-abruptly-cancels-2nd-longest-international-route-heres-why/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "ccb7677ffa29",
+    "title": "Engineer Sacked Over 17-Minute Delay After Singapore Airlines Jet Reboot Awarded $28,000",
+    "summary": "The man had also reportedly been working extra shifts at a competing maintenance company.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T15:36:47Z",
+    "url": "https://simpleflying.com/engineer-sacked-singapore-airlines-reboot-17-minute-delay/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f2eabbbaf595",
+    "title": "Former Saudia and EVA Air Boeing 747-400BCF joins Network Airline Management",
+    "summary": "A Boeing 747-400BCF that previously flew for Saudia and EVA Air has joined Network Airline Management, becoming the&#8230; The post Former Saudia and EVA Air Boeing 747-400BCF joins Network Airline Management appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T15:12:40Z",
+    "url": "https://www.aerotime.aero/articles/former-saudia-eva-air-boeing-747-400-network-airline-management",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2cfa66e54da7",
+    "title": "FAA Reviews Cannabis Fitness Standards",
+    "summary": "Existing prohibitions remain in place while the agency studies impairment and return-to-duty standards.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-04T14:58:36Z",
+    "url": "https://avweb.com/aviation-news/faa-reviews-cannabis-fitness-standards/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3df48acd6591",
+    "title": "US Air Force puts F-15EX and F-16 engine suppliers on notice",
+    "summary": "The US Air Force is preparing to open fighter engine production for the F-15EX Eagle II and F-16&#8230; The post US Air Force puts F-15EX and F-16 engine suppliers on notice appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T14:46:47Z",
+    "url": "https://www.aerotime.aero/articles/usaf-fighter-engine-recompetition-f15ex-f16",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "617a2a25cf42",
+    "title": "Carbon Cub UL Flies From Idaho to Poland",
+    "summary": "The 6,900-nautical-mile delivery included a nearly seven-hour leg from Iceland to Scotland.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-04T14:19:58Z",
+    "url": "https://avweb.com/aviation-news/carbon-cub-ul-flies-from-idaho-to-poland/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -22,6 +176,17 @@
     "isBreaking": false
   },
   {
+    "id": "150916707a73",
+    "title": "Japan Airlines unveils Tokyo DisneySea 25th anniversary-themed aircraft",
+    "summary": "Japan Airlines has unveiled a specially themed aircraft celebrating Tokyo DisneySea\u2019s 25th anniversary, with domestic flights that began&#8230; The post Japan Airlines unveils Tokyo DisneySea 25th anniversary-themed aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T13:28:32Z",
+    "url": "https://www.aerotime.aero/articles/japan-airlines-unveils-tokyo-disneysea-25th-anniversary-themed-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fa37abcb89df",
     "title": "FAA Certifies Boeing 737 MAX 7",
     "summary": "Approval clears the smallest MAX variant for commercial service after a certification program that began in 2018.",
@@ -29,6 +194,17 @@
     "category": "industry",
     "publishedDate": "2026-08-04T13:21:27Z",
     "url": "https://avweb.com/aviation-news/faa-certifies-boeing-737-max-7/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5ed89ef84e21",
+    "title": "Swiss semi-private aviation startup PeakJet completes first flight",
+    "summary": "PeakJet, a new Swiss semi-private airline, has announced that it has completed its first commercial flight between Z\u00fcrich (ZRH) and Palma de Mallorca (PMI) on August 1,&#8230; The post Swiss semi-private aviation startup PeakJet completes first flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T13:15:38Z",
+    "url": "https://www.aerotime.aero/articles/swiss-semi-private-aviation-startup-peakjet-completes-first-flight",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -140,6 +316,17 @@
     "publishedDate": "2026-08-04T09:01:22Z",
     "url": "https://www.aerotime.aero/articles/a-10-final-flight-davis-monthan-air-force-base",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5e516781d8ac",
+    "title": "First production model of Russia\u2019s MC-21-310 completes maiden flight",
+    "summary": "Russia\u2019s first production MC-21-310 aircraft has completed its maiden flight. The aircraft took off from United Aircraft Corporation (UAC)\u2019s facility in Irkutsk, Siberia on August 3, 2026,&#8230; The post First production model of Russia\u2019s MC-21-310 completes maiden flight app...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T08:38:54Z",
+    "url": "https://www.aerotime.aero/articles/first-production-model-of-russias-mc-21-310-completes-maiden-flight",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -404,17 +591,6 @@
     "publishedDate": "2026-08-03T10:19:05Z",
     "url": "https://simpleflying.com/how-queen-skies-comeback-delta-air-lines/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ccb7677ffa29",
-    "title": "Engineer Sacked Over 17-Minute Delay After Singapore Airlines Jet Reboot Awarded $28,000",
-    "summary": "The man had also reportedly been working extra shifts at a competing maintenance company.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-03T09:17:54Z",
-    "url": "https://simpleflying.com/engineer-sacked-singapore-airlines-reboot-17-minute-delay/",
-    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2021,182 +2197,6 @@
     "publishedDate": "2026-07-29T06:30:08Z",
     "url": "https://simpleflying.com/american-airlines-nationwide-ground-stop-it-outage/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8cf400767c3f",
-    "title": "How United Airlines' Lie-Flat Boeing 757 Ruled Premium Transcon & What's About To Replace It",
-    "summary": "United plans to eventually replace its premium 757 fleet with A321XLR aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T01:00:11Z",
-    "url": "https://simpleflying.com/how-united-airlines-lie-flat-boeing-757-ruled-premium-transcon-replacement/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5e30363bc91c",
-    "title": "Training and Safety Tip: Beware of thin air",
-    "summary": "With the summer months upon us, the days are longer and warmer, and it&rsquo;s a lovely time to go fly. As with each change of season, there are factors to consider during these months that affect aircraft performance. Density altitude is one of them.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2241d2e20344",
-    "title": "5 Airlines Where Premium Economy Is The Smarter Buy Than Business Class In 2026",
-    "summary": "Many airlines offer excellent premium economy fares that make it not worth the cost of upgrading to business class on some routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T23:00:11Z",
-    "url": "https://simpleflying.com/5-airlines-premium-economy-smarter-buy-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0c75316a2ae4",
-    "title": "How Much Does A Boeing 747 Engine Cost?",
-    "summary": "For many 747-400 freighters, the cost of a major engine overhaul can exceed the market value of the airframe itself.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T21:30:11Z",
-    "url": "https://simpleflying.com/how-much-does-boeing-747-engine-cost/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79bc2c17fe9a",
-    "title": "How Delta Air Lines Quietly Built A Backup Plan For Its Longest Airbus A350 Route",
-    "summary": "Why Delta Air Lines uses a lower-capacity Airbus A350 on its longest Atlanta\u2013Johannesburg flight\u2014and why fewer seats matter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T21:00:11Z",
-    "url": "https://simpleflying.com/how-delta-air-lines-quietly-built-backup-plan-longest-airbus-a350-route/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6c40f7d8eeb5",
-    "title": "Breeze Airways Has Dropped Flights To These 6 Airports [Full List]",
-    "summary": "All six airports were removed between 2022 and 2026. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T20:00:11Z",
-    "url": "https://simpleflying.com/breeze-airways-drops-flights-to-these-6-airports/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "5f71721f64ee",
-    "title": "The Airline Known To Have The World's Most Comfortable Premium Economy Seat",
-    "summary": "What Emirates has done to differentiate premium economy from the competition.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T20:00:11Z",
-    "url": "https://simpleflying.com/airline-known-have-worlds-most-comfortable-premium-economy-seat/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "367e55ee5b76",
-    "title": "Merlin, IAI Explore Autonomy for Cargo Aircraft",
-    "summary": "The memorandum covers joint development, integration and certification work for Part 25 freighters.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-28T19:54:25Z",
-    "url": "https://avweb.com/aviation-news/merlin-iai-autonomy-for-cargo-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fb1e9b364610",
-    "title": "How The McDonnell Douglas MD-80 Outlasted The Jet Built To Replace It",
-    "summary": "The MD-90 was built to replace the MD-80. Instead, the older jet outlasted it. Here's why fleet size mattered more than technology.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T19:00:11Z",
-    "url": "https://simpleflying.com/how-mcdonnell-douglas-md-80-outlast-jet-replace/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30fa3da9917e",
-    "title": "American Airlines\u2019 Legendary Mechanic Passes Away At 100 After Record-Breaking 80-Year Career",
-    "summary": "American Airlines legend Al Blackman has died aged 100 after an unmatched 80-year career, leaving behind a remarkable aviation maintenance legacy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T18:58:09Z",
-    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ad6052cf248c",
-    "title": "Delta CRJ-900 & Frontier A320 Collide During Pushback At Charlotte Airport",
-    "summary": "Delta CRJ-900 and Frontier A320neo collided during pushback at Charlotte Airport, cancelling both flights and prompting an investigation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T17:31:17Z",
-    "url": "https://simpleflying.com/delta-crj-900-frontier-a320-collide-pushback-charlotte-airport/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6f6a33f70f57",
-    "title": "Why Did Emirates Order The Boeing 777X And Not More Airbus A350s?",
-    "summary": "A closer look at Emirates' fleet strategy and how it differs from other airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T17:30:11Z",
-    "url": "https://simpleflying.com/why-did-emirates-order-more-boeing-777x/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "70b8f769ef70",
-    "title": "American Airlines Launches 2 New International Routes From This Major Hub Next Week",
-    "summary": "The carrier will now have a record number of routes from New York to Canada, but things are not quite as they seem. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T17:00:11Z",
-    "url": "https://simpleflying.com/american-airlines-launches-2-new-international-routes-from-this-major-hub-next-week/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ef479bc02c41",
-    "title": "What The 4-Digit Code Every Commercial Aircraft Broadcasts Actually Tells Air Traffic Control",
-    "summary": "Every commercial flight has a squawk code. Learn why there are only 4,096 codes, what 7500, 7600, and 7700 mean, and how ATC uses them.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T17:00:11Z",
-    "url": "https://simpleflying.com/what-commercial-aircraft-transponder-codes-mean/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "846b1a8a88b9",
-    "title": "Restoring Right Stuff Can Build Student Pilot Confidence",
-    "summary": "Flight instructors can identify self-doubt and use targeted techniques to get learners back on track.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-28T17:00:00Z",
-    "url": "https://www.flyingmag.com/restoring-right-stuff-can-build-student-pilot-confidence/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "02661d48fcf0",
-    "title": "MTSU Takes Delivery of Its 41st Diamond Aircraft",
-    "summary": "Middle Tennessee State University\u2019s two-decade partnership with Diamond Aircraft reaches a new benchmark at EAA AirVenture.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-28T16:58:54Z",
-    "url": "https://www.flyingmag.com/mtsu-takes-delivery-of-its-41st-diamond-aircraft/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
