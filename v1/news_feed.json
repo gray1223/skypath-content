@@ -1,5 +1,27 @@
 [
   {
+    "id": "09994c906c88",
+    "title": "Spooky: United Flight Reports \"Severe Electrical Disturbance,\" Then TCAS Alert Over Denver",
+    "summary": "Inexplicable interference drowns the radios of an unlucky flight into Denver.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T07:19:55Z",
+    "url": "https://simpleflying.com/united-flight-electrical-disturbance-tcas-alert-denver/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e5ef55923972",
+    "title": "American Airlines Finally Has A Permanent Heathrow Caterer After 5 Months Of Stopgaps",
+    "summary": "As DO & CO takes the reins as American Airlines' permanent caterer at Heathrow, passengers can expect a full menu restoration.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T07:03:19Z",
+    "url": "https://simpleflying.com/american-airlines-permanent-heathrow-catering-contract/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "d3edf730459f",
     "title": "Boeing's 777-8F Backlog Just Crossed 80 Jets & The Newest Buyer Isn't Even An Airline",
     "summary": "MSC Air Cargo's unexpected order for five Boeing 777-8 Freighters reveals a mystery customer and signals strong demand for the yet-to-fly aircraft.",
@@ -677,7 +699,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-01T00:27:02Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1073,7 +1095,7 @@
     "source": "AOPA",
     "category": "pay",
     "publishedDate": "2026-07-30T21:41:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1150,7 +1172,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T17:34:38Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1359,7 +1381,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1392,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1436,7 +1458,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T00:03:50Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -1447,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:09:19Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1458,7 +1480,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:08:27Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1876,7 +1898,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-28T23:46:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/july/28/training-and-safety-tip-beware-of-thin-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-28T08:07:07Z",
     "url": "https://simpleflying.com/virgin-atlantic-boeing-787-heathrow-engineer-death/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a9201b3eb531",
-    "title": "5 Small US Airports Quietly Spending Big-Hub Money To Become Regional Powerhouses",
-    "summary": "These airports are making heavy investments in their infrastructure over the next few years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T08:00:11Z",
-    "url": "https://simpleflying.com/5-small-us-airports-quietly-spending-big-hub-money-to-become-regional-powerhouses/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "946121177cdc",
-    "title": "How The World's Most-Delivered Widebody Of 2026 Is Quietly Retiring 3 Legacy Aircraft At 4 Airlines",
-    "summary": "The Boeing 787-9 is leading 2026 widebody deliveries, and its arrival is accelerating the retirement of three older aircraft types.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-28T01:00:11Z",
-    "url": "https://simpleflying.com/how-worlds-most-delivered-widebody-2026-quietly-retiring-3-legacy-aircraft-4-airlines/",
     "airlineTag": null,
     "isBreaking": false
   }
