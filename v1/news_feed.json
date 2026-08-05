@@ -6,7 +6,128 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-07T18:21:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/07/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/07/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0bdad0b9f0f",
+    "title": "Report: B-52 Modernization Program Faces Key Hurdles",
+    "summary": "Efforts to keep the U.S. Air Force bombers flying into the 2050s are running into cost and schedule concerns.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-05T14:00:00Z",
+    "url": "https://www.flyingmag.com/gao-report-boeing-b52-bomber-modernization/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c4c07bfd1f49",
+    "title": "FAA Investigates Marine One Separation Near DCA",
+    "summary": "Flights continued at Reagan National during the presidential helicopter\u2019s departure from Washington.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-05T13:57:23Z",
+    "url": "https://avweb.com/aviation-news/faa-investigates-marine-one-dca-incident/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a5af2c9bf2be",
+    "title": "Qatar Airways' US Capacity Drops More Than 10% Year-On-Year: See All Flights Now [Map]",
+    "summary": "It isn't all bad news, as the carrier did also launch a new route to the US earlier this month.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-05T13:09:19Z",
+    "url": "https://simpleflying.com/qatar-airways-us-capacity-cuts/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a36af4386010",
+    "title": "How to Request a Transition Through Class D Airspace",
+    "summary": "Is control tower avoidance a flight school tradition or a legitimate rule?",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-08-05T13:00:00Z",
+    "url": "https://www.flyingmag.com/how-to-request-a-transition-through-class-d-airspace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a50bc9b01e16",
+    "title": "All A220s Grounded By Pratt & Whitney Issues Will Fly Again By Year's End, Airbus Says",
+    "summary": "Airbus has stated that the technical issues that grounded many A220s have now \"largely been resolved,\" and that affected aircraft should be in the air before year-end. It\u2019s said that the Pratt & Whitney engine problems are currently affecting just 3% of the global fleet of air...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-05T12:33:11Z",
+    "url": "https://simpleflying.com/video/all-a220s-grounded-by-pratt-whitney-issues-will-fly-again-by-year-s-end-airbus-says/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e29f53146e4c",
+    "title": "APAC airlines see June 2026 passenger figures dip; cargo demand stays resilient",
+    "summary": "Asia Pacific airlines carried 30.5 million international passengers in June 2026, a 1.1% year-over-year decline, even as the&#8230; The post APAC airlines see June 2026 passenger figures dip; cargo demand stays resilient appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-05T12:26:54Z",
+    "url": "https://www.aerotime.aero/articles/apac-airlines-see-june-2026-passenger-figures-dip-cargo-demand-stays-resilient",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e7ddf63b6731",
+    "title": "Chart Wise: Rangeley Lake Seaplane Base (M57) RNAV (GPS)-C",
+    "summary": "IFR procedure mandates turn at FAF and requires human altimeter reading for Maine landing.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-05T12:00:00Z",
+    "url": "https://www.flyingmag.com/chart-wise-rangeley-lake-seaplane-base-m57-rnav-gps-c/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a95ca54b328e",
+    "title": "How Pilots Land A Widebody In Near-Zero Visibility Using Autoland",
+    "summary": "Radio signals, redundant systems, and calculated procedures ensure aircraft can land safely in adverse conditions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-05T11:00:11Z",
+    "url": "https://simpleflying.com/how-pilots-land-widebody-near-zero-visibility-autoland/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7bc9917850ec",
+    "title": "FAA examines Marine One safety incident involving Trump take off: WSJ",
+    "summary": "The Federal Aviation Administration (FAA) is investigating a safety incident involving a Marine One helicopter carrying US President&#8230; The post FAA examines Marine One safety incident involving Trump take off: WSJ appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-05T10:40:54Z",
+    "url": "https://www.aerotime.aero/articles/faa-examines-marine-one-safety-incident-involving-trump-take-off-wsj",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4ac9a2962f3d",
+    "title": "FAA Probes Loss Of Separation After Marine One & Envoy Air Jet Took Off 1 Minute Apart",
+    "summary": "Concerns remain over the crowded skies of Washington DC and the risks of close calls in busy airspace.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-05T09:12:39Z",
+    "url": "https://simpleflying.com/faa-marine-one-envoy-air-loss-of-separation-reagan-national/",
+    "airlineTag": "Envoy Air",
+    "isBreaking": false
+  },
+  {
+    "id": "0df58cbd04e0",
+    "title": "A Look At The Salaries Of US Navy Fighter Jet Pilots In 2026",
+    "summary": "What it pays to strap into a Navy strike fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-05T08:48:43Z",
+    "url": "https://simpleflying.com/us-navy-fighter-jet-pilots-salaries-2026/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -61,7 +182,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1238,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-01T00:27:02Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/31/pr-aopa-thanks-chris-rocheleau-for-faa-leadership-congratulates-return-to-nbaa?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1513,7 +1634,7 @@
     "source": "AOPA",
     "category": "pay",
     "publishedDate": "2026-07-30T21:41:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/five-questions-mike-mccoy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1590,7 +1711,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T17:34:38Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/faa-enables-atc-clearance-via-efbs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1920,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1810,7 +1931,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1876,7 +1997,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-30T00:03:50Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/lightspeed-aviation-develops-custom-anr-profile?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -1887,7 +2008,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:09:19Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/unleaded-fuel-takes-center-stage-at-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1898,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-07-29T23:08:27Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/29/tecnam-teases-rivale?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2075,127 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-29T16:00:00Z",
     "url": "https://www.flyingmag.com/joint-base-charleston-rename-lindsey-graham/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "da066442f17d",
-    "title": "Pilot Fatally Injured In Arizona Accident",
-    "summary": "Aircraft came to rest beyond the departure end of the runway at Chandler Municipal Airport.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-07-29T14:50:01Z",
-    "url": "https://avweb.com/flight-safety/accidents-ntsb/pilot-fatally-injured-in-arizona-accident/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c20adf30da37",
-    "title": "FAA Probes Close Call After Two Delta Jets Cross Paths In Atlanta",
-    "summary": "One of the flights involved had already been delayed by an earlier diversion before having to go around.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T14:34:05Z",
-    "url": "https://simpleflying.com/delta-air-lines-atlanta-near-miss/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "74ae098b6645",
-    "title": "US-Bangla Airlines\u2019 fleet set to surge with addition of 21 new Boeing aircraft",
-    "summary": "Bangladesh\u2019s US-Bangla Airlines will acquire 21 new Boeing aircraft as part of a major fleet expansion unveiled at&#8230; The post US-Bangla Airlines\u2019 fleet set to surge with addition of 21 new Boeing aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T14:12:07Z",
-    "url": "https://www.aerotime.aero/articles/us-bangla-airlines-fleet-lease-boeing-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ae476aeacf47",
-    "title": "FAA Proposes Streamlining Commercial Space Licensing",
-    "summary": "The FAA is proposing changes to streamline commercial space licensing and reduce regulatory delays as the U.S. commercial space industry continues to grow.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-29T14:05:25Z",
-    "url": "https://avweb.com/aviation-news/faa-streamlines-commercial-space-licensing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a742dd9f205",
-    "title": "Volotea opens new base in Ancona, posts profit increase",
-    "summary": "On July 28, 2026, Pan-European regional low-cost carrier Volotea announced that it will open a new base at&#8230; The post Volotea opens new base in Ancona, posts profit increase appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T14:04:36Z",
-    "url": "https://www.aerotime.aero/articles/volotea-opens-new-base-in-ancona-posts-profit-increase",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "155f6127949e",
-    "title": "Heart Aerospace Aims to Field Hybrid-Electric ES-30 by 2031",
-    "summary": "Company\u2019s recent FAA special airworthiness certification permits X1 demonstrator flight testing \u2018immediately.\u2019",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-29T14:00:00Z",
-    "url": "https://www.flyingmag.com/heart-aerospace-hybrid-electric-es30-2031/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "525e20c2ddfc",
-    "title": "ATP Flight School Slashes Check Ride Wait Times",
-    "summary": "Proprietary software and expanded fleet enable near-immediate testing availability for pilot trainees.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-07-29T13:00:00Z",
-    "url": "https://www.flyingmag.com/atp-flight-school-slashes-check-ride-wait-times/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a9d5150aff91",
-    "title": "Nonprofit watchdog releases TSA-ICE agreement amid airport arrests scrutiny",
-    "summary": "A nonprofit government watchdog organization, American Oversight, reported on July 29, 2026, that it had obtained and released&#8230; The post Nonprofit watchdog releases TSA-ICE agreement amid airport arrests scrutiny appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T12:58:16Z",
-    "url": "https://www.aerotime.aero/articles/nonprofit-watchdog-releases-tsa-ice-agreement-amid-airport-arrests-scrutiny",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30fb71ddf13e",
-    "title": "ANA increases Embraer order to include eight additional E190-E2 aircraft",
-    "summary": "All Nippon Airways (ANA) has increased its current order with Embraer to include eight additional E190-E2 aircraft in&#8230; The post ANA increases Embraer order to include eight additional E190-E2 aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T12:45:52Z",
-    "url": "https://www.aerotime.aero/articles/ana-embraer-order-eight-additional-embraer-e190-e2-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "570fc1e336e2",
-    "title": "2 Defective Boeing 737 MAX 8s To Be Scrapped After Barely 6 Months In Service",
-    "summary": "In another case of quality control issues with the Boeing 737 MAX series, two MAX 8s that only began service with Brazilian airline GOL Linhas A\u00e9reas six months ago are already expected to be parted out.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T12:27:11Z",
-    "url": "https://simpleflying.com/video/2-defective-boeing-737-max-8s-to-be-scrapped-after-barely-6-months-in-service/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f3b0552ca6a4",
-    "title": "LATAM Airlines unveils cabin interiors for new E195 E2 fleet",
-    "summary": "On July 28, 2026, LATAM Airlines unveiled the cabin interiors for its new Embraer E195 E2 fleet, expected&#8230; The post LATAM Airlines unveils cabin interiors for new E195 E2 fleet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T12:18:31Z",
-    "url": "https://www.aerotime.aero/articles/latam-airlines-unveils-cabin-interiors-for-new-e195-e2-fleet",
     "airlineTag": null,
     "isBreaking": false
   }
