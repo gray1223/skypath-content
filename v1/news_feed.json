@@ -11,6 +11,17 @@
     "isBreaking": false
   },
   {
+    "id": "a7cccfe34974",
+    "title": "FAA awards $870M for airport infrastructure projects across US",
+    "summary": "The Federal Aviation Administration (FAA) has awarded $870 million for airport infrastructure projects across the United States, spanning&#8230; The post FAA awards $870M for airport infrastructure projects across US appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-05T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/faa-awards-870-million-us-airport-infrastructure",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "f259ff41b75e",
     "title": "Training and Safety Tip: Tab as you go",
     "summary": "Increasingly, flight students rely on electronic books for ground studies, with one notable exception: the Federal Aviation Regulations/Aeronautical Information Manual, better known as the FAR/AIM, a classic printed book that is published annually, updated to reflect changes t...",
@@ -18,6 +29,61 @@
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6dad33438783",
+    "title": "The World\u2019s Largest Air Forces By Number Of F-35s",
+    "summary": "A closer look at some of the leading F-35 armadas around the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T21:30:11Z",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-of-f-35s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "257818f6c72b",
+    "title": "How Airlines Actually Decide Which Routes To Cut Each Season",
+    "summary": "Airlines consider several factors before deciding whether a route should remain in their network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T21:00:11Z",
+    "url": "https://simpleflying.com/how-airlines-decide-routes-cut-each-season/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1a02542d8f64",
+    "title": "Itochu to acquire 50% of aircraft lessor ACG in $1.95B deal",
+    "summary": "Japanese trading company Itochu plans to pay $1.95 billion for a 50% stake in Aviation Capital Group, one of the&#8230; The post Itochu to acquire 50% of aircraft lessor ACG in $1.95B deal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-04T20:59:08Z",
+    "url": "https://www.aerotime.aero/articles/itochu-buy-50-percent-aircraft-lessor-acg",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ab357b9c827d",
+    "title": "\u201cPotentially Catastrophic\u201d: Major Pilots Union Issues Urgent Warning On Airbus Engine Shutdowns",
+    "summary": "BALPA warns a hidden cockpit defect could trigger unexpected engine shutdowns across multiple Airbus aircraft families.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T20:45:32Z",
+    "url": "https://simpleflying.com/catastrophic-pilots-union-engine-shutdown-warning/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f7850ba7b4ce",
+    "title": "How Long-Haul Pilots Actually Sleep At 38,000 Feet On An 11-Hour International Flight",
+    "summary": "Augmented crews with more than two pilots are necessary for flights where rest is essential.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-04T20:00:11Z",
+    "url": "https://simpleflying.com/how-long-haul-pilots-actually-sleep-38000-feet-11-hour-international-flight/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-07-29T11:00:11Z",
     "url": "https://simpleflying.com/video/the-hidden-problem-with-boeing-s-787-747-8-737-max-engines/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "60f1458f7059",
-    "title": "London Nonstop: This Tiny Airline Launches New 11-Hour Long-Haul Flights [Map]",
-    "summary": "London Gatwick Airport's expanding African network soars to new heights with the launch of Air Zimbabwe's nonstop flights to Harare.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T10:09:01Z",
-    "url": "https://simpleflying.com/london-nonstop-tiny-airline-launches-new-11-hour-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "72b3c64b735e",
-    "title": "Philippine Airlines welcomes third Airbus A350-1000 aircraft",
-    "summary": "Philippine Airlines (PAL) has taken delivery of its third Airbus A350-1000 as the carrier continues building out its&#8230; The post Philippine Airlines welcomes third Airbus A350-1000 aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T09:25:18Z",
-    "url": "https://www.aerotime.aero/articles/philippine-airlines-welcomes-third-airbus-a350-1000-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "60daa556f430",
-    "title": "COMAC\u2019s new compact C919 variant completes first test flight in Shanghai",
-    "summary": "Commercial Aircraft Corporation of China (COMAC) has completed the maiden test flight of its new compact C919 aircraft&#8230; The post COMAC\u2019s new compact C919 variant completes first test flight in Shanghai appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-29T08:32:00Z",
-    "url": "https://www.aerotime.aero/articles/comac-c919-600-aircraft-variant-test-flight-shanghai",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8187621840f7",
-    "title": "How Qatar Airways Turned Retired Widebodies Into A Backup Fleet To Cover Its Grounded Airbus A350s",
-    "summary": "In times of fleet groundings, few options are left available. Qatar Airways turned to its 'past mistakes' and proved that having a backup is vital.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T08:00:11Z",
-    "url": "https://simpleflying.com/how-qatar-airways-turned-retired-widebodies-backup-fleet-cover-grounded-airbus-a350s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "84460f97008f",
-    "title": "Singapore Airlines Posts First Quarterly Loss Since 2022 As Fuel Bill Jumps $767 Million",
-    "summary": "Singapore's flag carrier faces headwinds despite strong performance.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T07:13:13Z",
-    "url": "https://simpleflying.com/singapore-airlines-first-quarterly-loss-since-2022-fuel-costs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fca7bc9f3d25",
-    "title": "American Airlines Briefly Grounds Every Flight After Nationwide IT Outage",
-    "summary": "The entire fleet was grounded as a technology failure hit during the peak evening rush hour.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-29T06:30:08Z",
-    "url": "https://simpleflying.com/american-airlines-nationwide-ground-stop-it-outage/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
