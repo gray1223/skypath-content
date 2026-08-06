@@ -11,6 +11,39 @@
     "isBreaking": false
   },
   {
+    "id": "854374c8f011",
+    "title": "Delta Discounts First-Ever Saudi Arabia Route Amid 'Softer Than Anticipated' Bookings",
+    "summary": "The airline has confirmed an October launch date for its Atlanta-Riyadh service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-06T08:04:48Z",
+    "url": "https://simpleflying.com/delta-saudi-arabia-atlanta-riyadh-discount-softer-bookings/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "fb5c23213649",
+    "title": "Why The Ilyushin Il-96 Is Making An Unexpected Comeback",
+    "summary": "The Il-96 is set to survive in Russian government service, but it is not set to make a comeback into commercial passenger service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-06T05:00:11Z",
+    "url": "https://simpleflying.com/why-the-ilyushin-il-96-is-making-an-unexpected-comeback/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ebdc78692499",
+    "title": "DHL Cargo Jet Collides With Unidentified Object After Bomb Drone Alert At German Airport",
+    "summary": "An explosive-laden drone forced a DHL freighter into a go-around and mid-air collision.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-06T04:19:20Z",
+    "url": "https://simpleflying.com/dhl-cargo-jet-collides-unidentified-object-bomb-drone/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fa9b53b8cafd",
     "title": "From memory to mastery",
     "summary": "Every year, thousands of aspiring pilots walk away from pursuing a private pilot certificate. At the same time, NTSB data shows fatal in-flight loss-of-control accidents continue to claim more lives than the next eight fatal accident categories combined. According to CFI Rich ...",
@@ -277,7 +310,7 @@
   {
     "id": "74730add26bf",
     "title": "National Airlines completes nonstop B777F flight between Scotland and Australia",
-    "summary": "National Airlines has completed what appears to be the longest B777F flight ever to have been operated on&#8230; The post National Airlines completes nonstop B777F flight between Scotland and Australia appeared first on AeroTime.",
+    "summary": "This article was updated on August 6, 2026, to reflect comments to AeroTime by a National Airlines spokesperson.&#8230; The post National Airlines completes nonstop B777F flight between Scotland and Australia appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-08-05T13:34:17Z",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-07-30T08:00:11Z",
     "url": "https://simpleflying.com/why-qantas-gave-up-162-seats-airbus-a350-1000ulr-charge-20-percent-more-london/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "47e803c14c0b",
-    "title": "Two-seat trainers cleared for IMC",
-    "summary": "Sling Aircraft North America and Van's Aircraft are both ready to deliver long-serving two-seat trainers that are now available for training flight school students in instrument meteorological conditions with the arrival of FAR Part 22.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/two-seat-trainers-cleared-for-imc?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f8f84a124a34",
-    "title": "Denver pilots fight hangar rent hike in court",
-    "summary": "A legal fight unfolding in Colorado stands to either make it easier or more difficult for FBOs around the country to charge egregious hangar rents in apparent defiance of FAA policy, and Denver pilots are seeking donations to sustain their effort to stop the practice from spre...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-07-30T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/july/30/denver-pilots-fight-hangar-rent-hike-in-court?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "22f3a25b5653",
-    "title": "Poland scrambles F-16 after unidentified object crashes in Lublin region",
-    "summary": "A Polish Air Force F-16 was scrambled in the early hours of July 30, 2026, after radar detected&#8230; The post Poland scrambles F-16 after unidentified object crashes in Lublin region appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-07-30T07:49:15Z",
-    "url": "https://www.aerotime.aero/articles/poland-f16-unidentified-object-lublin",
     "airlineTag": null,
     "isBreaking": false
   }
