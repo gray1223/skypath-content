@@ -1,5 +1,38 @@
 [
   {
+    "id": "af5747ff57db",
+    "title": "Coulson buys 10 former RCAF C-130 Hercules aircraft for firefighting fleet",
+    "summary": "Coulson Aviation Canada has acquired 10 former Royal Canadian Air Force (RCAF) CC-130H Hercules aircraft that it plans&#8230; The post Coulson buys 10 former RCAF C-130 Hercules aircraft for firefighting fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-07T18:53:54Z",
+    "url": "https://www.aerotime.aero/articles/coulson-buys-10-rcaf-c-130-hercules-firefighting",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8482630ea296",
+    "title": "Man Facing Felony Charges After Sneaking Onto JetBlue Plane, Causes $2,400 Flight Delay",
+    "summary": "Security footage shows a lone figure roaming service roads before using portable stairs to enter the parked Airbus.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-07T18:53:14Z",
+    "url": "https://simpleflying.com/man-felony-charges-sneaking-jetblue-plane-2400-flight-delay/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "7e41fceafd46",
+    "title": "Solairus Could Manage Over 500 Private Jets After Clay Lacy Deal",
+    "summary": "Agreement to buy Clay Lacy\u2019s management and charter businesses would expand its controlled fleet.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-07T18:30:00Z",
+    "url": "https://www.flyingmag.com/solairus-clay-lacy-500-managed-private-jets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "06f1866d492b",
     "title": "CAU brings Boeing CBTA to students",
     "summary": "Becoming a pilot requires more than mastering the aircraft. California Aeronautical University&rsquo;s collaboration with Boeing helps students develop the real-world skills that contribute to safer, more confident flight operations.",
@@ -7,6 +40,94 @@
     "category": "training",
     "publishedDate": "2026-08-07T18:21:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/august/07/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8336af904b73",
+    "title": "This 1978 Bellanca 8KCAB Decathlon Is a Tactile, Aerobatic \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Traditional rag-and-tube taildragger with modern flair appeals to a range of pilots.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-07T17:00:00Z",
+    "url": "https://www.flyingmag.com/this-1978-bellanca-8kcab-decathlon-is-a-tactile-aerobatic-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "68dad4f4862c",
+    "title": "US lifts sanctions on Fly Baghdad after two years on terrorism blacklist",
+    "summary": "The US Treasury Department has lifted sanctions on Iraqi airline Fly Baghdad and two of its Boeing 737s,&#8230; The post US lifts sanctions on Fly Baghdad after two years on terrorism blacklist appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-07T16:18:38Z",
+    "url": "https://www.aerotime.aero/articles/us-lifts-sanctions-fly-baghdad-terrorism-blacklist",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8e75908492b8",
+    "title": "Pilot Groups Press FAA On Aircraft Registry Data",
+    "summary": "Aviation organizations want the agency to restrict broad distribution of personal information tied to aircraft registrations.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-07T15:41:03Z",
+    "url": "https://avweb.com/aviation-news/pilot-groups-press-faa-aircraft-registry/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7d1aafc76399",
+    "title": "FAA Eases SFO Landing Ban After 41% Of Flights Delayed",
+    "summary": "After months of severe delays, the FAA is easing restrictions on SFO parallel landings.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-07T15:38:04Z",
+    "url": "https://simpleflying.com/faa-eases-sfo-landing-ban-41-percent-flights-delayed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "883b7d3f592b",
+    "title": "U.S. Pilot Arrested in Malawi",
+    "summary": "Authorities have not said publicly which procedures were allegedly violated.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-07T14:18:50Z",
+    "url": "https://avweb.com/aviation-news/us-pilot-arrested-in-malawi/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b368fe24426f",
+    "title": "New FAA directive requires checks on 471 Boeing 737 MAX jets",
+    "summary": "The US Federal Aviation Administration (FAA) has issued a new airworthiness directive (AD) requiring inspection of 471 Boeing&#8230; The post New FAA directive requires checks on 471 Boeing 737 MAX jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "regulatory",
+    "publishedDate": "2026-08-07T13:40:29Z",
+    "url": "https://www.aerotime.aero/articles/new-faa-airworthiness-directive-requires-checks-boeing-737-max-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "90b51cb0eb84",
+    "title": "Ampaire starts hybrid-electric tests in Utah as part of the eIPP program",
+    "summary": "On August 6, 2026, Ampaire, a startup developing hybrid-electric regional aircraft, announced that it had started its participation&#8230; The post Ampaire starts hybrid-electric tests in Utah as part of the eIPP program appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-07T12:51:00Z",
+    "url": "https://www.aerotime.aero/articles/ampaire-starts-hybrid-electric-tests-in-utah-as-part-of-the-eipp-program",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4ab1268a667c",
+    "title": "Indian Air Force\u2019s Rafale makes historic debut at Exercise Pitch Black 26",
+    "summary": "The Indian Air Force\u2019s (IAF) Rafale fighter jet has made its debut appearance at Exercise Pitch Black 26,&#8230; The post Indian Air Force\u2019s Rafale makes historic debut at Exercise Pitch Black 26 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-07T12:47:59Z",
+    "url": "https://www.aerotime.aero/articles/indian-air-forces-rafale-makes-historic-debut-at-exercise-pitch-black-26",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2076,127 +2197,6 @@
     "publishedDate": "2026-07-31T20:58:10Z",
     "url": "https://simpleflying.com/united-houston-elevated-787-9-expansion/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "63a833813b49",
-    "title": "Air Force CCA Aircraft Move Into Early Production",
-    "summary": "The first Ohio-built Fury has left Anduril\u2019s production line as General Atomics begins manufacturing its competing FQ-42A.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-07-31T20:26:15Z",
-    "url": "https://avweb.com/aviation-news/military-aviation/air-force-cca-aircraft-early-production/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9fa18735ba5b",
-    "title": "Massive Cuts: Delta Air Lines Has Pulled 20 Long-Haul Routes From Atlanta [Map]",
-    "summary": "Delta\u2019s Atlanta long-haul map has changed dramatically, with 20 routes disappearing since 2007.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T20:19:29Z",
-    "url": "https://simpleflying.com/delta-cuts-24-long-haul-routes-from-worlds-busiest-airport/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9fe7c3f11759",
-    "title": "93%+ Full: Southwest's 11 Busiest Routes With Seats Nearly Sold Out [Map & List]",
-    "summary": "They are all across the US, with some intriguing entries. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T20:00:13Z",
-    "url": "https://simpleflying.com/93pc-full-southwests-11-busiest-routes-with-seats-nearly-sold-out/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d61d90cc7f9b",
-    "title": "F-35 Involved in Serious Accident in San Diego",
-    "summary": "Pilot was able to eject from the aircraft.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-07-31T19:24:54Z",
-    "url": "https://www.flyingmag.com/f-35-involved-in-serious-accident-in-san-diego/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e05b6a2f82f",
-    "title": "Southwest Will Board Most Flights 5 Minutes Earlier Because Of More Carry-On Bags",
-    "summary": "Southwest Airlines is adjusting its boarding times, giving passengers more time to stow carry-on luggage as checked baggage fees take effect.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T19:04:27Z",
-    "url": "https://simpleflying.com/southwest-boarding-5-minutes-earlier-carry-on-bags/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "aea9e75131b5",
-    "title": "How Boeing Fixed The 787 Dreamliner's Battery Problem Without Permanently Grounding The Fleet",
-    "summary": "How Boeing fixed the 787 Dreamliner's battery crisis without finding the exact cause\u2014and why the solution has worked ever since.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T19:00:11Z",
-    "url": "https://simpleflying.com/how-boeing-fixed-787-dreamliner-battery-problem-without-permanently-grounding-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ab12a618087e",
-    "title": "United Airlines Has \"No Interest\" In Buying Ex-Emirates Pre-Built 777X Aircraft",
-    "summary": "While United has ruled out taking possession of up to 20 of these aircraft, it has left room for other airlines to step in.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T18:42:27Z",
-    "url": "https://simpleflying.com/united-airlines-no-interest-20-777x/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "296207bef53c",
-    "title": "What $700K in Income Couldn\u2019t Fix",
-    "summary": "Allworth Airline Advisors\u2019 new case study demonstrates how successful flying careers can still leave financial gaps.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-07-31T18:15:21Z",
-    "url": "https://avweb.com/sponsored/what-700k-in-income-couldnt-fix/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "93f05555945f",
-    "title": "FAA Deputy Administrator Who Led 2025 Washington DC Crash Response Resigns",
-    "summary": "FAA deputy administrator Chris Rocheleau, who oversaw the agency's response to the 2025 Washington DC midair collision, returns to the NBAA.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T18:13:55Z",
-    "url": "https://simpleflying.com/faa-deputy-administrator-2025-crash-resigns/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e583d5eb6d6",
-    "title": "Why In The World Does American Airlines Fly The Boeing 787 And Not The Airbus A350?",
-    "summary": "The carrier has decided against operating the flagship Airbus widebody.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T17:30:11Z",
-    "url": "https://simpleflying.com/why-does-american-airlines-fly-boeing-787-and-not-airbus-a350/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "32ce47156fca",
-    "title": "Breeze Airways Launches 16 Massive New Routes From Florida: See All Flights Now",
-    "summary": "They involve nearly half of the carrier's served airports in the Sunshine State. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-07-31T17:00:11Z",
-    "url": "https://simpleflying.com/breeze-airways-launches-16-massive-new-routes-from-florida/",
-    "airlineTag": "Breeze Airways",
     "isBreaking": false
   }
 ]
