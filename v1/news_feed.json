@@ -1,5 +1,38 @@
 [
   {
+    "id": "85891ae39338",
+    "title": "SWISS To Retire Entire A220-100 Fleet Just 10 Years After Launching It",
+    "summary": "SWISS is preparing to withdraw the CS100 turned A220-100 from commercial service. Only four of the airline\u2019s original nine Airbus A220-100s remain operational, but all are expected to leave service by the end of 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T12:30:11Z",
+    "url": "https://simpleflying.com/video/swiss-to-retire-entire-a220-100-fleet-just-10-years-after-launching-it/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "67696d94f229",
+    "title": "Ex-Flight Attendant Admits Fake Pilot ID Scheme For 'Hundreds' Of Free Flights On 3 US Airlines",
+    "summary": "He used a fictitious employee ID and insider knowledge of crew procedures to slip past checks at multiple airport hubs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T12:27:34Z",
+    "url": "https://simpleflying.com/ex-flight-attendant-fake-pilot-id-hundreds-free-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3feab2bc295f",
+    "title": "5 Airline Award Loopholes Frequent Flyers Raced To Book Before Deadlines",
+    "summary": "Everyone loves to find a special deal or a secret hack when booking flights. Today, this is much harder to achieve as airlines globally are changing.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T08:00:11Z",
+    "url": "https://simpleflying.com/5-airline-loopholes-frequent-flyers-raced-to-book-before-deadlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a0644f0a5e0b",
     "title": "LAX Caterer Serving 15 Airlines Faces Mold, Maggot And Cockroach Allegations",
     "summary": "The company provides for meals for over a dozen international airlins, including Air France, Lufthansa, Japan Airlines, Qantas and Virgin Atlantic.",
@@ -479,7 +512,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -589,7 +622,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,18 +875,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "85891ae39338",
-    "title": "SWISS To Retire Entire A220-100 Fleet Just 10 Years After Launching It",
-    "summary": "SWISS will retire its pioneering A220-100 fleet as engine shortages favor the larger A220-300.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T22:10:29Z",
-    "url": "https://simpleflying.com/swiss-retire-a220-100-ten-years-launching/",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -908,7 +930,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1282,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-08-01T20:00:11Z",
     "url": "https://simpleflying.com/congress-added-897-millon-pick-fighter-replacing-us-navy-super-hornet/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "34e3c492d9ec",
-    "title": "Why Airlines Cannot Update The 787's Core Software Without Boeing's Direct Involvement",
-    "summary": "The 787's core software is part of its FAA type certificate. When a bug appears, airlines cannot patch it themselves. Here is why.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-01T18:00:11Z",
-    "url": "https://simpleflying.com/why-airlines-cannot-update-787-dreamliner-core-software-without-boeing-direct-involvement/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "488f29769442",
-    "title": "The Aircraft Set To Replace Delta Air Lines' Boeing 717s",
-    "summary": "Delta's 717 fleet is soon to be retired, and the airline will be replacing the type's operations with the Airbus A220 family.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-01T17:30:11Z",
-    "url": "https://simpleflying.com/the-aircraft-replacing-delta-air-lines-boeing-717-fleet/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
