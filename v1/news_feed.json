@@ -1,5 +1,60 @@
 [
   {
+    "id": "8868e3c4ee14",
+    "title": "Porter Airlines Flight Canceled After Toddler Stands In Seat, Delaying It Past Curfew",
+    "summary": "A late-night Porter flight returned to the gate after cabin crew could not secure a standing toddler, leaving everyone stranded overnight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T18:08:40Z",
+    "url": "https://simpleflying.com/porter-airlines-flight-canceled-toddler-airport-curfew/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ec133191a4f0",
+    "title": "5 Airports Rebuilding Their Runways Before The 2027 Safety Deadline Squeezes Airlines",
+    "summary": "From global hubs to regional fields, all airports have to prioritize runway condition.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T18:00:11Z",
+    "url": "https://simpleflying.com/5-airports-rebuilding-runways-before-2027-safety-deadline-squeezes-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1c960b2472ed",
+    "title": "How Airbus Is Quietly Repositioning The A330neo As A Widebody Bargain For 2027",
+    "summary": "The A330neo isn't Airbus' newest widebody, but it may be its smartest. Here's why airlines keep ordering it.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T17:00:11Z",
+    "url": "https://simpleflying.com/how-airbus-quietly-repositioning-a330neo-widebody-bargain-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8fd16bc1ac09",
+    "title": "How US Navy Jet Tail Codes Identify Their Carrier: 5 Facts That May Surprise You",
+    "summary": "Turning the page on the story written all over every Navy jet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T15:00:11Z",
+    "url": "https://simpleflying.com/how-us-navy-jet-tail-codes-identify-their-carrier/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d45354762161",
+    "title": "Why A Boeing 747 Captain Thinks About Crosswind Landings Differently Than An Airbus A380 Captain",
+    "summary": "The 747 and A380 both land in crosswinds. Their captains use different techniques to do it, and the reasons are structural.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T14:00:11Z",
+    "url": "https://simpleflying.com/why-boeing-747-captain-thinks-crosswind-landings-differently-airbus-a380-captain/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "85891ae39338",
     "title": "SWISS To Retire Entire A220-100 Fleet Just 10 Years After Launching It",
     "summary": "SWISS is preparing to withdraw the CS100 turned A220-100 from commercial service. Only four of the airline\u2019s original nine Airbus A220-100s remain operational, but all are expected to leave service by the end of 2027.",
@@ -512,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -622,7 +677,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -875,7 +930,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -930,7 +985,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1337,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-02T06:40:44Z",
     "url": "https://simpleflying.com/emirates-airbus-a380-jakarta-one-night-only/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1e2415d9f319",
-    "title": "5 Airlines With The World's Quietest Business Class Cabins In 2026",
-    "summary": "These carriers offer exceptional premium products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T00:00:11Z",
-    "url": "https://simpleflying.com/airlines-worlds-quietest-business-class-cabins-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "681ff6cf7e76",
-    "title": "Why Southwest Airlines Can\u2019t Fly All Of Its Boeing 737 MAX 8s Over The Pacific",
-    "summary": "These jets are subject to certain operational requirements.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-01T21:30:11Z",
-    "url": "https://simpleflying.com/why-southwest-airlines-cant-fly-all-boeing-737-max-8s-over-pacific/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7b649e73cbec",
-    "title": "Permanent No-Fly Zone Established Over Trump Tower, Effective Even After Leaving Office",
-    "summary": "The FAA has proposed adding a regulation to Title 14 of the Code of Federal Regulations, creating a prohibited area necessary for the president.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-08-01T21:18:20Z",
-    "url": "https://simpleflying.com/trump-tower-no-fly-zone/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "329e9b6b2d3a",
-    "title": "Vietnam's Bamboo Airways Halts Scheduled Flights Months After Reviving Boeing 787 Plans",
-    "summary": "The airline has significantly reduced its fleet, dropping five aircraft and remaining with just three, with only one plane currently operational.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-01T20:46:24Z",
-    "url": "https://simpleflying.com/bamboo-airways-halts-scheduled-flights-boeing-787-plans/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "42aa4161176f",
-    "title": "Congress Just Added $897 Million To Pick The Fighter Replacing The US Navy's Super Hornet",
-    "summary": "The Navy's accelerating next-gen fighter plan.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-01T20:00:11Z",
-    "url": "https://simpleflying.com/congress-added-897-millon-pick-fighter-replacing-us-navy-super-hornet/",
     "airlineTag": null,
     "isBreaking": false
   }
