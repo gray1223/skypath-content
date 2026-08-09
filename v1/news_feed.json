@@ -1,5 +1,71 @@
 [
   {
+    "id": "a5e1adeeaca2",
+    "title": "The FAA's 10-Hour Flight Attendant Rest Rule Actually Means 8 Hours At The Hotel",
+    "summary": "The ins-and-outs of current flight attendant rest regulations in the US.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-08-09T01:00:11Z",
+    "url": "https://simpleflying.com/faa-10-hour-flight-attendant-rest-rule-means-8-hours-hotel/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bd8edc3b86d6",
+    "title": "The Widebody Quietly Replacing The Boeing 767 On Cargo Routes Is Not What You Think",
+    "summary": "Which aircraft might fill the gap left by the Boeing 767 as the workhorse of the cargo world?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T23:00:11Z",
+    "url": "https://simpleflying.com/widebody-replacing-boeing-767-cargo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0c4165c112fe",
+    "title": "American Airlines Suspends 100% Of Flights On This International Route: Here's Why",
+    "summary": "The carrier will cease serving this corridor this winter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T22:00:11Z",
+    "url": "https://simpleflying.com/american-airlines-suspends-phoenix-monterrey-flights/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "bb5e9dbcc276",
+    "title": "This Regional Jet Has Wider Economy Seats Than Some Widebodies & No Middle Seat",
+    "summary": "Stepping on any narrowbody brings an expectation of cramped seats and very little personal space, but there is a manufacturer that is a clear outlier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T21:00:11Z",
+    "url": "https://simpleflying.com/regional-jet-wider-economy-seats-some-widebodies-no-middle-seat/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "904699850de0",
+    "title": "Volaris' Huge US Expansion: 4 New Routes Revealed [List & Map]",
+    "summary": "All new routes are starting in December.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T20:30:58Z",
+    "url": "https://simpleflying.com/volaris-huge-us-expansion-4-new-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fdd7595e4ac4",
+    "title": "Only 222 Seats: United Airlines' 8 New Ultra-Premium Boeing 787 Routes Revealed [Map]",
+    "summary": "These flights are concentrated out of two US hubs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-08T19:00:11Z",
+    "url": "https://simpleflying.com/united-airlines-new-elevated-boeing-787-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "8868e3c4ee14",
     "title": "Porter Airlines Flight Canceled After Toddler Stands In Seat, Delaying It Past Curfew",
     "summary": "A late-night Porter flight returned to the gate after cabin crew could not secure a standing toddler, leaving everyone stranded overnight.",
@@ -567,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -897,7 +963,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -930,7 +996,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -985,7 +1051,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1337,7 +1403,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-02T16:00:11Z",
     "url": "https://simpleflying.com/why-attritable-most-important-word-air-combat-right-now/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9f0f73578c1d",
-    "title": "Brazil approves American Airlines\u2019 $100M investment in Azul",
-    "summary": "Brazil\u2019s competition authority has cleared American Airlines\u2019 planned investment in Azul, allowing the US carrier to acquire a&#8230; The post Brazil approves American Airlines\u2019 $100M investment in Azul appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-02T13:55:44Z",
-    "url": "https://www.aerotime.aero/articles/brazil-approves-american-airlines-100m-investment-in-azul",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "90df09d4529c",
-    "title": "13 Dead After Cessna Grand Caravan Sightseeing Flight Crashes Near Peru's Nazca Lines",
-    "summary": "Eleven foreign tourists and two Peruvian pilots lost their lives after the aircraft was engulfed in flames upon impact.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T13:10:58Z",
-    "url": "https://simpleflying.com/cessna-grand-caravan-crash-peru-nazca-lines-13-dead/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05c4508359e1",
-    "title": "Qantas Airbus A350-1000ULR Flies For 43 Hours Across 2 Test Flights",
-    "summary": "Airbus and Qantas have made history by operating their longest-ever nonstop test flight with the new A350-1000ULR that will eventually be used to link eastern Australia with Europe and New York. The momentous test flight took off from Airbus's facilities at Toulouse on July 23rd.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T12:31:11Z",
-    "url": "https://simpleflying.com/video/qantas-airbus-a350-1000ulr-flies-for-43-hours-across-2-test-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6be249e39f5c",
-    "title": "WestJet cabin crew go on strike, more than 300 flights canceled",
-    "summary": "More than 4,400 cabin crew members have launched strike action after nearly 11 months of contract negotiations, forcing&#8230; The post WestJet cabin crew go on strike, more than 300 flights canceled appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-02T12:08:04Z",
-    "url": "https://www.aerotime.aero/articles/westjet-cabin-crew-go-on-strike-more-than-300-flights-canceled",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "210d9c984fc9",
-    "title": "22-Hour Flights: Turkish Airlines Unveils This New Ultra-Long Route [Map]",
-    "summary": "Turkish Airlines' decision to reroute its Istanbul to Sydney flights through Singapore has caught the attention of aviation enthusiasts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T11:00:11Z",
-    "url": "https://simpleflying.com/22-hour-flights-turkish-airlines-unveils-new-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a7dd8566c6d8",
-    "title": "One Night Only: Emirates To Operate Rare Airbus A380 Flight To Jakarta Next Weekend",
-    "summary": "The charter service is being deployed specifically to transport a select group of European football clubs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T06:40:44Z",
-    "url": "https://simpleflying.com/emirates-airbus-a380-jakarta-one-night-only/",
     "airlineTag": null,
     "isBreaking": false
   }
