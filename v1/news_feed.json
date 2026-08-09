@@ -1,5 +1,27 @@
 [
   {
+    "id": "078e1231f035",
+    "title": "American Airlines Offers 1,205 Flight Attendants Unpaid Leave Amid September Flight Cuts",
+    "summary": "An earlier fall schedule and rising jet fuel costs prompt a 4% workforce adjustment across American's busiest hubs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-09T05:52:46Z",
+    "url": "https://simpleflying.com/american-airlines-1205-flight-attendants-unpaid-leave-september/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "14dcfd83a64e",
+    "title": "Why A Long-Haul Captain Thinks About Fuel Reserves Differently Than A Short-Haul Captain",
+    "summary": "Why do long-haul flights carry so much fuel? Learn how the same airline fuel rules produce completely different decisions on short and long flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-09T04:00:12Z",
+    "url": "https://simpleflying.com/why-long-haul-captain-thinks-fuel-reserves-differently-short-haul-captain/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a5e1adeeaca2",
     "title": "The FAA's 10-Hour Flight Attendant Rest Rule Actually Means 8 Hours At The Hotel",
     "summary": "The ins-and-outs of current flight attendant rest regulations in the US.",
@@ -633,7 +655,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -743,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -963,7 +985,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -996,7 +1018,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1073,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1425,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-02T16:30:11Z",
     "url": "https://simpleflying.com/striking-differences-between-f-15-f-35-lightning-ii/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "815b789d32c8",
-    "title": "11-Hour Nonstop Flights: Delta's 10 New Longest Boeing 767 Routes Revealed",
-    "summary": "These routes are concentrated out of two of Delta's main hubs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T16:00:11Z",
-    "url": "https://simpleflying.com/delta-air-lines-longest-boeing-767-routes/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "7a7a8cb8c8b8",
-    "title": "Why \"Attritable\" Is the Most Important Word In Air Combat Right Now",
-    "summary": "Air forces now realize they need numerous and expendable munitions and aircraft platforms in conjunction with high-end fighter jets and missiles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T16:00:11Z",
-    "url": "https://simpleflying.com/why-attritable-most-important-word-air-combat-right-now/",
     "airlineTag": null,
     "isBreaking": false
   }
