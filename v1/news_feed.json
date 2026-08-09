@@ -1,5 +1,38 @@
 [
   {
+    "id": "987f21ce3374",
+    "title": "199 Delta Passengers Evacuate Smoke-Filled Boeing 757 Down Slides On Atlanta Taxiway",
+    "summary": "Footage shows smoke filling the cabin while passengers escaped down emergency slides.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-09T15:10:26Z",
+    "url": "https://simpleflying.com/delta-boeing-757-slide-evacuation-atlanta-taxiway-smoke/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "abf2cf78e44c",
+    "title": "How Airline Alliances Are Quietly Being Reshaped In 2026",
+    "summary": "In 2026, the most significant airline partnerships are being built outside the three global alliances.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-09T14:00:11Z",
+    "url": "https://simpleflying.com/how-airline-alliances-quietly-reshape-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "65060eb8bb91",
+    "title": "The Airbus A350 Demonstrator That Could Make Ground-Based Landing Systems Obsolete",
+    "summary": "Airbus' one-of-a-kind jetliner ushering in the next era of air travel.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-09T13:00:11Z",
+    "url": "https://simpleflying.com/airbus-a350-demonstrator-make-ground-based-landing-systems-obsolete/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "b6e0971b203b",
     "title": "Singapore Airlines Adds 25% More Airbus A380 Flights: See All Routes Here",
     "summary": "Where can you fly on the carrier's superjumbos at the turn of the year?",
@@ -688,7 +721,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -798,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1051,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1084,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1106,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1458,7 +1491,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-03T05:00:11Z",
     "url": "https://simpleflying.com/uk-expanded-f-35-fleet-wont-add-single-jet-2030s/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d949b462bc15",
-    "title": "Authorities probe screening after Malaysia Airlines pilot\u2019s alleged drug smuggling",
-    "summary": "Malaysia\u2019s Civil Aviation Authority (CAAM) has opened a regulatory investigation into airport security procedures following the arrest of&#8230; The post Authorities probe screening after Malaysia Airlines pilot\u2019s alleged drug smuggling appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-03T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/authorities-probe-screening-after-malaysia-airlines-pilots-alleged-drug-smuggling",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f05811d2531e",
-    "title": "Why The Boeing 777X\u2019s New Cabin Architecture Will Be Such A Game Changer For Airlines",
-    "summary": "A look inside the next generation of widebodies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T23:30:11Z",
-    "url": "https://simpleflying.com/boeing-777x-new-cabin-architecture-game-changer-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b1da87f9949",
-    "title": "Massive Expansion: United Airlines Launches 12 New Routes From Major Hub [Map]",
-    "summary": "All of them are domestic.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T19:00:11Z",
-    "url": "https://simpleflying.com/united-airlines-new-chicago-routes/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
