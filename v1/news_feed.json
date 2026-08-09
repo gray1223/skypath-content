@@ -1,5 +1,38 @@
 [
   {
+    "id": "b6e0971b203b",
+    "title": "Singapore Airlines Adds 25% More Airbus A380 Flights: See All Routes Here",
+    "summary": "Where can you fly on the carrier's superjumbos at the turn of the year?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-09T10:00:11Z",
+    "url": "https://simpleflying.com/singapore-airlines-boosts-airbus-a380-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "651a3984ee04",
+    "title": "Red Arrows cancel upcoming UK displays due to troubles returning from US tour",
+    "summary": "The Royal Air Force\u2019s (RAF) Red Arrows aerobatic display team has canceled a series of upcoming appearances after&#8230; The post Red Arrows cancel upcoming UK displays due to troubles returning from US tour appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-09T09:19:45Z",
+    "url": "https://www.aerotime.aero/articles/red-arrows-cancel-uk-displays-troubles-returning-from-us-tour",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9027385fd822",
+    "title": "Delta passengers evacuate on escape slides after emergency landing",
+    "summary": "Delta Air Lines passengers were forced to evacuate a Boeing 757-200 on escape slides at Hartsfield-Jackson Atlanta International&#8230; The post Delta passengers evacuate on escape slides after emergency landing appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-09T08:31:10Z",
+    "url": "https://www.aerotime.aero/articles/delta-passengers-evacuate-on-escape-slides-after-emergency-landing",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "078e1231f035",
     "title": "American Airlines Offers 1,205 Flight Attendants Unpaid Leave Amid September Flight Cuts",
     "summary": "An earlier fall schedule and rising jet fuel costs prompt a 4% workforce adjustment across American's busiest hubs.",
@@ -655,7 +688,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -985,7 +1018,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1051,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1073,7 +1106,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1425,7 +1458,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-02T19:00:11Z",
     "url": "https://simpleflying.com/united-airlines-new-chicago-routes/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5e79f8b7b310",
-    "title": "British Airways Just Broke Decades Of CFM Loyalty To Put Pratt & Whitney GTFs On Over 60 Airbus Jets",
-    "summary": "The airline's decision to introduce Pratt & Whitney's geared turbofan engine into its Airbus A320neo fleet marks a significant strategic shift.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T18:00:11Z",
-    "url": "https://simpleflying.com/british-airways-broke-decades-cfm-loyalty-pratt-whitney-gtf-over-60-airbus-jets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ff28b754e7da",
-    "title": "Why No Aircraft Boeing Or Airbus Is Building Can Replace The 747-400F's Nose Door",
-    "summary": "The 747-400F is iconic for many reasons, but its nose door may be the best of all. Why is the nose door not seeing a comeback on newer cargo models?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T17:00:11Z",
-    "url": "https://simpleflying.com/why-no-aircraft-boeing-airbus-building-replace-747-400f-nose-door/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2a5753ab410f",
-    "title": "The Striking Differences Pilots Notice Between The F-15 Eagle & The F-35 Lightning II",
-    "summary": "F-15 vs F-35: two powerful fighter jets built for different eras. One dominates with speed and firepower, the other with stealth, sensors, and data.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-02T16:30:11Z",
-    "url": "https://simpleflying.com/striking-differences-between-f-15-f-35-lightning-ii/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
