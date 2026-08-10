@@ -1,5 +1,93 @@
 [
   {
+    "id": "abc0d2dea90b",
+    "title": "2 Pilots Killed in Helicopter Crash While Fighting Utah Wildfire",
+    "summary": "Sikorsky S-64 was en route to the Widemouth 2 Fire when it went down near Richfield.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-10T18:00:00Z",
+    "url": "https://www.flyingmag.com/2-pilots-killed-in-helicopter-crash-while-fighting-utah-wildfire/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2b2c66be89df",
+    "title": "5 Aircraft That Pilots Say Are The Most Technologically Advanced",
+    "summary": "A closer look at some of the most cutting-edge aircraft in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T17:30:11Z",
+    "url": "https://simpleflying.com/5-aircraft-pilots-say-most-technologically-advanced/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d16c83aa004f",
+    "title": "S7 Airlines suffers second Boeing 737 runway overrun in six weeks",
+    "summary": "An S7 Airlines Boeing 737-800 freighter overran the runway while landing in Norilsk, Russia, marking the airline\u2019s second&#8230; The post S7 Airlines suffers second Boeing 737 runway overrun in six weeks appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-10T17:14:02Z",
+    "url": "https://www.aerotime.aero/articles/s7-second-boeing-737-runway-overrun-six-weeks",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c292ed73fdef",
+    "title": "The Reverse Thrust Maneuver Major US Airlines Quietly Abandoned Around 2006 & Why It Never Came Back",
+    "summary": "US airlines used reverse thrust to push back from gates for two decades. By 2006, every carrier had quietly stopped.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T17:00:11Z",
+    "url": "https://simpleflying.com/reverse-thrust-powerback-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "02ce48169de8",
+    "title": "Is drone maker Baykar about to launch a cargo airline? What we know so far",
+    "summary": "Turkish drone maker Baykar could be preparing its entry into the air cargo market, according to Turkish aviation&#8230; The post Is drone maker Baykar about to launch a cargo airline? What we know so far appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-10T14:00:56Z",
+    "url": "https://www.aerotime.aero/articles/is-drone-maker-baykar-about-to-launch-a-cargo-airline-what-we-know-so-far",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f0a7b8dd7376",
+    "title": "FAA Issues AD for Boeing Jet Fuselage Cracks",
+    "summary": "New airworthiness directive targets 737-8, 737-9, and 737-8200 models following reports of fatigue cracks near door cutouts.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-08-10T14:00:00Z",
+    "url": "https://www.flyingmag.com/faa-issues-ad-for-boeing-jet-fuselage-cracks/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f1a9b41c5376",
+    "title": "Sun PhuQuoc Airways sets out arrival timeline of ex-American Airlines A330s",
+    "summary": "Sun PhuQuoc Airways has set out the timeline for the arrival of eight former American Airlines Airbus A330-200&#8230; The post Sun PhuQuoc Airways sets out arrival timeline of ex-American Airlines A330s appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-10T13:49:13Z",
+    "url": "https://www.aerotime.aero/articles/sun-phuquoc-airways-former-american-airlines-a330s",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "45a296ecb978",
+    "title": "Delta launches new nonstop Seattle-Tokyo Narita route starting March 2027",
+    "summary": "Delta Air Lines announced it will launch a new nonstop route between Seattle-Tacoma International Airport (SEA) and Tokyo-Narita&#8230; The post Delta launches new nonstop Seattle-Tokyo Narita route starting March 2027 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-10T13:39:44Z",
+    "url": "https://www.aerotime.aero/articles/delta-launches-new-nonstop-seattle-tokyo-narita-route-starting-march-2027",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "ff487418b203",
     "title": "How The US Air Force Added 15 Years To The B-1B Lancer's Life In Just 22 Days Per Jet",
     "summary": "How a radical process improvement just saved the B-1 from the Boneyard.",
@@ -18,6 +106,17 @@
     "category": "industry",
     "publishedDate": "2026-08-10T13:00:00Z",
     "url": "https://www.flyingmag.com/caf-airbase-georgia-announces-wwii-warbird-tour/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f165ac656c16",
+    "title": "EnduroSat signs deal with Bulgaria to develop major space base near Sofia",
+    "summary": "Vertically integrated satellite developer EnduroSat announced on August 6, 2026, that it has signed a Memorandum of Understanding&#8230; The post EnduroSat signs deal with Bulgaria to develop major space base near Sofia appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-10T12:54:00Z",
+    "url": "https://www.aerotime.aero/articles/endurosat-signs-deal-with-bulgaria-to-develop-major-space-base-near-sofia",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -952,7 +1051,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1062,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1381,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1315,7 +1414,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-05T20:30:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/atp-accelerates-airline-career-pilot-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1722,7 +1821,7 @@
     "source": "AOPA",
     "category": "regulatory",
     "publishedDate": "2026-08-04T23:55:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/04/training-and-safety-tip-tab-as-you-go?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-08-04T08:38:54Z",
     "url": "https://www.aerotime.aero/articles/first-production-model-of-russias-mc-21-310-completes-maiden-flight",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "09994c906c88",
-    "title": "Spooky: United Flight Reports \"Severe Electrical Disturbance,\" Then TCAS Alert Over Denver",
-    "summary": "Inexplicable interference drowns the radios of an unlucky flight into Denver.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-04T07:19:55Z",
-    "url": "https://simpleflying.com/united-flight-electrical-disturbance-tcas-alert-denver/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e5ef55923972",
-    "title": "American Airlines Finally Has A Permanent Heathrow Caterer After 5 Months Of Stopgaps",
-    "summary": "As DO & CO takes the reins as American Airlines' permanent caterer at Heathrow, passengers can expect a full menu restoration.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-04T07:03:19Z",
-    "url": "https://simpleflying.com/american-airlines-permanent-heathrow-catering-contract/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d3edf730459f",
-    "title": "Boeing's 777-8F Backlog Just Crossed 80 Jets & The Newest Buyer Isn't Even An Airline",
-    "summary": "MSC Air Cargo's unexpected order for five Boeing 777-8 Freighters reveals a mystery customer and signals strong demand for the yet-to-fly aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-04T00:00:11Z",
-    "url": "https://simpleflying.com/boeing-777-8f-backlog-crossed-8-jets-newest-buyer-isnt-even-airline/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "34d8762adb50",
-    "title": "American Fights Back: Reimagined Card, Lounge Updates Take Aim At Delta & United",
-    "summary": "American\u2019s revamped Citi card and lounge overhaul sharpen its premium fight with Delta and United.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-03T22:07:47Z",
-    "url": "https://simpleflying.com/american-airlines-card-lounge-updates-delta-united/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "da78413e42c4",
-    "title": "Picture of the Day: August 3, 2026",
-    "summary": "Greg Koontz Airshows American Champion Super Decathlon at EAA Airventure 2026",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-03T20:45:01Z",
-    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-august-3-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "70f88e17dbfd",
-    "title": "First UK-Built Islander in Nearly 60 Years Rolls Out",
-    "summary": "The BN2B-26 will undergo ground testing before delivery to the Falkland Islands Government Air Service.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-03T20:10:56Z",
-    "url": "https://avweb.com/aviation-news/first-uk-built-islander-60-years-done/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b98855755342",
-    "title": "American Airlines Launches 4 New Nonstop International Routes: See Full List Now",
-    "summary": "They are from four hubs around the country, and contribute to nearly 400 international departures this coming winter. See more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-03T20:00:11Z",
-    "url": "https://simpleflying.com/american-airlines-launches-4-new-nonstop-international-routes/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "431b21a1d581",
-    "title": "Southwest Airlines Launches These 4 New Nonstop Routes This Week [List & Map]",
-    "summary": "The carrier will begin these links on August 4 and 8, with some highly intriguing additions. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-03T19:00:11Z",
-    "url": "https://simpleflying.com/southwest-airlines-launches-these-4-new-nonstop-routes-this-week/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "617bd94f983e",
-    "title": "Bonanza Safety Group Targets Gear-Up Landings",
-    "summary": "The American Bonanza Society says gear-up landings and gear collapses frequently result in total losses.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-08-03T18:56:31Z",
-    "url": "https://avweb.com/flight-safety/bonanza-safety-group-targets-gear-up-lands/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
