@@ -1,5 +1,115 @@
 [
   {
+    "id": "1eb23f7320bf",
+    "title": "Why Roughly 80% Of Trans-Pacific Cargo Flights Quietly Stop At This One Alaskan Airport",
+    "summary": "This airport has become a regular stopover for trans-Pacific cargo flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-11T00:00:11Z",
+    "url": "https://simpleflying.com/trans-pacific-cargo-flights-alaska-stop/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39c6b196b07e",
+    "title": "Los Angeles-Bound Southwest Airlines Passenger Dies After Multiple CPR Attempts Mid-Flight",
+    "summary": "The 22-year-old had a medical episode mid-flight and died during the flight to Los Angeles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T23:01:14Z",
+    "url": "https://simpleflying.com/los-angeles-bound-southwest-airlines-passenger-dies-multiple-cpr-attempts-mid-flight/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2f2e6bdb4413",
+    "title": "Frontier Airlines Sued After Not Informing Passengers Of Data Breach For Over A Month",
+    "summary": "A cyber extortion supergroup exploited weak defenses to access Social Security numbers and IDs, triggering legal fallout.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T22:25:20Z",
+    "url": "https://simpleflying.com/frontier-airlines-sued-not-informing-passengers-data-breach-over-month/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f65673dfb2ce",
+    "title": "Boeing Hands Flying-Taxi Venture To Archer Aviation With Nearly 20% Stake",
+    "summary": "Boeing shifts its autonomous aviation bets to Archer while retaining significant long-term upside.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-08-10T22:11:36Z",
+    "url": "https://simpleflying.com/boeing-hands-flying-taxi-venture-archer-aviation-20-percent-stake/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "baec21358c0f",
+    "title": "5 Airlines With The World's Best Business Class Seats For Transpacific Flights",
+    "summary": "Which carriers offer passengers the most comfort across the Pacific?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T21:30:11Z",
+    "url": "https://simpleflying.com/5-airlines-with-worlds-best-business-class-seats-transpacific-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ab272bfc2d43",
+    "title": "Is It True That The US Navy Is Racing To Field Its Own 6th-Generation Fighter?",
+    "summary": "Pulling back the curtain on the Navy's next-gen jet program.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T21:00:11Z",
+    "url": "https://simpleflying.com/true-us-navy-racing-field-own-6th-generation-fighter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "09238af26208",
+    "title": "American Airlines Launches 15 New Nonstop International Routes: See Full List Now",
+    "summary": "With multiple domestic and international routes coming, most of the carrier's hubs are involved. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T20:00:11Z",
+    "url": "https://simpleflying.com/american-airlines-launches-15-new-nonstop-international-routes-see-full-list-now/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "53d58c36fdc2",
+    "title": "The Bidding Decisions That Separate A $470,000 Widebody Captain From A $700,000 One",
+    "summary": "What goes on behind the scenes?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-10T20:00:11Z",
+    "url": "https://simpleflying.com/widebody-captain-bidding-pay/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5dfb6baf35a4",
+    "title": "Severe Runway Incursions Jump 44% in 2025",
+    "summary": "Overall runway incursions declined slightly, while the FAA reported an increase in the most serious events.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-10T19:04:01Z",
+    "url": "https://avweb.com/aviation-news/severe-runway-incursions-jump-44-percent/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b83ea0a7ce7",
+    "title": "American makes first US commercial airport delivery of synthetic jet fuel",
+    "summary": "American Airlines has used electro sustainable aviation fuel on a commercial passenger flight following what the carrier says&#8230; The post American makes first US commercial airport delivery of synthetic jet fuel appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-10T18:02:19Z",
+    "url": "https://www.aerotime.aero/articles/american-makes-first-us-commercial-airport-delivery-of-synthetic-jet-fuel",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "abc0d2dea90b",
     "title": "2 Pilots Killed in Helicopter Crash While Fighting Utah Wildfire",
     "summary": "Sikorsky S-64 was en route to the Widemouth 2 Fire when it went down near Richfield.",
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-08-04T12:48:52Z",
     "url": "https://www.aerotime.aero/articles/lufthansa-group-financial-results-second-quarter-2026",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bdd5f11a9966",
-    "title": "Qantas Group, Japan Airlines sign deal to reshape Jetstar Japan ownership",
-    "summary": "The Qantas Group and Japan Airlines (JAL) have signed a binding agreement to change who owns Jetstar Japan,&#8230; The post Qantas Group, Japan Airlines sign deal to reshape Jetstar Japan ownership appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-04T12:07:15Z",
-    "url": "https://www.aerotime.aero/articles/qantas-group-japan-airlines-sign-deal-to-reshape-jetstar-japan-ownership",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40ae6ef2f7b0",
-    "title": "Pilot Executes the \u2018Impossible Turn\u2019",
-    "summary": "Veteran CFI performs the high-risk maneuver after sudden engine seizure at night.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-04T12:00:00Z",
-    "url": "https://www.flyingmag.com/pilot-executes-the-impossible-turn/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e9e86285605f",
-    "title": "What It's Like Inside Emirates' New Airbus A350-900",
-    "summary": "Tom and Alejandro of Simple Flying take a full tour of Emirates' brand-new Airbus A350-900 from the Farnborough Airshow 2026. From the airline's all-new Business Class and expanded Premium Economy cabin to its upgraded ice inflight entertainment system and redesigned Economy C...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-04T11:00:11Z",
-    "url": "https://simpleflying.com/video/what-it-s-like-inside-emirates-new-airbus-a350-900/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "75e659d558f4",
-    "title": "\u00a310 Million Each: Why Virgin Atlantic Is Poaching Britain's Rarest Pilots",
-    "summary": "The RAF faces stiff competition to keep its aircrew on the flight deck.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-04T11:00:11Z",
-    "url": "https://simpleflying.com/why-virgin-atlantic-poaching-britain-rarest-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "441adf696d1f",
-    "title": "It\u2019s Official: Boeing 737 MAX 7 Secures FAA Type Certification",
-    "summary": "The Boeing 737 MAX 7 has finally been cleared for commercial service, more than eight years after the smallest member of the 737 MAX family first took to the skies. The Federal Aviation Administration (FAA) granted Boeing an amended type certificate for the aircraft on Monday,...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-04T09:50:29Z",
-    "url": "https://simpleflying.com/video/it-s-official-boeing-737-max-7-secures-faa-type-certification/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4dcdb67c5c67",
-    "title": "Boeing 737 MAX 7 gains FAA certification \u2013 which airlines placed orders?",
-    "summary": "Just over 13 years ago, Boeing and Southwest Airlines came together to launch the 737 MAX 7, the&#8230; The post Boeing 737 MAX 7 gains FAA certification \u2013 which airlines placed orders? appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-04T09:47:21Z",
-    "url": "https://www.aerotime.aero/articles/boeing-737-max-7-gains-faa-certification-which-airlines-placed-orders",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c9f68df3f7bb",
-    "title": "Japan Airlines joins pilot test to capture CO2 directly from seawater",
-    "summary": "Japan Airlines (JAL) announced that it has joined Hitachi and Mitsui O.S.K. Lines in signing an agreement to&#8230; The post Japan Airlines joins pilot test to capture CO2 directly from seawater appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-04T09:34:12Z",
-    "url": "https://www.aerotime.aero/articles/japan-airlines-joins-pilot-test-to-capture-co2-directly-from-seawater",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d47b9b6f8018",
-    "title": "US Air Force ends nearly 50 years of A-10 flights at Davis-Monthan",
-    "summary": "The US Air Force flew the A-10C Thunderbolt II from Davis-Monthan Air Force Base, Arizona, for the final time on&#8230; The post US Air Force ends nearly 50 years of A-10 flights at Davis-Monthan appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-04T09:01:22Z",
-    "url": "https://www.aerotime.aero/articles/a-10-final-flight-davis-monthan-air-force-base",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e516781d8ac",
-    "title": "First production model of Russia\u2019s MC-21-310 completes maiden flight",
-    "summary": "Russia\u2019s first production MC-21-310 aircraft has completed its maiden flight. The aircraft took off from United Aircraft Corporation (UAC)\u2019s facility in Irkutsk, Siberia on August 3, 2026,&#8230; The post First production model of Russia\u2019s MC-21-310 completes maiden flight app...",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-04T08:38:54Z",
-    "url": "https://www.aerotime.aero/articles/first-production-model-of-russias-mc-21-310-completes-maiden-flight",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "06f21d7938bc",
-    "title": "First production model of Russia\u2019s MC-21-310\u00a0completes maiden flight",
-    "summary": "Russia\u2019s first production MC-21-310 aircraft has completed its maiden flight. The aircraft took off from United Aircraft Corporation (UAC)\u2019s facility in Irkutsk, Siberia on August 3, 2026,&#8230; The post First production model of Russia\u2019s MC-21-310 completes maiden flight app...",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-04T08:38:54Z",
-    "url": "https://www.aerotime.aero/articles/first-production-model-of-russias-mc-21-310-completes-maiden-flight",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
