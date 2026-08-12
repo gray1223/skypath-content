@@ -1,5 +1,38 @@
 [
   {
+    "id": "c1737c6ad0b1",
+    "title": "American Airlines' AI Is Rebooking Passengers Onto Later Flights Without Asking Them",
+    "summary": "Artificial intelligence runs loose in American's booking office.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T06:30:31Z",
+    "url": "https://simpleflying.com/american-airlines-ai-rebooking-passengers-later-flights/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "afb2e4ee612e",
+    "title": "Does The $2.66 Million Seat Inspection On 453 Boeing 737 MAX Jets Signal A New Era Of FAA Oversight?",
+    "summary": "The 737 MAX is still as safe as ever, but the FAA is being more careful in ensuring that.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T05:00:11Z",
+    "url": "https://simpleflying.com/737-max-seat-inspection-faa/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cf46a87799c1",
+    "title": "What Are The Benefits Of Flying Singapore Airlines Business Class?",
+    "summary": "A closer look at one of the most polished premium products in the world of global aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T03:45:11Z",
+    "url": "https://simpleflying.com/benefits-singapore-airlines-business-class/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "86ff31627b56",
     "title": "How One Of The Cheapest Jets In The Sky Undercuts Charter Rates By Over $1,000 Per Hour",
     "summary": "What makes the Cirrus SF50 so compelling.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-05T08:00:11Z",
     "url": "https://simpleflying.com/why-airlines-keep-choosing-airbus-a321xlr-over-boeing-737-max-10/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f0e63227a794",
-    "title": "Colombia orders two Embraer KC-390 Millennium airlifters",
-    "summary": "Embraer announced on August 4, 2026, that the Fuerza Aeroespacial Colombiana (FAC) has signed a contract for two KC-390 Millennium multi-mission aircraft,&#8230; The post Colombia orders two Embraer KC-390 Millennium airlifters appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T07:40:12Z",
-    "url": "https://www.aerotime.aero/articles/colombia-orders-two-embraer-kc-390-millennium",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79699c71a9d3",
-    "title": "FAA Proposes Ditching 64-Item Medical Kit Checklist, Letting Airlines Cover 9 Emergencies",
-    "summary": "A closer look at a major change coming to airline medical policy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T07:05:10Z",
-    "url": "https://simpleflying.com/faa-proposes-ditching-64-item-medical-kit-checklist-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a7cccfe34974",
-    "title": "FAA awards $870M for airport infrastructure projects across US",
-    "summary": "The Federal Aviation Administration (FAA) has awarded $870 million for airport infrastructure projects across the United States, spanning&#8230; The post FAA awards $870M for airport infrastructure projects across US appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/faa-awards-870-million-us-airport-infrastructure",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
