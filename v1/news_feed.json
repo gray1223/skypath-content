@@ -1,5 +1,71 @@
 [
   {
+    "id": "30a5d2f3f755",
+    "title": "Lockheed Martin tracks drones through unmodified Verizon 5G network",
+    "summary": "Lockheed Martin says it detected and tracked drones using a commercial 5G network without modifying the operator\u2019s deployed radios, in&#8230; The post Lockheed Martin tracks drones through unmodified Verizon 5G network appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T12:53:28Z",
+    "url": "https://www.aerotime.aero/articles/lockheed-martin-netsense-drone-tracking-verizon-5g",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "187d68956456",
+    "title": "FedEx Reveals Stunning Boeing 777 Retro Livery To Celebrate Founder's Legacy",
+    "summary": "The carrier's home airport has also been named after its founder.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T12:46:44Z",
+    "url": "https://simpleflying.com/fedex-boeing-777-retro-livery/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "d721958354c9",
+    "title": "American Airlines (Fully) Resolves Catering Mess At Heathrow After 5 Months Of Stopgaps",
+    "summary": "Austrian catering company DO & CO has been selected by American Airlines to be its permanent London Heathrow caterer, five months after the oneworld carrier had to adjust its catering options at the airline's largest international outstation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T12:32:11Z",
+    "url": "https://simpleflying.com/video/american-airlines-fully-resolves-catering-mess-at-heathrow-after-5-months-of-stopgaps/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a6901b3c1454",
+    "title": "Dealing With Some Cold-Blooded Cargo",
+    "summary": "Wild PR stunt included crash landing of B-25 carrying snakes and alligators.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-12T12:00:00Z",
+    "url": "https://www.flyingmag.com/dealing-with-some-cold-blooded-cargo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e12a4785bdb4",
+    "title": "US Army awards Collins Aerospace $472M deal to modernize Chinook fleet",
+    "summary": "The US Army has awarded RTX\u2019s Collins Aerospace a contract worth up to $472 million to provide engineering&#8230; The post US Army awards Collins Aerospace $472M deal to modernize Chinook fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T11:15:38Z",
+    "url": "https://www.aerotime.aero/articles/us-army-awards-collins-aerospace-472m-deal-to-modernize-chinook-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b70f9b8c9c2b",
+    "title": "Why A US Flight Attendant Earns Far More Than What Their UK Colleague Makes Doing The Same Job In 2026",
+    "summary": "Undeniably a different salary.",
+    "source": "Simple Flying",
+    "category": "pay",
+    "publishedDate": "2026-08-12T11:00:11Z",
+    "url": "https://simpleflying.com/us-uk-flight-attendant-pay-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c1737c6ad0b1",
     "title": "American Airlines' AI Is Rebooking Passengers Onto Later Flights Without Asking Them",
     "summary": "Artificial intelligence runs loose in American's booking office.",
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-05T12:26:54Z",
     "url": "https://www.aerotime.aero/articles/apac-airlines-see-june-2026-passenger-figures-dip-cargo-demand-stays-resilient",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e7ddf63b6731",
-    "title": "Chart Wise: Rangeley Lake Seaplane Base (M57) RNAV (GPS)-C",
-    "summary": "IFR procedure mandates turn at FAF and requires human altimeter reading for Maine landing.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-05T12:00:00Z",
-    "url": "https://www.flyingmag.com/chart-wise-rangeley-lake-seaplane-base-m57-rnav-gps-c/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a95ca54b328e",
-    "title": "How Pilots Land A Widebody In Near-Zero Visibility Using Autoland",
-    "summary": "Radio signals, redundant systems, and calculated procedures ensure aircraft can land safely in adverse conditions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T11:00:11Z",
-    "url": "https://simpleflying.com/how-pilots-land-widebody-near-zero-visibility-autoland/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7bc9917850ec",
-    "title": "FAA examines Marine One safety incident involving Trump take off: WSJ",
-    "summary": "The Federal Aviation Administration (FAA) is investigating a safety incident involving a Marine One helicopter carrying US President&#8230; The post FAA examines Marine One safety incident involving Trump take off: WSJ appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T10:40:54Z",
-    "url": "https://www.aerotime.aero/articles/faa-examines-marine-one-safety-incident-involving-trump-take-off-wsj",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ac9a2962f3d",
-    "title": "FAA Probes Loss Of Separation After Marine One & Envoy Air Jet Took Off 1 Minute Apart",
-    "summary": "Concerns remain over the crowded skies of Washington DC and the risks of close calls in busy airspace.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T09:12:39Z",
-    "url": "https://simpleflying.com/faa-marine-one-envoy-air-loss-of-separation-reagan-national/",
-    "airlineTag": "Envoy Air",
-    "isBreaking": false
-  },
-  {
-    "id": "0df58cbd04e0",
-    "title": "A Look At The Salaries Of US Navy Fighter Jet Pilots In 2026",
-    "summary": "What it pays to strap into a Navy strike fighter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T08:48:43Z",
-    "url": "https://simpleflying.com/us-navy-fighter-jet-pilots-salaries-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f02ea164a58b",
-    "title": "Why Airlines Keep Choosing The Airbus A321XLR Over The Boeing 737 MAX 10",
-    "summary": "While the MAX 10 awaits certification, airlines are already seeing success with the A321XLR",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T08:00:11Z",
-    "url": "https://simpleflying.com/why-airlines-keep-choosing-airbus-a321xlr-over-boeing-737-max-10/",
     "airlineTag": null,
     "isBreaking": false
   }
