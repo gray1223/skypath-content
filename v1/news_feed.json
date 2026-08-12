@@ -1,5 +1,115 @@
 [
   {
+    "id": "08519c4dd309",
+    "title": "'Full Throttle' scholarships open",
+    "summary": "I Hart Flying Foundation opened its second 2026 scholarship cycle, called \"Full Throttle: No Ceiling in Sight.\"",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-12T21:16:33Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "629105de5ae1",
+    "title": "How A Single $10 Component Can Delay The Delivery Of A $200 Million Aircraft",
+    "summary": "How can the industry fix this fragility?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T18:00:11Z",
+    "url": "https://simpleflying.com/how-a-single-10-component-can-delay-the-delivery-of-a-200-million-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f22d4ae11c03",
+    "title": "California Pilots Challenge Use of ADS-B Data for Aircraft Taxes",
+    "summary": "Los Angeles County is using ADS-B data to identify aircraft for property-tax collection.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-12T16:36:34Z",
+    "url": "https://avweb.com/aviation-news/california-pilots-ads-b-aircraft-taxes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7a1e6d2ff201",
+    "title": "United Airlines secures financing worth $390 million for A321neo and 737-8 jets",
+    "summary": "United Airlines has secured financing worth $390 million from British multinational bank Standard Chartered for four Airbus A321neo&#8230; The post United Airlines secures financing worth $390 million for A321neo and 737-8 jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T14:41:25Z",
+    "url": "https://www.aerotime.aero/articles/united-airlines-secures-financing-390-million-a321neo-737-max",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2d206a06f280",
+    "title": "Turkish Air Force F-16 crashes near Yalova during training, pilot ejects",
+    "summary": "A Turkish Air Force F-16 fighter crashed during a training flight in the northwestern province of Yalova on&#8230; The post Turkish Air Force F-16 crashes near Yalova during training, pilot ejects appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T14:28:32Z",
+    "url": "https://www.aerotime.aero/articles/turkish-air-force-f-16-crashes-yalova-pilot-ejects",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dbaae758f9be",
+    "title": "FAA Gives AMEs More Authority on Mental Health Medical Renewals",
+    "summary": "New pathway allows eligible pilots with anxiety, depression and related conditions to receive subsequent Special Issuance medical certificates from their AMEs.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-12T14:22:45Z",
+    "url": "https://avweb.com/aviation-news/faa-ame-mental-health-medical-review/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1f9760e9564d",
+    "title": "Former flight attendant pleads guilty to posing as pilot for free flights",
+    "summary": "A former Toronto flight attendant has pleaded guilty to wire fraud in the United States after prosecutors said&#8230; The post Former flight attendant pleads guilty to posing as pilot for free flights appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T14:18:10Z",
+    "url": "https://www.aerotime.aero/articles/former-flight-attendant-pleads-guilty-to-posing-as-pilot-for-free-flights",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2131038c703e",
+    "title": "Latvia weighs Embraer A-29 Super Tucano as drone hunter",
+    "summary": "Latvia\u2019s Air Force is assessing whether to acquire light combat aircraft capable of intercepting drones, with Embraer\u2019s A-29 Super Tucano named as&#8230; The post Latvia weighs Embraer A-29 Super Tucano as drone hunter appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T13:52:51Z",
+    "url": "https://www.aerotime.aero/articles/latvia-a29-super-tucano-counter-drone-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a1e6aedee407",
+    "title": "Boeing deliveries fall further behind Airbus after recent momentum slows",
+    "summary": "Boeing commercial aircraft deliveries in 2026 have fallen further behind rival Airbus after momentum built in May and&#8230; The post Boeing deliveries fall further behind Airbus after recent momentum slows appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T13:17:39Z",
+    "url": "https://www.aerotime.aero/articles/boeing-deliveries-orders-july-2026",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "03b715b0e72a",
+    "title": "Korean Air, Asiana secure board and shareholder approvals for December merger",
+    "summary": "Korean Air and Asiana Airlines have secured formal board and shareholder approvals for their long-anticipated merger. The approvals&#8230; The post Korean Air, Asiana secure board and shareholder approvals for December merger appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T13:16:53Z",
+    "url": "https://www.aerotime.aero/articles/korean-air-asiana-secure-board-and-shareholder-approvals-for-december-merger",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "30a5d2f3f755",
     "title": "Lockheed Martin tracks drones through unmodified Verizon 5G network",
     "summary": "Lockheed Martin says it detected and tracked drones using a commercial 5G network without modifying the operator\u2019s deployed radios, in&#8230; The post Lockheed Martin tracks drones through unmodified Verizon 5G network appeared first on AeroTime.",
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-05T15:36:36Z",
     "url": "https://avweb.com/aviation-news/military-gps-jamming-medevac-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "48f1333a7cae",
-    "title": "How A Bankrupt Carrier Handed Delta Air Lines Its Most Valuable Widebody",
-    "summary": "This airliner is now the carrier's most common twin-aisle plane.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-08-05T15:00:11Z",
-    "url": "https://simpleflying.com/bankrupt-carrier-handed-delta-air-lines-most-valuable-widebody/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "c0bdad0b9f0f",
-    "title": "Report: B-52 Modernization Program Faces Key Hurdles",
-    "summary": "Efforts to keep the U.S. Air Force bombers flying into the 2050s are running into cost and schedule concerns.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-05T14:00:00Z",
-    "url": "https://www.flyingmag.com/gao-report-boeing-b52-bomber-modernization/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c4c07bfd1f49",
-    "title": "FAA Investigates Marine One Separation Near DCA",
-    "summary": "Flights continued at Reagan National during the presidential helicopter\u2019s departure from Washington.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-05T13:57:23Z",
-    "url": "https://avweb.com/aviation-news/faa-investigates-marine-one-dca-incident/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ed7e71701dbb",
-    "title": "Air India names former Ethiopian Airlines boss as new CEO",
-    "summary": "Former Ethiopian Airlines boss Tewolde Gebremariam has been named as the new CEO of Air India, following a&#8230; The post Air India names former Ethiopian Airlines boss as new CEO appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T13:56:08Z",
-    "url": "https://www.aerotime.aero/articles/air-india-names-former-ethiopian-airlines-boss-as-new-ceo",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "722627412e80",
-    "title": "Air Astana Q2 revenue climbs 18.3% as engine issues push H1 into net loss",
-    "summary": "Air Astana grew its business at a rapid clip in the second quarter of 2026, adding new routes&#8230; The post Air Astana Q2 revenue climbs 18.3% as engine issues push H1 into net loss appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T13:55:02Z",
-    "url": "https://www.aerotime.aero/articles/air-astana-q2-revenue-climbs-18-3-as-engine-issues-push-h1-into-net-loss",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "74730add26bf",
-    "title": "National Airlines completes nonstop B777F flight between Scotland and Australia",
-    "summary": "This article was updated on August 6, 2026, to reflect comments to AeroTime by a National Airlines spokesperson.&#8230; The post National Airlines completes nonstop B777F flight between Scotland and Australia appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T13:34:17Z",
-    "url": "https://www.aerotime.aero/articles/national-airlines-completes-nonstop-b777f-flight-between-scotland-and-australia",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a5af2c9bf2be",
-    "title": "Qatar Airways' US Capacity Drops More Than 10% Year-On-Year: See All Flights Now [Map]",
-    "summary": "It isn't all bad news, as the carrier did also launch a new route to the US earlier this month.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T13:09:19Z",
-    "url": "https://simpleflying.com/qatar-airways-us-capacity-cuts/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a36af4386010",
-    "title": "How to Request a Transition Through Class D Airspace",
-    "summary": "Is control tower avoidance a flight school tradition or a legitimate rule?",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-05T13:00:00Z",
-    "url": "https://www.flyingmag.com/how-to-request-a-transition-through-class-d-airspace/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a50bc9b01e16",
-    "title": "All A220s Grounded By Pratt & Whitney Issues Will Fly Again By Year's End, Airbus Says",
-    "summary": "Airbus has stated that the technical issues that grounded many A220s have now \"largely been resolved,\" and that affected aircraft should be in the air before year-end. It\u2019s said that the Pratt & Whitney engine problems are currently affecting just 3% of the global fleet of air...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T12:33:11Z",
-    "url": "https://simpleflying.com/video/all-a220s-grounded-by-pratt-whitney-issues-will-fly-again-by-year-s-end-airbus-says/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e29f53146e4c",
-    "title": "APAC airlines see June 2026 passenger figures dip; cargo demand stays resilient",
-    "summary": "Asia Pacific airlines carried 30.5 million international passengers in June 2026, a 1.1% year-over-year decline, even as the&#8230; The post APAC airlines see June 2026 passenger figures dip; cargo demand stays resilient appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-05T12:26:54Z",
-    "url": "https://www.aerotime.aero/articles/apac-airlines-see-june-2026-passenger-figures-dip-cargo-demand-stays-resilient",
     "airlineTag": null,
     "isBreaking": false
   }
