@@ -1,5 +1,27 @@
 [
   {
+    "id": "836c7a330e68",
+    "title": "From Classified Test Flight To $20 Billion Contract: The F-47\u2019s Rapid Rise",
+    "summary": "The Boeing F-47 reached a $20 billion contract in just five years. Here's how secret flights and digital engineering rewrote fighter development.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T00:00:11Z",
+    "url": "https://simpleflying.com/f47-secret-test-flight-contract/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9c065423d967",
+    "title": "JetBlue's New Four-Cabin Overhaul: What BlueFirst Base Actually Gets You (And What It Doesn't)",
+    "summary": "JetBlue's new BlueFirst Base fare offers a premium seat at a lower cost, but with reduced perks. Is it a trap or added value?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T22:00:11Z",
+    "url": "https://simpleflying.com/jetblue-four-cabin-overhaul-bluefirst/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "08519c4dd309",
     "title": "'Full Throttle' scholarships open",
     "summary": "I Hart Flying Foundation opened its second 2026 scholarship cycle, called \"Full Throttle: No Ceiling in Sight.\"",
@@ -8,6 +30,50 @@
     "publishedDate": "2026-08-12T21:16:33Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "401c788e1f98",
+    "title": "1st Half Of 2026: Delta Air Lines Cancels Nearly Twice As Many Flights As In 2025",
+    "summary": "Delta\u2019s cancellations have nearly doubled in 2026 despite improved on-time performance and stronger hiring.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-08-12T21:09:41Z",
+    "url": "https://simpleflying.com/delta-air-lines-cancels-nearly-twice-many-flights-2025/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "0d42745d9da3",
+    "title": "The Soviet Plane Built With A WWII Bomber's Tail Turret & Glazed Nose That The West Forgot",
+    "summary": "The Antonov An-12 wasn't a Soviet C-130 copy. Its bomber DNA, tail guns, and unique cargo system made it one of the Cold War's strangest airlifters.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T21:00:11Z",
+    "url": "https://simpleflying.com/soviet-plane-tail-turret-glazed-nose/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d3ccae831f1b",
+    "title": "How This 94-Seat Premium Economy Cabin Is Breaking The Ultra-Long-Haul Product",
+    "summary": "Singapore Airlines' hard premium economy product is strong, but the experience on the A350-900ULR is let down by a crowded cabin.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-12T20:00:11Z",
+    "url": "https://simpleflying.com/how-this-94-seat-premium-economy-cabin-is-breaking-the-ultra-long-haul-product/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "815d0a6e4142",
+    "title": "FedEx unveils retro 777F as Memphis airport is renamed for founder Fred Smith",
+    "summary": "FedEx has unveiled a Boeing 777 Freighter in a retro paint scheme inspired by the aircraft that launched&#8230; The post FedEx unveils retro 777F as Memphis airport is renamed for founder Fred Smith appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-12T19:22:40Z",
+    "url": "https://www.aerotime.aero/articles/fedex-retro-777f-livery-fred-smith-memphis",
+    "airlineTag": "FedEx Express",
     "isBreaking": false
   },
   {
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-05T18:00:11Z",
     "url": "https://simpleflying.com/mcdonnell-douglas-md-11-likely-killed-werent-air-cargo-demand/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "81f677f0b746",
-    "title": "How Cabin Pressurization Keeps You Alive At 40,000 Feet",
-    "summary": "A critical system that no airliner could fly without.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T18:00:11Z",
-    "url": "https://simpleflying.com/cabin-pressurization-alive-40000-feet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba5fee68a97f",
-    "title": "20 Hours & 11,315 Miles: National Airlines Completes Record-Breaking Boeing 777F Flight",
-    "summary": "The 777F departed Scotland and arrived in Australia 19 hours and 24 minutes later.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T17:02:59Z",
-    "url": "https://simpleflying.com/national-airlines-record-boeing-777f-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1f7746aecd65",
-    "title": "FAA Examines Loss of Separation Involving Marine One Near D.C.",
-    "summary": "ATC failed to halt commercial traffic as Trump\u2019s helicopter departed the White House.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-05T17:00:00Z",
-    "url": "https://www.flyingmag.com/faa-examines-loss-of-separation-involving-marine-one-near-d-c/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e7d06e6a1dbf",
-    "title": "Bipartisan Senate Bill Targets Airport Surface Safety",
-    "summary": "The Runway SAFE-T Act is aimed at reducing runway incursions through better airport vehicle training and safety technology.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-05T16:47:44Z",
-    "url": "https://avweb.com/aviation-news/runway-safe-t-act-airport-surface-safety/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "904c027bc093",
-    "title": "Video: Piper barely misses highway sign during emergency landing in Florida",
-    "summary": "A flight instructor flying with a student on his first lesson avoided disaster by guiding their Piper PA-28&#8230; The post Video: Piper barely misses highway sign during emergency landing in Florida appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "training",
-    "publishedDate": "2026-08-05T16:22:51Z",
-    "url": "https://www.aerotime.aero/articles/piper-highway-emergency-landing-florida-video",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3b61d3b87fae",
-    "title": "Military GPS Jamming Under Scrutiny In Fatal New Mexico Medevac Accident",
-    "summary": "A military GPS jamming exercise is under scrutiny as investigators examine whether it contributed to the fatal crash of a medevac King Air in New Mexico.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-05T15:36:36Z",
-    "url": "https://avweb.com/aviation-news/military-gps-jamming-medevac-crash/",
     "airlineTag": null,
     "isBreaking": false
   }
