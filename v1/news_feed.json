@@ -1,5 +1,148 @@
 [
   {
+    "id": "84215ee7d66f",
+    "title": "North Carolina flights marked new chapter in EMS",
+    "summary": "After months of preparation and training, North Carolina paramedic Quinn Reece was ready on June 27 when a 911 call summoned her to fly the first advanced life support (ALS) response in the United States using an electric vertical takeoff and landing aircraft.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-13T22:18:54Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "61bc55e70918",
+    "title": "Pilots dispute Arizona's Falcon Field fee justification",
+    "summary": "AOPA, along with the Arizona Pilots Association (APA) and the Aviation Safety Advisory Group of Arizona (ASAG), submitted comments to the FAA pushing back on the city of Mesa&rsquo;s defense of its financial methodology and rationale behind the implementation of landing fees a...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-13T21:42:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2399f5671360",
+    "title": "FAA finds Texas airport violated federal obligations",
+    "summary": "The FAA has found the sponsor of Pearland Regional Airport&mdash;a privately owned, public-use airport near Houston&mdash;in violation of four federal grant assurances after it sold airport property to a developer that is building hundreds of homes immediately adjacent to the ...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-13T19:38:11Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8307362fd5e1",
+    "title": "7 US Naval Air Stations That Keep America's Carrier Fleet Flying In 2026",
+    "summary": "The biggest bases in the Navy's global chain of air stations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T19:00:12Z",
+    "url": "https://simpleflying.com/us-naval-air-stations-carriers-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ba5fcdbceebf",
+    "title": "Confirmed: Delta Air Lines To Link Austin & Paris With Nonstop Flights Launching In 2027",
+    "summary": "The legacy carrier said the new route will make it \u201ceasier than ever\u201d for passengers to reach destinations around the world from Central Texas.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T18:01:11Z",
+    "url": "https://simpleflying.com/delta-air-lines-link-austin-paris-nonstop-flights-launching-2027/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "aabefc4ef9b8",
+    "title": "American Airlines Cuts 9 Routes From Its Busiest Hub: See Affected Flights",
+    "summary": "In the past three years or so, all of these routes have been removed. Find them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T18:00:11Z",
+    "url": "https://simpleflying.com/american-airlines-has-cut-9-routes-from-its-busiest-hub-see-affected-flights/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6d96ce8df4c4",
+    "title": "\u2018Spruce Goose\u2019 Home Rebrands as North American Aerospace Museum",
+    "summary": "Oregon\u2019s iconic aviation facility drops \u2018Evergreen\u2019 moniker to better reflect its expansive educational mission.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-13T17:00:00Z",
+    "url": "https://www.flyingmag.com/spruce-goose-home-rebrands-as-north-american-aerospace-museum/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f635043cc545",
+    "title": "FAA Orders Rotax Gearbox Inspections",
+    "summary": "New AD requires inspections of certain 912 and 914-series engines after production omissions were discovered.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-13T16:03:47Z",
+    "url": "https://avweb.com/aviation-news/faa-orders-rotax-gearbox-inspections/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cb702766be1d",
+    "title": "Two Soldiers Killed In Fort Hood Apache Accident",
+    "summary": "AH-64E went down during a routine training flight near Salado, Texas, and sparked a grass fire.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-13T15:37:37Z",
+    "url": "https://avweb.com/aviation-news/two-killed-fort-hood-apache-accident/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e6113ba4ad42",
+    "title": "Boeing recruits CEO of GOL Linhas A\u00e9reas as new Latin America president",
+    "summary": "Boeing has recruited the CEO of Brazilian low-cost airline GOL Linhas A\u00e9reas as its new president for the&#8230; The post Boeing recruits CEO of GOL Linhas A\u00e9reas as new Latin America president appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-13T14:31:18Z",
+    "url": "https://www.aerotime.aero/articles/boeing-recruits-ceo-of-gol-linhas-aereas-as-new-latin-america-president",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a7cfd8667bf9",
+    "title": "Before Qsuite, This Airline Had A Business Class Suite With A Door Back In 2014",
+    "summary": "An airline that nobody expected would innovate and experiment in this way.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T14:00:11Z",
+    "url": "https://simpleflying.com/first-business-class-suite-door/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "13ca51d41c45",
+    "title": "WestJet agrees to US$3.2 million settlement in harassment lawsuit",
+    "summary": "WestJet has agreed to pay CA$4.5 million (US$3.2 million) to settle a decade-long class action lawsuit brought by&#8230; The post WestJet agrees to US$3.2 million settlement in harassment lawsuit appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-13T13:51:29Z",
+    "url": "https://www.aerotime.aero/articles/westjet-agrees-to-us3-2-million-settlement-in-harassment-lawsuit",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "22612c1617b2",
+    "title": "UPDATED: Is drone maker Baykar about to launch a cargo airline? What we know so far",
+    "summary": "This article was updated on August 13, 2026, to add comment from Turkish aviation journalist Tolga Ozbek. Turkish&#8230; The post UPDATED: Is drone maker Baykar about to launch a cargo airline? What we know so far appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-13T13:28:00Z",
+    "url": "https://www.aerotime.aero/articles/is-drone-maker-baykar-about-to-launch-a-cargo-airline-what-we-know-so-far",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3f712ffed7f7",
     "title": "The Exact Flight Hours Where Owning A Challenger 300 Beats Chartering One In 2026",
     "summary": "It is better to own a Challenger 300 for people and businesses using the jet around 300 hours a year.",
@@ -396,6 +539,17 @@
     "isBreaking": false
   },
   {
+    "id": "230720e754f7",
+    "title": "Pilots recount Chipmunk journey to AirVenture",
+    "summary": "Women flying warbirds are rare. And seeing two together is nearly unheard of. Yet in July, pilots Katie Mack and Lisa Corker ferried the Canadian Aviation Museum&rsquo;s de Havilland Chipmunks from Windsor, Ontario, to Oshkosh, Wisconsin, for EAA AirVenture.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-12T00:20:01Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "1a313bc561ff",
     "title": "Training and Safety Tip: Tame checkride anxiety",
     "summary": "After months of training, thousands of dollars spent, and hundreds of hours devoted to earning your pilot certificate, that goal is finally within reach: Your checkride is scheduled and the final days of preparation are upon you. Likely, you&rsquo;re feeling some anxiety. For ...",
@@ -535,6 +689,17 @@
     "category": "industry",
     "publishedDate": "2026-08-11T17:44:00Z",
     "url": "https://simpleflying.com/simple-flying-flight-tracker-updates/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4c76fe7892b",
+    "title": "Unique bush pilot race combines paddling, seaplane handling skills",
+    "summary": "An unusual aero-nautical competition will once again pair pilots and paddlers on Moosehead Lake in Maine September 12, weather permitting.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-11T17:43:16Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/unique-bush-pilot-race-combines-paddling-seaplane-handling-skills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2032,171 +2197,6 @@
     "publishedDate": "2026-08-06T13:48:13Z",
     "url": "https://www.aerotime.aero/articles/delta-launches-first-nonstop-us-saudi-arabia-flight-with-new-riyadh-route",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "8e4bf95cc47c",
-    "title": "FAA Adopts New AD for Diamond DA42",
-    "summary": "Order addresses uncommanded rudder deflection caused by a cracked nose landing gear hydraulic actuator rod end.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-06T13:30:00Z",
-    "url": "https://www.flyingmag.com/faa-adopts-new-ad-for-diamond-da42/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "13c0320426dd",
-    "title": "5 Things Passengers Don't Know About How Airlines Rank Standby & Rebooking Priority",
-    "summary": "A closer look at how airlines decides who gets to clear standby first.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T13:00:11Z",
-    "url": "https://simpleflying.com/5-things-passengers-dont-know-airlines-rank-standby-rebooking-priority/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "11190b799079",
-    "title": "A Closer Look At The Airbus A400M (FIA 2026)",
-    "summary": "Welcome to another special Simple Flying episode based on our time at the Farnborough International Airshow 2026! In this video we have our correspondent Alejandro taking a very brief look at the Airbus A400M.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T12:30:11Z",
-    "url": "https://simpleflying.com/video/a-closer-look-at-the-airbus-a400m-fia-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5805c8132285",
-    "title": "Best Helicopter Pilot Jobs in Alaska",
-    "summary": "Operating a helo in The Last Frontier can come with many perks, but it also entails flying in dangerous terrain.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-06T12:00:00Z",
-    "url": "https://www.flyingmag.com/best-helicopter-pilot-jobs-in-alaska/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f3a2589a2e55",
-    "title": "Archer Reveals What's Next for eVTOL Aviation",
-    "summary": "Sumit Singh of Simple Flying sits down with Archer Aviation to explore how the company is shaping the future of urban air mobility. From its all-electric Midnight aircraft and certification progress to airline partnerships, defense collaborations, and the challenges of bringin...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T11:00:11Z",
-    "url": "https://simpleflying.com/video/archer-reveals-what-s-next-for-evtol-aviation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d14bee38d313",
-    "title": "Belgium blocks China-linked takeover of helicopter operator NHV Group",
-    "summary": "Belgium has blocked the acquisition of Ostend-based helicopter operator NHV Group by GD Helicopter Finance (GDHF), an Irish&#8230; The post Belgium blocks China-linked takeover of helicopter operator NHV Group appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-06T10:42:07Z",
-    "url": "https://www.aerotime.aero/articles/belgium-blocks-china-linked-takeover-nhv-group",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2d688238a26e",
-    "title": "Why Do Planes Fly Over The Arctic But Not The Antarctic?",
-    "summary": "Several commercial air routes exist over the Arctic, but none over the Antarctic - why is this the case?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T09:40:43Z",
-    "url": "https://simpleflying.com/why-planes-fly-over-the-arctic-but-not-antarctic/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1768ba5b4b52",
-    "title": "Iberia to operate special A321XLR flight with Starlink to observe solar eclipse",
-    "summary": "Spanish flag carrier Iberia will operate a special charter flight to observe the total solar eclipse that will&#8230; The post Iberia to operate special A321XLR flight with Starlink to observe solar eclipse appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-06T08:27:54Z",
-    "url": "https://www.aerotime.aero/articles/iberia-to-operate-special-a321xlr-flight-with-starlink-to-observe-solar-eclipse",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e51b9d012a4e",
-    "title": "Joby targets September for first US eVTOL pilot program flights",
-    "summary": "Joby Aviation expects to conduct its first flights under the US eVTOL Integration Pilot Program (eIPP) in September&#8230; The post Joby targets September for first US eVTOL pilot program flights appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-06T08:22:45Z",
-    "url": "https://www.aerotime.aero/articles/joby-targets-september-first-us-evtol-pilot-flights",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "854374c8f011",
-    "title": "Delta Discounts First-Ever Saudi Arabia Route Amid 'Softer Than Anticipated' Bookings",
-    "summary": "The airline has confirmed an October launch date for its Atlanta-Riyadh service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T08:04:48Z",
-    "url": "https://simpleflying.com/delta-saudi-arabia-atlanta-riyadh-discount-softer-bookings/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "a6af83e3405b",
-    "title": "Aircraft Maintenance: What to check after a smoky flight",
-    "summary": "Our flight to EAA AirVenture Oshkosh in Wisconsin this year included some extensive instrument conditions, with visibility frequently less than one statute mile in dense smoke from the Canadian wildfires. What we found after landing surprised us&mdash;and changed how we mainta...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-06T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/what-to-check-after-a-smoky-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fb5c23213649",
-    "title": "Why The Ilyushin Il-96 Is Making An Unexpected Comeback",
-    "summary": "The Il-96 is set to survive in Russian government service, but it is not set to make a comeback into commercial passenger service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T05:00:11Z",
-    "url": "https://simpleflying.com/why-the-ilyushin-il-96-is-making-an-unexpected-comeback/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ebdc78692499",
-    "title": "DHL Cargo Jet Collides With Unidentified Object After Bomb Drone Alert At German Airport",
-    "summary": "An explosive-laden drone forced a DHL freighter into a go-around and mid-air collision.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T04:19:20Z",
-    "url": "https://simpleflying.com/dhl-cargo-jet-collides-unidentified-object-bomb-drone/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fa9b53b8cafd",
-    "title": "From memory to mastery",
-    "summary": "Every year, thousands of aspiring pilots walk away from pursuing a private pilot certificate. At the same time, NTSB data shows fatal in-flight loss-of-control accidents continue to claim more lives than the next eight fatal accident categories combined. According to CFI Rich ...",
-    "source": "AOPA",
-    "category": "regulatory",
-    "publishedDate": "2026-08-06T00:39:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/05/from-memory-to-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db1a42ca0826",
-    "title": "The Real Reason Why No US Airline Ever Operated The Airbus A380",
-    "summary": "The US is a key market for the A380, but no US airlines have ever operated the superjumbo.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T22:00:11Z",
-    "url": "https://simpleflying.com/real-reason-why-no-us-airline-ever-operated-airbus-a380/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
