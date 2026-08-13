@@ -1,5 +1,38 @@
 [
   {
+    "id": "63c7a2c4dc4b",
+    "title": "The Air Forces Operating The World's Newest Stealth Fighters In 2026",
+    "summary": "More than 20 air forces now fly stealth fighters, but the world has split into two rival clubs that never overlap.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T05:00:11Z",
+    "url": "https://simpleflying.com/newest-stealth-fighter-fleets-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9ed0a71fd83f",
+    "title": "JetBlue Receives FAA Certification On BlueFirst Seat, 1st Modified Cabin Expected Next Month",
+    "summary": "JetBlue\u2019s BlueFirst cabin nears launch after FAA certification clears a key regulatory hurdle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-13T03:14:34Z",
+    "url": "https://simpleflying.com/jetblue-faa-certification-bluefirst-seat-1st-modified-cabin-next-month/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "2adc08d01b14",
+    "title": "United 787 flight to Munich diverts to Boston after cockpit windshield cracks",
+    "summary": "A United Airlines Boeing 787-8 flying from Washington Dulles Airport (IAD) to Munich (MUC) diverted to Boston Logan&#8230; The post United 787 flight to Munich diverts to Boston after cockpit windshield cracks appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-13T01:00:00Z",
+    "url": "https://www.aerotime.aero/articles/united-787-munich-boston-cracked-windshield",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "836c7a330e68",
     "title": "From Classified Test Flight To $20 Billion Contract: The F-47\u2019s Rapid Rise",
     "summary": "The Boeing F-47 reached a $20 billion contract in just five years. Here's how secret flights and digital engineering rewrote fighter development.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-05T18:45:46Z",
     "url": "https://avweb.com/aviation-news/cleveland-business-aviation-groups-support/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dcd7e7e1941e",
-    "title": "Colorado\u2019s Centennial Airport Hangar Rent Dispute Heads to Court",
-    "summary": "Pilots at Colorado's Centennial Airport have taken their fight over a nearly 82% hangar rent increase to court.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-05T18:06:38Z",
-    "url": "https://avweb.com/news/colorados-centennial-airport-hangar-rent-dispute/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2a0a22025fe5",
-    "title": "Southwest Airlines Launches 11 Massive New Routes [Full List]",
-    "summary": "All except one are domestic. Find out what's happening here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T18:00:11Z",
-    "url": "https://simpleflying.com/southwest-airlines-launches-11-massive-new-routes/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2719a71839db",
-    "title": "The McDonnell Douglas MD-11 Would've Likely Been Killed If It Weren't For Air Cargo Demand",
-    "summary": "The aircraft did not deliver the performance McDonnell Douglas had promised.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-05T18:00:11Z",
-    "url": "https://simpleflying.com/mcdonnell-douglas-md-11-likely-killed-werent-air-cargo-demand/",
     "airlineTag": null,
     "isBreaking": false
   }
