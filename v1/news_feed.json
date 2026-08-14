@@ -1,5 +1,38 @@
 [
   {
+    "id": "37622a62aa60",
+    "title": "\u201cThis Is A Security Breach\u201d: United Airlines Flight Evacuates After Bullet Was Found Onboard",
+    "summary": "A loose round in the cabin shuts down flight 1302 at the gate.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T07:17:47Z",
+    "url": "https://simpleflying.com/united-airlines-flight-evacuates-bullet-found-onboard/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5915ff38414b",
+    "title": "PeakJet takes off: the Swiss startup bringing semi-private aviation to Europe",
+    "summary": "The semi-private flight concept has been popular in the United States for quite some time. Companies like JSX&#8230; The post PeakJet takes off: the Swiss startup bringing semi-private aviation to Europe appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-14T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/peakjet-takes-off-the-swiss-startup-bringing-semi-private-aviation-to-europe",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0915b88205cb",
+    "title": "Technical Malfunction Forces Delta Air Lines Airbus A321 Return To Atlanta After 15 Minutes",
+    "summary": "The aircraft safely resumed its flight to Florida after a delay.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T01:20:42Z",
+    "url": "https://simpleflying.com/technical-malfunction-forces-delta-air-lines-airbus-a321-return-atlanta-15-minutes/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "14ad4c7d7f2a",
     "title": "Technical Malfunction Forces Delta Air Lines Airbus A321 Returns To Atlanta After 15 Minutes",
     "summary": "The aircraft safely resumed its flight to Florida after a delay.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-06T19:06:33Z",
     "url": "https://avweb.com/recent-updates/evtols-urban-mobility/joby-september-start-texas-eipp-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "324de05039fd",
-    "title": "How A Modern Jet Engine Survives A Direct Lightning Strike",
-    "summary": "Lightning can hit a jet with 200,000 amps, yet engines keep running. Here's how modern airliners survive one of nature's fiercest forces.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T19:00:11Z",
-    "url": "https://simpleflying.com/how-modern-jet-engine-survive-direct-lightning-strike/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "50321125f5fe",
-    "title": "Should I Pay Cash for My Aircraft?",
-    "summary": "FLYING's CFO gives his take on paying cash, traditional aircraft financing, and why real estate investors and entrepreneurs might take a third path.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-06T18:06:03Z",
-    "url": "https://www.flyingmag.com/should-i-pay-cash-for-my-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "af8a2659c858",
-    "title": "AOPA urges FAA to protect aircraft owner data",
-    "summary": "AOPA, along with several other prominent general aviation organizations, sent a letter to the FAA, urging the agency to limit the disclosure of the personal information of aircraft owners.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-06T17:50:56Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/06/aopa-urges-faa-to-protect-aircraft-owner-data?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
