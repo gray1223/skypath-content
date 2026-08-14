@@ -1,5 +1,104 @@
 [
   {
+    "id": "88a183943558",
+    "title": "Delta Air Lines Is Planning To Return To Singapore, Report Says",
+    "summary": "Delta is eyeing a return to Singapore as it rebuilds its Asian network around more nonstop US routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T18:42:45Z",
+    "url": "https://simpleflying.com/delta-air-lines-planning-return-singapore/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "e265b5ada889",
+    "title": "2 American Airlines Boeing 737s With The Same Callsign Flew Straight At Each Other",
+    "summary": "Delayed inbound AA2482 and on time departure with the same callsign created cockpit and ATC audio confusion over Phoenix.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T18:25:28Z",
+    "url": "https://simpleflying.com/american-airlines-boeing-737-same-callsign/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6d60d11e6515",
+    "title": "Italy Seizes Foreign-Registered GA Aircraft",
+    "summary": "European GA groups say N-registered and other foreign aircraft are facing increased scrutiny from Italian financial authorities.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-14T18:22:10Z",
+    "url": "https://avweb.com/aviation-news/italy-seize-foreign-registered-ga-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6a3394c50f17",
+    "title": "100% Drone Tariff Could Force Users to Buy American",
+    "summary": "China\u2019s DJI holds an estimated 70-80% share of the global market for commercial UAS.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-14T17:30:00Z",
+    "url": "https://www.flyingmag.com/100-percent-drone-tariff-buy-american/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "79fb59f8b029",
+    "title": "Delta\u2019s Massive Europe Push: Now 10 Nonstop Routes To This Major City [Map]",
+    "summary": "The carrier now has the most flights ever to Paris. See why here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T17:00:11Z",
+    "url": "https://simpleflying.com/deltas-massive-europe-push-10-nonstop-routes-to-this-major-city/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "0f8b396af98e",
+    "title": "A Look At The Salaries Of Air Traffic Controllers In 2026",
+    "summary": "ATC has been in the news a lot of late due to crippling staff shortages in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T16:48:05Z",
+    "url": "https://simpleflying.com/salaries-air-traffic-controllers-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "61532412d0ed",
+    "title": "Airbus A318 About To Become The 1st Model Fully Retired From Passenger Service",
+    "summary": "Air France\u2019s final four A318s are just weeks away from retirement after 23 years of passenger service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T16:30:50Z",
+    "url": "https://simpleflying.com/airbus-a318-first-model-retired-passenger-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f1fd42b2f8e8",
+    "title": "FAA proposes Boeing 787 fan cowl fix over risk of dual engine shutdown",
+    "summary": "The Federal Aviation Administration (FAA) is proposing mandatory fan cowl modifications on certain Boeing 787 Dreamliners after Boeing&#8230; The post FAA proposes Boeing 787 fan cowl fix over risk of dual engine shutdown appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-14T14:52:23Z",
+    "url": "https://www.aerotime.aero/articles/faa-boeing-787-fan-cowl-dual-engine-shutdown",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c983b84d87b0",
+    "title": "Pilot Groups Challenge Falcon Field Landing-Fee Justification",
+    "summary": "New FAA filing questions Mesa\u2019s financial analysis and raises concerns about displaced training traffic.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-14T14:24:27Z",
+    "url": "https://avweb.com/aviation-news/groups-challenge-falcon-field-landing-fee/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a31629d1afc2",
     "title": "Ouch: Lufthansa Becomes 2nd Airline To Reject Boeing\u2019s Oldest 777-9s",
     "summary": "Lufthansa has become the second major Boeing 777X customer to say it does not want some of the oldest/earliest 777-9s built. During the airline's Q2 earnings call, CEO Carsten Spohr confirmed that discussions are underway with Boeing over which early-production aircraft Luftha...",
@@ -138,7 +237,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T22:18:54Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -160,7 +259,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T21:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -237,7 +336,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T19:38:11Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -490,7 +589,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-12T21:16:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -754,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-12T00:20:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-11T23:20:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/training-and-safety-tip-tame-checkride-anxiety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/training-and-safety-tip-tame-checkride-anxiety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -908,7 +1007,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-11T17:43:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/unique-bush-pilot-race-combines-paddling-seaplane-handling-skills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/unique-bush-pilot-race-combines-paddling-seaplane-handling-skills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-08-07T09:56:22Z",
     "url": "https://www.aerotime.aero/articles/jal-malaysia-airlines-codeshare-deal-aims-to-boost-regional-japan-tourism",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "857a110cd05c",
-    "title": "Sun Country Airlines Drastically Cut Flights Because Its Pilots Left For Delta, CEO Admits",
-    "summary": "The carrier's September capacity in Minneapolis has dropped by almost 40%.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T09:37:02Z",
-    "url": "https://simpleflying.com/sun-country-drastically-cut-flights-pilots-left-delta/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "fd0507409878",
-    "title": "4 New Routes: Inside Riyadh Air's Unstoppable Boeing 787 Global Expansion",
-    "summary": "The carrier keeps on growing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T08:57:07Z",
-    "url": "https://simpleflying.com/riyadh-air-new-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "02761f04722f",
-    "title": "Southwest Airlines Is No Longer Known As The World's Strongest Airline Brand: Here's What Happened",
-    "summary": "Southwest Airlines lost the top spot in the global airline brand rankings after ending free bags and introducing basic economy. ANA took its place.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T08:00:11Z",
-    "url": "https://simpleflying.com/southwest-airlines-no-longer-known-worlds-strongest-airline-brand-what-happened/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a57d5c8625b7",
-    "title": "Airbus deliveries slide backwards in July, total remains ahead of 2025",
-    "summary": "Airbus lost some of the momentum it has recently been building on commercial aircraft deliveries during July 2026,&#8230; The post Airbus deliveries slide backwards in July, total remains ahead of 2025 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T07:23:55Z",
-    "url": "https://www.aerotime.aero/articles/airbus-deliveries-orders-july-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "632842ab5ca8",
-    "title": "No Job Cuts For 12 Months: US Private Equity Firm Plans Out easyJet\u2019s \u00a35.7 Billion Takeover",
-    "summary": "Apollo\u2019s \u00a35.7 billion takeover will reshape easyJet\u2019s ownership, workforce and commercial strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T03:54:07Z",
-    "url": "https://simpleflying.com/us-private-equity-firm-plans-out-easyjet-takeover/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5675c9610110",
-    "title": "Seattle Battle: Delta Air Lines Set To Challenge Alaska By Reinstating Service To Tokyo Narita",
-    "summary": "The service will become the fourth route in which the two carriers will compete directly.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T00:01:11Z",
-    "url": "https://simpleflying.com/delta-air-lines-challenge-alaska-reinstate-seattle-tokyo-narita/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "2baa9a0d47c1",
-    "title": "Is It True That Latin American Carriers Are Outperforming Their US & European Counterparts?",
-    "summary": "Latin American airlines are achieving record profits, making them among the most profitable in the world.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T00:00:11Z",
-    "url": "https://simpleflying.com/true-latin-american-carriers-outperforming-us-european-counterparts/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "78526c2dbe2b",
-    "title": "FAA refines unleaded fuel transition framework",
-    "summary": "The FAA released the first major update of its Transition Plan to Unleaded Aviation Gasoline on July 30, revising with additional detail the roadmap for eliminating the use of tetraethyllead (TEL) in avgas and updating pilots and aircraft owners on the status of each fuel.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-06T23:01:55Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/06/faa-refines-unleaded-fuel-transition-framework?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e1dbf543c80",
-    "title": "No More Flagship? American Airlines Cuts Upgrade Eligibility For Elite Fliers On Some Flights",
-    "summary": "American\u2019s new upgrade rules will block some economy elites from reaching lie-flat Business Class.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-06T22:15:54Z",
-    "url": "https://simpleflying.com/american-airlines-cuts-upgrade-eligbility-elite-fliers-some-flights/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
