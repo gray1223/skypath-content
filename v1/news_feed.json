@@ -1,5 +1,104 @@
 [
   {
+    "id": "8cc38f078af1",
+    "title": "Why Airbus Is Building A350s Faster Than Airlines Can Actually Take Them",
+    "summary": "Airbus is in the process of increasing its A350 production output, but are airlines actually in a position to receive them?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T00:00:11Z",
+    "url": "https://simpleflying.com/airbus-a350-production-deliveries/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0a20ff04335e",
+    "title": "The Hub Delta Air Lines Threw Away After Merging With Northwest",
+    "summary": "A closer look at how Delta's transpacific strategy has evolved since 2008.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T23:00:11Z",
+    "url": "https://simpleflying.com/hub-delta-air-lines-threw-away-merging-northwest/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "c51a88220400",
+    "title": "Premium Expansions: Delta Air Lines\u2019 Boeing 737 MAX 10s Will Have 24 First Class Seats",
+    "summary": "The number represents an increase from the original 20-seat number.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T21:40:18Z",
+    "url": "https://simpleflying.com/delta-air-lines-boeing-737-max-10s-24-first-class-seats/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "507420b82ff3",
+    "title": "Why United Airlines Is Deliberately Removing 35 Seats From Its Boeing 787-9 Dreamliner On Houston Long-Hauls",
+    "summary": "The move reduces total capacity but increases lucrative premium offerings.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T21:00:11Z",
+    "url": "https://simpleflying.com/united-7879-seat-reduction/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "488b3a73188e",
+    "title": "5 Things Passengers Don't Know About Takeoffs From The World's Highest Airports",
+    "summary": "Operating from high-altitude airports is not the same as operating from a standard airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T21:00:11Z",
+    "url": "https://simpleflying.com/5-things-passengers-dont-know-takeoffs-worlds-highest-airports/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "72ff1717f0ae",
+    "title": "Continued Struggles: Norse Atlantic Airways Considers Leasing Its Boeing 787s To 2 Airlines",
+    "summary": "Struggling Norwegian carrier explores Asian lease deals to steady cash flow with ready-to-fly Boeing 787s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T20:03:35Z",
+    "url": "https://simpleflying.com/norse-atlantic-airways-considers-leasing-boeing-787s-2-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "be44ec3c838b",
+    "title": "How An Ex-Iberia Boeing 757 Is Shaping Europe's Sixth-Generation Fighter",
+    "summary": "2Excel and other contractors are modifying an old Boeing 757-200 as a testbed for developing the GCAP/Tempest next-generation fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T20:00:11Z",
+    "url": "https://simpleflying.com/iberia-757-sixth-gen-fighter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b9b208d3351d",
+    "title": "FAA Updates Cockpit-Control Guidance for Touchscreens, Voice Commands",
+    "summary": "Draft guidance addresses human-factors concerns as cockpit controls move beyond switches and knobs.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-14T19:06:37Z",
+    "url": "https://avweb.com/aviation-news/faa-updates-cockpit-control-guidance/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6d2874f8d717",
+    "title": "Pilots File Lawsuit Alleging Delta Air Lines Denied Paid Leave Amid Military Deployments",
+    "summary": "Federal judge clears class action as pilots seek common proof about comparable paid leave and reemployment protections.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-14T19:04:45Z",
+    "url": "https://simpleflying.com/pilots-file-lawsuit-alleging-delta-air-lines-denied-paid-leave-military-deployments/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "88a183943558",
     "title": "Delta Air Lines Is Planning To Return To Singapore, Report Says",
     "summary": "Delta is eyeing a return to Singapore as it rebuilds its Asian network around more nonstop US routes.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-07T12:51:00Z",
     "url": "https://www.aerotime.aero/articles/ampaire-starts-hybrid-electric-tests-in-utah-as-part-of-the-eipp-program",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ab1268a667c",
-    "title": "Indian Air Force\u2019s Rafale makes historic debut at Exercise Pitch Black 26",
-    "summary": "The Indian Air Force\u2019s (IAF) Rafale fighter jet has made its debut appearance at Exercise Pitch Black 26,&#8230; The post Indian Air Force\u2019s Rafale makes historic debut at Exercise Pitch Black 26 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T12:47:59Z",
-    "url": "https://www.aerotime.aero/articles/indian-air-forces-rafale-makes-historic-debut-at-exercise-pitch-black-26",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1079d2a0d641",
-    "title": "Why The World's Largest Military Transport Aircraft Doesn't Use Winglets",
-    "summary": "Simplicity meets power on the world's largest 'big wing' jets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T12:47:34Z",
-    "url": "https://simpleflying.com/worlds-largest-military-transport-aircraft-doesnt-use-winglets/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c73b197c7426",
-    "title": "Why The US Air Force Is Quietly Buying Up Lufthansa's Boeing 747s In 2026",
-    "summary": "The purchase reflects the growing strain on the Air Force One replacement program.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T11:44:21Z",
-    "url": "https://simpleflying.com/why-the-us-air-force-buying-up-lufthansas-boeing-747s-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "93a3c1db642b",
-    "title": "Cebu Pacific adds 5 new routes to China, Vietnam, and Japan for Q4 2026",
-    "summary": "Cebu Pacific (CEB) has announced that it is to add five new and resumed international routes to China,&#8230; The post Cebu Pacific adds 5 new routes to China, Vietnam, and Japan for Q4 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T11:25:22Z",
-    "url": "https://www.aerotime.aero/articles/cebu-pacific-adds-5-new-routes-to-china-vietnam-and-japan-for-q4-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "295761541340",
-    "title": "US Air Force flies first robot-formed panel on storm-damaged C-17",
-    "summary": "A US Air Force C-17 Globemaster III recently sat unflyable for nearly 17 months because no supplier would build the tooling to&#8230; The post US Air Force flies first robot-formed panel on storm-damaged C-17 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T11:21:13Z",
-    "url": "https://www.aerotime.aero/articles/usaf-c17-first-incremental-sheet-forming-panel",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0a2b8874fafc",
-    "title": "5 Airlines Installing Lie-Flat Business Class Seats On Narrowbody Jets In 2026",
-    "summary": "The A321XLR's range and size has led many operator's to plan business class products",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T11:00:12Z",
-    "url": "https://simpleflying.com/airlines-installing-lie-flat-business-class-seats-narrowbody-jets-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "348086f05e34",
-    "title": "Ryan Air (no, not that one) receives Saab 340B(F) cargo aircraft",
-    "summary": "Alaska-based Ryan Air has received a single Saab 340B(F) cargo aircraft from Jetstream Aviation Capital, adding to its&#8230; The post Ryan Air (no, not that one) receives Saab 340B(F) cargo aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T10:44:29Z",
-    "url": "https://www.aerotime.aero/articles/ryan-air-receives-saab-340bf-cargo-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a99a215f4c40",
-    "title": "Malaysia Airlines cabin crew face drug check as mandatory pilot screening begins",
-    "summary": "All 1,260 Malaysia Airlines pilots are to undergo mandatory drug screening as the airline launches a response to&#8230; The post Malaysia Airlines cabin crew face drug check as mandatory pilot screening begins appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T10:02:40Z",
-    "url": "https://www.aerotime.aero/articles/malaysia-airlines-cabin-crew-drug-check-as-mandatory-pilot-screening",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b2807af3144a",
-    "title": "JAL, Malaysia Airlines codeshare deal aims to boost regional Japan tourism",
-    "summary": "Japan Airlines (JAL) is to deepen its partnership with Malaysia Airlines with the aim of bringing more international&#8230; The post JAL, Malaysia Airlines codeshare deal aims to boost regional Japan tourism appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T09:56:22Z",
-    "url": "https://www.aerotime.aero/articles/jal-malaysia-airlines-codeshare-deal-aims-to-boost-regional-japan-tourism",
     "airlineTag": null,
     "isBreaking": false
   }
