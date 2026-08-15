@@ -1,5 +1,16 @@
 [
   {
+    "id": "c2840afae127",
+    "title": "\"All My Flight Attendants Have Headaches\": 4 Of 5 Frontier Crew Fall Ill On Airbus A321",
+    "summary": "Two flight attendants were taken to hospital as the jet remains grounded and multiple flights were canceled.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T05:56:23Z",
+    "url": "https://simpleflying.com/frontier-crew-fall-ill-airbus-a321-medical-emergency/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "8cc38f078af1",
     "title": "Why Airbus Is Building A350s Faster Than Airlines Can Actually Take Them",
     "summary": "Airbus is in the process of increasing its A350 production output, but are airlines actually in a position to receive them?",
@@ -2185,17 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-08-07T13:40:29Z",
     "url": "https://www.aerotime.aero/articles/new-faa-airworthiness-directive-requires-checks-boeing-737-max-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "90b51cb0eb84",
-    "title": "Ampaire starts hybrid-electric tests in Utah as part of the eIPP program",
-    "summary": "On August 6, 2026, Ampaire, a startup developing hybrid-electric regional aircraft, announced that it had started its participation&#8230; The post Ampaire starts hybrid-electric tests in Utah as part of the eIPP program appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T12:51:00Z",
-    "url": "https://www.aerotime.aero/articles/ampaire-starts-hybrid-electric-tests-in-utah-as-part-of-the-eipp-program",
     "airlineTag": null,
     "isBreaking": false
   }
