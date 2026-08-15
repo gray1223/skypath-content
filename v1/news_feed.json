@@ -1,5 +1,38 @@
 [
   {
+    "id": "a63c45222761",
+    "title": "10 Abreast In Economy: Philippine Airlines Airbus A350-1000 Flight Review",
+    "summary": "While the majority of A350 operators around the world have 9-abreast seating in economy class, there are but a few airlines in the world operating the type with a 10-abreast seat configuration. Philippine Airlines is one of them!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T12:29:11Z",
+    "url": "https://simpleflying.com/video/10-abreast-in-economy-philippine-airlines-airbus-a350-1000-flight-review/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cb1cb894f129",
+    "title": "The Busiest: The Top 7 Airbus A350-900 Routes With Over 1,300 Frequencies In 2026",
+    "summary": "Japan Airlines dominates the world's busiest Airbus A350-900 routes in 2026, while other carriers across Asia make the rest top seven.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T11:00:11Z",
+    "url": "https://simpleflying.com/top-7-airbus-a350-900-routes-over-1300-frequencies-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "51104d7db6ee",
+    "title": "Delta Air Lines\u2019 Own CEO Often Doesn\u2019t Fly In Premium Cabins: Here\u2019s Why",
+    "summary": "The carrier's CEO has a unique personality.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T09:15:11Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-ceo-doesnt-fly-in-premium-cabins/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "c2840afae127",
     "title": "\"All My Flight Attendants Have Headaches\": 4 Of 5 Frontier Crew Fall Ill On Airbus A321",
     "summary": "Two flight attendants were taken to hospital as the jet remains grounded and multiple flights were canceled.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-07T15:41:03Z",
     "url": "https://avweb.com/aviation-news/pilot-groups-press-faa-aircraft-registry/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7d1aafc76399",
-    "title": "FAA Eases SFO Landing Ban After 41% Of Flights Delayed",
-    "summary": "After months of severe delays, the FAA is easing restrictions on SFO parallel landings.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T15:38:04Z",
-    "url": "https://simpleflying.com/faa-eases-sfo-landing-ban-41-percent-flights-delayed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "883b7d3f592b",
-    "title": "U.S. Pilot Arrested in Malawi",
-    "summary": "Authorities have not said publicly which procedures were allegedly violated.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-07T14:18:50Z",
-    "url": "https://avweb.com/aviation-news/us-pilot-arrested-in-malawi/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b368fe24426f",
-    "title": "New FAA directive requires checks on 471 Boeing 737 MAX jets",
-    "summary": "The US Federal Aviation Administration (FAA) has issued a new airworthiness directive (AD) requiring inspection of 471 Boeing&#8230; The post New FAA directive requires checks on 471 Boeing 737 MAX jets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "regulatory",
-    "publishedDate": "2026-08-07T13:40:29Z",
-    "url": "https://www.aerotime.aero/articles/new-faa-airworthiness-directive-requires-checks-boeing-737-max-aircraft",
     "airlineTag": null,
     "isBreaking": false
   }
