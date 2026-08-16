@@ -1,5 +1,60 @@
 [
   {
+    "id": "35093eed1202",
+    "title": "The Aircraft Types Quietly Retiring In 2026 & What Replaces Them",
+    "summary": "Discover which aircraft are quietly retiring in 2026, why airlines are replacing them, and how modern jets are reshaping global fleets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T18:00:11Z",
+    "url": "https://simpleflying.com/aircraft-types-queitly-retiring-what-replaces-them/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "08e57b7e6b48",
+    "title": "How Much Do American Pilots Make Compared To European Pilots In 2026?",
+    "summary": "A detailed transatlantic pay deep dive shows how contracts, taxes and seniority reshape pilot career earnings.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T16:00:11Z",
+    "url": "https://simpleflying.com/american-european-pilot-pay-comparison-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a8392435a5c4",
+    "title": "The A-10 Warthog Just Flew Its Final Sortie From The Base That Trained Its Pilots For 50 Years",
+    "summary": "The boneyard bids farewall to its last Warthogs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T15:00:11Z",
+    "url": "https://simpleflying.com/a10-final-sortie-training-base/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "29e5f827d32c",
+    "title": "Concorde's Droop Nose Solved A Problem Its Delta Wing Created",
+    "summary": "Why did Concorde's nose droop? The answer lies in delta-wing aerodynamics, triple-redundant hydraulics, and a 250-knot rule every crew followed.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T14:00:11Z",
+    "url": "https://simpleflying.com/concorde-droop-nose-delta-wing/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "9095afdcbd6f",
+    "title": "How Congress Increased The Navy\u2019s Sixth-Gen Fighter Budget From $74 Million To Over $900 Million",
+    "summary": "The back story of the dramatic course change for the F/A-XX.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T13:00:11Z",
+    "url": "https://simpleflying.com/navy-sixth-gen-fighter-budget/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4c40194d7463",
     "title": "Engineer, Sacked Over 17-Min Delay After Singapore Airlines Jet Reboot, Awarded $28,000",
     "summary": "A veteran Australian aircraft engineer has been awarded AU$40,000 (about US$28,044) in compensation after being sacked following a 17-minute delay to a Singapore Airlines flight.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-08-08T19:00:11Z",
     "url": "https://simpleflying.com/united-airlines-new-elevated-boeing-787-routes/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8868e3c4ee14",
-    "title": "Porter Airlines Flight Canceled After Toddler Stands In Seat, Delaying It Past Curfew",
-    "summary": "A late-night Porter flight returned to the gate after cabin crew could not secure a standing toddler, leaving everyone stranded overnight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-08T18:08:40Z",
-    "url": "https://simpleflying.com/porter-airlines-flight-canceled-toddler-airport-curfew/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ec133191a4f0",
-    "title": "5 Airports Rebuilding Their Runways Before The 2027 Safety Deadline Squeezes Airlines",
-    "summary": "From global hubs to regional fields, all airports have to prioritize runway condition.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-08T18:00:11Z",
-    "url": "https://simpleflying.com/5-airports-rebuilding-runways-before-2027-safety-deadline-squeezes-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1c960b2472ed",
-    "title": "How Airbus Is Quietly Repositioning The A330neo As A Widebody Bargain For 2027",
-    "summary": "The A330neo isn't Airbus' newest widebody, but it may be its smartest. Here's why airlines keep ordering it.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-08T17:00:11Z",
-    "url": "https://simpleflying.com/how-airbus-quietly-repositioning-a330neo-widebody-bargain-2027/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8fd16bc1ac09",
-    "title": "How US Navy Jet Tail Codes Identify Their Carrier: 5 Facts That May Surprise You",
-    "summary": "Turning the page on the story written all over every Navy jet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-08T15:00:11Z",
-    "url": "https://simpleflying.com/how-us-navy-jet-tail-codes-identify-their-carrier/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d45354762161",
-    "title": "Why A Boeing 747 Captain Thinks About Crosswind Landings Differently Than An Airbus A380 Captain",
-    "summary": "The 747 and A380 both land in crosswinds. Their captains use different techniques to do it, and the reasons are structural.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-08T14:00:11Z",
-    "url": "https://simpleflying.com/why-boeing-747-captain-thinks-crosswind-landings-differently-airbus-a380-captain/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
