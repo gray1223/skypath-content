@@ -1,5 +1,82 @@
 [
   {
+    "id": "dd4919192843",
+    "title": "Why The Boeing 767 Refuses To Die Nearly 45 Years After Its 1st Flight",
+    "summary": "The 767 continues to have military and cargo usage, which will ensure it keeps flying for decades to come.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T01:00:11Z",
+    "url": "https://simpleflying.com/why-boeing-767-refuse-die-nearly-45-years-1st-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "87cefd935db1",
+    "title": "The Real Origin Of America's Pilot Shortage & Why It May Be Coming To An End",
+    "summary": "A closer look at the reality of the current pilot hiring market, and what to expect in the near future.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-08-15T23:00:11Z",
+    "url": "https://simpleflying.com/america-pilot-shortage-origin/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "edcbbb172087",
+    "title": "Sun Country Airlines\u2019 Minneapolis Cutbacks Sparks Worry Over Higher Airfares",
+    "summary": "The Minneapolis airline will serve about half a million less passengers from its home city compared to 2024.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T22:44:42Z",
+    "url": "https://simpleflying.com/sun-country-minneapolis-cutbacks-worry-higher-airfares/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "516a55035168",
+    "title": "Air India A320neo Lost Critical Flight Controls For 4 Seconds In 300ft Plunge, Airbus Says",
+    "summary": "Airbus ordered hydraulic and sensor checks after sensors were removed and wiring inspections were flagged for VT-EXO.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T21:32:10Z",
+    "url": "https://simpleflying.com/air-india-a320neo-lost-flight-controls-4-seconds-airbus/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f1b29c5c8ce6",
+    "title": "Only 243 Miles: American Airlines Launches New Ultra-Short Airbus A321XLR Flights",
+    "summary": "An ultra long range narrowbody on a short hop reveals cabin tech, larger screens, and enhanced in-seat power options.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T20:56:28Z",
+    "url": "https://simpleflying.com/only-243-miles-american-airlines-launches-new-ultra-short-airbus-a321xlr-flights/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fe18a2ab84cd",
+    "title": "Long-Haul Delta Air Lines Flight Diverts Twice After Lavatory Leak Floods Cabin",
+    "summary": "Passengers faced hours on the ground as Delta maintenance repaired the cabin issue and the flight later required a crew swap.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T20:23:04Z",
+    "url": "https://simpleflying.com/long-haul-delta-air-lines-flight-diverts-twice-lavatory-leak-floods-cabin/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "1b632b9a6ba0",
+    "title": "Vietnam Airlines Boeing 787 Damaged After Taking Off Dangerously Late From Munich",
+    "summary": "A Munich departure turned chaotic as a 787-9 sustained heavy aft scraping and a puncture after a late rotation and runway overrun.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-15T19:46:23Z",
+    "url": "https://simpleflying.com/vietnam-airlines-boeing-787-tail-strike-munich/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "38d290dbc81b",
     "title": "What United Airlines' 1st Airbus A321XLR Deliveries Reveal About Its Network Strategy",
     "summary": "United Airlines is the latest airline to welcome the A321XLR. What does its arrival mean for the future of the airline and its expansion plans?",
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-08-07T23:00:11Z",
     "url": "https://simpleflying.com/delta-air-lines-regret-not-ordering-boeing-787-10-sooner/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6d4843bb7808",
-    "title": "Why Carrying 4,000 Lbs Less Made The Osprey The Smarter Choice For The US Navy",
-    "summary": "To the untrained eye, the US Navy downgraded in terms of capability, when it chose the Osprey for fleet delivery. But it's actually a \"game-changer\".",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T22:00:11Z",
-    "url": "https://simpleflying.com/why-carrying-4000-lbs-less-made-osprey-smarter-choice-us-navy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "62b63ed1f4fe",
-    "title": "Malaysia Aviation Group Orders Drug Testing For 1,260 Pilots",
-    "summary": "The screening follows the arrest of an off-duty Malaysia Airlines second officer in Indonesia.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-07T20:26:23Z",
-    "url": "https://avweb.com/aviation-news/malaysia-aviation-group-drug-tests-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9befa1dde614",
-    "title": "Alaska Airlines Vs. Delta: Who's Winning The Seattle Long-Haul Battle Right Now?",
-    "summary": "Alaska Airlines dominates Seattle market overall but the Atlanta-based carrier leads in international market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T20:00:11Z",
-    "url": "https://simpleflying.com/alaska-versus-delta-whos-winning-seattle-long-haul-battle/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "df91ea6fb199",
-    "title": "FAA Proposes Dropping Third-Class Medical For Military Pilot Trainees",
-    "summary": "Proposal would allow qualifying trainees at civilian flight schools to rely on their military flight physicals.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-08-07T19:31:47Z",
-    "url": "https://avweb.com/aviation-news/faa-to-drop-third-class-medical-military/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "affcf1e7d890",
-    "title": "Faster Pathways to High-Paying Aviation Careers",
-    "summary": "Flight schools and maintenance programs are becoming the smart alternative to traditional degrees.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-07T19:30:00Z",
-    "url": "https://www.flyingmag.com/faster-pathways-to-high-paying-aviation-careers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dcc1eb16c746",
-    "title": "Solairus deal to buy Clay Lacy charter business pushes fleet above 500 aircraft",
-    "summary": "Solairus Aviation has agreed to acquire Clay Lacy Aviation\u2019s aircraft management and charter businesses in a deal that&#8230; The post Solairus deal to buy Clay Lacy charter business pushes fleet above 500 aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T19:22:59Z",
-    "url": "https://www.aerotime.aero/articles/solairus-deal-to-buy-clay-lacy-charter-business-pushes-fleet-above-500-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "286ea75e127f",
-    "title": "Coulson buys 10 C-130 Hercules aircraft from Canada for firefighting fleet",
-    "summary": "Coulson Aviation Canada has acquired 10 former Royal Canadian Air Force (RCAF) CC-130H Hercules aircraft that it plans&#8230; The post Coulson buys 10 C-130 Hercules aircraft from Canada for firefighting fleet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-07T18:53:54Z",
-    "url": "https://www.aerotime.aero/articles/coulson-buys-10-rcaf-c-130-hercules-firefighting",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
