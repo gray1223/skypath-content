@@ -1,5 +1,38 @@
 [
   {
+    "id": "90d00722c66c",
+    "title": "Can American Airlines Close The Profit Gap With Delta & United?",
+    "summary": "Can the largest US airline by number of flights return to the top when it comes to profitability?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T04:02:17Z",
+    "url": "https://simpleflying.com/american-airlines-catch-up-delta-united/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "88ee415a1a08",
+    "title": "Why Delta Air Lines' Quiet Exit From Minneapolis Marks The End Of The DC-9 Era In America",
+    "summary": "Delta quietly ended all 717 flights from Minneapolis in May 2026. The DC-9 family had been flying from MSP for 60 years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T03:00:11Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-quiet-exit-minneapolis-marks-end-dc-9-era-america/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "973f46c91d5d",
+    "title": "A Look At The Salaries Of Long-Haul Flight Attendants In 2026",
+    "summary": "This analysis will focus on major US airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-16T01:45:11Z",
+    "url": "https://simpleflying.com/salaries-long-haul-flight-attendants-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "dd4919192843",
     "title": "Why The Boeing 767 Refuses To Die Nearly 45 Years After Its 1st Flight",
     "summary": "The 767 continues to have military and cargo usage, which will ensure it keeps flying for decades to come.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-08T01:04:33Z",
     "url": "https://simpleflying.com/sun-country-airlines-flight-attendant-racist-comments-assault-charges/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "718a3912f9fc",
-    "title": "Boeing's New Air Force One Still Hasn't Flown & Here's Why",
-    "summary": "Boeing's new Air Force One is years late as wiring, labor shortages, supplier failures and billions in losses keep the VC-25B grounded.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-08T00:00:11Z",
-    "url": "https://simpleflying.com/boeing-new-air-force-new-still-hasnt-flown-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3b0836f9b14f",
-    "title": "Air Canada Launches These 3 Massive New Long-Haul Routes [Map & List]",
-    "summary": "The airline is launching all three routes for the 2026/27 winter season.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T23:08:12Z",
-    "url": "https://simpleflying.com/air-canada-launches-these-3-massive-new-long-haul-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c0b27a12bb68",
-    "title": "Does Delta Air Lines Regret Not Ordering The Boeing 787-10 Sooner?",
-    "summary": "The SkyTeam carrier has 30 Boeing 787-10s on order.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-07T23:00:11Z",
-    "url": "https://simpleflying.com/delta-air-lines-regret-not-ordering-boeing-787-10-sooner/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
