@@ -1,5 +1,93 @@
 [
   {
+    "id": "c3656fd764c8",
+    "title": "The Mid-Size Florida Hub Betting $1.5 Billion That Delta Air Lines Will Turn It Into An International Gateway",
+    "summary": "The legacy carrier signed a 20-year lease for six additional gates at the airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T00:00:11Z",
+    "url": "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-turn-international-gateway/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "5dbf9d9e0129",
+    "title": "Southwest Airlines Sued For $1.2 Million In Alleged Racial Discrimination Incident At PDX",
+    "summary": "Loud gate accusations and a claimed false custody shout left a Portland family humiliated before departure.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-17T23:09:16Z",
+    "url": "https://simpleflying.com/southwest-airlines-sued-for-12-million-in-alleged-racial-discrimination-incident-at-pdx/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5e9c62e16a46",
+    "title": "Humanoid Robots Now Banned On All 3 Major US Airlines As American Follows United & Delta",
+    "summary": "Crew safety, thermal containment limits and past incidents are prompting carriers to restrict autonomous companions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-17T21:19:34Z",
+    "url": "https://simpleflying.com/humanoid-robots-banned-major-us-airlines/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "95d65936724e",
+    "title": "The New Air Force One Will Arrive With A Communications System The Pentagon Already Declared Obsolete",
+    "summary": "More problems pop up with the long-delayed next-gen Air Force One jets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-17T21:00:11Z",
+    "url": "https://simpleflying.com/new-air-force-one-arrive-communications-system-pentagon-already-declared-obsolete/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8c3337365f81",
+    "title": "Despite \u201cZero Injuries,\u201d 7 Passengers Sue Delta Over 2.3 MPH Collision With JAL 787",
+    "summary": "The collision occurred in Seattle in February 2025.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-17T20:05:55Z",
+    "url": "https://simpleflying.com/passengers-sue-delta-collision-zero-injuries/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ed7b7063d23",
+    "title": "American Airlines Drops 6 International Routes: See All Flight Changes Now",
+    "summary": "They include one long-haul route and multiple shorter links. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-17T20:00:11Z",
+    "url": "https://simpleflying.com/american-airlines-drops-6-international-routes-see-all-flight-changes-now/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5ac325d75826",
+    "title": "The Airplane Farm Announces MOSAIC eVTOL Aircraft",
+    "summary": "New Nevada company is developing personal, aerobatic and optionally piloted tactical designs around a common electric PowerWing.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-17T19:46:51Z",
+    "url": "https://avweb.com/aviation-news/the-airplane-farm-mosaic-evtol-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eb945ac3e19b",
+    "title": "FAA moves air traffic network overhaul to AT&T under multibillion-dollar deal",
+    "summary": "The Federal Aviation Administration (FAA) has moved a key part of its air traffic control network modernization effort&#8230; The post FAA moves air traffic network overhaul to AT&T under multibillion-dollar deal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-17T18:34:42Z",
+    "url": "https://www.aerotime.aero/articles/faa-moves-air-traffic-network-overhaul-to-att-under-multibillion-dollar-deal",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "58916d3664ea",
     "title": "Air Force HH-60Ws Rescue Five Navy Personnel",
     "summary": "Two Jolly Green II helicopters were launched after a Navy MH-60S made a hard landing in mountainous terrain.",
@@ -712,6 +800,17 @@
     "publishedDate": "2026-08-14T23:00:11Z",
     "url": "https://simpleflying.com/hub-delta-air-lines-threw-away-merging-northwest/",
     "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "46bfc5b2bfe9",
+    "title": "LAPP, AOPA Welcome Senators\u2019 Opposition to Closing Burke Lakefront Airport",
+    "summary": "CLEVELAND\u2014The Lakefront Airport Preservation Partnership (LAPP) and the Aircraft Owners and Pilots Association (AOPA) welcome today\u2019s comments from Sens. Bernie Moreno (R-Ohio) and Jon Husted (R-Ohio) opposing the proposed closure of Burke Lakefront Airport.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-14T22:47:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2097,105 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-08-10T14:00:00Z",
     "url": "https://www.flyingmag.com/faa-issues-ad-for-boeing-jet-fuselage-cracks/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f1a9b41c5376",
-    "title": "Sun PhuQuoc Airways sets out arrival timeline of ex-American Airlines A330s",
-    "summary": "Sun PhuQuoc Airways has set out the timeline for the arrival of eight former American Airlines Airbus A330-200&#8230; The post Sun PhuQuoc Airways sets out arrival timeline of ex-American Airlines A330s appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T13:49:13Z",
-    "url": "https://www.aerotime.aero/articles/sun-phuquoc-airways-former-american-airlines-a330s",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "45a296ecb978",
-    "title": "Delta launches new nonstop Seattle-Tokyo Narita route starting March 2027",
-    "summary": "Delta Air Lines announced it will launch a new nonstop route between Seattle-Tacoma International Airport (SEA) and Tokyo-Narita&#8230; The post Delta launches new nonstop Seattle-Tokyo Narita route starting March 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T13:39:44Z",
-    "url": "https://www.aerotime.aero/articles/delta-launches-new-nonstop-seattle-tokyo-narita-route-starting-march-2027",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ff487418b203",
-    "title": "How The US Air Force Added 15 Years To The B-1B Lancer's Life In Just 22 Days Per Jet",
-    "summary": "How a radical process improvement just saved the B-1 from the Boneyard.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T13:00:11Z",
-    "url": "https://simpleflying.com/b1b-lancer-life-extension/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f89133d7aced",
-    "title": "CAF Airbase Georgia Announces WWII Warbird Tour",
-    "summary": "Four-month Peach State trek offers chance to fly in iconic P-51 Mustang and other historic aircraft.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-10T13:00:00Z",
-    "url": "https://www.flyingmag.com/caf-airbase-georgia-announces-wwii-warbird-tour/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f165ac656c16",
-    "title": "EnduroSat signs deal with Bulgaria to develop major space base near Sofia",
-    "summary": "Vertically integrated satellite developer EnduroSat announced on August 6, 2026, that it has signed a Memorandum of Understanding&#8230; The post EnduroSat signs deal with Bulgaria to develop major space base near Sofia appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T12:54:00Z",
-    "url": "https://www.aerotime.aero/articles/endurosat-signs-deal-with-bulgaria-to-develop-major-space-base-near-sofia",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c21e41596c43",
-    "title": "Hawaiian Airlines To Replace Inter-Island Boeing 717s With The 737-800",
-    "summary": "Alaska Airlines has announced that it has selected the Boeing 737-800 to replace the interisland 717-200s that currently operate under the Hawaiian Airlines banner. These rear-engined twinjets have been a perfect fit for the short and sharp rotations that characterize interisl...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T12:29:11Z",
-    "url": "https://simpleflying.com/video/hawaiian-airlines-to-replace-inter-island-boeing-717s-with-the-737-800/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9bea682f7c1b",
-    "title": "1st Of 850 Jets: Lufthansa To Launch High-Speed Starlink WiFi On Airbus A320neo In 9 Days",
-    "summary": "All Lufthansa Group airlines will have Starlink by 2029.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T12:10:06Z",
-    "url": "https://simpleflying.com/lufthansa-starlink-wifi-launch/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7ffb078b13da",
-    "title": "British Airways Breaks Decades of CFM Loyalty",
-    "summary": "The United Kingdom's primary flag carrier, British Airways, has selected Pratt & Whitney's geared turbofan, or GTF engine to power up to 63 Airbus A320neo family aircraft, ending decades of exclusive reliance on CFM International engines for its Airbus narrowbody fleet. So in ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T11:00:12Z",
-    "url": "https://simpleflying.com/video/british-airways-breaks-decades-of-cfm-loyalty/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6384d821b877",
-    "title": "UK launches search for new Royal Air Force trainer and Red Arrows jet",
-    "summary": "The UK Ministry of Defence has formally launched the procurement of a new advanced jet trainer for the&#8230; The post UK launches search for new Royal Air Force trainer and Red Arrows jet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T10:13:19Z",
-    "url": "https://www.aerotime.aero/articles/uk-launches-search-for-new-royal-air-force-trainer-and-red-arrows-jet",
     "airlineTag": null,
     "isBreaking": false
   }
