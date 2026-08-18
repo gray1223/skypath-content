@@ -1,5 +1,27 @@
 [
   {
+    "id": "a480b634f888",
+    "title": "5 US Air Force Bases Being Rebuilt Into Global Mission Hubs",
+    "summary": "The US Air Force is rebuilding five bases with more than $19 billion, from Tinian's WWII airfield to Guam's $8 billion defense shield.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T05:00:12Z",
+    "url": "https://simpleflying.com/5-us-air-force-bases-rebuilt-global-mission-hubs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b055d3034d11",
+    "title": "United A320 & American 737 Both Blow Tires At O\u2019Hare Within Hours Of Each Other",
+    "summary": "Passengers were shuttled to terminals after burst tires forced two veteran jets to be taken out of service overnight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T04:21:45Z",
+    "url": "https://simpleflying.com/united-a320-american-737-blow-tires-ohare/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "c3656fd764c8",
     "title": "The Mid-Size Florida Hub Betting $1.5 Billion That Delta Air Lines Will Turn It Into An International Gateway",
     "summary": "The legacy carrier signed a 20-year lease for six additional gates at the airport.",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-10T17:00:11Z",
     "url": "https://simpleflying.com/reverse-thrust-powerback-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "02ce48169de8",
-    "title": "Is drone maker Baykar about to launch a cargo airline? What we know so far",
-    "summary": "Turkish drone maker Baykar could be preparing its entry into the air cargo market, according to Turkish aviation&#8230; The post Is drone maker Baykar about to launch a cargo airline? What we know so far appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T14:00:56Z",
-    "url": "https://www.aerotime.aero/articles/is-drone-maker-baykar-about-to-launch-a-cargo-airline-what-we-know-so-far",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f0a7b8dd7376",
-    "title": "FAA Issues AD for Boeing Jet Fuselage Cracks",
-    "summary": "New airworthiness directive targets 737-8, 737-9, and 737-8200 models following reports of fatigue cracks near door cutouts.",
-    "source": "Flying Magazine",
-    "category": "regulatory",
-    "publishedDate": "2026-08-10T14:00:00Z",
-    "url": "https://www.flyingmag.com/faa-issues-ad-for-boeing-jet-fuselage-cracks/",
     "airlineTag": null,
     "isBreaking": false
   }
