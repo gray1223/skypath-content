@@ -1,5 +1,82 @@
 [
   {
+    "id": "ab357b9c827d",
+    "title": "\u201cPotentially Catastrophic\u201d: Major Pilots Union Issues Urgent Warning On Airbus Engine Shutdowns",
+    "summary": "A major pilots' union has warned that a cockpit defect linked to unexpected engine shutdowns on Airbus aircraft could have potentially catastrophic consequences, urging regulators to broaden their response after the issue emerged on more than one type.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T12:32:11Z",
+    "url": "https://simpleflying.com/video/potentially-catastrophic-major-pilots-union-issues-urgent-warning-on-airbus-engine-shutdowns/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d91a6b60db86",
+    "title": "The Other Eight-Hour Rule",
+    "summary": "FAA regulates how much CFIs can fly per day.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-08-18T12:00:00Z",
+    "url": "https://www.flyingmag.com/the-other-eight-hour-rule/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "67d653c16f1d",
+    "title": "How Much Do Corporate Jet Captains Make Compared To Major Airline First Officers In 2026?",
+    "summary": "Being a pilot means massive earning potential, but what is the difference between the airline world and the corporate aviation world?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T11:00:12Z",
+    "url": "https://simpleflying.com/corporate-captain-major-airline-first-officer-pay/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "75e63df61ecc",
+    "title": "Rafale spots fuel leak on Miami-bound Global 6000 business jet over France",
+    "summary": "A French Air and Space Force Rafale pilot identified a fuel leak on a Bombardier Global 6000 business&#8230; The post Rafale spots fuel leak on Miami-bound Global 6000 business jet over France appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-18T10:59:00Z",
+    "url": "https://www.aerotime.aero/articles/rafale-fuel-leak-global-6000-le-bourget",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f746b994d5f0",
+    "title": "Malaysia Airlines completes mandatory drug screening for all pilots",
+    "summary": "Malaysia Aviation Group (MAG) announced that it has completed mandatory drug screening for all Malaysia Airlines pilots, meeting&#8230; The post Malaysia Airlines completes mandatory drug screening for all pilots appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-18T09:57:59Z",
+    "url": "https://www.aerotime.aero/articles/malaysia-airlines-completes-mandatory-drug-screening-for-all-pilots",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "15dc4d683416",
+    "title": "Here's What Pilots First Notice When Switching From The Boeing 737 MAX To The Airbus A320neo",
+    "summary": "Stepping into the cockpit of an Airbus A320neo after flying the Boeing 737 MAX reveals a world of differences.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T09:15:11Z",
+    "url": "https://simpleflying.com/heres-what-pilots-first-notice-when-switching-from-boeing-737-max-to-the-airbus-a320neo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bcbe4490acaf",
+    "title": "SWISS adjusts capacity at Geneva base, swaps A220s with A320s",
+    "summary": "SWISS announced on August 17, 2026, that it is upgauging capacity at its Geneva-Cointrin (GVA) base by replacing&#8230; The post SWISS adjusts capacity at Geneva base, swaps A220s with A320s appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-18T08:45:42Z",
+    "url": "https://www.aerotime.aero/articles/swiss-adjusts-capacity-at-geneva-base-swaps-a220s-with-a320s",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a480b634f888",
     "title": "5 US Air Force Bases Being Rebuilt Into Global Mission Hubs",
     "summary": "The US Air Force is rebuilding five bases with more than $19 billion, from Tinian's WWII airfield to Guam's $8 billion defense shield.",
@@ -831,7 +908,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-14T22:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1150,7 +1227,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T22:18:54Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1172,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1249,7 +1326,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T19:38:11Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1579,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-12T21:16:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1766,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-12T00:20:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1777,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-11T23:20:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/training-and-safety-tip-tame-checkride-anxiety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/training-and-safety-tip-tame-checkride-anxiety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1920,7 +1997,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-11T17:43:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/unique-bush-pilot-race-combines-paddling-seaplane-handling-skills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/unique-bush-pilot-race-combines-paddling-seaplane-handling-skills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-08-10T20:00:11Z",
     "url": "https://simpleflying.com/american-airlines-launches-15-new-nonstop-international-routes-see-full-list-now/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "53d58c36fdc2",
-    "title": "The Bidding Decisions That Separate A $470,000 Widebody Captain From A $700,000 One",
-    "summary": "What goes on behind the scenes?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T20:00:11Z",
-    "url": "https://simpleflying.com/widebody-captain-bidding-pay/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5dfb6baf35a4",
-    "title": "Severe Runway Incursions Jump 44% in 2025",
-    "summary": "Overall runway incursions declined slightly, while the FAA reported an increase in the most serious events.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-10T19:04:01Z",
-    "url": "https://avweb.com/aviation-news/severe-runway-incursions-jump-44-percent/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b83ea0a7ce7",
-    "title": "American makes first US commercial airport delivery of synthetic jet fuel",
-    "summary": "American Airlines has used electro sustainable aviation fuel on a commercial passenger flight following what the carrier says&#8230; The post American makes first US commercial airport delivery of synthetic jet fuel appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T18:02:19Z",
-    "url": "https://www.aerotime.aero/articles/american-makes-first-us-commercial-airport-delivery-of-synthetic-jet-fuel",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "abc0d2dea90b",
-    "title": "2 Pilots Killed in Helicopter Crash While Fighting Utah Wildfire",
-    "summary": "Sikorsky S-64 was en route to the Widemouth 2 Fire when it went down near Richfield.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-10T18:00:00Z",
-    "url": "https://www.flyingmag.com/2-pilots-killed-in-helicopter-crash-while-fighting-utah-wildfire/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2b2c66be89df",
-    "title": "5 Aircraft That Pilots Say Are The Most Technologically Advanced",
-    "summary": "A closer look at some of the most cutting-edge aircraft in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T17:30:11Z",
-    "url": "https://simpleflying.com/5-aircraft-pilots-say-most-technologically-advanced/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d16c83aa004f",
-    "title": "S7 Airlines suffers second Boeing 737 runway overrun in six weeks",
-    "summary": "An S7 Airlines Boeing 737-800 freighter overran the runway while landing in Norilsk, Russia, marking the airline\u2019s second&#8230; The post S7 Airlines suffers second Boeing 737 runway overrun in six weeks appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-10T17:14:02Z",
-    "url": "https://www.aerotime.aero/articles/s7-second-boeing-737-runway-overrun-six-weeks",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c292ed73fdef",
-    "title": "The Reverse Thrust Maneuver Major US Airlines Quietly Abandoned Around 2006 & Why It Never Came Back",
-    "summary": "US airlines used reverse thrust to push back from gates for two decades. By 2006, every carrier had quietly stopped.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-10T17:00:11Z",
-    "url": "https://simpleflying.com/reverse-thrust-powerback-airlines/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
