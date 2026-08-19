@@ -1,5 +1,38 @@
 [
   {
+    "id": "a0c091e386c0",
+    "title": "Delta Sued By Passenger Knocked Unconscious After Seat Belt 'Failed' On Landing",
+    "summary": "How one flyer claims he was knocked out cold by a faulty seatbelt.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T05:54:47Z",
+    "url": "https://simpleflying.com/delta-seat-belt-failure-passenger-unconscious-lawsuit/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "88835f6e452d",
+    "title": "Former flyadeal CEO Steven Greenway named new Alliance Airlines CEO",
+    "summary": "Alliance Airlines announced that aviation industry veteran Steven Greenway will take over as Chief Executive Officer starting October&#8230; The post Former flyadeal CEO Steven Greenway named new Alliance Airlines CEO appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-19T02:25:14Z",
+    "url": "https://www.aerotime.aero/articles/former-flyadeal-ceo-steven-greenway-named-new-alliance-airlines-ceo",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0a90be9a830",
+    "title": "Here's What Pilots Notice First When Switching Between The Airbus A350 & Boeing 787 Cockpits",
+    "summary": "Comparing the flight decks of the world's two most advanced widebody airliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T01:45:14Z",
+    "url": "https://simpleflying.com/what-pilots-notice-switching-between-airbus-a350-boeing-787-cockpits/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f8695c8b83b3",
     "title": "5 Financial Trade-Offs US Military Pilots Weigh Before Leaving For Airlines",
     "summary": "Military pilots have financial trade-offs when transitioning to the commercial sector, although loss of seniority can be bigger for seasoned pilots.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-11T20:00:11Z",
     "url": "https://simpleflying.com/super-hornet-f15-f16-variants-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c00273bfbc6f",
-    "title": "Trump Snuck Off Air Force One In A Catering Truck To Fly On Boeing 757 Amid Iran Threat",
-    "summary": "A covert aviation switch used a catering truck and a C-32A to mask presidential movements after an Iran threat.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T19:33:22Z",
-    "url": "https://simpleflying.com/trump-air-force-one-catering-truck-boeing-757-iran-threat/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fe7965184a75",
-    "title": "GAO Finds FBO Fees Often Missing Online",
-    "summary": "Investigators posing as pilots found required charges were frequently incomplete or inconsistent.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-11T19:20:42Z",
-    "url": "https://avweb.com/aviation-news/gao-finds-fbo-fees-often-missing-online/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aeb6a87f4b4a",
-    "title": "Delta Air Lines Investigating Hoax WiFi Network On Las Vegas Flight After Hacking Conference",
-    "summary": "Delta is investigating a possible hoax Wi-Fi network on a Las Vegas-Atlanta flight after DEF CON 34, though no aircraft systems were hacked.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T19:12:05Z",
-    "url": "https://simpleflying.com/delta-air-lines-investigating-hoax-wifi-network-las-vegas-flight-hacking-conference/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
