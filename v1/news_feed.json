@@ -1,13 +1,112 @@
 [
   {
+    "id": "f8695c8b83b3",
+    "title": "5 Financial Trade-Offs US Military Pilots Weigh Before Leaving For Airlines",
+    "summary": "Military pilots have financial trade-offs when transitioning to the commercial sector, although loss of seniority can be bigger for seasoned pilots.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-08-19T00:00:14Z",
+    "url": "https://simpleflying.com/5-financial-tradeoffs-us-military-pilots-weigh-before-leaving-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b9f397df3f58",
+    "title": "Pension Vs. Paycheck: What US Military Pilots Give Up To Fly For Airlines",
+    "summary": "Comparing the pay off of two very different aviation career paths.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-08-19T00:00:14Z",
+    "url": "https://simpleflying.com/what-us-military-pilots-give-up-fly-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f7fce3294250",
+    "title": "6 Combat Aircraft Losses & Rescues That Defined Operation Epic Fury",
+    "summary": "The toll on American aircrew and aircraft in battle with Iran.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T23:00:14Z",
+    "url": "https://simpleflying.com/combat-aircraft-losses-rescues-defined-operation-epic-fury/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4989b3da394f",
+    "title": "6 NATO Air Forces Ranked By What Their Top Fighter Pilots Take Home In 2026",
+    "summary": "Ranking the NATO air forces by highest pilot salaries is difficult, although it clusters around North America and Western Europe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T22:00:14Z",
+    "url": "https://simpleflying.com/6-nato-air-forces-ranked-top-fighter-pilots-take-home-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "528dcafb3b8e",
+    "title": "An Extra 4 Months: Air France Pushes Final Airbus A318 Retirement To March 2027",
+    "summary": "Air France will keep the compact A318 flying select city hops into March, preserving a boutique cabin and 131-seat setup.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T21:44:10Z",
+    "url": "https://simpleflying.com/air-france-airbus-a318-retirement-march-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "521fa1afcde3",
+    "title": "1st Flight For Airbus\u2019 A350F Set For Late September 2026",
+    "summary": "A composite-built freighter brings lighter weight, higher fuel efficiency and extended revenue days for carriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T21:04:43Z",
+    "url": "https://simpleflying.com/airbus-a350f-1st-flight-september-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4ee23c29aa9",
+    "title": "Deja Vu: 2 American Airlines CRJs With Identical Callsigns Nearly Cross Paths",
+    "summary": "Two American Airlines CRJs shared an identical callsign, echoing a remarkably similar 737 incident just days later.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-18T20:25:32Z",
+    "url": "https://simpleflying.com/american-airlines-crj-identical-callsigns-cross-paths/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ee5ee2596987",
+    "title": "Bedford Pushes Back On Burke Lakefront Closure",
+    "summary": "Administrator opposes Cleveland\u2019s plan as Ohio senators back the standard FAA review process.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-18T18:46:27Z",
+    "url": "https://avweb.com/aviation-news/bedford-push-back-burke-lakefront-closure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3de9bf7d6e9c",
     "title": "Training and Safety Tip: Sketch for mastery",
     "summary": "Flying requires a robust understanding of the aircraft at your command. Systems knowledge is required to handle routine problems such as an engine not starting on the ramp, and even more so if an emergency arises, such as an engine no longer running during flight.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7197bb42ff0e",
+    "title": "American brings back seatback screens in bid to match rivals",
+    "summary": "American Airlines is reversing a nearly decade-old strategy of relying on passengers\u2019 personal devices for inflight entertainment, announcing&#8230; The post American brings back seatback screens in bid to match rivals appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-18T18:15:31Z",
+    "url": "https://www.aerotime.aero/articles/american-airlines-brings-back-seatback-screens",
+    "airlineTag": "American Airlines",
     "isBreaking": false
   },
   {
@@ -1062,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-14T22:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1381,7 +1480,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T22:18:54Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1403,7 +1502,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T21:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1579,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T19:38:11Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1733,7 +1832,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-12T21:16:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1997,7 +2096,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-12T00:20:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/pilots-recount-chipmunk-journey-to-airventure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2008,7 +2107,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-11T23:20:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/training-and-safety-tip-tame-checkride-anxiety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/11/training-and-safety-tip-tame-checkride-anxiety?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-08-11T19:12:05Z",
     "url": "https://simpleflying.com/delta-air-lines-investigating-hoax-wifi-network-las-vegas-flight-hacking-conference/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9128e06db9cc",
-    "title": "How Trump secretly switched Air Force One jets (twice) to evade an Iran threat",
-    "summary": "In an elaborate ruse straight out of a movie subplot, US President Donald Trump was secretly whisked off&#8230; The post How Trump secretly switched Air Force One jets (twice) to evade an Iran threat appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-11T18:16:37Z",
-    "url": "https://www.aerotime.aero/articles/trump-air-force-one-757-iran-threat",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "75d9af1a2fa1",
-    "title": "60% Of Southwest Flyers Now Pay To Upgrade From Base Fare \u2014 Here's What It Costs In 2026",
-    "summary": "Southwest's cheapest fare is no longer its real price. Here's what each 2026 fare tier includes, what upgrades cost, and how rivals now compare.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T18:00:11Z",
-    "url": "https://simpleflying.com/southwest-upgrade-cost-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6ef44351bd15",
-    "title": "Newark Airport Gets New Radar, but DOT Seeks $10B for Additional Upgrades",
-    "summary": "Transportation Secretary Sean Duffy and FAA Administrator Bryan Bedford share latest progress on the multibillion-dollar effort.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-11T18:00:00Z",
-    "url": "https://www.flyingmag.com/newark-airport-radar-dot-10b-atc-upgrades/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9871332c0e8f",
-    "title": "Simple Flying's Flight Tracker Now Makes Finding Live Flights Even Easier",
-    "summary": "A closer look at the revamped Simple Flying Flight Tracker and its sleek, user-friendly redesign that makes navigating live flight data a breeze.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T17:44:00Z",
-    "url": "https://simpleflying.com/simple-flying-flight-tracker-updates/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4c76fe7892b",
-    "title": "Unique bush pilot race combines paddling, seaplane handling skills",
-    "summary": "An unusual aero-nautical competition will once again pair pilots and paddlers on Moosehead Lake in Maine September 12, weather permitting.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-11T17:43:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/11/unique-bush-pilot-race-combines-paddling-seaplane-handling-skills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b3b2338f22c4",
-    "title": "5 Airlines With The World's Most Generous Premium Economy Amenity Kits In 2026",
-    "summary": "Premium economy often serves as the lowest standard of amenity kit offerings, but here are five airlines that flip this notion on its head.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T17:30:11Z",
-    "url": "https://simpleflying.com/5-airlines-with-worlds-most-generous-premium-economy-amenity-kits-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6c266926b457",
-    "title": "American Flight Uses Non-Biobased SAF in U.S. First",
-    "summary": "Infinium produced the fuel using waste carbon dioxide and renewable electricity.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-11T16:08:42Z",
-    "url": "https://avweb.com/aviation-news/american-flight-esaf-in-us-first/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b02b813f633",
-    "title": "This Middle Eastern Carrier's New Strategy To Differentiate The Airline From Emirates, Riyadh Air & Qatar Airways",
-    "summary": "Gulf Air is another mainline carrier connecting much of the world via the Middle East, but at a smaller scale than its better-known neighbors.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T16:00:11Z",
-    "url": "https://simpleflying.com/middle-east-airline-new-strategy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d7f8d5c88936",
-    "title": "Spot The Stars And Stripes: Where America\u2019s Anniversary Liveries Are Flying",
-    "summary": "America's 250th anniversary has transformed US aviation into a moving celebration, with special airline and NASA aircraft creating a unique 2026 fleet",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-11T15:00:11Z",
-    "url": "https://simpleflying.com/stars-stripes-america-liveries-flying/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
