@@ -1,5 +1,27 @@
 [
   {
+    "id": "0990c34882fd",
+    "title": "Cessna 150 Pilot Killed, 2 Troopers Hurt In Midair Crash With State Police Helicopter",
+    "summary": "The small plane reportedly collided with the police chopper from behind.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T05:06:34Z",
+    "url": "https://simpleflying.com/cessna-150-pennsylvania-state-police-helicopter-midair-collision/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "157777524c56",
+    "title": "Seat Pitch Is Not Everything: 6 Premium Economy Perks Airlines Hide",
+    "summary": "What else do you get when booking premium economy?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T03:00:13Z",
+    "url": "https://simpleflying.com/6-premium-economy-perks-airlines-hide/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "5b5f0c0058ba",
     "title": "150 Minutes To Nowhere: US Air Force Scraps C-17 Globemaster Flight Over Russian Missile Alert",
     "summary": "The flight was part of the annual Winter Fly-in (WINFLY) period.",
@@ -28,7 +50,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -501,7 +523,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1579,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-14T22:47:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1898,7 +1920,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T22:18:54Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1920,7 +1942,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T21:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1997,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T19:38:11Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-13T09:15:11Z",
     "url": "https://simpleflying.com/6-airlines-worlds-most-superior-premium-economy-dining-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05eeac307250",
-    "title": "This Airline Is Cutting Economy Seats From Its A321neo While Its Rivals Add More",
-    "summary": "By stripping out seats, Cathay Pacific will boost space for economy passengers on its A321neos.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-13T08:00:11Z",
-    "url": "https://simpleflying.com/airline-removing-a321neo-economy-seats/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "63c7a2c4dc4b",
-    "title": "The Air Forces Operating The World's Newest Stealth Fighters In 2026",
-    "summary": "More than 20 air forces now fly stealth fighters, but the world has split into two rival clubs that never overlap.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-13T05:00:11Z",
-    "url": "https://simpleflying.com/newest-stealth-fighter-fleets-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
