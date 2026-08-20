@@ -1,12 +1,122 @@
 [
   {
+    "id": "5b5f0c0058ba",
+    "title": "150 Minutes To Nowhere: US Air Force Scraps C-17 Globemaster Flight Over Russian Missile Alert",
+    "summary": "The flight was part of the annual Winter Fly-in (WINFLY) period.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T21:48:38Z",
+    "url": "https://simpleflying.com/us-air-force-scraps-c-17-globemaster-flight-russian-missile-alert/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0ec2001222ac",
+    "title": "Seven killed in EC130 helicopter crash during Kenya safari flight",
+    "summary": "Five Americans were among seven people killed when a tourist helicopter crashed in a remote area of northern&#8230; The post Seven killed in EC130 helicopter crash during Kenya safari flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-19T20:07:00Z",
+    "url": "https://www.aerotime.aero/articles/seven-killed-ec130-helicopter-crash-kenya",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8b17aca046b3",
     "title": "Building a better preflight",
     "summary": "Rohith Velmurugan was working toward his commercial pilot certificate when he noticed how much of his training time was being spent on the ground.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "56f206b2c989",
+    "title": "\u201cFound Somebody\u201d: 911 Call Recounts JetBlue Workers Finding Trespasser Sleeping On Plane",
+    "summary": "The 32-year old trespasser was arrested and is facing charges.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:52:27Z",
+    "url": "https://simpleflying.com/911-call-jetblue-workers-finding-trespasser-sleeping-plane/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "f3de92ea107d",
+    "title": "British newlyweds killed in Bell 206 crash on Greek island of Sifnos",
+    "summary": "A British couple traveling to the Greek island of Sifnos on their honeymoon were killed when their chartered&#8230; The post British newlyweds killed in Bell 206 crash on Greek island of Sifnos appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:41:34Z",
+    "url": "https://www.aerotime.aero/articles/british-newlyweds-killed-bell-206-crash-sifnos-greece",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "be1134fff6e6",
+    "title": "WATCH: \u2018Ultra-Quiet\u2019 Electric Aircraft Engines Power First Piloted Flight",
+    "summary": "Swift 3 glider with Whisper Aero\u2019s propulsion system begins testing.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:30:00Z",
+    "url": "https://www.flyingmag.com/ultraquiet-electric-aircraft-engine-first-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2e4e21fc099c",
+    "title": "Video: NetJets Citation Longitude makes nose-gear-up landing in Ohio",
+    "summary": "A NetJets Cessna Citation Longitude made an emergency landing at Akron-Canton Airport (CAK) in Ohio on August 18,&#8230; The post Video: NetJets Citation Longitude makes nose-gear-up landing in Ohio appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:18:23Z",
+    "url": "https://www.aerotime.aero/articles/netjets-citation-longitude-nose-gear-up-landing-ohio",
+    "airlineTag": "NetJets",
+    "isBreaking": false
+  },
+  {
+    "id": "ba2d552c6254",
+    "title": "11,000 Square Feet: JetBlue\u2019s New BlueHouse Lounge At Boston Logan Nears Opening",
+    "summary": "The Boston location will be the second BlueHouse lounge in the country, following New York.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:18:19Z",
+    "url": "https://simpleflying.com/jetblue-new-bluehouse-boston-logan-nears-opening/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "54978acf8fa3",
+    "title": "Why American Airlines Just Overtook United As No.1 International Airline [Data]",
+    "summary": "American has overtaken United in international flights, driven by winter strength, network expansion, and high-frequency short-haul flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:08:01Z",
+    "url": "https://simpleflying.com/why-american-just-overtook-united-no1-international-airline/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "34f7da449173",
+    "title": "Gripen E Vs. F-35: Stealth Supremacy Or Maintenance Freedom?",
+    "summary": "Comparing Sweden's warbird to the American stealth fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-19T19:00:14Z",
+    "url": "https://simpleflying.com/gripen-e-f-35-stealth-supremacy-maintenance-freedom/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9c123ad06efa",
+    "title": "FAA Raises Concerns Over Proposed Runway At Washington\u2019s Lake Chelan Airport",
+    "summary": "FAA concerns over a proposed runway alignment have prompted Washington\u2019s Lake Chelan Airport to revisit its expansion plans and update its master plan.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-19T18:40:00Z",
+    "url": "https://avweb.com/aviation-news/lake-chelan-airport-runway-plans-faa-issue/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -391,7 +501,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1469,7 +1579,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-14T22:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1788,7 +1898,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T22:18:54Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1810,7 +1920,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1887,7 +1997,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-13T19:38:11Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/13/faa-finds-texas-airport-violated-federal-obligations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-13T05:00:11Z",
     "url": "https://simpleflying.com/newest-stealth-fighter-fleets-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9ed0a71fd83f",
-    "title": "JetBlue Receives FAA Certification On BlueFirst Seat, 1st Modified Cabin Expected Next Month",
-    "summary": "JetBlue\u2019s BlueFirst cabin nears launch after FAA certification clears a key regulatory hurdle.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-13T03:14:34Z",
-    "url": "https://simpleflying.com/jetblue-faa-certification-bluefirst-seat-1st-modified-cabin-next-month/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "2adc08d01b14",
-    "title": "United 787 flight to Munich diverts to Boston after cockpit windshield cracks",
-    "summary": "A United Airlines Boeing 787-8 flying from Washington Dulles Airport (IAD) to Munich (MUC) diverted to Boston Logan&#8230; The post United 787 flight to Munich diverts to Boston after cockpit windshield cracks appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-13T01:00:00Z",
-    "url": "https://www.aerotime.aero/articles/united-787-munich-boston-cracked-windshield",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "836c7a330e68",
-    "title": "From Classified Test Flight To $20 Billion Contract: The F-47\u2019s Rapid Rise",
-    "summary": "The Boeing F-47 reached a $20 billion contract in just five years. Here's how secret flights and digital engineering rewrote fighter development.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-13T00:00:11Z",
-    "url": "https://simpleflying.com/f47-secret-test-flight-contract/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9c065423d967",
-    "title": "JetBlue's New Four-Cabin Overhaul: What BlueFirst Base Actually Gets You (And What It Doesn't)",
-    "summary": "JetBlue's new BlueFirst Base fare offers a premium seat at a lower cost, but with reduced perks. Is it a trap or added value?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-12T22:00:11Z",
-    "url": "https://simpleflying.com/jetblue-four-cabin-overhaul-bluefirst/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "08519c4dd309",
-    "title": "'Full Throttle' scholarships open",
-    "summary": "I Hart Flying Foundation opened its second 2026 scholarship cycle, called \"Full Throttle: No Ceiling in Sight.\"",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-12T21:16:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/12/full-throttle-scholarships-open?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "401c788e1f98",
-    "title": "1st Half Of 2026: Delta Air Lines Cancels Nearly Twice As Many Flights As In 2025",
-    "summary": "Delta\u2019s cancellations have nearly doubled in 2026 despite improved on-time performance and stronger hiring.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-08-12T21:09:41Z",
-    "url": "https://simpleflying.com/delta-air-lines-cancels-nearly-twice-many-flights-2025/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "0d42745d9da3",
-    "title": "The Soviet Plane Built With A WWII Bomber's Tail Turret & Glazed Nose That The West Forgot",
-    "summary": "The Antonov An-12 wasn't a Soviet C-130 copy. Its bomber DNA, tail guns, and unique cargo system made it one of the Cold War's strangest airlifters.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-12T21:00:11Z",
-    "url": "https://simpleflying.com/soviet-plane-tail-turret-glazed-nose/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d3ccae831f1b",
-    "title": "How This 94-Seat Premium Economy Cabin Is Breaking The Ultra-Long-Haul Product",
-    "summary": "Singapore Airlines' hard premium economy product is strong, but the experience on the A350-900ULR is let down by a crowded cabin.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-12T20:00:11Z",
-    "url": "https://simpleflying.com/how-this-94-seat-premium-economy-cabin-is-breaking-the-ultra-long-haul-product/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "815d0a6e4142",
-    "title": "FedEx unveils retro 777F as Memphis airport is renamed for founder Fred Smith",
-    "summary": "FedEx has unveiled a Boeing 777 Freighter in a retro paint scheme inspired by the aircraft that launched&#8230; The post FedEx unveils retro 777F as Memphis airport is renamed for founder Fred Smith appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-12T19:22:40Z",
-    "url": "https://www.aerotime.aero/articles/fedex-retro-777f-livery-fred-smith-memphis",
-    "airlineTag": "FedEx Express",
-    "isBreaking": false
-  },
-  {
-    "id": "629105de5ae1",
-    "title": "How A Single $10 Component Can Delay The Delivery Of A $200 Million Aircraft",
-    "summary": "How can the industry fix this fragility?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-12T18:00:11Z",
-    "url": "https://simpleflying.com/how-a-single-10-component-can-delay-the-delivery-of-a-200-million-aircraft/",
     "airlineTag": null,
     "isBreaking": false
   }
