@@ -1,5 +1,137 @@
 [
   {
+    "id": "1f3803715649",
+    "title": "How Cabin Crew Pay Actually Works: The Hidden Pillars Behind Every Flight Attendant Paycheck",
+    "summary": "All is not quite what it seems.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T00:00:13Z",
+    "url": "https://simpleflying.com/how-cabin-crew-pay-actually-works-hidden-pillars-behind-flight-attendant-paycheck/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e04ee8e38196",
+    "title": "Delta Air Lines Extends 44-Seat First Class Airbus A321neo Flights Between Las Vegas & Atlanta",
+    "summary": "The airline plans to operate the aircraft through at least April 11, 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T22:23:59Z",
+    "url": "https://simpleflying.com/delta-air-lines-extends-airbus-a321neo-44-seat-first-class-las-vegas-atlanta/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "29d65abafd20",
+    "title": "71-Year-Old Man Says United Airlines Left Him Without Oxygen & Only Offered A $150 Credit",
+    "summary": "The dispute occurred on a flight from Utah to Houston.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T22:04:08Z",
+    "url": "https://simpleflying.com/71-year-old-man-united-airlines-no-oxygen-150-flight-credit/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ea7a39cf58c",
+    "title": "United Airlines Finishes Phase 1 Expansion Of World\u2019s Largest Flight Training Center",
+    "summary": "More than 22 acres and 12 football fields of training space support 32,000 annual simulator sessions and growth.",
+    "source": "Simple Flying",
+    "category": "training",
+    "publishedDate": "2026-08-20T21:24:40Z",
+    "url": "https://simpleflying.com/united-airlines-finishes-phase-1-expansion-worlds-largest-flight-training-facility/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4cc86a076963",
+    "title": "Man Ingested By Frontier Airlines Engine Was Denver\u2019s 6th Airfield Security Breach In 3 Years",
+    "summary": "A string of six breaches exposes gaps in Denver airport perimeter defenses as authorities review detection and response.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T20:47:08Z",
+    "url": "https://simpleflying.com/man-ingested-frontier-airlines-engine-denver-6th-air-field-security-breach-3-years/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4f2c65b592c7",
+    "title": "Allegiant Air Cancels Flights To These 7 Airports: See Affected Routes",
+    "summary": "Four of them are in one state. Find them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T20:00:14Z",
+    "url": "https://simpleflying.com/allegiant-air-cancels-flights-to-these-7-airports-see-affected-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "829d7c1a0ceb",
+    "title": "The Airlines Where Premium Economy Is The Smarter Buy Than Business Class In 2026",
+    "summary": "Premium economy is getting much closer to what a business class product offers. Here are some of the airlines offering the most impressive options",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T20:00:14Z",
+    "url": "https://simpleflying.com/airlines-where-premium-economy-smarter-buy-business-class-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9df71019041f",
+    "title": "United adds 40 new CAE simulators to world\u2019s largest pilot training facility",
+    "summary": "United Airlines has completed the first phase of an expansion at its Denver Flight Training Center after adding&#8230; The post United adds 40 new CAE simulators to world\u2019s largest pilot training facility appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "training",
+    "publishedDate": "2026-08-20T19:39:48Z",
+    "url": "https://www.aerotime.aero/articles/united-adds-40-cae-simulators-denver-training-center",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "938904926437",
+    "title": "Closed Bookings: United Airlines Pushes Back Venezuela Return To January",
+    "summary": "Plans to link Houston and Caracas face fresh setbacks as airport repairs and rerouted flights reshape schedules.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-20T19:29:58Z",
+    "url": "https://simpleflying.com/united-airlines-pushes-back-venezuela-return-january/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "133da1678401",
+    "title": "FLYING Contributor Max Trescott Joins Flight Instructor Hall of Fame",
+    "summary": "NAFI inducts experienced aviator as its 2026 honoree.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-08-20T19:00:00Z",
+    "url": "https://www.flyingmag.com/max-trescott-flight-instructor-hall-of-fame/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e95a09e3198b",
+    "title": "FAA Reportedly Frustrated With ATC Overhaul Contractor",
+    "summary": "Officials are reportedly considering reducing Peraton\u2019s role eight months after the company received a $1.5 billion integration contract.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-20T18:56:33Z",
+    "url": "https://avweb.com/aviation-news/faa-frustrated-atc-overhaul-contractor/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28d37448e3c0",
+    "title": "Cessna pilot killed in collision with police helicopter in Pennsylvania",
+    "summary": "A Cessna 150 pilot was killed when his airplane collided with a hovering Pennsylvania State Police helicopter while&#8230; The post Cessna pilot killed in collision with police helicopter in Pennsylvania appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-20T18:26:49Z",
+    "url": "https://www.aerotime.aero/articles/cessna-pilot-killed-police-helicopter-collision-pennsylvania",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "6fe3f1f242f3",
     "title": "Senators, FAA administrator oppose Burke Lakefront closure",
     "summary": "Ohio Sens. Bernie Moreno and Jon Husted, along with FAA Administrator Bryan Bedford, say they oppose Cleveland Mayor Justin Bibb&rsquo;s plan to close Burke Lakefront Airport, likely ending the yearslong effort.",
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-08-14T10:31:20Z",
     "url": "https://www.aerotime.aero/articles/british-airways-iag-heathrow-airport-third-runway-evidence-transport-committee",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7fe4874c53cd",
-    "title": "60 Inches Of Legroom: Inside This Transpacific Airline's Record-Breaking Business Class",
-    "summary": "The Star Alliance member's business class product is one of the best across the Pacific.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T09:15:11Z",
-    "url": "https://simpleflying.com/inside-this-transpacific-airlines-record-breaking-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1a078f38ea33",
-    "title": "Trump orders EMALS removed from fourth Ford-class carrier USS Doris Miller",
-    "summary": "President Donald Trump signed a national security presidential memorandum on August 13, 2026, directing the Pentagon to strip&#8230; The post Trump orders EMALS removed from fourth Ford-class carrier USS Doris Miller appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-14T07:45:48Z",
-    "url": "https://www.aerotime.aero/articles/trump-orders-emals-removed-doris-miller-carrier",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "37622a62aa60",
-    "title": "\u201cThis Is A Security Breach\u201d: United Airlines Flight Evacuates After Bullet Was Found Onboard",
-    "summary": "A loose round in the cabin shut down flight 1302 at the gate.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T07:17:47Z",
-    "url": "https://simpleflying.com/united-airlines-flight-evacuates-bullet-found-onboard/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5915ff38414b",
-    "title": "PeakJet takes off: the Swiss startup bringing semi-private aviation to Europe",
-    "summary": "The semi-private flight concept has been popular in the United States for quite some time. Companies like JSX&#8230; The post PeakJet takes off: the Swiss startup bringing semi-private aviation to Europe appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-14T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/peakjet-takes-off-the-swiss-startup-bringing-semi-private-aviation-to-europe",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0915b88205cb",
-    "title": "Technical Malfunction Forces Delta Air Lines Airbus A321 Return To Atlanta After 15 Minutes",
-    "summary": "The aircraft safely resumed its flight to Florida after a delay.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T01:20:42Z",
-    "url": "https://simpleflying.com/technical-malfunction-forces-delta-air-lines-airbus-a321-return-atlanta-15-minutes/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "14ad4c7d7f2a",
-    "title": "Technical Malfunction Forces Delta Air Lines Airbus A321 Returns To Atlanta After 15 Minutes",
-    "summary": "The aircraft safely resumed its flight to Florida after a delay.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T01:20:42Z",
-    "url": "https://simpleflying.com/technical-malfunction-forces-delta-air-lines-airbus-a321-return-atlanta-15-minutes/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6c7ac420a1ff",
-    "title": "Embraer's KC-390 Has Now Won Orders From 5 NATO Air Forces As A C-130 Replacement \u2014 But The USAF Still Won't Touch It",
-    "summary": "Orders keep stacking up for the KC-390 even as the USAF shies away.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T01:00:11Z",
-    "url": "https://simpleflying.com/kc-390-vs-c-17-flight-hour-cost/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "84215ee7d66f",
-    "title": "North Carolina flights marked new chapter in EMS",
-    "summary": "After months of preparation and training, North Carolina paramedic Quinn Reece was ready on June 27 when a 911 call summoned her to fly the first advanced life support (ALS) response in the United States using an electric vertical takeoff and landing aircraft.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-13T22:18:54Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/north-carolina-flights-marked-new-chapter-in-ems?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ceb6f44eacbe",
-    "title": "Why Airbus Is Beating Boeing On Deliveries In 2026 & What It Means",
-    "summary": "Airbus is leading the delivery race in 2026, but whether it can hold on to that advantage will depend on more than its own production.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-13T22:00:11Z",
-    "url": "https://simpleflying.com/why-airbus-beating-boeing-deliveries-2026-means/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "61bc55e70918",
-    "title": "Pilots dispute Arizona's Falcon Field fee justification",
-    "summary": "AOPA, along with the Arizona Pilots Association (APA) and the Aviation Safety Advisory Group of Arizona (ASAG), submitted comments to the FAA pushing back on the city of Mesa&rsquo;s defense of its financial methodology and rationale behind the implementation of landing fees a...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-13T21:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/13/pilots-dispute-falcon-field-fee-justification?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dd8c5ee789d0",
-    "title": "American Airlines reshuffles leadership team amid lagging profits",
-    "summary": "American Airlines has announced plans to shake up its senior leadership, as CEO Robert Isom faces growing pressure to&#8230; The post American Airlines reshuffles leadership team amid lagging profits appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-13T21:16:57Z",
-    "url": "https://www.aerotime.aero/articles/american-airlines-leadership-reshuffle-lagging-profits",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "46857df333c2",
-    "title": "American Airlines Rejigs Management Lineup To Improve Performance Against Competitors",
-    "summary": "Despite posting record revenue in Q2, American has ground to make up against United and Delta.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-13T21:02:13Z",
-    "url": "https://simpleflying.com/american-airline-rejigs-management-lineup-improve-performance-competitors/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
