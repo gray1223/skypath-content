@@ -1,5 +1,148 @@
 [
   {
+    "id": "6f073b74cef8",
+    "title": "8 Killed in Charter Plane Crash in Alaska",
+    "summary": "Cessna 441 goes down in foggy conditions in remote area.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-21T18:14:51Z",
+    "url": "https://www.flyingmag.com/8-killed-in-charter-plane-crash-in-alaska/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "64469e46fc43",
+    "title": "Running Out Of Gates: United & American Force O'Hare To Accelerate 24-Gate Concourse",
+    "summary": "O\u2019Hare is accelerating its 24-gate Concourse E as United and American\u2019s rapid growth pushes the airport toward capacity.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T17:48:18Z",
+    "url": "https://simpleflying.com/running-out-of-gates-united-american-accelerate-ord-concourse/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ff8c5031c295",
+    "title": "The Big 3: Which Airline Operates The Youngest Fleet?",
+    "summary": "American Airlines has the youngest fleet. The United Next program could change this in the years to come.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T17:00:14Z",
+    "url": "https://simpleflying.com/big-3-airline-operates-youngest-fleet/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0ff97fadef80",
+    "title": "US appeals court allows Delta-Aerom\u00e9xico joint venture to continue",
+    "summary": "A US appeals court has overturned a Department of Transportation order that would have forced Delta Air Lines&#8230; The post US appeals court allows Delta-Aerom\u00e9xico joint venture to continue appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-21T16:14:33Z",
+    "url": "https://www.aerotime.aero/articles/us-appeals-court-allows-delta-aeromexico-joint-venture-to-continue",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7b4d1055d9cb",
+    "title": "NTSB Releases Preliminary Report on Otter Crash",
+    "summary": "Pilot was attempting to avoid bad weather, agency says.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-08-21T16:02:20Z",
+    "url": "https://www.flyingmag.com/ntsb-releases-preliminary-report-on-otter-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2fcfeca7f6be",
+    "title": "Ontario Considers Converting Main Hangar to Soccer Facility",
+    "summary": "Commission is awaiting federal guidance as pilots and some local officials oppose the proposed nonaviation use.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-21T15:49:03Z",
+    "url": "https://avweb.com/aviation-news/ontario-main-hangar-soccer-facility/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28c5b6873aa9",
+    "title": "Eight killed in Cessna 441 crash near US military radar site airport in Alaska",
+    "summary": "Eight people were killed when a chartered Cessna 441 crashed while approaching a remote US military radar installation&#8230; The post Eight killed in Cessna 441 crash near US military radar site airport in Alaska appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-21T15:30:00Z",
+    "url": "https://www.aerotime.aero/articles/cessna-441-crash-alaska-cape-newenham-radar-site",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc5b7452c07e",
+    "title": "Tillamook Air Museum Sets Stage for Sale",
+    "summary": "Historic center will come under the operational umbrella of Utah-based Vintage Aviation Museum.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-21T15:00:00Z",
+    "url": "https://www.flyingmag.com/tillamook-air-museum-sets-stage-for-sale/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "be16aa65856e",
+    "title": "Eight Killed in Alaska Cessna 441 Accident",
+    "summary": "The charter flight was operating from Anchorage to a remote Air Force radar site at Cape Newenham.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-08-21T14:32:59Z",
+    "url": "https://avweb.com/flight-safety/accidents-ntsb/eight-killed-alaska-cessna-441-accident/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a8e6a2771973",
+    "title": "5 Fighter Jets The US Air Force Tried To Retire But Congress Saved",
+    "summary": "Congress has repeatedly blocked US Air Force plans to retire aging F-22s, F-15s, F-16s and A-10s, keeping the jets flying longer.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T14:00:13Z",
+    "url": "https://simpleflying.com/5-fighter-jets-usaf-tried-retire-congress-saved/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a49369a20ba7",
+    "title": "UK military helicopter fleet sheds 27\u00a0aircraft\u00a0in one year",
+    "summary": "The UK\u2019s rotary-wing military aircraft inventory fell to 249 platforms as of April 1, 2026, down 27 from one year earlier, according to annual statistics published&#8230; The post UK military helicopter fleet sheds 27 aircraft in one year appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-21T13:52:19Z",
+    "url": "https://www.aerotime.aero/articles/uk-military-helicopter-fleet-sheds-27-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dfd11b327103",
+    "title": "Seven Aerospace Workforce Hubs Receive $10.5 Million From NASA",
+    "summary": "NASA program will connect schools, employers and training programs over the next three years.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-21T13:26:13Z",
+    "url": "https://avweb.com/aviation-news/workforce-hubs-10-5-million-from-nasa/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7ae3933e7a8a",
+    "title": "FAA Spends Nearly $1.5B on Airport Upgrades in August",
+    "summary": "Agency awards $615 million to airports in 42 U.S. states and two territories.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-21T13:00:00Z",
+    "url": "https://www.flyingmag.com/faa-spends-1-5b-airport-upgrades-august/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c160f027e01b",
     "title": "Flight Gets Canceled After Toddler Stands In Seat, Delaying It Past Curfew",
     "summary": "A scheduled Porter Airlines flight from Victoria, British Columbia Canada to Toronto Pearson International was canceled on Thursday, August 6th, after it appears a child failed to wear their seatbelt and stood in the seat. This act of non-compliance pushed the flight past its ...",
@@ -7,6 +150,17 @@
     "category": "industry",
     "publishedDate": "2026-08-21T12:30:13Z",
     "url": "https://simpleflying.com/video/flight-gets-canceled-after-toddler-stands-in-seat-delaying-it-past-curfew/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "12bd9e7e2668",
+    "title": "Romanian\u00a0Gepard\u00a0tracks US Army drone in Poland counter-drone drill",
+    "summary": "During joint counter-drone training at Bemowo Piskie Training Area in Poland on August 18, 2026, US Army drone operators flew first-person-view aircraft for Romanian crews to&#8230; The post Romanian Gepard tracks US Army drone in Poland counter-drone drill appeared first on A...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-21T12:14:44Z",
+    "url": "https://www.aerotime.aero/articles/romanian-gepard-tracks-us-army-drone-poland",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2043,160 +2197,6 @@
     "publishedDate": "2026-08-15T00:00:11Z",
     "url": "https://simpleflying.com/airbus-a350-production-deliveries/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0a20ff04335e",
-    "title": "The Hub Delta Air Lines Threw Away After Merging With Northwest",
-    "summary": "A closer look at how Delta's transpacific strategy has evolved since 2008.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T23:00:11Z",
-    "url": "https://simpleflying.com/hub-delta-air-lines-threw-away-merging-northwest/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "46bfc5b2bfe9",
-    "title": "LAPP, AOPA Welcome Senators\u2019 Opposition to Closing Burke Lakefront Airport",
-    "summary": "CLEVELAND\u2014The Lakefront Airport Preservation Partnership (LAPP) and the Aircraft Owners and Pilots Association (AOPA) welcome today\u2019s comments from Sens. Bernie Moreno (R-Ohio) and Jon Husted (R-Ohio) opposing the proposed closure of Burke Lakefront Airport.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-14T22:47:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/14/pr-lapp-aopa-welcome-senators-opposition-to-closing-burke-lakefront-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c51a88220400",
-    "title": "Premium Expansions: Delta Air Lines\u2019 Boeing 737 MAX 10s Will Have 24 First Class Seats",
-    "summary": "The number represents an increase from the original 20-seat number.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T21:40:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-boeing-737-max-10s-24-first-class-seats/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "507420b82ff3",
-    "title": "Why United Airlines Is Deliberately Removing 35 Seats From Its Boeing 787-9 Dreamliner On Houston Long-Hauls",
-    "summary": "The move reduces total capacity but increases lucrative premium offerings.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T21:00:11Z",
-    "url": "https://simpleflying.com/united-7879-seat-reduction/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "488b3a73188e",
-    "title": "5 Things Passengers Don't Know About Takeoffs From The World's Highest Airports",
-    "summary": "Operating from high-altitude airports is not the same as operating from a standard airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T21:00:11Z",
-    "url": "https://simpleflying.com/5-things-passengers-dont-know-takeoffs-worlds-highest-airports/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "72ff1717f0ae",
-    "title": "Continued Struggles: Norse Atlantic Airways Considers Leasing Its Boeing 787s To 2 Airlines",
-    "summary": "Struggling Norwegian carrier explores Asian lease deals to steady cash flow with ready-to-fly Boeing 787s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T20:03:35Z",
-    "url": "https://simpleflying.com/norse-atlantic-airways-considers-leasing-boeing-787s-2-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "be44ec3c838b",
-    "title": "How An Ex-Iberia Boeing 757 Is Shaping Europe's Sixth-Generation Fighter",
-    "summary": "2Excel and other contractors are modifying an old Boeing 757-200 as a testbed for developing the GCAP/Tempest next-generation fighter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T20:00:11Z",
-    "url": "https://simpleflying.com/iberia-757-sixth-gen-fighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b9b208d3351d",
-    "title": "FAA Updates Cockpit-Control Guidance for Touchscreens, Voice Commands",
-    "summary": "Draft guidance addresses human-factors concerns as cockpit controls move beyond switches and knobs.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-14T19:06:37Z",
-    "url": "https://avweb.com/aviation-news/faa-updates-cockpit-control-guidance/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6d2874f8d717",
-    "title": "Pilots File Lawsuit Alleging Delta Air Lines Denied Paid Leave Amid Military Deployments",
-    "summary": "Federal judge clears class action as pilots seek common proof about comparable paid leave and reemployment protections.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T19:04:45Z",
-    "url": "https://simpleflying.com/pilots-file-lawsuit-alleging-delta-air-lines-denied-paid-leave-military-deployments/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "88a183943558",
-    "title": "Delta Air Lines Is Planning To Return To Singapore, Report Says",
-    "summary": "Delta is eyeing a return to Singapore as it rebuilds its Asian network around more nonstop US routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T18:42:45Z",
-    "url": "https://simpleflying.com/delta-air-lines-planning-return-singapore/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "e265b5ada889",
-    "title": "2 American Airlines Boeing 737s With The Same Callsign Flew Straight At Each Other",
-    "summary": "Delayed inbound AA2482 and on time departure with the same callsign created cockpit and ATC audio confusion over Phoenix.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T18:25:28Z",
-    "url": "https://simpleflying.com/american-airlines-boeing-737-same-callsign/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6d60d11e6515",
-    "title": "Italy Seizes Foreign-Registered GA Aircraft",
-    "summary": "European GA groups say N-registered and other foreign aircraft are facing increased scrutiny from Italian financial authorities.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-14T18:22:10Z",
-    "url": "https://avweb.com/aviation-news/italy-seize-foreign-registered-ga-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6a3394c50f17",
-    "title": "100% Drone Tariff Could Force Users to Buy American",
-    "summary": "China\u2019s DJI holds an estimated 70-80% share of the global market for commercial UAS.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-14T17:30:00Z",
-    "url": "https://www.flyingmag.com/100-percent-drone-tariff-buy-american/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79fb59f8b029",
-    "title": "Delta\u2019s Massive Europe Push: Now 10 Nonstop Routes To This Major City [Map]",
-    "summary": "The carrier now has the most flights ever to Paris. See why here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-14T17:00:11Z",
-    "url": "https://simpleflying.com/deltas-massive-europe-push-10-nonstop-routes-to-this-major-city/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
