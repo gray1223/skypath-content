@@ -1,5 +1,38 @@
 [
   {
+    "id": "15e592964146",
+    "title": "Why The Boeing 787's Gear Retraction System Is Unlike Any Other Commercial Aircraft",
+    "summary": "The Boeing 787 quickly became one of the most popular widebody aircraft ever produced.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T05:00:14Z",
+    "url": "https://simpleflying.com/why-boeing-787-gear-retraction-system-unlike-any-other-commercial-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bb2bb926146f",
+    "title": "Out Of Service: Delta Air Lines Boeing 737-900ER Engine Issue Forces Immediate Atlanta Return",
+    "summary": "An aging 737-900ER bowed out after a right engine glitch, testing Delta\u2019s busy Atlanta operations and leaving delayed passengers waiting.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T03:23:49Z",
+    "url": "https://simpleflying.com/delta-air-lines-boeing-737-900er-engine-issue-immediate-atlanta-return/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "723d2f3ea9df",
+    "title": "The 78-Inch Lie-Flat Seat That Costs 60% Less Than Business Class & Why The FAA Won't Approve It",
+    "summary": "Why the high cost of testing stalled out a radical idea for passenger comfort.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T02:00:24Z",
+    "url": "https://simpleflying.com/78-inch-lie-flat-seat-60-percent-less-business-class-faa-wont-approve-it/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "6ffeb71a9410",
     "title": "Why Boeing Skipped EASA Approval For The 737 MAX 7 For Now",
     "summary": "The aircraft will be operated almost entirely by Southwest Airlines.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-15T20:23:04Z",
     "url": "https://simpleflying.com/long-haul-delta-air-lines-flight-diverts-twice-lavatory-leak-floods-cabin/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1b632b9a6ba0",
-    "title": "Vietnam Airlines Boeing 787 Damaged After Taking Off Dangerously Late From Munich",
-    "summary": "A Munich departure turned chaotic as a 787-9 sustained heavy aft scraping and a puncture after a late rotation and runway overrun.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T19:46:23Z",
-    "url": "https://simpleflying.com/vietnam-airlines-boeing-787-tail-strike-munich/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "38d290dbc81b",
-    "title": "What United Airlines' 1st Airbus A321XLR Deliveries Reveal About Its Network Strategy",
-    "summary": "United Airlines is the latest airline to welcome the A321XLR. What does its arrival mean for the future of the airline and its expansion plans?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T18:00:11Z",
-    "url": "https://simpleflying.com/what-united-airlines-1st-airbus-a321xlr-deliveries-reveal-network-strategy/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4992bf6bf5ec",
-    "title": "Allegiant Air's Massive Expansion: 7 New Routes Announced [Map]",
-    "summary": "New nonstop hops target secondary Florida airports, promising point to point options for small and mid sized markets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T16:00:11Z",
-    "url": "https://simpleflying.com/allegiant-air-massive-expansion-7-new-routes/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
