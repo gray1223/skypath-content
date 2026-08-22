@@ -1,5 +1,27 @@
 [
   {
+    "id": "abcdb70c5f43",
+    "title": "Spain Rejected The F-35 For A $7 Billion Eurofighter Deal & Left Its Navy Scavenging Retired US Marine Harriers",
+    "summary": "Exploring the paradigm shift emerging for Spanish naval aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T11:00:14Z",
+    "url": "https://simpleflying.com/spain-f35-eurofighter-harriers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1d4bd1fa83f2",
+    "title": "'4 To 5 Passengers Burned': Laptop Catches Fire On American Airlines Flight",
+    "summary": "The device was contained by flight attendants, but multiple passengers were reportedly injured.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T08:24:24Z",
+    "url": "https://simpleflying.com/american-airlines-laptop-fire-passengers-burned/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "15e592964146",
     "title": "Why The Boeing 787's Gear Retraction System Is Unlike Any Other Commercial Aircraft",
     "summary": "The Boeing 787 quickly became one of the most popular widebody aircraft ever produced.",
@@ -534,7 +556,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-20T18:24:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-08-15T21:32:10Z",
     "url": "https://simpleflying.com/air-india-a320neo-lost-flight-controls-4-seconds-airbus/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f1b29c5c8ce6",
-    "title": "Only 243 Miles: American Airlines Launches New Ultra-Short Airbus A321XLR Flights",
-    "summary": "An ultra long range narrowbody on a short hop reveals cabin tech, larger screens, and enhanced in-seat power options.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T20:56:28Z",
-    "url": "https://simpleflying.com/only-243-miles-american-airlines-launches-new-ultra-short-airbus-a321xlr-flights/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fe18a2ab84cd",
-    "title": "Long-Haul Delta Air Lines Flight Diverts Twice After Lavatory Leak Floods Cabin",
-    "summary": "Passengers faced hours on the ground as Delta maintenance repaired the cabin issue and the flight later required a crew swap.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T20:23:04Z",
-    "url": "https://simpleflying.com/long-haul-delta-air-lines-flight-diverts-twice-lavatory-leak-floods-cabin/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
