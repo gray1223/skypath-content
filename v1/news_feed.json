@@ -1,5 +1,104 @@
 [
   {
+    "id": "6ffeb71a9410",
+    "title": "Why Boeing Skipped EASA Approval For The 737 MAX 7 For Now",
+    "summary": "The aircraft will be operated almost entirely by Southwest Airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T01:00:14Z",
+    "url": "https://simpleflying.com/why-boeing-skipped-easa-approval-737-max-7-now/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f88cb9a5d1cd",
+    "title": "Report: Boeing & United Airlines Paid Up To $1 Million To Sponsor DOT Secretary\u2019s Reality Show",
+    "summary": "A nonprofit production credits industry titans while episodes barely register on YouTube and spark ethics scrutiny.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T22:28:34Z",
+    "url": "https://simpleflying.com/boeing-united-airlines-paid-1-million-sponsor-dot-secretary-reality-show/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e6f3a4816217",
+    "title": "How Delta's Sky Club Redefined What Counts As A Visit & Caused 2 Cards To Lose Access Entirely",
+    "summary": "It's gettng harder to get the full value out of a loyalty program.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T22:00:13Z",
+    "url": "https://simpleflying.com/delta-sky-club-access/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7a9e04f1f391",
+    "title": "Delta Air Lines Planning To Leverage AI To Increase Profits By 50%, CEO Says",
+    "summary": "Delta frames governance and pilot programs as safeguards while AI augments back office, maintenance and pricing teams.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T21:59:18Z",
+    "url": "https://simpleflying.com/delta-air-lines-leverage-ai-increase-profits-50-percent-ceo/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "fbe86254b0d0",
+    "title": "Just 16 Days: Delta Air Lines Schedules 4 Routes To & From Orlando For Peak Holiday Travel",
+    "summary": "Delta is bringing back four Orlando routes for just 16 days as it sharpens its seasonal point-to-point strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T21:30:27Z",
+    "url": "https://simpleflying.com/delta-air-lines-schedules-4-routes-orlando-peak-holiday-travel/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "2fab95243c44",
+    "title": "$800 Or Leave Toddler Behind: American Airlines Charges Mom After Child Turns 2 Mid-Trip",
+    "summary": "A family confronts an $871 surprise when an airline reverses lap seating and insists their toddler buy a seat.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T21:05:38Z",
+    "url": "https://simpleflying.com/american-airlines-charges-mom-child-turns-2-mid-trip/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0a3de3d87406",
+    "title": "How Much More Do Widebody Pilots Make Than Narrowbody Pilots In 2026?",
+    "summary": "Widebody pilots can earn $60\u2013$80 more per flight hour than narrowbody peers in 2026, but seniority, guarantees and premium flying can change the gap.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-21T21:00:14Z",
+    "url": "https://simpleflying.com/how-much-cargo-pilots-make-compared-commercial/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "be8e187c865b",
+    "title": "FAA Awards $615 Million For Airport Projects",
+    "summary": "The latest Airport Improvement Program round includes 238 grants across 42 states and two territories.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-21T20:49:22Z",
+    "url": "https://avweb.com/aviation-news/faa-awards-615-million-airport-projects/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "12e5ccc71161",
+    "title": "FAA Flags 3D Printed Cockpit Accessories As Unapproved Parts",
+    "summary": "Notice covers 3D printed cup holders, yoke grips and other accessories sold for type-certificated aircraft.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-21T19:04:44Z",
+    "url": "https://avweb.com/aviation-news/faa-flags-3d-printed-cockpit-accessories/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "6f073b74cef8",
     "title": "8 Killed in Charter Plane Crash in Alaska",
     "summary": "Cessna 441 goes down in foggy conditions in remote area.",
@@ -51,6 +150,17 @@
     "category": "regulatory",
     "publishedDate": "2026-08-21T16:02:20Z",
     "url": "https://www.flyingmag.com/ntsb-releases-preliminary-report-on-otter-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6301fc0030ac",
+    "title": "Ontario Airport Considers Converting Main Hangar to Soccer Facility",
+    "summary": "Commission is awaiting federal guidance as pilots and some local officials oppose the proposed nonaviation use.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-21T15:49:03Z",
+    "url": "https://avweb.com/aviation-news/ontario-main-hangar-soccer-facility/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-15T16:00:11Z",
     "url": "https://simpleflying.com/allegiant-air-massive-expansion-7-new-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bfa809dfc2f5",
-    "title": "Southwest Airlines Launches 7 New Nonstop Routes From Its 5th Busiest Airport [Map & List]",
-    "summary": "The carrier is on the up in Nashville.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T16:00:11Z",
-    "url": "https://simpleflying.com/southwest-airlines-new-nashville-routes/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "91178e5fcef0",
-    "title": "The Antonov An-178 Was Meant To Challenge The C-390 - Then Everything Changed",
-    "summary": "How Antonov survived multiple devastating crises and has ambitions to one day return to producing military transports led by its modernized An-178.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T14:00:11Z",
-    "url": "https://simpleflying.com/antonov-an178-vs-embraer-c390/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "81f99f1d0727",
-    "title": "London Heathrow Flooding Shuts Road Access To United, American & Delta Terminals",
-    "summary": "A burst main has submerged roads around Heathrow's central terminals, stranding passengers and staff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T13:38:34Z",
-    "url": "https://simpleflying.com/london-heathrow-flooding-road-united-american-delta-terminals/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9b2077d00be0",
-    "title": "US Army moves to Robinson R66 under $10B helicopter training program",
-    "summary": "The US Army has selected the Robinson R66 as its next primary helicopter trainer under a contract with&#8230; The post US Army moves to Robinson R66 under $10B helicopter training program appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-15T13:12:47Z",
-    "url": "https://www.aerotime.aero/articles/us-army-robinson-r66-10-billion-helicopter-training-program",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "718d5738d244",
-    "title": "Why American Airlines Flew This Surprising 190-Mile Route From Heathrow [Map]",
-    "summary": "Do you remember this short-lived experiment?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T13:00:11Z",
-    "url": "https://simpleflying.com/american-airlines-london-brussels-flights/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a63c45222761",
-    "title": "10 Abreast In Economy: Philippine Airlines Airbus A350-1000 Flight Review",
-    "summary": "While the majority of A350 operators around the world have 9-abreast seating in economy class, there are but a few airlines in the world operating the type with a 10-abreast seat configuration. Philippine Airlines is one of them!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T12:29:11Z",
-    "url": "https://simpleflying.com/video/10-abreast-in-economy-philippine-airlines-airbus-a350-1000-flight-review/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cb1cb894f129",
-    "title": "The Busiest: The Top 7 Airbus A350-900 Routes With Over 1,300 Frequencies In 2026",
-    "summary": "Japan Airlines dominates the world's busiest Airbus A350-900 routes in 2026, while other carriers across Asia make the rest top seven.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T11:00:11Z",
-    "url": "https://simpleflying.com/top-7-airbus-a350-900-routes-over-1300-frequencies-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51104d7db6ee",
-    "title": "Delta Air Lines\u2019 Own CEO Often Doesn\u2019t Fly In Premium Cabins: Here\u2019s Why",
-    "summary": "The carrier's CEO has a unique personality.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T09:15:11Z",
-    "url": "https://simpleflying.com/why-delta-air-lines-ceo-doesnt-fly-in-premium-cabins/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "c2840afae127",
-    "title": "\"All My Flight Attendants Have Headaches\": 4 Of 5 Frontier Crew Fall Ill On Airbus A321",
-    "summary": "Two flight attendants were taken to hospital as the jet remains grounded and multiple flights were canceled.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T05:56:23Z",
-    "url": "https://simpleflying.com/frontier-crew-fall-ill-airbus-a321-medical-emergency/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8cc38f078af1",
-    "title": "Why Airbus Is Building A350s Faster Than Airlines Can Actually Take Them",
-    "summary": "Airbus is in the process of increasing its A350 production output, but are airlines actually in a position to receive them?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T00:00:11Z",
-    "url": "https://simpleflying.com/airbus-a350-production-deliveries/",
     "airlineTag": null,
     "isBreaking": false
   }
