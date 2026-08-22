@@ -1,5 +1,82 @@
 [
   {
+    "id": "fcd7029747d0",
+    "title": "Why United Airlines' CEO Put Rolls-Royce In The 'Doghouse' & What It Means For 45 Airbus A350s",
+    "summary": "United's Rolls-Royce dispute puts 45 A350s at risk as engine durability, $175M, and United's huge Boeing 787 order reshape its fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T18:00:14Z",
+    "url": "https://simpleflying.com/united-airlines-ceo-rolls-royce-doghouse-means-45-airbus-a350s/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "956882019b12",
+    "title": "\u201cScamming Us\u201d: Southwest Airlines Passenger Highlights Booking Flaw For Extra Legroom Seats",
+    "summary": "Passengers are experiencing a frustrating glitch in the booking system.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T16:47:12Z",
+    "url": "https://simpleflying.com/southwest-airlines-passenger-booking-flaw-extra-legroom-seats/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f4e6c5128631",
+    "title": "United Airlines Launches 14 New Nonstop Routes From The World\u2019s Busiest Airport [Full List]",
+    "summary": "From Santa Fe to Tokyo, United is expanding on all fronts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T16:23:53Z",
+    "url": "https://simpleflying.com/united-airlines-launches-14-new-routes-from-worlds-busiest-airport-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dc0bcf54d0f1",
+    "title": "Why Widebody Pilots Lose Speed Authority The Moment They Cross Into Oceanic Airspace",
+    "summary": "Pilots face a vital need to maintain their speed over remote airspace.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T15:00:14Z",
+    "url": "https://simpleflying.com/widebody-pilots-lose-speed-authority-moment-cross-oceanic-airspace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b6025250cd0e",
+    "title": "The 5-Minute Rule That Forces Pilots To Cut Thrust Just After Takeoff",
+    "summary": "It is a carefully planned procedure which relies heavily on accurate calculations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T14:00:14Z",
+    "url": "https://simpleflying.com/5-minute-rule-forces-pilots-cut-thrust-after-takeoff/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "51b7fcd3b371",
+    "title": "Allegiant Air's Massive Expansion: 15 New Routes To Florida Revealed [Map]",
+    "summary": "These corridors are spread across five airports in Florida.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-22T13:00:14Z",
+    "url": "https://simpleflying.com/allegiant-air-new-florida-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3eab806fc550",
+    "title": "Legacy vs. New-Build Under MOSAIC Phase 2",
+    "summary": "FLYING Finance breaks down the cost gap between the two paths into sport pilot privileges.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-22T13:00:00Z",
+    "url": "https://www.flyingmag.com/legacy-vs-new-build-under-mosaic-phase-2/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "abcdb70c5f43",
     "title": "Spain Rejected The F-35 For A $7 Billion Eurofighter Deal & Left Its Navy Scavenging Retired US Marine Harriers",
     "summary": "Exploring the paradigm shift emerging for Spanish naval aviation.",
@@ -556,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-20T18:24:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +908,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1304,7 +1381,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-16T07:00:11Z",
     "url": "https://simpleflying.com/cockpit-flow-before-checklist/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "90d00722c66c",
-    "title": "Can American Airlines Close The Profit Gap With Delta & United?",
-    "summary": "Can the largest US airline by number of flights return to the top when it comes to profitability?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T04:02:17Z",
-    "url": "https://simpleflying.com/american-airlines-catch-up-delta-united/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "88ee415a1a08",
-    "title": "Why Delta Air Lines' Quiet Exit From Minneapolis Marks The End Of The DC-9 Era In America",
-    "summary": "Delta quietly ended all 717 flights from Minneapolis in May 2026. The DC-9 family had been flying from MSP for 60 years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T03:00:11Z",
-    "url": "https://simpleflying.com/why-delta-air-lines-quiet-exit-minneapolis-marks-end-dc-9-era-america/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "973f46c91d5d",
-    "title": "A Look At The Salaries Of Long-Haul Flight Attendants In 2026",
-    "summary": "This analysis will focus on major US airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T01:45:11Z",
-    "url": "https://simpleflying.com/salaries-long-haul-flight-attendants-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dd4919192843",
-    "title": "Why The Boeing 767 Refuses To Die Nearly 45 Years After Its 1st Flight",
-    "summary": "The 767 continues to have military and cargo usage, which will ensure it keeps flying for decades to come.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T01:00:11Z",
-    "url": "https://simpleflying.com/why-boeing-767-refuse-die-nearly-45-years-1st-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "87cefd935db1",
-    "title": "The Real Origin Of America's Pilot Shortage & Why It May Be Coming To An End",
-    "summary": "A closer look at the reality of the current pilot hiring market, and what to expect in the near future.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-08-15T23:00:11Z",
-    "url": "https://simpleflying.com/america-pilot-shortage-origin/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "edcbbb172087",
-    "title": "Sun Country Airlines\u2019 Minneapolis Cutbacks Sparks Worry Over Higher Airfares",
-    "summary": "The Minneapolis airline will serve about half a million less passengers from its home city compared to 2024.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T22:44:42Z",
-    "url": "https://simpleflying.com/sun-country-minneapolis-cutbacks-worry-higher-airfares/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "516a55035168",
-    "title": "Air India A320neo Lost Critical Flight Controls For 4 Seconds In 300ft Plunge, Airbus Says",
-    "summary": "Airbus ordered hydraulic and sensor checks after sensors were removed and wiring inspections were flagged for VT-EXO.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-15T21:32:10Z",
-    "url": "https://simpleflying.com/air-india-a320neo-lost-flight-controls-4-seconds-airbus/",
     "airlineTag": null,
     "isBreaking": false
   }
