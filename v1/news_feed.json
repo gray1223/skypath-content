@@ -1,5 +1,16 @@
 [
   {
+    "id": "c521e4a7ddaf",
+    "title": "6 Airlines Ranked By What They Pay A First Officer In Their First Year",
+    "summary": "Checking the current industry trends for new first officers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T03:59:32Z",
+    "url": "https://simpleflying.com/6-airlines-ranked-pay-first-officer-first-year/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "1013ef6f6bf4",
     "title": "The Real Reason Why The World's Largest Commercial Aircraft Only Has Reverse Thrust On 2 Engines",
     "summary": "The Airbus A380's two-thrust-reverser configuration is a carefully engineered design that improves efficiency and reliability.",
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-08-16T14:00:11Z",
     "url": "https://simpleflying.com/concorde-droop-nose-delta-wing/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9095afdcbd6f",
-    "title": "How Congress Increased The Navy\u2019s Sixth-Gen Fighter Budget From $74 Million To Over $900 Million",
-    "summary": "The back story of the dramatic course change for the F/A-XX.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T13:00:11Z",
-    "url": "https://simpleflying.com/navy-sixth-gen-fighter-budget/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
