@@ -1,5 +1,71 @@
 [
   {
+    "id": "af218c3301fe",
+    "title": "A Look At The Salaries Of US Navy Pilots In 2026",
+    "summary": "Several different ranks, aircraft, and the officers' responsibilities play a part in overall pay.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-08-23T18:15:14Z",
+    "url": "https://simpleflying.com/salaries-of-us-navy-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "369d8d379545",
+    "title": "Russia's Su-57 Is Supposed To Challenge Western 5th-Gen Fighters \u2014 So Why Is Its Fleet So Small?",
+    "summary": "Around 44x more F-35s are known to be on order/planned than Russia's Su-57 Felon, creating a negative feedback loop for the Felon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T18:00:14Z",
+    "url": "https://simpleflying.com/russia-su57-fifth-gen-fighter-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b96ca1748052",
+    "title": "United Airlines Stuck With Hundreds Of Boeing 737 MAX 10 Lie-Flat Seats It May Never Install",
+    "summary": "United has reshaped its premium transcontinental plans as the MAX 10\u2019s role pivots toward a higher density domestic workhorse.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T17:10:51Z",
+    "url": "https://simpleflying.com/united-airlines-boeing-737-max-10-lie-flat-seats-stuck/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "389e700e8bbc",
+    "title": "The $472 Million Contract That Just Extended A 1960s Helicopter's Life Into The 2040s",
+    "summary": "With no replacement coming any time soon, the US Army is currently working to upgrade its Chinook fleet to fly into the 2040s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T16:00:14Z",
+    "url": "https://simpleflying.com/472-million-contract-extended-1960s-helicopters-life-2040s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7b51c34e8066",
+    "title": "The Real Reason Private Jets Fly Above Commercial Traffic",
+    "summary": "Private jets often fly at altitudes of up to 45,000 feet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T14:00:14Z",
+    "url": "https://simpleflying.com/reason-private-jets-higher-commercial/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "38dce24e03c1",
+    "title": "Here's Why Amsterdam Is Delta Air Lines' #1 Long-Haul Destination For Flights",
+    "summary": "The Dutch city acts as a key hub for onward travel via the carrier's alliance and joint venture partners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T13:00:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-amsterdam-popularity-analysis/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "c1737c6ad0b1",
     "title": "American Airlines' AI Is Rebooking Passengers Onto Later Flights Without Asking Them",
     "summary": "American Airlines is seeing increasing backlash over the mistakes of its relatively new artificial intelligence booking software. The program is designed to make it easier for delayed travelers to catch connections when their initial departure falls behind schedule. In some ca...",
@@ -776,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-20T18:24:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1117,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1524,7 +1590,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-08-17T01:33:36Z",
     "url": "https://www.aerotime.aero/articles/avianca-cargo-delivers-60-more-tons-of-aid-to-earthquake-hit-colombia",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9334ca2f4d8f",
-    "title": "Why The USAF Almost Never Launches The B-1B, B-2, & B-52 Together From One Base",
-    "summary": "Why the USAF rarely launches the B-1B, B-2 and B-52 together\u2014and why Guam's Andersen AFB is uniquely equipped to make it possible.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T01:00:11Z",
-    "url": "https://simpleflying.com/usaf-bombers-launched-different-bases/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8ab65d0177f2",
-    "title": "The 4 Aircraft Leasing Companies Quietly Dominating The World's Widebody Fleet",
-    "summary": "Four leasing companies own thousands of the aircraft that airlines fly every day. Here is how large their fleets are and how they got there.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T00:00:11Z",
-    "url": "https://simpleflying.com/four-aircraft-lessors-widebody-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db81400e1ad4",
-    "title": "Bomb Threat Forces Southwest Airlines Passengers To Be Stuck On Houston Tarmac For Hours",
-    "summary": "A bomb threat at Houston Hobby Airport left Southwest passengers stuck on the tarmac for hours as police and K9 units investigated.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T23:16:18Z",
-    "url": "https://simpleflying.com/bomb-threat-southwest-airlines-passengers-stuck-houston-tarmac-hours/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ac4891c5dceb",
-    "title": "The US Air Force Bolted Jet Engines Onto Its Largest-Ever Bomber, But It Still Wasn't Enough To Save It",
-    "summary": "One of the overlooked and innovative engineering aspects of the B-36 Peacemaker was its use of four turbojets to supplement its six piston engines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T22:00:11Z",
-    "url": "https://simpleflying.com/largest-us-bomber-jet-engines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "96f20cec2241",
-    "title": "7 First Class Suites So Private That Passengers Forget Other Travelers Exist",
-    "summary": "Airlines pair design and tech to create cabin sanctuaries with personal screens, tailored lighting, and seating privacy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T21:00:11Z",
-    "url": "https://simpleflying.com/first-class-private-suites/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e3684f6cf86f",
-    "title": "American Airlines Launches 6 New Nonstop Transatlantic Routes [Full List & Map]",
-    "summary": "American Airlines launched six new nonstop transatlantic routes in 2026, connecting US hubs with Edinburgh, Budapest, Prague, Athens, Zurich and Milan",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-16T19:30:11Z",
-    "url": "https://simpleflying.com/american-airlines-launches-6-new-transatlantic-routes/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
