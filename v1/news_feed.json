@@ -1,5 +1,38 @@
 [
   {
+    "id": "2882ea6f9ade",
+    "title": "United Airlines Plots JFK Expansion By Hunting Slots From Rivals Flying At A Loss",
+    "summary": "The return of the world's biggest airline to JFK is just over the horizon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T06:50:12Z",
+    "url": "https://simpleflying.com/united-airlines-new-york-jfk-slots-expansion/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "330a781755cd",
+    "title": "Why U-2 Pilots Breathe Pure Oxygen For An Hour Before Flying To 70,000 Feet",
+    "summary": "The intense pre-flight ritual of the Dragon Lady's aircrew.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T04:00:17Z",
+    "url": "https://simpleflying.com/u-2-pilots-breathe-pure-oxygen-hour-before-flying-70000-feet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7b77eea61a68",
+    "title": "Oman Air and SalamAir announce leadership changes on the same day",
+    "summary": "The two largest airlines in the Sultanate of Oman are experiencing a leadership shakeup. On August 20, 2026,&#8230; The post Oman Air and SalamAir announce leadership changes on the same day appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T03:59:00Z",
+    "url": "https://www.aerotime.aero/articles/oman-air-and-salamair-announce-leadership-changes-on-the-same-day",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3c600bab466b",
     "title": "FAA Order: First Class Passengers Will No Longer Be Able To Sip Beverages After Pushback",
     "summary": "Delta and other carriers must start pre-departure service earlier so galley items are stowed prior to aircraft movement.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-17T10:00:11Z",
     "url": "https://simpleflying.com/6-pacific-air-bases-us-quietly-building-back-up-andersen/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6cad708c82f0",
-    "title": "Druine\u00a0Turbulent pilot seriously injured during display at historic UK aerodrome",
-    "summary": "A pilot was seriously injured when a single-seat Druine D.31 Turbulent was damaged during a display at the Stow Maries&#8230; The post Druine Turbulent pilot seriously injured during display at historic UK aerodrome appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T08:46:10Z",
-    "url": "https://www.aerotime.aero/articles/druine-turbulent-pilot-injured-stow-maries-air-show",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9359f09d474b",
-    "title": "Angolan carrier TAAG transports live lions from South Africa to Nigeria",
-    "summary": "On August 15, 2026, Angola\u2019s flag carrier TAAG Angola Airlines shared some details about a rather unusual cargo&#8230; The post Angolan carrier TAAG transports live lions from South Africa to Nigeria appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T08:36:33Z",
-    "url": "https://www.aerotime.aero/articles/angolan-carrier-taag-transports-live-lions-from-south-africa-to-nigeria",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "25e65350116d",
-    "title": "American & Delta Jets Cross S\u00e3o Paulo Runway As LATAM A320 Begins Takeoff Without Clearance",
-    "summary": "The LATAM jet eventually reached its destination just over half an hour late.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T08:24:20Z",
-    "url": "https://simpleflying.com/american-delta-jets-latam-a320-takeoff-without-clearance-sao-paulo/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
