@@ -1,5 +1,126 @@
 [
   {
+    "id": "e8b3dc978f7e",
+    "title": "How Pratt & Whitney Traded The Widebody Engine Market For Narrowbody Dominance",
+    "summary": "For decades, Pratt & Whitney was one of the three dominant names in large commercial aircraft propulsion. Its PW4000 family powered hundreds of widebodies, including early Boeing 777s, 767s, and 747s, as well as Airbus A330s.Today, however, the competitive landscape looks dram...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T12:33:13Z",
+    "url": "https://simpleflying.com/video/how-pratt-whitney-traded-the-widebody-engine-market-for-narrowbody-dominance/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71bf7d3bbb25",
+    "title": "6 Largest Airports In The US By Passenger Volume",
+    "summary": "These are the largest airports in the United States by passenger volume.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T11:15:14Z",
+    "url": "https://simpleflying.com/largest-airports-us-passenger-volume/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a7780d18dc86",
+    "title": "Hungarian Gripen fighter jet crashes at Szolnok military base",
+    "summary": "An investigation has been launched after a Gripen fighter jet from the Hungarian Defense Force crashed at Szolnok&#8230; The post Hungarian Gripen fighter jet crashes at Szolnok military base appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T10:53:09Z",
+    "url": "https://www.aerotime.aero/articles/hungarian-gripen-fighter-jet-crashes-at-szolnok-military-base",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f3b8214d41cf",
+    "title": "Indonesian Air Force Sukhoi Su-30 runs off runway at Makassar airport",
+    "summary": "An Indonesian Air Force Sukhoi Su-30 fighter left the paved surface of runway 13 at Sultan Hasanuddin International&#8230; The post Indonesian Air Force Sukhoi Su-30 runs off runway at Makassar airport appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T10:36:29Z",
+    "url": "https://www.aerotime.aero/articles/indonesian-air-force-sukhoi-su-30-runs-off-runway-at-makassar-airport",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6604da144ab4",
+    "title": "ANA launches remote airport robot support as Japan\u2019s workforce shrinks",
+    "summary": "All Nippon Airways (ANA) announced that it will begin rolling out remote passenger support across multiple regional airports&#8230; The post ANA launches remote airport robot support as Japan\u2019s workforce shrinks appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T10:32:37Z",
+    "url": "https://www.aerotime.aero/articles/ana-launches-remote-airport-robot-support-as-japans-workforce-shrinks",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1d7396f85308",
+    "title": "Is It True That US Air Force Pilots With The Highest Ranks Earn Less Than Commercial Pilots?",
+    "summary": "A closer look at a fascinating financial question.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-08-24T09:45:14Z",
+    "url": "https://simpleflying.com/true-usaf-pilots-highest-ranks-earn-less-than-commercial-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "37b8c5576daf",
+    "title": "2 Former Pan Am & Japan Airlines Boeing 747s Are Now Luxury Hotel Suites In Malaysia",
+    "summary": "A closer look at an innovative aircraft upcycling project.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T09:17:18Z",
+    "url": "https://simpleflying.com/pan-am-japan-airlines-boeing-747-luxury-hotel-suites-malaysia/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "72838395b57f",
+    "title": "The Striking Differences Pilots Notice Between The F-35 Lightning II & F-22 Raptor",
+    "summary": "Explore how F-22 vs F-35 cockpit design, helmet tech & VTOL shape radically different pilot experiences in modern stealth fighters.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T08:59:20Z",
+    "url": "https://simpleflying.com/striking-dfferences-notice-pilots-f-35-f-22/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bac6c566f757",
+    "title": "Thousands of Boeing staff ready to strike if further contract negotiations fail",
+    "summary": "Thousands of Boeing staff members are ready to strike if further contract negotiations between union representatives and the&#8230; The post Thousands of Boeing staff ready to strike if further contract negotiations fail appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T08:43:40Z",
+    "url": "https://www.aerotime.aero/articles/boeing-staff-strike-speea-professional-technical",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7960d3748f1b",
+    "title": "US Navy reveals long-range AIM-424 Malice missile that fits inside an F-35C",
+    "summary": "The US Navy published official specifications for the AIM-424 Long Range Air-to-Air Missile (LRAAM) on August 22, 2026,&#8230; The post US Navy reveals long-range AIM-424 Malice missile that fits inside an F-35C appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T08:21:33Z",
+    "url": "https://www.aerotime.aero/articles/us-navy-aim-424-malice-missile-250-nm-range",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "300e49464e29",
+    "title": "How One Aircraft's Arrival In Europe Preceded A String Of NATO Orders",
+    "summary": "Portugal became Embraer's first international customer for the KC-390 Millennium in 2023.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T07:00:14Z",
+    "url": "https://simpleflying.com/one-aircraft-launched-europe-nato-orders/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2882ea6f9ade",
     "title": "United Airlines Plots JFK Expansion By Hunting Slots From Rivals Flying At A Loss",
     "summary": "The return of the world's biggest airline to JFK is just over the horizon.",
@@ -8,6 +129,17 @@
     "publishedDate": "2026-08-24T06:50:12Z",
     "url": "https://simpleflying.com/united-airlines-new-york-jfk-slots-expansion/",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9dc6512a838c",
+    "title": "MRO recruitment amid aviation\u2019s talent crunch: What operators need to know",
+    "summary": "MRO recruitment has become one of the most urgent issues in aviation. As engine MRO backlogs grow, fleets&#8230; The post MRO recruitment amid aviation\u2019s talent crunch: What operators need to know appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-24T06:32:45Z",
+    "url": "https://www.aerotime.aero/articles/mro-recruitment-aviation-talent-crunch",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -194,6 +326,17 @@
     "category": "industry",
     "publishedDate": "2026-08-23T12:24:13Z",
     "url": "https://simpleflying.com/video/american-airlines-ai-is-rebooking-passengers-onto-later-flights-without-asking-them/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "12987b43690a",
+    "title": "Passenger suffers minor burns\u00a0after laptop catches fire on American flight",
+    "summary": "At least four people suffered burns after a laptop battery caught fire onboard an American Airlines flight, several&#8230; The post Passenger suffers minor burns after laptop catches fire on American flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-23T10:59:53Z",
+    "url": "https://www.aerotime.aero/articles/laptop-catches-fire-on-american-airlines-flight-passenger-suffers-minor-burns",
     "airlineTag": "American Airlines",
     "isBreaking": false
   },
@@ -952,7 +1095,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-20T18:24:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1227,7 +1370,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1700,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-18T18:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/18/training-and-safety-tip-sketch-for-mastery?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2053,149 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-17T18:34:42Z",
     "url": "https://www.aerotime.aero/articles/faa-moves-air-traffic-network-overhaul-to-att-under-multibillion-dollar-deal",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "58916d3664ea",
-    "title": "Air Force HH-60Ws Rescue Five Navy Personnel",
-    "summary": "Two Jolly Green II helicopters were launched after a Navy MH-60S made a hard landing in mountainous terrain.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-17T18:06:56Z",
-    "url": "https://avweb.com/aviation-news/air-force-hh-60ws-rescue-navy-personnel/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e0b5dbd76a5b",
-    "title": "Uber\u2019s Drone Delivery Bet: 1 Million Daily Trips by 2029",
-    "summary": "Ambitious commitments by DoorDash and now Uber could reshape low-altitude airspace.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-17T16:30:00Z",
-    "url": "https://www.flyingmag.com/uber-drone-delivery-zipline-1-million-trips-2029/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "22e2df9a7948",
-    "title": "Why Air Canada Chose 16 Airbus A350-1000s Over Boeing's Delayed 777X To Replace Its Aging 777-300ERs",
-    "summary": "Could the carrier's decision be bad news for the American planemaker?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T16:00:11Z",
-    "url": "https://simpleflying.com/why-air-canada-chose-16-airbus-a350-1000s-over-boeing-777x-replace-aging-777-300ers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d2211c68063d",
-    "title": "FAA Gives AT&T $74.3 Million Start On New ATC Network",
-    "summary": "Initial work will support a telecommunications contract expected to reach into the billions.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-17T15:17:40Z",
-    "url": "https://avweb.com/aviation-news/faa-att-74-3-million-new-atc-network/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0be5fa8f1f15",
-    "title": "airBaltic bondholders approve new terms for outstanding bonds",
-    "summary": "On August 17, 2026, airBaltic announced that its bondholders have approved amendments to the terms of the airline\u2019s&#8230; The post airBaltic bondholders approve new terms for outstanding bonds appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T14:43:52Z",
-    "url": "https://www.aerotime.aero/articles/airbaltic-bondholders-approve-new-terms-for-outstanding-bonds",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9b4977692805",
-    "title": "Screens Go Black: UPS Boeing 767 Lands In Denver Amid Dramatic Instrument Failure",
-    "summary": "The aircraft landed safely, but has yet to return to the skies following the incident.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T14:38:11Z",
-    "url": "https://simpleflying.com/ups-boeing-767-instrument-failure/",
-    "airlineTag": "UPS Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4bd80294a71c",
-    "title": "Brussels Airlines expands Arctic network with services to Norway and Finland",
-    "summary": "Brussels Airlines announced on August 17, 2026, a significant increase in the capacity it offers to Europe\u2019s far&#8230; The post Brussels Airlines expands Arctic network with services to Norway and Finland appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T13:55:22Z",
-    "url": "https://www.aerotime.aero/articles/brussels-airlines-expands-arctic-network-with-services-to-norway-and-finland",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "be603eca04ac",
-    "title": "Controller Handles Two American Flights With Identical Call Signs",
-    "summary": "Duplicate call signs put two American Airlines flights on the same frequency near Phoenix.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-17T13:53:19Z",
-    "url": "https://avweb.com/aviation-news/two-american-flights-same-call-sign/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ac49570a70f6",
-    "title": "140+ Cancelations In 3 Days: Hurricane Lala Wreaks Havoc On Hawaiian Airlines Flights",
-    "summary": "Alaska Airlines and Hawaiian Airlines alone had to cancel close to 150 flights from Friday to Sunday.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T12:54:14Z",
-    "url": "https://simpleflying.com/hurricane-lala-hawaiian-airlines-impact/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8d8d9ae6d5be",
-    "title": "Last Chance: Air France's Final 37 Airbus A318 Routes Revealed [See Full Map]",
-    "summary": "The fleet will travel across 13 countries and 37 routes in its final months.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T12:00:11Z",
-    "url": "https://simpleflying.com/final-chance-air-france-last-37-airbus-a318-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "afd696e5fd1b",
-    "title": "Vietnam Airlines Boeing 787 Substantially Damaged After Dangerously Late Munich Takeoff",
-    "summary": "A Munich departure turned chaotic as a 787-9 sustained significant damage after a late rotation and runway overrun.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T10:52:54Z",
-    "url": "https://simpleflying.com/vietnam-airlines-boeing-787-tail-strike-munich/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7bce58c9aa8e",
-    "title": "How Much Do Boeing 787 Dreamliner Pilots Make In 2026?",
-    "summary": "Discover the world of airline pilot salaries, where earnings are determined by factors like seniority, aircraft type, and annual flying hours.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T10:07:42Z",
-    "url": "https://simpleflying.com/how-much-boeing-787-dreamliner-pilots-make-i2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4edc89177c02",
-    "title": "6 Pacific Air Bases The US Is Quietly Building Up To Back Up Andersen AFB",
-    "summary": "The US is building back-up Guam bases in the Marianas, Micronesia, Palau and strategic depth bases in Australia.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T10:00:11Z",
-    "url": "https://simpleflying.com/6-pacific-air-bases-us-quietly-building-back-up-andersen/",
     "airlineTag": null,
     "isBreaking": false
   }
