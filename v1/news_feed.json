@@ -1,5 +1,93 @@
 [
   {
+    "id": "3c600bab466b",
+    "title": "FAA Order: First Class Passengers Will No Longer Be Able To Sip Beverages After Pushback",
+    "summary": "Delta and other carriers must start pre-departure service earlier so galley items are stowed prior to aircraft movement.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T01:01:10Z",
+    "url": "https://simpleflying.com/faa-passengers-no-longer-be-able-sip-beverages-after-pushback/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "3a891d81548e",
+    "title": "Homeland Security Spent Over $460 Million For 10 Luxury Deportation Planes, But They've Barely Flown: Here's Why",
+    "summary": "The realities of buying and maintaining a fleet of 10 large aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-24T00:00:14Z",
+    "url": "https://simpleflying.com/homeland-security-over-460-million-10-luxury-deportation-planes-barely-flown/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a712fd7affc0",
+    "title": "The One Boeing 737-700 Hiding In Ryanair's 650 Aircraft Fleet",
+    "summary": "Ryanair operates more than 650 aircraft, but only one is a Boeing 737-700. Discover SP-RUM's unusual history and where it flies today.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T23:00:14Z",
+    "url": "https://simpleflying.com/one-boeing-737-hiding-ryanair-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6a36bac59e06",
+    "title": "Why No US Airline Has Been Able To Copy Qatar Airways' 9-Year-Old Qsuite Quad Cabin Design",
+    "summary": "Qsuite is well known for its unique quad layout, but why is it that such a layout is missing in the US market?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T22:00:14Z",
+    "url": "https://simpleflying.com/why-no-us-airline-copy-qatar-airways-9-year-old-qsuite-quad-cabin-design/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2142754d5f76",
+    "title": "The Rolls-Royce Engine Fix That Saves Airlines $450,000 Per Aircraft Every Year",
+    "summary": "Rolls-Royce engines have had their fair share of issues and controversy over recent years. Now, the manufacturer has regained the trust of customers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T21:00:14Z",
+    "url": "https://simpleflying.com/rolls-royce-engine-fix-saves-airlines-aircraft-year/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c586260a5ade",
+    "title": "7 Military Airfields Becoming Key Refueling Hubs For America's Pacific Air Strategy",
+    "summary": "The latest upgrades to the network of air power over the Pacific.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T20:00:14Z",
+    "url": "https://simpleflying.com/military-airfield-pacific-refueling-hubs-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "47043d4b58bd",
+    "title": "Breeze Airways Suspends These 4 Routes: See Affected Flights Now",
+    "summary": "All four corridors involve Florida.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T19:00:14Z",
+    "url": "https://simpleflying.com/breeze-airways-route-suspensions/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "c72e43872508",
+    "title": "Only 109 Miles: United Airlines Launches New Extremely Short Route [Map]",
+    "summary": "The carrier last served this corridor 12 years ago.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-23T19:00:14Z",
+    "url": "https://simpleflying.com/united-airlines-new-lax-bakersfield-flights/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "af218c3301fe",
     "title": "A Look At The Salaries Of US Navy Pilots In 2026",
     "summary": "Several different ranks, aircraft, and the officers' responsibilities play a part in overall pay.",
@@ -150,17 +238,6 @@
     "category": "industry",
     "publishedDate": "2026-08-22T23:59:55Z",
     "url": "https://simpleflying.com/why-delta-air-lines-fly-airbus-a350-not-boeing-787-dreamliner/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "3c600bab466b",
-    "title": "FAA Order: First Class Passengers Will No Longer Be Able To Sip Beverages After Pushback",
-    "summary": "Delta and other carriers must start pre-departure service earlier so galley items are stowed prior to aircraft movement.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T21:04:48Z",
-    "url": "https://simpleflying.com/faa-passengers-no-longer-be-able-sip-beverages-after-pushback/",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-08-17T08:24:20Z",
     "url": "https://simpleflying.com/american-delta-jets-latam-a320-takeoff-without-clearance-sao-paulo/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "c0a003af7e31",
-    "title": "7 Bomber Aircraft Still Flying Combat Missions Years After Their Intended Retirement Date",
-    "summary": "Why the world's largest warbirds are also some of the oldest.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T07:00:11Z",
-    "url": "https://simpleflying.com/bomber-after-retirement/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c7e81c4127c5",
-    "title": "How Much Do Military Pilots Make Compared To Commercial Pilots In 2026?",
-    "summary": "To go down the military path or the commercial path, the decision for prospective pilots is tough, and it brings very different pay realities.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-08-17T04:00:12Z",
-    "url": "https://simpleflying.com/military-commercial-pilot-pay-comparison-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "29ac49f46cda",
-    "title": "FAA probes two American Airlines 737s flying under same callsign near Phoenix",
-    "summary": "Two American Airlines Boeing 737-800s were airborne in the same sector near Phoenix Sky Harbor International Airport (PHX)&#8230; The post FAA probes two American Airlines 737s flying under same callsign near Phoenix appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/faa-american-airlines-737-duplicate-callsign-phoenix",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a4dfadb2a874",
-    "title": "Syrian Airlines resumes Damascus-Moscow flights after 1.5-year suspension",
-    "summary": "A Syrian Airlines passenger flight arrived in Moscow\u2019s Sheremetyevo International Airport (SVO) on August 16, 2026,, marking the&#8230; The post Syrian Airlines resumes Damascus-Moscow flights after 1.5-year suspension appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T02:11:44Z",
-    "url": "https://www.aerotime.aero/articles/syrian-airlines-resumes-damascus-moscow-flights-after-1-5-year-suspension",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d2cd9377ec22",
-    "title": "Lounge Access In Premium Economy? The Airlines That Actually Include It",
-    "summary": "Is it still possible to find lounge acess included in a premium economy fare? There are not too many carriers left still offering this perk",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T02:00:21Z",
-    "url": "https://simpleflying.com/lounge-access-premium-economy-airlines-actually-include/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bd293903452c",
-    "title": "Here\u2019s How Much A Boeing 787 Costs Compared To An Airbus A330neo",
-    "summary": "The two types are among the most sought-after airliners on the market.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-17T01:45:11Z",
-    "url": "https://simpleflying.com/boeing-787-dreamliner-cost-compared-to-airbus-a330neo/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cfedcfe87edf",
-    "title": "Avianca Cargo delivers 60 more tons of aid to earthquake-hit Colombia",
-    "summary": "Avianca Cargo transported an additional 60 tons of humanitarian aid from Miami to Cali, Colombia, on August 14,&#8230; The post Avianca Cargo delivers 60 more tons of aid to earthquake-hit Colombia appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-17T01:33:36Z",
-    "url": "https://www.aerotime.aero/articles/avianca-cargo-delivers-60-more-tons-of-aid-to-earthquake-hit-colombia",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
