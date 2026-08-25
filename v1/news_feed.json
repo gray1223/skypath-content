@@ -1,12 +1,122 @@
 [
   {
+    "id": "3d3c8e91f258",
+    "title": "Is your retirement plan built to last?",
+    "summary": "Every pilot knows a successful flight plan doesn't leave anything to chance&mdash;the stakes are too high. Retirement planning works the same way.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-28T19:10:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a3bf4f1d3d71",
     "title": "Training and Safety Tip: You gotta wear shades",
     "summary": "Let&rsquo;s talk about sunglasses. For pilots, sunglasses do more than increase our coolness factor. They&rsquo;re an essential safety tool that protects our eyes and ultimately helps us to see and avoid other aircraft. But purchasing the right pair isn&rsquo;t as simple as it...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T21:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "688a6a52b265",
+    "title": "FAA Accepts HIMS Reform Petition For Review",
+    "summary": "Pilot advocacy group is seeking changes to monitoring, medical reviews and the path to unrestricted certification.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-25T18:16:33Z",
+    "url": "https://avweb.com/aviation-news/faa-accepts-hims-reform-petition-review/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b12098fba701",
+    "title": "Wow: Delta Flight Attendant Commutes Over 5,100 Miles From Africa To US To Fly",
+    "summary": "Commuting is popular in the aviation world, but even this is extreme.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T18:11:35Z",
+    "url": "https://simpleflying.com/delta-flight-attendant-commutes-5100-miles-africa-us/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "1cd050c8899c",
+    "title": "Southwest Launches 11 New Routes From This Major US Airport [Full List]",
+    "summary": "The 11 route additions are more than any other airport in its network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T18:00:15Z",
+    "url": "https://simpleflying.com/southwest-launches-11-new-routes-from-this-major-airport/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e2d5dde4cab9",
+    "title": "A road that led to aviation",
+    "summary": "Ana Komar is the chief pilot and owner of Fly Badlands, a one-woman, one-airplane business flying tourists and anyone else who wants to learn about and experience the rugged, awe-inspiring beauty of the Badlands in South Dakota from above.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-08-25T17:38:46Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28de79686ed9",
+    "title": "Delta Air Lines Just Became The 1st US Legacy Carrier To Zero Out Miles On Its Cheapest Fares",
+    "summary": "Delta Main Basic is one of the most restrictive fares in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T17:00:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-1st-legacy-carrier-zero-out-miles-cheapest-fares/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "dcf8128e9a18",
+    "title": "FAA Seeks Input on \u2018Priority Airspace\u2019 for Space Launches",
+    "summary": "DOT has been directed to establish critical launch corridors, but what \u201cpriority\u201d will mean for other airspace users has yet to be determined.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-25T15:38:14Z",
+    "url": "https://avweb.com/aviation-news/space-flight/faa-priority-airspace-for-space-launches/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b68a2b1071dc",
+    "title": "Eyes in the Sky: How Pilots Assist ATC During Fire Season",
+    "summary": "ATC often relies on GA airplanes to spot blazes and help search operations.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-08-25T14:00:00Z",
+    "url": "https://www.flyingmag.com/eyes-in-the-sky-how-pilots-assist-atc-during-fire-season/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "61d4658fcd00",
+    "title": "United confirms first international destinations for \u2018Born to Explore\u2019 A321XLR",
+    "summary": "United Airlines has confirmed the first two international cities that its upcoming \u2018Born to Explore\u2019 Airbus A321XLR aircraft&#8230; The post United confirms first international destinations for \u2018Born to Explore\u2019 A321XLR appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-25T13:50:10Z",
+    "url": "https://www.aerotime.aero/articles/united-confirms-first-international-destinations-for-born-to-explore-a321xlr",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6c33130b175a",
+    "title": "The 5 Last Airline Loyalty Programs That Still Haven't Switched To Dynamic Award Pricing",
+    "summary": "Inside the airline programs, retaining fixed award charts and zone matrices that preserve clarity for strategic mile spenders.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T13:00:14Z",
+    "url": "https://simpleflying.com/loyalty-program-original-points/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -22,6 +132,17 @@
     "isBreaking": false
   },
   {
+    "id": "e24d4a4fddf3",
+    "title": "US withdraws KC-135 refueling tankers from Bulgaria base amid Iran tensions",
+    "summary": "The US Air Force has withdrawn two KC-135 Stratotanker refueling aircraft from Bulgaria\u2019s Bezmer Air Base, ending a&#8230; The post US withdraws KC-135 refueling tankers from Bulgaria base amid Iran tensions appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-25T12:31:00Z",
+    "url": "https://www.aerotime.aero/articles/us-withdraws-kc-135-refueling-tankers-from-bulgaria-base-amid-iran-tensions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "1b9b8813639a",
     "title": "United Airlines Announces 11 Massive New Nonstop Routes To Europe: See All Flights Now",
     "summary": "Six of the European destinations will have US flights for the first time or after many years. Find out more here!",
@@ -29,6 +150,17 @@
     "category": "industry",
     "publishedDate": "2026-08-25T11:55:13Z",
     "url": "https://simpleflying.com/united-airlines-announces-10-new-nonstop-routes-to-europe-see-all-flights-now/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dedee49bb561",
+    "title": "US Air Force C-17 carried CIA director on secret Moscow trip",
+    "summary": "A United States Air Force (USAF) Boeing C-17A Globemaster III was tracked flying from Riga International Airport (RIX)&#8230; The post US Air Force C-17 carried CIA director on secret Moscow trip appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-25T11:20:07Z",
+    "url": "https://www.aerotime.aero/articles/us-air-force-c17-riga-moscow-vnukovo",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -73,6 +205,17 @@
     "category": "industry",
     "publishedDate": "2026-08-25T08:00:14Z",
     "url": "https://simpleflying.com/pay-pilot-raises-labor-costs-reach-ticket-prices/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "adcf519ee70e",
+    "title": "The pipeline squeeze",
+    "summary": "The numbers reveal a workforce challenge that's far more complex than a pilot shortage alone.",
+    "source": "AOPA",
+    "category": "hiring",
+    "publishedDate": "2026-08-25T08:00:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1458,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-20T18:24:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1733,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2054,149 +2197,6 @@
     "publishedDate": "2026-08-19T09:15:13Z",
     "url": "https://simpleflying.com/when-will-delta-air-lines-debut-largest-boeing-787-dreamliner/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9d4bcdd9c159",
-    "title": "\"Impossible To Deliver\": Alaska Airlines 787 Long-Haul Flights Are Understaffed, Crews Say",
-    "summary": "Union grievance alleges that Main Cabin service and new premium offerings were never properly tested for economy operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T08:05:34Z",
-    "url": "https://simpleflying.com/alaska-airlines-787-long-haul-understaffed-flight-attendants/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1cb5808032dc",
-    "title": "How Much Do Regional Airline Captains Make Compared To Major Airline Captains In 2026?",
-    "summary": "Now that pilot salaries after the pandemic upheaval have normalized, we can assess the gap between regional and major airline captains.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T08:00:13Z",
-    "url": "https://simpleflying.com/regional-major-airline-captain-pay-comparison/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a0c091e386c0",
-    "title": "Delta Sued By Passenger Knocked Unconscious After Seat Belt 'Failed' On Landing",
-    "summary": "The flyer claims that he was knocked out cold by a faulty seatbelt.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T05:54:47Z",
-    "url": "https://simpleflying.com/delta-seat-belt-failure-passenger-unconscious-lawsuit/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "88835f6e452d",
-    "title": "Former flyadeal CEO Steven Greenway named new Alliance Airlines CEO",
-    "summary": "Alliance Airlines announced that aviation industry veteran Steven Greenway will take over as Chief Executive Officer starting October&#8230; The post Former flyadeal CEO Steven Greenway named new Alliance Airlines CEO appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-19T02:25:14Z",
-    "url": "https://www.aerotime.aero/articles/former-flyadeal-ceo-steven-greenway-named-new-alliance-airlines-ceo",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c0a90be9a830",
-    "title": "Here's What Pilots Notice First When Switching Between The Airbus A350 & Boeing 787 Cockpits",
-    "summary": "Comparing the flight decks of the world's two most advanced widebody airliners.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T01:45:14Z",
-    "url": "https://simpleflying.com/what-pilots-notice-switching-between-airbus-a350-boeing-787-cockpits/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f8695c8b83b3",
-    "title": "5 Financial Trade-Offs US Military Pilots Weigh Before Leaving For Airlines",
-    "summary": "Military pilots have financial trade-offs when transitioning to the commercial sector, although loss of seniority can be bigger for seasoned pilots.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-08-19T00:00:14Z",
-    "url": "https://simpleflying.com/5-financial-tradeoffs-us-military-pilots-weigh-before-leaving-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b9f397df3f58",
-    "title": "Pension Vs. Paycheck: What US Military Pilots Give Up To Fly For Airlines",
-    "summary": "Comparing the pay off of two very different aviation career paths.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-08-19T00:00:14Z",
-    "url": "https://simpleflying.com/what-us-military-pilots-give-up-fly-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f7fce3294250",
-    "title": "6 Combat Aircraft Losses & Rescues That Defined Operation Epic Fury",
-    "summary": "The toll on American aircrew and aircraft in battle with Iran.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-18T23:00:14Z",
-    "url": "https://simpleflying.com/combat-aircraft-losses-rescues-defined-operation-epic-fury/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4989b3da394f",
-    "title": "6 NATO Air Forces Ranked By What Their Top Fighter Pilots Take Home In 2026",
-    "summary": "Ranking the NATO air forces by highest pilot salaries is difficult, although it clusters around North America and Western Europe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-18T22:00:14Z",
-    "url": "https://simpleflying.com/6-nato-air-forces-ranked-top-fighter-pilots-take-home-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "528dcafb3b8e",
-    "title": "An Extra 4 Months: Air France Pushes Final Airbus A318 Retirement To March 2027",
-    "summary": "Air France will keep the compact A318 flying select city hops into March, preserving a boutique cabin and 131-seat setup.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-18T21:44:10Z",
-    "url": "https://simpleflying.com/air-france-airbus-a318-retirement-march-2027/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "521fa1afcde3",
-    "title": "1st Flight For Airbus\u2019 A350F Set For Late September 2026",
-    "summary": "A composite-built freighter brings lighter weight, higher fuel efficiency and extended revenue days for carriers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-18T21:04:43Z",
-    "url": "https://simpleflying.com/airbus-a350f-1st-flight-september-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f4ee23c29aa9",
-    "title": "Deja Vu: 2 American Airlines CRJs With Identical Callsigns Nearly Cross Paths",
-    "summary": "Two American Airlines CRJs shared an identical callsign, echoing a remarkably similar 737 incident just days later.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-18T20:25:32Z",
-    "url": "https://simpleflying.com/american-airlines-crj-identical-callsigns-cross-paths/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ee5ee2596987",
-    "title": "Bedford Pushes Back On Burke Lakefront Closure",
-    "summary": "Administrator opposes Cleveland\u2019s plan as Ohio senators back the standard FAA review process.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-18T18:46:27Z",
-    "url": "https://avweb.com/aviation-news/bedford-push-back-burke-lakefront-closure/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
