@@ -1,5 +1,38 @@
 [
   {
+    "id": "5c460b5475f2",
+    "title": "American Airlines Will Open Its Exclusive First Class Dining Rooms To Business Class",
+    "summary": "AA opens its doors to more flyers as it rolls out lounge upgrades across the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T05:58:02Z",
+    "url": "https://simpleflying.com/american-airlines-flagship-first-dining-opens-business-class/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "bed418e519df",
+    "title": "Rome-Bound Delta A330 Diverts To Canada With 280 Onboard After 'Mechanical Emergency'",
+    "summary": "Emergency crews met the Delta jet in Newfoundland as a replacement aircraft ferried all passengers back to New York.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T05:04:36Z",
+    "url": "https://simpleflying.com/delta-a330-rome-diverts-canada-mechanical-emergency/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7719be65a6ec",
+    "title": "The 5 US Air Force Bases Quietly Holding NATO's European Airpower Together In 2026",
+    "summary": "The fortresses of NATO's allied air power in Europe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T05:00:14Z",
+    "url": "https://simpleflying.com/usaf-bases-quietly-holding-nato-european-airpower-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "09c42a153f38",
     "title": "Photos: JetBlue Opens Chic 12,000 Square Foot Boston BlueHouse Lounge",
     "summary": "Exclusive perks extend to Mosaic 4 members, JetBlue Premier and Mint passengers alongside paid access for lower tiers.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-18T15:55:13Z",
     "url": "https://avweb.com/aviation-news/laredo-youth-pilot-program-draw-applicants/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a204305d0cb6",
-    "title": "FAA Proposes Fix For Freezing 737 AOA Sensors",
-    "summary": "Proposed AD follows false stick-shaker events traced to frozen sensor vanes on MD-90s.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-18T15:00:24Z",
-    "url": "https://avweb.com/aviation-news/faa-proposes-fix-freezing-737-aoa-sensors/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7195a61cd182",
-    "title": "Can 60,000 AAdvantage Miles Buy The Same Transpacific Business Class Delta Charges 280,000 For?",
-    "summary": "JAL awards just rose to 80,000 AAdvantage miles on some routes. Here's why American can still beat Delta's 280,000-mile transpacific awards..",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-18T15:00:11Z",
-    "url": "https://simpleflying.com/aadvantage-miles-tokyo-business-class/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "3b47ea9764d7",
-    "title": "USAF Jolly Green IIs rescue five after Navy MH-60S Seahawk hard landing",
-    "summary": "Two US Air Force HH-60W Jolly Green II helicopters recovered five US Navy personnel from mountainous terrain near&#8230; The post USAF Jolly Green IIs rescue five after Navy MH-60S Seahawk hard landing appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-18T14:49:02Z",
-    "url": "https://www.aerotime.aero/articles/jolly-green-rescue-navy-mh60s-hard-landing-china-lake",
     "airlineTag": null,
     "isBreaking": false
   }
