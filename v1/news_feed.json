@@ -11,6 +11,61 @@
     "isBreaking": false
   },
   {
+    "id": "707bbde3a6c5",
+    "title": "Close Calls Can Provide Pilots With Clear Lessons",
+    "summary": "A near midair encounter offers every aviator a teachable moment.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-08-26T12:00:00Z",
+    "url": "https://www.flyingmag.com/close-calls-can-provide-pilots-with-clear-lessons/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "71372a884d15",
+    "title": "Why Do Airlines Fly Some Of Their Largest Aircraft On The Shortest Routes?",
+    "summary": "From a 12-minute flight to a short hop to help train pilots, here are some of the shortest widebody routes in the world and why they exist.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T11:00:14Z",
+    "url": "https://simpleflying.com/why-airlines-fly-some-largest-aircraft-shortest-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "930898d848b5",
+    "title": "The United States' 10 Oldest Airports Still In Operation",
+    "summary": "A closer look at America\u2019s ten oldest continuously operating airports .",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T10:15:13Z",
+    "url": "https://simpleflying.com/us-oldest-airports-operational/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2ff3d488374f",
+    "title": "The 5 Largest US Air Force Bases By Active Personnel In 2026",
+    "summary": "Even the smallest of these big hitters has more than 7,000 troops at its disposal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T09:15:13Z",
+    "url": "https://simpleflying.com/largest-usaf-bases-active-personnel-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1e4591137aea",
+    "title": "United Airlines Left Passengers Outside On Tarmac For 5 Hours After Crew Timed Out Mid-Taxi",
+    "summary": "Onboard supply shortages, crew duty limits, and closed CBP facilities led to a nightmare situation on a Wisconsin tarmac.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T09:03:17Z",
+    "url": "https://simpleflying.com/united-airlines-leaves-passengers-outside-tarmac-5-hours/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "bf0f98cabd38",
     "title": "Max Power & Chaos: Why Some Retired Pilots Say Go-Around Procedures Need Rethinking",
     "summary": "How the industry is working to make the terminal area safer.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-19T17:00:14Z",
     "url": "https://simpleflying.com/raf-nato-eastern-flank-air-policing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "56ddeaaa0bae",
-    "title": "FLYING Launches New \u2018Aviation Start\u2019 Podcast",
-    "summary": "Career-focused show debuts with a look at how flight instructors can build six-figure businesses.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-19T16:21:37Z",
-    "url": "https://www.flyingmag.com/flying-launches-new-aviation-start-podcast/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f8afd7ceee9",
-    "title": "Frontier Airlines Cuts 21 Routes From The World's Busiest Airport [Full List]",
-    "summary": "Frontier is pruning its Atlanta network after rapid expansion, cutting weak routes while preserving its long-term ambitions at ATL.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T15:19:52Z",
-    "url": "https://simpleflying.com/frontier-cuts-21-routes-from-the-worlds-busiest-airport/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "edb56f9564e0",
-    "title": "5 Widebody Long-Haul Routes Airlines Are Quietly Switching To Narrowbody Jets In 2026",
-    "summary": "The Airbus A321XLR is quickly finding itself being used on long-distance flights alongside, and sometimes replacing widebodies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T15:00:13Z",
-    "url": "https://simpleflying.com/5-widebody-long-haul-routes-airlines-quietly-switching-narrowbody-jets-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d24b883b2803",
-    "title": "US Air Force adds GE-Kratos F143 as second engine source for JASSM",
-    "summary": "The GEK800 turbofan, jointly developed by GE Aerospace and Kratos Defense &#038; Security Solutions, has been assigned the&#8230; The post US Air Force adds GE-Kratos F143 as second engine source for JASSM appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-19T14:48:29Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-ge-kratos-f143-jassm-engine",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cddf1a74feef",
-    "title": "Study Finds Elevated Cancer Risk for Pilots, Flight Attendants",
-    "summary": "A new study finds pilots and flight attendants have higher rates of fatal radiation-related cancers than workers in other occupations, including those who handle radioactive materials.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-19T14:39:16Z",
-    "url": "https://avweb.com/aviation-news/pilots-flight-attendants-cancer-risk/",
     "airlineTag": null,
     "isBreaking": false
   }
