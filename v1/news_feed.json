@@ -6,7 +6,40 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "434647f89f73",
+    "title": "The $4.9 Billion Rebuild Turning A Hurricane-Ravaged Air Force Base Into A Major F-35 Hub",
+    "summary": "Hurricane Michael destroyed Tyndall AFB in 2018. The Air Force is spending $5 billion to rebuild it as a 78-jet F-35 hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T01:00:14Z",
+    "url": "https://simpleflying.com/tyndall-air-force-base-f35-rebuild/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "00d2f4c8370a",
+    "title": "The US Air Force Picked The 50-Year-Old F-16 Over The F-35 To Test Autonomous Fighter Flight",
+    "summary": "How a Cold War workhorse is shaping the AI dogfighters of tomorrow.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T23:00:14Z",
+    "url": "https://simpleflying.com/f16-autonomous-fighter-testing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c3a81f4e22b3",
+    "title": "LATAM Ready For 11 New A321neos, E195-E2s With $505 Million Financing Deal",
+    "summary": "LATAM secured $505 million to finance 11 new aircraft in 2026, including four A321neos and six E195-E2s, accelerating its fleet renewal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T21:57:55Z",
+    "url": "https://simpleflying.com/latam-airbus-a321neo-e195-e2-505-million-renewal/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,8 +50,96 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T21:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4810fa19174c",
+    "title": "Why United Keeps Snubbing Scandinavia In Favor Of Obscure Mediterranean Destinations",
+    "summary": "United is bypassing obvious Northern European cities for smaller Southern markets offering exclusivity and stronger leisure economics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T21:29:10Z",
+    "url": "https://simpleflying.com/united-snubbing-scandinavia-obscure-mediterranean-destinations/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5980f1b48ead",
+    "title": "The Airline Spending $400 Million On New Boeing 787 Business Class Suites",
+    "summary": "New interiors will soon be coming to long-haul flights out of Poland.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T21:00:14Z",
+    "url": "https://simpleflying.com/airline-spending-400-million-new-boeing-787-business-class-suites/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "844e07d7b0a6",
+    "title": "AIR Adds Elmo Drives To Heavy-Lift Cargo UAS",
+    "summary": "The eight-motor aircraft has a 550-pound payload capacity and one-hour endurance.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-25T20:33:05Z",
+    "url": "https://avweb.com/aviation-news/air-adds-elmo-drives-heavy-lift-cargo-uas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f7ae22b6474",
+    "title": "Okinawa Bound: United Adds 6th Japanese Destination In Its Largest International Expansion",
+    "summary": "United becomes the only North American carrier to link the Ryukyu islands directly with a thrice-weekly 777 service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T20:20:22Z",
+    "url": "https://simpleflying.com/united-okinawa-6th-japanese-destination-largest-international-expansion/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "15845003cf35",
+    "title": "SpaceX\u2019s Falcon 9 Phaseout Could Have Ripple Effect for Pilots",
+    "summary": "Company\u2019s plans to wind down its workhorse rocket may prompt delays and safety concerns for airspace users.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-25T20:00:00Z",
+    "url": "https://www.flyingmag.com/spacex-falcon-9-starship-ripple-effect-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fb028c9fc3e8",
+    "title": "Explosives And Drone Found For 3rd Time This Month At Major German Airport",
+    "summary": "A small drone with military explosive was found in Kabelsketal stirring alarm over possible attacks on cargo hubs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T19:39:37Z",
+    "url": "https://simpleflying.com/explosives-drone-found-3rd-time-german-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9c285451383c",
+    "title": "US lifts key Syrian aviation restrictions after terror-list removal",
+    "summary": "The United States has removed Syria from its list of state sponsors of terrorism and moved to lift&#8230; The post US lifts key Syrian aviation restrictions after terror-list removal appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-25T19:24:19Z",
+    "url": "https://www.aerotime.aero/articles/us-lifts-syrian-aviation-restrictions-terror-list",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "40f886f79487",
+    "title": "Frontier Airlines Cancels Flights To These 29 Airports: See The Full List Now",
+    "summary": "They last saw the carrier between April 2025 and August 2026. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-25T19:01:14Z",
+    "url": "https://simpleflying.com/frontier-airlines-cancels-flights-to-these-29-airports/",
+    "airlineTag": "Frontier Airlines",
     "isBreaking": false
   },
   {
@@ -61,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T17:38:46Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -215,7 +336,7 @@
     "source": "AOPA",
     "category": "hiring",
     "publishedDate": "2026-08-25T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1601,7 +1722,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-20T18:24:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/20/key-lawmakers-oppose-burke-lakefront-closure?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1876,7 +1997,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-19T20:03:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/19/building-a-better-preflight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2076,127 +2197,6 @@
     "publishedDate": "2026-08-19T13:00:13Z",
     "url": "https://simpleflying.com/real-salaries-american-delta-united-airlines-widebody-captains/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5e5f58720284",
-    "title": "What Is the Best Source for GPS Overlay on IFR Approaches?",
-    "summary": "Pilots must navigate rules for using GPS info as a substitute means of navigation to stay legal.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-19T13:00:00Z",
-    "url": "https://www.flyingmag.com/what-is-the-best-source-for-gps-overlay-on-ifr-approaches/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0b197d83e03d",
-    "title": "Why The Boeing 757 Is Still Irreplaceable 4 Decades Later",
-    "summary": "The Boeing 757 is one of the most legendary airliners in history, beloved by enthusiasts and crews alike for its excellent performance and distinctive engine sound.The jet was never the most popular airliner when it was being marketed, and Boeing ended production back in 2004 ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T12:30:13Z",
-    "url": "https://simpleflying.com/video/why-the-boeing-757-is-still-irreplaceable-4-decades-later/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c3ae90b949e2",
-    "title": "Airline Pilots Called It \u2018Rolling the Dice\u2019",
-    "summary": "Years of gambles and gut decisions shaped this American Airlines veteran\u2019s trajectory.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-19T12:00:00Z",
-    "url": "https://www.flyingmag.com/airline-pilots-called-it-rolling-the-dice/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4919d258df30",
-    "title": "Turkish Airlines Plans London City Flights: But How Will That Work?",
-    "summary": "Turkish Airlines wants to add London City, but none of its current aircraft offers an obvious solution for the route.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T11:11:13Z",
-    "url": "https://simpleflying.com/turkish-airlines-plans-london-city-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8a9cbb4d3ad1",
-    "title": "Ampaire raises $19M Series B funding from IAG, Alaska Airlines, VC investors",
-    "summary": "Californian startup Ampaire, which is developing hybrid-electric aircraft, has raised $19 million in Series B funding. This fresh&#8230; The post Ampaire raises $19M Series B funding from IAG, Alaska Airlines, VC investors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-19T11:11:03Z",
-    "url": "https://www.aerotime.aero/articles/ampaire-raises-19m-series-b-funding-from-iag-alaska-airlines-vc-investors",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "00f1219cb1c8",
-    "title": "Is This the Future of Business Class?",
-    "summary": "Alejandro of Simple Flying sits down with Unum Aircraft Seating to explore how the UK-based company is rethinking the modern Business Class seat. From its lightweight design and unique Scimitar seat mechanism to zero-gravity positioning, increased passenger space, and fewer mo...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T11:00:14Z",
-    "url": "https://simpleflying.com/video/is-this-the-future-of-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "111a9d90591c",
-    "title": "How Pratt & Whitney's Military Adaptive Cycle Engine Could Answer CFM RISE On Boeing's 737 Successor",
-    "summary": "Boeing has a string of options to power its next narrowbody offering.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T11:00:14Z",
-    "url": "https://simpleflying.com/pratt-whitney-military-adaptive-cycle-engine-answer-cfm-rise-boeing-737-successor/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5a4a7017c0a4",
-    "title": "Is It True That Some Pilots Land Hard On Purpose?",
-    "summary": "Safety, consistency, and accuracy take precedence over passenger comfort during landings.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T10:30:14Z",
-    "url": "https://simpleflying.com/true-pilots-land-hard-purpose/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "029069aaaca2",
-    "title": "Chinese national jailed for filming B-2 base under 1950 Truman order",
-    "summary": "A Chinese national has been sentenced to six months in federal custody for photographing Whiteman Air Force Base,&#8230; The post Chinese national jailed for filming B-2 base under 1950 Truman order appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-19T09:42:45Z",
-    "url": "https://www.aerotime.aero/articles/chinese-national-jailed-filming-b2-base-truman-order",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "455f90456331",
-    "title": "Google to acquire bankrupt Spirit Airlines internal data for $10 million",
-    "summary": "Tech giant Google has won a bid to acquire a large trove of internal business data from bankrupt&#8230; The post Google to acquire bankrupt Spirit Airlines internal data for $10 million appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-08-19T09:22:13Z",
-    "url": "https://www.aerotime.aero/articles/google-to-acquire-bankrupt-spirit-airlines-internal-data-for-10-million",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "318a07bcd4cc",
-    "title": "Here\u2019s When Delta Air Lines Plans To Debut The Largest Boeing 787 Dreamliner",
-    "summary": "Delta's Dreamliners will serve long-haul routes across the globe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-19T09:15:13Z",
-    "url": "https://simpleflying.com/when-will-delta-air-lines-debut-largest-boeing-787-dreamliner/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
