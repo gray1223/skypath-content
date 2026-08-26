@@ -11,6 +11,28 @@
     "isBreaking": false
   },
   {
+    "id": "bf0f98cabd38",
+    "title": "Max Power & Chaos: Why Some Retired Pilots Say Go-Around Procedures Need Rethinking",
+    "summary": "How the industry is working to make the terminal area safer.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T05:00:14Z",
+    "url": "https://simpleflying.com/some-retired-pilots-go-around-procedures-rethinking/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cd0c0cc0a03f",
+    "title": "Qantas' CEO Wished He Had A 'Time Machine' To Undo This Boeing Decision",
+    "summary": "A closer look at why Qantas never ordered the Boeing 777, despite influencing the plane's design, and why this wasn't necessarily a mistake.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-26T01:45:14Z",
+    "url": "https://simpleflying.com/qantas-ceo-wants-time-machine-undo-boeing-decison/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "434647f89f73",
     "title": "The $4.9 Billion Rebuild Turning A Hurricane-Ravaged Air Force Base Into A Major F-35 Hub",
     "summary": "Hurricane Michael destroyed Tyndall AFB in 2018. The Air Force is spending $5 billion to rebuild it as a 78-jet F-35 hub.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-08-19T14:39:16Z",
     "url": "https://avweb.com/aviation-news/pilots-flight-attendants-cancer-risk/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b84e7cbc99e9",
-    "title": "Army Selects M1 Services To Modernize Helicopter Pilot Training",
-    "summary": "The U.S. Army selected M1 Services to modernize helicopter pilot training at Fort Rucker through its new Flight School Next program.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-08-19T13:50:54Z",
-    "url": "https://avweb.com/aviation-news/army-m1-services-flight-school-next/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "88f1a2cd651f",
-    "title": "Identical Pay? The Real Salary Figures Of American, Delta & United Airlines' Widebody Captains",
-    "summary": "Is it true that the Big 3 US carriers each offer the same pay for widebody captains? In a way, but not quite.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-08-19T13:00:13Z",
-    "url": "https://simpleflying.com/real-salaries-american-delta-united-airlines-widebody-captains/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
