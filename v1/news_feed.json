@@ -11,6 +11,61 @@
     "isBreaking": false
   },
   {
+    "id": "71b0a9252205",
+    "title": "The 30 Finished Boeing 777-9s Parked In Washington That No Airline Wants To Fly",
+    "summary": "What will happen to these Boeing 777-9s?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-29T05:00:14Z",
+    "url": "https://simpleflying.com/30-unfinshed-boeing-777-9s-parked-washington-no-airline-wants-fly/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "acab2e08ac44",
+    "title": "United Flight Changes Aircraft & Diverts Twice Flying Los Angeles To New York",
+    "summary": "The passengers are still stranded in Cleveland.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-28T22:45:41Z",
+    "url": "https://simpleflying.com/united-flight-changes-aircraft-diverts-twice-flying-los-angeles-to-new-york/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ae6941689be1",
+    "title": "Southwest Airlines Just Hit 100 Daily International Flights On An Aircraft That Can't Take It Much Further",
+    "summary": "Southwest just hit 100 daily international flights for the first time.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-28T22:00:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-hit-100-daily-international-flights-aircraft-cant-take-much-further/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6b169f4e5e2f",
+    "title": "The Different Ways American & European Airlines Handle Flight Delays",
+    "summary": "It's the law in Europe versus differing airline policies in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-28T22:00:14Z",
+    "url": "https://simpleflying.com/ryanair-easyjet-flight-delay-differences/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "09681c473617",
+    "title": "New: United Airlines Schedules Airbus A321XLR Flights On 2 Domestic Routes From Washington DC",
+    "summary": "United will debut its premium Airbus A321XLR domestically from Washington before launching transatlantic flights in December.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-28T21:46:35Z",
+    "url": "https://simpleflying.com/united-airlines-schedules-airbus-a321xlr-flights-2-domestic-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "14c971faa6f4",
     "title": "For Better Or Worse: How AI Is Impacting The Passenger Experience In America",
     "summary": "Do AI-assisted platforms in the airline industry deliver on their promise? A look at how passengers are being impacted by advancements in AI.",
@@ -127,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -754,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-26T19:53:29Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/26/what-an-aopa-flight-training-experience-award-can-do-for-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/26/what-an-aopa-flight-training-experience-award-can-do-for-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1062,7 +1117,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T21:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1194,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T17:38:46Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1348,7 +1403,7 @@
     "source": "AOPA",
     "category": "hiring",
     "publishedDate": "2026-08-25T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-08-22T15:00:14Z",
     "url": "https://simpleflying.com/widebody-pilots-lose-speed-authority-moment-cross-oceanic-airspace/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6025250cd0e",
-    "title": "The 5-Minute Rule That Forces Pilots To Cut Thrust Just After Takeoff",
-    "summary": "It is a carefully planned procedure which relies heavily on accurate calculations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T14:00:14Z",
-    "url": "https://simpleflying.com/5-minute-rule-forces-pilots-cut-thrust-after-takeoff/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51b7fcd3b371",
-    "title": "Allegiant Air's Massive Expansion: 15 New Routes To Florida Revealed [Map]",
-    "summary": "These corridors are spread across five airports in Florida.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T13:00:14Z",
-    "url": "https://simpleflying.com/allegiant-air-new-florida-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3eab806fc550",
-    "title": "Legacy vs. New-Build Under MOSAIC Phase 2",
-    "summary": "FLYING Finance breaks down the cost gap between the two paths into sport pilot privileges.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-22T13:00:00Z",
-    "url": "https://www.flyingmag.com/legacy-vs-new-build-under-mosaic-phase-2/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "abcdb70c5f43",
-    "title": "Spain Rejected The F-35 For A $7 Billion Eurofighter Deal & Left Its Navy Scavenging Retired US Marine Harriers",
-    "summary": "Exploring the paradigm shift emerging for Spanish naval aviation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T11:00:14Z",
-    "url": "https://simpleflying.com/spain-f35-eurofighter-harriers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1d4bd1fa83f2",
-    "title": "'4 To 5 Passengers Burned': Laptop Catches Fire On American Airlines Flight",
-    "summary": "The device was contained by flight attendants, but multiple passengers were reportedly injured.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T08:24:24Z",
-    "url": "https://simpleflying.com/american-airlines-laptop-fire-passengers-burned/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
