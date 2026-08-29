@@ -11,6 +11,50 @@
     "isBreaking": false
   },
   {
+    "id": "1e0c1d7499eb",
+    "title": "The Boeing 777X\u2019s Unique Cabin Design That Sets It Apart From Others",
+    "summary": "The Boeing 777X is set to shake up the commercial aviation market when it arrives in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-29T09:15:13Z",
+    "url": "https://simpleflying.com/how-boeing-777x-unique-cabin-design-sets-it-apart-others/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b8a64507ce0a",
+    "title": "The Scripted Phrases Airline Pilots Recite To Themselves To Avoid Fatal Decisions",
+    "summary": "Pilots work together to ensure the safety of all on board. They do so by calling out various phrases that keep the mental picture identical.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-29T08:00:14Z",
+    "url": "https://simpleflying.com/scripted-phrases-airline-pilots-recite-themselves-avoid-fatal-decisions/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "06d2b5d78499",
+    "title": "Passenger Finds Anti-Israel Note Hidden In Suitcase After Alaska Airlines-El Al Trip",
+    "summary": "A passenger flying from Seattle to Tel Aviv discovered a crude handwritten slur tucked inside her checked luggage.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-29T07:52:37Z",
+    "url": "https://simpleflying.com/anti-israel-note-hidden-checked-bag-alaska-airlines-el-al/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e8b4b87ea528",
+    "title": "5-Hour Squeeze: Delta Sued After Plus-Size Seatmate Left Passenger Needing Spinal Surgery",
+    "summary": "The traveler says he was trapped against the cabin wall, leading to worsening back pain and costly surgery.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-29T07:34:56Z",
+    "url": "https://simpleflying.com/delta-passenger-lawsuit-plus-size-seatmate-spinal-surgery/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "71b0a9252205",
     "title": "The 30 Finished Boeing 777-9s Parked In Washington That No Airline Wants To Fly",
     "summary": "What will happen to these Boeing 777-9s?",
@@ -182,7 +226,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-26T19:53:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/26/what-an-aopa-flight-training-experience-award-can-do-for-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/26/what-an-aopa-flight-training-experience-award-can-do-for-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T21:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1249,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-25T17:38:46Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1447,7 @@
     "source": "AOPA",
     "category": "hiring",
     "publishedDate": "2026-08-25T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-22T20:00:14Z",
     "url": "https://simpleflying.com/nato-air-forces-retiring-fighter-jets-before-airframes-wear-out/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fcd7029747d0",
-    "title": "Why United Airlines' CEO Put Rolls-Royce In The 'Doghouse' & What It Means For 45 Airbus A350s",
-    "summary": "United's Rolls-Royce dispute puts 45 A350s at risk as engine durability, $175M, and United's huge Boeing 787 order reshape its fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T18:00:14Z",
-    "url": "https://simpleflying.com/united-airlines-ceo-rolls-royce-doghouse-means-45-airbus-a350s/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "956882019b12",
-    "title": "\u201cScamming Us\u201d: Southwest Airlines Passenger Highlights Booking Flaw For Extra Legroom Seats",
-    "summary": "Passengers are experiencing a frustrating glitch in the booking system.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T16:47:12Z",
-    "url": "https://simpleflying.com/southwest-airlines-passenger-booking-flaw-extra-legroom-seats/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f4e6c5128631",
-    "title": "United Airlines Launches 14 New Nonstop Routes From The World\u2019s Busiest Airport [Full List]",
-    "summary": "From Santa Fe to Tokyo, United is expanding on all fronts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T16:23:53Z",
-    "url": "https://simpleflying.com/united-airlines-launches-14-new-routes-from-worlds-busiest-airport-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "dc0bcf54d0f1",
-    "title": "Why Widebody Pilots Lose Speed Authority The Moment They Cross Into Oceanic Airspace",
-    "summary": "Pilots face a vital need to maintain their speed over remote airspace.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-22T15:00:14Z",
-    "url": "https://simpleflying.com/widebody-pilots-lose-speed-authority-moment-cross-oceanic-airspace/",
     "airlineTag": null,
     "isBreaking": false
   }
