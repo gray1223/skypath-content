@@ -11,6 +11,39 @@
     "isBreaking": false
   },
   {
+    "id": "fba3fc311dfa",
+    "title": "The New Luxurious Long-Haul Cabin Coming To British Airways In 2026",
+    "summary": "This unexpected choice by British Airways will dramatically transform the onboard experience for premium passengers on its flagship Airbus A380 fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-30T01:45:14Z",
+    "url": "https://simpleflying.com/new-luxurious-long-haul-cabin-at-british-airways-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "55b26bc68162",
+    "title": "Six Things Pilots Check Before Flying Into Mountainous Terrain",
+    "summary": "Mountain flying leaves little room for error. These six checks can help pilots manage terrain, weather, aircraft performance, and escape options.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-30T00:00:13Z",
+    "url": "https://simpleflying.com/pilot-checks-mountainous-terrain-flight-operations/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc09b980aab1",
+    "title": "OneCabin: American Airlines To Launch New Onboard Cleanliness Program From 6 Hubs",
+    "summary": "The airline has faced criticism for the condition of its cabins for years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-29T21:02:53Z",
+    "url": "https://simpleflying.com/american-airlines-launch-new-onboard-cleanliness-program-6-hubs/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "0c0166d22168",
     "title": "Federal Judge Blasts Southwest Airlines, Rejects Bid To End Flight Attendant Lawsuit",
     "summary": "Judge refused a belated legal maneuver after Southwest missed key deadlines in a fight over point reductions for protected leave.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-08-23T10:59:53Z",
     "url": "https://www.aerotime.aero/articles/laptop-catches-fire-on-american-airlines-flight-passenger-suffers-minor-burns",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1fe4bae27d3f",
-    "title": "When Premium Economy Fails: The Routes That Demand A Lie-Flat Seat",
-    "summary": "Singapore Airlines removed economy from its longest flights but kept premium economy. The routes where premium seats matter may surprise you.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-23T10:00:14Z",
-    "url": "https://simpleflying.com/premium-economy-fails-routes-demand-lie-flat-seat/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "963ac16f385f",
-    "title": "The Real Reason Why Aircraft Recyclers Dread The Retirement Of The Airbus A350 & Boeing 787",
-    "summary": "CFRP, short for carbon fiber reinforced polymer, has become the new standard for commercial aircraft construction. Lighter and stronger than tradition",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-23T09:15:14Z",
-    "url": "https://simpleflying.com/the-real-reason-why-aircraft-recyclers-dread-the-retirement-of-the-airbus-a350-boeing-787/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6cf4d9ee99c6",
-    "title": "How Much Does An Airline Save By Keeping A 20-Year-Old Jet Instead Of Buying A New One?",
-    "summary": "Fuel, capacity, and total flight time are all considerations airlines weigh in fleet decisions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-23T07:00:14Z",
-    "url": "https://simpleflying.com/airline-cost-keeping-old-aircraft-new-jet/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
