@@ -11,6 +11,116 @@
     "isBreaking": false
   },
   {
+    "id": "63298fd9957d",
+    "title": "Why Delta Air Lines Quietly Killed 3 New York-JFK Routes & Sent Them All To LaGuardia Instead",
+    "summary": "You can now fly to Memphis, Houston, and St. Louis from LaGuardia as Delta moves more of its domestic network to the hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-31T22:00:13Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-quietly-killed-3-new-york-jfk-routes-sent-laguardia-instead/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f7f1a043012d",
+    "title": "5 GA Aircraft Intercepted for Violating Presidential TFR",
+    "summary": "North American Aerospace Defense Command (NORAD) urged pilots to check NOTAMs before flying.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-31T20:00:00Z",
+    "url": "https://www.flyingmag.com/5-aircraft-intercepted-trump-tfr-houston-texas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "65fc8be11eea",
+    "title": "LATAM Airbus A320 runs off runway during landing in heavy rain in Brazil",
+    "summary": "A LATAM Airlines Brasil Airbus A320 carrying 151 people ran off the runway while landing in heavy rain&#8230; The post LATAM Airbus A320 runs off runway during landing in heavy rain in Brazil appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-31T19:42:53Z",
+    "url": "https://www.aerotime.aero/articles/latam-airbus-a320-runs-off-runway-in-heavy-rain-in-brazil",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d3596d4a518a",
+    "title": "5 Things Passengers Don't Know About How Airline Crew Scheduling Actually Works",
+    "summary": "Pilots operate under a strict set of federal regulations that airlines have to abide by.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-08-31T18:00:14Z",
+    "url": "https://simpleflying.com/things-passengers-dont-know-how-airline-crew-scheduling-actually-works/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4604b0067c17",
+    "title": "United Airlines Cuts This 8-Hour Long-Haul Route: See Affected Flights",
+    "summary": "Are things quite as they seem? Find out here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-31T17:00:14Z",
+    "url": "https://simpleflying.com/united-airlines-cuts-this-8-hour-long-haul-route-see-affected-flights/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0e0fc0a8c073",
+    "title": "The World\u2019s Largest Air Forces By Annual Budget",
+    "summary": "A closer look at the world leaders in air power spending.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-08-31T16:40:17Z",
+    "url": "https://simpleflying.com/largest-air-forces-annual-budget/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "70625ed4a51a",
+    "title": "NTSB Vice Chair Announces Retirement",
+    "summary": "Former F/A-18 pilot and Textron Aviation safety chief Michael Graham has served on the safety board since 2020.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-08-31T16:00:00Z",
+    "url": "https://www.flyingmag.com/ntsb-vice-chair-announces-retirement/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1a07ab584c40",
+    "title": "First Turkish Air Force H\u00fcrjet Makes Maiden Flight",
+    "summary": "Production aircraft begins flight testing ahead of planned service entry.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-08-31T15:35:02Z",
+    "url": "https://avweb.com/aviation-news/turkish-air-force-hurjet-maiden-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "01584f7f4637",
+    "title": "This 1998 Beechcraft Baron 58 Is a Fully Equipped \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Known-icing capability, Garmin GTN 750, and Baron 58 training school add serious value.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-08-31T14:30:00Z",
+    "url": "https://www.flyingmag.com/this-1998-beechcraft-baron-58-is-a-fully-equipped-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "54b370aa889e",
+    "title": "EASA eases Jordan warning on day military intercepts eight missiles",
+    "summary": "The European Union Aviation Safety Agency (EASA) eased its airspace warnings for Jordan and Lebanon on August 31,&#8230; The post EASA eases Jordan warning on day military intercepts eight missiles appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-08-31T14:04:37Z",
+    "url": "https://www.aerotime.aero/articles/easa-jordan-airspace-warning-eight-missiles-intercepted",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a712fd7affc0",
     "title": "The One Boeing 737-700 Hiding In Ryanair's 650 Aircraft Fleet",
     "summary": "Unlike Ryanair's much larger 737-800s and 737 MAX 8-200s, the airline\u2019s one 737-700 has only 148 seats and is nearly 19 feet (6 meters) shorter than the 737-800. More importantly, its resume has included pilot training, corporate charters, reserve duties, scheduled passenger f...",
@@ -2086,116 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-08-24T16:00:14Z",
     "url": "https://simpleflying.com/height-where-pilots-take-airplane-back-autopilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac6c6f756e07",
-    "title": "Ascend Flight Training Summit Aims to Transform Pilot and Instructor Education",
-    "summary": "Joint venture between AeroSummit and NAFI focuses on career readiness, networking, and professional growth.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-24T15:30:00Z",
-    "url": "https://www.flyingmag.com/ascend-flight-training-summit-aims-to-transform-pilot-and-instructor-education/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "71ffae8b3f38",
-    "title": "Saab renews Canadian Gripen production pitch as orders mount",
-    "summary": "Saab has given Canada a detailed plan for domestic Gripen E production, as Ottawa continues reviewing the size&#8230; The post Saab renews Canadian Gripen production pitch as orders mount appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-24T15:07:11Z",
-    "url": "https://www.aerotime.aero/articles/saab-gripen-canada-production-pitch-capacity",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ab6693c9e8e1",
-    "title": "How Alaska Airlines Quietly Closed The Pilot Pay Gap With The Big 3 Legacy Carriers",
-    "summary": "The Big Three US legacy carriers are no longer sitting at the top of the pilot pay scale. Another airline is pushing directly into the top.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-24T15:00:14Z",
-    "url": "https://simpleflying.com/alaska-airlines-pilot-pay/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7f6c7c7770e7",
-    "title": "Textron Aviation appoints new CEO as Ron Draper confirms retirement",
-    "summary": "Textron Aviation has appointed a new CEO and President to start imminently after the current boss, Ron Draper,&#8230; The post Textron Aviation appoints new CEO as Ron Draper confirms retirement appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-24T14:37:38Z",
-    "url": "https://www.aerotime.aero/articles/textron-aviation-new-ceo-ron-draper-retires",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c9aec6f6a520",
-    "title": "23-Year-Old Pilot Uninjured, Swims To Shore After Ditching Plane In Atlantic Ocean",
-    "summary": "The aircraft was on its way from Florida to the Bahamas at the time of the incident.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-24T14:25:05Z",
-    "url": "https://simpleflying.com/young-pilot-ditches-piper-aircraft-in-atlantic-ocean/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5ba37751de71",
-    "title": "Russia says UK\u2019s plan to hand Ukraine Storm Shadow blueprints pours fuel on fire",
-    "summary": "Russia has accused the United Kingdom (UK) of \u201cpouring fuel on the fire\u201d over plans to provide Ukraine&#8230; The post Russia says UK\u2019s plan to hand Ukraine Storm Shadow blueprints pours fuel on fire appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-24T13:13:45Z",
-    "url": "https://www.aerotime.aero/articles/russia-uk-storm-shadow-blueprint-ukraine-andy-burnham",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e8b3dc978f7e",
-    "title": "How Pratt & Whitney Traded The Widebody Engine Market For Narrowbody Dominance",
-    "summary": "For decades, Pratt & Whitney was one of the three dominant names in large commercial aircraft propulsion. Its PW4000 family powered hundreds of widebodies, including early Boeing 777s, 767s, and 747s, as well as Airbus A330s.Today, however, the competitive landscape looks dram...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-24T12:33:13Z",
-    "url": "https://simpleflying.com/video/how-pratt-whitney-traded-the-widebody-engine-market-for-narrowbody-dominance/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "71bf7d3bbb25",
-    "title": "6 Largest Airports In The US By Passenger Volume",
-    "summary": "These are the largest airports in the United States by passenger volume.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-24T11:15:14Z",
-    "url": "https://simpleflying.com/largest-airports-us-passenger-volume/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a7780d18dc86",
-    "title": "Hungarian Gripen fighter jet crashes at Szolnok military base",
-    "summary": "An investigation has been launched after a Gripen fighter jet from the Hungarian Defense Force crashed at Szolnok&#8230; The post Hungarian Gripen fighter jet crashes at Szolnok military base appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-24T10:53:09Z",
-    "url": "https://www.aerotime.aero/articles/hungarian-gripen-fighter-jet-crashes-at-szolnok-military-base",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f3b8214d41cf",
-    "title": "Indonesian Air Force Sukhoi Su-30 runs off runway at Makassar airport",
-    "summary": "An Indonesian Air Force Sukhoi Su-30 fighter left the paved surface of runway 13 at Sultan Hasanuddin International&#8230; The post Indonesian Air Force Sukhoi Su-30 runs off runway at Makassar airport appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-24T10:36:29Z",
-    "url": "https://www.aerotime.aero/articles/indonesian-air-force-sukhoi-su-30-runs-off-runway-at-makassar-airport",
     "airlineTag": null,
     "isBreaking": false
   }
