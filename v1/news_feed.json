@@ -11,6 +11,28 @@
     "isBreaking": false
   },
   {
+    "id": "6273820f0220",
+    "title": "American Airlines To Contribute $1,000 Per Employee Child To Trump Accounts",
+    "summary": "American joins major employers supporting a new child investment account with payroll matches and long term growth.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T00:07:48Z",
+    "url": "https://simpleflying.com/american-airlines-to-contribute-1000-per-employee-child-to-trump-accounts/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a551b035402c",
+    "title": "5 Quiet Truths About The US Navy's Deployable Aircraft Carrier Crisis Right Now",
+    "summary": "The situation report on the mighty capital ships of America's Navy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T00:00:13Z",
+    "url": "https://simpleflying.com/5-quiet-truths-us-navy-deployable-aircraft-carrier-crisis-now/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "63298fd9957d",
     "title": "Why Delta Air Lines Quietly Killed 3 New York-JFK Routes & Sent Them All To LaGuardia Instead",
     "summary": "You can now fly to Memphis, Houston, and St. Louis from LaGuardia as Delta moves more of its domestic network to the hub.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-08-24T17:00:14Z",
     "url": "https://simpleflying.com/american-airlines-debt-filing-fleet/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "abfb472a86e4",
-    "title": "World Aerobatic Championship Begins In Iowa",
-    "summary": "More than 35 pilots from eight countries are competing at Mason City Municipal Airport.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-24T16:06:13Z",
-    "url": "https://avweb.com/air-shows-events/world-aerobatic-championship-begins-iowa/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e5e5d6a8cda4",
-    "title": "200 Feet: The Height Where Pilots Take The Airplane Back From The Autopilot",
-    "summary": "The decision height is a result of federal safety regulations.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-08-24T16:00:14Z",
-    "url": "https://simpleflying.com/height-where-pilots-take-airplane-back-autopilot/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
