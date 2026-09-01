@@ -1,5 +1,71 @@
 [
   {
+    "id": "27a68f8bbd45",
+    "title": "Navy Seeks Carrier-Based Autonomous Combat Aircraft",
+    "summary": "RFI calls for two prototypes capable of catapult launches, arrested landings and carrying as much as 10,000 pounds of external weapons.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-01T20:04:24Z",
+    "url": "https://avweb.com/aviation-news/navy-carrier-autonomous-combat-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a65222defef0",
+    "title": "United Airlines Launches 14 Massive New Nonstop Routes From Major Hub: Full List Now",
+    "summary": "They contribute to the carrier having the most flights ever from this hub. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T20:00:13Z",
+    "url": "https://simpleflying.com/united-airlines-launches-14-massive-new-nonstop-routes-from-major-hub/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e58c062cc5f4",
+    "title": "The 5 US Pacific Air Bases The Pentagon Quietly Flagged For Crumbling Infrastructure",
+    "summary": "Numerous air bases in the Pacific are in need of investment due to both crumbling infrastructure and new requirements.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T20:00:13Z",
+    "url": "https://simpleflying.com/5-us-pacific-air-bases-pentagon-quietly-flagged-crumbing-infrastructure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "568558162e0c",
+    "title": "Why Delta Air Lines Is Suddenly Canceling This 11-Hour Nonstop Route [Map]",
+    "summary": "Given how badly the airline did the first time, it's a wonder a second attempt is being made at all. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T19:00:14Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-is-suddenly-canceling-this-11-hour-nonstop-route/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "cea60e65249c",
+    "title": "Why Ex-Spirit Airlines Flight Attendants Aren't Happy About Google's Large Data Purchase",
+    "summary": "An unusual case that could leak flight attendant's personal information.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T19:00:14Z",
+    "url": "https://simpleflying.com/why-ex-spirit-airlines-flight-attendants-arent-happy-google-large-data-purchase/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ebb6e9b99664",
+    "title": "Boeing 737 MAX Victim-Fund Payments Set To Begin",
+    "summary": "The $444.5 million fund covers the estates of 346 people killed in the Lion Air Flight 610 and Ethiopian Airlines Flight 302 accidents.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-09-01T18:33:31Z",
+    "url": "https://avweb.com/flight-safety/accidents-ntsb/boeing-737-max-victim-fund-payments-begin/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "b7447d6b8306",
     "title": "Training and Safety Tip: Clock the crosswind",
     "summary": "It's a sunny day, and you can't wait to go fly. You gaze longingly out the window and tell yourself it's just a matter of hours until you get up there. But the afternoon wind has kicked up a notch. You spot the windsock fluttering at the departure end of the runway, and you su...",
@@ -11,9 +77,53 @@
     "isBreaking": false
   },
   {
+    "id": "50e7a8fd48ca",
+    "title": "Virgin Atlantic Sells 2 Boeing 787-9s To LOT Polish Airlines, Focuses On New A330neos",
+    "summary": "Ditching its unwanted Dreamliners will allow Virgin Atlantic to focus on premium-heavy A330neos in another Boeing defeat.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T17:38:13Z",
+    "url": "https://simpleflying.com/virgin-atlantic-sells-2-boeing-787-9-lot-polish-airlines-focuses-a330-neo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a5afaf23847f",
+    "title": "American Airlines Just Bet Its Future On A $4 Billion, 31-Gate Fortress Dallas/Fort Worth Hub",
+    "summary": "How and why DFW will continue to be American's most important hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T17:01:14Z",
+    "url": "https://simpleflying.com/american-airlines-bet-future-4-billion-31-gate-fortress-dallas-fort-worth-hub/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "678b27fbe2ae",
+    "title": "Virginia\u2019s Busiest GA Airport Cleared For Airline Service",
+    "summary": "Part 139 certification moves Washington Manassas Airport closer to scheduled passenger operations.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-01T16:58:15Z",
+    "url": "https://avweb.com/aviation-news/virginia-ga-airport-airline-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8c3b54e2d4ee",
+    "title": "Air Force Declares MH-139 Grey Wolf Operational",
+    "summary": "AW139-based helicopter is replacing the UH-1N Huey for nuclear-security missions.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-01T16:17:33Z",
+    "url": "https://avweb.com/aviation-news/air-force-mh-139-grey-wolf-operational/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "9b15bc3c4f3f",
     "title": "FAA Proposes Unusual Airspace Restriction for Trump\u2019s Mar-a-Lago Estate",
-    "summary": "Agency could add to a short list of Special Flight Rules Areas (SFRAs) with new restrictions for president\u2019s residence.",
+    "summary": "Agency could add to a short list of Special Flight Rules Areas with new restrictions for president\u2019s residence.",
     "source": "Flying Magazine",
     "category": "industry",
     "publishedDate": "2026-09-01T16:00:00Z",
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-08-25T11:55:13Z",
     "url": "https://simpleflying.com/united-airlines-announces-10-new-nonstop-routes-to-europe-see-all-flights-now/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "dedee49bb561",
-    "title": "US Air Force C-17 carried CIA director on secret Moscow trip",
-    "summary": "A United States Air Force (USAF) Boeing C-17A Globemaster III was tracked flying from Riga International Airport (RIX)&#8230; The post US Air Force C-17 carried CIA director on secret Moscow trip appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-25T11:20:07Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-c17-riga-moscow-vnukovo",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "33ef21e2fb0c",
-    "title": "US Air Force C-17 makes rare Moscow visit, purpose unknown",
-    "summary": "A United States Air Force (USAF) Boeing C-17A Globemaster III was tracked flying from Riga International Airport (RIX)&#8230; The post US Air Force C-17 makes rare Moscow visit, purpose unknown appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-25T11:20:07Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-c17-riga-moscow-vnukovo",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fecef8291da6",
-    "title": "Singapore Airlines Has Axed Airbus A380 Flights On 11 Routes: Full List",
-    "summary": "The destinations are across the world, including three in North America and two in Europe. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T11:00:14Z",
-    "url": "https://simpleflying.com/singapore-airlines-has-axed-airbus-a380-flights-on-11-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6525d0987e7f",
-    "title": "Policy Change? What\u2019s The Latest With American Airlines & Carry-On Bags?",
-    "summary": "A closer look a the recent changes to the carrier's boarding process.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T10:00:14Z",
-    "url": "https://simpleflying.com/policy-change-american-airlines-carry-on-bags-whats-the-latest/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a678f656723f",
-    "title": "Who Really Pays For Pilot Raises? How Labor Costs Reach Ticket Prices",
-    "summary": "Airlines have several tools to mitigate the impact of growing labor costs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T08:00:14Z",
-    "url": "https://simpleflying.com/pay-pilot-raises-labor-costs-reach-ticket-prices/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "adcf519ee70e",
-    "title": "The pipeline squeeze",
-    "summary": "The numbers reveal a workforce challenge that's far more complex than a pilot shortage alone.",
-    "source": "AOPA",
-    "category": "hiring",
-    "publishedDate": "2026-08-25T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/the-pipeline-squeeze?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5c460b5475f2",
-    "title": "American Airlines Will Open Its Exclusive First Class Dining Rooms To Business Class",
-    "summary": "AA opens its doors to more flyers as it rolls out lounge upgrades across the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T05:58:02Z",
-    "url": "https://simpleflying.com/american-airlines-flagship-first-dining-opens-business-class/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bed418e519df",
-    "title": "Rome-Bound Delta A330 Diverts To Canada With 280 Onboard After 'Mechanical Emergency'",
-    "summary": "Emergency crews met the Delta jet in Newfoundland as a replacement aircraft ferried all passengers back to New York.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T05:04:36Z",
-    "url": "https://simpleflying.com/delta-a330-rome-diverts-canada-mechanical-emergency/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "7719be65a6ec",
-    "title": "The 5 US Air Force Bases Quietly Holding NATO's European Airpower Together In 2026",
-    "summary": "The fortresses of NATO's allied air power in Europe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T05:00:14Z",
-    "url": "https://simpleflying.com/usaf-bases-quietly-holding-nato-european-airpower-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "09c42a153f38",
-    "title": "Photos: JetBlue Opens Chic 12,000 Square Foot Boston BlueHouse Lounge",
-    "summary": "Exclusive perks extend to Mosaic 4 members, JetBlue Premier and Mint passengers alongside paid access for lower tiers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-24T22:25:45Z",
-    "url": "https://simpleflying.com/jetblue-boston-bluehouse-lounge-opening/",
-    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   }
 ]
