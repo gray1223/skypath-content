@@ -1,8 +1,151 @@
 [
   {
+    "id": "49f46c8490b6",
+    "title": "Airline Pilot Hiring Up Nearly 40% At ATP",
+    "summary": "Airline hiring of ATP Flight School graduates is up nearly 40% from last year, with more than 1,170 graduates hired by major and regional carriers in the past 12 months.",
+    "source": "AvWeb",
+    "category": "hiring",
+    "publishedDate": "2026-09-02T15:28:00Z",
+    "url": "https://avweb.com/aviation-news/airline-pilot-hiring-up-40-percent-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d34ff7d0a3e0",
+    "title": "US considers sanctions on airlines and\u00a0aircraft\u00a0lessors over Iran ties",
+    "summary": "US Treasury Secretary Scott Bessent said on September 2, 2026, that airlines could become targets of Washington&#8217;s economic&#8230; The post US considers sanctions on airlines and aircraft lessors over Iran ties appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T14:30:06Z",
+    "url": "https://www.aerotime.aero/articles/bessent-airlines-aircraft-lessors-iran-sanctions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "555b85974144",
+    "title": "Vueling postpones B737 MAX entry into service due to seat certification delays",
+    "summary": "Vueling, the Barcelona-based low-cost subsidiary of International Airlines Group (IAG), will have to wait to induct its new&#8230; The post Vueling postpones B737 MAX entry into service due to seat certification delays appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T14:06:00Z",
+    "url": "https://www.aerotime.aero/articles/vueling-postpones-b737-max-entry-into-service-due-to-seat-certification-delays",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e58b4e2d9699",
+    "title": "The World's Most Comfortable Premium Economy Doesn't Have The Most Legroom",
+    "summary": "Emirates won the premium economy seats category in the Skytrax awards, yet it has less legroom than that of Japan Airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T14:00:14Z",
+    "url": "https://simpleflying.com/most-comfortable-premium-economy-doesnt-have-most-legroom/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "73dbaeba7653",
+    "title": "The End Of First Class: American Airlines Debuts New Flagship Suites On Its Largest Aircraft",
+    "summary": "The new interior expands capacity on the legendary widebody jet to more than 110 premium seats.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T14:00:14Z",
+    "url": "https://simpleflying.com/american-airlines-debuts-new-flagship-suites-largest-aircraft/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dc541bd86c5f",
+    "title": "Lufthansa Technik and Emirates extend A380 base maintenance services contract",
+    "summary": "Lufthansa Technik and Emirates have extended a base maintenance services contract to support Emirates&#8217; fleet of Airbus A380&#8230; The post Lufthansa Technik and Emirates extend A380 base maintenance services contract appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T13:33:53Z",
+    "url": "https://www.aerotime.aero/articles/lufthansa-technik-emirates-a380-base-maintenance-services-contract",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b0bc969178d7",
+    "title": "Why United Airlines' Highest Status Cannot Be Earned By Flying, Only By A $5 Million Purchase",
+    "summary": "The Star Alliance carrier's highest loyalty status comes with a hefty price tag.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T13:00:14Z",
+    "url": "https://simpleflying.com/why-united-airlines-highest-status-earned-flying-only-5-million-purchase/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "67e8d8d5e78c",
+    "title": "Why Are Airplane Clearing Turns Always Made to the Left?",
+    "summary": "It\u2019s vital to understand safety procedures and overtaking traffic rules that govern this essential flight training maneuver.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-09-02T13:00:00Z",
+    "url": "https://www.flyingmag.com/why-are-airplane-clearing-turns-always-made-to-the-left/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2fab95243c44",
+    "title": "$800 Or Leave Toddler Behind: American Airlines Charges Mom After Child Turns 2 Mid-Trip",
+    "summary": "A family who recently traveled with American Airlines from Los Angeles to Philadelphia had the shock of their lives when they went to return to the airport and found out that they were going to be charged more than $800 for their two-year-old daughter being forced to pay for a...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T12:25:13Z",
+    "url": "https://simpleflying.com/video/800-or-leave-toddler-behind-american-airlines-charges-mom-after-child-turns-2-mid-trip/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8ad19714ce44",
+    "title": "How Pilots Set Personal Minimums",
+    "summary": "Move beyond instructor limitations and use risk management tools to take full ownership of your safety.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-09-02T12:00:00Z",
+    "url": "https://www.flyingmag.com/how-pilots-set-personal-minimums/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "696980ba5481",
+    "title": "As Egypt targets 30 million tourists, how should airlines plan for seasonal demand?",
+    "summary": "Egypt welcomed nearly 19 million tourists in 2025, according to Egypt\u2019s Ministry of Tourism and Antiquities. The country&#8230; The post As Egypt targets 30 million tourists, how should airlines plan for seasonal demand? appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T11:58:32Z",
+    "url": "https://www.aerotime.aero/articles/egypt-airlines-seasonal-demand-30-million-tourists",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "25299523ada0",
+    "title": "6 Military Aircraft That Struggled In Early Combat But Became Wartime Legends",
+    "summary": "From troubled beginnings to wartime legends, these aircraft overcame mechanical, technological and tactical failures to achieve combat success.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T11:00:14Z",
+    "url": "https://simpleflying.com/military-aircraft-disastrous-combat-debuts-later-success/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "16cdc5156d21",
+    "title": "Zelenskyy warns airlines \u2018safe days in Russia\u2019s skies are over\u2019",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has warned airlines that &#8220;safe days in Russia&#8217;s skies are over\u201d, suggesting that continuing&#8230; The post Zelenskyy warns airlines \u2018safe days in Russia\u2019s skies are over\u2019 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T10:57:38Z",
+    "url": "https://www.aerotime.aero/articles/zelenskyy-warns-airlines-safe-days-in-russias-skies-are-over",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "7472b6d8a3c9",
     "title": "Chinese YY-20 tanker refuels Egyptian Rafale for first time",
-    "summary": "Egypt\u2019s Armed Forces spokesperson published photographs on August 31, 2026, showing a People\u2019s Liberation Army Air Force (PLAAF) YY-20 tanker&#8230; The post Chinese YY-20 tanker refuels Egyptian Rafale for first time appeared first on AeroTime.",
+    "summary": "Egypt&#8217;s Armed Forces spokesperson&#160;published photographs&#160;on August 31, 2026, showing a People&#8217;s Liberation Army Air Force (PLAAF) YY-20 tanker&#8230; The post Chinese YY-20 tanker refuels Egyptian Rafale for first time appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-09-02T08:26:04Z",
@@ -13,7 +156,7 @@
   {
     "id": "1c25ff76d8b0",
     "title": "Airbus to train All Nippon Airways\u2019 next generation of rookie airline pilots",
-    "summary": "Airbus will train All Nippon Airways\u2019 (ANA) next generation of rookie airline pilots in Portugal as part of&#8230; The post Airbus to train All Nippon Airways\u2019 next generation of rookie airline pilots appeared first on AeroTime.",
+    "summary": "Airbus will train All Nippon Airways&#8217; (ANA) next generation of rookie airline pilots in Portugal as part of&#8230; The post Airbus to train All Nippon Airways\u2019 next generation of rookie airline pilots appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-09-02T08:22:45Z",
@@ -204,7 +347,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T18:21:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -288,7 +431,7 @@
   {
     "id": "9bbfee8bd1e4",
     "title": "Rheinmetall LUNA NG drone cleared for Bundeswehr training flights",
-    "summary": "Germany\u2019s military aviation authority has granted provisional airworthiness certification to the Rheinmetall LUNA NG unmanned reconnaissance system. The Luftfahrtamt der&#8230; The post Rheinmetall LUNA NG drone cleared for Bundeswehr training flights appeared first on AeroTime.",
+    "summary": "Germany&#8217;s military aviation authority has granted provisional airworthiness certification to the Rheinmetall LUNA NG unmanned reconnaissance system.&#160; The&#160;Luftfahrtamt&#160;der&#8230; The post Rheinmetall LUNA NG drone cleared for Bundeswehr training flights app...",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-09-01T13:35:23Z",
@@ -343,7 +486,7 @@
   {
     "id": "051d5007bd78",
     "title": "Boeing MH-139A Grey Wolf helicopter cleared to guard US nuclear missile fields",
-    "summary": "The US Air Force Global Strike Command (AFGSC) announced on August 31, 2026, that the Boeing MH-139A Grey Wolf reached initial&#8230; The post Boeing MH-139A Grey Wolf helicopter cleared to guard US nuclear missile fields appeared first on AeroTime.",
+    "summary": "The US&#160;Air Force Global Strike Command (AFGSC)&#160;announced&#160;on August 31, 2026, that the Boeing MH-139A Grey Wolf reached initial&#8230; The post Boeing MH-139A Grey Wolf helicopter cleared to guard US nuclear missile fields appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-09-01T10:41:26Z",
@@ -365,7 +508,7 @@
   {
     "id": "907de8b55dbe",
     "title": "Turkish F-16 fighters scramble after drones cross into Estonia\u2019s airspace",
-    "summary": "Turkish Air Force F-16 fighters deployed to \u00c4mari Air Base in Estonia scrambled early on September 1, 2026, after drones&#8230; The post Turkish F-16 fighters scramble after drones cross into Estonia\u2019s airspace appeared first on AeroTime.",
+    "summary": "Turkish Air Force F-16 fighters deployed to&#160;\u00c4mari&#160;Air Base in Estonia scrambled early on September 1, 2026, after drones&#8230; The post Turkish F-16 fighters scramble after drones cross into Estonia\u2019s airspace appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-09-01T08:02:28Z",
@@ -391,7 +534,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1172,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1256,7 +1399,7 @@
   {
     "id": "46ea9e84f39c",
     "title": "Czech startup Zuri unveils new unmanned cargo drone, eyes fresh capital",
-    "summary": "Czech eVTOL developer Zuri unveiled a new hybrid-electric uncrewed tiltrotor for cargo transportation on August 27, 2026. This&#8230; The post Czech startup Zuri unveils new unmanned cargo drone, eyes fresh capital appeared first on AeroTime.",
+    "summary": "Czech eVTOL developer Zuri unveiled a new hybrid-electric uncrewed tiltrotor for cargo transportation on August 27, 2026.&#160; This&#8230; The post Czech startup Zuri unveils new unmanned cargo drone, eyes fresh capital appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-08-28T12:06:15Z",
@@ -1289,7 +1432,7 @@
   {
     "id": "7f253a00ca62",
     "title": "Prime Minister Luxon scolds Air New Zealand over \u2018very poor\u2019 financial results",
-    "summary": "Prime Minister Christopher Luxon has given Air New Zealand a public dressing down, criticizing the airline\u2019s \u201cpretty poor&#8230; The post Prime Minister Luxon scolds Air New Zealand over \u2018very poor\u2019 financial results appeared first on AeroTime.",
+    "summary": "Prime Minister Christopher Luxon has given Air New Zealand a public dressing down, criticizing the airline&#8217;s \u201cpretty poor&#8230; The post Prime Minister Luxon scolds Air New Zealand over \u2018very poor\u2019 financial results appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-08-28T10:20:51Z",
@@ -1597,7 +1740,7 @@
   {
     "id": "8f0648942518",
     "title": "American Airlines adds seven new European destinations for summer 2027",
-    "summary": "American Airlines has unveiled seven new international routes for the 2027 summer season. The announcement, made on August&#8230; The post American Airlines adds seven new European destinations for summer 2027 appeared first on AeroTime.",
+    "summary": "American Airlines has unveiled seven new international routes for the 2027 summer season.&#160;&#160; The announcement, made on August&#8230; The post American Airlines adds seven new European destinations for summer 2027 appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-08-27T13:56:29Z",
@@ -1663,7 +1806,7 @@
   {
     "id": "a9f217858efd",
     "title": "Qantas to retire A380 fleet earlier than expected, eyes replacements",
-    "summary": "Qantas will retire its Airbus A380 fleet earlier than originally planned, the airline confirmed on August 26, 2026. &#8230; The post Qantas to retire A380 fleet earlier than expected, eyes replacements appeared first on AeroTime.",
+    "summary": "Qantas will retire its Airbus A380 fleet earlier than originally planned, the airline confirmed on August 26, 2026.&#160;&#160;&#8230; The post Qantas to retire A380 fleet earlier than expected, eyes replacements appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-08-27T09:55:50Z",
@@ -1674,7 +1817,7 @@
   {
     "id": "42c940ca6984",
     "title": "Italy says reported \u20ac3B Ukraine air defense package not approved",
-    "summary": "Italian Defense Minister Guido Crosetto said that a reported 13th package of military assistance for Ukraine had not been adopted&#8230; The post Italy says reported \u20ac3B Ukraine air defense package not approved appeared first on AeroTime.",
+    "summary": "Italian Defense Minister Guido Crosetto said that a reported 13th package of military&#160;assistance&#160;for Ukraine had not been adopted&#8230; The post Italy says reported \u20ac3B Ukraine air defense package not approved appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-08-27T09:47:24Z",
@@ -1799,7 +1942,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-26T19:53:29Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/26/what-an-aopa-flight-training-experience-award-can-do-for-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/26/what-an-aopa-flight-training-experience-award-can-do-for-you?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2054,149 +2197,6 @@
     "publishedDate": "2026-08-26T05:00:14Z",
     "url": "https://simpleflying.com/some-retired-pilots-go-around-procedures-rethinking/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cd0c0cc0a03f",
-    "title": "Qantas' CEO Wished He Had A 'Time Machine' To Undo This Boeing Decision",
-    "summary": "A closer look at why Qantas never ordered the Boeing 777, despite influencing the plane's design, and why this wasn't necessarily a mistake.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-26T01:45:14Z",
-    "url": "https://simpleflying.com/qantas-ceo-wants-time-machine-undo-boeing-decison/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "434647f89f73",
-    "title": "The $4.9 Billion Rebuild Turning A Hurricane-Ravaged Air Force Base Into A Major F-35 Hub",
-    "summary": "Hurricane Michael destroyed Tyndall AFB in 2018. The Air Force is spending $5 billion to rebuild it as a 78-jet F-35 hub.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-26T01:00:14Z",
-    "url": "https://simpleflying.com/tyndall-air-force-base-f35-rebuild/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "00d2f4c8370a",
-    "title": "The US Air Force Picked The 50-Year-Old F-16 Over The F-35 To Test Autonomous Fighter Flight",
-    "summary": "How a Cold War workhorse is shaping the AI dogfighters of tomorrow.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T23:00:14Z",
-    "url": "https://simpleflying.com/f16-autonomous-fighter-testing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c3a81f4e22b3",
-    "title": "LATAM Ready For 11 New A321neos, E195-E2s With $505 Million Financing Deal",
-    "summary": "LATAM secured $505 million to finance 11 new aircraft in 2026, including four A321neos and six E195-E2s, accelerating its fleet renewal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T21:57:55Z",
-    "url": "https://simpleflying.com/latam-airbus-a321neo-e195-e2-505-million-renewal/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a3bf4f1d3d71",
-    "title": "Training and Safety Tip: You gotta wear shades",
-    "summary": "Let&rsquo;s talk about sunglasses. For pilots, sunglasses do more than increase our coolness factor. They&rsquo;re an essential safety tool that protects our eyes and ultimately helps us to see and avoid other aircraft. But purchasing the right pair isn&rsquo;t as simple as it...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-25T21:38:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/training-and-safety-tip-you-gotta-wear-shades?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4810fa19174c",
-    "title": "Why United Keeps Snubbing Scandinavia In Favor Of Obscure Mediterranean Destinations",
-    "summary": "United is bypassing obvious Northern European cities for smaller Southern markets offering exclusivity and stronger leisure economics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T21:29:10Z",
-    "url": "https://simpleflying.com/united-snubbing-scandinavia-obscure-mediterranean-destinations/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5980f1b48ead",
-    "title": "The Airline Spending $400 Million On New Boeing 787 Business Class Suites",
-    "summary": "New interiors will soon be coming to long-haul flights out of Poland.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T21:00:14Z",
-    "url": "https://simpleflying.com/airline-spending-400-million-new-boeing-787-business-class-suites/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "844e07d7b0a6",
-    "title": "AIR Adds Elmo Drives To Heavy-Lift Cargo UAS",
-    "summary": "The eight-motor aircraft has a 550-pound payload capacity and one-hour endurance.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-25T20:33:05Z",
-    "url": "https://avweb.com/aviation-news/air-adds-elmo-drives-heavy-lift-cargo-uas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3f7ae22b6474",
-    "title": "Okinawa Bound: United Adds 6th Japanese Destination In Its Largest International Expansion",
-    "summary": "United becomes the only North American carrier to link the Ryukyu islands directly with a thrice-weekly 777 service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T20:20:22Z",
-    "url": "https://simpleflying.com/united-okinawa-6th-japanese-destination-largest-international-expansion/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "15845003cf35",
-    "title": "SpaceX\u2019s Falcon 9 Phaseout Could Have Ripple Effect for Pilots",
-    "summary": "Company\u2019s plans to wind down its workhorse rocket may prompt delays and safety concerns for airspace users.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-25T20:00:00Z",
-    "url": "https://www.flyingmag.com/spacex-falcon-9-starship-ripple-effect-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fb028c9fc3e8",
-    "title": "Explosives And Drone Found For 3rd Time This Month At Major German Airport",
-    "summary": "A small drone with military explosive was found in Kabelsketal stirring alarm over possible attacks on cargo hubs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T19:39:37Z",
-    "url": "https://simpleflying.com/explosives-drone-found-3rd-time-german-airport/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9c285451383c",
-    "title": "US lifts key Syrian aviation restrictions after terror-list removal",
-    "summary": "The United States has removed Syria from its list of state sponsors of terrorism and moved to lift&#8230; The post US lifts key Syrian aviation restrictions after terror-list removal appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-25T19:24:19Z",
-    "url": "https://www.aerotime.aero/articles/us-lifts-syrian-aviation-restrictions-terror-list",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "40f886f79487",
-    "title": "Frontier Airlines Cancels Flights To These 29 Airports: See The Full List Now",
-    "summary": "They last saw the carrier between April 2025 and August 2026. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T19:01:14Z",
-    "url": "https://simpleflying.com/frontier-airlines-cancels-flights-to-these-29-airports/",
-    "airlineTag": "Frontier Airlines",
     "isBreaking": false
   }
 ]
