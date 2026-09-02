@@ -1,5 +1,49 @@
 [
   {
+    "id": "7472b6d8a3c9",
+    "title": "Chinese YY-20 tanker refuels Egyptian Rafale for first time",
+    "summary": "Egypt\u2019s Armed Forces spokesperson published photographs on August 31, 2026, showing a People\u2019s Liberation Army Air Force (PLAAF) YY-20 tanker&#8230; The post Chinese YY-20 tanker refuels Egyptian Rafale for first time appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T08:26:04Z",
+    "url": "https://www.aerotime.aero/articles/chinese-yy20-tanker-refuels-egyptian-rafale",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1c25ff76d8b0",
+    "title": "Airbus to train All Nippon Airways\u2019 next generation of rookie airline pilots",
+    "summary": "Airbus will train All Nippon Airways\u2019 (ANA) next generation of rookie airline pilots in Portugal as part of&#8230; The post Airbus to train All Nippon Airways\u2019 next generation of rookie airline pilots appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T08:22:45Z",
+    "url": "https://www.aerotime.aero/articles/airbus-train-all-nippon-airways-airline-pilots",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f651e11a050e",
+    "title": "This \u2018Nonstop\u2019 Air India Boeing 787 Flight Isn\u2019t Always Nonstop \u2014 Here\u2019s Why",
+    "summary": "Air India\u2019s Delhi-Toronto nonstop Boeing 787-9 service can still stop in Vienna. Here\u2019s how aircraft certification and fleet availability explain why.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T08:00:13Z",
+    "url": "https://simpleflying.com/non-stop-flight-boeing-787/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d3e2d9101fff",
+    "title": "American Airlines Union Says Passengers Put In \"Dangerous Positions\" By ICE At US Airports",
+    "summary": "The Union raises the alarm over jeopardy to the rule-of-law.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T07:43:23Z",
+    "url": "https://simpleflying.com/american-airlines-union-ice-airport-passenger-danger-warning/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "e49596d9355c",
     "title": "Commercial Flights Return Today To Venezuela's Main Airport 10 Weeks After Deadly Earthquakes",
     "summary": "Commercial flights have returned to Caracas, but Venezuela's main airport remains far from fully recovered.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-08-25T19:01:14Z",
     "url": "https://simpleflying.com/frontier-airlines-cancels-flights-to-these-29-airports/",
     "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "688a6a52b265",
-    "title": "FAA Accepts HIMS Reform Petition For Review",
-    "summary": "Pilot advocacy group is seeking changes to monitoring, medical reviews and the path to unrestricted certification.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-25T18:16:33Z",
-    "url": "https://avweb.com/aviation-news/faa-accepts-hims-reform-petition-review/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b12098fba701",
-    "title": "Wow: Delta Flight Attendant Commutes Over 5,100 Miles From Africa To US To Fly",
-    "summary": "Commuting is popular in the aviation world, but even this is extreme.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T18:11:35Z",
-    "url": "https://simpleflying.com/delta-flight-attendant-commutes-5100-miles-africa-us/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1cd050c8899c",
-    "title": "Southwest Launches 11 New Routes From This Major US Airport [Full List]",
-    "summary": "The 11 route additions are more than any other airport in its network.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T18:00:15Z",
-    "url": "https://simpleflying.com/southwest-launches-11-new-routes-from-this-major-airport/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e2d5dde4cab9",
-    "title": "A road that led to aviation",
-    "summary": "Ana Komar is the chief pilot and owner of Fly Badlands, a one-woman, one-airplane business flying tourists and anyone else who wants to learn about and experience the rugged, awe-inspiring beauty of the Badlands in South Dakota from above.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-08-25T17:38:46Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
