@@ -1,5 +1,93 @@
 [
   {
+    "id": "e49596d9355c",
+    "title": "Commercial Flights Return Today To Venezuela's Main Airport 10 Weeks After Deadly Earthquakes",
+    "summary": "Commercial flights have returned to Caracas, but Venezuela's main airport remains far from fully recovered.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T02:35:39Z",
+    "url": "https://simpleflying.com/commercial-flights-venezuela-airport-10-weeks-deadly-earthquakes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8261a47374d0",
+    "title": "This Might Be Delta Air Lines' Greatest Asset From Merging With Northwest Airlines",
+    "summary": "The SkyTeam founding member inherited quite a lot from the famous merger.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T01:15:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-greatest-asset-merger-with-northwest-airlines/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "fe194cba37b2",
+    "title": "JetBlue Officially Unveils BlueFirst First Class While Slashing Economy Legroom By 2.3 Inches",
+    "summary": "The new product is expected to be available in the coming months.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T00:04:31Z",
+    "url": "https://simpleflying.com/jetblue-unveils-bluefirst-first-class-slashing-economy-legroom-23-inches/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "cf35ea374ea3",
+    "title": "Why The 3 Major US Airline Pilot Pipelines Are Selecting Completely Different Candidates In 2026",
+    "summary": "What the prospects are for aspiring aviators in America.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T00:00:13Z",
+    "url": "https://simpleflying.com/why-3-major-us-airline-pilot-pipelines-selecting-different-candidates-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b0bac00ae63b",
+    "title": "United Airlines Cuts 10 Routes From The World's Busiest Airport: See Flights Now",
+    "summary": "The routes appear to have been removed temporarily.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T23:48:43Z",
+    "url": "https://simpleflying.com/united-airlines-cuts-10-routes-from-the-worlds-busiest-airport/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c4caf1b5a1ab",
+    "title": "5 Aircraft That Got Remarkably Close To Service Before Their Programs Collapsed",
+    "summary": "These five aircraft were almost ready for commercial service but never carried any passengers in the end.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T22:00:13Z",
+    "url": "https://simpleflying.com/fully-certified-airliners-never-entered-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1d00f3b69df9",
+    "title": "What Pilots Actually Do Between Cruise & Touchdown To Choreograph The Perfect Landing",
+    "summary": "A landing starts 120 miles from the airport at 35,000 feet. Here is what pilots do between cruise and touchdown to set it up.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-01T22:00:13Z",
+    "url": "https://simpleflying.com/what-pilots-do-between-cruise-touchdown-choreograph-perfect-landing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6d897142d8c6",
+    "title": "GA Pilots, Prepare for More Traffic at Washington Manassas Airport",
+    "summary": "FAA authorization for commercial service will raise activity at Virginia\u2019s busiest general aviation facility.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-01T20:56:19Z",
+    "url": "https://www.flyingmag.com/ga-pilots-commercial-aviation-manassas-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "27a68f8bbd45",
     "title": "Navy Seeks Carrier-Based Autonomous Combat Aircraft",
     "summary": "RFI calls for two prototypes capable of catapult launches, arrested landings and carrying as much as 10,000 pounds of external weapons.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-08-25T17:38:46Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/august/25/a-road-that-led-to-aviation?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "28de79686ed9",
-    "title": "Delta Air Lines Just Became The 1st US Legacy Carrier To Zero Out Miles On Its Cheapest Fares",
-    "summary": "Delta Main Basic is one of the most restrictive fares in the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T17:00:14Z",
-    "url": "https://simpleflying.com/delta-air-lines-1st-legacy-carrier-zero-out-miles-cheapest-fares/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "dcf8128e9a18",
-    "title": "FAA Seeks Input on \u2018Priority Airspace\u2019 for Space Launches",
-    "summary": "DOT has been directed to establish critical launch corridors, but what \u201cpriority\u201d will mean for other airspace users has yet to be determined.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-25T15:38:14Z",
-    "url": "https://avweb.com/aviation-news/space-flight/faa-priority-airspace-for-space-launches/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b68a2b1071dc",
-    "title": "Eyes in the Sky: How Pilots Assist ATC During Fire Season",
-    "summary": "ATC often relies on GA airplanes to spot blazes and help search operations.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-25T14:00:00Z",
-    "url": "https://www.flyingmag.com/eyes-in-the-sky-how-pilots-assist-atc-during-fire-season/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "61d4658fcd00",
-    "title": "United confirms first international destinations for \u2018Born to Explore\u2019 A321XLR",
-    "summary": "United Airlines has confirmed the first two international cities that its upcoming \u2018Born to Explore\u2019 Airbus A321XLR aircraft&#8230; The post United confirms first international destinations for \u2018Born to Explore\u2019 A321XLR appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-25T13:50:10Z",
-    "url": "https://www.aerotime.aero/articles/united-confirms-first-international-destinations-for-born-to-explore-a321xlr",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6c33130b175a",
-    "title": "The 5 Last Airline Loyalty Programs That Still Haven't Switched To Dynamic Award Pricing",
-    "summary": "Inside the airline programs, retaining fixed award charts and zone matrices that preserve clarity for strategic mile spenders.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T13:00:14Z",
-    "url": "https://simpleflying.com/loyalty-program-original-points/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a0644f0a5e0b",
-    "title": "LAX Caterer Serving 15 Airlines Faces Mold, Maggot And Cockroach Allegations",
-    "summary": "An airline catering company that supplies in-flight meals to at least 15 carriers at Los Angeles International Airport is under scrutiny due to allegations of poor hygiene and working conditions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T12:31:14Z",
-    "url": "https://simpleflying.com/video/lax-caterer-serving-15-airlines-faces-mold-maggot-and-cockroach-allegations/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e24d4a4fddf3",
-    "title": "US withdraws KC-135 refueling tankers from Bulgaria base amid Iran tensions",
-    "summary": "The US Air Force has withdrawn two KC-135 Stratotanker refueling aircraft from Bulgaria\u2019s Bezmer Air Base, ending a&#8230; The post US withdraws KC-135 refueling tankers from Bulgaria base amid Iran tensions appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-25T12:31:00Z",
-    "url": "https://www.aerotime.aero/articles/us-withdraws-kc-135-refueling-tankers-from-bulgaria-base-amid-iran-tensions",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1b9b8813639a",
-    "title": "United Airlines Announces 11 Massive New Nonstop Routes To Europe: See All Flights Now",
-    "summary": "Six of the European destinations will have US flights for the first time or after many years. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-25T11:55:13Z",
-    "url": "https://simpleflying.com/united-airlines-announces-10-new-nonstop-routes-to-europe-see-all-flights-now/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
