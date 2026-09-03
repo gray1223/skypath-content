@@ -1,5 +1,16 @@
 [
   {
+    "id": "f84a22c5e852",
+    "title": "Why Doesn't The World's Largest Military Cargo Aircraft Have A Glass Cockpit?",
+    "summary": "Why the C-5 Galaxy lacked a glass cockpit for decades\u2014exploring military priorities, design history, and its eventual digital upgrade to the C-5M.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T01:15:13Z",
+    "url": "https://simpleflying.com/why-doesnt-largest-military-cargo-aircraft-glass-cockpit/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "910cae9fdb8b",
     "title": "AOPA member honored by county for airport advocacy",
     "summary": "Larry Scheinpflug, a longtime AOPA member based at Atlanta&rsquo;s DeKalb-Peachtree Airport, was honored by DeKalb County Commissioners on August 11, recognizing his service on the airport's advisory board.",
@@ -7,6 +18,39 @@
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ceadb7481dea",
+    "title": "Man Admits He Has \u201cA Bomb\u201d To American Airlines Gate Agent At Miami International Airport",
+    "summary": "It is the latest in a spate of bomb-related incidents involving passengers at Miami.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T21:46:00Z",
+    "url": "https://simpleflying.com/man-admits-bomb-american-airlines-gate-agent-miami/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2a1b7d23c8b9",
+    "title": "5 US Navy Aviation Squadrons Taking On Bigger Roles In The Pacific",
+    "summary": "America's Navy is upgrading its forward-deployed airpower across the board.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-02T21:00:14Z",
+    "url": "https://simpleflying.com/us-navy-squadrons-bigger-pacific-roles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "99377fb3e309",
+    "title": "Ryanair warns some European airlines may not survive winter fuel crisis",
+    "summary": "Ryanair is cutting its passenger growth target and holding winter capacity roughly flat, while warning that some less-protected&#8230; The post Ryanair warns some European airlines may not survive winter fuel crisis appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-02T20:57:30Z",
+    "url": "https://www.aerotime.aero/articles/ryanair-warns-airlines-winter-fuel-crisis",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-08-26T15:03:41Z",
     "url": "https://www.aerotime.aero/articles/delta-non-stop-flights-israel-resume-new-york-tel-aviv",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "0ece55fd11d2",
-    "title": "Helicopter Vs. Fighter: The Cold War Exercise That Shocked The US Air Force",
-    "summary": "J-CATCH revealed that attack helicopters could outfight fighter jets at low altitude, changing US military doctrine for years to come.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-26T14:00:14Z",
-    "url": "https://simpleflying.com/helicopter-fighter-coldwar-excercise-shocked-usaf/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "98e6ff0ea928",
-    "title": "Cirrus SR22 Pilot Survives In-Flight Fire After Deploying Parachute in Brazil",
-    "summary": "Aircraft is completely destroyed by flames, but aviator escapes with minor smoke inhalation.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-26T14:00:00Z",
-    "url": "https://www.flyingmag.com/cirrus-sr22-pilot-survives-in-flight-fire-after-deploying-parachute-in-brazil/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d5106ad942c6",
-    "title": "Airport Worker Dies Of Malaria After Mosquito Arrives On Flight: 5 Others Infected",
-    "summary": "Four employees were initially reported to have contracted the disease, with this figure later rising.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-26T13:52:31Z",
-    "url": "https://simpleflying.com/frankfurt-airport-malaria-outbreak/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7640ab77705e",
-    "title": "How Long Does It Take to Get the CFII?",
-    "summary": "Pilot looks to expand job horizons with added qualification.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-26T13:00:00Z",
-    "url": "https://www.flyingmag.com/how-long-does-it-take-to-get-the-cfii/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
