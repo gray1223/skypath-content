@@ -1,5 +1,137 @@
 [
   {
+    "id": "cf9980a1690c",
+    "title": "Closer To The Slopes: United Airlines Unveils New Ski Season Special Livery On An Embraer E175",
+    "summary": "Boston gains seasonal nonstop flights to Jackson Hole with complimentary lift tickets for arriving United passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T20:07:32Z",
+    "url": "https://simpleflying.com/united-airlines-new-ski-season-special-livery-embraer-e175/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "456f6d2c03f4",
+    "title": "GAO Urges FAA Review Of A&P Testing Barrier",
+    "summary": "Students in some high school maintenance programs face additional requirements before they can take the FAA\u2019s general knowledge test.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-03T19:49:11Z",
+    "url": "https://avweb.com/aviation-news/gao-urges-faa-review-ap-testing-barrier/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2044443a1706",
+    "title": "Texas legislature holds first GA subcommittee hearing",
+    "summary": "AOPA is known for its strong advocacy for general aviation pilots at the federal, state, and local levels. While we regularly cover \"wins\" and major issues when they arise, it can be a challenge to demonstrate how AOPA advocates on behalf of members every day.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-09-03T19:20:09Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4ec2136b6324",
+    "title": "US Navy seeks carrier combat drones carrying up to 10,000 pounds",
+    "summary": "The US Navy is asking defense companies to propose autonomous combat aircraft capable of launching from aircraft carriers,&#8230; The post US Navy seeks carrier combat drones carrying up to 10,000 pounds appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-03T19:10:05Z",
+    "url": "https://www.aerotime.aero/articles/us-navy-carrier-combat-drones-10000-pound-payload",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cdae41bd8051",
+    "title": "Study Finds Collegiate Pilots Neutral on UAS Autonomy",
+    "summary": "Small Part 141 survey found no significant change in willingness to fly based on how nearby unmanned aircraft were controlled.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-03T19:06:32Z",
+    "url": "https://avweb.com/aviation-news/drones/study-finds-pilots-neutral-uas-autonomy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5225dfce3d97",
+    "title": "Allegiant Air Cancels Flights To These 35 Airports: See Full List Now",
+    "summary": "Since 2016, Allegiant has stopped flying to airports in many states, including Alaska and Hawaii. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T19:00:14Z",
+    "url": "https://simpleflying.com/allegiant-air-cancels-flights-to-these-35-airports-see-full-list-now/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9b6381a4d04b",
+    "title": "Emirates Just Pulled The Airbus A380 From 10 Cities To Give This City A 2nd Daily Superjumbo",
+    "summary": "Singapore gains a second superjumbo as Emirates balances aging A380s, 777X delays, and costly fleet upgrades.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T19:00:14Z",
+    "url": "https://simpleflying.com/emirates-pulled-airbus-a380-10-cities-give-city-2nd-daily-superjumbo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3781c7f59e1",
+    "title": "Here\u2019s Why The Boeing 777X Won\u2019t Let Pilots Take Off With Its Wings Still Folded",
+    "summary": "A look at the huge twinjet's safety features.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T18:02:21Z",
+    "url": "https://simpleflying.com/why-boeing-777x-wont-let-pilots-takeoff-wings-folded-26/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c9af9ad42953",
+    "title": "DHS Secretary Lauds Pilots of Coast Guard C-37A After Emergency Landing",
+    "summary": "Military aircraft carrying Secretary Markwayne Mullin entered service in 2002 and is close to 25 years old.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-03T18:00:00Z",
+    "url": "https://www.flyingmag.com/dhs-lauds-pilots-coast-guard-c37a-emergency/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dbe044f28421",
+    "title": "GE Aerospace wins Pentagon contract to build Mach 5 hypersonic test vehicle",
+    "summary": "GE Aerospace has received a US Defense Innovation Unit (DIU) contract to develop an air-launched hypersonic test vehicle&#8230; The post GE Aerospace wins Pentagon contract to build Mach 5 hypersonic test vehicle appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-03T17:55:40Z",
+    "url": "https://www.aerotime.aero/articles/ge-aerospace-mach-5-derecho-hypersonic-test-vehicle",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "47b0bef5d369",
+    "title": "Why The Air Force Is Sending F-15EXs To Seymour Johnson & Strike Eagles To A B-2 Stealth Base",
+    "summary": "The F-15EX is becoming an increasingly important part of the Air Force's future force structure and is considered complementary to the B-21 bomber.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T17:00:14Z",
+    "url": "https://simpleflying.com/why-air-force-sending-f-15ex-seymour-johnson-strike-eagles-b-2-stealth-base/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a26f508679f4",
+    "title": "After 2,000 E-Jet Deliveries, What\u2019s Next for Embraer\u2019s Popular Family?",
+    "summary": "Manufacturer continues to secure orders for the second-generation E2 while contending with development delays.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-03T16:00:00Z",
+    "url": "https://www.flyingmag.com/2000-e-jet-deliveries-whats-next-embraer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "29f9a5638e55",
     "title": "Boeing\u2019s $3.1 Million FAA Fine Payment Went Undisclosed",
     "summary": "The penalty covered 737 production and safety violations cited by the agency.",
@@ -198,6 +330,17 @@
     "isBreaking": false
   },
   {
+    "id": "e27429f13414",
+    "title": "Weeklong aviation celebration coming to Dayton area",
+    "summary": "Military and civilian aircraft, hot air balloons, classic cars\u2014Grimes Field in Urbana, Ohio, near Dayton, will offer a bit of everything for aviation enthusiasts during Champaign County Aviation Heritage Week September 12 through 19.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-09-03T08:00:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "49594134d9ac",
     "title": "Honolulu To Baltimore: Southwest Unveils First 4 Airport Lounges, At Least 11 Planned",
     "summary": "The next era at Southwest comes with new landside perks.",
@@ -237,7 +380,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T18:21:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -875,7 +1018,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1656,7 +1799,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2054,149 +2197,6 @@
     "publishedDate": "2026-08-27T15:15:00Z",
     "url": "https://www.flyingmag.com/what-pilots-often-miss-when-reviewing-their-benefits/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5c54a104786b",
-    "title": "Boeing Posts Contractor Jobs As Labor Dispute Escalates",
-    "summary": "Engineering and technical workers could strike after their current contract expires in October.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-27T15:11:01Z",
-    "url": "https://avweb.com/aviation-news/boeing-contractor-jobs-labor-dispute/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a9e22462b66",
-    "title": "Germany builds radar-powered bird warning system for military aircraft",
-    "summary": "The German Armed Forces have put into operation a new software platform that turns more than 800,000 radar&#8230; The post Germany builds radar-powered bird warning system for military aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T14:15:08Z",
-    "url": "https://www.aerotime.aero/articles/germany-radar-bird-warning-military-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f0648942518",
-    "title": "American Airlines adds seven new European destinations for summer 2027",
-    "summary": "American Airlines has unveiled seven new international routes for the 2027 summer season.&#160;&#160; The announcement, made on August&#8230; The post American Airlines adds seven new European destinations for summer 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T13:56:29Z",
-    "url": "https://www.aerotime.aero/articles/american-airlines-adds-seven-new-european-destinations-for-summer-2027",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3eb1ab455b5c",
-    "title": "Wing To Evaluate New Nvidia AI For Delivery Drones",
-    "summary": "The Jetson Orin Nano 2 could increase Wing onboard AI processing while reducing power consumption.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-27T13:52:02Z",
-    "url": "https://avweb.com/aviation-news/drones/wing-evaluating-nvidia-ai-delivery-drones/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f0a56a8b6f5e",
-    "title": "Russia delivers third Su-35S fighter\u00a0batch of 2026",
-    "summary": "The United Aircraft Corporation (UAC) said on August 27, 2026, that it had delivered a batch of new&#8230; The post Russia delivers third Su-35S fighter batch of 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T13:23:54Z",
-    "url": "https://www.aerotime.aero/articles/russia-third-su-35s-fighter-batch-2026-number-undisclosed",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c551cc3ee1fe",
-    "title": "How to Become a Navy Pilot",
-    "summary": "Naval aviators serve country while working in exciting and rewarding environment.",
-    "source": "Flying Magazine",
-    "category": "military",
-    "publishedDate": "2026-08-27T12:00:00Z",
-    "url": "https://www.flyingmag.com/how-to-become-a-navy-pilot-2/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79f12878757a",
-    "title": "PAL to increase Manila-Melbourne service to daily flights from November 2026",
-    "summary": "Philippine Airlines (PAL) announced it will increase its Manila-Melbourne service from five weekly flights to daily operations starting&#8230; The post PAL to increase Manila-Melbourne service to daily flights from November 2026 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T10:48:50Z",
-    "url": "https://www.aerotime.aero/articles/pal-to-increase-manila-melbourne-service-to-daily-flights-from-november-2026",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cbb6f1d32f7f",
-    "title": "Philippines completes Black Hawk fleet, becomes largest S-70i operator globally",
-    "summary": "The Philippine Air Force (PAF) has completed the acquisition of all 32 S-70i Black Hawk helicopters it ordered&#8230; The post Philippines completes Black Hawk fleet, becomes largest S-70i operator globally appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T10:29:19Z",
-    "url": "https://www.aerotime.aero/articles/philippines-completes-black-hawk-fleet-becomes-largest-s-70i-operator-globally",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a9f217858efd",
-    "title": "Qantas to retire A380 fleet earlier than expected, eyes replacements",
-    "summary": "Qantas will retire its Airbus A380 fleet earlier than originally planned, the airline confirmed on August 26, 2026.&#160;&#160;&#8230; The post Qantas to retire A380 fleet earlier than expected, eyes replacements appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T09:55:50Z",
-    "url": "https://www.aerotime.aero/articles/qantas-to-retire-a380-fleet-earlier-than-expected-eyes-replacements",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "42c940ca6984",
-    "title": "Italy says reported \u20ac3B Ukraine air defense package not approved",
-    "summary": "Italian Defense Minister Guido Crosetto said that a reported 13th package of military&#160;assistance&#160;for Ukraine had not been adopted&#8230; The post Italy says reported \u20ac3B Ukraine air defense package not approved appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T09:47:24Z",
-    "url": "https://www.aerotime.aero/articles/italy-3-billion-ukraine-air-defense-package-not-approved",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b5721770ee8c",
-    "title": "Qantas opens $65M training center, adds Australia\u2019s first A350 simulator",
-    "summary": "The Qantas Group has opened a new Emergency Procedures Training Centre (EPTC) in Sydney, part of a AU$100&#8230; The post Qantas opens $65M training center, adds Australia\u2019s first A350 simulator appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T09:08:16Z",
-    "url": "https://www.aerotime.aero/articles/qantas-opens-65m-training-center-adds-australias-first-a350-simulator",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a36dd9d35c31",
-    "title": "My Freighter expands strategic partnership with Baltic Ground Services across Europe",
-    "summary": "My Freighter is pleased to announce the expansion of its longstanding partnership with Baltic Ground Services (BGS), one&#8230; The post My Freighter expands strategic partnership with Baltic Ground Services across Europe appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-27T08:35:08Z",
-    "url": "https://www.aerotime.aero/articles/my-freighter-expands-strategic-partnership-with-baltic-ground-services-across-europe",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2084eb2b90b8",
-    "title": "5 Tire Incidents In 2 Weeks At Chicago O'Hare As American Airlines 737 Suffers Double Blowout",
-    "summary": "The FAA is investigating after an American 737 blew two tires at O'Hare in the fifth such failure since Aug 13.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T07:40:38Z",
-    "url": "https://simpleflying.com/american-airlines-737-double-tire-blowout-chicago-ohare/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
