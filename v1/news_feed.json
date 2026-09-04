@@ -1,5 +1,115 @@
 [
   {
+    "id": "0462b3e90356",
+    "title": "Delta Air Lines To Reportedly Add More Premium Select & Comfort+ Seats On Its Boeing 767-400ERs",
+    "summary": "Delta leans into higher-yielding travelers by reshaping 767 cabins while keeping lie-flat Delta One intact on long-haul sectors.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T20:11:49Z",
+    "url": "https://simpleflying.com/delta-air-lines-reportedly-add-more-premium-select-comfort-seats-boeing-767-400ers/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "74b8527e2333",
+    "title": "Southwest Launches 11 New Nonstop Routes From Major US Airport: See Full List",
+    "summary": "Eleven nonstop routes transform capacity at SAN with new transcontinental services and revived island flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T20:00:14Z",
+    "url": "https://simpleflying.com/southwest-launches-11-new-nonstop-routes-from-major-us-airport/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ee9c768890d1",
+    "title": "Here's What Pilots Notice When Switching From The Airbus A220 To The Embraer E195-E2",
+    "summary": "With airlines debating whether to opt for the A220 or E195-E2, what is it actually like to fly each of these aircraft, and what makes them different?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T20:00:14Z",
+    "url": "https://simpleflying.com/pilots-first-notice-switching-airbus-a220-embraer-e195-e2/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4dd5ca5a52a8",
+    "title": "New Data Puts Private Pilot Certificate At $18,257",
+    "summary": "PilotBound used published rates from flight schools in all 50 states.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-09-04T19:06:16Z",
+    "url": "https://avweb.com/aviation-news/private-pilot-certificate-now-18257/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "93bb837348c4",
+    "title": "American Airlines Cancels Flights To 28 Long-Haul Airports: See Full List",
+    "summary": "The carrier has stopped flying to all these places in Europe, Asia, the Middle East, and South America. Find out where here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T19:00:14Z",
+    "url": "https://simpleflying.com/american-airlines-cancels-flights-to-28-long-haul-airports-see-full-list/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5d89bb0a30be",
+    "title": "5 Things Passengers Don't Know About Airline Loyalty Status Matching",
+    "summary": "Airline status matching can unlock elite perks fast, but these five hidden rules could determine whether your new benefits last or disappear.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T19:00:14Z",
+    "url": "https://simpleflying.com/passengers-dont-know-airline-loyalty-status-matching/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "486b12d95a71",
+    "title": "Do B-21 Raider Pilots Make The Same As F-35 Pilots?",
+    "summary": "Comparing the take-home pay of some of the world's most elite pilots.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T18:00:13Z",
+    "url": "https://simpleflying.com/b-21-raider-pilots-pay-vs-f-35-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f517aa1f577f",
+    "title": "The 975 Feet Of Pavement That Rewrites Avelo Airlines' Entire East Coast Strategy",
+    "summary": "Avelo Airlines is about to get more tools for success.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T17:00:14Z",
+    "url": "https://simpleflying.com/975-feet-pavement-rewrites-avelo-airlines-entire-east-coast-strategy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "969bcb0971fd",
+    "title": "KLM's First Airbus A350 Completes 90-Minute 1st Flight",
+    "summary": "KLM's first Airbus A350 has completed its first flight, beginning a fleet transformation crucial to protecting its Schiphol hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T16:22:25Z",
+    "url": "https://simpleflying.com/klms-first-airbus-a350-completes-90-minute-1st-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "253dc9366399",
+    "title": "Global Airlines' Airbus A380 Hasn't Flown For A Year... What's Next?",
+    "summary": "Outstanding maintenance checks have grounded the airline's only jet. CEO Asquith still thinks there's a pathway to success.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T15:51:42Z",
+    "url": "https://simpleflying.com/global-airlines-airbus-a380-hasnt-flown-for-a-year-whats-next/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "435ea73ab95f",
     "title": "SpiceJet plans to nearly triple active fleet with deal for 20 leased aircraft",
     "summary": "SpiceJet has finalized agreements to lease 20 aircraft as the financially distressed Indian carrier attempts to nearly triple&#8230; The post SpiceJet plans to nearly triple active fleet with deal for 20 leased aircraft appeared first on AeroTime.",
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-08-28T16:11:18Z",
     "url": "https://www.aerotime.aero/articles/us-military-laser-shoots-down-drug-cartel-drones",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "58cfa6732e9b",
-    "title": "Two South Korean attack drones crash seconds after launch in first naval test",
-    "summary": "Two South Korean loitering munitions crashed into the sea seconds after being launched from a Navy amphibious assault&#8230; The post Two South Korean attack drones crash seconds after launch in first naval test appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-28T15:56:42Z",
-    "url": "https://www.aerotime.aero/articles/south-korea-attack-drones-crash-first-naval-test",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d62a5e427cd6",
-    "title": "EAA\u2019s CEO Named to Corporate Angel Network Board",
-    "summary": "Jack Pelton\u2019s decades of aviation leadership will help support free flights for cancer patients.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-28T14:00:00Z",
-    "url": "https://www.flyingmag.com/eaas-ceo-named-to-corporate-angel-network-board/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8df65077040",
-    "title": "Ex-Spirit Pilots Receive Help Getting Their Logbooks in Order",
-    "summary": "AIROS assists aviators in entering and consolidating records, pulling needed information, and checking for potential mistakes.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-28T13:00:00Z",
-    "url": "https://www.flyingmag.com/ex-spirit-pilots-receive-help-getting-their-logbooks-in-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "46ea9e84f39c",
-    "title": "Czech startup Zuri unveils new unmanned cargo drone, eyes fresh capital",
-    "summary": "Czech eVTOL developer Zuri unveiled a new hybrid-electric uncrewed tiltrotor for cargo transportation on August 27, 2026.&#160; This&#8230; The post Czech startup Zuri unveils new unmanned cargo drone, eyes fresh capital appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-28T12:06:15Z",
-    "url": "https://www.aerotime.aero/articles/czech-startup-zuri-unveils-new-unmanned-cargo-drone-eyes-fresh-capital",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "840e29a94775",
-    "title": "Exploring the Corner Case Approach for a Pilot",
-    "summary": "Solar storm or poor signal quality can force a downgrade past minimums.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-08-28T12:00:00Z",
-    "url": "https://www.flyingmag.com/exploring-the-corner-case-approach-for-a-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "86e26166093d",
-    "title": "JetBlue sheds two board members as activist investor scales back stake",
-    "summary": "JetBlue has reduced the size of its board after two members, Jesse Lynn and Steven Miller, departed as&#8230; The post JetBlue sheds two board members as activist investor scales back stake appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-28T11:42:27Z",
-    "url": "https://www.aerotime.aero/articles/jetblue-board-members-activist-investor-carl-icahn",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "7f253a00ca62",
-    "title": "Prime Minister Luxon scolds Air New Zealand over \u2018very poor\u2019 financial results",
-    "summary": "Prime Minister Christopher Luxon has given Air New Zealand a public dressing down, criticizing the airline&#8217;s \u201cpretty poor&#8230; The post Prime Minister Luxon scolds Air New Zealand over \u2018very poor\u2019 financial results appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-28T10:20:51Z",
-    "url": "https://www.aerotime.aero/articles/prime-minister-luxon-scolds-air-new-zealand-over-very-poor-financial-results",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7ae9f9ed04c8",
-    "title": "Sweden to send Gripen fighters to patrol Finland\u2019s border with Russia, SVT reports",
-    "summary": "Sweden\u2019s government has chosen to send military units to Finland, including JAS 39 Gripen fighters that would patrol&#8230; The post Sweden to send Gripen fighters to patrol Finland\u2019s border with Russia, SVT reports appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-28T09:48:28Z",
-    "url": "https://www.aerotime.aero/articles/sweden-to-send-gripens-to-patrol-finlands-border-with-russia-svt-reports",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4802f6bc3559",
-    "title": "The Airline That Introduced Private Suite Doors To Business Class",
-    "summary": "Private suite doors are widely considered to be a sought-after feature on a business class seat.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-28T09:15:14Z",
-    "url": "https://simpleflying.com/airline-introduced-private-suite-doors-to-business-class/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e4f33d069fa0",
-    "title": "Discover Airlines announces first routes to the UK and Ireland for Summer 2027",
-    "summary": "German airline Discover Airlines, a wholly owned subsidiary of the Lufthansa Group, has announced four new nonstop routes&#8230; The post Discover Airlines announces first routes to the UK and Ireland for Summer 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-08-28T08:56:30Z",
-    "url": "https://www.aerotime.aero/articles/discover-airlines-announces-first-routes-to-the-uk-and-ireland-for-summer-2027",
     "airlineTag": null,
     "isBreaking": false
   }
