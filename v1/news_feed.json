@@ -1,5 +1,71 @@
 [
   {
+    "id": "8cff237aeb66",
+    "title": "Inside Iberojet, the airline quietly building a unique transatlantic network",
+    "summary": "You&#8217;ve probably heard of Iberia and Air Europa, two Spanish airlines with an extensive network linking Europe to&#8230; The post Inside Iberojet, the airline quietly building a unique transatlantic network appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-04T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/inside-iberojet-the-airline-quietly-building-a-unique-transatlantic-network",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ebb7acf9b7d9",
+    "title": "This Airline Has The World's Most Innovative Business Class Seat In 2026",
+    "summary": "The seat offers some innovative capabilities.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T01:15:13Z",
+    "url": "https://simpleflying.com/airline-most-innovative-business-class-seat-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "85fbb2ab5498",
+    "title": "Why Air National Guard Units Are Among The First To Get The Air Force's New F-15EX",
+    "summary": "The story a how a new fighter's roll out breaks all precedents.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-04T01:00:13Z",
+    "url": "https://simpleflying.com/why-air-national-guard-first-new-f-15ex/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "26779e91a456",
+    "title": "Delta Air Lines' 'Accidental' 44-Seat First Class Cabin Is Flying 80% Full & Rewriting Its Fleet Strategy",
+    "summary": "This is a preview of what the future will look like at US airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T00:00:13Z",
+    "url": "https://simpleflying.com/delta-air-lines-accidental-44-seat-first-class-cabin-flying-80-percent-rewriting-fleet-strategy/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "5f98a74872b6",
+    "title": "6 Ways Delta, United & American Airlines Are Quietly Reshaping Widebody Premium Cabins In 2026",
+    "summary": "The three major US carriers have made some subtle changes recently.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T22:00:13Z",
+    "url": "https://simpleflying.com/ways-delta-united-american-airlines-quietly-reshaping-widebody-premium-cabins-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "13dffbc9d141",
+    "title": "COMAC Doesn't Need To Beat Airbus Or Boeing To Fracture The Airliner Market",
+    "summary": "COMAC may be about to bifurcate the aviation market with 'good enough' jets, sufficient when paired with broader economic and geopolitical concerns.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-03T21:00:14Z",
+    "url": "https://simpleflying.com/comac-does-not-need-beat-airbus-boeing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cf9980a1690c",
     "title": "Closer To The Slopes: United Airlines Unveils New Ski Season Special Livery On An Embraer E175",
     "summary": "Boston gains seasonal nonstop flights to Jackson Hole with complimentary lift tickets for arriving United passengers.",
@@ -8,6 +74,17 @@
     "publishedDate": "2026-09-03T20:07:32Z",
     "url": "https://simpleflying.com/united-airlines-new-ski-season-special-livery-embraer-e175/",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "52b584b54baf",
+    "title": "JetBlue unveils BlueFirst, its first-ever domestic first-class cabin",
+    "summary": "JetBlue has unveiled BlueFirst, its first-ever traditional domestic first-class cabin, marking a major change for an airline that&#8230; The post JetBlue unveils BlueFirst, its first-ever domestic first-class cabin appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-03T20:02:15Z",
+    "url": "https://www.aerotime.aero/articles/jetblue-bluefirst-first-domestic-first-class-cabin",
+    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   },
   {
@@ -28,7 +105,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -336,7 +413,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -380,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +908,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T18:21:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1095,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1876,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-08-27T19:30:36Z",
     "url": "https://simpleflying.com/american-airlines-introduce-new-complimentary-inflight-snacks-passenger-feedback/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7e914aeef109",
-    "title": "Why Breeze Airways Just Slashed Flights At This Airport By 60%",
-    "summary": "Breeze is cutting flights at smaller stations as it shifts growth toward bigger bases like Raleigh, Orlando, and Tampa.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T19:06:37Z",
-    "url": "https://simpleflying.com/why-breeze-airways-just-slashed-flights-at-this-airport-by-60/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "08117b909a50",
-    "title": "9-Hour Flights: United Airlines' 5 New Longest Airbus A321XLR Routes [List & Map]",
-    "summary": "Inside the carrier's European narrowbody long-haul expansion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T19:00:14Z",
-    "url": "https://simpleflying.com/united-airlines-longest-airbus-a321xlr-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d5795a3ed4ae",
-    "title": "Cirrus Backlog Tops 1,000 Aircraft",
-    "summary": "Manufacturer reports higher deliveries and revenue as aircraft orders continue to keep pace with production.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-08-27T18:18:50Z",
-    "url": "https://avweb.com/aviation-news/cirrus-backlog-tops-1000-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1f6baf20115f",
-    "title": "Garmin Brings SmartCharts Coverage to Canada and Mexico",
-    "summary": "Garmin Pilot Premium users gain access to enhanced instrument procedure data and continuous descent profiles.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-27T17:30:00Z",
-    "url": "https://www.flyingmag.com/garmin-brings-smartcharts-coverage-to-canada-and-mexico/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ca12f0207656",
-    "title": "United Airlines Understood The Assignment With Its New Toulouse Flight Number UA222",
-    "summary": "Say this flight number fast enough and it's sure to brighten your day.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T16:33:46Z",
-    "url": "https://simpleflying.com/united-airlines-flight-ua222-to-toulouse/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4edbfc0337f0",
-    "title": "American Airlines Unveils New 9.5-Hour Nonstop Airbus A321XLR Flights [Map]",
-    "summary": "American Airlines\u2019 Philadelphia-Vienna flight will become the world\u2019s longest scheduled Airbus A321XLR route.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T16:01:58Z",
-    "url": "https://simpleflying.com/american-unveils-new-9-hour-nonstop-a321xlr-flights/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1756186e2836",
-    "title": "What Pilots Often Miss When Reviewing Their Benefits",
-    "summary": "Allworth Airline Advisors on the HSAs, Roth strategies and coverage gaps pilots miss each fall.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-27T15:15:00Z",
-    "url": "https://www.flyingmag.com/what-pilots-often-miss-when-reviewing-their-benefits/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
