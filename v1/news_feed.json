@@ -1,5 +1,60 @@
 [
   {
+    "id": "0ff47f0aeb71",
+    "title": "American Airlines Boeing 737-800\u2019s Aborted Takeoff At LaGuardia Was A Bird Strike False Alarm",
+    "summary": "A suspected mishap forces one jetliner to cancel departure.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T09:03:29Z",
+    "url": "https://simpleflying.com/american-airlines-boeing-737-800-aborted-takeoff-laguardia-bird-strike-false-alarm/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d9fcd7574b6e",
+    "title": "Why The US Air Force Flew B-52s At 70 Degrees Of Bank While Connected To A Tanker",
+    "summary": "A viral video captured the US Air Force performing a seemingly impossible maneuver with a B-52 bomber.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T09:00:14Z",
+    "url": "https://simpleflying.com/b-52-70-degree-bank-refueling/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2344f19dc396",
+    "title": "US Air Force retires EC-130H Compass Call after final Arizona flight",
+    "summary": "The&#160;final&#160;EC-130H Compass Call sortie&#160;was flown by the US Air Force&#160;on September 2, 2026, closing out more than four&#8230; The post US Air Force retires EC-130H Compass Call after final Arizona flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-04T08:45:17Z",
+    "url": "https://www.aerotime.aero/articles/us-air-force-retires-ec130h-compass-call-final-flight",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a1d46742d256",
+    "title": "Britten-Norman conducts momentous Islander maiden flight",
+    "summary": "Planemaker Britten-Norman is celebrating the maiden test flight of the first Islander aircraft built in the UK since&#8230; The post Britten-Norman conducts momentous Islander maiden flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-04T08:12:39Z",
+    "url": "https://www.aerotime.aero/articles/britten-norman-islander-maiden-flight-uk",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b6aa2530d47",
+    "title": "Inflatable Decoys & Dispersal: How Air Forces Now Protect Parked Aircraft",
+    "summary": "Modern stealth aircraft are extraordinary pieces of equipment in the air, but on the ground, they are just juicy targets difficult to protect.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-04T08:00:14Z",
+    "url": "https://simpleflying.com/how-air-forces-now-protect-parked-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8cff237aeb66",
     "title": "Inside Iberojet, the airline quietly building a unique transatlantic network",
     "summary": "You&#8217;ve probably heard of Iberia and Air Europa, two Spanish airlines with an extensive network linking Europe to&#8230; The post Inside Iberojet, the airline quietly building a unique transatlantic network appeared first on AeroTime.",
@@ -105,7 +160,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -413,7 +468,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -457,7 +512,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -908,7 +963,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T18:21:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1150,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1876,7 +1931,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-08-28T19:10:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/august/28/is-your-retirement-plan-built-to-last?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-08-27T20:50:21Z",
     "url": "https://www.aerotime.aero/articles/laguardia-controllers-firing-fatal-runway-crash",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "984637f7ca3b",
-    "title": "Delta Air Lines To Bring Back Los Angeles-London Flights By 2029, But Hopes For 2028 Olympics",
-    "summary": "Strategic LAX moves hint at wider Asia expansion and a push for premium corporate traffic around the 2028 Olympics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T20:37:14Z",
-    "url": "https://simpleflying.com/delta-air-lines-bring-back-los-angeles-london-flights-2029-hopes-2028-olympics/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "e187d9a765d0",
-    "title": "Piper PA-24 Crashes Off Alaska Coast, Killing 4",
-    "summary": "Preliminary investigation determines small aircraft submerged completely after going down near Seldovia.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-08-27T20:30:00Z",
-    "url": "https://www.flyingmag.com/piper-pa-24-crash-alaska-kills-4/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ea56ab783186",
-    "title": "Video: Wheels of DHL Boeing 737 freighter erupt in flames during landing at LAX",
-    "summary": "A DHL Boeing 737-800 freighter suffered an apparent brake malfunction while landing at Los Angeles International Airport (LAX),&#8230; The post Video: Wheels of DHL Boeing 737 freighter erupt in flames during landing at LAX appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-08-27T19:54:55Z",
-    "url": "https://www.aerotime.aero/articles/video-dhl-boeing-737-freighter-wheels-flames-lax",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5ed7aae34442",
-    "title": "Plagued By Real Estate: Delta Air Lines Looks At Opening Houston Sky Club",
-    "summary": "Delta pushes to place a Sky Club at IAH despite United's fortress hub and scarce terminal real estate restricting options.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T19:49:12Z",
-    "url": "https://simpleflying.com/delta-air-lines-looks-opening-houston-sky-club/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "75a87e0ca70d",
-    "title": "American Airlines Introduces New Complimentary Inflight Snacks Based On Passenger Feedback",
-    "summary": "The new offerings are slated to debut on select flights in October.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-27T19:30:36Z",
-    "url": "https://simpleflying.com/american-airlines-introduce-new-complimentary-inflight-snacks-passenger-feedback/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
