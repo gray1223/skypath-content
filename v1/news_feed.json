@@ -1,5 +1,82 @@
 [
   {
+    "id": "2c17e9a3de08",
+    "title": "Delta Air Lines Launches 5 New Nonstop Long-Haul Routes: See Flights Now",
+    "summary": "The airline has targeted some new markets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T19:00:13Z",
+    "url": "https://simpleflying.com/delta-launches-5-new-nonstop-long-haul-routes/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "9a838c705ee2",
+    "title": "Why The US Air Force Is Betting Its Newest Stealth Fighters On A Hurricane-Flattened Florida Coastline",
+    "summary": "Building up a strategic air base in Hurricane Alley to deploy new stealth jets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T18:00:13Z",
+    "url": "https://simpleflying.com/why-us-air-force-betting-newest-stealth-fighters-hurricane-flattened-florida-coastline/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8627beaad338",
+    "title": "American Airlines Nears 65-Jet Order That Could End Its All-Boeing Widebody Fleet",
+    "summary": "American leadership is considering modern Airbus widebodies in fleet design.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T17:56:12Z",
+    "url": "https://simpleflying.com/american-airlines-65-widebody-order-airbus-boeing/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c082561fe5e2",
+    "title": "Why Air Canada Is Launching Nonstop Flights To This Tiny European Airport",
+    "summary": "The airline is returning to Croatia after several years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T17:00:13Z",
+    "url": "https://simpleflying.com/why-air-canada-is-launching-nonstop-flights-to-this-tiny-european-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d0fb14f6bb6d",
+    "title": "The Air Force Built Digital Twins Of Its B-1s To Keep Them Flying Toward The B-21 Era",
+    "summary": "How the USAF is keeping the BONE in the air.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T17:00:13Z",
+    "url": "https://simpleflying.com/air-force-b1-lancer-digital-twin-sustainment/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2afb9b559e1c",
+    "title": "3 American Airlines Passengers Duct-Tape 'Biting' Man To His Seat After Racist Abuse",
+    "summary": "A retired police officer and two passengers subdued the violent flyer before the flight diverted to Baltimore.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T16:06:30Z",
+    "url": "https://simpleflying.com/american-airlines-passenger-duct-taped-seat-racist/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d474ed8de9e3",
+    "title": "5 Airlines Offering First-Class-Level Sleep But In Business Class",
+    "summary": "A closer look at the best ways to sleep in the sky.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T15:00:14Z",
+    "url": "https://simpleflying.com/business-class-first-class-sleep-experience/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "602a4edc4c78",
     "title": "Air Force Budget Documents Project Fighter Aviator Manning Will Fall To 67% In 2027",
     "summary": "The US Air Force's fighter jet community is coming under increasing strain from falling manning levels, now a third-below target.",
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-08-29T07:52:37Z",
     "url": "https://simpleflying.com/anti-israel-note-hidden-checked-bag-alaska-airlines-el-al/",
     "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e8b4b87ea528",
-    "title": "5-Hour Squeeze: Delta Sued After Plus-Size Seatmate Left Passenger Needing Spinal Surgery",
-    "summary": "The traveler says he was trapped against the cabin wall, leading to worsening back pain and costly surgery.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T07:34:56Z",
-    "url": "https://simpleflying.com/delta-passenger-lawsuit-plus-size-seatmate-spinal-surgery/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "71b0a9252205",
-    "title": "The 30 Finished Boeing 777-9s Parked In Washington That No Airline Wants To Fly",
-    "summary": "What will happen to these Boeing 777-9s?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T05:00:14Z",
-    "url": "https://simpleflying.com/30-unfinshed-boeing-777-9s-parked-washington-no-airline-wants-fly/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "acab2e08ac44",
-    "title": "United Flight Changes Aircraft & Diverts Twice Flying Los Angeles To New York",
-    "summary": "The passengers are still stranded in Cleveland.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-28T22:45:41Z",
-    "url": "https://simpleflying.com/united-flight-changes-aircraft-diverts-twice-flying-los-angeles-to-new-york/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ae6941689be1",
-    "title": "Southwest Airlines Just Hit 100 Daily International Flights On An Aircraft That Can't Take It Much Further",
-    "summary": "Southwest just hit 100 daily international flights for the first time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-28T22:00:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-hit-100-daily-international-flights-aircraft-cant-take-much-further/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6b169f4e5e2f",
-    "title": "The Different Ways American & European Airlines Handle Flight Delays",
-    "summary": "It's the law in Europe versus differing airline policies in the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-28T22:00:14Z",
-    "url": "https://simpleflying.com/ryanair-easyjet-flight-delay-differences/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "09681c473617",
-    "title": "New: United Airlines Schedules Airbus A321XLR Flights On 2 Domestic Routes From Washington DC",
-    "summary": "United will debut its premium Airbus A321XLR domestically from Washington before launching transatlantic flights in December.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-28T21:46:35Z",
-    "url": "https://simpleflying.com/united-airlines-schedules-airbus-a321xlr-flights-2-domestic-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "14c971faa6f4",
-    "title": "For Better Or Worse: How AI Is Impacting The Passenger Experience In America",
-    "summary": "Do AI-assisted platforms in the airline industry deliver on their promise? A look at how passengers are being impacted by advancements in AI.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-28T21:00:14Z",
-    "url": "https://simpleflying.com/how-ai-experiencing-passenger-experience-america/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
