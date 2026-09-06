@@ -1,5 +1,60 @@
 [
   {
+    "id": "494d702aed4e",
+    "title": "Why Pilots Fly Final Approach At Exactly 1.3 Times The Stall Speed",
+    "summary": "The approach is always a highly critical stage of flight, demanding strict adherence to speeds calculated at 1.3 times the stall speed. But why?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T10:00:14Z",
+    "url": "https://simpleflying.com/why-pilots-fly-final-approach-exactly-1-3-times-stall-speed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "90c119be608d",
+    "title": "Delta Air Lines Slashes 4 More Routes From New York & Las Vegas This Winter",
+    "summary": "Domestic links from New York JFK, LaGuardia and Las Vegas will disappear in November and December.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T09:56:29Z",
+    "url": "https://simpleflying.com/delta-air-lines-slashes-4-more-routes-new-york-las-vegas/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "3dc8b3d4a969",
+    "title": "A Look At The Salaries Of Royal Canadian Air Force Fighter Jet Pilots In 2026 & Why They're Still Not Enough",
+    "summary": "Canada may have a small air force compared with its giant USAF counterpart, but it is still struggling to retain enough pilots for the aircraft it has",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T09:30:13Z",
+    "url": "https://simpleflying.com/salaries-royal-canadian-air-force-fighter-jet-pilots-2026-not-enough/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c2749c7726e9",
+    "title": "Alaska Airlines Sued For $521,900 After 11 Japanese Paintings Ruined In Honolulu Rainstorm",
+    "summary": "A shipment of fragile paper paintings was left exposed on a Honolulu ramp during torrential rain.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T06:53:13Z",
+    "url": "https://simpleflying.com/alaska-airlines-lawsuit-japanese-paintings-honolulu-rain-damage/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "09143fb7e64c",
+    "title": "5 Coast Guard Air Stations With The Biggest Search & Rescue Responsibilities",
+    "summary": "A closer look at some of the biggest 'Coastie' air bases.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T04:00:15Z",
+    "url": "https://simpleflying.com/coast-guard-air-stations-rescue-roles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e95d76692402",
     "title": "Why Boeing Must Tear Open 30 Finished 777X Jets Before They Can Ever Fly",
     "summary": "Boeing's 777X program has been plagued with delays, forcing the manufacturer to modify 30 completed aircraft before they can be delivered to airlines.",
@@ -688,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -996,7 +1051,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1040,7 +1095,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1491,7 +1546,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T18:21:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1678,7 +1733,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-08-30T01:45:14Z",
     "url": "https://simpleflying.com/new-luxurious-long-haul-cabin-at-british-airways-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "55b26bc68162",
-    "title": "Six Things Pilots Check Before Flying Into Mountainous Terrain",
-    "summary": "Mountain flying leaves little room for error. These six checks can help pilots manage terrain, weather, aircraft performance, and escape options.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-30T00:00:13Z",
-    "url": "https://simpleflying.com/pilot-checks-mountainous-terrain-flight-operations/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bc09b980aab1",
-    "title": "OneCabin: American Airlines To Launch New Onboard Cleanliness Program From 6 Hubs",
-    "summary": "The airline has faced criticism for the condition of its cabins for years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T21:02:53Z",
-    "url": "https://simpleflying.com/american-airlines-launch-new-onboard-cleanliness-program-6-hubs/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0c0166d22168",
-    "title": "Federal Judge Blasts Southwest Airlines, Rejects Bid To End Flight Attendant Lawsuit",
-    "summary": "Judge refused a belated legal maneuver after Southwest missed key deadlines in a fight over point reductions for protected leave.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T20:01:25Z",
-    "url": "https://simpleflying.com/federal-judge-blasts-southwest-airlines-rejects-bid-end-flight-attendant-lawsuit/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a6461dc84e3a",
-    "title": "The $60,000-Per-Hour Math Behind Moving A Third Of America's B-1B Fleet To England",
-    "summary": "Moving one-third of America's B-1B fleet to England cut flight times, reduced costs and transformed Fairford into a key strike hub.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T20:00:13Z",
-    "url": "https://simpleflying.com/60000-hour-math-moving-third-america-b-1b-fleet-england/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d206f2ec8060",
-    "title": "American Airlines Schedules Caracas Return 10 Weeks After Deadly Earthquakes",
-    "summary": "Caracas reopening brings temporary international gates and a phased return of flights with mixed wide and regional aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T19:26:40Z",
-    "url": "https://simpleflying.com/american-airlines-schedules-caracas-return-after-earthquake/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
