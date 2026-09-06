@@ -1,5 +1,82 @@
 [
   {
+    "id": "e95d76692402",
+    "title": "Why Boeing Must Tear Open 30 Finished 777X Jets Before They Can Ever Fly",
+    "summary": "Boeing's 777X program has been plagued with delays, forcing the manufacturer to modify 30 completed aircraft before they can be delivered to airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T01:30:14Z",
+    "url": "https://simpleflying.com/boeing-tear-open-30-finished-777x-jets-before-ever-fly/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c3204376ef33",
+    "title": "How This Airport Operator Is Worth More Than United Airlines",
+    "summary": "Why this Spanish airport operator has a higher valuation than most of the world's largest airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-06T01:00:13Z",
+    "url": "https://simpleflying.com/how-airport-operator-worth-more-united-airlines/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4e47d0811e1b",
+    "title": "Passengers duct-tape disruptive man to seat as American Airlines flight diverts",
+    "summary": "Passengers helped restrain and duct-tape a disruptive man to his first-class seat aboard an American Airlines flight after&#8230; The post Passengers duct-tape disruptive man to seat as American Airlines flight diverts appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-09-05T22:01:16Z",
+    "url": "https://www.aerotime.aero/articles/passengers-duct-tape-man-american-airlines-flight-diverts",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8774ba89f675",
+    "title": "Why The US Air Force Is Spending Nearly $1 Billion To Rebuild 1 Base For Just 21 F-15EX Jets",
+    "summary": "Purchasing fighter jets and other warplanes, training pilots, building support infrastructure, and maintenance facilities is more expensive.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T22:00:13Z",
+    "url": "https://simpleflying.com/why-usaf-spending-nearly-1-billion-rebuild-base-21-f-15-ex-jets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fc6db10aa8e0",
+    "title": "Greek Air Force F-4 crashes at airshow, killing 2 pilots",
+    "summary": "A Hellenic Air Force F-4 Phantom fighter jet crashed during an airshow near Athens on September 5, 2026,&#8230; The post Greek Air Force F-4 crashes at airshow, killing 2 pilots appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-05T21:48:14Z",
+    "url": "https://www.aerotime.aero/articles/greek-air-force-f4-crashes-athens-airshow-pilots-killed",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "db738884885d",
+    "title": "DHL's 1st Converted Boeing 777 Freighter Has Been Delivered & You Can Track It Live",
+    "summary": "DHL just received its first Mammoth-converted 777 freighter. It matches the factory-built 777F at a fraction of the cost.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T21:00:14Z",
+    "url": "https://simpleflying.com/dhls-first-converted-777-freighter-has-been-delivered-and-you-can-track-it-live/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "54b42d178039",
+    "title": "Delta Air Lines Passenger Allegedly Left With Severe Burns After Inflight Coffee Spill",
+    "summary": "The man describes developing immediate blisters and having no onboard first aid after a hot coffee spill on a San Juan-to-New York flight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-05T20:18:12Z",
+    "url": "https://simpleflying.com/delta-air-lines-passenger-allegedly-left-severe-burns-inflight-coffee-spill/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "2c17e9a3de08",
     "title": "Delta Air Lines Launches 5 New Nonstop Long-Haul Routes: See Flights Now",
     "summary": "The airline has targeted some new markets.",
@@ -611,7 +688,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -919,7 +996,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -963,7 +1040,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1414,7 +1491,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T18:21:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/training-and-safety-tip-clock-the-crosswind?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1601,7 +1678,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-08-29T19:26:40Z",
     "url": "https://simpleflying.com/american-airlines-schedules-caracas-return-after-earthquake/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "88e6523459a7",
-    "title": "Only 60% Full: Southwest's 11 Emptiest Routes From This Massive Airport [Map]",
-    "summary": "Can you guess where they are?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T18:00:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-emptiest-denver-routes/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f3d66bc619c5",
-    "title": "5 Airlines Where Extra Legroom Economy Is The Smarter Buy Than Premium Economy In 2026",
-    "summary": "Such a move can be an excellent choice if all you need is more legroom.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T18:00:14Z",
-    "url": "https://simpleflying.com/airlines-extra-legroom-economy-smarter-buy-premium-economy-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b2849fc0120b",
-    "title": "How A 1960 Douglas DC-8 Test Flight Invented Airliner Re-Engining Decades Before The CFM56",
-    "summary": "The test flight showed that changing the engines could address some of the early performance issues without replacing the airframe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T17:00:14Z",
-    "url": "https://simpleflying.com/how-1960-douglas-dc-8-test-flight-invented-airliner-reegining-decades-before-cfm56/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d533d70395e2",
-    "title": "Only 5 Hours: Inside United Airlines' New Shortest Nonstop Route To Europe [Map]",
-    "summary": "The new corridor will commence operations next June.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T16:00:13Z",
-    "url": "https://simpleflying.com/united-airlines-shortest-europe-route/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1e0c1d7499eb",
-    "title": "The Boeing 777X\u2019s Unique Cabin Design That Sets It Apart From Others",
-    "summary": "The Boeing 777X is set to shake up the commercial aviation market when it arrives in 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T09:15:13Z",
-    "url": "https://simpleflying.com/how-boeing-777x-unique-cabin-design-sets-it-apart-others/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8a64507ce0a",
-    "title": "The Scripted Phrases Airline Pilots Recite To Themselves To Avoid Fatal Decisions",
-    "summary": "Pilots work together to ensure the safety of all on board. They do so by calling out various phrases that keep the mental picture identical.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T08:00:14Z",
-    "url": "https://simpleflying.com/scripted-phrases-airline-pilots-recite-themselves-avoid-fatal-decisions/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "06d2b5d78499",
-    "title": "Passenger Finds Anti-Israel Note Hidden In Suitcase After Alaska Airlines-El Al Trip",
-    "summary": "A passenger flying from Seattle to Tel Aviv discovered a crude handwritten slur tucked inside her checked luggage.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-08-29T07:52:37Z",
-    "url": "https://simpleflying.com/anti-israel-note-hidden-checked-bag-alaska-airlines-el-al/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
