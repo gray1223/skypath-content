@@ -1,12 +1,100 @@
 [
   {
+    "id": "e597793d9176",
+    "title": "Air Transat Launches New 11-Hour Nonstop Transatlantic Route In 1 Month: See Flights Now",
+    "summary": "The leisure airline will double its routes to this enormous destination with 18 million people. See more now!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T20:00:13Z",
+    "url": "https://simpleflying.com/air-transat-launches-new-11-hour-nonstop-transatlantic-route-in-1-month/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f5a687d7b13d",
+    "title": "Turkish Airlines Scores Major $400 Million Liverpool FC Sponsorship Deal",
+    "summary": "Turkish Airlines will replace Standard Chartered on Liverpool's shirt in a five-year sponsorship agreement reportedly worth more than $400 million.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T19:37:17Z",
+    "url": "https://simpleflying.com/turkish-airlines-liverpool-fc-400-million-sponsorship-deal/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c1cd4251645b",
     "title": "Training and Safety Tip: Listen to the whole ATIS",
     "summary": "Preparing for a recent flight, my instructor-rated passenger and I were looking forward to a fun morning under the foggles. I wanted to practice some simulated instrument flying and shoot some approaches, and he was along as my safety pilot.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-08T19:06:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/08/training-and-safety-tip-listen-to-the-whole-atis?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/08/training-and-safety-tip-listen-to-the-whole-atis?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "37efc2ca0ada",
+    "title": "Why Delta Air Lines Is Cutting This Surprising Route From The USA's Largest City [Map]",
+    "summary": "Delving into the numbers, it is clear to see why flights are ending. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T19:00:14Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-is-cutting-this-surprising-route-from-the-usas-largest-city/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "19e9753a6c0a",
+    "title": "Airlines fume as UK air traffic control failure disrupts nearly 1,000 flights",
+    "summary": "A technical failure at the United Kingdom\u2019s air traffic control provider disrupted nearly 1,000 flights on September 8,&#8230; The post Airlines fume as UK air traffic control failure disrupts nearly 1,000 flights appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-09-08T18:25:44Z",
+    "url": "https://www.aerotime.aero/articles/uk-air-traffic-control-failure-disrupts-1000-flights",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d5e573fd38cd",
+    "title": "Rotax Orders Turbo Part Replacement Before Next Flight",
+    "summary": "Alert service bulletin covers certain 915 and 916 engines after a supplier manufacturing defect was linked to a possible engine-compartment fire.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-08T18:06:17Z",
+    "url": "https://avweb.com/aviation-news/rotax-orders-turbo-service-before-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2d18eff0b2a6",
+    "title": "Air Cairo orders 15 Airbus A320neos in fleet expansion",
+    "summary": "Air Cairo has placed a firm order with Airbus for 15 A320neo airliners as the Egyptian carrier continues&#8230; The post Air Cairo orders 15 Airbus A320neos in fleet expansion appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-08T18:04:13Z",
+    "url": "https://www.aerotime.aero/articles/air-cairo-orders-15-airbus-a320neo-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "84f5d983d1ae",
+    "title": "5 Airline Loyalty Programs Still Handing Elites Free Lie-Flat Business Class Upgrades In 2026",
+    "summary": "In an era where free upgrades seem to be scarce, these airlines are still rewarding the most loyal travelers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T17:00:14Z",
+    "url": "https://simpleflying.com/5-airline-loyalty-programs-still-handing-elites-free-lie-flat-business-class-upgrades-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c13250e73f16",
+    "title": "New Sanctions: What Impact The US Will Have On Iranian Airlines",
+    "summary": "The latest batch of sanctions against the US aviation sector targets Iranian airlines and the third-country firms that assist them.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T16:56:54Z",
+    "url": "https://simpleflying.com/us-applies-new-sanctions-iranian-aviation/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1491,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1711,7 +1799,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1755,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-01T22:00:13Z",
     "url": "https://simpleflying.com/fully-certified-airliners-never-entered-service/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1d00f3b69df9",
-    "title": "What Pilots Actually Do Between Cruise & Touchdown To Choreograph The Perfect Landing",
-    "summary": "A landing starts 120 miles from the airport at 35,000 feet. Here is what pilots do between cruise and touchdown to set it up.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T22:00:13Z",
-    "url": "https://simpleflying.com/what-pilots-do-between-cruise-touchdown-choreograph-perfect-landing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6d897142d8c6",
-    "title": "GA Pilots, Prepare for More Traffic at Washington Manassas Airport",
-    "summary": "FAA authorization for commercial service will raise activity at Virginia\u2019s busiest general aviation facility.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-01T20:56:19Z",
-    "url": "https://www.flyingmag.com/ga-pilots-commercial-aviation-manassas-airport/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "27a68f8bbd45",
-    "title": "Navy Seeks Carrier-Based Autonomous Combat Aircraft",
-    "summary": "RFI calls for two prototypes capable of catapult launches, arrested landings and carrying as much as 10,000 pounds of external weapons.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-01T20:04:24Z",
-    "url": "https://avweb.com/aviation-news/navy-carrier-autonomous-combat-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a65222defef0",
-    "title": "United Airlines Launches 14 Massive New Nonstop Routes From Major Hub: Full List Now",
-    "summary": "They contribute to the carrier having the most flights ever from this hub. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T20:00:13Z",
-    "url": "https://simpleflying.com/united-airlines-launches-14-massive-new-nonstop-routes-from-major-hub/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e58c062cc5f4",
-    "title": "The 5 US Pacific Air Bases The Pentagon Quietly Flagged For Crumbling Infrastructure",
-    "summary": "Numerous air bases in the Pacific are in need of investment due to both crumbling infrastructure and new requirements.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T20:00:13Z",
-    "url": "https://simpleflying.com/5-us-pacific-air-bases-pentagon-quietly-flagged-crumbing-infrastructure/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "568558162e0c",
-    "title": "Why Delta Air Lines Is Suddenly Canceling This 11-Hour Nonstop Route [Map]",
-    "summary": "Given how badly the airline did the first time, it's a wonder a second attempt is being made at all. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T19:00:14Z",
-    "url": "https://simpleflying.com/why-delta-air-lines-is-suddenly-canceling-this-11-hour-nonstop-route/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "cea60e65249c",
-    "title": "Why Ex-Spirit Airlines Flight Attendants Aren't Happy About Google's Large Data Purchase",
-    "summary": "An unusual case that could leak flight attendant's personal information.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T19:00:14Z",
-    "url": "https://simpleflying.com/why-ex-spirit-airlines-flight-attendants-arent-happy-google-large-data-purchase/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ebb6e9b99664",
-    "title": "Boeing 737 MAX Victim-Fund Payments Set To Begin",
-    "summary": "The $444.5 million fund covers the estates of 346 people killed in the Lion Air Flight 610 and Ethiopian Airlines Flight 302 accidents.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-09-01T18:33:31Z",
-    "url": "https://avweb.com/flight-safety/accidents-ntsb/boeing-737-max-victim-fund-payments-begin/",
     "airlineTag": null,
     "isBreaking": false
   }
