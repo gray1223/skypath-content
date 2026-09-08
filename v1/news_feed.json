@@ -1,5 +1,60 @@
 [
   {
+    "id": "4b88977338a0",
+    "title": "Scrapped But Not Gone: Iconic Icelandair Boeing 757 Turned Into Keychains",
+    "summary": "Icelandair\u2019s storied 757 received a swift retirement in Lleida, then sections of its Northern Lights paint were rescued.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T10:02:44Z",
+    "url": "https://simpleflying.com/icelandair-northern-lights-boeing-757-upcycled-aviationtag/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a8ac5c9f04fa",
+    "title": "Trump threatens to ban Bombardier jet sales unless production moves to US",
+    "summary": "US President Donald Trump&#160;has declared that&#160;Bombardier will&#160;no longer&#160;be&#160;permitted&#160;to&#160;sell&#160;aircraft&#160;in the United States unless it manufactures them there, in a&#8230; The post Trump threatens to ban Bombardier jet sales unless prod...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-08T08:29:20Z",
+    "url": "https://www.aerotime.aero/articles/trump-bombardier-us-sales-ban-threat",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3c001dd55959",
+    "title": "The 20-Cent Hourly Pay Gap That Could Quietly Decide Which Legacy Airline Pilots Choose In 2026",
+    "summary": "Per diem rates are unique at each airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T08:00:14Z",
+    "url": "https://simpleflying.com/20-cent-hourly-pay-gap-pilots-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f744401c111c",
+    "title": "\"Pretty Traumatic\": Delta Boeing 737 Drops To 9,000 Feet As Oxygen Masks Deploy",
+    "summary": "The short flight was interrupted by an emergency landing.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-08T07:46:14Z",
+    "url": "https://simpleflying.com/delta-boeing-737-traumatic-9000-feet-oxygen-masks-las-vegas/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "97c6fee8e276",
+    "title": "The 382-Seat Airbus Replacing This Airline's Boeing 777 On 15-Hour Pacific Routes",
+    "summary": "The carrier is planning to grow again.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T05:00:14Z",
+    "url": "https://simpleflying.com/382-seat-airbus-replacing-airline-boeing-777-15-hour-pacific-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "07b8e291b76e",
     "title": "5 Airlines With The World's Most Superior Premium Economy Seats For Transatlantic Flights",
     "summary": "Often, a good premium economy experience boils down to more about the service and catering than the seat itself.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-01T10:35:14Z",
     "url": "https://simpleflying.com/singapore-airlines-launches-this-new-8-hour-nonstop-route-in-2-months/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "907de8b55dbe",
-    "title": "Turkish F-16 fighters scramble after drones cross into Estonia\u2019s airspace",
-    "summary": "Turkish Air Force F-16 fighters deployed to&#160;\u00c4mari&#160;Air Base in Estonia scrambled early on September 1, 2026, after drones&#8230; The post Turkish F-16 fighters scramble after drones cross into Estonia\u2019s airspace appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-01T08:02:28Z",
-    "url": "https://www.aerotime.aero/articles/turkish-f16s-scramble-drones-estonian-airspace",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "711143537fed",
-    "title": "Turkish F-16\u00a0fighters\u00a0scramble after drones\u00a0cross\u00a0into\u00a0Estonia\u2019s airspace",
-    "summary": "Turkish Air Force F-16 fighters deployed to \u00c4mari Air Base in Estonia scrambled early on September 1, 2026, after drones&#8230; The post Turkish F-16 fighters scramble after drones cross into Estonia\u2019s airspace appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-01T08:02:28Z",
-    "url": "https://www.aerotime.aero/articles/turkish-f16s-scramble-drones-estonian-airspace",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c8a4bede1107",
-    "title": "Meet the people behind flight service",
-    "summary": "Some pilots are surprised to learn that flight service specialists still exist. They assume 1-800-WX-BRIEF is an automated recording, or the job disappeared years ago.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-01T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/01/meet-the-people-behind-flight-service?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aad2d40e26d5",
-    "title": "United Airlines' New App Tool Lets Delayed Flyers Stand By For 3 Earlier Flights",
-    "summary": "New features are coming to the United app in time for the Labor Day rush.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T07:20:18Z",
-    "url": "https://simpleflying.com/united-app-standby-three-earlier-flights-delays/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6273820f0220",
-    "title": "American Airlines To Contribute $1,000 Per Employee Child To Trump Accounts",
-    "summary": "American joins major employers supporting a new child investment account with payroll matches and long term growth.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T00:07:48Z",
-    "url": "https://simpleflying.com/american-airlines-to-contribute-1000-per-employee-child-to-trump-accounts/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
