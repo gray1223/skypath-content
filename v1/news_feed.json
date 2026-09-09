@@ -1,5 +1,93 @@
 [
   {
+    "id": "ce2eb346a54b",
+    "title": "Aviation Groups Seek Uniform Safety Rules for Part 91, 125, 135 Operators",
+    "summary": "NBAA, AOPA, and others urge FAA to extend proposed Part 121 uniform rest and duty standards to more operators.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-09T19:30:00Z",
+    "url": "https://www.flyingmag.com/aviation-groups-safety-rules-faa-part-91-125-135/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7a511abba6af",
+    "title": "NTSB Data: Go-Around Thrust After Miami 767 Touchdown",
+    "summary": "Flight recorder data shows the throttles advanced after the brakes were released before returning to idle four seconds later.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-09-09T19:14:29Z",
+    "url": "https://avweb.com/aviation-news/ntsb-go-around-thrust-miami-touchdown-767/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5c74d52215b3",
+    "title": "Alaska Airlines Unveils Record 50th Nonstop Route From Major US Airport: See Full List",
+    "summary": "The carrier's capacity at San Diego has jumped by 38% in 2026, with 2.3 million more seats added. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-09T19:00:14Z",
+    "url": "https://simpleflying.com/alaska-airlines-unveils-record-50th-nonstop-route-from-major-us-airport/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c514ccb52ad1",
+    "title": "First Dutch Pilatus PC-7 MKX flies as Europe revamps military training fleets",
+    "summary": "The first Pilatus PC-7 MKX for the Royal Netherlands Air Force completed its maiden flight, advancing a training&#8230; The post First Dutch Pilatus PC-7 MKX flies as Europe revamps military training fleets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-09T18:53:11Z",
+    "url": "https://www.aerotime.aero/articles/first-dutch-pilatus-pc-7-mkx-flight",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "34ed19b91f57",
+    "title": "Archer Begins \u2018No Roads\u2019 Tour With Piloted Midnight Flights",
+    "summary": "Archer Aviation\u2019s Midnight eVTOL completed a piloted round trip between Salinas and Hollister as the company expands its \u201cNo Roads\u201d flight tour.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-09T18:39:59Z",
+    "url": "https://avweb.com/aviation-news/archer-midnight-evtol-no-roads-tour/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cfa69b091328",
+    "title": "\u201cEasy Access\u201d: United Airlines Testing Mobile App Food Delivery-To-Gate At Newark Liberty",
+    "summary": "United and OTG trial a gate delivery option for food and essentials that could reshape preflight routines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-09T17:18:44Z",
+    "url": "https://simpleflying.com/united-airlines-testing-mobile-app-food-delivery-gate-newark-liberty/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "bd01c25a16f6",
+    "title": "House Report Calls for Study of Brain Injuries in Navy Pilots",
+    "summary": "A House report says the Navy failed to adequately investigate possible long-term brain injuries among aviators.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-09-09T16:08:08Z",
+    "url": "https://avweb.com/aviation-news/navy-pilot-brain-injuries-house-report/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f698c26d8fca",
+    "title": "Father, son charged with theft from flight students",
+    "summary": "A father and son who sold their three-year-old Georgia flight school in 2024 were arrested September 4 on theft and racketeering charges in a case that began when several students complained of discrepancies in their flight school accounts following the sale.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-09-09T15:49:51Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/09/father-son-charged-with-theft-from-flight-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "6a0d5973d35b",
     "title": "Aviation Groups Urge FAA to Assert Federal Authority Over Pilot Duty, Rest Rules",
     "summary": "Aviation groups are urging the FAA to establish a uniform federal standard for flightcrew meal and rest requirements.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-09-02T23:23:45Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ceadb7481dea",
-    "title": "Man Admits He Has \u201cA Bomb\u201d To American Airlines Gate Agent At Miami International Airport",
-    "summary": "It is the latest in a spate of bomb-related incidents involving passengers at Miami.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T21:46:00Z",
-    "url": "https://simpleflying.com/man-admits-bomb-american-airlines-gate-agent-miami/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2a1b7d23c8b9",
-    "title": "5 US Navy Aviation Squadrons Taking On Bigger Roles In The Pacific",
-    "summary": "America's Navy is upgrading its forward-deployed airpower across the board.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T21:00:14Z",
-    "url": "https://simpleflying.com/us-navy-squadrons-bigger-pacific-roles/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "99377fb3e309",
-    "title": "Ryanair warns some European airlines may not survive winter fuel crisis",
-    "summary": "Ryanair is cutting its passenger growth target and holding winter capacity roughly flat, while warning that some less-protected&#8230; The post Ryanair warns some European airlines may not survive winter fuel crisis appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-02T20:57:30Z",
-    "url": "https://www.aerotime.aero/articles/ryanair-warns-airlines-winter-fuel-crisis",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4abffa945e50",
-    "title": "FAA Denies Hawaii Helicopter Operator\u2019s Bid to Resume Ocean Jumps",
-    "summary": "The FAA has rejected Trident Adventures\u2019 request to resume helicopter \u201chelocast\u201d tours that let passengers jump into the ocean from 10 to 35 feet.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-02T19:03:15Z",
-    "url": "https://avweb.com/aviation-news/faa-hawaii-trident-adventures-helicopter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a6191c8acdde",
-    "title": "Delta Air Lines Enhances SkyMiles For Business Investment For High-Tier Travelers",
-    "summary": "The carrier is expanding account management and offering new benefits for travel flexibility.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T18:00:14Z",
-    "url": "https://simpleflying.com/delta-air-lines-enhances-skymiles-business-investment-high-tier-travelers/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "cc9a5c7d1b60",
-    "title": "FAA Deploys 100th Surface Surveillance System in ATC Modernization Push",
-    "summary": "FAA has installed its 100th Surface Awareness Initiative system as part of an accelerated effort to expand airport surface surveillance.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-02T17:46:00Z",
-    "url": "https://avweb.com/aviation-news/faa-100th-surface-awareness-initiative/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "60305fe83dcb",
-    "title": "Southwest to open its first lounges in Austin, Baltimore, Honolulu and Nashville",
-    "summary": "Southwest Airlines is taking another major step away from the bare-bones business model that defined the carrier for&#8230; The post Southwest to open its first lounges in Austin, Baltimore, Honolulu and Nashville appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-02T17:23:20Z",
-    "url": "https://www.aerotime.aero/articles/southwest-first-airport-lounges-austin-baltimore-honolulu-nashville",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "24578d49ae8b",
-    "title": "American Airlines Launches 21 Nonstop Routes From Philadelphia To Europe [List & Map]",
-    "summary": "American Airlines is doubling down on Philadelphia, where 21 nonstop European routes underscore its role as the carrier\u2019s transatlantic powerhouse.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T16:11:01Z",
-    "url": "https://simpleflying.com/american-launches-21-nonstop-routes-from-philadelphia-to-europe/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
