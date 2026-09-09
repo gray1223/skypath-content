@@ -1,5 +1,60 @@
 [
   {
+    "id": "ed719fe21e07",
+    "title": "Singapore Airlines Has Cut All Flights To This Major US Airport: List & Map",
+    "summary": "The carrier targeted energy and executive traffic with a rare Russia routing and, later on, Manchester's links to Texas.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-09T00:00:13Z",
+    "url": "https://simpleflying.com/singapore-airlines-has-cut-all-flights-to-this-major-us-airport/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6a88f6fe674f",
+    "title": "TSA\u2019s New Gatecheck Program Lets PreCheck Members Pass Security Without Flying",
+    "summary": "TSA PreCheck members can now clear security without flying at 13 US airports through Gateside, opening new options for meetups, lounges and more.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T22:32:19Z",
+    "url": "https://simpleflying.com/tsa-gatcheck-program-precheck-pass-security-without-flying/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dda693071849",
+    "title": "easyJet faces $72 million lawsuit from Russian-owned lessor over stranded jets",
+    "summary": "British low-cost airline easyJet faces a lawsuit seeking at least $72 million over six leased Airbus aircraft it&#8230; The post easyJet faces $72 million lawsuit from Russian-owned lessor over stranded jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-08T21:47:09Z",
+    "url": "https://www.aerotime.aero/articles/easyjet-russian-lessor-72-million-lawsuit",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4e49fad144cd",
+    "title": "Airbus Wins AIRCAIRO Narrowbody Order With Deal For 15 A320neo Jets",
+    "summary": "Ownership shift signals deeper investment in network expansion and tourism as fleet scales toward 130 aircraft by 2034.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-08T21:37:13Z",
+    "url": "https://simpleflying.com/airbus-aircairo-narrowbody-order-a320neo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d002d81e006f",
+    "title": "Rare DC-8 freighter veers off runway, collapses nose gear in Kinshasa",
+    "summary": "One of the world\u2019s last operational Douglas DC-8s suffered serious damage after overrunning the runway while landing in&#8230; The post Rare DC-8 freighter veers off runway, collapses nose gear in Kinshasa appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-08T21:14:30Z",
+    "url": "https://www.aerotime.aero/articles/rare-dc-8-freighter-runway-excursion-kinshasa",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e597793d9176",
     "title": "Air Transat Launches New 11-Hour Nonstop Transatlantic Route In 1 Month: See Flights Now",
     "summary": "The leisure airline will double its routes to this enormous destination with 18 million people. See more now!",
@@ -28,7 +83,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-08T19:06:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/08/training-and-safety-tip-listen-to-the-whole-atis?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/08/training-and-safety-tip-listen-to-the-whole-atis?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -41,6 +96,17 @@
     "publishedDate": "2026-09-08T19:00:14Z",
     "url": "https://simpleflying.com/why-delta-air-lines-is-cutting-this-surprising-route-from-the-usas-largest-city/",
     "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "12e7267e29e5",
+    "title": "Airlines fume as UK air traffic control failure disrupts more than 1,000 flights",
+    "summary": "A technical failure at the United Kingdom\u2019s air traffic control provider disrupted more than 1,000 flights on September&#8230; The post Airlines fume as UK air traffic control failure disrupts more than 1,000 flights appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-09-08T18:25:44Z",
+    "url": "https://www.aerotime.aero/articles/uk-air-traffic-control-failure-disrupts-1000-flights",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -1491,7 +1557,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1865,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-03T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/weeklong-aviation-celebration-coming-to-dayton-area?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1843,7 +1909,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-02T23:23:45Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/02/aopa-member-honored-by-county-for-airport-advocacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-09-02T07:43:23Z",
     "url": "https://simpleflying.com/american-airlines-union-ice-airport-passenger-danger-warning/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e49596d9355c",
-    "title": "Commercial Flights Return Today To Venezuela's Main Airport 10 Weeks After Deadly Earthquakes",
-    "summary": "Commercial flights have returned to Caracas, but Venezuela's main airport remains far from fully recovered.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T02:35:39Z",
-    "url": "https://simpleflying.com/commercial-flights-venezuela-airport-10-weeks-deadly-earthquakes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8261a47374d0",
-    "title": "This Might Be Delta Air Lines' Greatest Asset From Merging With Northwest Airlines",
-    "summary": "The SkyTeam founding member inherited quite a lot from the famous merger.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T01:15:14Z",
-    "url": "https://simpleflying.com/delta-air-lines-greatest-asset-merger-with-northwest-airlines/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "fe194cba37b2",
-    "title": "JetBlue Officially Unveils BlueFirst First Class While Slashing Economy Legroom By 2.3 Inches",
-    "summary": "The new product is expected to be available in the coming months.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T00:04:31Z",
-    "url": "https://simpleflying.com/jetblue-unveils-bluefirst-first-class-slashing-economy-legroom-23-inches/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "cf35ea374ea3",
-    "title": "Why The 3 Major US Airline Pilot Pipelines Are Selecting Completely Different Candidates In 2026",
-    "summary": "What the prospects are for aspiring aviators in America.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-02T00:00:13Z",
-    "url": "https://simpleflying.com/why-3-major-us-airline-pilot-pipelines-selecting-different-candidates-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b0bac00ae63b",
-    "title": "United Airlines Cuts 10 Routes From The World's Busiest Airport: See Flights Now",
-    "summary": "The routes appear to have been removed temporarily.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T23:48:43Z",
-    "url": "https://simpleflying.com/united-airlines-cuts-10-routes-from-the-worlds-busiest-airport/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c4caf1b5a1ab",
-    "title": "5 Aircraft That Got Remarkably Close To Service Before Their Programs Collapsed",
-    "summary": "These five aircraft were almost ready for commercial service but never carried any passengers in the end.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-01T22:00:13Z",
-    "url": "https://simpleflying.com/fully-certified-airliners-never-entered-service/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
