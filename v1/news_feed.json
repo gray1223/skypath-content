@@ -1,5 +1,60 @@
 [
   {
+    "id": "d4e1a954c2df",
+    "title": "FAA proposes ending diabetes special issuance requirement",
+    "summary": "The FAA has proposed enabling aviation medical examiners to issue certificates on the spot to pilots with diabetes who are not insulin-dependent, and are otherwise medically qualified, ending the longstanding practice of special issuance deferral in such cases.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-09-10T22:03:14Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "98207f225b29",
+    "title": "Bye eFlyer 2 Gets FAA Special Airworthiness Certificate",
+    "summary": "Milestone sets the stage for flight testing.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-10T20:01:50Z",
+    "url": "https://www.flyingmag.com/bye-eflyer-2-gets-faa-special-airworthiness-certificate/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aebb6177cf4b",
+    "title": "United Cancels Planned 9/11 Flyover",
+    "summary": "The Denver tribute would have paired a Boeing 777 with four F-16s on the 25th anniversary of the attacks.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-10T19:44:46Z",
+    "url": "https://avweb.com/aviation-news/united-cancels-planned-9-11-flyover/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "47e4f851c2f4",
+    "title": "Wayfarer Tests Retractable Electric Propellers on Cessna 182",
+    "summary": "NASA-backed program used a one-third-scale 182 demonstrator to test a blown-wing retrofit.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-10T18:26:24Z",
+    "url": "https://avweb.com/aviation-news/wayfarer-electric-propellers-cessna-182/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "97a65512ebaf",
+    "title": "Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations",
+    "summary": "Weeklong campaign will include flights at Dallas/Fort Worth International and Perot Field Fort Worth Alliance airports.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-10T16:30:00Z",
+    "url": "https://www.flyingmag.com/texas-joby-faa-backed-air-taxi-airport-demos/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "7a3fbf37c27d",
     "title": "Delta Air Lines Cuts 8 Routes From The World's Busiest Airport: See Affected Flights",
     "summary": "Delta has removed eight Atlanta routes, but strong load factors show several cuts were about more than weak demand.",
@@ -8,6 +63,17 @@
     "publishedDate": "2026-09-10T15:37:54Z",
     "url": "https://simpleflying.com/delta-cuts-8-routes-from-worlds-busiest-airport/",
     "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "bbb0b9aaefa0",
+    "title": "France orders eight Airbus U050 Capa-X drones after trials",
+    "summary": "The French armed forces have ordered eight Airbus U050 Capa-X uncrewed aircraft for the French Army and Navy&#8230; The post France orders eight Airbus U050 Capa-X drones after trials appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-10T14:59:24Z",
+    "url": "https://www.aerotime.aero/articles/france-airbus-u050-capa-x-drone-order",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-03T17:00:14Z",
     "url": "https://simpleflying.com/why-air-force-sending-f-15ex-seymour-johnson-strike-eagles-b-2-stealth-base/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a26f508679f4",
-    "title": "After 2,000 E-Jet Deliveries, What\u2019s Next for Embraer\u2019s Popular Family?",
-    "summary": "Manufacturer continues to secure orders for the second-generation E2 while contending with development delays.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-03T16:00:00Z",
-    "url": "https://www.flyingmag.com/2000-e-jet-deliveries-whats-next-embraer/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "29f9a5638e55",
-    "title": "Boeing\u2019s $3.1 Million FAA Fine Payment Went Undisclosed",
-    "summary": "The penalty covered 737 production and safety violations cited by the agency.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-03T15:42:35Z",
-    "url": "https://avweb.com/aviation-news/boeing-3-1-million-fine-went-undisclosed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "97d880cf213c",
-    "title": "How A 124-Seat Regional Jet Is Quietly Taking Over 2,000-Mile Leisure Routes On 4 Continents",
-    "summary": "The impact of the Embraer E2.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T15:00:13Z",
-    "url": "https://simpleflying.com/how-124-seat-regional-jet-quietly-taking-over-2000-mile-leisure-routes-4-continents/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6e4c0d220ad7",
-    "title": "TAP Air Portugal Launches New 9-Hour Nonstop US Route In 1 Month: See Flights Now",
-    "summary": "TAP\u2019s new Orlando route drives targeted US growth as the airline expands its winter transatlantic network.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T14:21:58Z",
-    "url": "https://simpleflying.com/tap-air-portugal-launches-new-9-hour-us-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eaaf827c1f66",
-    "title": "FAA Proposes Easing Diabetes Medical Rules",
-    "summary": "Pilots whose diabetes is controlled without insulin could potentially receive medical certificates directly from an AME.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-03T14:20:26Z",
-    "url": "https://avweb.com/flight-safety/aeromedical/faa-proposes-easing-diabetes-medical-rules/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6ce7dbe64ec6",
-    "title": "This 1962 Cessna 182E Skylane Is an Honest \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "IFR-equipped classic features modern Garmin avionics, low-time scimitar propeller, and extended-range fuel tanks.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-03T14:07:28Z",
-    "url": "https://www.flyingmag.com/this-1962-cessna-182e-skylane-is-an-honest-aircraftforsale-top-pick/",
     "airlineTag": null,
     "isBreaking": false
   }
