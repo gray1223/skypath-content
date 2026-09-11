@@ -1,5 +1,49 @@
 [
   {
+    "id": "d2b7aadb6c59",
+    "title": "The Boeing 777X's Folding Wingtips: Why No Other Airliner Has Ever Had This",
+    "summary": "Folding wingtips are not something that has been commonplace in aviation, so why has Boeing now decided to go all in on the technology?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T01:00:14Z",
+    "url": "https://simpleflying.com/boeing-777x-commercial-airliner-folding-wingtips/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "db09562d41a1",
+    "title": "Why The US Air Force Relied On A Single Texas C-130 Wing For The Entire Pacific's Valiant Shield 2026",
+    "summary": "The vital mission of Airmen on far-flung islands across the Pacific.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T00:00:13Z",
+    "url": "https://simpleflying.com/why-usaf-relied-single-texas-c-130-wing-entire-pacific-valiant-shield-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ff02f0139255",
+    "title": "Delta Air Lines Boeing 757-200 Returns To New York-JFK Due To Pressurization Issues",
+    "summary": "Delta's latest Boeing 757 pressurization incident comes as the airline gradually replaces its nearly 30-year-old fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T22:46:34Z",
+    "url": "https://simpleflying.com/delta-air-lines-boeing-757-200-return-jfk-pressurization-issues/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "69ee7c044050",
+    "title": "Indian firms sign preliminary deals for 85 Russian Il-114-300 turboprops",
+    "summary": "Two Indian aviation companies have signed preliminary agreements for 85 Russian-built Ilyushin Il-114-300 turboprops, giving Russia\u2019s United Aircraft&#8230; The post Indian firms sign preliminary deals for 85 Russian Il-114-300 turboprops appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-10T22:33:27Z",
+    "url": "https://www.aerotime.aero/articles/indian-firms-sign-preliminary-deals-for-85-russian-il-114-300-turboprops",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "d4e1a954c2df",
     "title": "FAA proposes ending diabetes special issuance requirement",
     "summary": "The FAA has proposed enabling aviation medical examiners to issue certificates on the spot to pilots with diabetes who are not insulin-dependent, and are otherwise medically qualified, ending the longstanding practice of special issuance deferral in such cases.",
@@ -8,6 +52,61 @@
     "publishedDate": "2026-09-10T22:03:14Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1e97ad67b89c",
+    "title": "United cancels Denver 9/11 flyover after community concerns",
+    "summary": "United Airlines has canceled a planned Boeing 777 flyover with F-16 fighter escorts in Denver after community concerns&#8230; The post United cancels Denver 9/11 flyover after community concerns appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-10T22:01:00Z",
+    "url": "https://www.aerotime.aero/articles/united-cancels-denver-911-memorial-flyover",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "14bca4269ba0",
+    "title": "Alaska Airlines Is Fighting Delta's 180-Jet Widebody Fleet With Just 7 Boeing 787-9s",
+    "summary": "A closer look at why Alaska Airlines' widebody fleet doesn't need to be large to seriously change Delta's intercontinental network at Seattle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T22:00:14Z",
+    "url": "https://simpleflying.com/alaska-airlines-fighting-delta-180-widebody-jet-fleet-7-boeing-787-9s/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "ea6274a16979",
+    "title": "US Senators Urge Delta Air Lines To Remain Neutral On Flight Attendant Union",
+    "summary": "Senators press Delta CEO to stay hands off as flight attendants allege managerial pushback over organizing efforts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T21:42:54Z",
+    "url": "https://simpleflying.com/us-senators-delta-air-lines-remain-neutral-flight-attendant-union/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "00491ddede70",
+    "title": "The US Air Force's Plan To Fly The C-17 Until 2075 While Its Replacement Exists Only On Paper",
+    "summary": "Why the USAF is working to sustain its C-17 fleet and possibly restart production, even as it looks to develop the NGAL replacement.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T21:00:14Z",
+    "url": "https://simpleflying.com/usaf-plan-fly-c-17-2075-replacement-exists-paper/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f0c765561250",
+    "title": "United Airlines\u2019 CEO Credits His Card Counting & Gambling Skill For Being Banned From Casinos",
+    "summary": "United's CEO honed blackjack techniques in Atlantic City and Las Vegas until casinos flagged his play and barred him.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T20:27:12Z",
+    "url": "https://simpleflying.com/united-airlines-ceo-credits-card-counting-gambling-skill-banned-casinos/",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -30,6 +129,28 @@
     "publishedDate": "2026-09-10T19:44:46Z",
     "url": "https://avweb.com/aviation-news/united-cancels-planned-9-11-flyover/",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a95bbc8fdbf3",
+    "title": "Allegiant Air Cuts Massive 41 Routes To Florida: See Full List Now",
+    "summary": "Over half of them ended in 2026, including many in August. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T19:00:14Z",
+    "url": "https://simpleflying.com/allegiant-air-cuts-massive-41-routes-to-florida/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2d7945a81940",
+    "title": "5 Forgotten Pacific Airfields From History That Are Quietly Returning To Frontline US Air Force Service In 2026",
+    "summary": "The revitalization campaign to restore America's chain of Pacific air bases.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-10T19:00:14Z",
+    "url": "https://simpleflying.com/5-forgotten-pacific-airfields-history-quietly-returning-frontline-usaf-service-2026/",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2076,127 +2197,6 @@
     "publishedDate": "2026-09-03T20:07:32Z",
     "url": "https://simpleflying.com/united-airlines-new-ski-season-special-livery-embraer-e175/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "52b584b54baf",
-    "title": "JetBlue unveils BlueFirst, its first-ever domestic first-class cabin",
-    "summary": "JetBlue has unveiled BlueFirst, its first-ever traditional domestic first-class cabin, marking a major change for an airline that&#8230; The post JetBlue unveils BlueFirst, its first-ever domestic first-class cabin appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-03T20:02:15Z",
-    "url": "https://www.aerotime.aero/articles/jetblue-bluefirst-first-domestic-first-class-cabin",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "456f6d2c03f4",
-    "title": "GAO Urges FAA Review Of A&P Testing Barrier",
-    "summary": "Students in some high school maintenance programs face additional requirements before they can take the FAA\u2019s general knowledge test.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-03T19:49:11Z",
-    "url": "https://avweb.com/aviation-news/gao-urges-faa-review-ap-testing-barrier/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2044443a1706",
-    "title": "Texas legislature holds first GA subcommittee hearing",
-    "summary": "AOPA is known for its strong advocacy for general aviation pilots at the federal, state, and local levels. While we regularly cover \"wins\" and major issues when they arise, it can be a challenge to demonstrate how AOPA advocates on behalf of members every day.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-03T19:20:09Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/03/texas-legislature-holds-first-ga-subcommittee-hearing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ec2136b6324",
-    "title": "US Navy seeks carrier combat drones carrying up to 10,000 pounds",
-    "summary": "The US Navy is asking defense companies to propose autonomous combat aircraft capable of launching from aircraft carriers,&#8230; The post US Navy seeks carrier combat drones carrying up to 10,000 pounds appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-03T19:10:05Z",
-    "url": "https://www.aerotime.aero/articles/us-navy-carrier-combat-drones-10000-pound-payload",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cdae41bd8051",
-    "title": "Study Finds Collegiate Pilots Neutral on UAS Autonomy",
-    "summary": "Small Part 141 survey found no significant change in willingness to fly based on how nearby unmanned aircraft were controlled.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-03T19:06:32Z",
-    "url": "https://avweb.com/aviation-news/drones/study-finds-pilots-neutral-uas-autonomy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5225dfce3d97",
-    "title": "Allegiant Air Cancels Flights To These 35 Airports: See Full List Now",
-    "summary": "Since 2016, Allegiant has stopped flying to airports in many states, including Alaska and Hawaii. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T19:00:14Z",
-    "url": "https://simpleflying.com/allegiant-air-cancels-flights-to-these-35-airports-see-full-list-now/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9b6381a4d04b",
-    "title": "Emirates Just Pulled The Airbus A380 From 10 Cities To Give This City A 2nd Daily Superjumbo",
-    "summary": "Singapore gains a second superjumbo as Emirates balances aging A380s, 777X delays, and costly fleet upgrades.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T19:00:14Z",
-    "url": "https://simpleflying.com/emirates-pulled-airbus-a380-10-cities-give-city-2nd-daily-superjumbo/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a3781c7f59e1",
-    "title": "Here\u2019s Why The Boeing 777X Won\u2019t Let Pilots Take Off With Its Wings Still Folded",
-    "summary": "A look at the huge twinjet's safety features.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T18:02:21Z",
-    "url": "https://simpleflying.com/why-boeing-777x-wont-let-pilots-takeoff-wings-folded-26/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c9af9ad42953",
-    "title": "DHS Secretary Lauds Pilots of Coast Guard C-37A After Emergency Landing",
-    "summary": "Military aircraft carrying Secretary Markwayne Mullin entered service in 2002 and is close to 25 years old.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-03T18:00:00Z",
-    "url": "https://www.flyingmag.com/dhs-lauds-pilots-coast-guard-c37a-emergency/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dbe044f28421",
-    "title": "GE Aerospace wins Pentagon contract to build Mach 5 hypersonic test vehicle",
-    "summary": "GE Aerospace has received a US Defense Innovation Unit (DIU) contract to develop an air-launched hypersonic test vehicle&#8230; The post GE Aerospace wins Pentagon contract to build Mach 5 hypersonic test vehicle appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-03T17:55:40Z",
-    "url": "https://www.aerotime.aero/articles/ge-aerospace-mach-5-derecho-hypersonic-test-vehicle",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "47b0bef5d369",
-    "title": "Why The Air Force Is Sending F-15EXs To Seymour Johnson & Strike Eagles To A B-2 Stealth Base",
-    "summary": "The F-15EX is becoming an increasingly important part of the Air Force's future force structure and is considered complementary to the B-21 bomber.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T17:00:14Z",
-    "url": "https://simpleflying.com/why-air-force-sending-f-15ex-seymour-johnson-strike-eagles-b-2-stealth-base/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
