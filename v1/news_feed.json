@@ -1,5 +1,93 @@
 [
   {
+    "id": "16a69136d001",
+    "title": "American Airlines Launches 8 New Long-Haul Routes: See Full List Now",
+    "summary": "Beginning in 2027, they're to eight countries in Asia & Europe. Find out which routes are coming here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T20:00:14Z",
+    "url": "https://simpleflying.com/american-airlines-launches-8-new-long-haul-routes-see-full-list-now/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0c516b13389f",
+    "title": "JetBlue Reportedly Takes 2 Airbus A320s Out Of Service To Be Reconfigured To VIP Charter Layout",
+    "summary": "The airline is reportedly gearing these aircraft up to provide charter services for the NHL.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T19:50:15Z",
+    "url": "https://simpleflying.com/jetblue-takes-2-airbus-a320s-out-of-service-reconfigured-vip-charter-layout/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "d563307b8ddb",
+    "title": "Third Arrest Made in FLYT Aviation RICO Case",
+    "summary": "Former financial account director faces 20 theft charges and a racketeering charge in investigation involving student flight-training funds.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-11T19:13:20Z",
+    "url": "https://avweb.com/aviation-news/third-arrest-flyt-aviation-rico-case/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c770fd0bb57b",
+    "title": "16-Hour Flights: United Airlines Debuts 2 Nonstop Long-Haul Routes In Just 4 Days",
+    "summary": "The carrier has introduced a brand-new route to its map and returned to a very popular destination. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T19:00:14Z",
+    "url": "https://simpleflying.com/16-hour-flights-united-airlines-debuts-2-nonstop-long-haul-routes-in-just-4-days/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3abff7fc1982",
+    "title": "Why Hawaiian Airlines Is Waiting Until 2028 To Add A Premium Economy Cabin To Its Airbus A330 Fleet",
+    "summary": "Hawaiian Airlines will finally add premium economy to its widebodies as Alaska Airlines reshapes the carrier\u2019s long-haul fleet strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T19:00:14Z",
+    "url": "https://simpleflying.com/why-hawaiian-airlines-waiting-2028-premium-economy-cabin-airbus-a330-fleet/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "60697176dc5f",
+    "title": "Southwest Airlines Flight Attendant Who Died On Hawaii Layover Honored As Body Returns Home",
+    "summary": "The flight was welcomed by a water cannon salute.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T18:00:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-flight-attendant-died-hawaii-layover-honored-body-returns-home/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "546e7ca470d9",
+    "title": "Air Force Selects Up To 131 T-7As For Sheppard AFB",
+    "summary": "The Red Hawks are scheduled to begin replacing the base\u2019s T-38Cs in 2034.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-11T17:00:28Z",
+    "url": "https://avweb.com/aviation-news/air-force-selects-up-to-131-t-7a-sheppard/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4d5a9729c453",
+    "title": "This 1956 De Havilland DHC-1 Chipmunk Is a Historic and Charismatic \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Former Canadian military trainer offers pilots great looks, graceful handling, and aerobatic capability.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-11T16:30:00Z",
+    "url": "https://www.flyingmag.com/this-1956-de-havilland-dhc-1-chipmunk-is-a-historic-and-charismatic-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "79417ffa67f2",
     "title": "Nicholas Air Loses Appeal in Whistleblower Case",
     "summary": "Federal court leaves in place a Labor Department ruling that the company retaliated against a captain-in-training who reported safety concerns.",
@@ -90,7 +178,7 @@
   {
     "id": "00531950c6ee",
     "title": "4-Seat All-Electric Cosmic One Embodies New Era of Light Sport Aircraft",
-    "summary": "FAA\u2019s MOSAIC rule opened up a world of possibilities for light-sport aircraft. Cosmic Aerospace is exploring almost all of them.",
+    "summary": "FAA\u2019s MOSAIC rule opened up a world of possibilities for LSAs, and Cosmic Aerospace is exploring almost all of them.",
     "source": "Flying Magazine",
     "category": "industry",
     "publishedDate": "2026-09-11T13:00:00Z",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-04T19:00:14Z",
     "url": "https://simpleflying.com/passengers-dont-know-airline-loyalty-status-matching/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "486b12d95a71",
-    "title": "Do B-21 Raider Pilots Make The Same As F-35 Pilots?",
-    "summary": "Comparing the take-home pay of some of the world's most elite pilots.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T18:00:13Z",
-    "url": "https://simpleflying.com/b-21-raider-pilots-pay-vs-f-35-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f517aa1f577f",
-    "title": "The 975 Feet Of Pavement That Rewrites Avelo Airlines' Entire East Coast Strategy",
-    "summary": "Avelo Airlines is about to get more tools for success.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T17:00:14Z",
-    "url": "https://simpleflying.com/975-feet-pavement-rewrites-avelo-airlines-entire-east-coast-strategy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "969bcb0971fd",
-    "title": "KLM's First Airbus A350 Completes 90-Minute 1st Flight",
-    "summary": "KLM's first Airbus A350 has completed its first flight, beginning a fleet transformation crucial to protecting its Schiphol hub.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T16:22:25Z",
-    "url": "https://simpleflying.com/klms-first-airbus-a350-completes-90-minute-1st-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "253dc9366399",
-    "title": "Global Airlines' Airbus A380 Hasn't Flown For A Year... What's Next?",
-    "summary": "Outstanding maintenance checks have grounded the airline's only jet. CEO Asquith still thinks there's a pathway to success.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T15:51:42Z",
-    "url": "https://simpleflying.com/global-airlines-airbus-a380-hasnt-flown-for-a-year-whats-next/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "435ea73ab95f",
-    "title": "SpiceJet plans to nearly triple active fleet with deal for 20 leased aircraft",
-    "summary": "SpiceJet has finalized agreements to lease 20 aircraft, as the financially distressed Indian carrier attempts to nearly triple&#8230; The post SpiceJet plans to nearly triple active fleet with deal for 20 leased aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-04T15:31:57Z",
-    "url": "https://www.aerotime.aero/articles/spicejet-nearly-triple-fleet-20-leased-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "621414e3bd90",
-    "title": "Epic Flight Academy Adds Tecnam P2006Ts to Fleet",
-    "summary": "Nation\u2019s largest Part 141 flight school expands its multiengine training capacity with efficient twin-engine trainers.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-09-04T15:00:00Z",
-    "url": "https://www.flyingmag.com/epic-flight-academy-adds-tecnam-p2006ts-to-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cc755073210c",
-    "title": "Senators Press FAA Over Controller Pay Raise",
-    "summary": "Duckworth and Durbin say the remaining 2.8% increase should not be tied to increased controller utilization.",
-    "source": "AvWeb",
-    "category": "pay",
-    "publishedDate": "2026-09-04T14:56:36Z",
-    "url": "https://avweb.com/aviation-news/senators-press-faa-controller-pay-raise/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2f9b1dea3c34",
-    "title": "How Much Does It Cost An Airline To De-Ice A Boeing 777?",
-    "summary": "De-icing a Boeing 777 can cost $10,000-$25,000 per application.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T14:01:14Z",
-    "url": "https://simpleflying.com/how-much-cost-airline-de-ice-boeing-777/",
     "airlineTag": null,
     "isBreaking": false
   }
