@@ -1,5 +1,60 @@
 [
   {
+    "id": "fabdfb1e8d9a",
+    "title": "Shenzhen Airlines to launch four-weekly Shenzhen-Sydney service in December",
+    "summary": "Sydney Airport (SYD) has announced that it is to welcome Shenzhen Airlines as its newest Chinese carrier.&#160; The&#8230; The post Shenzhen Airlines to launch four-weekly Shenzhen-Sydney service in December appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-11T09:08:29Z",
+    "url": "https://www.aerotime.aero/articles/shenzhen-airlines-to-launch-four-weekly-shenzhen-sydney-service-in-december",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1645e38cc939",
+    "title": "France orders Thundart long-range rocket system from MBDA, Safran",
+    "summary": "The French Defense Procurement Agency (DGA) has notified MBDA and Safran Electronics &#38; Defense of the contract for&#160;Thundart,&#8230; The post France orders Thundart long-range rocket system from MBDA, Safran appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-11T08:44:07Z",
+    "url": "https://www.aerotime.aero/articles/france-orders-thundart-rocket-system-replace-lru",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a163690dfef4",
+    "title": "American Airlines Flight Attendant Who Was The 1st To Call About 9/11 Honored 25 Years Later",
+    "summary": "Remembering the courage of Betty Ann Ong.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T08:25:24Z",
+    "url": "https://simpleflying.com/american-airlines-flight-attendant-1st-call-9-11-honored-25-years-later/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "382ecd3a2e3b",
+    "title": "Airbus wins Vietravel order for 50 jets, MOU with Vietnam Airlines for A350s",
+    "summary": "Airbus has secured an order from Vietravel Airlines for 50 aircraft, as well as signing a Memorandum of&#8230; The post Airbus wins Vietravel order for 50 jets, MOU with Vietnam Airlines for A350s appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-11T08:24:04Z",
+    "url": "https://www.aerotime.aero/articles/airbus-vietravel-order-vietnam-airlines-a350-mou",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "14dbde766239",
+    "title": "Why JetBlue Is Deferring 44 Brand-New Airbus A321neos Until 2030",
+    "summary": "The airline is focused on going smaller with the Airbus A220.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-11T08:00:14Z",
+    "url": "https://simpleflying.com/jetblue-deferring-44-brand-new-airbus-a321neos-2030/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
     "id": "d2b7aadb6c59",
     "title": "The Boeing 777X's Folding Wingtips: Why No Other Airliner Has Ever Had This",
     "summary": "Folding wingtips are not something that has been commonplace in aviation, so why has Boeing now decided to go all in on the technology?",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-04T01:15:13Z",
     "url": "https://simpleflying.com/airline-most-innovative-business-class-seat-in-2026/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "85fbb2ab5498",
-    "title": "Why Air National Guard Units Are Among The First To Get The Air Force's New F-15EX",
-    "summary": "The story a how a new fighter's roll out breaks all precedents.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-09-04T01:00:13Z",
-    "url": "https://simpleflying.com/why-air-national-guard-first-new-f-15ex/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "26779e91a456",
-    "title": "Delta Air Lines' 'Accidental' 44-Seat First Class Cabin Is Flying 80% Full & Rewriting Its Fleet Strategy",
-    "summary": "This is a preview of what the future will look like at US airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T00:00:13Z",
-    "url": "https://simpleflying.com/delta-air-lines-accidental-44-seat-first-class-cabin-flying-80-percent-rewriting-fleet-strategy/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "5f98a74872b6",
-    "title": "6 Ways Delta, United & American Airlines Are Quietly Reshaping Widebody Premium Cabins In 2026",
-    "summary": "The three major US carriers have made some subtle changes recently.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T22:00:13Z",
-    "url": "https://simpleflying.com/ways-delta-united-american-airlines-quietly-reshaping-widebody-premium-cabins-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "13dffbc9d141",
-    "title": "COMAC Doesn't Need To Beat Airbus Or Boeing To Fracture The Airliner Market",
-    "summary": "COMAC may be about to bifurcate the aviation market with 'good enough' jets, sufficient when paired with broader economic and geopolitical concerns.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T21:00:14Z",
-    "url": "https://simpleflying.com/comac-does-not-need-beat-airbus-boeing/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cf9980a1690c",
-    "title": "Closer To The Slopes: United Airlines Unveils New Ski Season Special Livery On An Embraer E175",
-    "summary": "Boston gains seasonal nonstop flights to Jackson Hole with complimentary lift tickets for arriving United passengers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-03T20:07:32Z",
-    "url": "https://simpleflying.com/united-airlines-new-ski-season-special-livery-embraer-e175/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
