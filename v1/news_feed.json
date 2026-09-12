@@ -1,5 +1,115 @@
 [
   {
+    "id": "3542906740eb",
+    "title": "Another Cracked Fuselage: Amerijet Boeing 767-300F Damaged After Hard Landing In Guatemala",
+    "summary": "The all-cargo carrier was flying between Miami and San Juan when a diversion was required to Guatemala, and the plane experienced a hard landing.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T20:04:30Z",
+    "url": "https://simpleflying.com/amerijet-boeing-767-300f-damaged-hard-landing-guatemala/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d9904713b9ad",
+    "title": "Airbus Has 107 A350F Orders & The 1st Delivery Is Already Under Pressure",
+    "summary": "A tight turnaround between planned first flight and first delivery could cause problems for the A350F",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T20:00:13Z",
+    "url": "https://simpleflying.com/airbus-107-a350f-orders-1st-delivery-already-under-pressure/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5e31c3a19b46",
+    "title": "Boeing Delivers Romania's First 737 MAX, 2nd Jet To Arrive Later This Month",
+    "summary": "The new aircraft marks an important chapter in the airlines fleet renewal program.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T19:27:56Z",
+    "url": "https://simpleflying.com/boeing-delivers-romania-first-737-max-tarom/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "964a0fbf4e51",
+    "title": "Southwest Airlines Cancels 17 Routes From World's Busiest Airport: See Affected Flights",
+    "summary": "Dwindling load factors have seen Southwest move aircraft to develop its Nashville base instead.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T19:00:13Z",
+    "url": "https://simpleflying.com/southwest-airlines-cancels-17-routes-from-worlds-busiest-airport/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a4d6a3330b9b",
+    "title": "The Transpacific Route United Airlines Was Expected To Announce But Quietly Didn't",
+    "summary": "United's Newark reveal rolled out A321XLRs and ten summer routes while a highly anticipated Pacific corridor stayed quiet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T19:00:13Z",
+    "url": "https://simpleflying.com/transpacific-route-united-airlines-expected-announce-quietly-didnt/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9012b530b076",
+    "title": "21 Air Safety Concerns Raised & Amazon Contract Now Criticized After Deadly Boeing 767 Crash",
+    "summary": "Some former employees are not surprised at the accident.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T18:44:45Z",
+    "url": "https://simpleflying.com/21-air-safety-concerns-raised-amazon-contract-criticized-deadly-boeing-767-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b2d09920a144",
+    "title": "How JetBlue Secured Fortress-Hub-Level Private Capital For A $1 Billion Boston Logan Rebuild",
+    "summary": "With competitors edging closer to overtaking its market share at Boston Logan, JetBlue is seeking to defend its hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T18:00:14Z",
+    "url": "https://simpleflying.com/jetblue-secure-fortress-hub-level-private-captial-1-billion-boston-logan-rebuild/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "bcfa8f42167f",
+    "title": "United Is Scrapping An Airbus A320 Wrecked By A Catering Truck At Reagan National",
+    "summary": "The aircraft has been sitting in parking since the incident in May.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T17:23:31Z",
+    "url": "https://simpleflying.com/united-airbus-a320-scrapped-catering-truck-reagan-national/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2d285b288bf6",
+    "title": "Inside The $603 Million Contract Giving B-52 Bombers A New AESA Radar",
+    "summary": "The new and improved BUFF gets another pay bump.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T17:00:14Z",
+    "url": "https://simpleflying.com/b52-bomber-new-aesa-radar-contract-upgrade/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f52ce41a18d6",
+    "title": "How The Airline That Invented Premium Economy Continues To Innovate In Luxury Service",
+    "summary": "EVA Air offers an industry-leading onboard service in all travel classes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T16:16:14Z",
+    "url": "https://simpleflying.com/airline-invented-premium-economy-innovate-luxury-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d96b6486073d",
     "title": "Why Alaska Airlines Ordered 105 Boeing 737 MAX 10s Before The FAA Finished Reading The Paperwork",
     "summary": "Alaska ordered 105 Boeing 737 MAX 10s for over $13 billion. The FAA has not certified the aircraft yet. Here is why Alaska could not wait.",
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-09-05T19:00:13Z",
     "url": "https://simpleflying.com/delta-launches-5-new-nonstop-long-haul-routes/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9a838c705ee2",
-    "title": "Why The US Air Force Is Betting Its Newest Stealth Fighters On A Hurricane-Flattened Florida Coastline",
-    "summary": "Building up a strategic air base in Hurricane Alley to deploy new stealth jets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T18:00:13Z",
-    "url": "https://simpleflying.com/why-us-air-force-betting-newest-stealth-fighters-hurricane-flattened-florida-coastline/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8627beaad338",
-    "title": "American Airlines Nears 65-Jet Order That Could End Its All-Boeing Widebody Fleet",
-    "summary": "American leadership is considering modern Airbus widebodies in fleet design.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T17:56:12Z",
-    "url": "https://simpleflying.com/american-airlines-65-widebody-order-airbus-boeing/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d0fb14f6bb6d",
-    "title": "The Air Force Built Digital Twins Of Its B-1s To Keep Them Flying Toward The B-21 Era",
-    "summary": "How the USAF is keeping the BONE in the air.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T17:00:13Z",
-    "url": "https://simpleflying.com/air-force-b1-lancer-digital-twin-sustainment/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2afb9b559e1c",
-    "title": "3 American Airlines Passengers Duct-Tape 'Biting' Man To His Seat After Racist Abuse",
-    "summary": "A retired police officer and two passengers subdued the violent flyer before the flight diverted to Baltimore.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T16:06:30Z",
-    "url": "https://simpleflying.com/american-airlines-passenger-duct-taped-seat-racist/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d474ed8de9e3",
-    "title": "5 Airlines Offering First-Class-Level Sleep But In Business Class",
-    "summary": "A closer look at the best ways to sleep in the sky.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T15:00:14Z",
-    "url": "https://simpleflying.com/business-class-first-class-sleep-experience/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "602a4edc4c78",
-    "title": "Air Force Budget Documents Project Fighter Aviator Manning Will Fall To 67% In 2027",
-    "summary": "The US Air Force's fighter jet community is coming under increasing strain from falling manning levels, now a third-below target.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T14:00:13Z",
-    "url": "https://simpleflying.com/air-force-fighter-aviator-manning-2027/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0718cda45258",
-    "title": "Virgin Atlantic Cuts 5 Long-Haul Routes To North America: See Affected Flights",
-    "summary": "Most of the flights are to the United States.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T13:00:14Z",
-    "url": "https://simpleflying.com/virgin-atlantic-has-cut-5-long-haul-routes-north-america/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9cb79f8d1c38",
-    "title": "Qantas Moves Up Airbus A380 Retirement By 4 Years, First Superjumbo To Exit In 2028",
-    "summary": "As the toll of United States\u2019 Operation Epic Fury continues to exact a high price on the global aviation industry, the latest casualty is the Airbus A380 fleet of Australian carrier Qantas. Qantas originally planned to begin phasing out its ten A380s in 2032. That has been res...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T12:25:14Z",
-    "url": "https://simpleflying.com/video/qantas-moves-up-airbus-a380-retirement-by-4-years-first-superjumbo-to-exit-in-2028/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0e572839f95a",
-    "title": "Air Force Retires EC-130H Compass Call",
-    "summary": "Tactical military aircraft makes final flight alongside EA-37B, the model that will replace it.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-05T12:00:00Z",
-    "url": "https://www.flyingmag.com/air-force-retires-ec-130h-compass-call/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05ff94cb4479",
-    "title": "The Airlines With The World\u2019s Most Superior Economy Class Seats In 2026",
-    "summary": "All of five airlines that we will cover are based in Asia, and two of them are Japanese.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T09:15:14Z",
-    "url": "https://simpleflying.com/airlines-superior-economy-class-seats/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
