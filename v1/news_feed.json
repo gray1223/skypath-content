@@ -1,5 +1,49 @@
 [
   {
+    "id": "3d850fd04e5f",
+    "title": "5 Things Passengers Don't Know About How Airlines Price Business Class Seats",
+    "summary": "Day by day, flight ticket prices change, with business class experiencing some of the biggest fluctuations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T09:15:13Z",
+    "url": "https://simpleflying.com/5-things-passengers-dont-know-how-airlines-price-business-class-seats/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9ff5011eaa67",
+    "title": "United Airlines Is Sitting On Hundreds Of Lie-Flat Seats That Fit Only 1 Aircraft It Can't Get",
+    "summary": "The Star Alliance carrier is still waiting for the Boeing 737 MAX 10 to be delivered.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T08:00:14Z",
+    "url": "https://simpleflying.com/united-airlines-sitting-hundreds-lie-flat-seats-fit-only-1-aircraft-cant-get/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6bc847a8eb5e",
+    "title": "10+ 737 MAX & A320neo Jets Set For Teardown This Year As Parts Demand Soars",
+    "summary": "This comes just months after three Spirit Airlines A320neos were scrapped with only three years of active service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T04:47:56Z",
+    "url": "https://simpleflying.com/737-max-a320neo-teardown-2026-parts-demand/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "080a7db1c152",
+    "title": "\u201cI Begged\u201d: JetBlue Allegedly Forced Passenger Who Booked On United To Leave Surfboard Behind",
+    "summary": "A well-known surfer says he pleaded with agents after a reservation swap forced him to leave a backup surfboard behind at the airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-12T03:50:43Z",
+    "url": "https://simpleflying.com/jetblue-allegedly-force-passenger-booked-united-leave-surfboard-behind/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "bdaf80e37650",
     "title": "How Much Does It Cost To Convert A Boeing 767 Into A Cargo Freighter?",
     "summary": "Converting a 767 into a cargo freighter can be costly, but many operators have turned to it because of high cargo demand.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-05T01:00:14Z",
     "url": "https://simpleflying.com/airline-new-airbus-a350-1000-headrest-speakers-arent-concert-hall-experience-marketing-suggests/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "950051946987",
-    "title": "Why Regional Airlines Are Parking Aircraft & Minting Captains In Just 18 Months",
-    "summary": "Over 500 regional jets are parked across the US because there are not enough pilots to fly them. Here is why, and where the pilots went.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T23:00:13Z",
-    "url": "https://simpleflying.com/why-regional-airlines-parking-aircraft-minting-captains-just-18-months/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8df3f791e0de",
-    "title": "A B-29 Bomber Quirk Gave Boeing's 377 Stratocruiser Its Famous Cocktail Lounge",
-    "summary": "The Boeing 377 turned a bomber fuselage into a luxury airliner, but the jet age made its famous cocktail lounge too costly to keep.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T22:00:13Z",
-    "url": "https://simpleflying.com/b-29-bomber-377-stratocruiser-lounge/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "859eeefa10c3",
-    "title": "FAA Administrator Blasted Over Refusing Pay Raises For Overworked Air Traffic Controllers",
-    "summary": "Two senators want the FAA to release controllers' remaining 2.8% raise, but the agency says conditions remain.",
-    "source": "Simple Flying",
-    "category": "pay",
-    "publishedDate": "2026-09-04T21:03:02Z",
-    "url": "https://simpleflying.com/faa-administrator-blasted-refusing-pay-raises-overworked-atc/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7b1508225d5d",
-    "title": "Allegiant Air Just Bought Pilot Pay Parity At The Entry Door While The Exit Door To The Majors Stays Wide Open",
-    "summary": "The US carrier has made some changes to its pilot pay structure.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-04T21:00:14Z",
-    "url": "https://simpleflying.com/allegiant-air-bought-pilot-pay-parity-entry-door-exit-door-majors-stays-wide-open/",
     "airlineTag": null,
     "isBreaking": false
   }
