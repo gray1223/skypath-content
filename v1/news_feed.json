@@ -1,5 +1,38 @@
 [
   {
+    "id": "82e07a8dce8b",
+    "title": "Why The US Air Force Is Sending A Third Of Its KC-46 Tanker Fleet To The Pacific",
+    "summary": "The Asia-Pacific is one of the most important regions of planning for the USAF, Marines, and Navy with the KC-46 taking a central planning role.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T15:00:14Z",
+    "url": "https://simpleflying.com/why-usaf-sending-third-kc-46-tanker-fleet-pacific/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fcf898d69774",
+    "title": "Why Frontier Airlines' Return To Oakland Signals A Quiet ULCC Land Grab After Southwest's 20% Pullback",
+    "summary": "The ultra-low-cost carrier is taking over the gap left by Southwest Airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T14:00:14Z",
+    "url": "https://simpleflying.com/frontier-airlines-return-oakland-signals-quiet-ulcc-land-grab-southwest-pullback/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dd18bffa11b4",
+    "title": "The 6 Western Fighter Jets Ranked By Number On Order In 2026",
+    "summary": "The F-35 is by far the most popular Western fighter jet, with more orders than all others combined, including all likely future orders.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T13:00:14Z",
+    "url": "https://simpleflying.com/western-fighter-jets-order-backlog-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "79e7d9866430",
     "title": "How Minneapolis-St. Paul Became The Last US Hub Where The DC-9 Still Made Economic Sense",
     "summary": "Delta Air Lines operated the DC-9 at the airport until 2014.",
@@ -721,7 +754,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-10T22:03:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-09T15:49:51Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/09/father-son-charged-with-theft-from-flight-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/09/father-son-charged-with-theft-from-flight-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1414,7 +1447,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-08T19:06:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/08/training-and-safety-tip-listen-to-the-whole-atis?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/08/training-and-safety-tip-listen-to-the-whole-atis?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-09-06T10:00:14Z",
     "url": "https://simpleflying.com/why-pilots-fly-final-approach-exactly-1-3-times-stall-speed/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "90c119be608d",
-    "title": "Delta Air Lines Slashes 4 More Routes From New York & Las Vegas This Winter",
-    "summary": "Domestic links from New York JFK, LaGuardia and Las Vegas will disappear in November and December.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T09:56:29Z",
-    "url": "https://simpleflying.com/delta-air-lines-slashes-4-more-routes-new-york-las-vegas/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "3dc8b3d4a969",
-    "title": "A Look At The Salaries Of Royal Canadian Air Force Fighter Jet Pilots In 2026 & Why They're Still Not Enough",
-    "summary": "Canada may have a small air force compared with its giant USAF counterpart, but it is still struggling to retain enough pilots for the aircraft it has",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T09:30:13Z",
-    "url": "https://simpleflying.com/salaries-royal-canadian-air-force-fighter-jet-pilots-2026-not-enough/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c2749c7726e9",
-    "title": "Alaska Airlines Sued For $521,900 After 11 Japanese Paintings Ruined In Honolulu Rainstorm",
-    "summary": "A shipment of fragile paper paintings was left exposed on a Honolulu ramp during torrential rain.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T06:53:13Z",
-    "url": "https://simpleflying.com/alaska-airlines-lawsuit-japanese-paintings-honolulu-rain-damage/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
