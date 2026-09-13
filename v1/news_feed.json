@@ -1,5 +1,82 @@
 [
   {
+    "id": "131d4231644b",
+    "title": "Breeze Airways & Delta Air Lines Hit With FAA Order To Inspect Airbus A220 Fuel Hose Lines",
+    "summary": "FAA targets 13 US Airbus A220s for fuel hose inspections after a twisting defect raised concerns over fuel leaks and potential fire risks.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T19:07:14Z",
+    "url": "https://simpleflying.com/breeze-airways-delta-air-lines-hit-faa-order-inspect-airbus-a220-fuel-hose-lines/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "109ceeb8a1bb",
+    "title": "Allegiant Air Launches 11 New Nonstop Routes From Major US Airport: See Full List Now",
+    "summary": "Spirit's collapse has been Allegiant's gain.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T19:00:13Z",
+    "url": "https://simpleflying.com/allegiant-air-fort-lauderdale-new-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6a296ce2a250",
+    "title": "How United Airlines Is Squeezing A Record 650 Daily Flights Out Of O'Hare's FAA-Capped Schedule",
+    "summary": "United's plan to overcome flights caps and keep summer moving.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T19:00:13Z",
+    "url": "https://simpleflying.com/united-airlines-squeezing-record-750-flights-ohare-faa-capped-schedule/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d2a026ed01ab",
+    "title": "GE Aerospace Just Solved Its Biggest Boeing 777X Engine Problem With 1 Redesign",
+    "summary": "A newly reworked turbine seal triggers shop inspections and supplier ramp ups as GE lines up revised GE9X deliveries.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T18:00:14Z",
+    "url": "https://simpleflying.com/ge-aerospace-solved-biggest-boeing-777x-engine-problem-1-design/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f427d927b340",
+    "title": "UK air traffic control failure reportedly triggered by military flight plan",
+    "summary": "A flight plan filed for a UK military aircraft reportedly introduced anomalous data into the flight-processing system run&#8230; The post UK air traffic control failure reportedly triggered by military flight plan appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-13T17:47:00Z",
+    "url": "https://www.aerotime.aero/articles/uk-air-traffic-control-failure-military-flight-plan-nats",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b367b9b8ab6a",
+    "title": "The US Navy's Most Powerful Aircraft Carriers Ranked",
+    "summary": "Ranking the five most powerful US Navy aircraft carriers ever built, from the Midway class to the advanced Gerald R. Ford class supercarriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T17:15:14Z",
+    "url": "https://simpleflying.com/us-navy-powerful-aircraft-carriers-ranked/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "09ff562e3f38",
+    "title": "American Airlines Now Plans 9-Hour Airbus A321XLR Flights To This 'Forgotten' Continent",
+    "summary": "The type won't just serve Europe going forward.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T16:01:15Z",
+    "url": "https://simpleflying.com/american-airlines-nine-hour-airbus-a321xlr-flights-south-america/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "82e07a8dce8b",
     "title": "Why The US Air Force Is Sending A Third Of Its KC-46 Tanker Fleet To The Pacific",
     "summary": "The Asia-Pacific is one of the most important regions of planning for the USAF, Marines, and Navy with the KC-46 taking a central planning role.",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-06T21:00:13Z",
     "url": "https://simpleflying.com/usaf-admitted-ai-cannot-replace-2nd-pilot-b-21-raider/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db079ff4f564",
-    "title": "Delta Honors \"Ridiculously Low\" $17.34 Upgrade To Delta One On 15-Hour Seoul Flight",
-    "summary": "A complicated itinerary somehow led to a cheap upgrade.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T20:51:04Z",
-    "url": "https://simpleflying.com/delta-one-17-dollar-upgrade-atlanta-seoul/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "d1f41d186434",
-    "title": "The 21.5-Inch Business Class Seat That Threatens Collins, Safran & RECARO's Grip On Mid-Size Airlines",
-    "summary": "Unum is providing a staggered alternative to the mainstream reverse herringbone configuration in premium cabins.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T19:00:14Z",
-    "url": "https://simpleflying.com/21-5-inch-business-class-seat-threatens-collins-safran-recaro-grip-mid-size-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ed6a14ac3ebe",
-    "title": "American Airlines Launches 10 Nonstop Routes From New York-JFK To Europe [List & Map]",
-    "summary": "The airline is adding two new destinations in 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T17:00:13Z",
-    "url": "https://simpleflying.com/american-airlines-launches-10-nonstop-routes-from-jfk-to-europe/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d6e7eb6dc0e1",
-    "title": "Airbus receives H160 order from Japan\u2019s Fire and Disaster Management Agency",
-    "summary": "Airbus has received a H160 helicopter order from Japan\u2019s Fire and Disaster Management Agency (FDMA) to strengthen the&#8230; The post Airbus receives H160 order from Japan\u2019s Fire and Disaster Management Agency appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-06T14:56:01Z",
-    "url": "https://www.aerotime.aero/articles/airbus-h160-japan-order-helicopter",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8d6b7e38d2f3",
-    "title": "5 Global Cargo Airports Spending Billions To More Than Double Capacity By 2030",
-    "summary": "Some cargo airports around the world are expanding to sizes that have never been seen before. Here are 5 that are spending billions on infrastructure.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T14:00:13Z",
-    "url": "https://simpleflying.com/5-global-cargo-airports-spending-billions-more-than-double-capacity-2030/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c7776ef043b9",
-    "title": "The US Air Force Just Bought A Stripped-Down Radar To Keep The B-52 Relevant Into The 2040s",
-    "summary": "Budget overruns force the BUFF to cut back.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T13:00:13Z",
-    "url": "https://simpleflying.com/usaf-bought-stripped-down-radar-keep-b-52-relevant-2040s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "494d702aed4e",
-    "title": "Why Pilots Fly Final Approach At Exactly 1.3 Times The Stall Speed",
-    "summary": "The approach is always a highly critical stage of flight, demanding strict adherence to speeds calculated at 1.3 times the stall speed. But why?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-06T10:00:14Z",
-    "url": "https://simpleflying.com/why-pilots-fly-final-approach-exactly-1-3-times-stall-speed/",
     "airlineTag": null,
     "isBreaking": false
   }
