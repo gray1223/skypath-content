@@ -1,5 +1,49 @@
 [
   {
+    "id": "6958e39394f5",
+    "title": "How Ryanair Built Europe's Most Profitable Airline By Making Flying As Uncomfortable As Possible",
+    "summary": "The airline seemingly doesn't see comfort or luxury as essential for being successful.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T03:00:14Z",
+    "url": "https://simpleflying.com/how-ryanair-built-most-profitable-airline-flying-uncomfortable-possible/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9fafd41e7dba",
+    "title": "A Look At The Salaries Of US Military Pilots In 2026",
+    "summary": "US military pilot salaries vary somewhat across the Air Force, Navy, Marines, and Army helicopter aviation branches.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-13T01:45:14Z",
+    "url": "https://simpleflying.com/us-military-pilot-salaries-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "74366653f055",
+    "title": "'Indecent': American Airlines Passenger Strips Naked Mid-Flight, Detained By Police In Miami",
+    "summary": "The Airbus A319 continued to Miami before officers detained the passenger.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T01:17:02Z",
+    "url": "https://simpleflying.com/american-airlines-passenger-strips-naked-mid-flight-detained-miami/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1044b1918078",
+    "title": "Southwest Airlines Is Spending $53 Million On A Lounge Without A First Class Cabin To Fund It",
+    "summary": "The low-cost carrier is developing a network of lounges across the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-13T01:00:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-spending-53-million-lounge-without-first-class-cabin-fund/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "3542906740eb",
     "title": "Another Cracked Fuselage: Amerijet Boeing 767-300F Damaged After Hard Landing In Guatemala",
     "summary": "The all-cargo carrier was flying between Miami and San Juan when a diversion was required to Guatemala, and the plane experienced a hard landing.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-09-05T22:00:13Z",
     "url": "https://simpleflying.com/why-usaf-spending-nearly-1-billion-rebuild-base-21-f-15-ex-jets/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fc6db10aa8e0",
-    "title": "Greek Air Force F-4 crashes at airshow, killing 2 pilots",
-    "summary": "A Hellenic Air Force F-4 Phantom fighter jet crashed during an airshow near Athens on September 5, 2026,&#8230; The post Greek Air Force F-4 crashes at airshow, killing 2 pilots appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-05T21:48:14Z",
-    "url": "https://www.aerotime.aero/articles/greek-air-force-f4-crashes-athens-airshow-pilots-killed",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db738884885d",
-    "title": "DHL's 1st Converted Boeing 777 Freighter Has Been Delivered & You Can Track It Live",
-    "summary": "DHL just received its first Mammoth-converted 777 freighter. It matches the factory-built 777F at a fraction of the cost.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T21:00:14Z",
-    "url": "https://simpleflying.com/dhls-first-converted-777-freighter-has-been-delivered-and-you-can-track-it-live/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "54b42d178039",
-    "title": "Delta Air Lines Passenger Allegedly Left With Severe Burns After Inflight Coffee Spill",
-    "summary": "The man describes developing immediate blisters and having no onboard first aid after a hot coffee spill on a San Juan-to-New York flight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T20:18:12Z",
-    "url": "https://simpleflying.com/delta-air-lines-passenger-allegedly-left-severe-burns-inflight-coffee-spill/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "2c17e9a3de08",
-    "title": "Delta Air Lines Launches 5 New Nonstop Long-Haul Routes: See Flights Now",
-    "summary": "The airline has targeted some new markets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-05T19:00:13Z",
-    "url": "https://simpleflying.com/delta-launches-5-new-nonstop-long-haul-routes/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
