@@ -1,5 +1,38 @@
 [
   {
+    "id": "825beef3bf39",
+    "title": "First Look: Etihad Airways' New First Class Set To Roll Out On A330neo Deliveries In 2027",
+    "summary": "Etihad's incoming A330neos will feature four private First suites as the airline dramatically expands its premium-cabin strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T21:26:11Z",
+    "url": "https://simpleflying.com/etihad-airways-new-first-class-a330-900-deliveries-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "288f99905b44",
+    "title": "Embraer Just Delivered Its 2,000th E-Jet While Airbus' A220 Fights To Catch Up",
+    "summary": "The A220 has the lead in the order book but still has to catch up.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T21:01:18Z",
+    "url": "https://simpleflying.com/embraer-delivered-2000th-e-jet-airbus-a220-fights-catch-up/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0bb795263cc9",
+    "title": "Delta Air Lines Launches 5 New Nonstop Routes From Los Angeles: See Flights Now",
+    "summary": "Delta is betting big on three new domestic, and two international destinations from the City of Angels.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T21:01:18Z",
+    "url": "https://simpleflying.com/delta-air-lines-adds-record-64-nonstop-routes-from-major-hub/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "d2fc5a1bdbb5",
     "title": "CAE's electric Archer stalls at the design stage",
     "summary": "Four years ago, CAE's plan to turn the Piper Archer into an electric training aircraft looked like a glimpse into aviation's future.",
@@ -7,6 +40,105 @@
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b5023c675aeb",
+    "title": "US already has weapons in orbit, Air Force secretary reveals",
+    "summary": "The United States has weapons in orbit to defend its forces against hostile action, Air Force Secretary Troy&#8230; The post US already has weapons in orbit, Air Force secretary reveals appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-14T20:18:33Z",
+    "url": "https://www.aerotime.aero/articles/us-weapons-orbit-space-force-troy-meink",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fb485bb6706c",
+    "title": "Swarm Aero Unveils 9,000-NM Gamera Drone",
+    "summary": "Group 5 aircraft is being pitched for an Air Force program seeking a lower-cost successor to the MQ-9 Reaper.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-14T20:00:51Z",
+    "url": "https://avweb.com/aviation-news/swarm-aero-9000-nm-gamera-drone/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e763dc944478",
+    "title": "Why United Airlines' New Airbus A321XLR Needs A Completely Different Fuel System",
+    "summary": "Extended range is allowing United to connect new city pairs, but not without some consideration.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T20:00:15Z",
+    "url": "https://simpleflying.com/united-airbus-a321xlr-different-fuel-system/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "aec5f40d494e",
+    "title": "Textron and Merlin unveil pilotless SkyCourier concept for military resupply",
+    "summary": "Textron Aviation and autonomous flight developer Merlin have unveiled a pilotless Cessna SkyCourier concept designed to deliver military&#8230; The post Textron and Merlin unveil pilotless SkyCourier concept for military resupply appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-14T19:53:45Z",
+    "url": "https://www.aerotime.aero/articles/textron-merlin-pilotless-skycourier-ux-military-resupply",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "717b1612e89b",
+    "title": "The Real Reason Why Delta Air Lines Is Retiring Its Boeing 757s Gradually Instead Of All At Once",
+    "summary": "Replacing its 757s is far easier said than done for Delta.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T19:00:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-boeing-757-gradual-retirement/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f16e9533b9d7",
+    "title": "Russian drone may have targeted train carrying Boris Johnson, officials say",
+    "summary": "A Russian drone that struck a passenger-train locomotive near Ukraine\u2019s border with Poland may have been intended for&#8230; The post Russian drone may have targeted train carrying Boris Johnson, officials say appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-14T18:43:11Z",
+    "url": "https://www.aerotime.aero/articles/russian-drone-train-boris-johnson-ukraine",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9ab22ef96188",
+    "title": "Textron, Merlin Unveil Autonomous SkyCourier UX Concept Aircraft",
+    "summary": "Uncrewed design comes in response to \u2018growing military interest\u2019 in autonomous contested logistics.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-14T18:30:00Z",
+    "url": "https://www.flyingmag.com/textron-merlin-autonomous-cessna-skycourier-ux/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8f5c766e76cd",
+    "title": "The Aircraft Set To Replace The Iconic Boeing 747 On Cargo Routes",
+    "summary": "The 747's iconic front-loading cargo door will prove hard to replace, but the economics may support replacement.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T18:00:14Z",
+    "url": "https://simpleflying.com/aircraft-set-replace-iconic-boeing-747-cargo-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b8cc26533f04",
+    "title": "The World's Most Remote Airport Is 1,600 Miles From Its Nearest Neighbor",
+    "summary": "The airport currently has only one scheduled airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-14T18:00:14Z",
+    "url": "https://simpleflying.com/worlds-most-remote-airport-1600-miles-nearest-neighbor/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2064,138 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-08T11:51:32Z",
     "url": "https://www.aerotime.aero/articles/swiss-plans-to-donate-its-last-a340-300-to-switzerlands-transport-museum",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8258d48b1747",
-    "title": "It's Official: Breeze Retires Last E190, Moving To An All-Airbus A220 Fleet",
-    "summary": "A new era for the Utah-based airline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T11:09:36Z",
-    "url": "https://simpleflying.com/breeze-airways-all-airbus-a220-fleet/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "af114844d22b",
-    "title": "Inside United's New Airbus A321XLR: What Passengers Can Actually Expect",
-    "summary": "The Star Alliance carrier recently revealed more details about its upcoming Airbus A321XLRs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T11:00:14Z",
-    "url": "https://simpleflying.com/united-airbus-a321xlr-passenger-cabin-experience/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4b88977338a0",
-    "title": "Scrapped But Not Gone: Iconic Icelandair Boeing 757 Turned Into Keychains",
-    "summary": "Icelandair\u2019s storied 757 received a swift retirement in Lleida, then sections of its Northern Lights paint were rescued.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T10:02:44Z",
-    "url": "https://simpleflying.com/icelandair-northern-lights-boeing-757-upcycled-aviationtag/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a8ac5c9f04fa",
-    "title": "Trump threatens to ban Bombardier jet sales unless production moves to US",
-    "summary": "US President Donald Trump&#160;has declared that&#160;Bombardier will&#160;no longer&#160;be&#160;permitted&#160;to&#160;sell&#160;aircraft&#160;in the United States unless it manufactures them there, in a&#8230; The post Trump threatens to ban Bombardier jet sales unless prod...",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-08T08:29:20Z",
-    "url": "https://www.aerotime.aero/articles/trump-bombardier-us-sales-ban-threat",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3c001dd55959",
-    "title": "The 20-Cent Hourly Pay Gap That Could Quietly Decide Which Legacy Airline Pilots Choose In 2026",
-    "summary": "Per diem rates are unique at each airline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T08:00:14Z",
-    "url": "https://simpleflying.com/20-cent-hourly-pay-gap-pilots-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f744401c111c",
-    "title": "\"Pretty Traumatic\": Delta Boeing 737 Drops To 9,000 Feet As Oxygen Masks Deploy",
-    "summary": "The short flight was interrupted by an emergency landing.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-09-08T07:46:14Z",
-    "url": "https://simpleflying.com/delta-boeing-737-traumatic-9000-feet-oxygen-masks-las-vegas/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "97c6fee8e276",
-    "title": "The 382-Seat Airbus Replacing This Airline's Boeing 777 On 15-Hour Pacific Routes",
-    "summary": "The carrier is planning to grow again.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T05:00:14Z",
-    "url": "https://simpleflying.com/382-seat-airbus-replacing-airline-boeing-777-15-hour-pacific-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "07b8e291b76e",
-    "title": "5 Airlines With The World's Most Superior Premium Economy Seats For Transatlantic Flights",
-    "summary": "Often, a good premium economy experience boils down to more about the service and catering than the seat itself.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T01:45:14Z",
-    "url": "https://simpleflying.com/5-airlines-worlds-superior-premium-economy-seats-for-transatlantic-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "940673843f89",
-    "title": "NTSB Chairwoman Issues Stark Warning 24 Hours After Miami Crash As New Details Emerge",
-    "summary": "Recorders and EMAS materials will be scrutinized as regulators press for swift action and clearer oversight.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-09-08T01:17:32Z",
-    "url": "https://simpleflying.com/ntsb-chariwoman-stark-warning-24-hours-miami-crash-updates/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "29b7f8a2acb1",
-    "title": "Why The US Navy's 200,000th Carrier Trap Quietly Exposes The Ford Class' Biggest Problem",
-    "summary": "As the steam catapult-equipped USS George Washington reaches a milestone, the USS Ford's EMALS are maturing while a White House fight is breaking out.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T00:00:13Z",
-    "url": "https://simpleflying.com/us-navy-200000-carrier-trap-quietly-exposes-ford-class-biggest-problem/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "719c4a674377",
-    "title": "Here\u2019s Why United Flies A Boeing 737 MAX To A Random Island In The Atlantic",
-    "summary": "This is a clear reflection of United's strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-08T00:00:13Z",
-    "url": "https://simpleflying.com/united-airlines-boeing-737-random-island/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "371fbd6e5b91",
-    "title": "The B-52 Vs. The B-2 Spirit: Which Bomber Actually Carries More Ordnance?",
-    "summary": "Two of the Air Force's heaviest hitters go head-to-head.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-07T22:00:13Z",
-    "url": "https://simpleflying.com/b52-b2-spirit-bomber-ordnance-payload-comparison/",
     "airlineTag": null,
     "isBreaking": false
   }
