@@ -11,6 +11,39 @@
     "isBreaking": false
   },
   {
+    "id": "7c721a851f21",
+    "title": "Delta Air Lines Cancels 17 International Routes: See Affected Flights Now",
+    "summary": "The routes are spread across Europe, the Caribbean, Mexico and Central America, South America, and Oceania.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-15T20:00:14Z",
+    "url": "https://simpleflying.com/delta-cancels-these-17-international-routes/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "3e3d8f82e001",
+    "title": "New Bill Seeks To Slash 50% Of Washington Reagan's Long-Distance Flights In Air Safety Push",
+    "summary": "Legislation would force public reporting and FAA slot decisions as part of a staged plan to ease Reagan\u2019s congestion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-15T19:57:55Z",
+    "url": "https://simpleflying.com/new-bill-slash-50pc-washington-reagan-long-distance-flights-air-safety-push/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "23974b0b3337",
+    "title": "Swarm Aero targets lower cost, 9,000-nm range with Gamera drone",
+    "summary": "Swarm Aero has unveiled Gamera, a large military drone designed to fly more than 9,000 nautical miles and&#8230; The post Swarm Aero targets lower cost, 9,000-nm range with Gamera drone appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-15T19:44:56Z",
+    "url": "https://www.aerotime.aero/articles/swarm-aero-gamera-drone-cost-9000-nm-range",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "881031d3dba6",
     "title": "Training and Safety Tip: Power through blue",
     "summary": "Everyone hates an uncomfortable surprise, and pilots are no exception. You may one day find yourself lurching through a sudden onslaught of clear air turbulence, or being tossed around by the wake of a large aircraft, or otherwise coping with the consequences of air being stir...",
@@ -18,6 +51,39 @@
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "730f5a55aa05",
+    "title": "FAA\u2019s Bedford Defends ATC Modernization Delays But Says More Money Needed",
+    "summary": "Agency leader also would not commit to giving controllers a 3.8 percent raise provided for by legislation.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-15T19:30:00Z",
+    "url": "https://www.flyingmag.com/faa-bedford-atc-modernization-delay-funding/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "effa7bc2749b",
+    "title": "How Much Do US Air Force Fighter Pilots Make Compared To Commercial Airline Pilots?",
+    "summary": "While US fighter jet pilots earn somewhat comparable incomes to commuter and regional pilots, narrowbody and widebody pilots earn much more.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-15T19:00:14Z",
+    "url": "https://simpleflying.com/how-much-usaf-fighter-pilots-make-commercial-airline-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b0556386a0f",
+    "title": "The 5 Most Profitable US Airlines In The 1st Half Of 2026",
+    "summary": "In the first half of 2026, US airlines reported declining profits. These were the most profitable airlines in the first six months of the year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-15T17:00:14Z",
+    "url": "https://simpleflying.com/most-profitable-us-airlines-1st-half-2026/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "regulatory",
     "publishedDate": "2026-09-09T11:14:53Z",
     "url": "https://www.aerotime.aero/articles/ntsb-miami-767-pilot-abort-landing-miami-airport",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "127da1cfd003",
-    "title": "How The Lockerbie Bombing Changed Airport Baggage Screening Forever",
-    "summary": "The bombing in 1988 changed commercial aviation forever.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T11:00:14Z",
-    "url": "https://simpleflying.com/lockerbie-bombing-airport-baggage-screening-changes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "94cc2cefb5b9",
-    "title": "Thailand\u2019s CAAT becomes first regulator to adopt Boeing\u2019s CBTA training solution",
-    "summary": "The Civil Aviation Authority of Thailand (CAAT) has become the first global aviation regulator to roll out Boeing&#8217;s&#8230; The post Thailand\u2019s CAAT becomes first regulator to adopt Boeing\u2019s CBTA training solution appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T10:51:49Z",
-    "url": "https://www.aerotime.aero/articles/thailands-caat-becomes-first-regulator-to-adopt-boeings-cbta-training-solution",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d499a6175029",
-    "title": "French Navy receives first two Falcon Albatros surveillance aircraft",
-    "summary": "The Direction g\u00e9n\u00e9rale de l&#8217;armement (DGA), the French defense procurement agency, has accepted the development phase and the&#8230; The post French Navy receives first two Falcon Albatros surveillance aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T08:53:58Z",
-    "url": "https://www.aerotime.aero/articles/french-navy-first-falcon-albatros-surveillance-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e3ca77fd2f41",
-    "title": "US builds special B-21 hangar at Whiteman to check bomber\u2019s stealth",
-    "summary": "The US Army Corps of Engineers has awarded Conti Federal Services a contract to build a specialized hangar&#8230; The post US builds special B-21 hangar at Whiteman to check bomber\u2019s stealth appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T08:45:15Z",
-    "url": "https://www.aerotime.aero/articles/us-b21-raider-radio-frequency-hangar-whiteman-contract",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9ea1f18f05d0",
-    "title": "6 Airlines With The World's Most Superior Premium Economy Seats In 2026",
-    "summary": "Leading carriers are redefining premium economy with seats that rival business class from a decade ago.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T08:33:14Z",
-    "url": "https://simpleflying.com/6-airlines-with-worlds-most-superior-premium-economy-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2d3391930aa2",
-    "title": "US sanctions 27 Iranian airlines, reveals how three Boeing 777s reached Mahan Air",
-    "summary": "The US Department of the Treasury&#160;sanctioned 36 targets&#160;across Iran&#8217;s aviation sector on September 8, 2026, including 27 Iranian&#8230; The post US sanctions 27 Iranian airlines, reveals how three Boeing 777s reached Mahan Air appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T07:25:03Z",
-    "url": "https://www.aerotime.aero/articles/us-sanctions-27-iranian-airlines-boeing-777s-mahan-air",
     "airlineTag": null,
     "isBreaking": false
   }
