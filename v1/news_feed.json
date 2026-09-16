@@ -11,6 +11,138 @@
     "isBreaking": false
   },
   {
+    "id": "142eb9fcdbaf",
+    "title": "Frontier Airlines Now Allowing Passengers To Cancel Any Flight Up To 24 Hours Before Departure",
+    "summary": "Passengers can choose to pay extra to gain additional flexibility through an AI-powered system",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T16:02:24Z",
+    "url": "https://simpleflying.com/frontier-airlines-allowing-passengers-cancel-any-flight-24-hours-before-departure/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "75a726925468",
+    "title": "Air Force On Track To Graduate 1,500 Pilots Under New Training Model",
+    "summary": "The U.S. Air Force says its revamped pilot training program has reached its goal of producing 1,500 pilots this fiscal year.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-16T15:42:57Z",
+    "url": "https://avweb.com/aviation-news/air-force-on-track-to-graduate-1500-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a20498b6d7b7",
+    "title": "FAA Administrator Pushes Back on Watchdog\u2019s ATC Modernization Report",
+    "summary": "Air traffic control effort seeks to replace, upgrade, and introduce new physical and digital infrastructure.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-16T15:00:00Z",
+    "url": "https://www.flyingmag.com/faa-bryan-bedford-watchdog-atc-modernization/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7633cdcd8f71",
+    "title": "BermudAir to become world\u2019s second Embraer E190 freighter operator",
+    "summary": "BermudAir will become the world&#8217;s second Embraer E190 freighter operator after signing a lease agreement with Miami-based lessor&#8230; The post BermudAir to become world\u2019s second Embraer E190 freighter operator appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-16T14:51:03Z",
+    "url": "https://www.aerotime.aero/articles/bermudair-embraer-e190-freighter-operator",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "193c291dd575",
+    "title": "Why The US Air Force Is Quietly Retiring Its Entire T-38 Talon Training Fleet Ahead Of Schedule",
+    "summary": "The Air Force is not yet retiring its T-38 Talons, and it expects to fly them into the mid-2030s, phasing them out as replacement T-7s arrive.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T14:01:14Z",
+    "url": "https://simpleflying.com/why-usaf-quietly-retiring-entire-t-38-talon-training-fleet-ahead-schedule/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f2fd094ca450",
+    "title": "This 1973 Piper PA-28R-200 Arrow Is a Dynamic \u2018AircraftForSale\u2019 Top Pick",
+    "summary": "Proven retractable-gear platform features impressive glass panel, digital autopilot, and solid useful load.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-16T14:00:00Z",
+    "url": "https://www.flyingmag.com/this-1973-piper-pa-28r-200-arrow-is-a-dynamic-aircraftforsale-top-pick/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6bcf915ed737",
+    "title": "ALPA Renews Push for ADS-B In Mandate at Annual Safety Forum",
+    "summary": "ALPA renewed its call for Congress to require integrated ADS-B In technology on airline flight decks during its annual Air Safety Forum Tuesday.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-09-16T13:56:10Z",
+    "url": "https://avweb.com/aviation-news/alpa-ads-b-in-mandate-air-safety-forum/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7f5e8ac1e958",
+    "title": "Delta Air Lines Cancels Flights To 21 Long-Haul Airports: See List Now",
+    "summary": "Delta\u2019s vanished routes reveal how partnerships, premium leisure demand, and newer aircraft have reshaped its international network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T13:05:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-cancels-flights-to-21-long-haul-airports/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "1e68272509ec",
+    "title": "3 Killed in LA News Helicopter Crash",
+    "summary": "Journalist and pilot among the dead, KNBC-TV confirms.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-09-16T13:00:18Z",
+    "url": "https://www.flyingmag.com/3-killed-in-la-news-helicopter-crash/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5ea12dafdfb1",
+    "title": "Can You Use Custom Checklist on FAA Check Ride?",
+    "summary": "Here\u2019s what Part 91 pilots need to know about using personally developed checklists during practical tests.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-09-16T13:00:00Z",
+    "url": "https://www.flyingmag.com/can-you-use-custom-checklist-on-faa-check-ride/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0efc5ee371a8",
+    "title": "Europe's Largest Airbus A220 Carrier Files For Chapter 11 Bankruptcy: What Next?",
+    "summary": "Latvian flag carrier airBaltic, which also operates bases in nearby countries Estonia, Finland, and Lithuania, has filed for Chapter 11 Protection in the United States Bankruptcy Court for the Southern District of New York. These kinds of bankruptcy proceedings are often used ...",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-16T12:29:14Z",
+    "url": "https://simpleflying.com/video/europe-s-largest-airbus-a220-carrier-files-for-chapter-11-bankruptcy-what-next/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "889f0a03000e",
+    "title": "Study: You're More Likely To Have An Accident On Ryanair's Retractable Airstairs",
+    "summary": "While retractable airstairs aren\u2019t unique to Ryanair\u2019s Boeing 737 aircraft, the airline group is certainly one of the largest users of this feature. Indeed, aircraft flying around with their own airstairs allows for quicker boarding and offloading, particularly at remote stand...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T12:27:14Z",
+    "url": "https://simpleflying.com/video/study-you-re-more-likely-to-have-an-accident-on-ryanair-s-retractable-airstairs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cfa4d4529bac",
     "title": "Here's How Much A Business Class Ticket On American Airlines' Boeing 787 Actually Costs In 2026",
     "summary": "A closer look at what you can expect to pay for American's Flagship Business on the 787.",
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-09-10T11:00:13Z",
     "url": "https://simpleflying.com/lufthansa-launches-new-13-hour-nonstop-route-in-1-month/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "62f422069291",
-    "title": "'Excessive Speed': Amazon 767 Pilots Got 7 Cockpit Warnings In 25 Seconds Before Miami Crash",
-    "summary": "Flaps were delayed to the final seconds as the jet touched down fast and uneven, leaving little runway for recovery.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-10T10:30:19Z",
-    "url": "https://simpleflying.com/amazon-767-miami-crash-cockpit-warnings-excessive-speed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "27e44d2857f3",
-    "title": "Pilot on Amazon Air crash flight warned they were \u2018too fast\u2019 on approach",
-    "summary": "A pilot on board the Amazon Air flight that crashed at Miami International Airport (MIA), killing five people&#8230; The post Pilot on Amazon Air crash flight warned they were \u2018too fast\u2019 on approach appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-10T09:34:56Z",
-    "url": "https://www.aerotime.aero/articles/pilot-amazon-air-crash-flight-too-fast-approach",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a58f43f57c4f",
-    "title": "Why Virgin Atlantic Is Cutting 30 Seats From Its A330-900neo To Add 16 Upper Class Suites",
-    "summary": "Cutting 30 seats seems like a lot, but for Virgin, it is a small and worthy price to pay to maintain its financial health well into the future.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-10T08:00:13Z",
-    "url": "https://simpleflying.com/virgin-atlantic-cutting-30-seats-airbus-a330-900neo-add-16-upper-class-suites/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ab8cc13a9b40",
-    "title": "United Airlines Cancels Boeing 777 9/11 Flyover Timed For UA175 Moment Of Impact",
-    "summary": "The airline's plan for a commemorative flyover falls through.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-10T07:09:51Z",
-    "url": "https://simpleflying.com/united-airlines-cancels-boeing-777-9-11-flyover-denver/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7658bac912e2",
-    "title": "Iranian missile strike reportedly damages USAF A-10 and F-15Es in Jordan",
-    "summary": "Multiple US Air Force aircraft were damaged in an Iranian ballistic missile attack on Muwaffaq Salti Air Base&#8230; The post Iranian missile strike reportedly damages USAF A-10 and F-15Es in Jordan appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-10T06:14:56Z",
-    "url": "https://www.aerotime.aero/articles/iranian-missile-strike-reportedly-damages-us-a-10-and-f-15es-in-jordan",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e510af85968c",
-    "title": "A Look At The Salaries Of UK Airline Pilots In 2026",
-    "summary": "Pilot salaries in the UK vary widely by airline and experience, with earnings ranging from modest starting pay to six-figure Captain salaries.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-10T01:45:14Z",
-    "url": "https://simpleflying.com/uk-airline-pilot-salaries-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7715906b831a",
-    "title": "US House report calls for study of possible brain injuries in navy pilots",
-    "summary": "A US House oversight report calls for a long-term study of whether repeated carrier launches, landings and maneuvers&#8230; The post US House report calls for study of possible brain injuries in navy pilots appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-09-09T23:10:31Z",
-    "url": "https://www.aerotime.aero/articles/navy-pilots-brain-injury-study-house-report",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ea1b20160084",
-    "title": "The Airline Hoarding 100 Jet Engines & Changing What A Budget Carrier Actually Costs",
-    "summary": "This is part of the carrier's strategy to safeguard its future.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T21:00:14Z",
-    "url": "https://simpleflying.com/airline-hoarding-100-jet-engine-changing-budget-carrier-actually-costs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "41fd9b560364",
-    "title": "Cabin Fume Incidents Trigger 2 Delta Air Lines Inflight Emergencies In 48 Hours",
-    "summary": "Two Delta flights faced cabin fume emergencies in 48 hours, with one diversion and one priority landing as the airline investigates the incidents.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T20:31:34Z",
-    "url": "https://simpleflying.com/cabin-fume-incidents-trigger-2-delta-air-lines-inflight-emergencies-48-hours/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ce2eb346a54b",
-    "title": "Aviation Groups Seek Uniform Safety Rules for Part 91, 125, 135 Operators",
-    "summary": "NBAA, AOPA, and others urge FAA to extend proposed Part 121 uniform rest and duty standards to more operators.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-09T19:30:00Z",
-    "url": "https://www.flyingmag.com/aviation-groups-safety-rules-faa-part-91-125-135/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7a511abba6af",
-    "title": "NTSB Data: Go-Around Thrust After Miami 767 Touchdown",
-    "summary": "Flight recorder data shows the throttles advanced after the brakes were released before returning to idle four seconds later.",
-    "source": "AvWeb",
-    "category": "regulatory",
-    "publishedDate": "2026-09-09T19:14:29Z",
-    "url": "https://avweb.com/aviation-news/ntsb-go-around-thrust-miami-touchdown-767/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5c74d52215b3",
-    "title": "Alaska Airlines Unveils Record 50th Nonstop Route From Major US Airport: See Full List",
-    "summary": "The carrier's capacity at San Diego has jumped by 38% in 2026, with 2.3 million more seats added. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T19:00:14Z",
-    "url": "https://simpleflying.com/alaska-airlines-unveils-record-50th-nonstop-route-from-major-us-airport/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
