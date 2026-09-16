@@ -6,7 +6,73 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-18T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cfa4d4529bac",
+    "title": "Here's How Much A Business Class Ticket On American Airlines' Boeing 787 Actually Costs In 2026",
+    "summary": "A closer look at what you can expect to pay for American's Flagship Business on the 787.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T09:15:14Z",
+    "url": "https://simpleflying.com/american-airlines-787-business-class-cost-2026/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4e5605bfbc57",
+    "title": "Houthis claim Saudi F-15 shootdown over Yemen as Mecca drone row escalates",
+    "summary": "Yemen&#8217;s Houthi movement said on September 16, 2026, that it shot down a Royal Saudi Air Force F-15&#8230; The post Houthis claim Saudi F-15 shootdown over Yemen as Mecca drone row escalates appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-16T08:53:07Z",
+    "url": "https://www.aerotime.aero/articles/houthis-claim-saudi-f-15-shootdown-over-yemen-as-mecca-drone-row-escalates",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "26fded74b682",
+    "title": "Qantas Just Put Widebody-Grade Business Suites With Doors On A Narrowbody Airbus A321XLR",
+    "summary": "Qantas' new lie-flat business class sets new expectations for its widebody fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T08:00:14Z",
+    "url": "https://simpleflying.com/qantas-put-widebody-grade-business-suites-doors-narrowbody-airbus-a321xlr/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "81a4b525431f",
+    "title": "American Airlines Is Reportedly Blocking A321XLR Business Suites Over Faulty Seat Controls",
+    "summary": "Multiple Flagship Suites on American's A321XLRs are being sidelined after repeated control glitches leave lie-flat seats stuck.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T06:10:27Z",
+    "url": "https://simpleflying.com/american-airlines-airbus-a321xlr-blocked-business-class-suites/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fb1498fd7a22",
+    "title": "How Etihad Is Using Its Widebody Fleet To Add Capacity Where Demand Is Strongest",
+    "summary": "Etihad is moving its biggest aircraft to the markets showing the strongest demand, from Paris and Tokyo to high-capacity Dhaka.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T05:00:14Z",
+    "url": "https://simpleflying.com/etihad-widebody-fleet-capacity-route-demand/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9de4ef07fef9",
+    "title": "Boeing Close To Salvaging Deal For 150 Turkish Airlines 737 MAXs After CFM Engine Dispute",
+    "summary": "The update comes as Turkish Airlines is pushing to expand its operations out of Istanbul.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T04:12:44Z",
+    "url": "https://simpleflying.com/boeing-salvaging-deal-150-turkish-airlines-737-maxs-cfm-engine-dispute/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -35,7 +101,7 @@
   {
     "id": "cf7f0d2b319f",
     "title": "16-Hour Flights: Air New Zealand's 13 New Ultra-Long Nonstop Routes Revealed",
-    "summary": "Here are the airline's longest nonstop routes.",
+    "summary": "A closer look at the airline's longest nonstop routes.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-09-16T00:00:14Z",
@@ -138,7 +204,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -227,6 +293,17 @@
     "category": "industry",
     "publishedDate": "2026-09-15T14:50:13Z",
     "url": "https://www.aerotime.aero/articles/samson-sky-secures-80-million-investment-to-support-flying-car-production",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e586b97aa9e7",
+    "title": "Electra selects Atlas to produce EL9 airframes for certification program",
+    "summary": "Electra, the Virginia-based startup developing an ultra-short takeoff and landing hybrid aircraft, announced on September 15, 2026, that&#8230; The post Electra selects Atlas to produce EL9 airframes for certification program appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-15T14:22:12Z",
+    "url": "https://www.aerotime.aero/articles/electra-selects-atlas-group-to-produce-el9-airframes-for-certification-program",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +589,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1766,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-10T22:03:14Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-09-09T19:00:14Z",
     "url": "https://simpleflying.com/alaska-airlines-unveils-record-50th-nonstop-route-from-major-us-airport/",
     "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c514ccb52ad1",
-    "title": "First Dutch Pilatus PC-7 MKX flies as Europe revamps military training fleets",
-    "summary": "The first Pilatus PC-7 MKX for the Royal Netherlands Air Force has completed its maiden flight, advancing a&#8230; The post First Dutch Pilatus PC-7 MKX flies as Europe revamps military training fleets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T18:53:11Z",
-    "url": "https://www.aerotime.aero/articles/first-dutch-pilatus-pc-7-mkx-flight",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "34ed19b91f57",
-    "title": "Archer Begins \u2018No Roads\u2019 Tour With Piloted Midnight Flights",
-    "summary": "Archer Aviation\u2019s Midnight eVTOL completed a piloted round trip between Salinas and Hollister as the company expands its \u201cNo Roads\u201d flight tour.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-09T18:39:59Z",
-    "url": "https://avweb.com/aviation-news/archer-midnight-evtol-no-roads-tour/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cfa69b091328",
-    "title": "\u201cEasy Access\u201d: United Airlines Testing Mobile App Food Delivery-To-Gate At Newark Liberty",
-    "summary": "United and OTG trial a gate delivery option for food and essentials that could reshape preflight routines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T17:18:44Z",
-    "url": "https://simpleflying.com/united-airlines-testing-mobile-app-food-delivery-gate-newark-liberty/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bd01c25a16f6",
-    "title": "House Report Calls for Study of Brain Injuries in Navy Pilots",
-    "summary": "A House report says the Navy failed to adequately investigate possible long-term brain injuries among aviators.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-09-09T16:08:08Z",
-    "url": "https://avweb.com/aviation-news/navy-pilot-brain-injuries-house-report/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f698c26d8fca",
-    "title": "Father, son charged with theft from flight students",
-    "summary": "A father and son who sold their three-year-old Georgia flight school in 2024 were arrested September 4 on theft and racketeering charges in a case that began when several students complained of discrepancies in their flight school accounts following the sale.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-09T15:49:51Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/09/father-son-charged-with-theft-from-flight-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6a0d5973d35b",
-    "title": "Aviation Groups Urge FAA to Assert Federal Authority Over Pilot Duty, Rest Rules",
-    "summary": "Aviation groups are urging the FAA to establish a uniform federal standard for flightcrew meal and rest requirements.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-09T15:23:38Z",
-    "url": "https://avweb.com/flight-safety/faa-flightcrew-rest-rules-preemption/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8a3312f63b66",
-    "title": "Delta's New Paris Route Will Make It The Only US Airline Flying From Austin To Europe",
-    "summary": "Delta will launch daily Austin to Paris flights in March 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-09T15:00:14Z",
-    "url": "https://simpleflying.com/delta-austin-paris-only-us-airline-europe/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
