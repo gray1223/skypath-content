@@ -6,7 +6,95 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-18T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "774200b088cf",
+    "title": "Korean Air Finalizes Record-Breaking 103 Boeing 777X, 787, 737-10 Aircraft Order",
+    "summary": "The largest-ever order placed in Korean Air's history will see greatly increased capacity across both widebody and narrowbody fleets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T03:01:12Z",
+    "url": "https://simpleflying.com/korean-air-record-breaking-103-boeing-777x-787-737-10-order/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ee4289673fbb",
+    "title": "Singapore Airlines Confirms Major Change To 11-Hour A380 Route: See Flights Now",
+    "summary": "The move reshuffles A380 routes as Dubai services swap to A350s while Auckland links feed dozens of onward destinations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T01:00:14Z",
+    "url": "https://simpleflying.com/singapore-airlines-major-change-a380-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cf7f0d2b319f",
+    "title": "16-Hour Flights: Air New Zealand's 13 New Ultra-Long Nonstop Routes Revealed",
+    "summary": "Here are the airline's longest nonstop routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T00:00:14Z",
+    "url": "https://simpleflying.com/16-hour-flights-air-new-zealands-longest-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6b82f7b30b41",
+    "title": "The 6 Largest Military Air Bases In The United States By Land Area",
+    "summary": "Some US military air bases are so vast that their runways are almost an afterthought. Here are America's six largest by land area.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T00:00:14Z",
+    "url": "https://simpleflying.com/largest-us-military-air-bases-land-area/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "979b053beb42",
+    "title": "The Embraer E195-E2's Unique Engine Placement That Sets It Apart From Every Other Regional Jet",
+    "summary": "The E195-E2's engine fan is 21 inches wider than the one it replaced. Fitting it required a gull wing, taller gear, and three bespoke wing designs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-15T22:00:14Z",
+    "url": "https://simpleflying.com/embraer-e195-e2-unique-engine-placement-sets-apart-every-other-regional-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e72e0c3c797e",
+    "title": "Boeing nears deal to salvage 150-jet Turkish Airlines order: Reuters",
+    "summary": "Boeing is nearing an agreement to finalize Turkish Airlines\u2019 purchase of up to 150 Boeing 737 MAX aircraft&#8230; The post Boeing nears deal to salvage 150-jet Turkish Airlines order: Reuters appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-15T21:03:45Z",
+    "url": "https://www.aerotime.aero/articles/boeing-nears-deal-to-salvage-150-jet-turkish-airlines-order-reuters",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "95a3d45b95f7",
+    "title": "NTSB Rejects 33% Of FAA Responses To 2025 Washington DC Crash Safety Recommendations As \u201cUnacceptable\u201d",
+    "summary": "The NTSB says one-third of the FAA\u2019s responses to post-DCA safety recommendations still fail to address critical risks.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-09-15T21:02:47Z",
+    "url": "https://simpleflying.com/ntsb-rejects-33pc-faa-responses-washington-dc-crash-unaccpetable/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "33c5d4fa413c",
+    "title": "How Europe's F-35 Fleet Has Grown Over The Last 12 Months",
+    "summary": "Europe has likely received more than three dozen F-35s over the last year making it the continent's fastest growing fighter jet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-15T21:00:14Z",
+    "url": "https://simpleflying.com/europe-f35-fleet-growth-last-12-months/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -50,7 +138,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -424,7 +512,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1678,7 +1766,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-10T22:03:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2085,7 +2173,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-09T15:49:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/09/father-son-charged-with-theft-from-flight-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/09/father-son-charged-with-theft-from-flight-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-09-09T15:00:14Z",
     "url": "https://simpleflying.com/delta-austin-paris-only-us-airline-europe/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "05d119946913",
-    "title": "\u2018Aviation Start\u2019 Episode 2 Details How to Earn a Pilot Certificate for Free",
-    "summary": "EAA\u2019s David Leiting walks through the many pathways for aspiring aviators.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-09-09T15:00:00Z",
-    "url": "https://www.flyingmag.com/aviation-start-episode-2-details-how-to-earn-a-pilot-certificate-for-free/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0cca92aac0b2",
-    "title": "New Legislation Would Send Controllers Into the Cockpit",
-    "summary": "The FLIGHT DECK Act would create an FAA program allowing air traffic controllers to observe airline operations from the cockpit.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-09T14:42:13Z",
-    "url": "https://avweb.com/aviation-news/flight-deck-act-air-traffic-controllers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6a776cd82eb",
-    "title": "Saab moves Sweden\u2019s future fighter project into next phase",
-    "summary": "Saab has received a new order from the Swedish Defense Materiel Administration (FMV) for continued work on Sweden\u2019s&#8230; The post Saab moves Sweden\u2019s future fighter project into next phase appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T14:34:32Z",
-    "url": "https://www.aerotime.aero/articles/saab-sweden-future-fighter-project-next-phase",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "43d3ca4bf0d3",
-    "title": "What Is the Best Way to Navigate a Flight Training Finish-Up Program?",
-    "summary": "Here are some tips for private pilot candidates considering an accelerated path to the check ride.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-09-09T14:00:00Z",
-    "url": "https://www.flyingmag.com/what-is-the-best-way-to-navigate-a-flight-training-finish-up-program/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "69aad8546a48",
-    "title": "Sydney Airport welcomes EgyptAir as its newest airline, effective 2027",
-    "summary": "Sydney Kingsford Smith Airport (SYD) announced that EgyptAir will join its airline network, with the Egyptian flag carrier&#8230; The post Sydney Airport welcomes EgyptAir as its newest airline, effective 2027 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T13:23:57Z",
-    "url": "https://www.aerotime.aero/articles/sydney-airport-welcomes-egyptair-as-its-newest-airline-effective-2027",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f0a57f74e91e",
-    "title": "This 1981 Mooney M20J 201 Is a Sleek \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Well-maintained speedster features glass panel avionics, resealed fuel tanks, and overhauled Hartzell Q-Tip propeller.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-09T13:00:00Z",
-    "url": "https://www.flyingmag.com/this-1981-mooney-m20j-201-is-a-sleek-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "76036acd8aa1",
-    "title": "Airbus and Boeing both ahead of delivery totals at same stage in 2025",
-    "summary": "In the last few days, Airbus and Boeing have released their latest deliveries data, indicating that both aircraft&#8230; The post Airbus and Boeing both ahead of delivery totals at same stage in 2025 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-09T12:27:00Z",
-    "url": "https://www.aerotime.aero/articles/airbus-boeing-deliveries-orders-august-2025",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "62989e40ccfe",
-    "title": "NTSB analysis suggests Miami 767 pilot looked to abort landing before crash",
-    "summary": "National Transport Safety Board (NTSB) analysis of the Miami Boeing 767-300 freighter crash appears to suggest that the&#8230; The post NTSB analysis suggests Miami 767 pilot looked to abort landing before crash appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "regulatory",
-    "publishedDate": "2026-09-09T11:14:53Z",
-    "url": "https://www.aerotime.aero/articles/ntsb-miami-767-pilot-abort-landing-miami-airport",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
