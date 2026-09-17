@@ -6,7 +6,62 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-18T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "375c6f203ca5",
+    "title": "The Problem Airlines Have With Boeing\u2019s First 30 777Xs",
+    "summary": "In this video, we're looking at why some airlines don't want the earliest aircraft, and how Boeing is trying to turn billions of dollars' worth of parked jets into airliners customers are finally willing to fly.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-17T11:00:14Z",
+    "url": "https://simpleflying.com/video/the-problem-airlines-have-with-boeing-s-first-30-777xs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9b4211df1faf",
+    "title": "Boeing & Airbus Each Built A Passenger Jet That Only 3 Airlines Still Fly",
+    "summary": "Shrinks and stretches are not seen too often in modern airliner manufacturing, at least to the scale of the 767-400ER, 757-300 and A318",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-17T11:00:14Z",
+    "url": "https://simpleflying.com/boeing-airbus-each-built-passenger-jet-only-3-airlines-still-fly/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2988af76df4c",
+    "title": "Malaysia holds contingency talks with airlines as AirAsia\u2019s finances worsen",
+    "summary": "The Malaysian government is reportedly making contingency plans in case AirAsia\u2019s financial situation worsens in the near future.&#160;&#8230; The post Malaysia holds contingency talks with airlines as AirAsia\u2019s finances worsen appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-17T10:40:01Z",
+    "url": "https://www.aerotime.aero/articles/malaysia-holds-contingency-talks-with-airlines-as-airasias-finances-worsen",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9e43af221598",
+    "title": "Southwest Passengers Forced To Step Over 'Enormous' Service Dog Mess To Deplane",
+    "summary": "A very large dog defecated in the aisle around 30 minutes before landing.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-17T09:30:43Z",
+    "url": "https://simpleflying.com/southwest-passengers-step-over-service-dog-mess/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b6fc2ffa4a57",
+    "title": "5 Airlines With Some Of The World's Fastest Boarding Times",
+    "summary": "Getting hundreds of passengers onboard quickly is no easy task. These airlines have some clever ways of speeding up boarding.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-17T08:00:14Z",
+    "url": "https://simpleflying.com/airlines-fastest-boarding-times-world/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -402,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2041,7 +2096,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-10T22:03:14Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/10/faa-proposes-ending-diabetes-special-issuance-requirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-10T19:00:14Z",
     "url": "https://simpleflying.com/5-forgotten-pacific-airfields-history-quietly-returning-frontline-usaf-service-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "47e4f851c2f4",
-    "title": "Wayfarer Tests Retractable Electric Propellers on Cessna 182",
-    "summary": "NASA-backed program used a one-third-scale 182 demonstrator to test a blown-wing retrofit.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-10T18:26:24Z",
-    "url": "https://avweb.com/aviation-news/wayfarer-electric-propellers-cessna-182/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "97a65512ebaf",
-    "title": "Texas, Joby Begin FAA-Backed Air Taxi Airport Demonstrations",
-    "summary": "Weeklong campaign will include flights at Dallas-Fort Worth International and Perot Field Fort Worth Alliance.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-10T16:30:00Z",
-    "url": "https://www.flyingmag.com/texas-joby-faa-backed-air-taxi-airport-demos/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7a3fbf37c27d",
-    "title": "Delta Air Lines Cuts 8 Routes From The World's Busiest Airport: See Affected Flights",
-    "summary": "Delta has removed eight Atlanta routes, but strong load factors show several cuts were about more than weak demand.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-10T15:37:54Z",
-    "url": "https://simpleflying.com/delta-cuts-8-routes-from-worlds-busiest-airport/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "bbb0b9aaefa0",
-    "title": "France orders eight Airbus U050 Capa-X drones after trials",
-    "summary": "The French armed forces have ordered eight Airbus U050 Capa-X uncrewed aircraft for the French Army and Navy&#8230; The post France orders eight Airbus U050 Capa-X drones after trials appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-10T14:59:24Z",
-    "url": "https://www.aerotime.aero/articles/france-airbus-u050-capa-x-drone-order",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "72a043d24d99",
-    "title": "Avianca signs sale and leaseback deal for 12 Airbus A320neos with BOC Aviation",
-    "summary": "Colombian flag carrier Avianca has signed a sale and leaseback agreement for 12 Airbus A320neos with Singapore-based lessor&#8230; The post Avianca signs sale and leaseback deal for 12 Airbus A320neos with BOC Aviation appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-10T14:47:51Z",
-    "url": "https://www.aerotime.aero/articles/avianca-sale-leaseback-airbus-a320neos-boc-aviation",
     "airlineTag": null,
     "isBreaking": false
   }
