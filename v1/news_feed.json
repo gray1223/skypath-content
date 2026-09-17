@@ -11,6 +11,50 @@
     "isBreaking": false
   },
   {
+    "id": "2d6ab518e873",
+    "title": "Why The US Air Force May Keep The RQ-4 Global Hawk Flying Into The 2030s",
+    "summary": "The need for resilience, a wider ISR portfolio, and immature space-based capabilities mean the RQ-4 will continue to fly to 2033.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-17T00:00:14Z",
+    "url": "https://simpleflying.com/us-air-force-rq4-global-hawk-2030s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dbedc7497dc0",
+    "title": "Minneapolis\u2013St. Paul International Airport Named Best In North America For 3rd Year In A Row",
+    "summary": "MSP tops North America\u2019s mega-airport rankings again, while Delta\u2019s wider hub network reveals an even bigger competitive advantage.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T23:01:12Z",
+    "url": "https://simpleflying.com/minneapolis-st-paul-international-airport-best-north-america-3rd-year-row/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "c1a558eabcab",
+    "title": "5 US Military Bases Protected By Some Of The World's Most Advanced Air Defense Systems",
+    "summary": "The bases that power America's massive counter-missile dome.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T23:00:14Z",
+    "url": "https://simpleflying.com/us-military-bases-advanced-defense-systems/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1dee74bcadce",
+    "title": "\u201cYou Can\u2019t Pull Up?\u201d Chilling Video Shows LA News Helicopter Falling Out Of The Sky, Killing 3",
+    "summary": "Pilot and journalist had logged hundreds of hours flying together before the crash.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-16T21:21:11Z",
+    "url": "https://simpleflying.com/video-la-news-helicopter-falling-sky-killing-3/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "9807286001d0",
     "title": "The Real Reason Why This Airline Doesn't Want Any Widebodies In Its Fleet",
     "summary": "Copa Airlines is one of the world's most successful and profitable network airlines, but it avoids widebodies in its fleet at all costs.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-10T14:47:51Z",
     "url": "https://www.aerotime.aero/articles/avianca-sale-leaseback-airbus-a320neos-boc-aviation",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d8a9c034e0ad",
-    "title": "NTSB Releases Preliminary CVR Transcript From Prime Air Crash",
-    "summary": "At least one pilot recognized the 767 was \u2018too fast\u2019 on approach, the agency says.",
-    "source": "Flying Magazine",
-    "category": "regulatory",
-    "publishedDate": "2026-09-10T14:31:44Z",
-    "url": "https://www.flyingmag.com/ntsb-releases-preliminary-cvr-transcript-from-prime-air-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9ae847347da0",
-    "title": "General Atomics unveils Wildfire drone as lower-cost MQ-9 Reaper successor",
-    "summary": "General Atomics Aeronautical Systems (GA-ASI) has unveiled Wildfire, a clean-sheet uncrewed&#160;aircraft&#160;it is&#160;currently&#160;offering to the US&#160;Air Force&#160;(USAF) as a&#8230; The post General Atomics unveils Wildfire drone as lower-cost MQ-9 Reaper successo...",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-10T14:01:33Z",
-    "url": "https://www.aerotime.aero/articles/general-atomics-wildfire-drone-mq-9-reaper-successor",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dfcf64e2059b",
-    "title": "Frontier Airlines Unveils 1st-Ever Flights To South America: See All 3 Routes Now",
-    "summary": "The carrier has revealed three routes to the continent. See more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-10T14:00:14Z",
-    "url": "https://simpleflying.com/frontier-airlines-unveils-1st-ever-flights-to-south-america-see-all-3-routes-now/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4172fed68938",
-    "title": "25 Years Later: How 9/11 Forever Reshaped General Aviation Airspace",
-    "summary": "From the creation of National Security Areas to permanent prohibited zones, legacy of tragedy continues to define skies pilots fly.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-10T12:00:00Z",
-    "url": "https://www.flyingmag.com/25-years-later-how-9-11-forever-reshaped-general-aviation-airspace/",
     "airlineTag": null,
     "isBreaking": false
   }
