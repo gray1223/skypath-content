@@ -1,5 +1,71 @@
 [
   {
+    "id": "76e0ded0df79",
+    "title": "Inside Southwest Airlines' Secret Overnight Operation To Retrofit 10 Boeing 737s Per Night",
+    "summary": "Southwest is significantly improving the onboard experience of its 737s in multiple areas.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T09:15:14Z",
+    "url": "https://simpleflying.com/inside-southwest-airlines-secret-overnight-operation-to-retrofit-10-boeing-737s-night/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "86fa10a2777a",
+    "title": "The FAA Cap That Forced United Airlines To Pick 12 Leisure Spokes Over 10 Regional Midwest Markets",
+    "summary": "Like many airlines today, United is prioritizing yield.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T08:00:13Z",
+    "url": "https://simpleflying.com/faa-cap-forced-united-airlines-pick-leisure-spokes-regional-midwest-markets/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "282388adad50",
+    "title": "Boeing Closes In On Malaysia Airlines' 787 Order To Replace Leased Airbus A350s",
+    "summary": "MH has not operated a Boeing widebody for almost a decade since retiring the 777-200ER.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T07:32:58Z",
+    "url": "https://simpleflying.com/boeing-787-10-malaysia-airlines-replace-airbus-a350/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dbdd5abfcd3f",
+    "title": "Why US Airlines Are Fighting Air China's Bid For More US Flights",
+    "summary": "US carriers say extra Air China frequencies would tilt route economics due to Russian overflight advantages.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T06:57:50Z",
+    "url": "https://simpleflying.com/us-airlines-fighting-air-china-bid-more-us-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3f2d62ef8a12",
+    "title": "FAA To Introduce New AI System To Help Manage Air Traffic As Early As Monday",
+    "summary": "The rollout begins with a decision support phase to ease disruptions and improve planning across busy hubs.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-19T05:45:40Z",
+    "url": "https://simpleflying.com/faa-introduce-new-ai-software-manage-air-traffic-monday/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "36dfb1aa595b",
+    "title": "How Much Does It Cost Delta Air Lines To Operate A Boeing 767 For 1 Hour In 2026?",
+    "summary": "Delta's Boeing 767 can cost thousands less to fly than some newer widebodies, so why is the aging jet becoming harder to justify?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T05:00:14Z",
+    "url": "https://simpleflying.com/how-much-cost-delta-air-lines-operate-boeing-767-1-hour-2026/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "c07ab7d62128",
     "title": "How Much Do Fighter Pilots Earn Vs. Commercial Airline Pilots In 2026?",
     "summary": "A closer look at what pilots earn in both fields around the world.",
@@ -28,7 +94,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-19T00:01:31Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -413,7 +479,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-18T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -457,7 +523,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-17T23:42:11Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/17/bedford-highlights-atc-overhaul-progress-urges-continued-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/17/bedford-highlights-atc-overhaul-progress-urges-continued-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -479,7 +545,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-17T21:03:46Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/17/insurer-credits-training-data-welcomes-pistons?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/17/insurer-credits-training-data-welcomes-pistons?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1161,7 +1227,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1546,7 +1612,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-13T04:13:05Z",
     "url": "https://simpleflying.com/fedex-ups-pilots-quietly-out-earn-passenger-airline-crews-200-day-tax-free-perk/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6958e39394f5",
-    "title": "How Ryanair Built Europe's Most Profitable Airline By Making Flying As Uncomfortable As Possible",
-    "summary": "The airline seemingly doesn't see comfort or luxury as essential for being successful.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T03:00:14Z",
-    "url": "https://simpleflying.com/how-ryanair-built-most-profitable-airline-flying-uncomfortable-possible/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9fafd41e7dba",
-    "title": "A Look At The Salaries Of US Military Pilots In 2026",
-    "summary": "US military pilot salaries vary somewhat across the Air Force, Navy, Marines, and Army helicopter aviation branches.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-09-13T01:45:14Z",
-    "url": "https://simpleflying.com/us-military-pilot-salaries-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "74366653f055",
-    "title": "'Indecent': American Airlines Passenger Strips Naked Mid-Flight, Detained By Police In Miami",
-    "summary": "The Airbus A319 continued to Miami before officers detained the passenger.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T01:17:02Z",
-    "url": "https://simpleflying.com/american-airlines-passenger-strips-naked-mid-flight-detained-miami/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1044b1918078",
-    "title": "Southwest Airlines Is Spending $53 Million On A Lounge Without A First Class Cabin To Fund It",
-    "summary": "The low-cost carrier is developing a network of lounges across the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T01:00:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-spending-53-million-lounge-without-first-class-cabin-fund/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3542906740eb",
-    "title": "Another Cracked Fuselage: Amerijet Boeing 767-300F Damaged After Hard Landing In Guatemala",
-    "summary": "The all-cargo carrier was flying between Miami and San Juan when a diversion was required to Guatemala, and the plane experienced a hard landing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T20:04:30Z",
-    "url": "https://simpleflying.com/amerijet-boeing-767-300f-damaged-hard-landing-guatemala/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d9904713b9ad",
-    "title": "Airbus Has 107 A350F Orders & The 1st Delivery Is Already Under Pressure",
-    "summary": "A tight turnaround between planned first flight and first delivery could cause problems for the A350F",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T20:00:13Z",
-    "url": "https://simpleflying.com/airbus-107-a350f-orders-1st-delivery-already-under-pressure/",
     "airlineTag": null,
     "isBreaking": false
   }
