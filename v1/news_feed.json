@@ -1,5 +1,38 @@
 [
   {
+    "id": "efa7fac34a1a",
+    "title": "Why F-15 Radars Deleted The SR-71 Blackbird As Invalid Clutter During 'Eagle Bait' Sorties",
+    "summary": "The SR-71flew so fast and so high that even USAF F-15s struggled to intercept the Blackbird during Eagle Bait training exercises.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T14:00:14Z",
+    "url": "https://simpleflying.com/f-15-radars-deleted-sr-71-blackbird-invalid-clutter-eagle-bait-sorties/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c8b494febaa0",
+    "title": "Ukraine\u2019s Next Goal: 32 Russian Airports Shut Down Daily As Drone Campaign Escalates",
+    "summary": "Ukraine\u2019s drone campaign is turning routine Russian airport closures into a test of whether foreign airlines keep flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T11:00:14Z",
+    "url": "https://simpleflying.com/32-russian-airports-shut-down-daily-drone-campaign-escalates/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "89e109b2afe6",
+    "title": "American Airlines To Trial Rolling Delay Fix After Years Of Passenger Complaints",
+    "summary": "Charlotte will be the proving ground as American tests delay updates based on inbound aircraft arrivals.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T10:27:46Z",
+    "url": "https://simpleflying.com/american-airlines-trial-rolling-delay-fix-passenger-complaints/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "76e0ded0df79",
     "title": "Inside Southwest Airlines' Secret Overnight Operation To Retrofit 10 Boeing 737s Per Night",
     "summary": "Southwest is significantly improving the onboard experience of its 737s in multiple areas.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-13T09:15:14Z",
     "url": "https://simpleflying.com/scrapped-boeing-747-airframe-worth-less-single-piece-of-landing-gear/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bd96f45a5d11",
-    "title": "TAROM receives first Boeing 737 MAX in fleet overhaul",
-    "summary": "Romania\u2019s flag carrier TAROM has taken delivery of its first Boeing 737-8, introducing the 737 MAX to its&#8230; The post TAROM receives first Boeing 737 MAX in fleet overhaul appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-13T07:41:00Z",
-    "url": "https://www.aerotime.aero/articles/tarom-first-boeing-737-max-fleet-overhaul",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7fc4df38e493",
-    "title": "The Bizarre Rear-Fan Engine That Killed The World's Fastest Airliner",
-    "summary": "In an ironic twist, GE's financially disastrous attempt to build an aft-fan turbofan doomed General Dynamic's Convair while laying GE's foundation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T07:00:14Z",
-    "url": "https://simpleflying.com/bizarre-rear-fan-engine-killed-worlds-fastest-airliner/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cececc49b821",
-    "title": "The Differences In Pilot Pay Between Cargo & Passenger Airlines",
-    "summary": "These airlines are just as lucrative to work for as the passenger carriers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T04:13:05Z",
-    "url": "https://simpleflying.com/fedex-ups-pilots-quietly-out-earn-passenger-airline-crews-200-day-tax-free-perk/",
     "airlineTag": null,
     "isBreaking": false
   }
