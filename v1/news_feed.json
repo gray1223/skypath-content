@@ -1,5 +1,60 @@
 [
   {
+    "id": "cf1746d13627",
+    "title": "Southwest Airlines Cancels 9 Routes From This Major Airport: See Affected Flights Now",
+    "summary": "The facility in question remains a key base for the carrier despite the cuts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T19:00:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-cancels-9-routes-from-major-airport/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c9ee6e8ff632",
+    "title": "Why London-Los Angeles Flights Curve Over Greenland Instead Of Flying Straight West",
+    "summary": "A deep look into the complexities of airline flight planning.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T19:00:14Z",
+    "url": "https://simpleflying.com/why-london-los-angles-flights-curve-greenland-instead-flying-straight-west/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bccc0d5b957b",
+    "title": "How Delta Air Lines Rebuilt Its Airbus A330-900neo To End The Cheap-Widebody Era",
+    "summary": "Delta is replacing its aging 767-300ERs with a more premium-heavy A330-900neo product rather than just increasing seat count.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T18:00:14Z",
+    "url": "https://simpleflying.com/how-delta-air-lines-rebuilt-airbus-a330-900neo-end-cheap-widebody-era/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "b5bb7f02182d",
+    "title": "Singapore Airlines Vs. Cathay Pacific: Which Carrier\u2019s Premium Economy Is Superior?",
+    "summary": "Cathay Pacific and Singapore Airlines offer similar premium economy services, but one may have the edge.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T17:30:14Z",
+    "url": "https://simpleflying.com/singapore-airlines-cathay-pacific-which-premium-economy-is-superior/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "914f1403d9f9",
+    "title": "United Airlines Launches New 9-Hour A321XLR Flights: But There's A Catch",
+    "summary": "The carrier is entering a new long-haul era.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T16:01:14Z",
+    "url": "https://simpleflying.com/united-airlines-launches-new-9-hour-a321xlr-flights/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "efa7fac34a1a",
     "title": "Why F-15 Radars Deleted The SR-71 Blackbird As Invalid Clutter During 'Eagle Bait' Sorties",
     "summary": "The SR-71flew so fast and so high that even USAF F-15s struggled to intercept the Blackbird during Eagle Bait training exercises.",
@@ -127,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-19T00:01:31Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-18T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -556,7 +611,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-17T23:42:11Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/17/bedford-highlights-atc-overhaul-progress-urges-continued-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/17/bedford-highlights-atc-overhaul-progress-urges-continued-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -578,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-17T21:03:46Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/17/insurer-credits-training-data-welcomes-pistons?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/17/insurer-credits-training-data-welcomes-pistons?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1645,7 +1700,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-13T16:01:15Z",
     "url": "https://simpleflying.com/american-airlines-nine-hour-airbus-a321xlr-flights-south-america/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "82e07a8dce8b",
-    "title": "Why The US Air Force Is Sending A Third Of Its KC-46 Tanker Fleet To The Pacific",
-    "summary": "The Asia-Pacific is one of the most important regions of planning for the USAF, Marines, and Navy with the KC-46 taking a central planning role.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T15:00:14Z",
-    "url": "https://simpleflying.com/why-usaf-sending-third-kc-46-tanker-fleet-pacific/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fcf898d69774",
-    "title": "Why Frontier Airlines' Return To Oakland Signals A Quiet ULCC Land Grab After Southwest's 20% Pullback",
-    "summary": "The ultra-low-cost carrier is taking over the gap left by Southwest Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T14:00:14Z",
-    "url": "https://simpleflying.com/frontier-airlines-return-oakland-signals-quiet-ulcc-land-grab-southwest-pullback/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "dd18bffa11b4",
-    "title": "The 6 Western Fighter Jets Ranked By Number On Order In 2026",
-    "summary": "The F-35 is by far the most popular Western fighter jet, with more orders than all others combined, including all likely future orders.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T13:00:14Z",
-    "url": "https://simpleflying.com/western-fighter-jets-order-backlog-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79e7d9866430",
-    "title": "How Minneapolis-St. Paul Became The Last US Hub Where The DC-9 Still Made Economic Sense",
-    "summary": "Delta Air Lines operated the DC-9 at the airport until 2014.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T10:00:14Z",
-    "url": "https://simpleflying.com/how-minneapolis-st-paul-last-us-hub-dc-9-made-economic-sense/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1fd03a09c17f",
-    "title": "A Scrapped Boeing 747's Airframe Is Worth Less Than A Single Piece Of Its Landing Gear",
-    "summary": "Commercial airliners are worth far less than you think.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T09:15:14Z",
-    "url": "https://simpleflying.com/scrapped-boeing-747-airframe-worth-less-single-piece-of-landing-gear/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
