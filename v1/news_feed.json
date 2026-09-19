@@ -1,13 +1,79 @@
 [
   {
+    "id": "c07ab7d62128",
+    "title": "How Much Do Fighter Pilots Earn Vs. Commercial Airline Pilots In 2026?",
+    "summary": "A closer look at what pilots earn in both fields around the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T01:45:13Z",
+    "url": "https://simpleflying.com/how-much-fighter-pilots-earn-vs-commercial-pilots-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "521cc8ba1a0c",
+    "title": "Why The US Navy Waited A Decade To Give Super Hornet Pilots The Air Force's Life-Saving Auto GCAS",
+    "summary": "The US Navy is finally bringing Auto-GCAS to its F/A-18 fleet, adding a critical layer of protection against potentially fatal ground collisions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-19T01:00:14Z",
+    "url": "https://simpleflying.com/why-us-navy-waited-decade-give-super-hornet-pilots-air-forces-life-saving-auto-gcas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c054dc3f550c",
     "title": "AOPA Statement on NBAA\u2019s Leadership Announcement",
     "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) would like to extend well wishes for successful treatment and recovery to National Business Aviation Association (NBAA) President and CEO Ed Bolen. NBAA announced that Dan Hubbard will serve as interim chief oper...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-19T00:01:31Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bba685bf22e9",
+    "title": "Air New Zealand's Last Grounded Boeing 787 Just Left The Australian Desert After 9 Months",
+    "summary": "The airline has now finally put the Trent 1000 disruption behind it.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-18T23:00:14Z",
+    "url": "https://simpleflying.com/air-new-zealand-last-grounded-boeing-787-left-australian-desert-9-months/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f39e9d386357",
+    "title": "How Much Does A Delta Premium Select Upgrade Actually Cost On Its Longest Routes?",
+    "summary": "What you'll be paying for a wider seat and more legroom.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-18T22:00:14Z",
+    "url": "https://simpleflying.com/how-much-dps-upgrade-cost-longest-routes/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "2613db098a46",
+    "title": "5 Air Force Bases Spending Billions To Prepare For The B-21 Raider's Arrival",
+    "summary": "The B-21 may be the aircraft of the future, but getting it to the flight line requires rebuilding bases designed for bombers of the past.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-18T21:00:14Z",
+    "url": "https://simpleflying.com/5-air-force-bases-spending-billions-prepare-b-21-raider-arrival/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "efe910c3fce5",
+    "title": "Delta Air Lines Planning To Open Minneapolis\u2013St. Paul Airbus A350 Base In Early 2027",
+    "summary": "Delta's deeper MSP footprint could unlock seasonal long haul links and modernize aircraft on key transatlantic flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-18T20:28:15Z",
+    "url": "https://simpleflying.com/delta-air-lines-planning-minneapolis-st-paul-airbus-a350-base-early-2027/",
+    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
   {
@@ -347,7 +413,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-18T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/cau-brings-boeing-cbta-to-students?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -391,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-17T23:42:11Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/17/bedford-highlights-atc-overhaul-progress-urges-continued-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/17/bedford-highlights-atc-overhaul-progress-urges-continued-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -413,7 +479,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-17T21:03:46Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/17/insurer-credits-training-data-welcomes-pistons?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/17/insurer-credits-training-data-welcomes-pistons?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1480,7 +1546,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-09-12T20:00:13Z",
     "url": "https://simpleflying.com/airbus-107-a350f-orders-1st-delivery-already-under-pressure/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e31c3a19b46",
-    "title": "Boeing Delivers Romania's First 737 MAX, 2nd Jet To Arrive Later This Month",
-    "summary": "The new aircraft marks an important chapter in the airlines fleet renewal program.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T19:27:56Z",
-    "url": "https://simpleflying.com/boeing-delivers-romania-first-737-max-tarom/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "964a0fbf4e51",
-    "title": "Southwest Airlines Cancels 17 Routes From World's Busiest Airport: See Affected Flights",
-    "summary": "Dwindling load factors have seen Southwest move aircraft to develop its Nashville base instead.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T19:00:13Z",
-    "url": "https://simpleflying.com/southwest-airlines-cancels-17-routes-from-worlds-busiest-airport/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a4d6a3330b9b",
-    "title": "The Transpacific Route United Airlines Was Expected To Announce But Quietly Didn't",
-    "summary": "United's Newark reveal rolled out A321XLRs and ten summer routes while a highly anticipated Pacific corridor stayed quiet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T19:00:13Z",
-    "url": "https://simpleflying.com/transpacific-route-united-airlines-expected-announce-quietly-didnt/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9012b530b076",
-    "title": "21 Air Safety Concerns Raised & Amazon Contract Now Criticized After Deadly Boeing 767 Crash",
-    "summary": "Some former employees are not surprised at the accident.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T18:44:45Z",
-    "url": "https://simpleflying.com/21-air-safety-concerns-raised-amazon-contract-criticized-deadly-boeing-767-crash/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b2d09920a144",
-    "title": "How JetBlue Secured Fortress-Hub-Level Private Capital For A $1 Billion Boston Logan Rebuild",
-    "summary": "With competitors edging closer to overtaking its market share at Boston Logan, JetBlue is seeking to defend its hub.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T18:00:14Z",
-    "url": "https://simpleflying.com/jetblue-secure-fortress-hub-level-private-captial-1-billion-boston-logan-rebuild/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "bcfa8f42167f",
-    "title": "United Is Scrapping An Airbus A320 Wrecked By A Catering Truck At Reagan National",
-    "summary": "The aircraft has been sitting in parking since the incident in May.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-12T17:23:31Z",
-    "url": "https://simpleflying.com/united-airbus-a320-scrapped-catering-truck-reagan-national/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
