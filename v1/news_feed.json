@@ -1,5 +1,71 @@
 [
   {
+    "id": "3edd9279870e",
+    "title": "Southwest Airlines Starts 6 Major New Nonstop Routes To Hawaii: See Flights Now",
+    "summary": "All but one originate in California.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T19:00:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-starts-6-new-routes-hawaii/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "32bca9dbbb91",
+    "title": "GE Aerospace Is Spending $1 Billion To Fix The Engine Shop-Visit Crunch Airlines Can't Escape",
+    "summary": "The global MRO upgrade strategy behind the CFM LEAP engine family.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T18:00:14Z",
+    "url": "https://simpleflying.com/ge-aerospace-spending-1-billion-fix-engine-shop-visit-cruch-airlines-escape/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8f66764dea75",
+    "title": "American Airlines Offered Eagles Fans $3,500 Each To Get Off Oversold Nashville Flight",
+    "summary": "A handful of passengers accepted the offer, which was paid out in travel vouchers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T17:41:04Z",
+    "url": "https://simpleflying.com/american-airlines-eagles-fans-3500-nashville-flight/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f9aa8d9dc41e",
+    "title": "American Airlines Launches 14 New Routes From World's Busiest Airport: See Full List",
+    "summary": "Among these is one notable long-haul addition.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T16:00:15Z",
+    "url": "https://simpleflying.com/american-airlines-launches-14-new-routes-from-worlds-busiest-airport/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6ac1af106bf7",
+    "title": "The London Court Hearing That Could End The Startup Trying To Revive The Airbus A380",
+    "summary": "Could Global Airlines have met its match? A London court hearing may well end operations before they could ever takeoff.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T16:00:15Z",
+    "url": "https://simpleflying.com/london-court-hearing-end-startup-revive-airbus-a380/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "783358d119c1",
+    "title": "The 7 Largest Air Force Bases By Population In The US",
+    "summary": "Which airfield has the deepest roster?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T15:48:31Z",
+    "url": "https://simpleflying.com/largest-air-force-bases-by-population-in-us/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "458ec88b0e75",
     "title": "Why The US Air Force Retired Its E-8 Joint STARS Fleet Without A Direct Replacement",
     "summary": "The evolution of the Air Force's airborne command and control mission.",
@@ -2130,72 +2196,6 @@
     "category": "military",
     "publishedDate": "2026-09-14T08:54:06Z",
     "url": "https://simpleflying.com/mod-denies-military-jet-flight-plan-nats-outage/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "964b8950fc6e",
-    "title": "Amazon pauses 21 Air operations after deadly Miami 767 runway overrun",
-    "summary": "Amazon has paused its use of 21 Air, the cargo carrier that&#160;operated&#160;the Boeing 767 freighter that&#160;overran a runway&#8230; The post Amazon pauses 21 Air operations after deadly Miami 767 runway overrun appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-14T07:46:17Z",
-    "url": "https://www.aerotime.aero/articles/amazon-pauses-21-air-miami-767-overrun",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "79522f195337",
-    "title": "Why Delta Air Lines Is Betting Its Entire Pacific Future On Just 2 West Coast Airports",
-    "summary": "Only 2 airports in the Pacific are in Delta Air Lines' plans. Is this really enough, or is this actually a global trend in development?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T07:00:14Z",
-    "url": "https://simpleflying.com/why-delta-air-lines-betting-entire-pacific-future-2-west-coast-airports/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "f228d8cba60a",
-    "title": "Amazon Pulls All Cargo From 21 Air After Fatal Boeing 767 Runway Overrun",
-    "summary": "Amazon Prime Air suspends cargo flight services by 21 Air.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T06:53:32Z",
-    "url": "https://simpleflying.com/amazon-pulls-cargo-21-air-boeing-767-miami-runway-overrun/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c6564e4f8140",
-    "title": "How United Airlines Is Rebuilding Its 2nd-Busiest Transatlantic Hub Without Breaking It",
-    "summary": "United stands to benefit from major work that will add 36 gates at Washington Dulles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T04:00:16Z",
-    "url": "https://simpleflying.com/united-airlines-rebuilding-2nd-busiest-transatlantic-hub-without-breaking/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f73168ad1f47",
-    "title": "Airbus Built A Plane No Airline Wanted: Now Enthusiasts Are Racing To Fly It",
-    "summary": "A closer look at why the Airbus A318 was a flop, and how you can fly on one before it disappears from airline service for good.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T01:45:14Z",
-    "url": "https://simpleflying.com/airbus-built-plane-no-airline-wanted-now-enthusiasts-racing-fly/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2e42dfb466d5",
-    "title": "The Aircraft The US Air Force Says Will Replace The A-10 Warthog, But Here's Why Critics Say It Can't",
-    "summary": "The A-10 carries six times more 30mm ammunition than the F-35A, but that enormous difference reflects two radically different ideas",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T00:00:13Z",
-    "url": "https://simpleflying.com/aircraft-us-air-force-says-replace-a-10-warthog-why-critics-say-cant/",
     "airlineTag": null,
     "isBreaking": false
   }
