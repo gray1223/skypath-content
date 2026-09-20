@@ -1,5 +1,38 @@
 [
   {
+    "id": "6919a554ac3c",
+    "title": "The North Carolina Airport Where 2 Different Airlines Tried & Failed To Build A Hub",
+    "summary": "Two airlines tried to build a hub at Raleigh-Durham. Both failed for the same reason: Charlotte and Atlanta were too close.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T10:00:14Z",
+    "url": "https://simpleflying.com/north-carolina-airport-2-different-airlines-tried-failed-build-hub/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1a73fd20aef2",
+    "title": "Why The US Air Force Replaced 33 Feet Of A B-1B Bomber's Spine 3 Months Early",
+    "summary": "The USAF's radical fleet overhaul is exceeding expectations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T04:00:16Z",
+    "url": "https://simpleflying.com/why-usaf-replaced-33-feet-b-1b-bomber-spine-3-months-early/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e9feb0229d18",
+    "title": "Family Accuses Delta Of Leaving Father's Remains Unrefrigerated Overnight In Memphis",
+    "summary": "A tight connection allegedly left a Tennessee family scrambling after their father\u2019s flight delay and cargo cutoff.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-20T03:42:45Z",
+    "url": "https://simpleflying.com/delta-human-remains-unrefrigerated-overnight-memphis/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "2b20cfd4da66",
     "title": "Why United Airlines' 66 Incoming Boeing 787-9s Are Breaking The Polaris Lounge Network",
     "summary": "Investments in premium lounges are needed to keep up with premium cabin expansions.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-09-13T22:00:14Z",
     "url": "https://simpleflying.com/how-many-f-47-ngad-fighters-usaf-wants-flying-2030s/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d638b62f4d87",
-    "title": "The FAA Just Sent $158 Million To 3 Sun Belt Airports While Northern Hubs Got Nothing Close",
-    "summary": "Investigating where the FAA is investing the most for airport improvements.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T21:00:13Z",
-    "url": "https://simpleflying.com/faa-158-million-3-sun-belt-airport-northern-hubs-nothing-close/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "33d9e307f4e1",
-    "title": "11 Miles Off: Business Jet Lands At US Bomber Base RAF Fairford By Mistake",
-    "summary": "Cessna Citation makes head-scratching landing mistake, ending up at military base.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T20:35:13Z",
-    "url": "https://simpleflying.com/business-jet-lands-raf-fairford-bomber-base-mistake/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "131d4231644b",
-    "title": "Breeze Airways & Delta Air Lines Hit With FAA Order To Inspect Airbus A220 Fuel Hose Lines",
-    "summary": "FAA targets 13 US Airbus A220s for fuel hose inspections after a twisting defect raised concerns over fuel leaks and potential fire risks.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-13T19:07:14Z",
-    "url": "https://simpleflying.com/breeze-airways-delta-air-lines-hit-faa-order-inspect-airbus-a220-fuel-hose-lines/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
