@@ -11,6 +11,50 @@
     "isBreaking": false
   },
   {
+    "id": "de611fba2059",
+    "title": "The F-4 Phantom II's Brute-Force Design Is Why Modern Air Forces Can't Replace It",
+    "summary": "The F-4 Phantom II was noted for being a 'brick' that had the sheer thrust that allowed it to fly into combat and win.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T01:45:14Z",
+    "url": "https://simpleflying.com/f-4-phantom-ii-brute-force-design-that-modern-air-forces-cant-replace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e4a44a7be90f",
+    "title": "6 Airports So Isolated Pilots Need Extra Fuel Reserves Just To Fly There",
+    "summary": "Six remote airports reveal how extreme isolation changes airline fuel planning, alternates and the critical point of no return.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T00:00:14Z",
+    "url": "https://simpleflying.com/isolated-airports-extra-fuel-reserves-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "690ea8dc2df4",
+    "title": "The Silent 4-Year-Old Qantas Airbus A380 Decision That Predicted The Fleet's Early 2028 Retirement",
+    "summary": "Dragged down by higher fuel prices and buoyed by impending A350-1000ULR deliveries, Qantas will retire its A380s early.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-21T23:00:15Z",
+    "url": "https://simpleflying.com/silent-4-year-old-qantas-airbus-a380-decision-predicted-fleet-early-2028-retirement/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f4df64f47819",
+    "title": "American Airlines To Lead Phoenix's 1st New Terminal In Nearly 40 Years",
+    "summary": "Construction could start as early as 2029 with a total cost around $4.5 billion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-21T22:43:18Z",
+    "url": "https://simpleflying.com/american-airlines-lead-phoenix-1st-new-terminal-40-years/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "4f244b658cb7",
     "title": "The United States' Quietest Commercial Airports By Passenger Volume",
     "summary": "Some US commercial airports handle millions of passengers each year, but these 10 recorded fewer than 12,000 enplanements in 2025.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-14T21:01:18Z",
     "url": "https://simpleflying.com/embraer-delivered-2000th-e-jet-airbus-a220-fights-catch-up/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0bb795263cc9",
-    "title": "Delta Air Lines Launches 5 New Nonstop Routes From Los Angeles: See Flights Now",
-    "summary": "Delta is betting big on three new domestic, and two international destinations from the City of Angels.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T21:01:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-adds-record-64-nonstop-routes-from-major-hub/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "d2fc5a1bdbb5",
-    "title": "CAE's electric Archer stalls at the design stage",
-    "summary": "Four years ago, CAE's plan to turn the Piper Archer into an electric training aircraft looked like a glimpse into aviation's future.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-14T20:34:01Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/14/caes-electric-archer-stalls-at-the-design-stage?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b5023c675aeb",
-    "title": "US already has weapons in orbit, Air Force secretary reveals",
-    "summary": "The United States has weapons in orbit to defend its forces against hostile action, Air Force Secretary Troy&#8230; The post US already has weapons in orbit, Air Force secretary reveals appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-14T20:18:33Z",
-    "url": "https://www.aerotime.aero/articles/us-weapons-orbit-space-force-troy-meink",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fb485bb6706c",
-    "title": "Swarm Aero Unveils 9,000-NM Gamera Drone",
-    "summary": "Group 5 aircraft is being pitched for an Air Force program seeking a lower-cost successor to the MQ-9 Reaper.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-14T20:00:51Z",
-    "url": "https://avweb.com/aviation-news/swarm-aero-9000-nm-gamera-drone/",
     "airlineTag": null,
     "isBreaking": false
   }
