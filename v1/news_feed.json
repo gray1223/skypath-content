@@ -11,6 +11,28 @@
     "isBreaking": false
   },
   {
+    "id": "e96b0c7571e6",
+    "title": "Why Only The Airbus A350-1000ULR Can Make Sydney To London Work Without A Fuel Stop",
+    "summary": "Larger fuel tanks and a lower passenger and cargo capacity are needed for Qantas' Project Sunrise flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T10:58:58Z",
+    "url": "https://simpleflying.com/a350-1000ulr-sydney-london-nonstop-works/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "633d616eb887",
+    "title": "UK to support Saudi defensive operations in response to renewed Houthi attacks",
+    "summary": "The United Kingdom (UK) has agreed to assist Saudi Arabia with defensive operations in response to renewed Houthi&#8230; The post UK to support Saudi defensive operations in response to renewed Houthi attacks appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-22T10:35:25Z",
+    "url": "https://www.aerotime.aero/articles/uk-support-saudi-arabia-defensive-operations-houthi-attacks",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "de611fba2059",
     "title": "The F-4 Phantom II's Brute-Force Design Is Why Modern Air Forces Can't Replace It",
     "summary": "The F-4 Phantom II was noted for being a 'brick' that had the sheer thrust that allowed it to fly into combat and win.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-09-14T21:40:40Z",
     "url": "https://simpleflying.com/american-airlines-asia-comeback-transpacific-race/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "825beef3bf39",
-    "title": "First Look: Etihad Airways' New First Class Set To Roll Out On A330neo Deliveries In 2027",
-    "summary": "Etihad's incoming A330neos will feature four private First suites as the airline dramatically expands its premium-cabin strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T21:26:11Z",
-    "url": "https://simpleflying.com/etihad-airways-new-first-class-a330-900-deliveries-2027/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "288f99905b44",
-    "title": "Embraer Just Delivered Its 2,000th E-Jet While Airbus' A220 Fights To Catch Up",
-    "summary": "The A220 has the lead in the order book but still has to catch up.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-14T21:01:18Z",
-    "url": "https://simpleflying.com/embraer-delivered-2000th-e-jet-airbus-a220-fights-catch-up/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
