@@ -22,6 +22,39 @@
     "isBreaking": false
   },
   {
+    "id": "2bf989e14973",
+    "title": "The Hidden Math Behind Southwest Airlines' Assigned Seating Gamble With 800+ Boeing 737s",
+    "summary": "Its sudden shift to assigned seating is a gamble with the airline's core operational efficiency across its massive 800+ Boeing 737 fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-23T01:45:14Z",
+    "url": "https://simpleflying.com/hidden-math-southwest-airlines-assigned-seating-gamble-with-800-boeing-737s/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "dd3d03ce6917",
+    "title": "How A Single FAA Phraseology Rule Explains The Level-Off Every Passenger Feels At 10,000 Feet",
+    "summary": "Many passengers feel a distinct leveling off at 10,000 feet, although this is not universal and can occur at different altitudes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-23T00:00:14Z",
+    "url": "https://simpleflying.com/single-faa-phraseology-rule-explain-level-off-passenger-10000-feet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9e740c4922c7",
+    "title": "How A $1.1 Billion Upgrade Just Turned A Remote Australian Airbase Into The US Air Force's Answer To Guam",
+    "summary": "The USAF growing footprint in Northern Australia's outback.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-23T00:00:14Z",
+    "url": "https://simpleflying.com/1-billion-upgrade-turned-remote-australian-airbase-usaf-answer-guam/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "b6341144491d",
     "title": "A dog\u2019s star turn in \u2018The Dog Stars\u2019",
     "summary": "Jasper is the main character&rsquo;s (Hig, played by Jacob Elordi) canine companion in Ridley Scott&rsquo;s recently released film The Dog Stars based on the dystopian novel by Peter Heller.",
@@ -33,6 +66,17 @@
     "isBreaking": false
   },
   {
+    "id": "0bf82b8c0900",
+    "title": "Canada's Regulator Fined Air Canada, Ordered WestJet To Change & Wheelchair Users Are Suing Anyway",
+    "summary": "Penalties and orders collide with lawsuits as aircraft design and loading rules force airlines to rethink operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T22:00:14Z",
+    "url": "https://simpleflying.com/canada-regulator-fine-air-canada-ordered-westjet-change-wheelchair-users-suing-anyway/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "53fd1cbbb9a6",
     "title": "Training and Safety Tip: Know your EFB",
     "summary": "An electronic flight bag has become an essential part of your aviation kit. Whatever planning tool you use to prepare for each flight, spend some ground time learning how to get the most out of that software.",
@@ -40,6 +84,50 @@
     "category": "training",
     "publishedDate": "2026-09-22T21:25:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/training-and-safety-tip-know-your-efb?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fac9e5755294",
+    "title": "American Airlines Expands Starlux Partnership: Does It Signal Bigger Asia Plans?",
+    "summary": "Passengers can book mixed itineraries from Chicago to Taipei under single reservations as codeshares go live Sept 30.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T21:14:16Z",
+    "url": "https://simpleflying.com/american-airlines-expands-starlux-partnership-future-asia/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "abf31aea8719",
+    "title": "SpiceJet faces scrutiny of operations and finances as cash problems persist",
+    "summary": "India\u2019s aviation regulator is examining SpiceJet\u2019s operations and finances as the airline struggles with cash shortages, flight disruptions&#8230; The post SpiceJet faces scrutiny of operations and finances as cash problems persist appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "military",
+    "publishedDate": "2026-09-22T21:08:48Z",
+    "url": "https://www.aerotime.aero/articles/spicejet-dgca-operations-financial-scrutiny",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1e6fa2fb26ab",
+    "title": "How British Airways Is Quietly Reclaiming The Midwest Cities US Legacies Abandoned After 9/11",
+    "summary": "After US airlines merged and several Midwest hubs were lost, British Airways had opportunities to reestablish direct flights with 787s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T21:00:14Z",
+    "url": "https://simpleflying.com/how-british-airways-reclaiming-midwest-us-legacy-abandoned-9-11/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dccc92ce42db",
+    "title": "US F-16 Crashes Near Air Force Base In Germany; Pilot Ejected & Injured",
+    "summary": "The jet was part of a four-aircraft training exercise.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-22T20:59:01Z",
+    "url": "https://simpleflying.com/us-f-16-crashes-air-force-base-germany-pilot-ejected-injured/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-09-15T20:00:14Z",
     "url": "https://simpleflying.com/delta-cancels-these-17-international-routes/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "3e3d8f82e001",
-    "title": "New Bill Seeks To Slash 50% Of Washington Reagan's Long-Distance Flights In Air Safety Push",
-    "summary": "Legislation would force public reporting and FAA slot decisions as part of a staged plan to ease Reagan\u2019s congestion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-15T19:57:55Z",
-    "url": "https://simpleflying.com/new-bill-slash-50pc-washington-reagan-long-distance-flights-air-safety-push/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "23974b0b3337",
-    "title": "Swarm Aero targets lower cost, 9,000-nm range with Gamera drone",
-    "summary": "Swarm Aero has unveiled Gamera, a large military drone designed to fly more than 9,000 nautical miles and&#8230; The post Swarm Aero targets lower cost, 9,000-nm range with Gamera drone appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-15T19:44:56Z",
-    "url": "https://www.aerotime.aero/articles/swarm-aero-gamera-drone-cost-9000-nm-range",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "881031d3dba6",
-    "title": "Training and Safety Tip: Power through blue",
-    "summary": "Everyone hates an uncomfortable surprise, and pilots are no exception. You may one day find yourself lurching through a sudden onslaught of clear air turbulence, or being tossed around by the wake of a large aircraft, or otherwise coping with the consequences of air being stir...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-15T19:42:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/15/training-and-safety-tip-power-through-blue?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "730f5a55aa05",
-    "title": "FAA\u2019s Bedford Defends ATC Modernization Delays But Says More Money Needed",
-    "summary": "Agency leader also would not commit to giving controllers a 3.8 percent raise provided for by legislation.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-15T19:30:00Z",
-    "url": "https://www.flyingmag.com/faa-bedford-atc-modernization-delay-funding/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "effa7bc2749b",
-    "title": "How Much Do US Air Force Fighter Pilots Make Compared To Commercial Airline Pilots?",
-    "summary": "While US fighter jet pilots earn somewhat comparable incomes to commuter and regional pilots, narrowbody and widebody pilots earn much more.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-15T19:00:14Z",
-    "url": "https://simpleflying.com/how-much-usaf-fighter-pilots-make-commercial-airline-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4b0556386a0f",
-    "title": "The 5 Most Profitable US Airlines In The 1st Half Of 2026",
-    "summary": "In the first half of 2026, US airlines reported declining profits. These were the most profitable airlines in the first six months of the year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-15T17:00:14Z",
-    "url": "https://simpleflying.com/most-profitable-us-airlines-1st-half-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b79745a50ca4",
-    "title": "Epic Flight Academy Accepting Aviation Scholarship Applications",
-    "summary": "$145,000 available for high school students pursuing careers as pilots or technicians.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-09-15T16:00:00Z",
-    "url": "https://www.flyingmag.com/epic-flight-academy-accepting-aviation-scholarship-applications/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a2c16b1e0a64",
-    "title": "Air Force Plans 500 Autonomous Fighters By 2032",
-    "summary": "Collaborative Combat Aircraft will take on missions now flown by crewed fighters as the service expands its uncrewed fleet.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-15T15:41:53Z",
-    "url": "https://avweb.com/aviation-news/air-force-500-autonomous-fighters-by-2032/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
