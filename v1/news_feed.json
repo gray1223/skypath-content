@@ -6,7 +6,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-25T22:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/25/3-ways-you-may-be-sabotaging-your-aircraft-insurance-renewal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/25/3-ways-you-may-be-sabotaging-your-aircraft-insurance-renewal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,7 +17,29 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-25T18:50:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/25/retirement-income-funding-your-flying-lifestyle?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/25/retirement-income-funding-your-flying-lifestyle?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "340a734053ea",
+    "title": "This Airline Had The World's Final Unfulfilled Order For The Passenger Boeing 777-300ER",
+    "summary": "PIA is on the books as the customer of the last Boeing 777-300ER, although it's possible the final unit was delivered in 2024.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-25T01:45:14Z",
+    "url": "https://simpleflying.com/airline-has-final-worlds-final-unfulfilled-order-for-passenger-boeing-777-300er/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "83988ab4df39",
+    "title": "The Aircraft Replacing The Iconic McDonnell Douglas MD-11 On Cargo Routes",
+    "summary": "The MD-11F is being phased out, so which aircraft will take its place? In reality, it may not be just one aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-24T22:00:14Z",
+    "url": "https://simpleflying.com/boeing-767-replacing-md11-cargo-routes/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -28,7 +50,18 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-24T21:52:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/24/joby-j208-makes-transcontinental-history?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/24/joby-j208-makes-transcontinental-history?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4ca5c0b02178",
+    "title": "Pratt & Whitney Delivers 1st GTF Advantage-Powered Airbus A321XLR To United Airlines",
+    "summary": "A new chapter begins as United's A321XLR debuts with GTF Advantage power, promising more thrust and time on wing.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-24T21:46:01Z",
+    "url": "https://simpleflying.com/pratt-whitney-delivers-1st-gtf-advantage-powered-airbus-a321xlr-united-airlines/",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -50,7 +83,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-24T20:34:36Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/24/mustangs-resume-racing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/24/mustangs-resume-racing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -864,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-22T23:52:49Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/22/a-dogs-star-turn-in-the-dog-stars?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/a-dogs-star-turn-in-the-dog-stars?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -886,7 +919,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-22T21:25:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/22/training-and-safety-tip-know-your-efb?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/training-and-safety-tip-know-your-efb?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1007,7 +1040,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-22T18:47:15Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/22/i-am-a-whippet-and-i-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/i-am-a-whippet-and-i-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-21T19:31:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/21/meet-cub-scrappy-the-flying-icies?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/21/meet-cub-scrappy-the-flying-icies?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "UPS Airlines",
     "isBreaking": false
   },
@@ -1898,7 +1931,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-19T00:01:31Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/18/pr-aopa-statement-on-nbaas-leadership-announcement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-18T13:00:00Z",
     "url": "https://www.flyingmag.com/virginia-school-faa-atc-fast-track-program/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a5cd29e8a0e9",
-    "title": "Singapore Airlines Launches New 16-Hour Ultra-Long Flights In 1 Month: See Map Now",
-    "summary": "From October 26, Madrid will once again be served, but in a very different way from last time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-18T12:00:14Z",
-    "url": "https://simpleflying.com/singapore-airlines-launches-new-16-hour-route-1-month/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bd7c3abce5c",
-    "title": "Danish F-35s land in Greenland for first time in major NATO Arctic drill",
-    "summary": "Two Royal Danish Air Force F-35A fighters landed at Kangerlussuaq Airport (SFJ) in western Greenland on September 16,&#8230; The post Danish F-35s land in Greenland for first time in major NATO Arctic drill appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-18T11:51:46Z",
-    "url": "https://www.aerotime.aero/articles/denmark-f35-first-greenland-landing-nato-arctic-drill",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bd6a0e0d58f6",
-    "title": "Malaysia Airlines nears order for first-ever Boeing 787 Dreamliners: Bloomberg",
-    "summary": "Malaysia Airlines is close to ordering its first-ever Boeing 787 Dreamliners as it looks to replace seven Airbus&#8230; The post Malaysia Airlines nears order for first-ever Boeing 787 Dreamliners: Bloomberg appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-18T11:35:05Z",
-    "url": "https://www.aerotime.aero/articles/malaysia-airlines-order-first-boeing-787-dreamlinersbloomberg",
     "airlineTag": null,
     "isBreaking": false
   }
