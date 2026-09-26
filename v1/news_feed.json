@@ -1,5 +1,60 @@
 [
   {
+    "id": "e1c65c83b181",
+    "title": "Why United Airlines' Biggest Widebody Decision Of The Decade Is Actually A Range Downgrade",
+    "summary": "United gave up more than 1,100 nautical miles of range on 56 Boeing 787s. Why would the airline choose the shorter-range jet?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T15:00:14Z",
+    "url": "https://simpleflying.com/why-united-airlines-biggest-widebody-decision-decade-range-downgrade/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2fba9491db81",
+    "title": "The Software Deal That Could Put Anduril Inside Every CCA The Air Force Buys",
+    "summary": "The AI revolution shaping the future of US air power.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-26T14:00:14Z",
+    "url": "https://simpleflying.com/software-deal-put-anduril-inside-every-cca-air-force-buys/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0bd65f2ebdb6",
+    "title": "The Beverages Flight Attendants Say They'd Never Order On A Flight",
+    "summary": "A closer loiok at some of the usual suspects.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T13:00:14Z",
+    "url": "https://simpleflying.com/beverages-flight-attendants-never-order-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6958e39394f5",
+    "title": "How Ryanair Built Europe's Most Profitable Airline By Making Flying As Uncomfortable As Possible",
+    "summary": "The European short-haul aviation landscape has been conquered by a blue-and-yellow paradox that defies conventional corporate logic. An airline that routinely strips away basic cabin amenities, charges for hand luggage, and leaves passengers standing on cold tarmacs should be ...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T12:28:14Z",
+    "url": "https://simpleflying.com/video/how-ryanair-built-europe-s-most-profitable-airline-by-making-flying-as-uncomfortable-as-possible/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "285f860a4710",
+    "title": "The RAF's New Voyager Boom Fixes A Refueling Gap The UK Outsourced To The US & France",
+    "summary": "The RAF's growing fleet of boom-dependent aircraft is creating a refueling gap that Britain must address before GCAP enters service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T12:00:14Z",
+    "url": "https://simpleflying.com/raf-new-voyager-boom-fix-refueling-gap-uk-outsourced-us-france/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "13d0afaf2b99",
     "title": "Virgin Atlantic Concorde: Sir Richard Branson's Quixotic Supersonic Quest",
     "summary": "A closer look at how Sir Richard Branson tried and failed to bring supersonic capabilities to the Virgin Atlantic fleet.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-19T20:47:25Z",
     "url": "https://simpleflying.com/delta-air-lines-1st-vip-charter-airbus-a321neo-enters-service/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "0c700c50ef0c",
-    "title": "Riyadh Airport Fuel Tanks Hit By Missiles 5 Weeks Before Delta Begins Atlanta Nonstop",
-    "summary": "Ballistic missiles and drones struck near the airport, igniting storage tanks and prompting emergency firefighting crews.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T20:18:20Z",
-    "url": "https://simpleflying.com/riyadh-airport-fuel-tanks-missile-attack-delta-atlanta/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "cf1746d13627",
-    "title": "Southwest Airlines Cancels 9 Routes From This Major Airport: See Affected Flights Now",
-    "summary": "The facility in question remains a key base for the carrier despite the cuts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T19:00:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-cancels-9-routes-from-major-airport/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c9ee6e8ff632",
-    "title": "Why London-Los Angeles Flights Curve Over Greenland Instead Of Flying Straight West",
-    "summary": "A deep look into the complexities of airline flight planning.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T19:00:14Z",
-    "url": "https://simpleflying.com/why-london-los-angles-flights-curve-greenland-instead-flying-straight-west/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bccc0d5b957b",
-    "title": "How Delta Air Lines Rebuilt Its Airbus A330-900neo To End The Cheap-Widebody Era",
-    "summary": "Delta is replacing its aging 767-300ERs with a more premium-heavy A330-900neo product rather than just increasing seat count.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T18:00:14Z",
-    "url": "https://simpleflying.com/how-delta-air-lines-rebuilt-airbus-a330-900neo-end-cheap-widebody-era/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "b5bb7f02182d",
-    "title": "Singapore Airlines Vs. Cathay Pacific: Which Carrier\u2019s Premium Economy Is Superior?",
-    "summary": "Cathay Pacific and Singapore Airlines offer similar premium economy services, but one may have the edge.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T17:30:14Z",
-    "url": "https://simpleflying.com/singapore-airlines-cathay-pacific-which-premium-economy-is-superior/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
