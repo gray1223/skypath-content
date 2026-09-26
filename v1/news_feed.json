@@ -1,5 +1,71 @@
 [
   {
+    "id": "bf3f45fb87ae",
+    "title": "A Few Days: Alaska Airlines Expecting Boeing 737 MAX 10 Certification By Month\u2019s End",
+    "summary": "Months of testing and regulatory reviews converge as the largest 737 MAX variant inches toward airline service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T20:31:38Z",
+    "url": "https://simpleflying.com/alaska-airlines-expecting-boeing-737-max-10-certification-months-end/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e53ed1e9cfcc",
+    "title": "3 Air Forces Still Flying The F-4 Phantom More Than 60 Years Later",
+    "summary": "The F-4 Phantom entered service in 1960. Three air forces still fly it in 2026, while one privately owned example has returned to the skies.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T20:00:14Z",
+    "url": "https://simpleflying.com/air-forces-still-flying-f4-phantom/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5c701b4a66d0",
+    "title": "Why Are New Boeing Planes Green Before They Are Delivered?",
+    "summary": "A closer look at the paint and production processes of Boeing airliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T19:16:28Z",
+    "url": "https://simpleflying.com/new-boeing-planes-green-before-delivered/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0716f36a457a",
+    "title": "The Delta Air Lines Cabin That Only Exists Because A Seat Couldn't Get Certified",
+    "summary": "A First Class-heavy A321neo configuration is forcing Delta to rethink it's premium strategy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T19:00:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-cabin-only-exists-seat-couldnt-get-certified/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "8aabb0f4ca86",
+    "title": "The Late Night Flight That Proves What Sydney's New $14 Billion Airport Is Actually For",
+    "summary": "What benefits does the new Sydney airport offer to airlines?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T18:00:14Z",
+    "url": "https://simpleflying.com/late-night-flight-proves-western-sydney-new-14-billion-airport-actually-for/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a014026f6a03",
+    "title": "Why The US Air Force Is Scrapping 119 F-15E Strike Eagles But Keeping The Other 99",
+    "summary": "The changing of the guard begins.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T17:30:14Z",
+    "url": "https://simpleflying.com/usaf-scrapping-119-f-15-e-strike-eagles-keeping-other-99-why/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e1c65c83b181",
     "title": "Why United Airlines' Biggest Widebody Decision Of The Decade Is Actually A Range Downgrade",
     "summary": "United gave up more than 1,100 nautical miles of range on 56 Boeing 787s. Why would the airline choose the shorter-range jet?",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-09-20T04:00:16Z",
     "url": "https://simpleflying.com/why-usaf-replaced-33-feet-b-1b-bomber-spine-3-months-early/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e9feb0229d18",
-    "title": "Family Accuses Delta Of Leaving Father's Remains Unrefrigerated Overnight In Memphis",
-    "summary": "A tight connection allegedly left a Tennessee family scrambling after their father\u2019s flight delay and cargo cutoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T03:42:45Z",
-    "url": "https://simpleflying.com/delta-human-remains-unrefrigerated-overnight-memphis/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "2b20cfd4da66",
-    "title": "Why United Airlines' 66 Incoming Boeing 787-9s Are Breaking The Polaris Lounge Network",
-    "summary": "Investments in premium lounges are needed to keep up with premium cabin expansions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T03:00:14Z",
-    "url": "https://simpleflying.com/why-united-airlines-66-incoming-boeing-787-9s-breaking-polaris-lounge-network/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2dd576a8c744",
-    "title": "Is It True That The Boeing 737 MAX & Airbus A320neo Are Powered By The Same Engine?",
-    "summary": "Despite both aircraft operating with LEAP engines, they are not the same exact model.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T01:45:14Z",
-    "url": "https://simpleflying.com/true-boeing-737-max-airbus-a320neo-powered-by-same-engine/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fdd714badd0e",
-    "title": "Why This Airline Built A 40-Seat Business Cabin To Attack Its Transpacific Competitor",
-    "summary": "STARLUX is moving to establish a long-haul luxury network to destinations on the East Coast and in Europe, centered on its new fleet of Airbus A350-10",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T23:00:14Z",
-    "url": "https://simpleflying.com/why-airline-built-40-seat-business-cabin-attack-transpacific-competitor/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8522c60df615",
-    "title": "Hawaiian Airlines\u2019 Boeing 737 Interisland Flights Will Launch With Alaska-Branded Aircraft",
-    "summary": "Newer 737 interiors promise Wi-Fi, power outlets and upgraded comforts while easing maintenance pressure on older jets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T21:21:36Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-boeing-737-interisland-flights-launch-alaska-branded-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0dbe1dc8141d",
-    "title": "Goodbye Boeing 757s: Delta Air Lines\u2019 1st VIP Charter Airbus A321neo Enters Service",
-    "summary": "The cabin lowers altitude and adds humidifiers plus customizable lighting to help athletes rest between late night hops.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-19T20:47:25Z",
-    "url": "https://simpleflying.com/delta-air-lines-1st-vip-charter-airbus-a321neo-enters-service/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
