@@ -1,8 +1,63 @@
 [
   {
+    "id": "1b8c955449fb",
+    "title": "A Retired F-14 Tomcat's Ejection Seat Is Worth More Than Most Civilian Aircraft Engines",
+    "summary": "The curious market for surplus Navy fighter parts.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-09-27T11:00:14Z",
+    "url": "https://simpleflying.com/f14-tomcat-ejection-seat-value-civilian-aircraft-engines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "21833a95f283",
+    "title": "Is It True That Airlines Are Making Extra-Legroom Economy The Smarter Buy In 2026?",
+    "summary": "Extra-legroom Economy can be a smarter buy in 2026, but Premium Economy still wins on long-haul flights where width, recline and comfort matter most.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T10:00:14Z",
+    "url": "https://simpleflying.com/true-airlines-making-extra-legroom-economy-smarter-buy-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3c71a6d9decc",
+    "title": "Why Southwest Airlines Is Moving Away From Point-To-Point Flying",
+    "summary": "With this change to 'high-density stations,' Dallas-based Southwest Airlines will aim to offer more flights to more destinations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T09:15:15Z",
+    "url": "https://simpleflying.com/southwest-airlines-moving-away-from-point-to-point-why/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "375be05f7bbd",
+    "title": "2 Giant Pandas Fly 15 Hours Nonstop From China To Atlanta On FedEx Boeing 777F",
+    "summary": "The FedEx 'Panda Express' flew nearly 6,900 nautical miles nonstop from Chengdu to Atlanta.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T07:16:21Z",
+    "url": "https://simpleflying.com/giant-pandas-fly-15-hours-china-atlanta-fedex-boeing-777f/",
+    "airlineTag": "FedEx Express",
+    "isBreaking": false
+  },
+  {
+    "id": "069733c32b34",
+    "title": "Why Airlines On 4 Continents Are Sending Regional Jets On 5-Hour Holiday Flights",
+    "summary": "Airlines are stretching Embraer's E2 far beyond regional flying, using its range and right-sized capacity on thin holiday routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T04:00:16Z",
+    "url": "https://simpleflying.com/why-airlines-4-continents-sending-regional-jets-5-hour-holiday-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3015fc9dd9f3",
     "title": "Boeing Knew Of 737 MAX Landing Guidance Glitch For Nearly 2 Years Before Warning Airlines",
-    "summary": "Internal timelines and delayed alerts point to lingering navigation quirks in select MAX models during missed approaches.",
+    "summary": "The software glitch can knock out automated guidance during missed approaches.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-09-27T03:05:08Z",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-20T19:00:14Z",
     "url": "https://simpleflying.com/southwest-airlines-starts-6-new-routes-hawaii/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "32bca9dbbb91",
-    "title": "GE Aerospace Is Spending $1 Billion To Fix The Engine Shop-Visit Crunch Airlines Can't Escape",
-    "summary": "The global MRO upgrade strategy behind the CFM LEAP engine family.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T18:00:14Z",
-    "url": "https://simpleflying.com/ge-aerospace-spending-1-billion-fix-engine-shop-visit-cruch-airlines-escape/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f66764dea75",
-    "title": "American Airlines Offered Eagles Fans $3,500 Each To Get Off Oversold Nashville Flight",
-    "summary": "A handful of passengers accepted the offer, which was paid out in travel vouchers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T17:41:04Z",
-    "url": "https://simpleflying.com/american-airlines-eagles-fans-3500-nashville-flight/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f9aa8d9dc41e",
-    "title": "American Airlines Launches 14 New Routes From World's Busiest Airport: See Full List",
-    "summary": "Among these is one notable long-haul addition.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T16:00:15Z",
-    "url": "https://simpleflying.com/american-airlines-launches-14-new-routes-from-worlds-busiest-airport/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6ac1af106bf7",
-    "title": "The London Court Hearing That Could End The Startup Trying To Revive The Airbus A380",
-    "summary": "Could Global Airlines have met its match? A London court hearing may well end operations before they could ever takeoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T16:00:15Z",
-    "url": "https://simpleflying.com/london-court-hearing-end-startup-revive-airbus-a380/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "783358d119c1",
-    "title": "The 7 Largest Air Force Bases By Population In The US",
-    "summary": "Which airfield has the deepest roster?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T15:48:31Z",
-    "url": "https://simpleflying.com/largest-air-force-bases-by-population-in-us/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
