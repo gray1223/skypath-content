@@ -1,5 +1,49 @@
 [
   {
+    "id": "3015fc9dd9f3",
+    "title": "Boeing Knew Of 737 MAX Landing Guidance Glitch For Nearly 2 Years Before Warning Airlines",
+    "summary": "Internal timelines and delayed alerts point to lingering navigation quirks in select MAX models during missed approaches.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T03:05:08Z",
+    "url": "https://simpleflying.com/boeing-knew-737-max-software-glitch-before-warning-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9c66529cdd8b",
+    "title": "How Southwest Airlines' 5-Minute Crew Rule Change Quietly Pulled Boarding Forward On 65% Of Its Fleet",
+    "summary": "The airline's new policies are believed to have contributed to the five-minute change.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T01:00:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-5-minute-crew-rule-change-pull-boarding-forward-fleet/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e151e83b5948",
+    "title": "Why Super Hornet Production Is Ending While The Air Force Is Buying More F-15EXs",
+    "summary": "Production of the Super Hornet is expected to end in 2027, while production of the F-15EX is ramping up into the 2030s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T00:00:14Z",
+    "url": "https://simpleflying.com/super-hornet-production-ending-f15ex-orders/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "912831507266",
+    "title": "The World's Largest Air Forces By Number Of Bombers",
+    "summary": "A closer look at the world's biggest fleets of 'big wing' warbirds.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-26T21:30:15Z",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-bombers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "bf3f45fb87ae",
     "title": "A Few Days: Alaska Airlines Expecting Boeing 737 MAX 10 Certification By Month\u2019s End",
     "summary": "Months of testing and regulatory reviews converge as the largest 737 MAX variant inches toward airline service.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-20T15:48:31Z",
     "url": "https://simpleflying.com/largest-air-force-bases-by-population-in-us/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "458ec88b0e75",
-    "title": "Why The US Air Force Retired Its E-8 Joint STARS Fleet Without A Direct Replacement",
-    "summary": "The evolution of the Air Force's airborne command and control mission.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T13:00:15Z",
-    "url": "https://simpleflying.com/us-air-force-e8-joint-stars-retirement-replacement/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db079ff4f564",
-    "title": "Delta Honors \"Ridiculously Low\" $17.34 Upgrade To Delta One On 15-Hour Seoul Flight",
-    "summary": "While the cost to upgrade to a higher class might cost 17 hundred dollars, Delta Air Lines honored a $17 dollar and 34 cent upgrade that moved a passenger from Premium Select to Delta One!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T12:25:14Z",
-    "url": "https://simpleflying.com/video/delta-honors-ridiculously-low-17-34-upgrade-to-delta-one-on-15-hour-seoul-flight/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "6919a554ac3c",
-    "title": "The North Carolina Airport Where 2 Different Airlines Tried & Failed To Build A Hub",
-    "summary": "Two airlines tried to build a hub at Raleigh-Durham. Both failed for the same reason: Charlotte and Atlanta were too close.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T10:00:14Z",
-    "url": "https://simpleflying.com/north-carolina-airport-2-different-airlines-tried-failed-build-hub/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1a73fd20aef2",
-    "title": "Why The US Air Force Replaced 33 Feet Of A B-1B Bomber's Spine 3 Months Early",
-    "summary": "The USAF's radical fleet overhaul is exceeding expectations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T04:00:16Z",
-    "url": "https://simpleflying.com/why-usaf-replaced-33-feet-b-1b-bomber-spine-3-months-early/",
     "airlineTag": null,
     "isBreaking": false
   }
