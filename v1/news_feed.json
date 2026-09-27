@@ -1,5 +1,60 @@
 [
   {
+    "id": "5d01439f0d46",
+    "title": "Delta Air Lines Only Has 1 Transatlantic Route From These 5 Airports: See Full List Now",
+    "summary": "These corridors serve two key SkyTeam hubs in Europe.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T16:01:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-only-has-1-transatlantic-route-from-5-airports/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "99bad4e48f9e",
+    "title": "Is It True That Private Jets Burn 10-15% Less Fuel Per Mile By Cruising Above The Airlines?",
+    "summary": "Why private jets fly so much higher than commercial airliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T16:01:14Z",
+    "url": "https://simpleflying.com/true-private-jets-burn-10-15-percent-less-fuel-per-mile-cruising-above-airlines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b0e4373d18fb",
+    "title": "Airbus' 'Flying Parcel' Freighter Is About To Take Its First Flight: Here's What To Watch For",
+    "summary": "The Simple Flying Flight Tracker has all the details.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T15:00:14Z",
+    "url": "https://simpleflying.com/airbus-a350f-flying-parcel-livery-first-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c2941fabc6bc",
+    "title": "American Airlines Is The Last Legacy Carrier Without A Next-Gen Widebody Commitment & Boeing Just Made Its Move",
+    "summary": "Could American soon order the Boeing 777X, 787 or will Airbus' A330neo win a massive widebody order?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T14:00:15Z",
+    "url": "https://simpleflying.com/american-airlines-last-legacy-carrier-without-next-gen-widebody-commitment-boeing-made-move/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "74366653f055",
+    "title": "'Indecent': American Airlines Passenger Strips Naked Mid-Flight, Detained By Police In Miami",
+    "summary": "An American Airlines service had to be met by law enforcement on arrival at Miami International Airport late on earlier in September after it was reported that a female passenger was undressing herself and acting indecently. The report of the passenger resulted in one of the s...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T12:27:15Z",
+    "url": "https://simpleflying.com/video/indecent-american-airlines-passenger-strips-naked-mid-flight-detained-by-police-in-miami/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "1b8c955449fb",
     "title": "A Retired F-14 Tomcat's Ejection Seat Is Worth More Than Most Civilian Aircraft Engines",
     "summary": "The curious market for surplus Navy fighter parts.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-21T01:30:58Z",
     "url": "https://simpleflying.com/delta-air-lines-passengers-emergency-room-cabin-fumes-force-honolulu-diversion/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "ed1cabb4ed63",
-    "title": "Why Airlines' New Fuel-Efficient Engines Are Failing The Reliability Promises OEMs Made",
-    "summary": "Supply chain issues, durability problems, and insufficient timely maintenance have let to many economic benefits of next-gen engines being lost.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-21T00:00:14Z",
-    "url": "https://simpleflying.com/airlines-new-fuel-efficient-engines-failing-relability-promises/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c2b6a8d9f8a4",
-    "title": "6 US Air Force Bases With The Greatest Combined Runway Length",
-    "summary": "Where the longest strip of tarmac lies in the USAF may be a surprise.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T23:00:14Z",
-    "url": "https://simpleflying.com/us-air-force-bases-greatest-combined-runway-length/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8eeaa5d1f18",
-    "title": "This Country's AH-64E Order Will Create NATO's Largest Apache Fleet Outside The US",
-    "summary": "Europe's new rotary-wing powerhouse.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T22:00:15Z",
-    "url": "https://simpleflying.com/poland-ah64e-apache-largest-nato-fleet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7291cde7c8d6",
-    "title": "Why The Airbus A380's 4-Engine Layout Is Now Its Biggest Commercial Liability",
-    "summary": "With its striking size comes a striking operating bill, forcing airlines to reevaluate.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T21:30:14Z",
-    "url": "https://simpleflying.com/why-the-airbus-a380s-4-engine-layout-is-now-its-biggest-commercial-liability/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3edd9279870e",
-    "title": "Southwest Airlines Starts 6 Major New Nonstop Routes To Hawaii: See Flights Now",
-    "summary": "All but one originate in California.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-20T19:00:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-starts-6-new-routes-hawaii/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
