@@ -1,5 +1,27 @@
 [
   {
+    "id": "43a445483458",
+    "title": "Southwest & United Airlines Won\u2019t Accept New Boeing 737 MAX Aircraft With Affected Software",
+    "summary": "Southwest and United reject new Boeing 737 MAX jets with affected software as the FAA investigates a VNAV glitch threatening deliveries.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T22:20:05Z",
+    "url": "https://simpleflying.com/southwest-united-airlines-wont-accept-new-boeing-737-max-affected-software/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2e30fbad7994",
+    "title": "What Are The Benefits Of Flying Delta Air Lines' Premium Select?",
+    "summary": "The SkyTeam carrier's premium economy product offers many perks for passengers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-27T21:30:15Z",
+    "url": "https://simpleflying.com/benefits-of-flying-delta-air-lines-premium-select-guide/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "1077cd62851f",
     "title": "American Airlines Receives 10th Airbus A321XLR, Expects Fleet To Reach 12 By Year\u2019s End",
     "summary": "American Airlines now has 10 Airbus A321XLRs after N307NY and N308NY joined N315XR, expanding its premium long-haul narrowbody fleet.",
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-21T13:50:35Z",
     "url": "https://www.aerotime.aero/articles/finland-f35-delivery-jet-stranded-azores-avionics-fault",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8db989955fff",
-    "title": "Ex-Airbus Commercial Aircraft CEO to chair Vertical Aerospace board of directors",
-    "summary": "Former Airbus Commercial Aircraft Chief Executive Officer (CEO) Fabrice Br\u00e9gier has been appointed Chair of the Board of&#8230; The post Ex-Airbus Commercial Aircraft CEO to chair Vertical Aerospace board of directors appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-21T12:02:49Z",
-    "url": "https://www.aerotime.aero/articles/ex-airbus-commercial-aircraft-ceo-to-chair-vertical-aerospace-board-of-directors",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c643e579fa06",
-    "title": "The 7 Most Remote Royal Air Force Bases & Their Strategic Roles",
-    "summary": "The RAF operates bases in the Atlantic and other locations beyond the British Isles.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-21T09:15:14Z",
-    "url": "https://simpleflying.com/7-most-remote-raf-bases-and-their-strategic-roles/",
     "airlineTag": null,
     "isBreaking": false
   }
