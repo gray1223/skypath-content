@@ -1,5 +1,115 @@
 [
   {
+    "id": "6d560bd6b2f7",
+    "title": "Inheriting an In-Progress Student Pilot: How to Win Trust and Keep Momentum",
+    "summary": "Here\u2019s what to do when a flight instructor leaves and you are handed someone else\u2019s client.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-09-29T12:00:00Z",
+    "url": "https://www.flyingmag.com/inheriting-an-in-progress-student-pilot-how-to-win-trust-and-keep-momentum/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "088f473db6e2",
+    "title": "How Fighter Pilots Stay Alert During 10-Hour Combat Missions Without Sleeping",
+    "summary": "The extreme demand on aircrew flying marathon sorties.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T11:00:14Z",
+    "url": "https://simpleflying.com/fighter-pilots-stay-alert-10-hour-combat-missions/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fd7f9ab8e09c",
+    "title": "A Look At The Salaries Of The US Big 3 Airline Pilots",
+    "summary": "Airlines are in a fierce competition for top talent, and pilots are reaping the rewards.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T10:30:14Z",
+    "url": "https://simpleflying.com/salaries-pilots-big-3-us-airlines-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d8feda581d10",
+    "title": "Airlines Urge FAA To Save Tiny US Island Airport Critical For Pacific Emergency Landings",
+    "summary": "The remote Pacific airport remains a crucial safety net for thousands of flights crossing the ocean each year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T09:00:14Z",
+    "url": "https://simpleflying.com/airlines-urge-faa-save-midway-atoll-airport-emergency-landings/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c4c7fd57d472",
+    "title": "Up, up and away: Airbus A350F freighter takes to the skies in first-ever flight",
+    "summary": "Five years after first announcing the A350F concept to the world, Airbus\u2019 new-generation large freighter has taken to&#8230; The post Up, up and away: Airbus A350F freighter takes to the skies in first-ever flight appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-09-29T08:59:41Z",
+    "url": "https://www.aerotime.aero/articles/airbus-a350f-freighter-first-flight-maiden",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "20bf1363e0cd",
+    "title": "More Flight Cuts: How Fuel Price Surges Are Reshaping Flying In 2026",
+    "summary": "Surging jet fuel and refining shortages push major carriers to trim schedules and rethink route economics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T08:00:14Z",
+    "url": "https://simpleflying.com/more-flight-cuts-how-fuel-price-surges-are-reshaping-flying-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "66183e779ac0",
+    "title": "Live: Airbus A350F Takes Off On Maiden Test Flight",
+    "summary": "A historic flight day unfolds as the factory fresh composite airframe prepares to redefine long-haul cargo norms.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T06:57:26Z",
+    "url": "https://simpleflying.com/live-1st-airbus-a350f-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "35961f310fc2",
+    "title": "Why Pilots Sometimes Circle The Airport On Purpose Before Landing",
+    "summary": "You may notice that aircraft sometimes perform circling patterns before landing, and this article explains why.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T05:00:15Z",
+    "url": "https://simpleflying.com/pilots-circle-airport-before-landing-reasons/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7ba11da6e6ba",
+    "title": "United Jet With 72 Aboard Declares Emergency As Windshield Shatters, Glass Falls Into Cockpit",
+    "summary": "Mulitple layers of the cockpit windshield shattered moments after takeoff, showering the cockpit with glass.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T04:57:09Z",
+    "url": "https://simpleflying.com/united-flight-emergency-windshield-shatters-houston/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f4ecbb3475d6",
+    "title": "Air New Zealand's 6 New Major Nonstop Routes In 2026: See Full List Now",
+    "summary": "Fleet resurgence is fueling bold nonstop links from Auckland and Christchurch, with Air New Zealand adding Western Sydney and Tokyo services.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T04:00:19Z",
+    "url": "https://simpleflying.com/air-new-zealand-launches-6-new-major-nonstop-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "5bcde36bb463",
     "title": "Air New Zealand Launches 6 New Major Nonstop Routes: See Full List Now",
     "summary": "Fleet resurgence fuels bold nonstop links from Auckland and Christchurch, adding Western Sydney and Tokyo services.",
@@ -371,17 +481,6 @@
     "publishedDate": "2026-09-28T09:54:38Z",
     "url": "https://www.aerotime.aero/articles/turkish-air-force-pilots-eurofighter-training-raf",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d8feda581d10",
-    "title": "Airlines Urge FAA To Save Tiny US Island Airport Critical For Pacific Emergency Landings",
-    "summary": "Just because an airport does not have any regularly scheduled commercial flights of its own, it does not mean that its closure would not have impacts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-28T08:22:29Z",
-    "url": "https://simpleflying.com/airlines-urge-faa-save-midway-atoll-airport-emergency-landings/",
-    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2097,105 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-09-22T23:52:49Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/a-dogs-star-turn-in-the-dog-stars?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0bf82b8c0900",
-    "title": "Canada's Regulator Fined Air Canada, Ordered WestJet To Change & Wheelchair Users Are Suing Anyway",
-    "summary": "Penalties and orders collide with lawsuits as aircraft design and loading rules force airlines to rethink operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T22:00:14Z",
-    "url": "https://simpleflying.com/canada-regulator-fine-air-canada-ordered-westjet-change-wheelchair-users-suing-anyway/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "53fd1cbbb9a6",
-    "title": "Training and Safety Tip: Know your EFB",
-    "summary": "An electronic flight bag has become an essential part of your aviation kit. Whatever planning tool you use to prepare for each flight, spend some ground time learning how to get the most out of that software.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-22T21:25:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/training-and-safety-tip-know-your-efb?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fac9e5755294",
-    "title": "American Airlines Expands Starlux Partnership: Does It Signal Bigger Asia Plans?",
-    "summary": "Passengers can book mixed itineraries from Chicago to Taipei under single reservations as codeshares go live Sept 30.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T21:14:16Z",
-    "url": "https://simpleflying.com/american-airlines-expands-starlux-partnership-future-asia/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "abf31aea8719",
-    "title": "SpiceJet faces scrutiny of operations and finances as cash problems persist",
-    "summary": "India\u2019s aviation regulator is examining SpiceJet\u2019s operations and finances as the airline struggles with cash shortages, flight disruptions&#8230; The post SpiceJet faces scrutiny of operations and finances as cash problems persist appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-09-22T21:08:48Z",
-    "url": "https://www.aerotime.aero/articles/spicejet-dgca-operations-financial-scrutiny",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1e6fa2fb26ab",
-    "title": "How British Airways Is Quietly Reclaiming The Midwest Cities US Legacies Abandoned After 9/11",
-    "summary": "After US airlines merged and several Midwest hubs were lost, British Airways had opportunities to reestablish direct flights with 787s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T21:00:14Z",
-    "url": "https://simpleflying.com/how-british-airways-reclaiming-midwest-us-legacy-abandoned-9-11/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dccc92ce42db",
-    "title": "US F-16 Crashes Near Air Force Base In Germany; Pilot Ejected & Injured",
-    "summary": "The jet was part of a four-aircraft training exercise.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T20:59:01Z",
-    "url": "https://simpleflying.com/us-f-16-crashes-air-force-base-germany-pilot-ejected-injured/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "790e010d07b3",
-    "title": "Last Flying U.S.-Registered DC-8 Gets Permanent Home",
-    "summary": "Boeing is supporting a planned educational pavilion around the former Samaritan\u2019s Purse cargo aircraft in Virginia.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-22T20:44:45Z",
-    "url": "https://avweb.com/aviation-news/last-us-dc-8-gets-permanent-home-liberty/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9faa8feda063",
-    "title": "Delta Air Lines Launches These 5 New Nonstop Routes In October: See Full List Now",
-    "summary": "They are from multiple hubs and focus cities. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T20:00:15Z",
-    "url": "https://simpleflying.com/delta-air-lines-launches-these-5-new-nonstop-routes-in-october/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "29283038f4da",
-    "title": "FAA begins using AI to predict congestion and reduce flight delays",
-    "summary": "The US Federal Aviation Administration (FAA) has begun using artificial intelligence to predict air traffic congestion and help&#8230; The post FAA begins using AI to predict congestion and reduce flight delays appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-22T19:31:29Z",
-    "url": "https://www.aerotime.aero/articles/faa-ai-smart-air-traffic-flight-delays",
     "airlineTag": null,
     "isBreaking": false
   }
