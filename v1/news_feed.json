@@ -1,5 +1,104 @@
 [
   {
+    "id": "5bcde36bb463",
+    "title": "Air New Zealand Launches 6 New Major Nonstop Routes: See Full List Now",
+    "summary": "Fleet resurgence fuels bold nonstop links from Auckland and Christchurch, adding Western Sydney and Tokyo services.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T04:00:19Z",
+    "url": "https://simpleflying.com/air-new-zealand-launches-6-new-major-nonstop-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c62e3a86dec5",
+    "title": "Jet Fuel Runs Out At Boston Airport For 2+ Days, Forcing Airlines To \u201cTanker\u201d Fuel Amid Rare Nor\u2019easter",
+    "summary": "Wild nor\u2019easter sidelines barge deliveries and prompts tanker strategies, reshaping flight plans and causing delays.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T03:21:13Z",
+    "url": "https://simpleflying.com/jet-fuel-out-boston-airport-2-days-tanker-fuel/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d96e5e263c9f",
+    "title": "Stuck In A Middle Seat? American Airlines Will Now Automatically Move You When A Better Seat Opens",
+    "summary": "Up to 24 hours before departure, it auto-selects eligible seats within your confirmed cabin at no extra cost.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T02:21:59Z",
+    "url": "https://simpleflying.com/american-airlines-automatically-move-better-seat/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "84a3e35dbb6a",
+    "title": "100+ New Dishes: Singapore Airlines Unveils Major Inflight Dining Upgrade",
+    "summary": "All classes of travel will benefit from these enhancements.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T02:00:26Z",
+    "url": "https://simpleflying.com/singapore-airlines-enhanced-inflight-dining-experience/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "898fe4462c1a",
+    "title": "Why The Airbus A220 Is Becoming More Attractive To Southwest Airlines",
+    "summary": "A closer look at what the aircraft could mean for Southwest, and why its 737-only operations are now at risk.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T01:45:14Z",
+    "url": "https://simpleflying.com/why-airbus-a220-becoming-more-attractive-to-southwest-airlines/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "88a88851f14c",
+    "title": "The FAA Skipped Normal Notice To Ground-Inspect Every Trent 700 Airbus A330 In September",
+    "summary": "The emergency airworthiness directive is linked to potential oil-pump failure mode.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-09-29T01:00:14Z",
+    "url": "https://simpleflying.com/faa-skipped-normal-notice-ground-inspect-trent-700-airbus-a330-september/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1bf967a9dad0",
+    "title": "FAA: Boeing 737 MAX 10 Certification Will Be Delayed Again Until It Is \"Satisfied\" With Software Fixes",
+    "summary": "Boeing teams and carriers revert software to older versions while investigators probe potential crew workload impacts.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T00:39:46Z",
+    "url": "https://simpleflying.com/boeing-737-max-10-certification-delayed-satisfied-software-fixes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8dd70604fc66",
+    "title": "3 Hospitalized, 11 Injured After Smoke-Filled Delta A330 Makes Emergency Landing In Portugal",
+    "summary": "Pilots declared an emergency after cabin fumes forced flight attendants to use supplemental oxygen.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T00:28:13Z",
+    "url": "https://simpleflying.com/smoke-filled-delta-a330-emergency-landing-portugal/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "110c35c77771",
+    "title": "How Commercial Pilots Rest & Sleep During Ultra-Long-Haul Flights",
+    "summary": "Crew rest is legally required and has detailed guidelines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-28T23:00:14Z",
+    "url": "https://simpleflying.com/commercial-pilots-rest-sleep-ultra-long-haul-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "02777ebb070b",
     "title": "Qatar Airways Officially Ends Its Airbus A330 Era, Sends Pilots To RwandAir",
     "summary": "Qatar and RwandAir have a codeshare agreement.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-22T19:31:29Z",
     "url": "https://www.aerotime.aero/articles/faa-ai-smart-air-traffic-flight-delays",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "85d0c390de30",
-    "title": "Only 36% Full: Allegiant Air's 11 Emptiest Routes Revealed [See Full List & Map]",
-    "summary": "They are from multiple bases across the US. See them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T19:00:15Z",
-    "url": "https://simpleflying.com/only-36pc-full-allegiant-airs-11-emptiest-routes-revealed/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d153efd946b1",
-    "title": "Electra\u2019s Fixed-Wing Aircraft Demonstrates \u2018Helicopter-Style\u2019 Procedures",
-    "summary": "Company says its fixed-wing demonstrator began using locations intended for rotorcraft as well as vertical-flight-like instrument procedures.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-22T19:00:00Z",
-    "url": "https://www.flyingmag.com/electra-fixed-wing-aircraft-helicopter-ifr/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fad22e0fc7be",
-    "title": "F-16 Accident At Spangdahlem Injures Pilot",
-    "summary": "Pilot ejected before the aircraft impacted the ground at the U.S. Air Force base in Germany.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-22T18:51:42Z",
-    "url": "https://avweb.com/aviation-news/f-16-accident-spangdahlem-injures-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ecbe577a9936",
-    "title": "I am a whippet and I fly",
-    "summary": "Well, not quite. My owner/dad is the pilot, as they haven&rsquo;t invented yokes, instrument panels, and pedals that work with paws yet. But I&rsquo;m in the right seat&mdash;mostly&mdash;every time we take a trip.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-09-22T18:47:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/22/i-am-a-whippet-and-i-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b75a3b7ce1f0",
-    "title": "Why Southwest Airlines' Boeing 737s Make A First Class Cabin So Difficult To Build",
-    "summary": "A closer look at what a Southwest Airlines first class product might look like, and what it would require.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T18:30:15Z",
-    "url": "https://simpleflying.com/southwest-airlines-boeing-737s-first-class-difficult-build/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4e4a5b65057d",
-    "title": "Air New Zealand Pilots Allegedly Fight During San Francisco Layover, Forcing 787 Flight Cancellation",
-    "summary": "Air New Zealand canceled a San Francisco-Auckland 787 flight after an alleged pilot altercation left the airline without an available crew.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T18:21:59Z",
-    "url": "https://simpleflying.com/air-new-zealand-pilots-fight-san-francisco-layover-787-cancellation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d57ea9b1e127",
-    "title": "Search Suspended for Twin-Engine Plane, Pilot Off Oregon Coast",
-    "summary": "Beechcraft 95 Travel Air goes down near Newport Municipal Airport.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-22T18:00:00Z",
-    "url": "https://www.flyingmag.com/search-suspended-for-twin-engine-plane-pilot-off-oregon-coast/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c73685014e3",
-    "title": "Delta Air Lines May Scrap New 15-Hour Route Before 1st Departure: Here's Why",
-    "summary": "With Aramco facilities hit and travel warnings raised, Delta's inaugural A350 service faces intense operational scrutiny.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-22T17:00:14Z",
-    "url": "https://simpleflying.com/delta-mulls-scrapping-new-15-hour-route-before-1st-flight/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "80aca74657c5",
-    "title": "CitationJet Owners Can Now Upgrade to All-Garmin Avionics",
-    "summary": "Textron announces availability of retrofit solution following FAA supplemental type certification.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-22T17:00:00Z",
-    "url": "https://www.flyingmag.com/citation-jet-upgrade-garmin-avionics-retrofit/",
     "airlineTag": null,
     "isBreaking": false
   }
