@@ -1,12 +1,23 @@
 [
   {
+    "id": "56b9987fa44c",
+    "title": "6 Things Passengers Don't Know About How Airlines Assign Business Class Upgrades",
+    "summary": "A closer look at why most people will never receive a free business class upgrade.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-30T01:45:15Z",
+    "url": "https://simpleflying.com/6-things-that-passengers-dont-know-about-how-airlines-assign-business-class-upgrades/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "1f35838aeb8d",
     "title": "AOPA Urges FAA to Reconsider Rescinding Single-Pilot Citation Exemptions",
     "summary": "WASHINGTON\u2014The Aircraft Owners and Pilots Association (AOPA) expressed concern over the Federal Aviation Administration\u2019s (FAA) decision to rescind single-pilot exemptions for some Cessna Citation models in a letter to FAA Administrator Bryan Bedford.",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T00:17:48Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,8 +28,19 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T23:36:47Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d9181672f713",
+    "title": "Why In The World Did Delta Air Lines Already Retrofit The Cabins Of Some Airbus A350s?",
+    "summary": "The carrier has made some interesting decisions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-09-29T23:00:15Z",
+    "url": "https://simpleflying.com/why-did-delta-air-lines-already-retrofit-some-airbus-a350-900s/",
+    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
   {
@@ -39,7 +61,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T21:15:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -90,7 +112,7 @@
   {
     "id": "1412c819d077",
     "title": "22 Business-Class Suites & 1st-Ever Premium Economy Coming To All Hawaiian Airlines A330s",
-    "summary": "Hawaiian Airlines elevates its longhaul experience with the popular Collins Aerospace Super Diamond seat, and new lounge at HNL.",
+    "summary": "Hawaiian Airlines elevates its long-haul experience with the popular Collins Aerospace Super Diamond seat, and new lounge at HNL.",
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-09-29T20:03:14Z",
@@ -1216,7 +1238,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-25T22:38:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/25/3-ways-you-may-be-sabotaging-your-aircraft-insurance-renewal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/25/3-ways-you-may-be-sabotaging-your-aircraft-insurance-renewal?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1359,7 +1381,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-25T18:50:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/25/retirement-income-funding-your-flying-lifestyle?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/25/retirement-income-funding-your-flying-lifestyle?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1601,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-24T21:52:56Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/24/joby-j208-makes-transcontinental-history?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/24/joby-j208-makes-transcontinental-history?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1634,7 +1656,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-24T20:34:36Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/24/mustangs-resume-racing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/24/mustangs-resume-racing?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-23T17:00:00Z",
     "url": "https://www.flyingmag.com/duffy-requests-30b-faa-atc-modernization/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1834dc2d4b30",
-    "title": "FAA Seeks Input on Firefighter Transport in Restricted Category Aircraft",
-    "summary": "The FAA is seeking public input on a proposal that could allow certain restricted-category aircraft to transport wildland firefighters.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-23T15:55:16Z",
-    "url": "https://avweb.com/aviation-news/faa-restricted-category-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "00b88f67dbf3",
-    "title": "What Pilots Often Miss When Reviewing Their Benefits",
-    "summary": "Allworth Airline Advisors on the HSAs, Roth strategies and coverage gaps pilots miss each fall.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-23T15:25:56Z",
-    "url": "https://avweb.com/sponsored/what-pilots-often-miss-when-reviewing-their-benefits/",
     "airlineTag": null,
     "isBreaking": false
   }
