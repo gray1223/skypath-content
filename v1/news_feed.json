@@ -6,7 +6,95 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T22:04:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "55d95927c236",
+    "title": "Hair-Raising Stuff: This Airline Just Got Sued For A World Cup Post About Erling Haaland's Ponytail",
+    "summary": "Norwegian Air Shuttle could be in for hefty legal costs after using Haaland's haircut in a social media post.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T20:33:02Z",
+    "url": "https://simpleflying.com/hair-raising-stuff-this-airline-just-got-sued-for-a-world-cup-post-about-erling-haalands-ponytail/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a157da6a4eb8",
+    "title": "FAA Breaks ATC Hiring Record, But More Work Remains",
+    "summary": "Agency remains hundreds of controllers short of its targeted headcount as of August.",
+    "source": "Flying Magazine",
+    "category": "hiring",
+    "publishedDate": "2026-10-02T20:30:00Z",
+    "url": "https://www.flyingmag.com/faa-breaks-atc-hiring-record-more-work-remains/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "618f8f193863",
+    "title": "14,000 Pounds Of Fuel: What The MQ-25A Stingray Takes Off The Super Hornet",
+    "summary": "The US Navy's MQ-25 Stingray is moving closer to service, bringing autonomous refueling and new capabilities to carrier aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T20:00:16Z",
+    "url": "https://simpleflying.com/14000-fuel-mq-25a-stingray-takes-off-super-hornet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e2e96f9d6080",
+    "title": "FAA finds Boeing 737 MAX software issue poses no flight-safety risk",
+    "summary": "The US Federal Aviation Administration (FAA) said a software problem affecting some Boeing 737 MAX aircraft does not&#8230; The post FAA finds Boeing 737 MAX software issue poses no flight-safety risk appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-02T19:29:14Z",
+    "url": "https://www.aerotime.aero/articles/faa-boeing-737-max-software-no-safety-risk",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "78f9fda5e289",
+    "title": "Delta Air Lines Launches 13th New Long-Haul Route From Major Hub: See Full List Now",
+    "summary": "The carrier's European flights from Boston have risen by 8% in the past year, with record routes and services. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T19:00:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-launches-13th-new-long-haul-route-from-major-hub-see-full-list-now/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d79344350921",
+    "title": "The $1 Billion Delta One Refresh Launching At LAX This Fall Before The Airbus A350-1000 Even Arrives",
+    "summary": "The airline is rolling out its soft product first.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T19:00:17Z",
+    "url": "https://simpleflying.com/1-billion-delta-one-refresh-launching-lax-fall-before-airbus-a350-1000-arrives/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "b6f1a9c674b7",
+    "title": "KLM welcomes its first Airbus A350, named \u2018The Night Watch\u2019",
+    "summary": "KLM took delivery of its first Airbus A350-900 on October 2, 2026, welcoming an aircraft named \u201cThe Night&#8230; The post KLM welcomes its first Airbus A350, named \u2018The Night Watch\u2019 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-02T18:50:49Z",
+    "url": "https://www.aerotime.aero/articles/klm-first-airbus-a350-night-watch",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f57ea3c83d22",
+    "title": "Ultralight Airport Dispute Draws FAA, TSA Attention",
+    "summary": "Iowa airport officials are considering new access rules following a disagreement involving an ultralight pilot.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-02T18:15:47Z",
+    "url": "https://avweb.com/aviation-news/ultralight-airport-dispute-draws-faa-tsa-attention/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -237,7 +325,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T02:12:06Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -336,7 +424,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-01T20:09:28Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -952,7 +1040,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T08:18:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1040,7 +1128,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T00:17:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T23:36:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1095,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T21:15:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-09-26T19:00:14Z",
     "url": "https://simpleflying.com/delta-air-lines-cabin-only-exists-seat-couldnt-get-certified/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "8aabb0f4ca86",
-    "title": "The Late Night Flight That Proves What Sydney's New $14 Billion Airport Is Actually For",
-    "summary": "What benefits does the new Sydney airport offer to airlines?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T18:00:14Z",
-    "url": "https://simpleflying.com/late-night-flight-proves-western-sydney-new-14-billion-airport-actually-for/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a014026f6a03",
-    "title": "Why The US Air Force Is Scrapping 119 F-15E Strike Eagles But Keeping The Other 99",
-    "summary": "The changing of the guard begins.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T17:30:14Z",
-    "url": "https://simpleflying.com/usaf-scrapping-119-f-15-e-strike-eagles-keeping-other-99-why/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e1c65c83b181",
-    "title": "Why United Airlines' Biggest Widebody Decision Of The Decade Is Actually A Range Downgrade",
-    "summary": "United gave up more than 1,100 nautical miles of range on 56 Boeing 787s. Why would the airline choose the shorter-range jet?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T15:00:14Z",
-    "url": "https://simpleflying.com/why-united-airlines-biggest-widebody-decision-decade-range-downgrade/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2fba9491db81",
-    "title": "The Software Deal That Could Put Anduril Inside Every CCA The Air Force Buys",
-    "summary": "The AI revolution shaping the future of US air power.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-09-26T14:00:14Z",
-    "url": "https://simpleflying.com/software-deal-put-anduril-inside-every-cca-air-force-buys/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0bd65f2ebdb6",
-    "title": "The Beverages Flight Attendants Say They'd Never Order On A Flight",
-    "summary": "A closer loiok at some of the usual suspects.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T13:00:14Z",
-    "url": "https://simpleflying.com/beverages-flight-attendants-never-order-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6958e39394f5",
-    "title": "How Ryanair Built Europe's Most Profitable Airline By Making Flying As Uncomfortable As Possible",
-    "summary": "The European short-haul aviation landscape has been conquered by a blue-and-yellow paradox that defies conventional corporate logic. An airline that routinely strips away basic cabin amenities, charges for hand luggage, and leaves passengers standing on cold tarmacs should be ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T12:28:14Z",
-    "url": "https://simpleflying.com/video/how-ryanair-built-europe-s-most-profitable-airline-by-making-flying-as-uncomfortable-as-possible/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "285f860a4710",
-    "title": "The RAF's New Voyager Boom Fixes A Refueling Gap The UK Outsourced To The US & France",
-    "summary": "The RAF's growing fleet of boom-dependent aircraft is creating a refueling gap that Britain must address before GCAP enters service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T12:00:14Z",
-    "url": "https://simpleflying.com/raf-new-voyager-boom-fix-refueling-gap-uk-outsourced-us-france/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "13d0afaf2b99",
-    "title": "Virgin Atlantic Concorde: Sir Richard Branson's Quixotic Supersonic Quest",
-    "summary": "A closer look at how Sir Richard Branson tried and failed to bring supersonic capabilities to the Virgin Atlantic fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T09:15:14Z",
-    "url": "https://simpleflying.com/virgin-atlantic-and-concorde-sir-richard-branson-quixotic-supersonic-quest/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
