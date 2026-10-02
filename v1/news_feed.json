@@ -22,6 +22,17 @@
     "isBreaking": false
   },
   {
+    "id": "8b9326e6f769",
+    "title": "The World's Longest Flight, Explained",
+    "summary": "Singapore Airlines flies 9,537 miles from New York to Singapore. Qantas plans to beat that record in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-01T23:00:14Z",
+    "url": "https://simpleflying.com/worlds-longest-flight-explained/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "7f6683605048",
     "title": "The US Air Force Has 113 KC-46 Tankers & Almost None Are Based In The Pacific",
     "summary": "Why the Pegasus doesn't roam very far... yet.",
@@ -2185,17 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-25T18:00:14Z",
     "url": "https://simpleflying.com/quiet-faa-program-shave-year-off-becoming-airline-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "430674173a31",
-    "title": "5 Airlines With Some Of The Highest Pilot Pay Packages In 2026",
-    "summary": "These airlines offer the highest public pay packages to their pilots.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-25T17:00:14Z",
-    "url": "https://simpleflying.com/airlines-highest-published-pilot-pay-packages-2026/",
     "airlineTag": null,
     "isBreaking": false
   }
