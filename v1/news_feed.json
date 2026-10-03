@@ -1,5 +1,60 @@
 [
   {
+    "id": "f47de7dcdeca",
+    "title": "Yes, B-1 Lancer Crews Are Now Logging Proficiency Hours In A Honda Business Jet",
+    "summary": "The USAF outsources flight hours as its fleet languishes in depot.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T11:00:15Z",
+    "url": "https://simpleflying.com/b-1-lancer-crews-now-logging-proficiency-hours-honda-buisness-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d7cf927b8c1c",
+    "title": "flydubai Co-Pilot Attacked Captain With Cockpit Axe After Oman Air Grounded Him Over Extremism",
+    "summary": "A violent cockpit struggle sent the 737 MAX into a terrifying 14,000-foot plunge.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T09:23:12Z",
+    "url": "https://simpleflying.com/flydubai-co-pilot-cockpit-axe-attack-oman-air-grounded-extremism/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ef479bc02c41",
+    "title": "What The 4-Digit Code Every Commercial Aircraft Broadcasts Actually Tells Air Traffic Control",
+    "summary": "There are only 4,096 possible combinations. Let's see what 7500, 7600, and 7700 mean, and how ATC uses them.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T09:15:15Z",
+    "url": "https://simpleflying.com/what-commercial-aircraft-transponder-codes-actually-mean/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4e833f8aed34",
+    "title": "Qantas & Jetstar Launching 3 New Nonstop International Routes: See Full List Now",
+    "summary": "New daily flights and aircraft swaps promise boosted Bali and Jakarta capacity as airlines eye peak season demand.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T09:00:14Z",
+    "url": "https://simpleflying.com/qantas-jetstar-launching-3-new-international-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3612391d4d89",
+    "title": "FAA Rules Boeing 737 MAX Landing Glitch Isn't A Safety Risk, Paving Way For MAX 10 Certification",
+    "summary": "With multiple carriers queued for large shipments the MAX 10 becomes a focal point for fleet strategy and route growth.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-10-03T04:34:19Z",
+    "url": "https://simpleflying.com/faa-boeing-737-max-software-glitch-max-10-certification/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "59b702111d4a",
     "title": "Summer On: Southwest Airlines Unlocks 23 Routes & Expands Frequencies For 2027",
     "summary": "Southwest\u2019s latest schedule extension reinforces three increasingly important stations while adding 23 new or returning routes for summer 2027.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-27T09:15:15Z",
     "url": "https://simpleflying.com/southwest-airlines-moving-away-from-point-to-point-why/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "375be05f7bbd",
-    "title": "2 Giant Pandas Fly 15 Hours Nonstop From China To Atlanta On FedEx Boeing 777F",
-    "summary": "The FedEx 'Panda Express' flew nearly 6,900 nautical miles nonstop from Chengdu to Atlanta.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T07:16:21Z",
-    "url": "https://simpleflying.com/giant-pandas-fly-15-hours-china-atlanta-fedex-boeing-777f/",
-    "airlineTag": "FedEx Express",
-    "isBreaking": false
-  },
-  {
-    "id": "069733c32b34",
-    "title": "Why Airlines On 4 Continents Are Sending Regional Jets On 5-Hour Holiday Flights",
-    "summary": "Airlines are stretching Embraer's E2 far beyond regional flying, using its range and right-sized capacity on thin holiday routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T04:00:16Z",
-    "url": "https://simpleflying.com/why-airlines-4-continents-sending-regional-jets-5-hour-holiday-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3015fc9dd9f3",
-    "title": "Boeing Knew Of 737 MAX Landing Guidance Glitch For Nearly 2 Years Before Warning Airlines",
-    "summary": "The software glitch can knock out automated guidance during missed approaches.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T03:05:08Z",
-    "url": "https://simpleflying.com/boeing-knew-737-max-software-glitch-before-warning-airlines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9c66529cdd8b",
-    "title": "How Southwest Airlines' 5-Minute Crew Rule Change Quietly Pulled Boarding Forward On 65% Of Its Fleet",
-    "summary": "The airline's new policies are believed to have contributed to the five-minute change.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T01:00:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-5-minute-crew-rule-change-pull-boarding-forward-fleet/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e151e83b5948",
-    "title": "Why Super Hornet Production Is Ending While The Air Force Is Buying More F-15EXs",
-    "summary": "Production of the Super Hornet is expected to end in 2027, while production of the F-15EX is ramping up into the 2030s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T00:00:14Z",
-    "url": "https://simpleflying.com/super-hornet-production-ending-f15ex-orders/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
