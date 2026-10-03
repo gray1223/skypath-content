@@ -1,5 +1,82 @@
 [
   {
+    "id": "6c2b28a31364",
+    "title": "United Airlines Passenger Dies After Medical Emergency On Long-Haul Flight",
+    "summary": "UA142 diverted to Seattle after a passenger suffered a medical emergency eight hours into the Tokyo to Denver trans-Pacific flight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T20:16:24Z",
+    "url": "https://simpleflying.com/united-airlines-passenger-dies-medical-emergency-long-haul-flight/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0384d0944244",
+    "title": "The Aircraft Set To Replace The World\u2019s Largest Widebody Airliner",
+    "summary": "Industry trends are making the A380 inefficient for airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T19:03:26Z",
+    "url": "https://simpleflying.com/aircraft-set-replace-worlds-largest-widebody-airliner/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d071b2f6f358",
+    "title": "The Boutique Airline Flying Newark To A Caribbean Island Legacy Carriers Won't Touch",
+    "summary": "BermudAir's South Caicos experiment pairs luxury resorts with right-sized jets\u2014and an A220 fleet that could dramatically expand the model.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T19:00:14Z",
+    "url": "https://simpleflying.com/boutique-airline-newark-caribbean-island-legacy-carriers-wont-touch/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d60e07c8658f",
+    "title": "Here's What United Airlines Actually Spends Per Passenger On Its Polaris Business Class Amenities",
+    "summary": "The onboard amenities are a significant part of the business class experience.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T17:34:26Z",
+    "url": "https://simpleflying.com/what-united-airlines-actually-spends-per-passenger-polaris-on-business-class-amenities/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f690ef72c153",
+    "title": "Airbus A220 Vs. The Embraer E195-E2: Which Regional Jet Actually Costs Less To Fly?",
+    "summary": "The A220-300 wins on cost per seat. The E195-E2 wins on cost per trip. Route length and load factor decide which one matters.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T17:00:16Z",
+    "url": "https://simpleflying.com/airbus-a220-vs-embraer-e195e2-operating-cost/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6464d68d69d0",
+    "title": "Southwest Unveils 3 New International Routes From This Major City: See Map Now",
+    "summary": "All three routes were previously part of American Airlines' schedule.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T16:27:41Z",
+    "url": "https://simpleflying.com/southwest-unveils-3-new-international-routes-from-major-city/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f96ce14742d7",
+    "title": "The Aircraft That Replaced The C-2 Greyhound On Carrier Resupply Missions",
+    "summary": "The paradigm change of the Navy's prop-rotor powered cargo hauler.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T16:00:16Z",
+    "url": "https://simpleflying.com/cmv22b-osprey-replacing-c2-greyhound-carrier-resupply/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "512df7e5909e",
     "title": "American Airlines Pilots Urge Court To Block Google Buying Spirit Crews' Confidential Data",
     "summary": "Pilots warn the deal could make crews less willing to report safety concerns.",
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-09-27T20:00:14Z",
     "url": "https://simpleflying.com/why-worlds-largest-commerical-aircraft-failed-freighter-even-though-airbus-plotted-sucess/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "591e83fd9bbd",
-    "title": "Why Singapore Airlines Is Quietly Shrinking The Cabin That Made Business Class The Irrational Buy",
-    "summary": "A reduction in the size of Singapore Airlines' A350 premium economy cabin will make travel class economics more complex.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T19:00:15Z",
-    "url": "https://simpleflying.com/singapore-airlines-quietly-shrinking-cabin-made-business-class-the-irrational-buy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ec11096c00a5",
-    "title": "\"An Irredeemable Nuisance\": Why This Journalist Believes All Airplanes Shouldn't Have Windows",
-    "summary": "Should passenger airliners really get rid of windows and are there really benefits to doing this.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T18:00:14Z",
-    "url": "https://simpleflying.com/why-journalist-belives-all-airplanes-shouldnt-havewindows/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "48bbf523c13e",
-    "title": "Top 5: These Are The Largest US Air Force Bases By Runway Length",
-    "summary": "At the top of the list, a 15,024-foot runway pushes the boundaries of what's possible",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T17:30:14Z",
-    "url": "https://simpleflying.com/the-largest-us-air-force-bases-by-runway-length/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "311b85b3bdc9",
-    "title": "American Airlines Added 26 Seats To Its Boeing 777-300ER & Killed First Class Without Cutting Economy",
-    "summary": "A closer look at what to expect from American Airlines' flagship aircraft from now on.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T17:00:14Z",
-    "url": "https://simpleflying.com/american-airlines-added-26-seats-boeing-777-300er-killed-first-class-cutting-economy/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "798c2b810b52",
-    "title": "Hawaiian Airlines A330 Flew Again Just Hours After Mystery Odor Sickened 7 Crew",
-    "summary": "The A330 returned to service within hours despite the fume event and a history of previous odor incidents.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T16:32:38Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-a330-mystery-odor-flight-attendants-sick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "de6f57cd4bf9",
-    "title": "The World's Largest Air Forces By Number Of Fighter Jets",
-    "summary": "This guide ranks the world's largest fighter forces in 2026",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T16:30:15Z",
-    "url": "https://simpleflying.com/largest-air-forces-number-fighter-jets-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5d01439f0d46",
-    "title": "Delta Air Lines Only Has 1 Transatlantic Route From These 5 Airports: See Full List Now",
-    "summary": "These corridors serve two key SkyTeam hubs in Europe.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T16:01:14Z",
-    "url": "https://simpleflying.com/delta-air-lines-only-has-1-transatlantic-route-from-5-airports/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
