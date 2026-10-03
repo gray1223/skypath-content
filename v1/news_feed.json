@@ -1,12 +1,67 @@
 [
   {
+    "id": "59b702111d4a",
+    "title": "Summer On: Southwest Airlines Unlocks 23 Routes & Expands Frequencies For 2027",
+    "summary": "Southwest\u2019s latest schedule extension reinforces three increasingly important stations while adding 23 new or returning routes for summer 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T00:28:52Z",
+    "url": "https://simpleflying.com/southwest-airlines-unlocks-23-routes-expands-frequencies-2027/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d10a4bc4730b",
+    "title": "Why Qantas' Project Sunrise Airbus A350 Needs A Fuel Tank No Other Airline Has Ever Ordered",
+    "summary": "A 20,000 liter fuel tank will provide the endurance required to operate flights over 20 hours long.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T00:00:15Z",
+    "url": "https://simpleflying.com/why-qantas-project-sunrise-airbus-a350-fuel-tank-no-other-airline-ever-ordered/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6b16b8fbae56",
+    "title": "JetBlue Is Building Its Own Fort Lauderdale Bottleneck: Terminal 5 Now Slips To 2030",
+    "summary": "JetBlue recently announced expansion from the South Florida airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T23:00:15Z",
+    "url": "https://simpleflying.com/jetblue-building-own-fort-lauderdale-bottleneck-terminal-5-slips-2030/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "37c671b070b7",
+    "title": "Why A Commercial Jet Flying At 35,000 Feet Is Actually Traveling Through Airspace That Doesn't Legally Exist",
+    "summary": "Jets fly through legally undefined airspace, where no nation owns the sky and international law still has major gaps.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T22:26:59Z",
+    "url": "https://simpleflying.com/commercial-jet-flying-35000-feet-traveling-airspace-doesnt-legally-exist/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "7f9e834f3ef5",
     "title": "A support system for safer aviation decisions",
     "summary": "A weather briefing is necessary, but it is just one input in the decision to launch. Airline crews have a dispatcher and a chief pilot backing up that call. Most general aviation pilots have neither. PlaneWX is the decision support system for GA, built around one loop on every...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T22:04:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ee1d52e151a1",
+    "title": "How A Pacific Conflict Would Need Every Tanker The US Air Force Owns",
+    "summary": "The Pacific would demand every tanker the USAF could muster, but how such a conflict would eventually evolve and end is unknowable.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-02T22:01:16Z",
+    "url": "https://simpleflying.com/how-pacific-conflict-every-tanker-usaf-owns/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -325,7 +380,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T02:12:06Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -424,7 +479,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-01T20:09:28Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1040,7 +1095,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T08:18:58Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T00:17:48Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1139,7 +1194,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T23:36:47Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1238,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T21:15:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-09-27T00:00:14Z",
     "url": "https://simpleflying.com/super-hornet-production-ending-f15ex-orders/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "912831507266",
-    "title": "The World's Largest Air Forces By Number Of Bombers",
-    "summary": "A closer look at the world's biggest fleets of 'big wing' warbirds.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T21:30:15Z",
-    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-bombers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bf3f45fb87ae",
-    "title": "A Few Days: Alaska Airlines Expecting Boeing 737 MAX 10 Certification By Month\u2019s End",
-    "summary": "Months of testing and regulatory reviews converge as the largest 737 MAX variant inches toward airline service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T20:31:38Z",
-    "url": "https://simpleflying.com/alaska-airlines-expecting-boeing-737-max-10-certification-months-end/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "e53ed1e9cfcc",
-    "title": "3 Air Forces Still Flying The F-4 Phantom More Than 60 Years Later",
-    "summary": "The F-4 Phantom entered service in 1960. Three air forces still fly it in 2026, while one privately owned example has returned to the skies.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T20:00:14Z",
-    "url": "https://simpleflying.com/air-forces-still-flying-f4-phantom/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5c701b4a66d0",
-    "title": "Why Are New Boeing Planes Green Before They Are Delivered?",
-    "summary": "A closer look at the paint and production processes of Boeing airliners.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T19:16:28Z",
-    "url": "https://simpleflying.com/new-boeing-planes-green-before-delivered/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0716f36a457a",
-    "title": "The Delta Air Lines Cabin That Only Exists Because A Seat Couldn't Get Certified",
-    "summary": "A First Class-heavy A321neo configuration is forcing Delta to rethink it's premium strategy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-26T19:00:14Z",
-    "url": "https://simpleflying.com/delta-air-lines-cabin-only-exists-seat-couldnt-get-certified/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
