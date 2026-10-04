@@ -1,5 +1,60 @@
 [
   {
+    "id": "1ff972d29c8c",
+    "title": "The Quiet Boeing 787-10 Upgrade That Just Made United Airlines' Fleet Math Rival The Airbus A350",
+    "summary": "United\u2019s higher-weight Boeing 787-10 gains more range and payload, potentially expanding where the airline can deploy its largest Dreamliner.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T16:01:15Z",
+    "url": "https://simpleflying.com/quiet-boeing-787-10-upgrade-united-airlines-fleet-math-rival-airbus-a350/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5e11114d8793",
+    "title": "Could New Zealand Ever Rebuild A Fighter Jet Fleet After Scrapping Its Air Combat Force?",
+    "summary": "New Zealand could, in theory, rebuild a fighter jet fleet, but it still has no intention and is focusing on autonomous systems and recapitalization.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T15:00:15Z",
+    "url": "https://simpleflying.com/new-zealand-rebuild-fighter-jet-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8a7fe2ce2c77",
+    "title": "The Only US Airline That Abandoned Its Namesake Hub & Kept The Brand Anyway",
+    "summary": "Midway Airlines was named after the airport it was built to save. Then it moved to North Carolina and kept the name for eight years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T14:00:14Z",
+    "url": "https://simpleflying.com/only-us-airline-abandoned-namesake-hub-kept-brand-anyway/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ba86e2b664a7",
+    "title": "$5.7 Billion In Premium Revenue: How Nobody Outside Delta Air Lines Really Knows The Breakdown",
+    "summary": "Delta has passed an incredible financial milestone, but is it really all that it seems?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T13:00:15Z",
+    "url": "https://simpleflying.com/5-billion-premium-revenue-nobody-outside-delta-air-lines-knows-breakdown/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "49651e133c1c",
+    "title": "This Aircraft Just Made A Historic Flight & No One Was Flying It",
+    "summary": "A converted Cessna Caravan flew 3,199 miles across the US with zero control inputs from the safety pilot on board.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T12:00:15Z",
+    "url": "https://simpleflying.com/joby-autonomous-cessna-caravan-cross-country-no-pilot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c788ea164c01",
     "title": "Emirates Finally Killed Its 2-3-2 Business Class On US Routes: Here's What Replaced It",
     "summary": "The airline finally moved away from its seven-abreast business class and introduced a much more modern product.",
@@ -358,7 +413,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T22:04:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T02:12:06Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-01T20:09:28Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1403,7 +1458,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T08:18:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1491,7 +1546,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T00:17:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1557,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T23:36:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1546,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T21:15:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-28T13:00:00Z",
     "url": "https://www.flyingmag.com/this-1973-grumman-american-aa-5-traveler-is-an-efficient-aircraftforsale-top-pick/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7ba78208c012",
-    "title": "A Look At The Salaries Of Widebody Cargo Pilots In 2026",
-    "summary": "High pay, shorter upgrade timelines, and strong benefits make flying cargo an attractive route today.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-09-28T12:30:15Z",
-    "url": "https://simpleflying.com/salaries-widebody-cargo-pilots-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0d6e7bbbee3b",
-    "title": "Five men released on bail in RAF Fairford terror investigation",
-    "summary": "The five men arrested near RAF Fairford, the Gloucestershire air base hosting US Air Force bombers used in&#8230; The post Five men released on bail in RAF Fairford terror investigation appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-28T12:16:20Z",
-    "url": "https://www.aerotime.aero/articles/trump-raf-fairford-terror-arrests-details",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "af44007fe899",
-    "title": "RAF Fairford terror suspects are five Londoners, police say",
-    "summary": "The five men arrested near RAF Fairford, the Gloucestershire air base hosting US Air Force bombers used in&#8230; The post RAF Fairford terror suspects are five Londoners, police say appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-28T12:16:20Z",
-    "url": "https://www.aerotime.aero/articles/trump-raf-fairford-terror-arrests-details",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c3678af0e3da",
-    "title": "Colleges Embrace Aviation Home Field Advantage",
-    "summary": "Four school-owned airports embrace their storied histories and modern aviation training.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-28T12:00:00Z",
-    "url": "https://www.flyingmag.com/colleges-embrace-aviation-home-field-advantage/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b6c1ffecc605",
-    "title": "SAS puts \u2018Scandinavian as Standard\u2019 at the core of new brand platform",
-    "summary": "Scandinavian Airlines (SAS) has introduced &#8216;Scandinavian as Standard&#8217; at the core of its new brand platform as the&#8230; The post SAS puts \u2018Scandinavian as Standard\u2019 at the core of new brand platform appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-28T11:34:07Z",
-    "url": "https://www.aerotime.aero/articles/sas-scandinavian-as-standard-new-brand-platform",
     "airlineTag": null,
     "isBreaking": false
   }
