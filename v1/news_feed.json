@@ -1,5 +1,71 @@
 [
   {
+    "id": "6f32a400da14",
+    "title": "Why British Airways Is Stripping 88 Economy Seats From Every Airbus A380 In Its Fleet",
+    "summary": "BA is gearing up to retrofit its A380 fleet into a more modern premium seating configuration as it plans to continue operating Superjumbos.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T04:00:18Z",
+    "url": "https://simpleflying.com/why-british-airways-stripping-88-economy-seats-every-airbus-a380-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "30a8a9f7c578",
+    "title": "Why United Airlines' New Guam Boeing 737 MAX 8s Include A Row That Collapses Into A Medevac Stretcher",
+    "summary": "United's Guam 737 MAX 8 fleet brings lower fuel burn, longer-range flexibility and a unique medevac stretcher capability to the Island Hopper.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T01:00:15Z",
+    "url": "https://simpleflying.com/why-united-airlines-new-guam-boeing-737-max-8s-row-collapse-medevac-stretcher/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "097703f77439",
+    "title": "The Airlines That Call Their Cabins Premium Economy, But Really Aren't",
+    "summary": "Definitions for premium products vary as much as the products themselves.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T23:00:14Z",
+    "url": "https://simpleflying.com/airlines-call-cabins-premium-economy-really-arent/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e8bf15a582d1",
+    "title": "Why Delta Air Lines' 282-Seat Airbus A330 Cannot Make The Math Work On Boston To Honolulu",
+    "summary": "Delta cut 81% of its Boston-Honolulu schedule before the route even started. It is the third retreat from the market in three years.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T22:00:15Z",
+    "url": "https://simpleflying.com/why-delta-air-lines-282-seat-airbus-a330-cannot-make-the-math-work-on-boston-to-honolulu/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "dfa979b68458",
+    "title": "'You Get One Shot': Meet The Pilot Who Drew The Mona Lisa In The Sky",
+    "summary": "Benjamin McDaniel turned a Cessna R182 into a flying pencil, recreating the Mona Lisa while proving sky art demands precision and one-shot flying.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T21:00:16Z",
+    "url": "https://simpleflying.com/pilot-sky-art-mona-lisa-interview/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28f39afe8a75",
+    "title": "American Airlines To Allow Passengers To Purchase Flights With A Mix Of Cash & AAdvantage Miles",
+    "summary": "An interactive checkout slider will let logged in flyers split payment between cash and miles for contiguous US flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-03T20:44:33Z",
+    "url": "https://simpleflying.com/american-airlines-allow-passengers-purchase-flights-mix-cash-aadvantage-miles/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "6c2b28a31364",
     "title": "United Airlines Passenger Dies After Medical Emergency On Long-Haul Flight",
     "summary": "UA142 diverted to Seattle after a passenger suffered a medical emergency eight hours into the Tokyo to Denver trans-Pacific flight.",
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-09-28T09:54:38Z",
     "url": "https://www.aerotime.aero/articles/turkish-air-force-pilots-eurofighter-training-raf",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8699baffd9d2",
-    "title": "The Engine Software Tweak That Finally Lets Delta Air Lines Fly The Embraer E175 Into Aspen",
-    "summary": "Aspen is one of the more challenging airports in the US, and for some time, Delta has been unable to operate its E175 aircraft here, but now, it can",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-28T07:00:14Z",
-    "url": "https://simpleflying.com/engine-software-tweak-finally-lets-delta-air-lines-fly-embraer-e175-aspen/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "cdf2f4a0710f",
-    "title": "IndiGo A321 suffers tail strike during second landing attempt in Bengaluru",
-    "summary": "An IndiGo Airbus A321 operating a flight from Guwahati (GAU) to Bengaluru (BLR) suffered a tail strike during&#8230; The post IndiGo A321 suffers tail strike during second landing attempt in Bengaluru appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-28T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/indigo-a321-suffers-tail-strike-during-second-landing-attempt-in-bengaluru",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "43a445483458",
-    "title": "Southwest & United Airlines Won\u2019t Accept New Boeing 737 MAX Aircraft With Affected Software",
-    "summary": "Southwest and United reject new Boeing 737 MAX jets with affected software as the FAA investigates a VNAV glitch threatening deliveries.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T22:20:05Z",
-    "url": "https://simpleflying.com/southwest-united-airlines-wont-accept-new-boeing-737-max-affected-software/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2e30fbad7994",
-    "title": "What Are The Benefits Of Flying Delta Air Lines' Premium Select?",
-    "summary": "The SkyTeam carrier's premium economy product offers many perks for passengers.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T21:30:15Z",
-    "url": "https://simpleflying.com/benefits-of-flying-delta-air-lines-premium-select-guide/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1077cd62851f",
-    "title": "American Airlines Receives 10th Airbus A321XLR, Expects Fleet To Reach 12 By Year\u2019s End",
-    "summary": "American Airlines now has 10 Airbus A321XLRs after N307NY and N308NY joined N315XR, expanding its premium long-haul narrowbody fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T20:07:48Z",
-    "url": "https://simpleflying.com/american-airlines-10th-airbus-a321xlr-fleet-reach-12-years-end/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c7148b9d5aa6",
-    "title": "Why The World's Largest Passenger Aircraft Failed As A Freighter Even Though Airbus Plotted Its Success",
-    "summary": "Faced with delays to its passenger A380-800, Airbus delayed the A380F until all its orders were canceled and industry lost faith in the program.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-27T20:00:14Z",
-    "url": "https://simpleflying.com/why-worlds-largest-commerical-aircraft-failed-freighter-even-though-airbus-plotted-sucess/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
