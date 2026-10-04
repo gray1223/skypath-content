@@ -1,5 +1,82 @@
 [
   {
+    "id": "7494c2d7d4fe",
+    "title": "The Legacy Airbus Operator Returning To Boeing After A Decade Away From The 737",
+    "summary": "Lufthansa has buoyed its latest Boeing 737 order after having previously ditched the family.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T20:00:15Z",
+    "url": "https://simpleflying.com/legacy-airbus-operator-returning-boeing-decade-away-737/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ed0ecb18129e",
+    "title": "How Alaska Airlines' 76-Seat Regional Jets Are Quietly Outflanking Southwest In San Diego",
+    "summary": "A fight is heating up in Southern California between Alaska Airlines and Southwest. Here's why.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T19:00:15Z",
+    "url": "https://simpleflying.com/how-alaska-airlines-76-seat-regional-jets-quietly-outflanking-southwest-san-diego/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2192b9322e85",
+    "title": "5 Largest Commercial Airports In The World By Number Of Runways",
+    "summary": "Runways come in all sizes and all quantities, but some airports can boast more than any other. Here are 5 airports that have the most runways.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T18:00:15Z",
+    "url": "https://simpleflying.com/largest-commercial-airports-world-number-of-runways/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9103cee6f092",
+    "title": "Ex-Qatari Air Force One Sidelined For 'Cosmetic Upgrades,' But No Word On Missile Defenses",
+    "summary": "Break comes weeks after President Trump said the plane would be sent to be \"maxed out\".",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T17:42:48Z",
+    "url": "https://simpleflying.com/trump-qatari-air-force-one-cosmetic-upgrades-missile-defense/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7f428baf9be7",
+    "title": "Why The Boeing 747SP's Ultra-Long-Range Fuselage Design Will Be Nearly Impossible To Replicate In 2026",
+    "summary": "The aircraft remains one of the most unique aircraft in commercial aviation history.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T17:27:14Z",
+    "url": "https://simpleflying.com/boeing-747sp-fuselage-design-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "86f8469efa39",
+    "title": "When American Airlines Mistakenly Flew A Non-ETOPS Airbus A321 To Hawaii",
+    "summary": "The mistake happened just 12 days after the carrier began deploying the aircraft type over the Pacific.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T17:08:07Z",
+    "url": "https://simpleflying.com/when-american-airlines-flew-non-etops-airbus-a321-hawaii/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b40f8084d5b8",
+    "title": "Inside The $1.4 Billion Program The US Air Force Just Stood Up At Grand Forks To Defend Its Own Bases",
+    "summary": "The USAF is up-arming its close-in base air defenses.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T17:00:15Z",
+    "url": "https://simpleflying.com/inside-usaf-program-grand-forks-defend-own-bases/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "1ff972d29c8c",
     "title": "The Quiet Boeing 787-10 Upgrade That Just Made United Airlines' Fleet Math Rival The Airbus A350",
     "summary": "United\u2019s higher-weight Boeing 787-10 gains more range and payload, potentially expanding where the airline can deploy its largest Dreamliner.",
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-09-28T19:55:50Z",
     "url": "https://www.aerotime.aero/articles/us-senate-pilot-mental-health-bills",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "de427cce66d9",
-    "title": "PC-12 PRO Autoland Gains FAA, EASA Approval",
-    "summary": "The emergency system can select an airport, communicate with ATC and land the aircraft following pilot incapacitation.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-28T18:29:18Z",
-    "url": "https://avweb.com/aviation-news/pc-12-pro-autoland-faa-easa-approvals/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a4e65e9a183f",
-    "title": "FAA Investigating Boeing 737 Max Glitch That Could Impact Newer Models",
-    "summary": "Software issue affecting aircraft could inadvertently disengage VNAV capability.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-28T17:30:00Z",
-    "url": "https://www.flyingmag.com/faa-boeing-737-max-aircraft-software-glitch-vnav/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a7243e2e65db",
-    "title": "Senate Passes Pilot Mental Health Bill",
-    "summary": "Measure would require FAA changes to medical certification and mental health policies.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-28T15:59:03Z",
-    "url": "https://avweb.com/aviation-news/senate-passes-pilot-mental-health-bill/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9cc68ca1ebad",
-    "title": "Legacy Citations Lose Single-Pilot Exemptions",
-    "summary": "NBAA and Citation Jet Pilots are questioning the agency\u2019s decision and asking the FAA to release the data behind it.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-28T15:39:00Z",
-    "url": "https://avweb.com/aviation-news/citations-lose-single-pilot-exemption/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cdac01cf4f03",
-    "title": "WestJet begins 737-700 retirement as FTAI acquires 27 aircraft",
-    "summary": "WestJet said it has officially begun retiring its fleet of its remaining Boeing 737-700 after FTAI Aviation acquired&#8230; The post WestJet begins 737-700 retirement as FTAI acquires 27 aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-28T14:01:09Z",
-    "url": "https://www.aerotime.aero/articles/westjet-boeing-737-700-retirement-ftai-acquisition-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "35efea3828f6",
-    "title": "FAA Pulls Citation Single-Pilot Authorization",
-    "summary": "Agency cites safety concerns and \u2018widespread noncompliance\u2019 with former rules.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-28T14:00:00Z",
-    "url": "https://www.flyingmag.com/faa-pulls-citation-single-pilot-authorization/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c7524d1a86a",
-    "title": "This 1973 Grumman American AA-5 Traveler Is an Efficient \u2018AircraftForSale\u2019 Top Pick",
-    "summary": "Engine upgrade, IFR Garmin GPS, and low SMOH engine hours make the single-engine platform a smart commuter.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-28T13:00:00Z",
-    "url": "https://www.flyingmag.com/this-1973-grumman-american-aa-5-traveler-is-an-efficient-aircraftforsale-top-pick/",
     "airlineTag": null,
     "isBreaking": false
   }
