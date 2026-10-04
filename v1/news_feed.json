@@ -1,5 +1,38 @@
 [
   {
+    "id": "c788ea164c01",
+    "title": "Emirates Finally Killed Its 2-3-2 Business Class On US Routes: Here's What Replaced It",
+    "summary": "The airline finally moved away from its seven-abreast business class and introduced a much more modern product.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T10:00:14Z",
+    "url": "https://simpleflying.com/emirates-killed-2-3-2-business-class-us-routes-replace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d8b92064a0dc",
+    "title": "United Passenger Scores Exit Row To Himself, Streams 5 Football Games At Once On Starlink",
+    "summary": "A Chicago passenger transforms three empty seatback displays and personal gadgets into an inflight sports hub.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T08:05:53Z",
+    "url": "https://simpleflying.com/united-airlines-starlink-5-college-football-games/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "fa4ce60dca9b",
+    "title": "United Passengers Stuck Nearly 12 Hours On Rome Flight That Never Took Off Given $175",
+    "summary": "A series of setbacks kept United's Boeing 777 on the ground for nearly 12 hours before the flight was canceled.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-04T06:34:15Z",
+    "url": "https://simpleflying.com/united-airlines-passengers-stuck-12-hours-rome-flight/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "6f32a400da14",
     "title": "Why British Airways Is Stripping 88 Economy Seats From Every Airbus A380 In Its Fleet",
     "summary": "BA is gearing up to retrofit its A380 fleet into a more modern premium seating configuration as it plans to continue operating Superjumbos.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-09-28T11:34:07Z",
     "url": "https://www.aerotime.aero/articles/sas-scandinavian-as-standard-new-brand-platform",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bc632d213a1",
-    "title": "Curved Earth: What Private Jet Pilots Notice At 51,000 Feet Where Commercial Jets Can't Reach",
-    "summary": "Climbing to 51,000 feet, private jet pilots witness a visual shift that challenges flat-earth myths, with a rare glimpse of the planet from above.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-28T10:40:29Z",
-    "url": "https://simpleflying.com/private-jet-pilots-notice-commercial-jets-cant-reach/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0f543b7bb1ed",
-    "title": "The Real Reason Why The US Air Force Rejected The B-52's Purpose-Built Radome From Its Modernization",
-    "summary": "The US Air Force is modernizing the B-52 with a new AESA radar while retaining its existing radome.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-28T10:00:15Z",
-    "url": "https://simpleflying.com/real-reason-usaf-reject-b-52-purpose-built-modernization/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "109104272fe6",
-    "title": "Turkish Air Force pilots begin Eurofighter training with RAF",
-    "summary": "The first pilots from the Turkish Air Force have begun their Eurofighter Typhoon training in the United Kingdom&#8230; The post Turkish Air Force pilots begin Eurofighter training with RAF appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "military",
-    "publishedDate": "2026-09-28T09:54:38Z",
-    "url": "https://www.aerotime.aero/articles/turkish-air-force-pilots-eurofighter-training-raf",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
