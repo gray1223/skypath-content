@@ -1,5 +1,16 @@
 [
   {
+    "id": "600677e4f7dc",
+    "title": "Why EASA's 7,800-Cycle Inspection Order Just Rewrote Boeing 787 Maintenance Planning",
+    "summary": "Are the advertized economic benefits of the Boeing 787 being taken away by a new inspection order? This article finds out what will happen",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-06T00:00:16Z",
+    "url": "https://simpleflying.com/easa-7800-cycle-inspection-order-rewrote-boeing-787-maintenance-planning/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "e86ad107ef71",
     "title": "Inside The US' Potentially Controversial $24 Billion Deal To Sell F-35 Stealth Jets To Saudi Arabia",
     "summary": "Saudi Arabia wants the F-35, but China's presence in the Kingdom could put sensitive US military technology and secrets at risk.",
@@ -46,7 +57,7 @@
   {
     "id": "16fce9394e0e",
     "title": "Houthis warn airlines to avoid Saudi airspace as Yemen conflict escalates",
-    "summary": "Houthis warn airlines against Saudi airspace as fighting in Yemen escalates, adding to regional aviation risks linked to the Iran war. The post Houthis warn airlines to avoid Saudi airspace as Yemen conflict escalates appeared first on AeroTime.",
+    "summary": "Yemen\u2019s Houthis warned airlines against using Saudi Arabian airspace on October 5, 2026, as renewed fighting in Yemen&#8230; The post Houthis warn airlines to avoid Saudi airspace as Yemen conflict escalates appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-10-05T19:39:39Z",
@@ -864,7 +875,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T22:04:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1194,7 +1205,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-02T02:12:06Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/pr-aopa-statement-on-issuance-of-eviction-notices-at-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1293,7 +1304,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-01T20:09:28Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/01/why-fly?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1909,7 +1920,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T08:18:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/30/senate-unanimously-approves-mental-health-medication-bills?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1997,7 +2008,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-30T00:17:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/pr-aopa-urges-faa-to-reconsider-rescinding-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2008,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T23:36:47Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/aopa-urges-faa-to-reconsider-pulling-single-pilot-citation-exemptions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2052,7 +2063,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-09-29T21:15:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/september/29/training-and-safety-tip-listen-to-your-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-09-29T18:03:26Z",
     "url": "https://simpleflying.com/alaska-airlines-737-max-10-aurora-suites-787-premium-seating/",
     "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "69be39664d5d",
-    "title": "FAA Proposes Relaxing Part 135 and 91 Oxygen Mask Rules",
-    "summary": "Pilots of pressurized aircraft would be able to fly at any certified altitude without supplemental oxygen if quick-donning masks are available.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-29T17:00:00Z",
-    "url": "https://www.flyingmag.com/faa-propose-relaxed-part-135-91-oxygen-mask-rule/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
