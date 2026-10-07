@@ -1,5 +1,137 @@
 [
   {
+    "id": "fd25ae10e533",
+    "title": "Alaska Airlines Testing An East Coast Fix With Breeze Airways",
+    "summary": "Alaska Airlines is testing Breeze as an East Coast sales channel, but the partnership may have a relatively low ceiling.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-07T21:33:21Z",
+    "url": "https://simpleflying.com/alaska-airlines-testing-east-coast-fix-breeze-airways/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "441c5a23d7c2",
+    "title": "5 Reasons Why Private Jets Almost Always Cruise Above Airline Traffic",
+    "summary": "Designed for lightweight, fast, long-range operations, private jets exploit the benefits of higher cruise altitudes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-07T21:00:14Z",
+    "url": "https://simpleflying.com/reasons-why-private-jets-almost-always-cruise-above-airline-traffic/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "da1acfb62a79",
+    "title": "2nd Life: Frontier Airlines Due For Delivery Of 1st Ex-Spirit Airbus A321neo",
+    "summary": "Frontier is preparing to receive its first ex-Spirit A321neo as ten nearly-new jets switch between former ULCC rivals.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-07T20:12:49Z",
+    "url": "https://simpleflying.com/frontier-airlines-due-delivery-1st-ex-spirit-airbus-a321neo/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "944ce4934288",
+    "title": "Biman Bangladesh places firm order for 10 Airbus jets",
+    "summary": "Biman Bangladesh Airlines has ordered four Airbus A350-900s and six A321neos, adding Airbus aircraft for the first time&#8230; The post Biman Bangladesh places firm order for 10 Airbus jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-07T20:06:56Z",
+    "url": "https://www.aerotime.aero/articles/biman-bangladesh-places-firm-order-for-10-airbus-jets",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6773d0ed4f9f",
+    "title": "Only 37% Full: Alaska Airlines' 11 Emptiest Routes From Seattle Revealed",
+    "summary": "They include two of the carrier's long-haul markets, although there's only limited data so far. Find out more now!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-07T19:00:14Z",
+    "url": "https://simpleflying.com/only-37pc-full-alaska-airlines-11-emptiest-routes-from-seattle-revealed/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c016cc13c6a4",
+    "title": "Delta Air Lines Is Quietly Cutting Domestic Routes To Fund Its Premium International Push",
+    "summary": "Delta filed seven domestic route cuts in September 2026. Each one has a specific reason, and none of them is a retreat from the airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-07T19:00:14Z",
+    "url": "https://simpleflying.com/delta-air-lines-is-quietly-cutting-domestic-routes-to-fund-its-premium-international-push/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "14ddc3e32b82",
+    "title": "Tecnam Introduces FAR 23 Trainer for U.S. Flight Schools",
+    "summary": "P2008JC NG aims to give academies a modern, cost-efficient alternative to aging legacy fleets.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-10-07T18:42:34Z",
+    "url": "https://www.flyingmag.com/tecnam-introduces-far-23-trainer-for-u-s-flight-schools/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6ea9d91f3d8a",
+    "title": "FAA Proposes Honda HA-480 High-Altitude Conditions",
+    "summary": "The FAA is proposing special certification requirements for Honda Aircraft\u2019s HA-480, which is designed to operate at altitudes up to 47,000 feet.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-07T15:14:15Z",
+    "url": "https://avweb.com/aviation-news/faa-honda-ha-480-special-conditions/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "58e6f38dd6e6",
+    "title": "20-Hour Flights: The Top 11 Ultra-Long Nonstop Airbus A350 Routes Revealed",
+    "summary": "See which airlines have scheduled the longest A350 flights in October.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-07T15:00:14Z",
+    "url": "https://simpleflying.com/20-hour-flights-a350s-11-new-ultra-long-nonstop-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "98b5bcb92189",
+    "title": "Australia\u2019s black box flight recorder to feature on Royal Australian Mint coin",
+    "summary": "The black box flight recorder, invented by Australian defense scientist David Warren in the 1950s, will appear on&#8230; The post Australia\u2019s black box flight recorder to feature on Royal Australian Mint coin appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-07T14:03:51Z",
+    "url": "https://www.aerotime.aero/articles/australias-black-box-flight-recorder-to-feature-on-royal-australian-mint-coin",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0e03322316f4",
+    "title": "Lithuania receives first Switchblade 600s after 2024 delivery pledge",
+    "summary": "The Lithuanian Armed Forces have received their first AeroVironment Switchblade 600 loitering munitions, more than two years after&#8230; The post Lithuania receives first Switchblade 600s after 2024 delivery pledge appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-07T13:42:42Z",
+    "url": "https://www.aerotime.aero/articles/lithuania-receives-first-switchblade-600-loitering-munitions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "564594f15111",
+    "title": "Saudia Group gains momentum for \u2018substantial\u2019 aircraft order: Bloomberg",
+    "summary": "Saudia Group is moving closer to a &#8220;substantial&#8221; aircraft order, according to a company executive who spoke with&#8230; The post Saudia Group gains momentum for \u2018substantial\u2019 aircraft order: Bloomberg appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-07T13:18:26Z",
+    "url": "https://www.aerotime.aero/articles/saudia-group-gains-momentum-for-substantial-aircraft-order-bloomberg",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d265f2100907",
     "title": "Romania orders 12 Airbus H225M helicopters to replace IAR-330 Puma fleet",
     "summary": "Romania has signed a contract for 12 Airbus H225M multirole military helicopters, Airbus Helicopters announced on October 7,&#8230; The post Romania orders 12 Airbus H225M helicopters to replace IAR-330 Puma fleet appeared first on AeroTime.",
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-09-30T20:35:14Z",
     "url": "https://simpleflying.com/united-airlines-cancels-24-routes-from-chicago-ohare/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1dba15852800",
-    "title": "US states challenge FAA drone delivery review over noise and safety concerns",
-    "summary": "Fifteen US states and Harris County, Texas, have challenged the Federal Aviation Administration\u2019s (FAA) environmental review of commercial&#8230; The post US states challenge FAA drone delivery review over noise and safety concerns appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-30T19:53:59Z",
-    "url": "https://www.aerotime.aero/articles/states-faa-drone-delivery-review-texas-noise",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "816eff9c1277",
-    "title": "European Flight School Adds \u2018Black Boxes\u2019 to 35 Training Aircraft",
-    "summary": "A European flight school is adding flight data recorders to 35 training aircraft to improve flight tracking, safety analysis and student debriefs.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-09-30T19:40:00Z",
-    "url": "https://avweb.com/aviation-news/european-flight-school-black-boxes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2503a9815824",
-    "title": "Stratolaunch buys Boeing 777 for hypersonic flight testing",
-    "summary": "Stratolaunch has acquired a Boeing 777-200ER that the Mojave, California-based company said will allow it to carry and&#8230; The post Stratolaunch buys Boeing 777 for hypersonic flight testing appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-30T19:25:37Z",
-    "url": "https://www.aerotime.aero/articles/stratolaunch-boeing-777-hypersonic-flight-testing",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "90daf7193f00",
-    "title": "Is It True That Every Premium Economy Row Really Costs An Airline Rows Of Economy Seats?",
-    "summary": "A closer look at why premium economy is so lucrative from a configuration-basis for US airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T19:00:15Z",
-    "url": "https://simpleflying.com/true-every-premium-economy-row-costs-airline-rows-economy-seats/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ccd5bb63669f",
-    "title": "Southwest Airlines Flight Performs Emergency Return To Orlando Due To Bird Strike",
-    "summary": "The aircraft landed safely in Orlando with no injuries reported.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T18:52:51Z",
-    "url": "https://simpleflying.com/southwest-airlines-flight-emergency-return-orlando-bird-strike/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "23f368c4c744",
-    "title": "Picture of the Day: Sept. 30, 2026",
-    "summary": "Royal Air Force Over Oshkosh, WI.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-30T18:45:00Z",
-    "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-sept-30-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "82b3d55d9495",
-    "title": "FAA Certifies Garmin Autoland for Epic E1000 AX",
-    "summary": "Passengers can activate the safety system from multiple locations in the cabin.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-09-30T18:32:40Z",
-    "url": "https://www.flyingmag.com/faa-certifies-garmin-autoland-for-epic-e1000-ax/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "bd7a0ad05f4c",
-    "title": "Navy Selects Boeing to Build Next-Generation F/A-XX Fighter",
-    "summary": "The U.S. Navy has selected Boeing to develop its next-generation F/A-XX carrier-based fighter under a contract worth more than $20 billion.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-30T18:13:22Z",
-    "url": "https://avweb.com/aviation-news/navy-selects-boeing-f-a-xx-fighter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0ef80f058c66",
-    "title": "5 Airlines With The World\u2019s Newest Premium Economy Seats",
-    "summary": "These airlines' premium economy products are among the most modern offerings available in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T17:30:16Z",
-    "url": "https://simpleflying.com/5-airlines-with-the-worlds-newest-premium-economy-seats/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "847a1f463b5b",
-    "title": "AOPA Asks FAA to Reconsider Pulling Single-Pilot Citation Exemptions",
-    "summary": "Safety deficiencies \u2018should have been identified and corrected long before such drastic action\u2026was taken,\u2019 organization says.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-09-30T16:50:09Z",
-    "url": "https://www.flyingmag.com/aopa-faa-citation-single-pilot-exemptions/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5551db4fa2ac",
-    "title": "Pilot Stabbed During Flydubai Flight to Israel",
-    "summary": "A Flydubai flight to Israel diverted to Saudi Arabia after a reported cockpit altercation in which one pilot stabbed another.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-09-30T16:01:00Z",
-    "url": "https://avweb.com/aviation-news/flydubai-flight-diverts-after-cockpit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f909191e94e",
-    "title": "The 102-Seat American Airlines Jet Being Reconfigured To Carry 196 Passengers By 2027",
-    "summary": "American is lowering capacity on some of its Airbus A321 aircraft as part of a fleet-wide narrowbody refurbishment.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T16:00:15Z",
-    "url": "https://simpleflying.com/102-seat-american-airlines-jet-being-reconfigured-carry-196-passenger-2027/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
