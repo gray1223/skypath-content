@@ -1,5 +1,27 @@
 [
   {
+    "id": "7cb16e92ff00",
+    "title": "How Porter Airlines Is Building Montreal's 2nd Airport Without Repeating A $30 Billion Disaster",
+    "summary": "Montreal's new $450 million airport, YHU, aims to avoid Mirabel's pitfalls by focusing on domestic convenience rather than international prestige.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-08T01:46:16Z",
+    "url": "https://simpleflying.com/how-porter-airlines-is-building-montreals-2nd-airport-without-repeating-a-30-billion-disaster/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "90d62775fc8f",
+    "title": "Here's How Qantas Is Choreographing The End Of Its Boeing 737 Era Without Grounding Pilots",
+    "summary": "The story of the Qantas 737 is coming to an end, and with that, many pilots will be left without an aircraft to fly. What will the airline do?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-08T00:00:15Z",
+    "url": "https://simpleflying.com/how-qantas-choreographing-end-boeing-737-era-without-grounding-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fd25ae10e533",
     "title": "Alaska Airlines Testing An East Coast Fix With Breeze Airways",
     "summary": "Alaska Airlines is testing Breeze as an East Coast sales channel, but the partnership may have a relatively low ceiling.",
@@ -73,6 +95,17 @@
     "category": "training",
     "publishedDate": "2026-10-07T18:42:34Z",
     "url": "https://www.flyingmag.com/tecnam-introduces-far-23-trainer-for-u-s-flight-schools/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0e63343a6697",
+    "title": "FAA revises proposed Alaska airspace overhaul",
+    "summary": "The FAA is proposing changing the floor of controlled airspace over Alaska to make services more widely available to pilots flying under instrument flight rules.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-10-07T17:21:29Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -228,6 +261,17 @@
     "publishedDate": "2026-10-07T08:00:15Z",
     "url": "https://simpleflying.com/why-virgin-atlantic-chicago-newark-detroit-delta-air-lines-flying-itself/",
     "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "be79b7b99e85",
+    "title": "Still on the mission",
+    "summary": "Dr. Susan Buriak spent roughly 15 years teaching aviation medical examiners how FAA medical certification works. After she retired, she built a free web-based application to keep doing that work.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-10-07T08:00:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-09-30T23:00:15Z",
     "url": "https://simpleflying.com/nato-bases-f35-european-expansion-upgrades/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "326c4f2a106d",
-    "title": "A Look At The Salaries Of Private Jet Pilots In The US In 2026",
-    "summary": "Private jet careers are still popular for pilots even though they typically pay less than commercial pilot positions.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T22:52:19Z",
-    "url": "https://simpleflying.com/salaries-of-private-jet-pilots-us-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b5b1bfea943c",
-    "title": "6 Airlines With The World's Most Spacious Business Class Seats For Long-Haul Flights",
-    "summary": "The widest business class seat in the sky is nearly double the width of the narrowest.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T21:30:14Z",
-    "url": "https://simpleflying.com/6-airlines-with-worlds-most-spacious-business-class-seats-long-haul-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "82edf85e7789",
-    "title": "US pushes for faster aircraft certification, citing competition from China",
-    "summary": "US Transportation Secretary Sean Duffy said the United States wants to be able to shorten the time needed&#8230; The post US pushes for faster aircraft certification, citing competition from China appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-09-30T21:25:05Z",
-    "url": "https://www.aerotime.aero/articles/us-faster-aircraft-certification-china",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "68369e978d3c",
-    "title": "United Airlines Cancels 24 Routes From Chicago O'Hare: See Full List Now",
-    "summary": "14 of them are regular cuts, while the rest were due to launch in 2026 but have been 'suspended.' Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-09-30T20:35:14Z",
-    "url": "https://simpleflying.com/united-airlines-cancels-24-routes-from-chicago-ohare/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
