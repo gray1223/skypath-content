@@ -1,5 +1,49 @@
 [
   {
+    "id": "9ff5b1e6696f",
+    "title": "Inside RTX\u2019s Singapore MRO hubs: why Asia-Pacific is leading the automation push",
+    "summary": "Within the next decade, Asia-Pacific is expected to become the world&#8217;s largest aviation market by fleet size. Engine&#8230; The post Inside RTX\u2019s Singapore MRO hubs: why Asia-Pacific is leading the automation push appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-09T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/inside-rtxs-singapore-mro-hubs-why-asia-pacific-is-leading-the-automation-push",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6d43fcf6a0a6",
+    "title": "Balancing growth and ecosystems: Abra Group\u2019s approach to ESG in Latin America",
+    "summary": "While Abra Group is one of the world&#8217;s largest airline groups, you may know it better by the&#8230; The post Balancing growth and ecosystems: Abra Group\u2019s approach to ESG in Latin America appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-09T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/balancing-growth-and-ecosystems-abra-groups-approach-to-esg-in-latin-america",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "136d2b482a75",
+    "title": "How Many Miles Per Gallon Does A Bombardier CRJ900 Get?",
+    "summary": "The CRJ900 gets between 33 and 60 passenger-miles per gallon, depending on how far it flies. Newer regional jets get double that.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-09T00:00:15Z",
+    "url": "https://simpleflying.com/how-many-miles-per-gallon-does-a-bombardier-crj900-get/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "89e9625f3396",
+    "title": "Why American Airlines Cut Boeing 777-300ER Crews From 13 To 11 Before Adding 70 Flagship Suites",
+    "summary": "American's 777-300ER has gained 26 seats and 70 Flagship Suites, but its pandemic-era 11-person cabin crew remains unchanged.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-08T23:00:16Z",
+    "url": "https://simpleflying.com/why-american-airlines-cut-boeing-777-300er-crews-13-11-adding-70-flagship-suites/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "5cd09e35c6d4",
     "title": "How 18 New L3Harris Satellites Will Change What F-35 & B-21 Pilots See In The Cockpit",
     "summary": "The supercharged data-link network coming to America's warbids.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-01T23:00:14Z",
     "url": "https://simpleflying.com/worlds-longest-flight-explained/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7f6683605048",
-    "title": "The US Air Force Has 113 KC-46 Tankers & Almost None Are Based In The Pacific",
-    "summary": "Why the Pegasus doesn't roam very far... yet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-01T22:00:14Z",
-    "url": "https://simpleflying.com/usaf-113-kc-46-tankers-almost-none-based-pacific/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fed4a8632dc3",
-    "title": "The Widebody Cabin Math That Made Premium Economy The Highest-Margin Seat In 2026",
-    "summary": "Why is it that premium economy has become the economic engine of the modern long-haul airline, and is it set to stay that way in the future?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-01T21:00:15Z",
-    "url": "https://simpleflying.com/widebody-cabin-math-premium-economy-highest-margin-seat-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "72ed983a2d1f",
-    "title": "Epic E1000 AX wins FAA approval for Garmin Autoland",
-    "summary": "Epic Aircraft has secured Federal Aviation Administration (FAA) certification for Garmin&#8217;s Autoland system on the E1000 AX, allowing&#8230; The post Epic E1000 AX wins FAA approval for Garmin Autoland appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-01T20:53:09Z",
-    "url": "https://www.aerotime.aero/articles/epic-e1000-ax-garmin-autoland-faa-certification",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2e7d65c9b262",
-    "title": "FAA Set To Convene Review Board To Address Boeing 737 MAX Software Glitch",
-    "summary": "The FAA will convene a review board Friday to determine whether a newly disclosed 737 MAX software glitch requires corrective action.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-01T20:47:03Z",
-    "url": "https://simpleflying.com/faa-convene-review-board-address-boeing-737-max-software-glitch/",
     "airlineTag": null,
     "isBreaking": false
   }
