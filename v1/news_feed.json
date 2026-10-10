@@ -1,5 +1,49 @@
 [
   {
+    "id": "0c150ac9bdeb",
+    "title": "Simple Flying Podcast Episode 306: Delta Air Lines Passenger Breaches Airport Security, Air France Unlocks New 2027 US Routes",
+    "summary": "Join Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T03:26:48Z",
+    "url": "https://simpleflying.com/podcast-306/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "996e41080bee",
+    "title": "Frontier Passengers Rush Exit Door, Clash With Crew After Nearly An Hour Trapped Without AC",
+    "summary": "How a sweltering arrival was too much to bear for some travelers in Atlanta.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T01:47:45Z",
+    "url": "https://simpleflying.com/frontier-passengers-rush-exit-door-trapped-without-ac/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "afbf7b1ca843",
+    "title": "Where Are The World's Largest Military Transport Aircraft Right Now?",
+    "summary": "With the An-225 destroyed, the An-124 is the largest military transport flying. Here is where the world's biggest airlifters are based.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T00:00:15Z",
+    "url": "https://simpleflying.com/worlds-largest-military-transport-aircraft-tracked/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "51982ac9be86",
+    "title": "Airlines Are Accepting Brand-New Airbus A321neos Knowing They'll Be Grounded 9 Days Within 2 Years",
+    "summary": "Why are airlines taking in new A321neos knowing that they will need to be pulled from service to fix a defect?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-09T23:00:15Z",
+    "url": "https://simpleflying.com/airlines-are-accepting-brand-new-airbus-a321neos-knowing-theyll-be-grounded-9-days-within-2-years/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "44f217559e7a",
     "title": "The McDonnell Douglas MD-80s Still Flying More Than 45 Years After 1st Flight",
     "summary": "Once a mainstay of major carriers, the MD-80 persists in cargo and charter roles where entry cost beats fuel economy.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-02T22:01:16Z",
     "url": "https://simpleflying.com/how-pacific-conflict-every-tanker-usaf-owns/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "55d95927c236",
-    "title": "Hair-Raising Stuff: This Airline Just Got Sued For A World Cup Post About Erling Haaland's Ponytail",
-    "summary": "Norwegian Air Shuttle could be in for hefty legal costs after using Haaland's haircut in a social media post.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-02T20:33:02Z",
-    "url": "https://simpleflying.com/hair-raising-stuff-this-airline-just-got-sued-for-a-world-cup-post-about-erling-haalands-ponytail/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a157da6a4eb8",
-    "title": "FAA Breaks ATC Hiring Record, But More Work Remains",
-    "summary": "Agency remains hundreds of controllers short of its targeted headcount as of August.",
-    "source": "Flying Magazine",
-    "category": "hiring",
-    "publishedDate": "2026-10-02T20:30:00Z",
-    "url": "https://www.flyingmag.com/faa-breaks-atc-hiring-record-more-work-remains/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "618f8f193863",
-    "title": "14,000 Pounds Of Fuel: What The MQ-25A Stingray Takes Off The Super Hornet",
-    "summary": "The US Navy's MQ-25 Stingray is moving closer to service, bringing autonomous refueling and new capabilities to carrier aviation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-02T20:00:16Z",
-    "url": "https://simpleflying.com/14000-fuel-mq-25a-stingray-takes-off-super-hornet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e2e96f9d6080",
-    "title": "FAA finds Boeing 737 MAX software issue poses no flight-safety risk",
-    "summary": "The US Federal Aviation Administration (FAA) said a software problem affecting some Boeing 737 MAX aircraft does not&#8230; The post FAA finds Boeing 737 MAX software issue poses no flight-safety risk appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-02T19:29:14Z",
-    "url": "https://www.aerotime.aero/articles/faa-boeing-737-max-software-no-safety-risk",
     "airlineTag": null,
     "isBreaking": false
   }
