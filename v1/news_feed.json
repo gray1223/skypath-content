@@ -1,5 +1,49 @@
 [
   {
+    "id": "f23e6b7b8727",
+    "title": "Beyond Seattle: These Are Alaska Airlines' 6 Other Hubs",
+    "summary": "From its new second global hub in Hawaii to steady growth across California and Alaska, the airline has clearly expanded beyond Seattle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T20:00:15Z",
+    "url": "https://simpleflying.com/alaska-airlines-6-other-hubs/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3ec20d715e82",
+    "title": "Why American Airlines Can No Longer Afford To Be Strong At Every Hub",
+    "summary": "A closer look at the rationale behind American Airlines' network changes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T19:00:15Z",
+    "url": "https://simpleflying.com/american-airlines-no-longer-afford-strong-every-hub/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "80f6a1632a21",
+    "title": "The Retired Widebody Airliner Now Cheaper Than Building A New Hypersonic Carrier Aircraft",
+    "summary": "Stratolaunch's latest addition to its fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T18:00:15Z",
+    "url": "https://simpleflying.com/retired-widebody-airliner-cheaper-building-new-hypersonic-carrier-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4a8a823ef564",
+    "title": "Qatar Airways' Qsuite Next Gen Is So Advanced It Forced The Airline To Invent A New First Class",
+    "summary": "Qsuite took so many elements from first class that Qatar Airways has had to introduce Qsuite Next Gen.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T17:30:15Z",
+    "url": "https://simpleflying.com/qatar-airways-qsuite-next-gen-advanced-forced-to-invent-new-first-class/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ba20ebe63bbd",
     "title": "Etihad Airways' Airbus A380 Comeback Is Complete \u2013 Here's Where To Find The Fleet Today",
     "summary": "The A380 is well and truly back at Etihad, and you can see it in action using the live flight tracker feature.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-03T12:30:15Z",
     "url": "https://simpleflying.com/5-airports-that-pilots-say-are-the-most-technically-challenging-to-land-at/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4d6f756bec12",
-    "title": "Ex-KLM CEO Breaks Power Bank Rule On A 777, Sparking A Mid-Air Fire & Diversion",
-    "summary": "On September 17th, a KLM Royal Dutch Airlines Boeing 777-300ER flying from Amsterdam Schiphol to Cura\u00e7ao had to divert back to the Dutch capital after a passenger's power bank caught fire on Thursday. While such situations arise from time to time in aviation, this was particul...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T12:29:15Z",
-    "url": "https://simpleflying.com/video/ex-klm-ceo-breaks-power-bank-rule-on-a-777-sparking-a-mid-air-fire-diversion/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2a3d934b2434",
-    "title": "How Much Do V-22 Osprey Pilots Make Compared To Commercial Helicopter Pilots?",
-    "summary": "V-22 Osprey pilots earn military officer pay and aviation benefits, while civilian helicopter salaries vary widely as the AW609 creates a new category",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T12:00:16Z",
-    "url": "https://simpleflying.com/v22-osprey-pilot-pay-vs-commercial-helicopter-pilots/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f47de7dcdeca",
-    "title": "Yes, B-1 Lancer Crews Are Now Logging Proficiency Hours In A Honda Business Jet",
-    "summary": "The USAF outsources flight hours as its fleet languishes in depot.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T11:00:15Z",
-    "url": "https://simpleflying.com/b-1-lancer-crews-now-logging-proficiency-hours-honda-buisness-jet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d7cf927b8c1c",
-    "title": "flydubai Co-Pilot Attacked Captain With Cockpit Axe After Oman Air Grounded Him Over Extremism",
-    "summary": "A violent cockpit struggle sent the 737 MAX into a terrifying 14,000-foot plunge.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T09:23:12Z",
-    "url": "https://simpleflying.com/flydubai-co-pilot-cockpit-axe-attack-oman-air-grounded-extremism/",
     "airlineTag": null,
     "isBreaking": false
   }
