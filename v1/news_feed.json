@@ -1,5 +1,60 @@
 [
   {
+    "id": "ba20ebe63bbd",
+    "title": "Etihad Airways' Airbus A380 Comeback Is Complete \u2013 Here's Where To Find The Fleet Today",
+    "summary": "The A380 is well and truly back at Etihad, and you can see it in action using the live flight tracker feature.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T17:00:15Z",
+    "url": "https://simpleflying.com/etihad-a380-fleet-reactivation-complete-tracker/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "42907d4b9878",
+    "title": "Delta\u2019s Riyadh Launch In Fresh Doubt As Passenger Terminal Blast Leaves Many Injured",
+    "summary": "Delta\u2019s CEO has claimed that safety will decide whether its Riyadh launch goes ahead.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T16:44:44Z",
+    "url": "https://simpleflying.com/delta-air-lines-riyadh-launch-doubt-passenger-terminal-blast/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "2a8d8a1e1b10",
+    "title": "Where To Actually Spot The World's Last Passenger Boeing 747s",
+    "summary": "Frankfurt, Seoul, Beijing, and Moscow host the dwindling fleet on high-capacity routes and also on unexpected diversions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T14:00:15Z",
+    "url": "https://simpleflying.com/where-to-spot-worlds-last-passenger-boeing-747s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "32acbde5d5b3",
+    "title": "Delta Air Lines' 6 Major New Nonstop Routes From Los Angeles: See Flights Now",
+    "summary": "These services will start between November and June.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T13:00:15Z",
+    "url": "https://simpleflying.com/delta-air-lines-launches-6-new-nonstop-routes-from-los-angeles/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "02777ebb070b",
+    "title": "Qatar Airways Officially Ends Its Airbus A330 Era, Sends Pilots To RwandAir",
+    "summary": "Qatar Airways has retired its final Airbus A330 passenger aircraft, ending the airline's era with the type after it remained in its fleet longer than originally expected. The carrier is also offering a voluntary short-term secondment opportunity to more than a dozen A330-train...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T12:33:14Z",
+    "url": "https://simpleflying.com/video/qatar-airways-officially-ends-its-airbus-a330-era-sends-pilots-to-rwandair/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "dc168932db24",
     "title": "Why Delta Air Lines Retired Its Densest Airbus A350 Layout & Standardized On 275 Seats",
     "summary": "Delta flew three different A350 cabins, including nine ex-LATAM jets with 2-2-2 business class.",
@@ -512,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-08T17:32:05Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/08/faa-does-not-care-what-your-hangar-costs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/08/faa-does-not-care-what-your-hangar-costs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T17:21:29Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -974,7 +1029,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1029,7 +1084,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T00:26:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/training-and-safety-tip-notice-the-signs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/training-and-safety-tip-notice-the-signs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1051,7 +1106,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-06T22:02:49Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/aircraft-maintenance-night-flight-preparations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/aircraft-maintenance-night-flight-preparations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1205,7 +1260,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-06T16:52:50Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/easa-grounds-all-elixir-aircraft?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/easa-grounds-all-elixir-aircraft?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-03T09:23:12Z",
     "url": "https://simpleflying.com/flydubai-co-pilot-cockpit-axe-attack-oman-air-grounded-extremism/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ef479bc02c41",
-    "title": "What The 4-Digit Code Every Commercial Aircraft Broadcasts Actually Tells Air Traffic Control",
-    "summary": "There are only 4,096 possible combinations. Let's see what 7500, 7600, and 7700 mean, and how ATC uses them.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T09:15:15Z",
-    "url": "https://simpleflying.com/what-commercial-aircraft-transponder-codes-actually-mean/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4e833f8aed34",
-    "title": "Qantas & Jetstar Launching 3 New Nonstop International Routes: See Full List Now",
-    "summary": "New daily flights and aircraft swaps promise boosted Bali and Jakarta capacity as airlines eye peak season demand.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T09:00:14Z",
-    "url": "https://simpleflying.com/qantas-jetstar-launching-3-new-international-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3612391d4d89",
-    "title": "FAA Rules Boeing 737 MAX Landing Glitch Isn't A Safety Risk, Paving Way For MAX 10 Certification",
-    "summary": "With multiple carriers queued for large shipments the MAX 10 becomes a focal point for fleet strategy and route growth.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-10-03T04:34:19Z",
-    "url": "https://simpleflying.com/faa-boeing-737-max-software-glitch-max-10-certification/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59b702111d4a",
-    "title": "Summer On: Southwest Airlines Unlocks 23 Routes & Expands Frequencies For 2027",
-    "summary": "Southwest\u2019s latest schedule extension reinforces three increasingly important stations while adding 23 new or returning routes for summer 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T00:28:52Z",
-    "url": "https://simpleflying.com/southwest-airlines-unlocks-23-routes-expands-frequencies-2027/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d10a4bc4730b",
-    "title": "Why Qantas' Project Sunrise Airbus A350 Needs A Fuel Tank No Other Airline Has Ever Ordered",
-    "summary": "A 20,000 liter fuel tank will provide the endurance required to operate flights over 20 hours long.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T00:00:15Z",
-    "url": "https://simpleflying.com/why-qantas-project-sunrise-airbus-a350-fuel-tank-no-other-airline-ever-ordered/",
     "airlineTag": null,
     "isBreaking": false
   }
