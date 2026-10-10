@@ -1,5 +1,49 @@
 [
   {
+    "id": "dc168932db24",
+    "title": "Why Delta Air Lines Retired Its Densest Airbus A350 Layout & Standardized On 275 Seats",
+    "summary": "Delta flew three different A350 cabins, including nine ex-LATAM jets with 2-2-2 business class.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T11:00:15Z",
+    "url": "https://simpleflying.com/delta-air-lines-densest-airbus-a350-layout-standarized-275-seats/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d0d550a186e2",
+    "title": "The Real Reason Why Allegiant Air Still Flies To So Many Secondary Airports",
+    "summary": "Allegiant is flying to plenty of secondary airports, but why is that? Why is the airline not focusing on larger hubs?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T08:00:14Z",
+    "url": "https://simpleflying.com/allegiant-air-secondary-airports-strategy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c7c1ffc7d983",
+    "title": "\"Right Landing Gear On Fire\": Smoke Stops Southwest Boeing 737 Before Las Vegas Takeoff",
+    "summary": "Pilots spotted heavy smoke, brake debris and fluid leaking from a Southwest jet before takeoff.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T07:56:05Z",
+    "url": "https://simpleflying.com/southwest-airlines-boeing-737-landing-gear-fire-las-vegas/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2a6ce2fade23",
+    "title": "5 Reasons Why American Airlines Is Gutting Out First Class From Its Largest Aircraft",
+    "summary": "The paradigm shift in premium air travel at AA.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T05:00:14Z",
+    "url": "https://simpleflying.com/reasons-american-airlines-gutting-first-class-largest-aircraft/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "0c150ac9bdeb",
     "title": "Simple Flying Podcast Episode 306: Delta Air Lines Passenger Breaches Airport Security, Air France Unlocks New 2027 US Routes",
     "summary": "Join Channing for the latest aviation hot topics.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-03T00:00:15Z",
     "url": "https://simpleflying.com/why-qantas-project-sunrise-airbus-a350-fuel-tank-no-other-airline-ever-ordered/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b16b8fbae56",
-    "title": "JetBlue Is Building Its Own Fort Lauderdale Bottleneck: Terminal 5 Now Slips To 2030",
-    "summary": "JetBlue recently announced expansion from the South Florida airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-02T23:00:15Z",
-    "url": "https://simpleflying.com/jetblue-building-own-fort-lauderdale-bottleneck-terminal-5-slips-2030/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "37c671b070b7",
-    "title": "Why A Commercial Jet Flying At 35,000 Feet Is Actually Traveling Through Airspace That Doesn't Legally Exist",
-    "summary": "Jets fly through legally undefined airspace, where no nation owns the sky and international law still has major gaps.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-02T22:26:59Z",
-    "url": "https://simpleflying.com/commercial-jet-flying-35000-feet-traveling-airspace-doesnt-legally-exist/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7f9e834f3ef5",
-    "title": "A support system for safer aviation decisions",
-    "summary": "A weather briefing is necessary, but it is just one input in the decision to launch. Airline crews have a dispatcher and a chief pilot backing up that call. Most general aviation pilots have neither. PlaneWX is the decision support system for GA, built around one loop on every...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-02T22:04:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/02/a-support-system-for-safer-aviation-decisions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ee1d52e151a1",
-    "title": "How A Pacific Conflict Would Need Every Tanker The US Air Force Owns",
-    "summary": "The Pacific would demand every tanker the USAF could muster, but how such a conflict would eventually evolve and end is unknowable.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-02T22:01:16Z",
-    "url": "https://simpleflying.com/how-pacific-conflict-every-tanker-usaf-owns/",
     "airlineTag": null,
     "isBreaking": false
   }
