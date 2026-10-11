@@ -1,5 +1,71 @@
 [
   {
+    "id": "061b2d315a8b",
+    "title": "Delta Air Lines To Likely Debut New Airbus A350-1000s On Flights To Seoul From Atlanta & Detroit",
+    "summary": "SkyTeam ties and hub synergy hint at smoother connections and expanded long haul reach via Incheon gateways.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-11T03:45:26Z",
+    "url": "https://simpleflying.com/delta-air-lines-likely-debut-new-airbus-a350-1000s-flights-seoul-atlanta-detroit/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "41e14b9c694c",
+    "title": "Qantas Vs Emirates Vs Singapore Airlines: Which Carrier Wins The Airbus A380 Experience?",
+    "summary": "The Airbus A380 has staged an improbable comeback, serving as the ultimate canvas for aviation luxury.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-11T01:45:14Z",
+    "url": "https://simpleflying.com/qantas-emirates-singapore-airlines-who-wins-airbus-a380-experience/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c446afa69a42",
+    "title": "The World's Largest Dedicated Special Operations Helicopter Fleets",
+    "summary": "Which countries have the largest special operations helicopter fleets? The answer reveals a striking gap between major military powers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-11T01:00:15Z",
+    "url": "https://simpleflying.com/largest-special-operations-helicopter-fleets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "28514f6e1710",
+    "title": "Emirates Quietly Killed Its Dallas Airbus A380 Route In 2016: The Blueprint For 2026's Houston & Dulles Cuts",
+    "summary": "War in the Middle East and retrofits have led Emirates to switch the A380 for the 777 on some key American routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T23:00:15Z",
+    "url": "https://simpleflying.com/emirates-quietly-killed-dallas-airbus-a380-route-2016-blueprint-2026-houston-dulles-cuts/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3a6514e68138",
+    "title": "The Bombardier Global 6500 Is Being Turned Into Canada's New Military Radar Plane",
+    "summary": "The military grade bizjet that will be the RCAF's next 'eye in the sky.'",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T22:00:16Z",
+    "url": "https://simpleflying.com/bombardier-global-6500-turned-into-canada-new-military-radar-plane/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5e43efff01e1",
+    "title": "The 21% Fuel Burn Gap That Made Delta Air Lines Retire Its Entire Boeing 777 Fleet",
+    "summary": "The SkyTeam carrier previously operated a fleet of 18 Boeing 777s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-10T21:30:15Z",
+    "url": "https://simpleflying.com/21-percent-fuel-gap-made-delta-air-lines-retire-its-entire-boeing-777-fleet/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "f23e6b7b8727",
     "title": "Beyond Seattle: These Are Alaska Airlines' 6 Other Hubs",
     "summary": "From its new second global hub in Hawaii to steady growth across California and Alaska, the airline has clearly expanded beyond Seattle.",
@@ -611,7 +677,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-08T17:32:05Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/08/faa-does-not-care-what-your-hangar-costs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/08/faa-does-not-care-what-your-hangar-costs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -908,7 +974,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T17:21:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1073,7 +1139,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1194,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T00:26:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/training-and-safety-tip-notice-the-signs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/training-and-safety-tip-notice-the-signs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1150,7 +1216,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-06T22:02:49Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/aircraft-maintenance-night-flight-preparations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/aircraft-maintenance-night-flight-preparations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1304,7 +1370,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-06T16:52:50Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/easa-grounds-all-elixir-aircraft?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/easa-grounds-all-elixir-aircraft?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-10-03T16:27:41Z",
     "url": "https://simpleflying.com/southwest-unveils-3-new-international-routes-from-major-city/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f96ce14742d7",
-    "title": "The Aircraft That Replaced The C-2 Greyhound On Carrier Resupply Missions",
-    "summary": "The paradigm change of the Navy's prop-rotor powered cargo hauler.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T16:00:16Z",
-    "url": "https://simpleflying.com/cmv22b-osprey-replacing-c2-greyhound-carrier-resupply/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "512df7e5909e",
-    "title": "American Airlines Pilots Urge Court To Block Google Buying Spirit Crews' Confidential Data",
-    "summary": "Pilots warn the deal could make crews less willing to report safety concerns.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T15:35:46Z",
-    "url": "https://simpleflying.com/american-airlines-pilots-block-google-spirit-data-sale/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d56a43aacb2e",
-    "title": "The $100 Hourly Rate That Forced United Airlines To Police Its Own Flight Attendants In 2026",
-    "summary": "A change in policy?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T15:00:15Z",
-    "url": "https://simpleflying.com/100-hourly-rate-forced-to-police-own-flight-attendants-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bc4f19599b27",
-    "title": "Is China Really Producing Nearly 10 Times As Many Fighter Jets As Russia?",
-    "summary": "China's production allows it to modernize its force, while Russia's limited production and combat losses limit it to maintaining a core fighter fleet",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T14:00:15Z",
-    "url": "https://simpleflying.com/china-fighter-jet-production-vs-russia/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "01265a5fc2f4",
-    "title": "Why American Airlines Elites Booking Basic Economy In 2027 Now Earn Nothing & Upgrade To Nothing",
-    "summary": "New rules around Basic Economy tickets have stripped some perks for AAdvantage members.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T13:00:17Z",
-    "url": "https://simpleflying.com/american-elites-booking-basic-economy-2027-earn-nothing-upgrade-nothing/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8be84914b1c8",
-    "title": "5 Airports That Pilots Say Are The Most Technically Challenging To Land At",
-    "summary": "Steep mountain approaches, rapidly changing winds, narrow valleys, and short landing strips leave little room for mistakes at these five airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-03T12:30:15Z",
-    "url": "https://simpleflying.com/5-airports-that-pilots-say-are-the-most-technically-challenging-to-land-at/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
