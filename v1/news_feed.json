@@ -1,5 +1,49 @@
 [
   {
+    "id": "3317a64c68a7",
+    "title": "Why The US Air Force Is Doubling B-1B Modification Spending As It Prepares The B-21 Raider",
+    "summary": "The struggle to sustain bomber readiness as the USAF begins a new era.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-12T03:00:15Z",
+    "url": "https://simpleflying.com/why-usaf-doubling-b-1b-modifcation-spending-prepares-b-21-raider/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d4ddec9b063b",
+    "title": "The Aircraft Set To Replace The Iconic C\u201117 Globemaster In US Air Force Service",
+    "summary": "From the C-141 Starlifter to the C-17 Globemaster III, the USAF's airlift capabilities have evolved over time.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-12T01:45:15Z",
+    "url": "https://simpleflying.com/aircraft-set-to-replace-iconic-c-17-globemaster-at-usaf/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b2d268f80b5d",
+    "title": "Why Air Canada's Aging Boeing 777-300ERs Leave Weight Behind On Hot Summer Days Out Of Toronto",
+    "summary": "Air Canada's new A350-1000s will turn lower weight and fuel burn into payload margin \u2014 and potentially entirely new long-haul routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-12T01:00:15Z",
+    "url": "https://simpleflying.com/why-air-canada-aging-boeing-777-300ers-leave-weight-hot-summer-days-toronto/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "08b74e010eef",
+    "title": "The 120 Fighters This Country Is Building To Replace Its F-4s & F-5s By 2032",
+    "summary": "The Republic of Korea just debuted its first stealth fighter.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-12T00:00:14Z",
+    "url": "https://simpleflying.com/120-fighters-country-building-replace-f-4s-f-5s-2032/",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
     "id": "d81283b3d581",
     "title": "The Airline That Created Premium Economy Now Has The Most Spacious Version In The Sky",
     "summary": "EVA Air, having pioneered the concept of premium economy, is still leading the charge for innovation in this tier of the cabin after over 30 years.",
@@ -809,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-08T17:32:05Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/08/faa-does-not-care-what-your-hangar-costs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/08/faa-does-not-care-what-your-hangar-costs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1106,7 +1150,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T17:21:29Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/faa-revises-proposed-alaska-airspace-overhaul?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1271,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/07/still-on-the-mission?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1326,7 +1370,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-07T00:26:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/training-and-safety-tip-notice-the-signs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/training-and-safety-tip-notice-the-signs?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1348,7 +1392,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-06T22:02:49Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/aircraft-maintenance-night-flight-preparations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/aircraft-maintenance-night-flight-preparations?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1546,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-06T16:52:50Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/06/easa-grounds-all-elixir-aircraft?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/06/easa-grounds-all-elixir-aircraft?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-10-04T13:00:15Z",
     "url": "https://simpleflying.com/5-billion-premium-revenue-nobody-outside-delta-air-lines-knows-breakdown/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "49651e133c1c",
-    "title": "This Aircraft Just Made A Historic Flight & No One Was Flying It",
-    "summary": "A converted Cessna Caravan flew 3,199 miles across the US with zero control inputs from the safety pilot on board.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-04T12:00:15Z",
-    "url": "https://simpleflying.com/joby-autonomous-cessna-caravan-cross-country-no-pilot/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c788ea164c01",
-    "title": "Emirates Finally Killed Its 2-3-2 Business Class On US Routes: Here's What Replaced It",
-    "summary": "The airline finally moved away from its seven-abreast business class and introduced a much more modern product.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-04T10:00:14Z",
-    "url": "https://simpleflying.com/emirates-killed-2-3-2-business-class-us-routes-replace/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d8b92064a0dc",
-    "title": "United Passenger Scores Exit Row To Himself, Streams 5 Football Games At Once On Starlink",
-    "summary": "A Chicago passenger transforms three empty seatback displays and personal gadgets into an inflight sports hub.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-04T08:05:53Z",
-    "url": "https://simpleflying.com/united-airlines-starlink-5-college-football-games/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fa4ce60dca9b",
-    "title": "United Passengers Stuck Nearly 12 Hours On Rome Flight That Never Took Off Given $175",
-    "summary": "A series of setbacks kept United's Boeing 777 on the ground for nearly 12 hours before the flight was canceled.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-04T06:34:15Z",
-    "url": "https://simpleflying.com/united-airlines-passengers-stuck-12-hours-rome-flight/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
