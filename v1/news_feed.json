@@ -11,6 +11,127 @@
     "isBreaking": false
   },
   {
+    "id": "e0539e16d23e",
+    "title": "Report: FAA Seeks Ownership Stake in ATC Contractor ASI",
+    "summary": "Agency considering unprecedented measures as it works to modernize nation\u2019s air traffic control system.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-10-16T15:46:10Z",
+    "url": "https://www.flyingmag.com/faa-seeks-ownership-stake-atc-contractor-asi/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b2b608eb4291",
+    "title": "Chicago O'Hare Just Retook The Americas Connectivity Crown Despite Losing 300 Daily Flights",
+    "summary": "How two airlines are making Chicago one of the most-connected hubs in the world and why.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T15:00:17Z",
+    "url": "https://simpleflying.com/chicago-ohare-retook-americas-connectivity-crown-despite-loosing-300-daily-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a6d89f394e42",
+    "title": "Simple Flying Podcast Episode 307: Southwest Airlines' New Loyalty Program, Lufthansa Adds Extra Fuel On Frankfurt Flights",
+    "summary": "Join Tom & Channing for the latest aviation hot topics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T14:54:28Z",
+    "url": "https://simpleflying.com/podcast-307/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a38ce8d36787",
+    "title": "New FAA Tool Helps Pilots Check Medication Restrictions",
+    "summary": "The online tool provides information on acceptable medications and required waiting periods.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-16T14:47:08Z",
+    "url": "https://avweb.com/aviation-news/tool-helps-pilots-check-medication-restric/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d60bd32bf0f1",
+    "title": "FAA Seeks Ownership Stake in Air Traffic AI Contractor",
+    "summary": "The agency is negotiating a potential equity arrangement with Air Space Intelligence.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-16T14:36:46Z",
+    "url": "https://avweb.com/aviation-news/faa-seeks-ownership-in-air-traffic-ai/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a9a18ef3333b",
+    "title": "6 Largest US Naval Air Stations By Land Area",
+    "summary": "From TOPGUN's desert home at NAS Fallon to the massive 1.1-million-acre China Lake complex, these are the six largest US naval aviation bases.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T14:30:16Z",
+    "url": "https://simpleflying.com/largest-us-naval-air-stations-land-area/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a7a86583ad74",
+    "title": "Alaska Airlines & Hawaiian Airlines Are Taking What Passengers Eat At 35,000 Feet To The Next Level",
+    "summary": "The Alaska Air Group subsidiaries have worked with fantastic chefs to develop regionally inspired menus.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T14:25:48Z",
+    "url": "https://simpleflying.com/alaska-hawaiian-airlines-premium-cabin-dining-upgrades/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b3b90915e20d",
+    "title": "300+ Engines: Major Airline Signs Huge Deal To Power Its Boeing 737 MAX Fleet",
+    "summary": "A deal with CFM International includes 100s of LEAP-1B engines and the ability to establish an MRO infrastructure in Turkey.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T13:36:39Z",
+    "url": "https://simpleflying.com/300-engines-major-airline-signs-huge-deal-to-power-its-boeing-737-max-fleet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cb8140919885",
+    "title": "American Airlines Teases New Lounges & Tech Upgrades Coming To DFW Airport",
+    "summary": "The carrier's Chief Customer Officer recently shared the latest details on the project as part of an ongoing podcast series.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T12:49:36Z",
+    "url": "https://simpleflying.com/american-airlines-dfw-upgrades/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f28619c01642",
+    "title": "Turkish Airlines signs MOU with CFM for 300 MAX engines and support for over 600",
+    "summary": "Turkish Airlines has signed a Memorandum of Understanding (MOU) with CFM International to provide more than 300 LEAP-1B&#8230; The post Turkish Airlines signs MOU with CFM for 300 MAX engines and support for over 600 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-16T11:15:19Z",
+    "url": "https://www.aerotime.aero/articles/turkish-airlines-signs-mou-cfm-for-300-max-engines-leap-1b",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "045551a59f04",
+    "title": "PIA to install lie-flat seats in Boeing 777 cabin overhaul",
+    "summary": "Pakistan International Airlines has signed an agreement for a comprehensive cabin modernization program covering selected Boeing 777 aircraft.&#8230; The post PIA to install lie-flat seats in Boeing 777 cabin overhaul appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-16T10:41:27Z",
+    "url": "https://www.aerotime.aero/articles/pia-boeing-777-cabin-refurbishment-lie-flat-seats",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "6be799ab5f0c",
     "title": "Accounts diverge over who ordered limits on Ukraine\u2019s Starshield service",
     "summary": "Ukraine\u2019s access to Starshield, the military-grade version of SpaceX\u2019s Starlink satellite service, had been at least partly restored&#8230; The post Accounts diverge over who ordered limits on Ukraine\u2019s Starshield service appeared first on AeroTime.",
@@ -2076,127 +2197,6 @@
     "publishedDate": "2026-10-09T17:36:22Z",
     "url": "https://simpleflying.com/why-southwest-airlines-reversed-a-60-million-decision-made-14-years-ago/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "fa07500c1a66",
-    "title": "Centennial Rents Jump 82 Percent, FAA Rejects Complaint",
-    "summary": "The agency declined to reconsider its decision on a complaint involving T-hangar rents at Colorado's Centennial Airport.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-09T16:00:00Z",
-    "url": "https://avweb.com/aviation-news/centennial-rents-jump-82-percent-faa-rejects-complaint/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "600e89cd2f20",
-    "title": "Two survive as Cessna Citation crashes and burns at Pennsylvania airport",
-    "summary": "A pilot and copilot survived with non-life-threatening injuries after their Cessna Citation CJ1 crashed during takeoff and caught&#8230; The post Two survive as Cessna Citation crashes and burns at Pennsylvania airport appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T15:17:29Z",
-    "url": "https://www.aerotime.aero/articles/cessna-citation-cj1-crash-bedford-pennsylvania",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "27ca52e3ba52",
-    "title": "Delta cuts 2026 profit forecast as fuel costs climb by $6 billion",
-    "summary": "Delta Air Lines cut its 2026 profit forecast on October 9, 2026, as rising fuel costs outpaced gains&#8230; The post Delta cuts 2026 profit forecast as fuel costs climb by $6 billion appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T14:54:27Z",
-    "url": "https://www.aerotime.aero/articles/delta-cuts-2026-profit-forecast-fuel-costs",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "650c22b152ad",
-    "title": "FAA Bans Touch-and-Goes at Centennial Airport",
-    "summary": "New restrictions on touch-and-goes and parallel departures prompt concerns from AOPA over pilot notification.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-09T14:03:00Z",
-    "url": "https://avweb.com/aviation-news/faa-bans-touch-and-goes-centennial-airport/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e71ada8b08e5",
-    "title": "Africa\u2019s airlines are growing. Governments are still holding them back",
-    "summary": "African airline chiefs arrived in Nairobi with a growth story and left with a deadline problem. At the&#8230; The post Africa\u2019s airlines are growing. Governments are still holding them back appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T13:18:48Z",
-    "url": "https://www.aerotime.aero/articles/africa-airlines-growth-saatm-government-delays",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7639068b41a9",
-    "title": "Simpler Way to Fly: How Modern Cockpits Are Changing Aviation",
-    "summary": "Intuitive flight controls and digital avionics are making the sky more accessible for new pilots than ever before.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-09T12:00:00Z",
-    "url": "https://www.flyingmag.com/simpler-way-to-fly-how-modern-cockpits-are-changing-aviation/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3791c33fa1b3",
-    "title": "Airbus lands triple-digit aircraft order from Avolon",
-    "summary": "Airbus has secured a triple-digit order from Dublin-based lessor Avolon, comprising A330neo widebodies and A320neo family aircraft. On&#8230; The post Airbus lands triple-digit aircraft order from Avolon appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T11:58:30Z",
-    "url": "https://www.aerotime.aero/articles/airbus-lands-triple-digit-aircraft-order-from-avolon",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "097558da5af4",
-    "title": "Whole Fleet: American Airlines Expands Starlink WiFi Offering To 1,000+ Mainline Jets",
-    "summary": "Installations will begin early next year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T11:53:03Z",
-    "url": "https://simpleflying.com/american-airlines-expands-starlink-wifi-offering/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "67648810832c",
-    "title": "Burnham says UK is open to Germany joining GCAP fighter effort with Italy, Japan",
-    "summary": "British Prime Minister Andy Burnham declared on October 8, 2026, that the United Kingdom is open to Germany&#8230; The post Burnham says UK is open to Germany joining GCAP fighter effort with Italy, Japan appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T10:24:30Z",
-    "url": "https://www.aerotime.aero/articles/burnham-says-uk-is-open-to-germany-joining-gcap-fighter-effort-with-italy-japan",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d62029f445d7",
-    "title": "Etihad commercial chief Arik De leaves with immediate effect; no successor named",
-    "summary": "Etihad Airways Chief Revenue and Commercial Officer Arik De has left the Abu Dhabi-based carrier with immediate effect,&#8230; The post Etihad commercial chief Arik De leaves with immediate effect; no successor named appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T09:47:33Z",
-    "url": "https://www.aerotime.aero/articles/etihad-commercial-chief-arik-de-leaves-with-immediate-effect-no-successor-named",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "23adc17e8304",
-    "title": "LATAM Brazil takes first Embraer E195-E2 jet as it broadens its domestic network",
-    "summary": "LATAM Airlines Brazil has begun the process of taking delivery of its first Embraer E195-E2, as declared by&#8230; The post LATAM Brazil takes first Embraer E195-E2 jet as it broadens its domestic network appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-09T08:49:23Z",
-    "url": "https://www.aerotime.aero/articles/latam-brazil-takes-first-embraer-e195-e2-jet-as-it-broadens-its-domestic-network",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
