@@ -6,7 +6,95 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59c24fca51e3",
+    "title": "New Drone Restrictions In Place Along Southern Border",
+    "summary": "New flight restriction prohibits unauthorized drone operations within one nautical mile of the U.S.-Mexico border.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-16T20:06:27Z",
+    "url": "https://avweb.com/aviation-news/drone-restrictions-active-southern-border/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cd0c4b089f31",
+    "title": "Breeze Airways Cancels All Flights To 2 Destinations: See List Now",
+    "summary": "Underused seasonal links have crumbled under poor loads while the airline pivots its fleet toward bigger Myrtle Beach plans.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T20:00:17Z",
+    "url": "https://simpleflying.com/breeze-airways-cancels-all-flights-to-2-destinations-see-list-now/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "e2052086edcc",
+    "title": "Can US Airline Pilots Start Their Careers In The Air Force?",
+    "summary": "Unpacking how veterans land the right seat after serving the nation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T20:00:17Z",
+    "url": "https://simpleflying.com/us-airline-pilots-air-force-career-path/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d9a56bd4e0d0",
+    "title": "FAA Could Certify Boeing 737 MAX 10 Next Week",
+    "summary": "The agency is approaching a final decision following a Friday certification board meeting.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-16T19:38:54Z",
+    "url": "https://avweb.com/aviation-news/faa-could-cert-boeing-737-max-10-next-week/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aeccf5d1ff88",
+    "title": "Delta Air Lines Cancels All Flights To 8 Destinations: See Full List Now",
+    "summary": "Nonstop links to Gatwick Geneva and Papeete vanish as hub strategies redirect long haul capacity to core markets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T19:00:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-cancels-flights-to-8-destinations/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "13e408c67150",
+    "title": "JetBlue To Debut BlueFirst On 3 Routes In December, Flights On Sale With Introductory Fares",
+    "summary": "Intro fares and flexible BlueFirst bundles pair priority bags and boarding with an elevated in-cabin experience on launch routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T17:46:50Z",
+    "url": "https://simpleflying.com/jetblue-debut-bluefirst-3-routes-december-flights-introductory-fares/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "f9133b8ea7be",
+    "title": "Delta Air Lines Announces New Boeing 757-200 Flights Between Boston & Reykjav\u00edk",
+    "summary": "The new 2027 transatlantic schedule extends Boston's European reach and joins Delta's growing nonstop services to Reykjavik.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T17:22:09Z",
+    "url": "https://simpleflying.com/delta-air-lines-new-boeing-757-200-flights-boston-reykjavik/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7f28843b7a06",
+    "title": "The World's Largest Air Forces By Number Of Known Combat Drones",
+    "summary": "Analyzing the global fleet from Loyal Wingmen to pocket-size drones.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T17:00:16Z",
+    "url": "https://simpleflying.com/largest-air-forces-known-combat-drone-fleets/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -204,7 +292,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -226,7 +314,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -237,7 +325,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -325,7 +413,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +765,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +776,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:44:19Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1018,7 +1106,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-14T00:31:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1029,7 +1117,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T23:16:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1348,7 +1436,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T01:06:04Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-09T22:00:15Z",
     "url": "https://simpleflying.com/mcdonnell-douglas-md80s-still-flying-45-years/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6fa071916700",
-    "title": "Southwest Airlines Gate Agents Forced To Process Passengers Manually After System Outage",
-    "summary": "A nationwide system outage forced Southwest Airlines employees to process passengers manually, reviving questions about its technology reliability.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T21:07:34Z",
-    "url": "https://simpleflying.com/southwest-airlines-gate-agents-process-passengers-manually-system-outage/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "379dbba9cf6e",
-    "title": "The Airline With The Best First Class In The World In 2026",
-    "summary": "Air France became the first airline other than Singapore to take the title in eight years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T21:00:14Z",
-    "url": "https://simpleflying.com/airline-worlds-best-first-class-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "baf969295e78",
-    "title": "United Airlines Cancels All Flights To 6 Destinations: See Full List Now",
-    "summary": "All these places have stopped seeing the carrier, and nearly all in September and October.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T20:00:14Z",
-    "url": "https://simpleflying.com/united-airlines-cancels-all-flights-to-6-destinations-see-full-list-now/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8c037a29e7ab",
-    "title": "Fear at 3,000 Feet",
-    "summary": "A student's unrecognized fears put an instructor to the test.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-10-09T19:02:56Z",
-    "url": "https://avweb.com/features/fear-at-3000-feet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "30d4dded67f8",
-    "title": "Delta Air Lines Cancels 7 Nonstop Routes From Major Hub: See Affected Flights Now",
-    "summary": "Sun Country discounts and oversupplied tourist markets left several popular nonstop services unviable for Delta.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T19:00:14Z",
-    "url": "https://simpleflying.com/delta-cancels-7-routes-from-major-hub/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "c8049bce16fa",
-    "title": "United Airlines' $2.6 Billion Bet On San Francisco Solves The 1 Problem LAX & Seattle Can't Fix",
-    "summary": "A $2.6B terminal reshapes SFO with new widebody gates, seismic upgrades, and 200,000 sqft of retail space.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T19:00:14Z",
-    "url": "https://simpleflying.com/united-airlines-2-billion-bet-san-francisco-solves-1-problem-lax-seattle-cant-fix/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "331069e74a6a",
-    "title": "Army Report IDs Failures in DCA Midair Collision",
-    "summary": "Investigation cites missed radio transmissions, altitude discrepancies and gaps in military aviation safety oversight.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-09T18:00:00Z",
-    "url": "https://avweb.com/aviation-news/army-report-ids-failures-in-dca-collision/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "39a9ec700304",
-    "title": "Less Capacity: Why Southwest Airlines Reversed A $60 Million Decision Made 14 Years Ago",
-    "summary": "A small decision with big consequences.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T17:36:22Z",
-    "url": "https://simpleflying.com/why-southwest-airlines-reversed-a-60-million-decision-made-14-years-ago/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
