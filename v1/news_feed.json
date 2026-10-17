@@ -1,12 +1,89 @@
 [
   {
+    "id": "10563b2720ef",
+    "title": "Why American Airlines' Longest-Ever Flight Needs Just 51 Business Class Suites To Pencil Out",
+    "summary": "A closer look at some of the intricacies behind airline route economics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T01:45:17Z",
+    "url": "https://simpleflying.com/why-american-airlines-longest-ever-flight-needs-51-business-class-suites-to-pencil-out/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "433828f89ca1",
+    "title": "Where Do Retired C-130 Hercules Go? Montana's Final H-Models Show The Answer",
+    "summary": "Montana\u2019s 120th Airlift Wing is transitioning to the C-130J-30 as its retired C-130Hs face new futures in storage, training, or overseas service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T00:00:16Z",
+    "url": "https://simpleflying.com/where-retired-c-130-hercules-montana-final-h-models-answer/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "498f4dd48fdf",
     "title": "A Legacy of Firsts",
     "summary": "The large format glass cockpit, the live depiction of your aircraft on an approach plate, satellite and ground based datalink weather, the certification of the straight-and-level button &ndash; every one of those is standard across new general aviation aircraft today, and none...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b1faa9ba0129",
+    "title": "Why Does One Of The World's Biggest A380 Fleets Have Such A Small Network?",
+    "summary": "British Airways flies 12 A380s to seven destinations from one airport. Heathrow's slot cap explains both the fleet and the network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T22:00:16Z",
+    "url": "https://simpleflying.com/british-airways-12-a380s-small-network-how-to-track/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "445ac07de8cc",
+    "title": "FAA, Air Traffic Controllers Reach Deal for 2.8 Percent Pay Raise",
+    "summary": "Increase comes with new work requirements that the FAA says will improve efficiency.",
+    "source": "Flying Magazine",
+    "category": "pay",
+    "publishedDate": "2026-10-16T21:37:04Z",
+    "url": "https://www.flyingmag.com/dot-air-traffic-controllers-reach-deal-for-2-8-percent-pay-raise/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eab318d8a73b",
+    "title": "The 1st US-South Australia Boeing 787 Route Just Shrunk To 23 Flights Before Its 1st Full Season",
+    "summary": "It is a fairly new route and recorded a lower load factor during its first partial season.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T21:00:17Z",
+    "url": "https://simpleflying.com/the-1st-us-south-australia-boeing-787-route-just-shrunk-to-23-flights-before-its-1st-full-season/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e4c2ff1733c7",
+    "title": "American Airlines To Expand In Venezuela With New Barcelona Route Taking Off In 2027",
+    "summary": "American Airlines is adding Barcelona to its growing Venezuela network as other US carriers also prepare to restore flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-16T20:49:08Z",
+    "url": "https://simpleflying.com/american-airlines-expand-venezuela-new-barcelona-route-taking-off-2027/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "241ab4bc8505",
+    "title": "FAA seeks ownership stake in company behind AI air traffic system",
+    "summary": "The US Federal Aviation Administration (FAA) is seeking an ownership stake in Air Space Intelligence, the company developing&#8230; The post FAA seeks ownership stake in company behind AI air traffic system appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-16T20:20:11Z",
+    "url": "https://www.aerotime.aero/articles/faa-stake-air-space-intelligence-ai-air-traffic",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -292,7 +369,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -314,7 +391,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -325,7 +402,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -413,7 +490,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -765,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:44:19Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1106,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-14T00:31:35Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1194,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T23:16:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1436,7 +1513,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T01:06:04Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-10T08:00:14Z",
     "url": "https://simpleflying.com/allegiant-air-secondary-airports-strategy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c7c1ffc7d983",
-    "title": "\"Right Landing Gear On Fire\": Smoke Stops Southwest Boeing 737 Before Las Vegas Takeoff",
-    "summary": "Pilots spotted heavy smoke, brake debris and fluid leaking from a Southwest jet before takeoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T07:56:05Z",
-    "url": "https://simpleflying.com/southwest-airlines-boeing-737-landing-gear-fire-las-vegas/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2a6ce2fade23",
-    "title": "5 Reasons Why American Airlines Is Gutting Out First Class From Its Largest Aircraft",
-    "summary": "The paradigm shift in premium air travel at AA.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T05:00:14Z",
-    "url": "https://simpleflying.com/reasons-american-airlines-gutting-first-class-largest-aircraft/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0c150ac9bdeb",
-    "title": "Simple Flying Podcast Episode 306: Delta Air Lines Passenger Breaches Airport Security, Air France Unlocks New 2027 US Routes",
-    "summary": "Join Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T03:26:48Z",
-    "url": "https://simpleflying.com/podcast-306/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "996e41080bee",
-    "title": "Frontier Passengers Rush Exit Door, Clash With Crew After Nearly An Hour Trapped Without AC",
-    "summary": "How a sweltering arrival was too much to bear for some travelers in Atlanta.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T01:47:45Z",
-    "url": "https://simpleflying.com/frontier-passengers-rush-exit-door-trapped-without-ac/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "afbf7b1ca843",
-    "title": "Where Are The World's Largest Military Transport Aircraft Right Now?",
-    "summary": "With the An-225 destroyed, the An-124 is the largest military transport flying. Here is where the world's biggest airlifters are based.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T00:00:15Z",
-    "url": "https://simpleflying.com/worlds-largest-military-transport-aircraft-tracked/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "51982ac9be86",
-    "title": "Airlines Are Accepting Brand-New Airbus A321neos Knowing They'll Be Grounded 9 Days Within 2 Years",
-    "summary": "Why are airlines taking in new A321neos knowing that they will need to be pulled from service to fix a defect?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T23:00:15Z",
-    "url": "https://simpleflying.com/airlines-are-accepting-brand-new-airbus-a321neos-knowing-theyll-be-grounded-9-days-within-2-years/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "44f217559e7a",
-    "title": "The McDonnell Douglas MD-80s Still Flying More Than 45 Years After 1st Flight",
-    "summary": "Once a mainstay of major carriers, the MD-80 persists in cargo and charter roles where entry cost beats fuel economy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-09T22:00:15Z",
-    "url": "https://simpleflying.com/mcdonnell-douglas-md80s-still-flying-45-years/",
     "airlineTag": null,
     "isBreaking": false
   }
