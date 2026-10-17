@@ -1,5 +1,38 @@
 [
   {
+    "id": "d2ca95b33058",
+    "title": "8 Largest Airline Loyalty Programs In The World By Disclosed Member Count",
+    "summary": "Discover the world's biggest airline loyalty programs, from United MileagePlus and Delta SkyMiles to Avios, LATAM Pass and Flying Blue.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T08:00:16Z",
+    "url": "https://simpleflying.com/largest-airline-loyalty-programs-disclosed-member-count/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a00a9a6ad7f1",
+    "title": "Boeing 737 MAX 10 Could Be Certified Next Week, But Airlines May Refuse Jets Over Software Glitch",
+    "summary": "Major US airlines have stuck with older flight management software, with one source describing it as \"the lesser of the two evils.\"",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T07:52:15Z",
+    "url": "https://simpleflying.com/boeing-737-max-10-certified-next-week-airlines-software-glitch/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "46e036ccfa6b",
+    "title": "Smoking Trash Can Forces American Airlines Boeing 737 Into Emergency U-Turn To O\u2019Hare",
+    "summary": "Emergency teams met the jet as passengers disembarked safely and a replacement service departed hours later.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T06:24:20Z",
+    "url": "https://simpleflying.com/american-airlines-boeing-737-emergency-return-ohare-trash-smoke/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "10563b2720ef",
     "title": "Why American Airlines' Longest-Ever Flight Needs Just 51 Business Class Suites To Pencil Out",
     "summary": "A closer look at some of the intricacies behind airline route economics.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-10-10T13:00:15Z",
     "url": "https://simpleflying.com/delta-air-lines-launches-6-new-nonstop-routes-from-los-angeles/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "02777ebb070b",
-    "title": "Qatar Airways Officially Ends Its Airbus A330 Era, Sends Pilots To RwandAir",
-    "summary": "Qatar Airways has retired its final Airbus A330 passenger aircraft, ending the airline's era with the type after it remained in its fleet longer than originally expected. The carrier is also offering a voluntary short-term secondment opportunity to more than a dozen A330-train...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T12:33:14Z",
-    "url": "https://simpleflying.com/video/qatar-airways-officially-ends-its-airbus-a330-era-sends-pilots-to-rwandair/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dc168932db24",
-    "title": "Why Delta Air Lines Retired Its Densest Airbus A350 Layout & Standardized On 275 Seats",
-    "summary": "Delta flew three different A350 cabins, including nine ex-LATAM jets with 2-2-2 business class.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T11:00:15Z",
-    "url": "https://simpleflying.com/delta-air-lines-densest-airbus-a350-layout-standarized-275-seats/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "d0d550a186e2",
-    "title": "The Real Reason Why Allegiant Air Still Flies To So Many Secondary Airports",
-    "summary": "Allegiant is flying to plenty of secondary airports, but why is that? Why is the airline not focusing on larger hubs?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-10T08:00:14Z",
-    "url": "https://simpleflying.com/allegiant-air-secondary-airports-strategy/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
