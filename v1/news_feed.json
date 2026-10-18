@@ -1,5 +1,93 @@
 [
   {
+    "id": "24c5cbda8c96",
+    "title": "The Embraer E175: How One Regional Jet Connects Small-Town America",
+    "summary": "How Brazil's most popular puddle jumper keeps Americans in the air.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T15:00:17Z",
+    "url": "https://simpleflying.com/embraer-e175-one-regional-jet-connects-small-town-america/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "986f361dbfe7",
+    "title": "Navy Pilot To Airline Captain: How Military Aviators Move To Delta, United & American Airlines",
+    "summary": "Trading the flight deck for the jet bridge after a career of service.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-10-18T14:00:16Z",
+    "url": "https://simpleflying.com/how-military-aviators-move-delta-united-american-airlines/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "807434b94b0f",
+    "title": "The Striking Differences Flight Attendants Notice Working On A Mainline Aircraft Vs. A Regional Jet",
+    "summary": "The same job but very different circumstances.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T13:00:17Z",
+    "url": "https://simpleflying.com/striking-differences-flight-attendants-notice-mainline-aircraft-regional-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b54f39adc1c6",
+    "title": "American Airlines Passengers Evacuate Onto Runway After Cabin Haze Forces Emergency Landing",
+    "summary": "Some passengers jumped from the wing after oxygen masks deployed shortly after takeoff.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T12:42:21Z",
+    "url": "https://simpleflying.com/american-airlines-passengers-evacuate-st-louis-runway-odor-emergency-landing/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4d98ff3719c3",
+    "title": "TSA Launches Military 'Honor Lanes' - Will They Cause Longer Lines For Regular Flyers?",
+    "summary": "The US Transportation Security Administration (TSA) has rolled out a new perk for American military veterans and current service members, as well as their families, at more than 30 airports across the US. This comes in the form of a dedicated 'Honor Lane' at security checkpoin...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T12:29:17Z",
+    "url": "https://simpleflying.com/video/tsa-launches-military-honor-lanes-will-they-cause-longer-lines-for-regular-flyers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7a1ee9e42fbd",
+    "title": "Pakistan extends airspace ban on Indian airlines",
+    "summary": "Pakistan has extended its airspace ban on Indian aircraft for another month, keeping restrictions in place until November&#8230; The post Pakistan extends airspace ban on Indian airlines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-18T11:01:26Z",
+    "url": "https://www.aerotime.aero/articles/pakistan-extends-airspace-ban-on-indian-airlines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c8fac929883f",
+    "title": "Rolls-Royce UltraFan Explained: The Engine Built For The Next Generation Of Widebodies",
+    "summary": "The second UltraFan 80 demonstrator is soon expected to run as Rolls-Royce develops a new generation of engines for widebody and narrowbody airliners.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T11:00:17Z",
+    "url": "https://simpleflying.com/rolls-royce-ultrafan-engine-built-next-generation-widebodies/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4d8571eade4f",
+    "title": "Lufthansa prepares for final A340-600 flight as 17-year-old aircraft exits fleet",
+    "summary": "Lufthansa is scheduled to operate its final Airbus A340-600 passenger service on October 18, ending the aircraft type\u2019s&#8230; The post Lufthansa prepares for final A340-600 flight as 17-year-old aircraft exits fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-18T10:25:00Z",
+    "url": "https://www.aerotime.aero/articles/lufthansa-prepares-for-final-a340-600-flight-as-17-year-old-aircraft-exits-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "c0ae83ad39cf",
     "title": "Delta Air Lines Vs. Southwest: Which US Carrier Wins On Passenger Satisfaction In 2026",
     "summary": "ACSI puts Delta first. J.D. Power puts Southwest first by three points.",
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-12T08:12:39Z",
     "url": "https://www.aerotime.aero/articles/heathrow-airport-expansion-third-runway-thomas-woldbye",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2777a2271426",
-    "title": "French startup HyLight raises \u20ac13 million to build autonomous airships",
-    "summary": "French statup HyLight has raised \u20ac13 million in order to scale up the production of autonomous airships.&#160; HyLight,&#8230; The post French startup HyLight raises \u20ac13 million to build autonomous airships appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T07:01:00Z",
-    "url": "https://www.aerotime.aero/articles/french-startup-hylight-raises-e13-million-to-build-autonomous-airships",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "738fdd80f6a4",
-    "title": "African airlines grow 6% but earn just $1.30 per passenger as open skies stall",
-    "summary": "African airline chiefs arrived in Nairobi with a growth story and left with a deadline problem. At the&#8230; The post African airlines grow 6% but earn just $1.30 per passenger as open skies stall appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T06:41:05Z",
-    "url": "https://www.aerotime.aero/articles/africa-airlines-growth-saatm-government-delays",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3317a64c68a7",
-    "title": "Why The US Air Force Is Doubling B-1B Modification Spending As It Prepares The B-21 Raider",
-    "summary": "The struggle to sustain bomber readiness as the USAF begins a new era.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T03:00:15Z",
-    "url": "https://simpleflying.com/why-usaf-doubling-b-1b-modifcation-spending-prepares-b-21-raider/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d4ddec9b063b",
-    "title": "The Aircraft Set To Replace The Iconic C\u201117 Globemaster In US Air Force Service",
-    "summary": "From the C-141 Starlifter to the C-17 Globemaster III, the USAF's airlift capabilities have evolved over time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T01:45:15Z",
-    "url": "https://simpleflying.com/aircraft-set-to-replace-iconic-c-17-globemaster-at-usaf/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b2d268f80b5d",
-    "title": "Why Air Canada's Aging Boeing 777-300ERs Leave Weight Behind On Hot Summer Days Out Of Toronto",
-    "summary": "Air Canada's new A350-1000s will turn lower weight and fuel burn into payload margin \u2014 and potentially entirely new long-haul routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T01:00:15Z",
-    "url": "https://simpleflying.com/why-air-canada-aging-boeing-777-300ers-leave-weight-hot-summer-days-toronto/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "08b74e010eef",
-    "title": "The 120 Fighters This Country Is Building To Replace Its F-4s & F-5s By 2032",
-    "summary": "The Republic of Korea just debuted its first stealth fighter.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T00:00:14Z",
-    "url": "https://simpleflying.com/120-fighters-country-building-replace-f-4s-f-5s-2032/",
-    "airlineTag": "Republic Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "d81283b3d581",
-    "title": "The Airline That Created Premium Economy Now Has The Most Spacious Version In The Sky",
-    "summary": "EVA Air, having pioneered the concept of premium economy, is still leading the charge for innovation in this tier of the cabin after over 30 years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-11T21:30:14Z",
-    "url": "https://simpleflying.com/the-airline-created-premium-economy-most-spacious-version-sky/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "00727d14e7a3",
-    "title": "Hawaiian Airlines Plans Oahu Downsizing By Laying Off Over 530 Non-Union Employees",
-    "summary": "Nonunion staff reductions span multiple workgroups in Honolulu and at HNL as the carrier balances fleet upgrades with cost cuts.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-11T21:10:31Z",
-    "url": "https://simpleflying.com/hawaiian-airlines-oahu-downsizing-layoff-530-non-union-employees/",
     "airlineTag": null,
     "isBreaking": false
   }
