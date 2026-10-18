@@ -1,5 +1,60 @@
 [
   {
+    "id": "5879f4424450",
+    "title": "Why Pilots Deliberately Pull Back Thrust Seconds After Lifting Off The Runway",
+    "summary": "How does this affect the aircraft as it takes off?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T01:45:16Z",
+    "url": "https://simpleflying.com/why-do-pilots-pull-back-thrust-seconds-after-lifting-off-runway/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fcf7607e284a",
+    "title": "How US Legacy Carriers Fly For The Pentagon: The Civil Reserve Air Fleet Explained",
+    "summary": "US carriers like United, Delta, American, and others offer a massive surge capacity boost in the event of emergencies.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T23:00:16Z",
+    "url": "https://simpleflying.com/us-legacy-carriers-fly-pentagon-civil-reserve-air-fleet/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c62745597400",
+    "title": "How Much Does It Cost To Get A Private Pilot License In 2026?",
+    "summary": "Breaking down the price to fly.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T21:00:16Z",
+    "url": "https://simpleflying.com/how-much-cost-private-pilot-license-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f70f90c24f7b",
+    "title": "Nose To Tail: American Airlines To Reportedly Replace Windows On Older Boeing 787 Dreamliners",
+    "summary": "Passengers pressing buttons ignore that it can take a minute for the electrochromic panes to go from bright to dark.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T20:46:30Z",
+    "url": "https://simpleflying.com/american-airlines-reportedly-replace-windows-older-boeing-787s/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "7ded1dab79a1",
+    "title": "Flight Attendant Dispute Forces Delta Connection Captain To Request Ground Intervention",
+    "summary": "Crew discord midflight prompted mediation plans and separation measures before passengers disembarked in Detroit.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-17T20:34:21Z",
+    "url": "https://simpleflying.com/flight-attendant-dispute-delta-connection-captain-ground-intervention/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "b11d9c1d91a5",
     "title": "The 6 Rarest Twin-Engine Aircraft Variants Flown By US Carriers In 2026",
     "summary": "Six Rare Aircraft Variants Still Flying With US Airlines In 2026: Some Are Becoming Harder To Find, But Which Ones Are Left?",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-11T18:00:16Z",
     "url": "https://simpleflying.com/27-grounded-trainer-jets-north-wales-threaten-uk-entire-fast-jet-pilot-pipeline/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8b84eef658ab",
-    "title": "These Are The Airlines With The World's Longest Legroom In Economy In 2026",
-    "summary": "Air Premia offers 35 inches of economy pitch, more than any airline flying. The catch is that it only applies to three of its aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-11T11:00:15Z",
-    "url": "https://simpleflying.com/airlines-worlds-longest-economy-legroom-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6c82638ae63a",
-    "title": "Air Astana launches new routes to Salalah, Oman and Tokyo Narita",
-    "summary": "Kazakh airline Air Astana is expanding its international network with the launch of nonstop flights to Salalah, Oman&#8230; The post Air Astana launches new routes to Salalah, Oman and Tokyo Narita appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-11T10:06:11Z",
-    "url": "https://www.aerotime.aero/articles/air-astana-launches-new-routes-to-salalah-oman-and-tokyo-narita",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a03e20f0f0e4",
-    "title": "Air Astana launches new routes to Salalah, Oman, and Tokyo Narita",
-    "summary": "Kazakh airline Air Astana is expanding its international network with the launch of nonstop flights to Salalah, Oman&#8230; The post Air Astana launches new routes to Salalah, Oman, and Tokyo Narita appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-11T10:06:11Z",
-    "url": "https://www.aerotime.aero/articles/air-astana-launches-new-routes-to-salalah-oman-and-tokyo-narita",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "01e5a9ff1b70",
-    "title": "The Aircraft Lockheed Built That Was So Fast Even The Pilots Who Flew It Don't Fully Understand How It Worked",
-    "summary": "A closer look at the black magic inside the SR-71.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-11T09:15:15Z",
-    "url": "https://simpleflying.com/aircraft-lockheed-built-so-fast-even-pilots-dont-fully-understand-worked/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fc68540f7990",
-    "title": "Royal Air Maroc to become the first African airline to offer Starlink",
-    "summary": "Moroccan flag carrier Royal Air Maroc (RAM) will become the first airline in Africa to equip its fleet&#8230; The post Royal Air Maroc to become the first African airline to offer Starlink appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-11T08:20:27Z",
-    "url": "https://www.aerotime.aero/articles/royal-air-maroc-to-become-the-first-african-airline-to-offer-starlink",
     "airlineTag": null,
     "isBreaking": false
   }
