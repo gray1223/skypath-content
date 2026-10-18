@@ -1,5 +1,60 @@
 [
   {
+    "id": "691657a19412",
+    "title": "The Biggest Passenger Gripe? Why American Airlines\u2019 New Flagship Suites Face Away From The Windows",
+    "summary": "Are seats that face away from the windows actually worth it? American Airlines made this decision for the A321XLR Flagship Suites.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T20:00:16Z",
+    "url": "https://simpleflying.com/why-american-airlines-new-flagship-suites-face-away-windows/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "0b72e199ef09",
+    "title": "How The Cessna 172 Became The Most-Produced Aircraft In History",
+    "summary": "Celebrating 70 years of the Cessna 172 Skyhawk, explore its evolution, enduring market success, and vital role in pilot training.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T19:00:16Z",
+    "url": "https://simpleflying.com/how-cessna-172-most-produced-aircraft-history/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "38ffa12b001f",
+    "title": "This Is Breeze Airways' New #1 Airport: Is It Where You Think?",
+    "summary": "All change!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T18:00:16Z",
+    "url": "https://simpleflying.com/breeze-airways-new-no1-airport/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "9acfd57e4273",
+    "title": "How Many Flights Does Delta Air Lines Operate Per Day In 2026?",
+    "summary": "As one of the world's leading airlines, Delta Air Lines has an incredibly large route network. On a given day, how many Delta flights depart?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T18:00:16Z",
+    "url": "https://simpleflying.com/how-many-flightd-delta-air-lines-operate-day-2026/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "0ca805eb6c0b",
+    "title": "Why Some Pilots Quietly Hate Sleeping On The Airbus A350 That Passengers Love",
+    "summary": "The A350's reputation as a 'passenger favorite' masks a more complex truth for flight crews, whose rest experiences can vary widely.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T17:30:16Z",
+    "url": "https://simpleflying.com/why-some-pilots-quietly-hate-sleeping-on-airbus-a350-passengers-love/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "24c5cbda8c96",
     "title": "The Embraer E175: How One Regional Jet Connects Small-Town America",
     "summary": "How Brazil's most popular puddle jumper keeps Americans in the air.",
@@ -413,7 +468,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -754,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -875,7 +930,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1227,7 +1282,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1238,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:44:19Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1568,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-14T00:31:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1579,7 +1634,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T23:16:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1898,7 +1953,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T01:06:04Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-12T11:52:06Z",
     "url": "https://www.aerotime.aero/articles/us-air-force-retired-kc10-tankers-north-africa",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e6be573dfb9c",
-    "title": "Why SWISS Sacrificed Legroom for More Privacy",
-    "summary": "In this video, we'll look at why SWISS deliberately gave up legroom to guarantee personal space, why competing airlines rejected the same concept, how this unusual seat actually works, and whether this could become the future of premium economy\u2014or remain an experiment few airl...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T11:00:15Z",
-    "url": "https://simpleflying.com/video/why-swiss-sacrificed-legroom-for-more-privacy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ba36ced88f39",
-    "title": "5 Airliners That Defined Delta Air Lines' Century-Long History",
-    "summary": "A closer look at the five aircraft types that were most unique, prominent, or impactful to Delta Air Lines in the past, present, and future.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T11:00:15Z",
-    "url": "https://simpleflying.com/5-airliners-defined-delta-air-lines-century-long-history/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "1aee3e0c5ea9",
-    "title": "Two Weeks Later: The Latest Known Details Of The flydubai Attack",
-    "summary": "flydubai flight FZ1073, operated by a Boeing 737 MAX 8, was flying from Dubai to Tel Aviv on September 30th. The jet was approaching Israel and was near the border of Saudi Arabia and Jordan when the first-officer attacked the captain. The weapon used was the aircraft\u2019s cockpi...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T10:53:14Z",
-    "url": "https://simpleflying.com/video/two-weeks-later-the-latest-known-details-of-the-flydubai-attack/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2f01da415d34",
-    "title": "Crisis Averted: Boeing Strike Called Off Thanks To New Pay Deal, Saving 777X Certification",
-    "summary": "The agreement should ensure that the planemaker does not fall further behind on its latest commercial aircraft programs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T10:00:03Z",
-    "url": "https://simpleflying.com/boeing-strike-averted-with-pay-deal/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2feecf6ab76d",
-    "title": "Heathrow says more than 40 airlines seek slots as calls for expansion intensify",
-    "summary": "London-Heathrow Airport (LHR) says more than 40 airlines are currently seeking access to slots as calls for expansion&#8230; The post Heathrow says more than 40 airlines seek slots as calls for expansion intensify appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T08:12:39Z",
-    "url": "https://www.aerotime.aero/articles/heathrow-airport-expansion-third-runway-thomas-woldbye",
     "airlineTag": null,
     "isBreaking": false
   }
