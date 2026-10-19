@@ -1,5 +1,93 @@
 [
   {
+    "id": "4a268595172f",
+    "title": "FlyRight to Relocate King Air C90A Sim to Brazil",
+    "summary": "Company will deliver its Level C full flight simulator to the largest regional aircraft training center in Latin America.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-10-19T12:00:00Z",
+    "url": "https://www.flyingmag.com/flyright-king-air-c90a-flight-simulator-brazil/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cf51fa76ff35",
+    "title": "The Hidden Problem With Modern Jet Engines",
+    "summary": "In this video, we'll examine why the aviation industry's newest generation of engines hasn't delivered the reliability airlines expected, how Pratt & Whitney and Rolls-Royce found themselves at the center of the crisis, and why today's problems could influence how airlines cho...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T11:07:16Z",
+    "url": "https://simpleflying.com/video/the-hidden-problem-with-modern-jet-engines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2dfec431ab8b",
+    "title": "Singapore Airlines Launches New 8-Hour Long-Haul Route In 1 Month: See Map Now",
+    "summary": "The airline's daily A350 flights will be the first widebody passenger service at the brand-new Australian airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T11:00:16Z",
+    "url": "https://simpleflying.com/singapore-airlines-launches-new-8-hour-route-1-month/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b8a97e50845f",
+    "title": "Why The Boeing 777 Freighter Is The Cargo Workhorse Airlines Can\u2019t Replace",
+    "summary": "Discover how the Boeing 777F became a global air cargo workhorse and how the 777-8F and GE9X engines will shape the future of long-haul freight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T11:00:16Z",
+    "url": "https://simpleflying.com/why-boeing-777-freighter-cargo-workhorse-airlines-cant-replace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "258cb2d5e1d5",
+    "title": "Qantas Freight and Australia Post welcome A321 freighter ahead of Christmas peak",
+    "summary": "Qantas Freight and Australia Post have received the first of three additional Airbus A321 Passenger-to-Freighter (A321P2F) aircraft, it&#8230; The post Qantas Freight and Australia Post welcome A321 freighter ahead of Christmas peak appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-19T09:48:32Z",
+    "url": "https://www.aerotime.aero/articles/qantas-freight-and-australia-post-welcome-a321-freighter-ahead-of-christmas-peak",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3aca1248713c",
+    "title": "ICEYE-X36 radar satellite had close approach with Russian military satellite",
+    "summary": "Russia&#8217;s Cosmos 2612 military satellite may have passed within a few hundred meters of ICEYE-X36, a US-registered commercial&#8230; The post ICEYE-X36 radar satellite had close approach with Russian military satellite appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-19T09:02:12Z",
+    "url": "https://www.aerotime.aero/articles/russian-satellite-cosmos-2612-iceye-x36-close-approach",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c9ea2616d22b",
+    "title": "Delta One Vs. United Polaris: Which Long-Haul Business Class Is Superior In 2026?",
+    "summary": "Delta One and United Polaris are leading business class products, but which one is the better choice? Is network coverage better than luxury?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T08:00:17Z",
+    "url": "https://simpleflying.com/delta-one-united-polaris-long-haul-business-class-superior-2026/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d274ddbc4388",
+    "title": "VietJet faces worldwide asset freeze over $250 million aircraft leasing debt",
+    "summary": "The UK Commercial Court has granted a worldwide freezing order against VietJet Aviation after aircraft finance company FW&#8230; The post VietJet faces worldwide asset freeze over $250 million aircraft leasing debt appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-19T03:00:00Z",
+    "url": "https://www.aerotime.aero/articles/vietjet-faces-worldwide-asset-freeze-over-250-million-aircraft-leasing-debt",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3b4146245aa7",
     "title": "United Airlines Unveils 5 New Nonstop Routes: See Full List Now",
     "summary": "United is teaming up with Air Canada to give flyers more choices.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-12T18:00:53Z",
     "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "0a07ad0de753",
-    "title": "Scholarship Season Is Here",
-    "summary": "Advice on searching for scholarships and navigating the application process.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-10-12T16:38:22Z",
-    "url": "https://www.flyingmag.com/scholarship-season-is-here/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b44d46bbe472",
-    "title": "NetJets to build three new US terminals and transition to larger space at DJT",
-    "summary": "Business aviation firm NetJets plans to build three new private terminals in the United States (US) and transition&#8230; The post NetJets to build three new US terminals and transition to larger space at DJT appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T14:44:45Z",
-    "url": "https://www.aerotime.aero/articles/netjets-new-us-private-terminals-dallas-washington-palm-beach",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ae5cbcb085b1",
-    "title": "Heart Aerospace Wins $2.9M FAA Propulsion Grant",
-    "summary": "Funding will support ground and flight testing of the ES-36's turbogenerator system.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-12T14:35:28Z",
-    "url": "https://avweb.com/aviation-news/heart-aerospace-faa-propulsion-grant/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7616cbe760e2",
-    "title": "Scholarship Honors Pilot Killed in Air Ambulance Accident",
-    "summary": "Family establishes aviation scholarship in memory of 23-year-old first officer Thomas Farquhar.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-10-12T14:02:56Z",
-    "url": "https://avweb.com/aviation-news/scholarship-honors-pilot-killed-accident/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e125f855978",
-    "title": "The Factors That Led To Southwest Airlines' Unsurvivability At Chicago & Houston's Largest Airports",
-    "summary": "Southwest held 1.9% of O'Hare and already owned Midway. The same pattern played out in Houston, and both operations are now gone.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T14:00:15Z",
-    "url": "https://simpleflying.com/factors-southwest-airlines-unsurviability-chicago-houston-largest-airports/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4351c2b1902a",
-    "title": "The Hourly Cost Of Operating An F-35 Compared To An F-22 In 2026",
-    "summary": "The F-22 is likely the most expensive fighter in service today, while the F-35 is much cheaper, but still more expensive than most fourth gen fighters",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T13:00:14Z",
-    "url": "https://simpleflying.com/hourly-cost-operating-f-35-f-22-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "15200061336e",
-    "title": "Aegean names new CEO as one of Europe\u2019s longest-serving airline chiefs bows out",
-    "summary": "Aegean Airlines has named a new CEO as one of Europe&#8217;s longest-serving chief executives, Dimitris Gerogiannis, called time&#8230; The post Aegean names new CEO as one of Europe\u2019s longest-serving airline chiefs bows out appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T12:43:54Z",
-    "url": "https://www.aerotime.aero/articles/aegean-names-new-ceo-dimitris-gerogiannis",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ff392b08129c",
-    "title": "KLM\u2019s Very 1st Airbus A350 Delivered To Airline",
-    "summary": "When it comes to completely predictable and unsurprising news, the recent delivery of an Airbus A350-900 to KLM definitely makes the list. We\u2019ve been tracking the progress of this first airframe for a few months and so it was about time for this airframe to head to its new home!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-12T12:32:14Z",
-    "url": "https://simpleflying.com/video/klm-s-very-1st-airbus-a350-delivered-to-airline/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
