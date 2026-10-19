@@ -1,5 +1,38 @@
 [
   {
+    "id": "3b4146245aa7",
+    "title": "United Airlines Unveils 5 New Nonstop Routes: See Full List Now",
+    "summary": "United is teaming up with Air Canada to give flyers more choices.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T01:18:59Z",
+    "url": "https://simpleflying.com/united-airlnes-5-new-nonstop-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "632aa1beb22e",
+    "title": "Beechcraft Bonanza: How One Airplane Stayed In Production Since 1947",
+    "summary": "The loyal support base allowed the Bonanza to remain in production for longer than it should have.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T23:00:16Z",
+    "url": "https://simpleflying.com/beechcraft-bonanza-one-airplane-stayed-production-since-1947/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6ea3df292015",
+    "title": "Why The A-10 Warthog's Rescue Of A Downed F-15E Pilot Forced The US Air Force To Reverse Its Retirement",
+    "summary": "The US Air Force both wants to keep the Warthog in service for four more years and slash its A-10 fleet in half in Fiscal 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-18T21:30:16Z",
+    "url": "https://simpleflying.com/why-a-10-warthog-rescue-downed-f-15e-pilot-forced-air-force-to-reverse-retirement/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "691657a19412",
     "title": "The Biggest Passenger Gripe? Why American Airlines\u2019 New Flagship Suites Face Away From The Windows",
     "summary": "Are seats that face away from the windows actually worth it? American Airlines made this decision for the A321XLR Flagship Suites.",
@@ -468,7 +501,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +842,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -831,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,7 +875,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -930,7 +963,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:54:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1293,7 +1326,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:44:19Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1623,7 +1656,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-14T00:31:35Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1634,7 +1667,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T23:16:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1953,7 +1986,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-13T01:06:04Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/12/pr-aopa-meets-with-new-jersey-governors-office-on-future-of-aeroflex-andover-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-12T12:32:14Z",
     "url": "https://simpleflying.com/video/klm-s-very-1st-airbus-a350-delivered-to-airline/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dae4e331c65c",
-    "title": "Cebu Pacific receives 15th A330neo; new-engine aircraft now 78% of its jet fleet",
-    "summary": "Cebu Pacific has welcomed its 15th Airbus A330neo to its widebody fleet, with the Philippine carrier claiming it&#8230; The post Cebu Pacific receives 15th A330neo; new-engine aircraft now 78% of its jet fleet appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T12:11:10Z",
-    "url": "https://www.aerotime.aero/articles/cebu-pacific-receives-15th-a330neo-new-engine-aircraft-now-78-of-its-jet-fleet",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8f781700388b",
-    "title": "Hangar Files: Cessna 172 Skyhawk",
-    "summary": "Here\u2019s why aviation\u2019s most familiar trainer still wins over pilots.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-12T12:00:00Z",
-    "url": "https://www.flyingmag.com/hangar-files-cessna-172-skyhawk/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "680512d66752",
-    "title": "US Air Force seeks to revive retired KC-10 tankers for North African nation",
-    "summary": "The US Air Force is seeking companies that can return up to four retired KC-10 Extender tankers to&#8230; The post US Air Force seeks to revive retired KC-10 tankers for North African nation appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-12T11:52:06Z",
-    "url": "https://www.aerotime.aero/articles/us-air-force-retired-kc10-tankers-north-africa",
     "airlineTag": null,
     "isBreaking": false
   }
