@@ -1,5 +1,38 @@
 [
   {
+    "id": "9b8d8c0b19bd",
+    "title": "American Airlines A319 Met By Police After Passenger Allegedly Gropes Seatmate",
+    "summary": "Midday AA flight over Wichita saw flight attendants separate two passengers after a reported inappropriate touch.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T01:51:20Z",
+    "url": "https://simpleflying.com/american-airlines-a319-police-passenger-gropes-seatmate/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b5ff299c6ea6",
+    "title": "The Piper J-3 Cub: How A Yellow Taildragger Trained A Generation Of Pilots",
+    "summary": "The warbird that brought aviation to Americans like never before.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T23:00:16Z",
+    "url": "https://simpleflying.com/piper-j-3-cub-yellow-taildragger-trained-generation-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e30b95f04b5e",
+    "title": "Southwest Airlines Launches 11 New International Nonstop Routes: See Full List Now",
+    "summary": "Southwest maps international expansion with nonstop links from Nashville and Austin to popular resort destinations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-19T22:26:53Z",
+    "url": "https://simpleflying.com/southwest-airlines-launches-11-new-international-routes/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "e83b8013d84a",
     "title": "Delta, JetBlue & Breeze: How The US Airlines Use The Airbus A220",
     "summary": "These airlines are the world's three largest operators of the type.",
@@ -28,7 +61,7 @@
     "source": "Simple Flying",
     "category": "industry",
     "publishedDate": "2026-10-19T20:18:48Z",
-    "url": "https://simpleflying.com/routes-1/",
+    "url": "https://simpleflying.com/frontier-airlines-cancels-21-international-routes/",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-10-13T11:34:00Z",
     "url": "https://www.aerotime.aero/articles/avolon-buys-a330neo-engines-rolls-royce-airbus-order",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b5857a5a847f",
-    "title": "5 Airlines With The World's Most Spacious Business Class Suites On A330s",
-    "summary": "Discover five airlines with the most spacious A330neo Business Class suites, from Virgin Atlantic's Retreat Suite to Delta One and Condor's Prime Seat",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-13T11:00:15Z",
-    "url": "https://simpleflying.com/most-spacious-airbus-a330-business-class-suites/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "892e85e27243",
-    "title": "MARSS to provide counter-drone defense systems, hard-kill interceptors to Kuwait",
-    "summary": "MARSS has signed a \u00a3370 million ($489 million) contract with Kuwait to provide a nationwide counter-drone defense system&#8230; The post MARSS to provide counter-drone defense systems, hard-kill interceptors to Kuwait appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-13T09:41:44Z",
-    "url": "https://www.aerotime.aero/articles/marss-counter-drone-defense-systems-hard-kill-interceptors-kuwait",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "559de01dc9ee",
-    "title": "Delta aircraft isolated at Ben Gurion Airport over bomb threat: reports",
-    "summary": "A Delta Air Lines aircraft was isolated at Tel Aviv\u2019s Ben Gurion Airport (TLV) due to a bomb&#8230; The post Delta aircraft isolated at Ben Gurion Airport over bomb threat: reports appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-13T08:07:07Z",
-    "url": "https://www.aerotime.aero/articles/delta-aircraft-ben-gurion-airport-bomb-threat-reports",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
