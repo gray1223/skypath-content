@@ -1,5 +1,60 @@
 [
   {
+    "id": "bf3b4855c5c4",
+    "title": "RAAF P-8A Poseidon joins about 260 aircraft in Japan-US Exercise Keen Sword",
+    "summary": "A Royal Australian Air Force (RAAF) P-8A Poseidon maritime patrol aircraft has deployed to Japan as part of&#8230; The post RAAF P-8A Poseidon joins about 260 aircraft in Japan-US Exercise Keen Sword appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-20T10:03:38Z",
+    "url": "https://www.aerotime.aero/articles/raaf-p-8a-poseidon-joins-about-260-aircraft-in-japan-us-exercise-keen-sword",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "909607e4e9c7",
+    "title": "AMAC Aerospace Istanbul: powering business jet MRO at the Europe-Asia crossroads",
+    "summary": "AMAC Aerospace&#8217;s spiritual home, EuroAirport Basel-Mulhouse (BSL/MLH) in Switzerland, is synonymous with the industry&#8217;s biggest jets, housing maintenance&#8230; The post AMAC Aerospace Istanbul: powering business jet MRO at the Europe-Asia crossroads appeared first...",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-20T08:46:16Z",
+    "url": "https://www.aerotime.aero/articles/amac-aerospace-istanbul-business-jet-mro-europe-asia-crossroads",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5fef72911077",
+    "title": "United Airlines CEO Defends Charging Non-Frequent Flyers $70 To Avoid The Middle Seat",
+    "summary": "How much would you pay for the privilege?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T08:39:25Z",
+    "url": "https://simpleflying.com/united-airlines-ceo-defends-charging-non-frequent-flyers-middle-seat/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "49d74c77b3f9",
+    "title": "Chicago Midway Abruptly Shuts Runway For A Month After Jet Blast Damage",
+    "summary": "The repairs are set to have a significant impact on operations, particularly at Southwest Airlines.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-10-20T07:16:12Z",
+    "url": "https://simpleflying.com/chicago-midway-abruptly-shuts-runway-for-a-month-after-jet-blast-damage/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "72d3e8fbf4a8",
+    "title": "The Most Common Reasons Flights Get Delayed",
+    "summary": "A closer look at the major factors that impact airline on-time performance.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T05:00:15Z",
+    "url": "https://simpleflying.com/most-common-reasons-flights-get-delayed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "9b8d8c0b19bd",
     "title": "American Airlines A319 Met By Police After Passenger Allegedly Gropes Seatmate",
     "summary": "Midday AA flight over Wichita saw flight attendants separate two passengers after a reported inappropriate touch.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-13T14:45:26Z",
     "url": "https://www.aerotime.aero/articles/air-tahiti-delivery-all-business-atr-72-600",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "914643fe84e6",
-    "title": "Deciphering Weather for Solo Flight",
-    "summary": "Student pilots should use METARs, TAFs, and interpolation skills to make smart go/no-go decisions.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-10-13T14:30:00Z",
-    "url": "https://www.flyingmag.com/deciphering-weather-for-solo-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0b9539bf30c3",
-    "title": "Severed Fiber Line Disrupts Raleigh-Durham Flights",
-    "summary": "Contractor damage near an FAA facility led to ground stops, flight cancellations and delays exceeding two hours.",
-    "source": "AvWeb",
-    "category": "military",
-    "publishedDate": "2026-10-13T13:35:35Z",
-    "url": "https://avweb.com/aviation-news/severed-fiber-line-disrupts-raleigh-flight/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3c58dd6679ff",
-    "title": "No 787s After All? Emirates May Convert Its Entire Dreamliner Order Into More 777Xs",
-    "summary": "Emirates has a sizeable fleet renewal program underway, but it will have to wait several years for all of its new aircraft to arrive. According to ch-aviation data, the Dubai-based carrier is currently awaiting dozens of A350-900s, HUNDREDS of Boeing 777Xs and around 30 Boeing...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-13T12:31:14Z",
-    "url": "https://simpleflying.com/video/no-787s-after-all-emirates-may-convert-its-entire-dreamliner-order-into-more-777xs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b09c5a6e3d8f",
-    "title": "FlyJets Introduces \u2018JetGPT\u2019 AI Agent for Charters",
-    "summary": "\u2018Automated flight-finding agent\u2019 launched for company\u2019s web and mobile applications.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-13T12:00:00Z",
-    "url": "https://www.flyingmag.com/flyjets-introduces-jetgpt-ai-agent-for-charter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "53b45a323f57",
-    "title": "Avolon buys 70 A330neo engines from Rolls-Royce following recent Airbus order",
-    "summary": "British manufacturer Rolls-Royce has secured an order from Avolon for 70 Trent 7000 engines, following the lessor\u2019s recent&#8230; The post Avolon buys 70 A330neo engines from Rolls-Royce following recent Airbus order appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-13T11:34:00Z",
-    "url": "https://www.aerotime.aero/articles/avolon-buys-a330neo-engines-rolls-royce-airbus-order",
     "airlineTag": null,
     "isBreaking": false
   }
