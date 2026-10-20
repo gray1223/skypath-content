@@ -1,5 +1,16 @@
 [
   {
+    "id": "5232f9b6e4d0",
+    "title": "NBAA leans into business aviation intelligence",
+    "summary": "The National Business Aviation Association (NBAA) and Rolland Vincent Associates (RVA) announced a partnership designed to provide NBAA members subscription-based, actionable intelligence to support better business aviation decisions.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-10-21T01:08:18Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "f2011d130a94",
     "title": "Training and Safety Tip: Respect rising terrain",
     "summary": "I am fortunate to be able to fly in the beautiful mountains of the northeastern United States. While the height of these mountains can't compete with the towering mountains in the western part of the country, the same flight safety factors apply.",
@@ -8,6 +19,83 @@
     "publishedDate": "2026-10-20T22:07:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1d033d602ade",
+    "title": "FAA Certifies Boeing 737 MAX 10",
+    "summary": "Approval clears the way for deliveries after years of delays and triggers new safety requirements across the MAX fleet.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-20T20:44:10Z",
+    "url": "https://avweb.com/aviation-news/faa-certifies-boeing-737-max-10/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4d9da006deac",
+    "title": "Business Aviation Pay Climbs 8% in 2026",
+    "summary": "New analysis shows compensation growth outpacing the broader U.S. labor market as operators face continued workforce pressures.",
+    "source": "AvWeb",
+    "category": "pay",
+    "publishedDate": "2026-10-20T20:01:54Z",
+    "url": "https://avweb.com/aviation-news/business-aviation-pay-climbs-8-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b1732565d8ab",
+    "title": "Frontier Airlines Cancels 7 Routes From World's Busiest Airport: See List Now",
+    "summary": "Seven routes were cut earlier this year from O'Hare amid heavy competition on corridors like Miami and Minneapolis.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T20:00:15Z",
+    "url": "https://simpleflying.com/frontier-airlines-cancels-7-routes-worlds-busiest-airport/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3b8d248648c9",
+    "title": "Breaking: Boeing 737 MAX 10 Wins FAA Type Certification",
+    "summary": "After 6+ years of delays, the largest 737 MAX variant is finally cleared for takeoff.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T19:51:10Z",
+    "url": "https://simpleflying.com/boeing-737-max-10-faa-type-certification/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ed95b6e3c219",
+    "title": "Remotely Piloted Caravan Flies at Albuquerque Sunport",
+    "summary": "FAA-backed demonstration tests autonomous cargo operations as part of a national aviation integration program.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-20T18:51:03Z",
+    "url": "https://avweb.com/aviation-news/remotely-piloted-caravan-flies-albuquerque/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "24622ff22b51",
+    "title": "2 Days, 2 New US Cities: Lufthansa Adds Phoenix Airbus A350 Service In Record-Breaking Route Expansion",
+    "summary": "Lufthansa will launch three weekly Munich\u2013Phoenix flights in August 2027, adding Arizona to its network as the airline expands across the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T17:57:16Z",
+    "url": "https://simpleflying.com/lufthansa-phoenix-787-dreamliner-service/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "62d6caf43704",
+    "title": "SyberJet Unveils AI-Assisted Cockpit System",
+    "summary": "New SyberVision avionics will feature six touchscreen displays and automation designed for single-pilot operations.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-20T17:16:56Z",
+    "url": "https://avweb.com/aviation-news/business-aviation-news/syberjet-unveils-ai-assist-cockpit-system/",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-14T08:43:16Z",
     "url": "https://simpleflying.com/faa-urged-halt-ai-air-traffic-tool-washington-dc/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "83d62019fe9b",
-    "title": "Why Airlines Agreed To Bankroll Austin-Bergstrom's Jump From 34 To 66 Gates",
-    "summary": "Texas' fastest growing airport is backed by every airline on the flightline.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T08:00:17Z",
-    "url": "https://simpleflying.com/why-airlines-agreed-bankroll-austin-bergstrom-jump-34-66-gates/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c32a1d2c5737",
-    "title": "TCab Tech and SIDEC sign MOU to advance E20 eVTOL commercialization in Malaysia",
-    "summary": "On October 9, 2026, the \u201cMalaysian Engineers, Global Impact: TCab Tech E20 eVTOL Showcase\u201d, jointly organized by the&#8230; The post TCab Tech and SIDEC sign MOU to advance E20 eVTOL commercialization in Malaysia appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-14T06:16:24Z",
-    "url": "https://www.aerotime.aero/articles/tcab-tech-malaysia-sidec-e20-evtol-commercialization",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d388eb652f72",
-    "title": "WestJet Captain Calls Out Seattle Airport After 737 Burns 800 Lbs Of Fuel Just To Reach The Runway",
-    "summary": "Long taxi times at Seattle forced a WestJet crew to request extra fuel and endure costly delays before takeoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T05:13:51Z",
-    "url": "https://simpleflying.com/westjet-captain-seattle-737-burns-800-lbs-fuel-taxi/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2402be5480ee",
-    "title": "The Airport Pouring 17 Inches Of Concrete Over A Runway Built For B-47 Bombers",
-    "summary": "Once a Cold War base, Lincoln Airport now is home to eight KC-135R tankers, and it is now undergoing a major reconstruction of its primary runway.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T05:00:15Z",
-    "url": "https://simpleflying.com/airport-pouring-17-inches-concrete-runway-built-b-47-bombers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c278ff3335b1",
-    "title": "AOPA Concerned About New Proposed Falcon Field Landing Fees",
-    "summary": "MESA, Ariz.\u2014The Aircraft Owners and Pilots Association (AOPA) expressed serious concerns about the city of Mesa\u2019s revised landing fee proposal for general aviation aircraft at Falcon Field.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-14T00:31:35Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/pr-aopa-concerned-about-new-proposed-falcon-field-landing-fees?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ad28a7e2dd11",
-    "title": "Training and Safety Tip: Say 'student' with confidence",
-    "summary": "&ldquo;Stapleton Approach, Piper Niner-Four-Eight-Two-Charlie, twenty miles north, inbound for landing with information Kilo.&rdquo; It sounded good, and I had read it verbatim from the script I had written down on my kneeboard before I took off, so I was dreading the rapid-fi...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-13T23:16:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/13/training-and-safety-tip-say-student-with-confidence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7c7f3b8e37e7",
-    "title": "Air Tahiti All First Class ATR-72 Begins Epic 6-Day, 9-Airport Journey From France To Tahiti",
-    "summary": "Air Tahiti's luxurious 26-seat ATR 72-600 is embarking on an extraordinary six-day delivery journey spanning nine airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-13T22:38:22Z",
-    "url": "https://simpleflying.com/air-tahiti-first-class-atr-72-epic-6-day-9-airport-france-tahiti/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2e7eac212625",
-    "title": "The Aircraft Delta Air Lines Didn't Know It Needed Until Inheriting It",
-    "summary": "Delta's A330 fleet will simply keep growing and growing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-13T22:00:14Z",
-    "url": "https://simpleflying.com/aircraft-delta-air-lines-didnt-know-needed-inheriting/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
