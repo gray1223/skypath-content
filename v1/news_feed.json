@@ -6,7 +6,51 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9779cc196b82",
+    "title": "FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays",
+    "summary": "The US Federal Aviation Administration (FAA) certified Boeing\u2019s 737 MAX 10 on October 20, 2026, clearing the way&#8230; The post FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-21T00:57:20Z",
+    "url": "https://www.aerotime.aero/articles/boeing-737-max-10-faa-certification",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0fda7282545f",
+    "title": "How The US Navy Turned A Boeing 737 Into A Submarine Hunter",
+    "summary": "How an icon of air travel adapted to protect peace on the high seas.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-21T00:00:15Z",
+    "url": "https://simpleflying.com/how-us-navy-turn-boeing-737-submarine-hunter/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f45af5c0d517",
+    "title": "Why Southwest Airlines' Customer Of Size Second-Seat Refund Is A Gamble On Flights That Typically Run 80% Full",
+    "summary": "Southwest Customer of Size refund depends on flight occupancy, leaving plus-size travelers facing uncertain costs under its new seating policy",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-21T00:00:15Z",
+    "url": "https://simpleflying.com/southwest-airlines-customer-size-second-size-refund-gamble-flights-typically-80-full/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2c573b996f4d",
+    "title": "How TSA Wait Times Compare At America\u2019s 10 Busiest Airports",
+    "summary": "New York airports perform particularly poorly, while San Francisco's, which uses private contractors, perform well.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T23:00:16Z",
+    "url": "https://simpleflying.com/how-tsa-wait-times-compare-at-americas-10-busiest-airports/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -17,8 +61,41 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a84858e747a4",
+    "title": "How The Blue Angels Fly Just Inches Apart: Inside The US Navy\u2019s Demonstration Team",
+    "summary": "Breaking down the incredible skill and grit the Blues put on display at every show.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T22:00:15Z",
+    "url": "https://simpleflying.com/how-blue-angles-fly-inches-apart-inside-us-navy-demonstration-team/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e6527d0f304c",
+    "title": "Belgrade To Miami: Air Serbia Adds Its Longest US Route Yet With The Airbus A330",
+    "summary": "Air Serbia will launch nonstop Belgrade-Miami flights in May 2027, expanding its North American network with Airbus A330s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T21:43:04Z",
+    "url": "https://simpleflying.com/air-serbia-longest-us-route-airbus-a330/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3d20f5ef8f44",
+    "title": "Brand-New $125 Million, 37,000 Square-Foot VIP Private Terminal Is Coming To Washington Dulles Airport",
+    "summary": "Pricing details for commercial passengers using the facility have not yet been confirmed.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-20T21:33:21Z",
+    "url": "https://simpleflying.com/vip-private-terminal-washington-dulles/",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -1095,7 +1172,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1436,7 +1513,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1458,7 +1535,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1469,7 +1546,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1557,7 +1634,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1909,7 +1986,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:54:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/the-schiff-show-launches-unique-aviation-educational-cruise?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1920,7 +1997,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T00:44:19Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/14/pr-aopa-celebrates-300th-flying-club-founded-through-foundation-program?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2119,83 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-14T14:00:14Z",
     "url": "https://simpleflying.com/c17-globemaster-passenger-capacity/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0d2c97c6fd33",
-    "title": "Singapore Airlines rolls out new amenity kits in all cabin classes",
-    "summary": "Singapore Airlines (SIA) announced it will introduce new in-flight amenities across all cabin classes from November 2026, including&#8230; The post Singapore Airlines rolls out new amenity kits in all cabin classes appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-14T13:59:50Z",
-    "url": "https://www.aerotime.aero/articles/singapore-airlines-rolls-out-new-amenity-kits-in-all-cabin-classes",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a11039522c38",
-    "title": "Airbus: Airlines Will Need 2.4 Million New Workers By 2045 As Aviation Services Sector Doubles",
-    "summary": "As passenger numbers double in the coming two decades, a million new members of cabin crew will be required to support the industry's growth.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T13:00:15Z",
-    "url": "https://simpleflying.com/airbus-aviation-services-growth-forecast/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "38774e93f9bc",
-    "title": "Horizon Air pilots accuse employer of \u2018corporate greed\u2019 as staff hold picket",
-    "summary": "Horizon Air pilots have accused their employer of showing a &#8220;pattern of mismanagement and corporate greed&#8221; that has&#8230; The post Horizon Air pilots accuse employer of \u2018corporate greed\u2019 as staff hold picket appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-14T11:32:42Z",
-    "url": "https://www.aerotime.aero/articles/horizon-air-pilots-pick-seattle-teamsters",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "18aec03fd969",
-    "title": "JAL orders up to 26 Embraer E190-E2 jets to replace J-AIR\u2019s E170 and E190 fleets",
-    "summary": "Japan Airlines (JAL) announced on October 14, 2026, that it has ordered up to 26 Embraer E190-E2 aircraft&#8230; The post JAL orders up to 26 Embraer E190-E2 jets to replace J-AIR\u2019s E170 and E190 fleets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-14T09:51:19Z",
-    "url": "https://www.aerotime.aero/articles/jal-orders-up-to-26-embraer-e190-e2-jets-to-replace-j-airs-e170-and-e190-fleets",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "49c0ea901fd6",
-    "title": "Southwest Airlines' Assigned Seating: How The Biggest Change In Its History Is Playing Out",
-    "summary": "The carrier recently made a significant change to its operating model.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T09:21:20Z",
-    "url": "https://simpleflying.com/southwest-airlines-assigned-seating-biggest-change-history-playing-out/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "511f2331ab5a",
-    "title": "Qantas Cancels All Flights To 5 Destinations: See Full List Now",
-    "summary": "These places stopped seeing the airline in 2025 or 2026. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T09:00:14Z",
-    "url": "https://simpleflying.com/qantas-cancels-all-flights-to-5-destinations/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e565d9d74a40",
-    "title": "FAA Urged To Halt AI Air Traffic Tool At DC Airports Over \"Life Or Death\" Concerns",
-    "summary": "There is little margin for error in air traffic control.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-14T08:43:16Z",
-    "url": "https://simpleflying.com/faa-urged-halt-ai-air-traffic-tool-washington-dc/",
     "airlineTag": null,
     "isBreaking": false
   }
