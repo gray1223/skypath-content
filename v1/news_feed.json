@@ -6,14 +6,47 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5aa2540f08d3",
+    "title": "United Airlines Unveils 54,000 Square-Foot Lounge As Part Of Houston\u2019s Terminal B Overhaul",
+    "summary": "United Airlines has unveiled the largest airline lounge in the Americas alongside a $2.6 billion Houston terminal transformation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-21T21:02:09Z",
+    "url": "https://simpleflying.com/united-airlines-unveils-54000-square-foot-lounge-houston/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "8f3373c00945",
+    "title": "Ease into night flying",
+    "summary": "Night flying offers an almost magical experience for pilots&mdash;winds are often calmer, the air smoother, and all is dark except twinkling city lights, and if it&rsquo;s clear, the stars and moon. Even taxiing can be an enchanting experience as you navigate Christmas-like gr...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-10-21T19:15:24Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "30b209992383",
+    "title": "American Airlines Cancels 11 Long-Haul Routes From Major Hub: See Full List Now",
+    "summary": "All of these places have stopped seeing the carrier from Philadelphia, including one in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-21T19:00:17Z",
+    "url": "https://simpleflying.com/american-airlines-cancels-11-long-haul-routes-from-this-major-hub/",
+    "airlineTag": "American Airlines",
     "isBreaking": false
   },
   {
     "id": "75f99211181f",
     "title": "FAA Clears BETA\u2019s ALIA eVTOL for Demonstration Flights",
-    "summary": "BETA Technologies has received the first FAA market survey authorization for an electric VTOL aircraf.",
+    "summary": "BETA Technologies has received the first FAA market survey authorization for an electric VTOL aircraft.",
     "source": "AvWeb",
     "category": "industry",
     "publishedDate": "2026-10-21T16:13:31Z",
@@ -259,7 +292,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -281,7 +314,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -336,7 +369,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1447,7 +1480,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1788,7 +1821,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1810,7 +1843,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1821,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1909,7 +1942,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-10-15T11:29:43Z",
     "url": "https://www.aerotime.aero/articles/lufthansa-tokyo-japan-december-launch-first-airbus-a350-1000",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "58b5a12e2889",
-    "title": "United begins Starlink rollout on 737 MAX 8 fleet, starting with Guam-based jets",
-    "summary": "United Airlines has begun installing Starlink Wi-Fi on its Boeing 737 MAX 8 fleet, starting with aircraft based&#8230; The post United begins Starlink rollout on 737 MAX 8 fleet, starting with Guam-based jets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-15T11:24:06Z",
-    "url": "https://www.aerotime.aero/articles/united-begins-starlink-rollout-on-737-max-8-fleet-starting-with-guam-based-jets",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "52bd5f536a69",
-    "title": "Why United Has Hundreds of Lie-Flat Seats It Can\u2019t Use",
-    "summary": "In this video, we'll look at how Boeing's certification delays created one of the aviation industry's strangest supply-chain problems, why these seats can't simply be moved to another aircraft, what United did instead, and whether the Boeing 737 MAX 10 still has the role it wa...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-15T11:00:15Z",
-    "url": "https://simpleflying.com/video/why-united-has-hundreds-of-lie-flat-seats-it-can-t-use/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1897f91fc5a7",
-    "title": "Delta Flight Aborts LaGuardia Landing At The Last Second To Avoid Private Jet Taking Off",
-    "summary": "Flight data shows the CRJ900 pulling up just 100 feet above the runway as a private jet takes off.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-15T10:28:58Z",
-    "url": "https://simpleflying.com/delta-laguardia-aborted-landing-near-miss-private-jet/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
