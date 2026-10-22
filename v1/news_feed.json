@@ -11,6 +11,105 @@
     "isBreaking": false
   },
   {
+    "id": "8fe9159fa118",
+    "title": "A Look At The Salaries Of Flight Instructors In The US In 2026",
+    "summary": "How much does a flight instructor actually bring home in the US? Airline salaries dominate job rankings, but does teaching student pilots pay as much?",
+    "source": "Simple Flying",
+    "category": "training",
+    "publishedDate": "2026-10-22T11:00:17Z",
+    "url": "https://simpleflying.com/flight-instructor-salaries-us-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d12f3680b4b9",
+    "title": "Only 9 Airlines Operate The Airbus A380 With A First Class Cabin: Here Is How Much A Ticket Costs",
+    "summary": "From Emirates showers to Singapore\u2019s sky suites, here are the best Airbus A380 first-class cabins in 2026\u2014and what they cost to fly.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-22T10:14:43Z",
+    "url": "https://simpleflying.com/airlines-airbus-a380-first-class-cabin-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ab2a4372e490",
+    "title": "Cargo drone shoots down multiple attack drones with laser-guided rockets",
+    "summary": "A cargo drone modified to carry laser-guided rockets intercepted multiple one-way attack drones during a single flight at&#8230; The post Cargo drone shoots down multiple attack drones with laser-guided rockets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-22T10:06:03Z",
+    "url": "https://www.aerotime.aero/articles/cargo-drone-shoots-down-attack-drones-apkws-rockets",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e13a64707878",
+    "title": "Korean Air completes smart cargo terminal at Incheon, boosting capacity over 25%",
+    "summary": "Korean Air has completed the modernisation of its cargo terminal at Incheon International Airport (ICN), transforming it into&#8230; The post Korean Air completes smart cargo terminal at Incheon, boosting capacity over 25% appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-22T09:41:13Z",
+    "url": "https://www.aerotime.aero/articles/korean-air-completes-smart-cargo-terminal-at-incheon-boosting-capacity-over-25",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0802a67a4d02",
+    "title": "Singapore Airlines refreshes its inflight entertainment offering",
+    "summary": "Singapore Airlines announced a refresh and upgrade of its inflight entertainment (IFE) offering on October 21, 2026.&#160; The&#8230; The post Singapore Airlines refreshes its inflight entertainment offering appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-22T08:33:54Z",
+    "url": "https://www.aerotime.aero/articles/singapore-airlines-refreshes-its-inflight-entertainment-offering",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0cfcf88f6579",
+    "title": "Why The World's Largest Aircraft Lessor Is Selling Boeing 767 Freighters Just As Cargo Demand Softens",
+    "summary": "AerCap ramps up its cargo fleet overhaul.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-22T08:00:18Z",
+    "url": "https://simpleflying.com/worlds-largest-aircraft-lessor-selling-boeing-767-freighters-cargo-demand-softens/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "99f2266ca9b4",
+    "title": "Armenia\u2019s first L-39 Skyfox jet appears in Armenian Air Force markings",
+    "summary": "Armenia is preparing to receive Czech-built Aero L-39 Skyfox trainer jets, with Defense Minister Suren Papikyan declaring that&#8230; The post Armenia\u2019s first L-39 Skyfox jet appears in Armenian Air Force markings appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-22T07:59:01Z",
+    "url": "https://www.aerotime.aero/articles/armenia-l39-skyfox-jets-czech-aero-vodochody",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "cc94feb01a38",
+    "title": "\"Stop, Stop, Stop\": ATC Scrambles To Halt Air Canada Jet As Southwest 737 Lands In St. Louis",
+    "summary": "Urgent radio calls bring an Air Canada Express jet to a halt before it enters the runway.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-22T06:32:51Z",
+    "url": "https://simpleflying.com/atc-halts-air-canada-takeoff-southwest-737-st-louis/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3bcddd136d90",
+    "title": "Emirates Says Its $300 Million Expansion Will Cut Reliance On Outside Suppliers For GE90 & GP7200 Engine Repairs",
+    "summary": "Emirates' engineering strategy could change how much the airline relies on outside suppliers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-22T05:00:18Z",
+    "url": "https://simpleflying.com/emirates-300-million-expansion-cut-reliance-outside-suppliers-ge90-gp7200-engine-repairs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "91575def90a4",
     "title": "Higher Fuel Prices Force Southwest Airlines To Cut 2026 Profit Forecast",
     "summary": "America's leading affordable carried is reeling from surging oil costs.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-15T15:05:00Z",
     "url": "https://avweb.com/aviation-news/faa-flight-deck-training-controllers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2a0e333a8cb1",
-    "title": "Ukraine says Neptune missile strike hit six Russian Su-34 bombers at air base",
-    "summary": "Ukraine\u2019s Navy said it used its Neptune coastal missile system to strike the Borisoglebsk military air base in&#8230; The post Ukraine says Neptune missile strike hit six Russian Su-34 bombers at air base appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-15T14:44:34Z",
-    "url": "https://www.aerotime.aero/articles/ukraine-neptune-strike-six-su34-bombers-borisoglebsk",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e8f3a6250e1a",
-    "title": "EASA Expands Swift 100R Approvals in Europe",
-    "summary": "European validation extends existing FAA fuel approvals to more piston aircraft and engines.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-15T14:17:46Z",
-    "url": "https://avweb.com/aviation-news/easa-expands-swift-100r-approvals-europe/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "24aa7910c673",
-    "title": "Embraer re-signs TAP\u2019s Portug\u00e1lia Airlines for E-Jet fleet support",
-    "summary": "Embraer has signed a Component Pool Program agreement with TAP\u2019s Portug\u00e1lia Airlines to support its regional fleet of&#8230; The post Embraer re-signs TAP\u2019s Portug\u00e1lia Airlines for E-Jet fleet support appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-15T14:06:11Z",
-    "url": "https://www.aerotime.aero/articles/embraer-portugalia-airlines-ejet-fleet-support",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6b81bf760911",
-    "title": "Australia\u2019s $1.7B air battle system links RAAF F-35As to missile defense network",
-    "summary": "The Royal Australian Air Force (RAAF) will get a new system for monitoring Australian airspace and coordinating responses&#8230; The post Australia\u2019s $1.7B air battle system links RAAF F-35As to missile defense network appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-15T13:50:59Z",
-    "url": "https://www.aerotime.aero/articles/australias-1-7b-air-battle-system-links-raaf-f-35as-to-missile-defense-network",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0073ed32ff26",
-    "title": "Ryanair Unveils 27 New Nonstop Routes From $9: See Full List Now",
-    "summary": "All of these routes are part of the airlines summer expansion.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-15T13:08:25Z",
-    "url": "https://simpleflying.com/ryanar-reveals-27-new-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3d59f62972a7",
-    "title": "Virgin Atlantic & Air New Zealand Are Quietly Winning The Cabin Most Business Flyers Ignore",
-    "summary": "Why premium economy is becoming more important to airlines by the day.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-15T13:00:15Z",
-    "url": "https://simpleflying.com/virgin-atlantic-air-new-zealand-quietly-winning-cabin-most-business-flyers-ignore/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac2d46bf0a0a",
-    "title": "Out With The Old, In With The New: SWISS Retires An A340 As Lufthansa Teases A350-1000",
-    "summary": "The Lufthansa Group's widebody fleet is in flux.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-15T12:32:22Z",
-    "url": "https://simpleflying.com/swiss-retires-airbus-a340-lufthansa-prepares-for-a350-1000-launch/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40c688b96302",
-    "title": "Southwest Airlines Eyes Boeing 787s: 4 US Cities Most Likely To Get Long-Haul Flights",
-    "summary": "Southwest Airlines has been changing dramatically recently, moving it further and further away from its low-cost carrier roots to become a self-styled hybrid operator. It has been doing things that it either could not previously do due to legacy systems or otherwise, or which ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-15T12:23:14Z",
-    "url": "https://simpleflying.com/video/southwest-airlines-eyes-boeing-787s-4-us-cities-most-likely-to-get-long-haul-flights/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "df3f1723b329",
-    "title": "How to Become an Airframe & Powerplant Technician",
-    "summary": "Path to a career as an A&#038;P mechanic involves various training and testing requirements.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-15T12:00:00Z",
-    "url": "https://www.flyingmag.com/how-to-become-an-airframe-powerplant-technician/",
     "airlineTag": null,
     "isBreaking": false
   }
