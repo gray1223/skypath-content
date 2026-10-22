@@ -6,8 +6,19 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "91575def90a4",
+    "title": "Higher Fuel Prices Force Southwest Airlines To Cut 2026 Profit Forecast",
+    "summary": "America's leading affordable carried is reeling from surging oil costs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-22T02:59:12Z",
+    "url": "https://simpleflying.com/higher-fuel-prices-force-southwest-airlines-cut-2026-profit-forecast/",
+    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   },
   {
@@ -28,7 +39,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -292,7 +303,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -314,7 +325,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -369,7 +380,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1480,7 +1491,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1821,7 +1832,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T00:48:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/faa-limits-vfr-operations-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1843,7 +1854,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:46:45Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/little-airport-big-impact?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1854,7 +1865,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T21:41:16Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/city-revises-falcon-field-landing-fee-proposal-aopa-concerned?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1942,7 +1953,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-15T18:57:32Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/15/iaopa-meets-in-germany?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2185,17 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-15T12:00:00Z",
     "url": "https://www.flyingmag.com/how-to-become-an-airframe-powerplant-technician/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "53e4a8f75ada",
-    "title": "Lufthansa picks Tokyo for December launch of first Airbus A350-1000",
-    "summary": "Lufthansa has picked Japan&#8217;s capital city Tokyo as the launch destination for the maiden commercial flight of its&#8230; The post Lufthansa picks Tokyo for December launch of first Airbus A350-1000 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-15T11:29:43Z",
-    "url": "https://www.aerotime.aero/articles/lufthansa-tokyo-japan-december-launch-first-airbus-a350-1000",
     "airlineTag": null,
     "isBreaking": false
   }
