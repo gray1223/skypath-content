@@ -6,7 +6,106 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "06d92053ea27",
+    "title": "Boeing 737-800BCF Vs. Airbus A321 P2F: Which Freighter Is More Efficient?",
+    "summary": "The two leaders in narrowbody cargo go head-to-head.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T16:00:19Z",
+    "url": "https://simpleflying.com/boeing-737-800bcf-airbus-a321-p2f-freighter-efficient/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8bdc2c08c51d",
+    "title": "Riyadh Airport Closure: How Airlines Are Flying Around Saudi Arabia Now",
+    "summary": "Riyadh went quiet, but Saudi airspace didn't: where flights went after the airport attacks.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T15:00:20Z",
+    "url": "https://simpleflying.com/riyadh-airport-closure-airlines-rerouting-saudi-airspace/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8c9896edba3f",
+    "title": "Bombardier Plans $270M U.S. Expansion After \u2018Deal\u2019 With Trump",
+    "summary": "President implies American officials working with his administration helped orchestrate business jet manufacturer\u2019s fresh investment.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-10-23T15:00:00Z",
+    "url": "https://www.flyingmag.com/bombardier-270m-us-expansion-deal-with-trump/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fb08ef03c19e",
+    "title": "Air Arabia CEO: 8-Hour Transatlantic Airbus A321XLR Flights From Morocco \u201cNot In Our Plan\u201d",
+    "summary": "Real-world XLR performance and payload choices will shape any transatlantic ambitions from Morocco rather than theory.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T14:54:36Z",
+    "url": "https://simpleflying.com/air-arabia-ceo-8-hour-transatlantic-airbus-a321xlr-flights-not-in-plan/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9f0949bd52be",
+    "title": "Pegasus Airlines Airbus A321neo Lines Up The Wrong Way On Frankfurt Runway",
+    "summary": "The aircraft later departed safely (in the right direction).",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T14:53:03Z",
+    "url": "https://simpleflying.com/pegasus-airlines-airbus-a321neo-wrong-way-takeoff/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2cc95834356a",
+    "title": "Two Air Force Pilots Eject From T-6A in Texas",
+    "summary": "The crew made the decision after receiving unsafe landing gear indications.",
+    "source": "AvWeb",
+    "category": "military",
+    "publishedDate": "2026-10-23T14:14:58Z",
+    "url": "https://avweb.com/aviation-news/air-force-pilots-eject-from-t-6a-in-texas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eb16f67ddd70",
+    "title": "FAA Weighs Restoring Citation Single-Pilot Operations",
+    "summary": "Administrator Bryan Bedford voices support for exploring alternatives to legacy exemptions, which the agency rescinded in September.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-10-23T13:00:00Z",
+    "url": "https://www.flyingmag.com/faa-weighs-restoring-citation-single-pilot-ops/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "061b2d315a8b",
+    "title": "Delta Air Lines To Likely Debut New Airbus A350-1000s On Flights To Seoul From Atlanta & Detroit",
+    "summary": "Delta Air Lines could be planning to introduce its new Airbus A350-1000 aircraft on nonstop flights from its hubs at Detroit Metropolitan Wayne County Airport and Hartsfield-Jackson Atlanta to Seoul Incheon. However, the schedule remains to be confirmed.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T12:30:19Z",
+    "url": "https://simpleflying.com/video/delta-air-lines-to-likely-debut-new-airbus-a350-1000s-on-flights-to-seoul-from-atlanta-detroit/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "cf9378689fe1",
+    "title": "RAF Typhoons and French Rafales train together in first joint nuclear deterrence exercise",
+    "summary": "Royal Air Force (RAF) Eurofighter Typhoons escorted French Rafale fighters during a simulated nuclear strike over the Mediterranean&#8230; The post RAF Typhoons and French Rafales train together in first joint nuclear deterrence exercise appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-23T11:23:08Z",
+    "url": "https://www.aerotime.aero/articles/raf-typhoons-french-nuclear-deterrence-exercise",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -116,7 +215,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -156,11 +255,11 @@
   {
     "id": "df3256ea0720",
     "title": "Duffy, Bedford highlight ATC progress, AAM milestone",
-    "summary": "Transportation Secretary Sean Duffy and FAA Administrator Bryan Bedford discussed ATC modernization, the FAA&rsquo;s recission of single pilot operations in some Cessna Citation jets, and advanced air mobility (AAM) at the National Business Aviation Association Business Aviati...",
+    "summary": "Transportation Secretary Sean Duffy and FAA Administrator Bryan Bedford discussed ATC modernization, the FAA&rsquo;s rescission of single pilot operations in some Cessna Citation jets, and advanced air mobility (AAM) at the National Business Aviation Association Business Aviat...",
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -171,7 +270,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -182,7 +281,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -193,7 +292,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -259,7 +358,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -556,7 +655,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -611,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -633,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -897,7 +996,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -919,7 +1018,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -974,7 +1073,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2085,7 +2184,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2098,105 +2197,6 @@
     "publishedDate": "2026-10-16T22:00:16Z",
     "url": "https://simpleflying.com/british-airways-12-a380s-small-network-how-to-track/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "445ac07de8cc",
-    "title": "FAA, Air Traffic Controllers Reach Deal for 2.8 Percent Pay Raise",
-    "summary": "Increase comes with new work requirements that the FAA says will improve efficiency.",
-    "source": "Flying Magazine",
-    "category": "pay",
-    "publishedDate": "2026-10-16T21:37:04Z",
-    "url": "https://www.flyingmag.com/dot-air-traffic-controllers-reach-deal-for-2-8-percent-pay-raise/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "eab318d8a73b",
-    "title": "The 1st US-South Australia Boeing 787 Route Just Shrunk To 23 Flights Before Its 1st Full Season",
-    "summary": "It is a fairly new route and recorded a lower load factor during its first partial season.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-16T21:00:17Z",
-    "url": "https://simpleflying.com/the-1st-us-south-australia-boeing-787-route-just-shrunk-to-23-flights-before-its-1st-full-season/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e4c2ff1733c7",
-    "title": "American Airlines To Expand In Venezuela With New Barcelona Route Taking Off In 2027",
-    "summary": "American Airlines is adding Barcelona to its growing Venezuela network as other US carriers also prepare to restore flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-16T20:49:08Z",
-    "url": "https://simpleflying.com/american-airlines-expand-venezuela-new-barcelona-route-taking-off-2027/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "241ab4bc8505",
-    "title": "FAA seeks ownership stake in company behind AI air traffic system",
-    "summary": "The US Federal Aviation Administration (FAA) is seeking an ownership stake in Air Space Intelligence, the company developing&#8230; The post FAA seeks ownership stake in company behind AI air traffic system appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-16T20:20:11Z",
-    "url": "https://www.aerotime.aero/articles/faa-stake-air-space-intelligence-ai-air-traffic",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59c24fca51e3",
-    "title": "New Drone Restrictions In Place Along Southern Border",
-    "summary": "New flight restriction prohibits unauthorized drone operations within one nautical mile of the U.S.-Mexico border.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-16T20:06:27Z",
-    "url": "https://avweb.com/aviation-news/drone-restrictions-active-southern-border/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cd0c4b089f31",
-    "title": "Breeze Airways Cancels All Flights To 2 Destinations: See List Now",
-    "summary": "Underused seasonal links have crumbled under poor loads while the airline pivots its fleet toward bigger Myrtle Beach plans.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-16T20:00:17Z",
-    "url": "https://simpleflying.com/breeze-airways-cancels-all-flights-to-2-destinations-see-list-now/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "e2052086edcc",
-    "title": "Can US Airline Pilots Start Their Careers In The Air Force?",
-    "summary": "Unpacking how veterans land the right seat after serving the nation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-16T20:00:17Z",
-    "url": "https://simpleflying.com/us-airline-pilots-air-force-career-path/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d9a56bd4e0d0",
-    "title": "FAA Could Certify Boeing 737 MAX 10 Next Week",
-    "summary": "The agency is approaching a final decision following a Friday certification board meeting.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-16T19:38:54Z",
-    "url": "https://avweb.com/aviation-news/faa-could-cert-boeing-737-max-10-next-week/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aeccf5d1ff88",
-    "title": "Delta Air Lines Cancels All Flights To 8 Destinations: See Full List Now",
-    "summary": "Nonstop links to Gatwick Geneva and Papeete vanish as hub strategies redirect long haul capacity to core markets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-16T19:00:17Z",
-    "url": "https://simpleflying.com/delta-air-lines-cancels-flights-to-8-destinations/",
-    "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
 ]
