@@ -1,5 +1,38 @@
 [
   {
+    "id": "2a29ae2c344b",
+    "title": "Safety is Built In, Not Assumed: Keeping Collision Avoidance Ahead of the Traffic",
+    "summary": "Combining TCAS and ADS-B In can give pilots more time to prevent midair collisions.",
+    "source": "AvWeb",
+    "category": "training",
+    "publishedDate": "2026-10-23T20:04:02Z",
+    "url": "https://avweb.com/features/safety-built-in-collision-avoidance/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c7ce0e06dac2",
+    "title": "Breeze Airways Cancels 10 Nonstop Routes: See Full List Now",
+    "summary": "They all ended in the first nine months of the year. Find them all here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T20:00:20Z",
+    "url": "https://simpleflying.com/breeze-airways-cancels-10-nonstop-routes/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "5cf665929ee2",
+    "title": "7 Airlines Still Flying The Boeing 777-200ER In 2026",
+    "summary": "The 777-200 is still highly active in the skies today. Here are 7 airlines that are carrying the legacy in 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T20:00:20Z",
+    "url": "https://simpleflying.com/7-airlines-still-flying-boeing-777-200-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3e27c620f84b",
     "title": "Who can fly my airplane?",
     "summary": "One of the most common reasons aircraft insurance claims are denied is because the pilot operating the aircraft did not meet the requirements outlined in the insurance policy.",
@@ -7,6 +40,83 @@
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5c9d5ae3355f",
+    "title": "Extra-Legroom Economy Is Now The Highest-Margin Real Estate On A US Narrowbody",
+    "summary": "How much money can an airline make on these in-demand seats?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T19:00:19Z",
+    "url": "https://simpleflying.com/extra-legroom-economy-highest-margin-real-estate-us-narrowbody/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "36234a1fd264",
+    "title": "Alaska Airlines Says Long-Haul Flights 'A Drag': 9 Nonstop Routes",
+    "summary": "Premium demand surges on London flights while newer long-haul sectors work to build steady, mature load factors.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T18:26:42Z",
+    "url": "https://simpleflying.com/alaska-airlines-long-haul-flights-a-drag/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f562e99bc9c0",
+    "title": "United Airlines Launches New 6-Hour Nonstop Boeing 737 MAX Routes: See Map Now",
+    "summary": "Only one of the transcontinental services have seen United before. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T18:00:20Z",
+    "url": "https://simpleflying.com/united-airlines-unveils-new-6-hour-nonstop-boeing-737-max-route/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "87185380261e",
+    "title": "The 4-Engine Cessna Business Airliner That Met Its Design Goals, Then Was Canceled 14 Months After 1st Flight",
+    "summary": "The tale of Cessna's ill-fated foray into post-war business aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T18:00:20Z",
+    "url": "https://simpleflying.com/4-engine-cessna-business-airliner-met-design-goals-canceled-14-months-1st-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2af75f87c5b4",
+    "title": "Archer Plans Electric Air Taxi Operations at GA Facilities in Texas",
+    "summary": "Commercial passenger service won\u2019t begin immediately, but the company is beginning to lay the groundwork.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-10-23T18:00:00Z",
+    "url": "https://www.flyingmag.com/archer-electric-air-taxis-ga-airports-texas/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "06a296f9e98b",
+    "title": "Allegiant Air Cancels 8 Routes From This City: See Full List Now",
+    "summary": "Seasonal demand and leisure-first strategy prompt aircraft redeployment, reshaping connections and leaving gaps in service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T17:53:10Z",
+    "url": "https://simpleflying.com/allegiant-air-cancels-8-routes-from-this-city/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7f87b16895f4",
+    "title": "FAA orders checks on nearly 2,000 Boeing 737s after pitch oscillation events",
+    "summary": "The US Federal Aviation Administration (FAA) has ordered inspections of nearly 2,000 Boeing 737 Next Generation aircraft after&#8230; The post FAA orders checks on nearly 2,000 Boeing 737s after pitch oscillation events appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-23T16:26:25Z",
+    "url": "https://www.aerotime.aero/articles/faa-boeing-737ng-stabilizer-inspections",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -19,6 +129,17 @@
     "publishedDate": "2026-10-23T16:00:19Z",
     "url": "https://simpleflying.com/boeing-737-800bcf-airbus-a321-p2f-freighter-efficient/",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "075d1babe492",
+    "title": "Viasat boosts satellite capacity fivefold for business jet Wi-Fi in US",
+    "summary": "Viasat has increased the satellite network capacity available to its JetXP business aviation customers across the United States&#8230; The post Viasat boosts satellite capacity fivefold for business jet Wi-Fi in US appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-23T15:29:58Z",
+    "url": "https://www.aerotime.aero/articles/viasat-jetxp-business-jet-wifi-us-capacity",
+    "airlineTag": "United Airlines",
     "isBreaking": false
   },
   {
@@ -2075,127 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-17T12:28:16Z",
     "url": "https://simpleflying.com/video/klm-reveals-its-first-5-routes-for-brand-new-airbus-a350s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "643a6e7742ce",
-    "title": "Boeing 737 MAX Vs. COMAC C919: How These Homegrown Airliners Stack Up In 2026",
-    "summary": "The COMAC C919 has only just left China and has extensive production difficulties. Yet the fallout from the 737 MAX crisis continues.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T12:00:16Z",
-    "url": "https://simpleflying.com/boeing-737-max-comac-c919-homegrown-airlines-stack-up-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "45d5ad01b1d8",
-    "title": "Drone TFR Takes Effect for Entire U.S.-Mexico Border",
-    "summary": "Restrictions will bar unauthorized drone activity within 1 nm of the Southern border, up to 400 feet.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-17T12:00:00Z",
-    "url": "https://www.flyingmag.com/drone-tfr-takes-effect-entire-us-mexico-border/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2642897e8ebe",
-    "title": "US Drops Mexican Airline Restrictions A Year After Blocking 13 Mexico City Routes",
-    "summary": "Mexico\u2019s airlines can apply for new US routes from Mexico City again, but under continued DOT oversight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T11:53:51Z",
-    "url": "https://simpleflying.com/us-drops-mexican-airline-restrictions-mexico-city-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c2ed1dd69a6",
-    "title": "How Many Aircraft Does The US Navy Have In 2026?",
-    "summary": "Breaking down the complex fleet of the world's second biggest air force.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T11:00:16Z",
-    "url": "https://simpleflying.com/how-many-aircraft-us-navy-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d2ca95b33058",
-    "title": "8 Largest Airline Loyalty Programs In The World By Disclosed Member Count",
-    "summary": "Discover the world's biggest airline loyalty programs, from United MileagePlus and Delta SkyMiles to Avios, LATAM Pass and Flying Blue.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T08:00:16Z",
-    "url": "https://simpleflying.com/largest-airline-loyalty-programs-disclosed-member-count/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a00a9a6ad7f1",
-    "title": "Boeing 737 MAX 10 Could Be Certified Next Week, But Airlines May Refuse Jets Over Software Glitch",
-    "summary": "Major US airlines have stuck with older flight management software, with one source describing it as \"the lesser of the two evils.\"",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T07:52:15Z",
-    "url": "https://simpleflying.com/boeing-737-max-10-certified-next-week-airlines-software-glitch/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "46e036ccfa6b",
-    "title": "Smoking Trash Can Forces American Airlines Boeing 737 Into Emergency U-Turn To O\u2019Hare",
-    "summary": "Emergency teams met the jet as passengers disembarked safely and a replacement service departed hours later.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T06:24:20Z",
-    "url": "https://simpleflying.com/american-airlines-boeing-737-emergency-return-ohare-trash-smoke/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "10563b2720ef",
-    "title": "Why American Airlines' Longest-Ever Flight Needs Just 51 Business Class Suites To Pencil Out",
-    "summary": "A closer look at some of the intricacies behind airline route economics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T01:45:17Z",
-    "url": "https://simpleflying.com/why-american-airlines-longest-ever-flight-needs-51-business-class-suites-to-pencil-out/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "433828f89ca1",
-    "title": "Where Do Retired C-130 Hercules Go? Montana's Final H-Models Show The Answer",
-    "summary": "Montana\u2019s 120th Airlift Wing is transitioning to the C-130J-30 as its retired C-130Hs face new futures in storage, training, or overseas service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T00:00:16Z",
-    "url": "https://simpleflying.com/where-retired-c-130-hercules-montana-final-h-models-answer/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "498f4dd48fdf",
-    "title": "A Legacy of Firsts",
-    "summary": "The large format glass cockpit, the live depiction of your aircraft on an approach plate, satellite and ground based datalink weather, the certification of the straight-and-level button &ndash; every one of those is standard across new general aviation aircraft today, and none...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-16T22:45:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/16/a-legacy-of-firsts?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b1faa9ba0129",
-    "title": "Why Does One Of The World's Biggest A380 Fleets Have Such A Small Network?",
-    "summary": "British Airways flies 12 A380s to seven destinations from one airport. Heathrow's slot cap explains both the fleet and the network.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-16T22:00:16Z",
-    "url": "https://simpleflying.com/british-airways-12-a380s-small-network-how-to-track/",
     "airlineTag": null,
     "isBreaking": false
   }
