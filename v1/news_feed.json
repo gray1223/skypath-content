@@ -1,5 +1,27 @@
 [
   {
+    "id": "2ad73618c403",
+    "title": "Starfighters Space: Inside The Company Flying F-104s From Kennedy Space Center",
+    "summary": "The American flying outfit using Cold War fighters to launch satellites.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T23:00:18Z",
+    "url": "https://simpleflying.com/starfighters-space-company-flying-f-104-kennedy-space-center/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "999ff01465d7",
+    "title": "Atlanta City Council Ratifies Delta Air Lines\u2019 $12 Million Takeover Of Spirit\u2019s Gates",
+    "summary": "Delta will secure two former Spirit gates in Atlanta, joining a nationwide scramble for the defunct airline's valuable airport assets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-23T21:30:38Z",
+    "url": "https://simpleflying.com/atlanta-ratifies-delta-air-lines-12-million-takeover-spirit-gates/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "2a29ae2c344b",
     "title": "Safety is Built In, Not Assumed: Keeping Collision Avoidance Ahead of the Traffic",
     "summary": "Combining TCAS and ADS-B In can give pilots more time to prevent midair collisions.",
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-10-17T15:00:17Z",
     "url": "https://simpleflying.com/real-reason-southwest-airlines-get-rid-boeing-737ngs-quickly-as-possible/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "649bcddc1650",
-    "title": "Why Lufthansa's Retired Boeing 747-400s Could Land At This Dutch Airport But Not Take Off",
-    "summary": "The airport's permission didn't allow the airline to take off.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T14:00:16Z",
-    "url": "https://simpleflying.com/lufthansa-retired-boeing-747-400s-land-dutch-airport-not-take-off/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "66d62e7bb79c",
-    "title": "KLM Reveals Its First 5 Routes For Brand-New Airbus A350s",
-    "summary": "Dutch flag carrier KLM Royal Dutch Airlines has revealed the first five routes on which it plans to deploy its brand-new Airbus A350-900s from its hub at Amsterdam Schiphol. The SkyTeam member plans to put the type into service on October 30, which, according AeroRoutes, is a ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T12:28:16Z",
-    "url": "https://simpleflying.com/video/klm-reveals-its-first-5-routes-for-brand-new-airbus-a350s/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
