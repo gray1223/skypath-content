@@ -1,5 +1,93 @@
 [
   {
+    "id": "c590d3078bf0",
+    "title": "Air Canada's Widebody Fleet: How The Boeing 777 & 787 Dreamliner Power Its Global Network",
+    "summary": "Air Canada is making important changes to its widebody fleet, changes that could allow the airline to outperform many of its rivals in the future",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T15:00:19Z",
+    "url": "https://simpleflying.com/air-canda-widebody-fleet-boeing-777-787-dreamliner-power-global-network/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8ecc0904ab33",
+    "title": "Why The 737-900 Didn't Turn Out To Be The Success Boeing Wanted It To Be",
+    "summary": "Underwhelming performance and tough competition led to limited success for the base Boeing 737-900.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T14:00:18Z",
+    "url": "https://simpleflying.com/why-737-900-didnt-turn-out-success-boeing-wanted/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6e7a7845bcdc",
+    "title": "easyJet Cancels 18 Nonstop Routes From The UK: See Full List Now",
+    "summary": "The airline operated these routes at some point between January and October 2026.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T12:57:41Z",
+    "url": "https://simpleflying.com/easyjet-cancels-18-uk-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a7962f44e620",
+    "title": "Taking Over Europe? Lufthansa Picked To Buy TAP Air Portugal",
+    "summary": "Lufthansa has defeated Air France-KLM to purchase a 44.9% share in TAP Air Portugal, according to the Independent. The two aviation groups were the only bidders. It is a significant step towards privatizing Portugal's airline. Although the deal is done, it still requires Europ...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T12:15:19Z",
+    "url": "https://simpleflying.com/video/taking-over-europe-lufthansa-picked-to-buy-tap-air-portugal/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3a773afac9eb",
+    "title": "What SR-71 Blackbird Pilots Had To Do Before Missions That Most Other Pilots In History Have Never Done",
+    "summary": "The SR-71 was one of the most extreme airplanes ever built and forced pilots to often train and prepare more like astronauts than typical pilots.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T12:01:17Z",
+    "url": "https://simpleflying.com/sr-71-blackbird-pilot-preflight-mission-routine/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "804557ed40e1",
+    "title": "The 50-Seat Jet With A First Class Cabin United Airlines Is Using To Rebuild Its Newark Hub Feed",
+    "summary": "United is aiming to bring feeder traffic back to Newark by using a first class cabin on a regional jet. What does this actually mean for passengers?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T12:00:19Z",
+    "url": "https://simpleflying.com/50-seat-jet-first-class-cabin-united-airlines-using-rebuild-newark-hub/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4c7e24aa8e79",
+    "title": "Nearly 2,000 Boeing 737s Must Get Tail Inspections After Jets Pitched Up And Down Mid-Flight",
+    "summary": "The FAA warned of a potential loss of control as it ordered checks on nearly 2,000 Boeing 737NGs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T11:08:29Z",
+    "url": "https://simpleflying.com/nearly-2000-boeing-737-tail-inspections-faa/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9e00e48648a0",
+    "title": "Here's Why Airlines Now Can't Live Without The Aircraft That Was Developed By A Regional Jet Maker",
+    "summary": "How the Airbus catapult Bombardier's small single-aisle to global success.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T11:00:19Z",
+    "url": "https://simpleflying.com/airlines-now-cant-live-without-aircraft-regional-jet-maker/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "8411432664a0",
     "title": "8 Of The World's Largest Widebody Fleets: Who Flies The Most Twin-Aisles?",
     "summary": "Emirates' huge 777 and A380 sub-fleets see it top the list.",
@@ -105,7 +193,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -402,7 +490,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -446,7 +534,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -457,7 +545,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -468,7 +556,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -479,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -545,7 +633,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,7 +930,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -897,7 +985,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -919,7 +1007,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1271,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1205,7 +1293,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1348,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-17T23:00:16Z",
     "url": "https://simpleflying.com/us-legacy-carriers-fly-pentagon-civil-reserve-air-fleet/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c62745597400",
-    "title": "How Much Does It Cost To Get A Private Pilot License In 2026?",
-    "summary": "Breaking down the price to fly.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T21:00:16Z",
-    "url": "https://simpleflying.com/how-much-cost-private-pilot-license-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f70f90c24f7b",
-    "title": "Nose To Tail: American Airlines To Reportedly Replace Windows On Older Boeing 787 Dreamliners",
-    "summary": "Passengers pressing buttons ignore that it can take a minute for the electrochromic panes to go from bright to dark.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T20:46:30Z",
-    "url": "https://simpleflying.com/american-airlines-reportedly-replace-windows-older-boeing-787s/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "7ded1dab79a1",
-    "title": "Flight Attendant Dispute Forces Delta Connection Captain To Request Ground Intervention",
-    "summary": "Crew discord midflight prompted mediation plans and separation measures before passengers disembarked in Detroit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T20:34:21Z",
-    "url": "https://simpleflying.com/flight-attendant-dispute-delta-connection-captain-ground-intervention/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "b11d9c1d91a5",
-    "title": "The 6 Rarest Twin-Engine Aircraft Variants Flown By US Carriers In 2026",
-    "summary": "Six Rare Aircraft Variants Still Flying With US Airlines In 2026: Some Are Becoming Harder To Find, But Which Ones Are Left?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T20:00:16Z",
-    "url": "https://simpleflying.com/6-rarest-twin-engine-aircraft-variants-us-carriers-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d67525668c8f",
-    "title": "American Airlines\u2019 New Airbus A321XLR Breaks Out From Normal Routes To Sub Hub Flights Instead",
-    "summary": "A321XLR deployment brought 20 Flagship Suites and 12 premium economy seats to a Charlotte flight normally served by the A321neo.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T19:12:23Z",
-    "url": "https://simpleflying.com/american-airlines-new-airbus-a321xlr-breaks-out-normal-routes-sub-hub-flights/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bea56f6f8824",
-    "title": "Which US Carrier Operates The Most Aircraft Types In Its Mainline Fleet In 2026?",
-    "summary": "A full look into the fleet make-ups and strategies of American Airlines, Delta Air Lines, and United Airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T19:00:16Z",
-    "url": "https://simpleflying.com/which-us-carrier-operates-the-most-aircraft-types-in-its-mainline-fleet-in-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "f5ecabbb1e1b",
-    "title": "US Air Traffic Controllers Receive Nearly 3% Pay Bump, But Can\u2019t Leave Work Early Under New Deal",
-    "summary": "Longstanding early leave habits end as mandatory timekeeping and staffing shifts aim to curb risk and overtime pressures.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T18:42:50Z",
-    "url": "https://simpleflying.com/us-atc-pay-bump-cant-leave-early-new-deal/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "796caadde6a2",
-    "title": "End Of An Era: Why Did Lufthansa's A340-600 Have Restrooms In The Cargo Hold?",
-    "summary": "A closer look at why Lufthansa put lavatories in the A340's cargo hold, and how this unusual design improved space, comfort, and long-haul cabin flow.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T17:30:17Z",
-    "url": "https://simpleflying.com/why-did-lufthansa-airbus-a340-600-toilets-cargo-hold/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
