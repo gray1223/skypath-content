@@ -1,5 +1,49 @@
 [
   {
+    "id": "8411432664a0",
+    "title": "8 Of The World's Largest Widebody Fleets: Who Flies The Most Twin-Aisles?",
+    "summary": "Emirates' huge 777 and A380 sub-fleets see it top the list.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T08:00:18Z",
+    "url": "https://simpleflying.com/8-worlds-largest-widebody-fleets-flies-most-twin-aisles/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ec29c1be1d85",
+    "title": "JetBlue Creditors Call In Restructuring Experts As Shares Plummet To All-Time Low",
+    "summary": "The carrier's turnaround faces mounting pressure as fuel costs soar and creditors grow concerned.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T06:01:05Z",
+    "url": "https://simpleflying.com/jetblue-creditors-restructuring-experts-shares-all-time-low/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "3b0a347fd477",
+    "title": "US Fines Air France & KLM For Flying Delta Codeshares Too Low Over Iraqi Conflict Zone",
+    "summary": "The DOT has penalized over a hundred flights operated under Delta's code.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T06:00:03Z",
+    "url": "https://simpleflying.com/us-fines-air-france-klm-delta-codeshares-too-low-iraq/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "43a1a79f7e19",
+    "title": "Allegiant orders six more Boeing 737 MAX jets for 2028 delivery",
+    "summary": "Allegiant Air has ordered six additional Boeing 737 MAX aircraft for delivery in 2028, exercising its first purchase&#8230; The post Allegiant orders six more Boeing 737 MAX jets for 2028 delivery appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-24T03:42:03Z",
+    "url": "https://www.aerotime.aero/articles/allegiant-six-boeing-737-max-order-2028",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2ad73618c403",
     "title": "Starfighters Space: Inside The Company Flying F-104s From Kennedy Space Center",
     "summary": "The American flying outfit using Cold War fighters to launch satellites.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-10-17T17:30:17Z",
     "url": "https://simpleflying.com/why-did-lufthansa-airbus-a340-600-toilets-cargo-hold/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "00b1db3407f7",
-    "title": "What It's Like To Land On An Aircraft Carrier? The US Navy's Hardest Landing Explained",
-    "summary": "Landing on aircraft carriers has always been difficult with jets making it more difficult but computers also reducing the workload.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T17:00:16Z",
-    "url": "https://simpleflying.com/land-aircraft-carrier-us-navy-hardest-landing-explained/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8c32bdf15c17",
-    "title": "Only 68% Full: Will JetBlue End This Long-Haul Route To The UK?",
-    "summary": "Every seat counts on the transatlantic corridor's competitive long-haul routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T16:00:17Z",
-    "url": "https://simpleflying.com/only-68pc-full-will-jetblue-end-this-uk-route/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "d41969d94ef4",
-    "title": "C-40A Clipper: The US Navy's Boeing 737 That Not Many Know Exists",
-    "summary": "Exploring the unique 737 Next Generation 'combis' in naval service.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T16:00:17Z",
-    "url": "https://simpleflying.com/c-40-a-clipper-us-navy-boeing-737-not-many-know-exists/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0dadf6fcf881",
-    "title": "The Real Reason Why Southwest Airlines Is Trying To Get Rid Of Its Boeing 737NGs As Quickly As Possible",
-    "summary": "The carrier is hyperfocused on fleet simplicity and fuel efficiency for now.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-17T15:00:17Z",
-    "url": "https://simpleflying.com/real-reason-southwest-airlines-get-rid-boeing-737ngs-quickly-as-possible/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
