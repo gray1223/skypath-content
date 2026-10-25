@@ -1,5 +1,49 @@
 [
   {
+    "id": "58300e08d0dc",
+    "title": "Why WestJet Is Sending Boeing 737 MAX 8 Recliners Across The Atlantic While American & JetBlue Bet On Lie-Flats",
+    "summary": "American Airlines and JetBlue dedicate far more seating to premium passengers on long-and-thin routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T20:00:19Z",
+    "url": "https://simpleflying.com/why-westjet-sending-boeing-737-max-8-recliners-across-atlantic-american-jetblue-bet-lie-flat/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "cd9f2dd9b7ae",
+    "title": "Air Canada Cancels 9 Nonstop Routes From Major City: See Map Now",
+    "summary": "None of these will return in the airline's schedule in 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T18:01:22Z",
+    "url": "https://simpleflying.com/air-canada-cancels-9-routes-from-major-city/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "44efac142585",
+    "title": "Delta Air Lines Won't Get Its Boeing 787-10s Until 2031, So The Airbus A350-1000 Has To Carry Its Asia Bet",
+    "summary": "The 787-10 has a five-year waitlist with Delta Air Lines, and in its absence, the A350-1000 is set to cover the all-important routes to Seoul Incheon.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T18:01:22Z",
+    "url": "https://simpleflying.com/delta-air-lines-boeing-787-10s-2031-airbus-a350-1000-carry-asia-bet/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "8b0ff93961e3",
+    "title": "Emirates Won Berlin With 7 Weekly Flights While Its 270 Boeing 777X Orders Stay Stalled",
+    "summary": "Emirates wins daily Berlin flights after decades of lobbying, but its 270 Boeing 777X orders face delays, rejected airframes and a 2027 debut.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T17:00:18Z",
+    "url": "https://simpleflying.com/emirates-won-berlin-7-weekly-flights-270-boeing-777x-orders-stalled/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "4e4279129076",
     "title": "United Airlines Launches New 14-Hour Ultra-Long Nonstop Route: See Map Now",
     "summary": "UA bumps up its Tokyo schedule right on time for the winter rush.",
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-19T11:07:16Z",
     "url": "https://simpleflying.com/video/the-hidden-problem-with-modern-jet-engines/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2dfec431ab8b",
-    "title": "Singapore Airlines Launches New 8-Hour Long-Haul Route In 1 Month: See Map Now",
-    "summary": "The airline's daily A350 flights will be the first widebody passenger service at the brand-new Australian airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T11:00:16Z",
-    "url": "https://simpleflying.com/singapore-airlines-launches-new-8-hour-route-1-month/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8a97e50845f",
-    "title": "Why The Boeing 777 Freighter Is The Cargo Workhorse Airlines Can\u2019t Replace",
-    "summary": "Discover how the Boeing 777F became a global air cargo workhorse and how the 777-8F and GE9X engines will shape the future of long-haul freight.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T11:00:16Z",
-    "url": "https://simpleflying.com/why-boeing-777-freighter-cargo-workhorse-airlines-cant-replace/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "258cb2d5e1d5",
-    "title": "Qantas Freight and Australia Post welcome A321 freighter ahead of Christmas peak",
-    "summary": "Qantas Freight and Australia Post have received the first of three additional Airbus A321 Passenger-to-Freighter (A321P2F) aircraft, it&#8230; The post Qantas Freight and Australia Post welcome A321 freighter ahead of Christmas peak appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-19T09:48:32Z",
-    "url": "https://www.aerotime.aero/articles/qantas-freight-and-australia-post-welcome-a321-freighter-ahead-of-christmas-peak",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3aca1248713c",
-    "title": "ICEYE-X36 radar satellite had close approach with Russian military satellite",
-    "summary": "Russia&#8217;s Cosmos 2612 military satellite may have passed within a few hundred meters of ICEYE-X36, a US-registered commercial&#8230; The post ICEYE-X36 radar satellite had close approach with Russian military satellite appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-19T09:02:12Z",
-    "url": "https://www.aerotime.aero/articles/russian-satellite-cosmos-2612-iceye-x36-close-approach",
     "airlineTag": null,
     "isBreaking": false
   }
