@@ -1,5 +1,93 @@
 [
   {
+    "id": "4e4279129076",
+    "title": "United Airlines Launches New 14-Hour Ultra-Long Nonstop Route: See Map Now",
+    "summary": "UA bumps up its Tokyo schedule right on time for the winter rush.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T15:30:09Z",
+    "url": "https://simpleflying.com/united-launches-new-14-hour-nonstop-route/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "cdd7812deb8f",
+    "title": "American Airlines Replaced Its 84-Mile Chicago Bus With Bombardier CRJ700 Jets After Travelers Booked 'Flights' That Weren't",
+    "summary": "The carrier replaced an 84-mile bus ride with jets, but cut departures in half. Why did South Bend get flights while Rockford lost its link?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T14:00:18Z",
+    "url": "https://simpleflying.com/american-airlines-replace-84-mile-chicago-bus-bombardier-crj700-travelers-flights-werent/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "6eade62db9a5",
+    "title": "How Lufthansa Allegris Is Changing Long-Haul Flying In 2026",
+    "summary": "The airline will finally be competitive with European and global competitors.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T13:00:18Z",
+    "url": "https://simpleflying.com/lufthansa-allegris-changing-long-haul-flying-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f70f90c24f7b",
+    "title": "Nose To Tail: American Airlines To Reportedly Replace Windows On Older Boeing 787 Dreamliners",
+    "summary": "When the Boeing 787 Dreamliner was introduced over 20 years ago, self-dimming passenger windows were among its many innovative features. With the touch of a button, a passenger could increase or decrease the transparency of the windows. This new feature replaced traditional fl...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T12:30:18Z",
+    "url": "https://simpleflying.com/video/nose-to-tail-american-airlines-to-reportedly-replace-windows-on-older-boeing-787-dreamliners/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4f9bb1dc9281",
+    "title": "Airbus Brochures The A321XLR At 4,700 Nautical Miles, But Airlines Actually Schedule 3,400 To 4,000",
+    "summary": "Analyzing the real world performance of the world's longest range narrowbody.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T12:00:18Z",
+    "url": "https://simpleflying.com/airbus-brochure-a321xlr-4700-nautical-miles-airlines-schedule-3400-4000/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e737b6924da9",
+    "title": "Elon Musk says Ukraine \u2018violated Starlink terms\u2019 as full speed service returns",
+    "summary": "Elon Musk has said that the Ukraine military &#8220;violated Starlink terms of service and used it for offensive&#8230; The post Elon Musk says Ukraine \u2018violated Starlink terms\u2019 as full speed service returns appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-25T11:53:49Z",
+    "url": "https://www.aerotime.aero/articles/elon-musk-ukraine-violated-starlink-terms-full-speed-service-returns",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "5e354be8238d",
+    "title": "Emirates Boss Names 3 US Cities That Could Land Their First Nonstop Flights To Dubai",
+    "summary": "The airline is weighing up three new US gateways as it awaits its delayed next-generation aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T11:37:01Z",
+    "url": "https://simpleflying.com/emirates-denver-detroit-philadelphia-dubai-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ee9d95c5f681",
+    "title": "Mach 1.58 & 9G: How This British YouTuber Flew A US Air Force F-16",
+    "summary": "Join Louis Skupien inside an F-16 Fighting Falcon at Edwards AFB and discover the thrill of flying one of the world's most agile fighters.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T11:00:18Z",
+    "url": "https://simpleflying.com/what-its-like-to-fly-f-16/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "0b7d0c69de5a",
     "title": "Delta One's 'Biggest Overhaul In 30 Years' Still Has A Smaller Screen Than United's Polaris Studio",
     "summary": "Delta One's rebrand covers every aspect of the in-flight experience, from culinary additions to aesthetics.",
@@ -369,7 +457,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +754,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -710,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -721,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -732,7 +820,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -743,7 +831,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -809,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1106,7 +1194,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1161,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1271,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1447,7 +1535,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1469,7 +1557,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1524,7 +1612,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-19T09:02:12Z",
     "url": "https://www.aerotime.aero/articles/russian-satellite-cosmos-2612-iceye-x36-close-approach",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c9ea2616d22b",
-    "title": "Delta One Vs. United Polaris: Which Long-Haul Business Class Is Superior In 2026?",
-    "summary": "Delta One and United Polaris are leading business class products, but which one is the better choice? Is network coverage better than luxury?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T08:00:17Z",
-    "url": "https://simpleflying.com/delta-one-united-polaris-long-haul-business-class-superior-2026/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d274ddbc4388",
-    "title": "VietJet faces worldwide asset freeze over $250 million aircraft leasing debt",
-    "summary": "The UK Commercial Court has granted a worldwide freezing order against VietJet Aviation after aircraft finance company FW&#8230; The post VietJet faces worldwide asset freeze over $250 million aircraft leasing debt appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-19T03:00:00Z",
-    "url": "https://www.aerotime.aero/articles/vietjet-faces-worldwide-asset-freeze-over-250-million-aircraft-leasing-debt",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3b4146245aa7",
-    "title": "United Airlines Unveils 5 New Nonstop Routes: See Full List Now",
-    "summary": "United is teaming up with Air Canada to give flyers more choices.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T01:18:59Z",
-    "url": "https://simpleflying.com/united-airlnes-5-new-nonstop-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "632aa1beb22e",
-    "title": "Beechcraft Bonanza: How One Airplane Stayed In Production Since 1947",
-    "summary": "The loyal support base allowed the Bonanza to remain in production for longer than it should have.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T23:00:16Z",
-    "url": "https://simpleflying.com/beechcraft-bonanza-one-airplane-stayed-production-since-1947/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6ea3df292015",
-    "title": "Why The A-10 Warthog's Rescue Of A Downed F-15E Pilot Forced The US Air Force To Reverse Its Retirement",
-    "summary": "The US Air Force both wants to keep the Warthog in service for four more years and slash its A-10 fleet in half in Fiscal 2027.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T21:30:16Z",
-    "url": "https://simpleflying.com/why-a-10-warthog-rescue-downed-f-15e-pilot-forced-air-force-to-reverse-retirement/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "691657a19412",
-    "title": "The Biggest Passenger Gripe? Why American Airlines\u2019 New Flagship Suites Face Away From The Windows",
-    "summary": "Are seats that face away from the windows actually worth it? American Airlines made this decision for the A321XLR Flagship Suites.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T20:00:16Z",
-    "url": "https://simpleflying.com/why-american-airlines-new-flagship-suites-face-away-windows/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0b72e199ef09",
-    "title": "How The Cessna 172 Became The Most-Produced Aircraft In History",
-    "summary": "Celebrating 70 years of the Cessna 172 Skyhawk, explore its evolution, enduring market success, and vital role in pilot training.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T19:00:16Z",
-    "url": "https://simpleflying.com/how-cessna-172-most-produced-aircraft-history/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "38ffa12b001f",
-    "title": "This Is Breeze Airways' New #1 Airport: Is It Where You Think?",
-    "summary": "All change!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T18:00:16Z",
-    "url": "https://simpleflying.com/breeze-airways-new-no1-airport/",
-    "airlineTag": "Breeze Airways",
     "isBreaking": false
   }
 ]
