@@ -1,5 +1,38 @@
 [
   {
+    "id": "0b7d0c69de5a",
+    "title": "Delta One's 'Biggest Overhaul In 30 Years' Still Has A Smaller Screen Than United's Polaris Studio",
+    "summary": "Delta One's rebrand covers every aspect of the in-flight experience, from culinary additions to aesthetics.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T10:00:18Z",
+    "url": "https://simpleflying.com/delta-one-biggest-overhaul-30-years-smaller-screen-united-polaris-studio/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "55f0e25e05e8",
+    "title": "How Airlines Got Away With Only Paying Flight Attendants Once The Boarding Door Closed",
+    "summary": "A major bone of contention for flight attendants in the US.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T04:01:20Z",
+    "url": "https://simpleflying.com/airlines-got-away-only-paying-flight-attendants-once-boarding-door-closed/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "82bc88e5fc6a",
+    "title": "Sydney\u2019s New $14 Billion Airport Officially Opens As First Jetstar Flight Takes Off",
+    "summary": "Western Sydney unveils a curfew free $14 billion hub with sold out inaugural Jetstar flight and freight services.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T03:54:42Z",
+    "url": "https://simpleflying.com/western-sydney-international-airport-opens-first-jetstar-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d61b31276813",
     "title": "How Qatar Airways Is Rebalancing Its US East Coast Flying After American Airlines Quit Doha",
     "summary": "The reasoning behind Qatar Airways' recent network adjustments in the US, and why American Airlines pulled out of Doha.",
@@ -336,7 +369,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -633,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +721,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -699,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -710,7 +743,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -776,7 +809,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1073,7 +1106,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1128,7 +1161,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1150,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1414,7 +1447,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1436,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1491,7 +1524,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-10-18T18:00:16Z",
     "url": "https://simpleflying.com/breeze-airways-new-no1-airport/",
     "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "9acfd57e4273",
-    "title": "How Many Flights Does Delta Air Lines Operate Per Day In 2026?",
-    "summary": "As one of the world's leading airlines, Delta Air Lines has an incredibly large route network. On a given day, how many Delta flights depart?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T18:00:16Z",
-    "url": "https://simpleflying.com/how-many-flightd-delta-air-lines-operate-day-2026/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "0ca805eb6c0b",
-    "title": "Why Some Pilots Quietly Hate Sleeping On The Airbus A350 That Passengers Love",
-    "summary": "The A350's reputation as a 'passenger favorite' masks a more complex truth for flight crews, whose rest experiences can vary widely.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T17:30:16Z",
-    "url": "https://simpleflying.com/why-some-pilots-quietly-hate-sleeping-on-airbus-a350-passengers-love/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "24c5cbda8c96",
-    "title": "The Embraer E175: How One Regional Jet Connects Small-Town America",
-    "summary": "How Brazil's most popular puddle jumper keeps Americans in the air.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T15:00:17Z",
-    "url": "https://simpleflying.com/embraer-e175-one-regional-jet-connects-small-town-america/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
