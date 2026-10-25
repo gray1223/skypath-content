@@ -1,5 +1,60 @@
 [
   {
+    "id": "d61b31276813",
+    "title": "How Qatar Airways Is Rebalancing Its US East Coast Flying After American Airlines Quit Doha",
+    "summary": "The reasoning behind Qatar Airways' recent network adjustments in the US, and why American Airlines pulled out of Doha.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T23:00:18Z",
+    "url": "https://simpleflying.com/how-qatar-airways-rebalancing-us-east-coast-flying-american-airlines-quit-doha/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "19bc4272d34c",
+    "title": "Boeing 737 MAX Cockpit: What Pilots See & Do On Every Flight",
+    "summary": "Legacy is no more apparent than within the cockpit of the Boeing 737 MAX, taking an original, time-tested design and bringing it into the future",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T22:00:18Z",
+    "url": "https://simpleflying.com/boeing-737-max-cockpit-pilots-see-do-every-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "eb3dceb7a64b",
+    "title": "Here's Why Australia Canceled Its Order For F-35 Fighter Jets",
+    "summary": "Australia has extended the life of its Super Hornets, allowing it to cancel its final order of F-35s with the option to buy them another day.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T21:30:19Z",
+    "url": "https://simpleflying.com/why-australia-canceled-its-order-for-f-35-fighter-jets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aabafd4dfb4b",
+    "title": "Why The Embraer E175's Thrust Sounds Loud For A Regional Jet",
+    "summary": "The E175's engines have a small bypass ratio by today's standards",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T21:00:19Z",
+    "url": "https://simpleflying.com/embraer-e175-thrust-loud-regional-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "21372a59f057",
+    "title": "Reports: United Airlines Planning To Open New Crew Bases In Dallas/Fort Worth & Sacramento",
+    "summary": "United says the new bases will recuce hotel costs and the need for layovers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-24T20:27:19Z",
+    "url": "https://simpleflying.com/united-airlines-planning-open-new-crew-bases-dallas-fort-worth-sacramento/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "ab2f8177b3c9",
     "title": "FAA\u2019s Chicago Flight Restrictions Against United & American Airlines Could Last Until 2034",
     "summary": "Major new concourses and phased taxiway closures will reshape Chicago operations while travelers face fewer nonstop options.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-18T15:00:17Z",
     "url": "https://simpleflying.com/embraer-e175-one-regional-jet-connects-small-town-america/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "986f361dbfe7",
-    "title": "Navy Pilot To Airline Captain: How Military Aviators Move To Delta, United & American Airlines",
-    "summary": "Trading the flight deck for the jet bridge after a career of service.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-10-18T14:00:16Z",
-    "url": "https://simpleflying.com/how-military-aviators-move-delta-united-american-airlines/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "807434b94b0f",
-    "title": "The Striking Differences Flight Attendants Notice Working On A Mainline Aircraft Vs. A Regional Jet",
-    "summary": "The same job but very different circumstances.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T13:00:17Z",
-    "url": "https://simpleflying.com/striking-differences-flight-attendants-notice-mainline-aircraft-regional-jet/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b54f39adc1c6",
-    "title": "American Airlines Passengers Evacuate Onto Runway After Cabin Haze Forces Emergency Landing",
-    "summary": "Some passengers jumped from the wing after oxygen masks deployed shortly after takeoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T12:42:21Z",
-    "url": "https://simpleflying.com/american-airlines-passengers-evacuate-st-louis-runway-odor-emergency-landing/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4d98ff3719c3",
-    "title": "TSA Launches Military 'Honor Lanes' - Will They Cause Longer Lines For Regular Flyers?",
-    "summary": "The US Transportation Security Administration (TSA) has rolled out a new perk for American military veterans and current service members, as well as their families, at more than 30 airports across the US. This comes in the form of a dedicated 'Honor Lane' at security checkpoin...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-18T12:29:17Z",
-    "url": "https://simpleflying.com/video/tsa-launches-military-honor-lanes-will-they-cause-longer-lines-for-regular-flyers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7a1ee9e42fbd",
-    "title": "Pakistan extends airspace ban on Indian airlines",
-    "summary": "Pakistan has extended its airspace ban on Indian aircraft for another month, keeping restrictions in place until November&#8230; The post Pakistan extends airspace ban on Indian airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-18T11:01:26Z",
-    "url": "https://www.aerotime.aero/articles/pakistan-extends-airspace-ban-on-indian-airlines",
     "airlineTag": null,
     "isBreaking": false
   }
