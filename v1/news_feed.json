@@ -1,5 +1,27 @@
 [
   {
+    "id": "ac1be14e0054",
+    "title": "Frontier Airlines Begins Retrofitting Aircraft, Sets First Class Launch Date For Early March",
+    "summary": "Frontier quietly starts cabin retrofits installing eight first class seats per plane with power and Starlink WiFi.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T22:22:46Z",
+    "url": "https://simpleflying.com/frontier-airlines-begins-retrofitting-aircraft-launch-date-first-class-early-march/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b32469db4b13",
+    "title": "How Airbus' New Clean Sheet Freighter Challenges Boeing\u2019s  Dominance In The Cargo Sector",
+    "summary": "Airbus presses its advantage with composite-heavy A350F claiming 11% more volume and shared spares with A350 passenger fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-25T21:00:18Z",
+    "url": "https://simpleflying.com/airbus-new-clean-sheet-feighter-challenge-boeing-dominance-cargo-sector/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "58300e08d0dc",
     "title": "Why WestJet Is Sending Boeing 737 MAX 8 Recliners Across The Atlantic While American & JetBlue Bet On Lie-Flats",
     "summary": "American Airlines and JetBlue dedicate far more seating to premium passengers on long-and-thin routes.",
@@ -501,7 +523,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -798,7 +820,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -853,7 +875,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -864,7 +886,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -875,7 +897,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -941,7 +963,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1238,7 +1260,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1293,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1315,7 +1337,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1579,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1601,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1656,7 +1678,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2174,28 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-19T12:22:58Z",
     "url": "https://www.aerotime.aero/articles/denmark-kongsberg-naval-strike-missiles-coastal-defense",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4a268595172f",
-    "title": "FlyRight to Relocate King Air C90A Sim to Brazil",
-    "summary": "Company will deliver its Level C full flight simulator to the largest regional aircraft training center in Latin America.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-10-19T12:00:00Z",
-    "url": "https://www.flyingmag.com/flyright-king-air-c90a-flight-simulator-brazil/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cf51fa76ff35",
-    "title": "The Hidden Problem With Modern Jet Engines",
-    "summary": "In this video, we'll examine why the aviation industry's newest generation of engines hasn't delivered the reliability airlines expected, how Pratt & Whitney and Rolls-Royce found themselves at the center of the crisis, and why today's problems could influence how airlines cho...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T11:07:16Z",
-    "url": "https://simpleflying.com/video/the-hidden-problem-with-modern-jet-engines/",
     "airlineTag": null,
     "isBreaking": false
   }
