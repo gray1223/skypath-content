@@ -1,5 +1,148 @@
 [
   {
+    "id": "cddd226abf20",
+    "title": "Chasing History in the T-6 \u2018Pilot Maker\u2019",
+    "summary": "Quest to retrace grandfather\u2019s WWII training leads to visceral, living connection to past.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-10-26T12:00:00Z",
+    "url": "https://www.flyingmag.com/chasing-history-in-the-t-6-pilot-maker/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c245a8e8d548",
+    "title": "JAL expands driverless towing tractors to Fukuoka after Haneda and Narita",
+    "summary": "Japan Airlines (JAL) announced it has started Level 4 autonomous towing tractor operations at Fukuoka Airport (FUK), making&#8230; The post JAL expands driverless towing tractors to Fukuoka after Haneda and Narita appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-26T11:40:06Z",
+    "url": "https://www.aerotime.aero/articles/jal-expands-driverless-towing-tractors-to-fukuoka-after-haneda-and-narita",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c0eca2fb7212",
+    "title": "easyJet proceeds with Starlink Wi-Fi despite previous cost concerns",
+    "summary": "easyJet will introduce Starlink Wi-Fi across its Airbus fleet despite stating earlier this year, following talks with SpaceX,&#8230; The post easyJet proceeds with Starlink Wi-Fi despite previous cost concerns appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-26T11:00:56Z",
+    "url": "https://www.aerotime.aero/articles/easyjet-starlink-wifi-spacex-airbus-elon-musk",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3ef93419d04f",
+    "title": "Why Delta Has To Wait Until 2031 For Its Boeing 787s",
+    "summary": "In this video, we'll examine Delta's surprising Boeing 787-10 order, why its delivery timeline complicates the airline's fleet plans, and how the Dreamliner could reshape its long-haul network in the 2030s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T11:00:20Z",
+    "url": "https://simpleflying.com/video/why-delta-has-to-wait-until-2031-for-its-boeing-787s/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "baee7020ca69",
+    "title": "The SR-71 Blackbird Was Never Built To Exceed Mach 3.3, According To Its Record Pilot",
+    "summary": "Discover why the SR-71 Blackbird\u2019s incredible speed came with strict operational limits, despite its ability to outrun many threats.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T11:00:20Z",
+    "url": "https://simpleflying.com/sr-71-blackbird-never-built-exceed-mach-3-3-record-pilot/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "22c6233fdad3",
+    "title": "How Much Money Do Boeing 777X Test Pilots Earn In 2026?",
+    "summary": "Unlike traditional airline pilots, Boeing's flight-test crews are tasked with pushing an unfinished aircraft into extreme operating conditions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T10:31:13Z",
+    "url": "https://simpleflying.com/how-much-boeing-777x-test-pilots-earn-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d6ca453a16c0",
+    "title": "Singapore Airlines Launches New 16-Hour Route Today: See Map Now",
+    "summary": "The Singaporean carrier is returning to a European capital it last served in 2004.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T10:27:12Z",
+    "url": "https://simpleflying.com/singapore-airlines-launches-new-16-hour-route-today/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "995fe1613d53",
+    "title": "Southwest Airlines Sued By Flight Attendant Over Failing To Accommodate Severe Pet Allergy",
+    "summary": "America's leading affordable airline hits with claims of unlawful practices.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T09:57:42Z",
+    "url": "https://simpleflying.com/southwest-airlines-sued-flight-attendant-failing-accomodate-severe-pet-allergy/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "10939b114943",
+    "title": "Philippines probes fatal SF-260 midair collision that killed four PAF pilots",
+    "summary": "The Philippines\u2019 Department of National Defense (DND) has opened an investigation into a crash involving two Philippine Air&#8230; The post Philippines probes fatal SF-260 midair collision that killed four PAF pilots appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-26T09:04:40Z",
+    "url": "https://www.aerotime.aero/articles/philippines-probes-fatal-sf-260-midair-collision-that-killed-four-paf-pilots",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "554408e4ca22",
+    "title": "American Airlines Fell From 14.6 To 0.6% Of The JFK\u2013Seattle Market & Is Coming Back On The Airbus A321neo",
+    "summary": "The airline will relaunch service with two daily flights starting in April 2027.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T08:00:19Z",
+    "url": "https://simpleflying.com/american-airlines-fell-jfk-seattle-market-coming-back-airbus-a321neo/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "136619018847",
+    "title": "The US Air Force Is Pouring 20 Acres Of Concrete At Guam's Andersen AFB But Refuses To Build Shelters",
+    "summary": "How America is investing in air power over the Pacific.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T06:58:38Z",
+    "url": "https://simpleflying.com/usaf-pouring-20-acres-concrete-guam-andersen-afb-refuses-build-shelters/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9a9363cdad3d",
+    "title": "United Crew Spots Passenger \u201cTexting He Was Going To Hijack\u201d Plane, Cockpit Locked Down",
+    "summary": "A Las Vegas flight turned back after cabin crew spotted a disturbing text and officers met the aircraft on return.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T06:28:49Z",
+    "url": "https://simpleflying.com/united-airlines-passenger-hijack-text-cockpit-locked-down/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "5e354be8238d",
+    "title": "Emirates Boss Names 3 US Cities That Could Land Their First Nonstop Flights To Dubai",
+    "summary": "The airline is weighing up three new US gateways as it awaits its delayed next-generation aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T06:04:15Z",
+    "url": "https://simpleflying.com/emirates-denver-detroit-philadelphia-dubai-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ac1be14e0054",
     "title": "Frontier Airlines Begins Retrofitting Aircraft, Sets First Class Launch Date For Early March",
     "summary": "Frontier quietly starts cabin retrofits installing eight first class seats per plane with power and Starlink WiFi.",
@@ -128,17 +271,6 @@
     "category": "industry",
     "publishedDate": "2026-10-25T11:53:49Z",
     "url": "https://www.aerotime.aero/articles/elon-musk-ukraine-violated-starlink-terms-full-speed-service-returns",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5e354be8238d",
-    "title": "Emirates Boss Names 3 US Cities That Could Land Their First Nonstop Flights To Dubai",
-    "summary": "The airline is weighing up three new US gateways as it awaits its delayed next-generation aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-25T11:37:01Z",
-    "url": "https://simpleflying.com/emirates-denver-detroit-philadelphia-dubai-flights/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -523,7 +655,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -820,7 +952,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -864,7 +996,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -875,7 +1007,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -886,7 +1018,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -897,7 +1029,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -963,7 +1095,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1260,7 +1392,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1315,7 +1447,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1337,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1601,7 +1733,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1623,7 +1755,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1678,7 +1810,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2065,138 +2197,6 @@
     "publishedDate": "2026-10-19T20:18:48Z",
     "url": "https://simpleflying.com/frontier-airlines-cancels-21-international-routes/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "c7d358b0d950",
-    "title": "FAA Proposes Inspections for 980 Airbus Helicopters",
-    "summary": "The proposal follows similar problems on other Airbus models, including one case involving a disconnected rotor-control fitting.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-19T19:43:58Z",
-    "url": "https://avweb.com/aviation-news/faa-proposes-inspections-for-980-airbus-helicopters/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "10c944493f61",
-    "title": "Breeze Airways Launches 12 New Routes To Famous Destination: See Full List Now",
-    "summary": "One will take off later this year, while 11 will do so next year. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T19:00:16Z",
-    "url": "https://simpleflying.com/breeze-airways-launches-12-new-routes-to-famous-destination/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "978572e09d41",
-    "title": "Southwest Airlines' Red-Eyes: How The Carrier's Overnight Network Works In 2026",
-    "summary": "Southwest changed decades of tradition by introducing overnight flights. How has this changed the airline's route network?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T19:00:16Z",
-    "url": "https://simpleflying.com/southwest-airlines-red-eyes-overnight-network-works-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "b6f965b9601e",
-    "title": "Gen3 Cessna Citation Light Jets Surpass 1,220 Flight Hours",
-    "summary": "Textron Aviation targets FAA certification for its CJ4 in 2026 and CJ3 and M2 in \u201927.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-19T17:30:00Z",
-    "url": "https://www.flyingmag.com/gen3-cessna-citation-jets-1220-flight-test-hours/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "01e6e6f92aea",
-    "title": "Delta Air Lines Just Ordered 30 Boeing 787-10s, But Won't Receive A Single One Until 2031",
-    "summary": "A five-year wait raises questions about replacements, engines, and capacity.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T17:00:16Z",
-    "url": "https://simpleflying.com/delta-air-lines-ordered-30-boeing-787-10s-wont-receive-single-one-2031/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "97e7b20e6e60",
-    "title": "Austrian Airlines jet diverts under fighter escort after bomb threat",
-    "summary": "An Austrian Airlines flight from Tel Aviv to Vienna diverted to Sofia, Bulgaria, under Bulgarian fighter escort on&#8230; The post Austrian Airlines jet diverts under fighter escort after bomb threat appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-19T16:33:00Z",
-    "url": "https://www.aerotime.aero/articles/austrian-airlines-bomb-threat-sofia-diversion",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4c3af9b7aa2a",
-    "title": "Icelandair Will Fly A 160-Seat Boeing 737 MAX 8 From St. Louis To Reykjavik With Southwest Airlines Connections",
-    "summary": "The economics behind this recent addition, and the impact of the Southwest partnership.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T15:00:17Z",
-    "url": "https://simpleflying.com/icelandair-fly-160-seat-boeing-737-max-8-st-louis-reykjavik-southwest-airlines-connections/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "be1f9a19a9ae",
-    "title": "American Airlines Gets New RECARO Seats On The Embraer E175",
-    "summary": "The first US-based E175 to have RECARO seating will fly under the American Eagle brand.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-19T14:46:34Z",
-    "url": "https://simpleflying.com/american-airlines-embraer-e175-new-recaro-seats/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8ae1107f5866",
-    "title": "FCC Proposes Rebates for Radio Altimeter Upgrades",
-    "summary": "Wireless providers would help fund FAA-mandated equipment modifications as C-band expansion moves forward.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-19T14:45:28Z",
-    "url": "https://avweb.com/aviation-news/fcc-rebates-radio-altimeter-upgrades/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "db6af566ea66",
-    "title": "Is Central Asia running into an air cargo capacity gap?",
-    "summary": "Central Asia is becoming a larger industrial and logistics market. The region faces an estimated $33 billion in&#8230; The post Is Central Asia running into an air cargo capacity gap? appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-19T14:15:37Z",
-    "url": "https://www.aerotime.aero/articles/is-central-asia-running-into-an-air-cargo-capacity-gap",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a9ecf02ed14f",
-    "title": "A Pilot Looks at 50",
-    "summary": "Three-year journey to earn a PPL late in life teaches that preparation\u2014not age\u2014is the true measure of an aviator.",
-    "source": "Flying Magazine",
-    "category": "training",
-    "publishedDate": "2026-10-19T13:00:00Z",
-    "url": "https://www.flyingmag.com/a-pilot-looks-at-50/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "33a67a893b08",
-    "title": "Denmark orders $42M in Naval Strike Missiles to bolster Baltic coastal defense",
-    "summary": "Denmark has ordered additional Naval Strike Missiles (NSM) from Norway\u2019s Kongsberg under a contract worth about NOK 400&#8230; The post Denmark orders $42M in Naval Strike Missiles to bolster Baltic coastal defense appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-19T12:22:58Z",
-    "url": "https://www.aerotime.aero/articles/denmark-kongsberg-naval-strike-missiles-coastal-defense",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
