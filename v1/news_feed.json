@@ -1,5 +1,148 @@
 [
   {
+    "id": "3422aaf460ae",
+    "title": "Training and Safety Tip: First principles",
+    "summary": "My workplace recently switched to a new phone system, and we all received training on operating the new phones. There are lots of bells and whistles, which can be intimidating, so the first thing the trainer told us was, \"It's a phone. When it rings, answer it.\"",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-10-28T00:21:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0b495b50e245",
+    "title": "Delta Air Lines Cancels This 7-Hour Nonstop Boeing 757 Route: See Map Now",
+    "summary": "Delta's Detroit\u2013Iceland cancellation leaves just two planned European Boeing 757 routes as the carrier gradually retires its aging fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T17:15:18Z",
+    "url": "https://simpleflying.com/delta-cancels-7-hour-757-route-europe/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f3bfe998f345",
+    "title": "Official: United Airlines World's New #1 Boeing 787 Operator",
+    "summary": "United Airlines has overtaken ANA as the world's largest Boeing 787 operator, with further Dreamliner expansion planned.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T16:30:18Z",
+    "url": "https://simpleflying.com/united-worlds-new-top-787-operator/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ab1995619c2b",
+    "title": "One-G Simulation Expands Into Canada With Swiss 12 Delivery to Air Bravo",
+    "summary": "PC-12 training device brings on-site simulator access to the Ontario-based regional carrier.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-10-27T16:30:00Z",
+    "url": "https://www.flyingmag.com/one-g-simulation-expands-into-canada-with-swiss-12-delivery-to-air-bravo/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "14a04079a4a8",
+    "title": "Which Engine Is More Powerful: CFM LEAP Or Pratt & Whitney GTF?",
+    "summary": "The two engines are among the most commonly used in commercial aviation today.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T16:01:19Z",
+    "url": "https://simpleflying.com/engine-more-power-cfm-leap-pratt-whitney-gtf/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9f4e99add515",
+    "title": "FAA Sets Rules for Embraer\u2019s Automatic Takeoff System",
+    "summary": "Proposed requirements address automated rotation and takeoff performance on the E195-E2.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-27T15:44:05Z",
+    "url": "https://avweb.com/aviation-news/faa-rules-for-embraer-automatic-takeoff/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2641b9dd2ead",
+    "title": "Atlantic Airways orders new Airbus jets in pursuit of all A320neo fleet",
+    "summary": "Atlantic Airways has placed a firm order with Airbus for two A320neo aircraft as the carrier pursues its&#8230; The post Atlantic Airways orders new Airbus jets in pursuit of all A320neo fleet appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-27T14:45:40Z",
+    "url": "https://www.aerotime.aero/articles/atlantic-airways-orders-new-airbus-all-a320neo-fleet",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b3552a528631",
+    "title": "An Airbus A319, An ATR 72 & A Deserted Airport: My Journey Through Myanmar During A Civil War",
+    "summary": "My experience with Myanmar Airways in 2026 was positive, given the stark realities the airline faces in the current environment.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T14:44:17Z",
+    "url": "https://simpleflying.com/myanmar-airlines-flight-review/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "24dfcd9adef9",
+    "title": "Airbus Boosts A320neo Order Book With New European Flag Carrier Deal",
+    "summary": "The airline eventually plans to operate an all-A320neo fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T14:36:17Z",
+    "url": "https://simpleflying.com/atlantic-airways-airbus-a320neo-order/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "48f06d2abee8",
+    "title": "Australian F-35As trained with Five Power Defence partners in Singapore",
+    "summary": "Royal Australian Air Force (RAAF) F-35A Lightning II fighters flew alongside Republic of Singapore Air Force (RSAF) jets&#8230; The post Australian F-35As trained with Five Power Defence partners in Singapore appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-27T13:36:30Z",
+    "url": "https://www.aerotime.aero/articles/australian-f-35as-trained-with-five-power-defence-partners-in-singapore",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "a48e1b904bc9",
+    "title": "TransMedics selects Galileo HDX to support time-critical organ delivery missions",
+    "summary": "TransMedics has selected Gogo Galileo HDX connectivity to support time-critical transplant organs while conducting potentially life-saving flights across&#8230; The post TransMedics selects Galileo HDX to support time-critical organ delivery missions appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-27T12:34:05Z",
+    "url": "https://www.aerotime.aero/articles/transmedics-gogo-galileo-hdx-time-critical-organ-delivery-missions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "996e41080bee",
+    "title": "Frontier Passengers Rush Exit Door, Clash With Crew After Nearly An Hour Trapped Without AC",
+    "summary": "Frontier Airlines flight 2052 landed at Hartsfield-Jackson Atlanta just after 7:30 PM on October 6th but a jet bridge malfunction left the passengers stuck in a powered-down airplane waiting for technical support. While the pilots departed, the travelers spent up to an hour in...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T12:27:18Z",
+    "url": "https://simpleflying.com/video/frontier-passengers-rush-exit-door-clash-with-crew-after-nearly-an-hour-trapped-without-ac/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "067af34a50ae",
+    "title": "How to Go About Taming the FAR/AIM",
+    "summary": "There are ways to navigate aviation\u2019s thickest reference manual without a pilot losing their mind.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-10-27T12:00:00Z",
+    "url": "https://www.flyingmag.com/how-to-go-about-taming-the-far-aim/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "da3e77cd7db0",
     "title": "SITA to acquire Flightscape, CAE\u2019s airline operations software business",
     "summary": "SITA has agreed to acquire Flightscape, the airline operations software business of Canada\u2019s CAE. The deal expands SITA\u2019s&#8230; The post SITA to acquire Flightscape, CAE\u2019s airline operations software business appeared first on AeroTime.",
@@ -167,7 +310,7 @@
   {
     "id": "f2b3471a0518",
     "title": "Video: Electra EL2 makes fixed-wing landing at Manhattan heliport",
-    "summary": "Electra\u2019s hybrid-electric EL2 takes off and lands at a Manhattan heliport, demonstrating technology for the company\u2019s planned nine-passenger EL9. The post Video: Electra EL2 makes fixed-wing landing at Manhattan heliport appeared first on AeroTime.",
+    "summary": "Electra flew its hybrid-electric EL2 airplane into a Lower Manhattan heliport, demonstrating its ability to take off and&#8230; The post Video: Electra EL2 makes fixed-wing landing at Manhattan heliport appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-10-26T19:47:02Z",
@@ -930,7 +1073,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1227,7 +1370,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-23T01:29:03Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/pr-aopa-air-safety-institute-releases-accident-case-study-on-deadly-utah-backcountry-crash?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1271,7 +1414,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:23:48Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/duffy-bedford-highlight-atc-progress-aam-milestone?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1282,7 +1425,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:14:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/fairbanks-tower-closing-at-night?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1293,7 +1436,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:51Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/aopa-foundation-awards-record-number-of-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1304,7 +1447,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T21:13:25Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/members-of-congress-talk-flying-lawmaking-at-nbaa-convention?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1513,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T19:42:37Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/new-film-jimmy-shines-light-on-jimmy-stewarts-world-war-ii-legacy?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1667,7 +1810,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/22/eflyer-2-completes-first-flight?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1722,7 +1865,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-22T01:25:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/pr-aopa-foundation-awards-more-than-2-2-million-in-scholarships?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1744,7 +1887,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T19:15:24Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/ease-into-night-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2008,7 +2151,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2030,7 +2173,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2053,149 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-21T00:00:15Z",
     "url": "https://simpleflying.com/how-us-navy-turn-boeing-737-submarine-hunter/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f45af5c0d517",
-    "title": "Why Southwest Airlines' Customer Of Size Second-Seat Refund Is A Gamble On Flights That Typically Run 80% Full",
-    "summary": "Southwest Customer of Size refund depends on flight occupancy, leaving plus-size travelers facing uncertain costs under its new seating policy",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-21T00:00:15Z",
-    "url": "https://simpleflying.com/southwest-airlines-customer-size-second-size-refund-gamble-flights-typically-80-full/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2c573b996f4d",
-    "title": "How TSA Wait Times Compare At America\u2019s 10 Busiest Airports",
-    "summary": "New York airports perform particularly poorly, while San Francisco's, which uses private contractors, perform well.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T23:00:16Z",
-    "url": "https://simpleflying.com/how-tsa-wait-times-compare-at-americas-10-busiest-airports/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f2011d130a94",
-    "title": "Training and Safety Tip: Respect rising terrain",
-    "summary": "I am fortunate to be able to fly in the beautiful mountains of the northeastern United States. While the height of these mountains can't compete with the towering mountains in the western part of the country, the same flight safety factors apply.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-20T22:07:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/20/training-and-safety-tip-respect-rising-terrain?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a84858e747a4",
-    "title": "How The Blue Angels Fly Just Inches Apart: Inside The US Navy\u2019s Demonstration Team",
-    "summary": "Breaking down the incredible skill and grit the Blues put on display at every show.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T22:00:15Z",
-    "url": "https://simpleflying.com/how-blue-angles-fly-inches-apart-inside-us-navy-demonstration-team/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e6527d0f304c",
-    "title": "Belgrade To Miami: Air Serbia Adds Its Longest US Route Yet With The Airbus A330",
-    "summary": "Air Serbia will launch nonstop Belgrade-Miami flights in May 2027, expanding its North American network with Airbus A330s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T21:43:04Z",
-    "url": "https://simpleflying.com/air-serbia-longest-us-route-airbus-a330/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3d20f5ef8f44",
-    "title": "Brand-New $125 Million, 37,000 Square-Foot VIP Private Terminal Is Coming To Washington Dulles Airport",
-    "summary": "Pricing details for commercial passengers using the facility have not yet been confirmed.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T21:33:21Z",
-    "url": "https://simpleflying.com/vip-private-terminal-washington-dulles/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1d033d602ade",
-    "title": "FAA Certifies Boeing 737 MAX 10",
-    "summary": "Approval clears the way for deliveries after years of delays and triggers new safety requirements across the MAX fleet.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-20T20:44:10Z",
-    "url": "https://avweb.com/aviation-news/faa-certifies-boeing-737-max-10/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4d9da006deac",
-    "title": "Business Aviation Pay Climbs 8% in 2026",
-    "summary": "New analysis shows compensation growth outpacing the broader U.S. labor market as operators face continued workforce pressures.",
-    "source": "AvWeb",
-    "category": "pay",
-    "publishedDate": "2026-10-20T20:01:54Z",
-    "url": "https://avweb.com/aviation-news/business-aviation-pay-climbs-8-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b1732565d8ab",
-    "title": "Frontier Airlines Cancels 7 Routes From World's Busiest Airport: See List Now",
-    "summary": "Seven routes were cut earlier this year from O'Hare amid heavy competition on corridors like Miami and Minneapolis.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T20:00:15Z",
-    "url": "https://simpleflying.com/frontier-airlines-cancels-7-routes-worlds-busiest-airport/",
-    "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3b8d248648c9",
-    "title": "Breaking: Boeing 737 MAX 10 Wins FAA Type Certification",
-    "summary": "After 6+ years of delays, the largest 737 MAX variant is finally cleared for takeoff.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T19:51:10Z",
-    "url": "https://simpleflying.com/boeing-737-max-10-faa-type-certification/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ed95b6e3c219",
-    "title": "Remotely Piloted Caravan Flies at Albuquerque Sunport",
-    "summary": "FAA-backed demonstration tests autonomous cargo operations as part of a national aviation integration program.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-20T18:51:03Z",
-    "url": "https://avweb.com/aviation-news/remotely-piloted-caravan-flies-albuquerque/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "24622ff22b51",
-    "title": "2 Days, 2 New US Cities: Lufthansa Adds Phoenix Airbus A350 Service In Record-Breaking Route Expansion",
-    "summary": "Lufthansa will launch three weekly Munich\u2013Phoenix flights in August 2027, adding Arizona to its network as the airline expands across the US.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T17:57:16Z",
-    "url": "https://simpleflying.com/lufthansa-phoenix-787-dreamliner-service/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "62d6caf43704",
-    "title": "SyberJet Unveils AI-Assisted Cockpit System",
-    "summary": "New SyberVision avionics will feature six touchscreen displays and automation designed for single-pilot operations.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-20T17:16:56Z",
-    "url": "https://avweb.com/aviation-news/business-aviation-news/syberjet-unveils-ai-assist-cockpit-system/",
     "airlineTag": null,
     "isBreaking": false
   }
