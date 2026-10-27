@@ -1,5 +1,49 @@
 [
   {
+    "id": "acc1716181f3",
+    "title": "Premium Push: The US Airlines Introducing First Class Cabins In 2027",
+    "summary": "Budget airlines are also looking to move upmarket.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T00:00:17Z",
+    "url": "https://simpleflying.com/us-airlines-introducing-first-class-cabins-2027/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "55f01c020563",
+    "title": "Canada receives first two F-35s as full purchase remains under review",
+    "summary": "Canada has received its first two Lockheed Martin F-35A fighters, beginning the replacement of its aging CF-18 fleet&#8230; The post Canada receives first two F-35s as full purchase remains under review appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-26T23:44:19Z",
+    "url": "https://www.aerotime.aero/articles/canada-first-two-f35-fighters-delivery",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc626c8d054a",
+    "title": "United 737 Declares Double Emergency After Landing Gear Fails, Has Just 10 Minutes Of Fuel Left",
+    "summary": "Crew declared an emergency after right main gear failed to deploy and fuel dwindled to under 12 minutes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T23:29:53Z",
+    "url": "https://simpleflying.com/united-double-emergency-landing-gear-fails-10-minutes-fuel/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9cc0c64b0966",
+    "title": "How A Single Maintenance Issue Can Pose A Real Bottleneck To Alaska Airlines' 5-Jet Transatlantic Operation",
+    "summary": "The fragility of a long-haul fleet that is just beginning to stretch its wings.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-26T23:00:17Z",
+    "url": "https://simpleflying.com/single-maintenance-issue-bottleneck-alaska-airlines-5-jet-transatlantic-operation/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "c6221c81ee4f",
     "title": "UPS Replaced Its McDonnell MD-11s With 18 Boeing 767Fs That Carry Roughly 65,000 Pounds Less Cargo Each",
     "summary": "Why USP ditched every one of its trijets for a Boeing twin.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-10-20T14:17:25Z",
     "url": "https://www.aerotime.aero/articles/hawaiian-airlines-hosts-largest-disability-practice-flight-aboard-an-airbus-a330",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7c3cc34ba442",
-    "title": "FAA Proposes $351,000 Fine Over Unauthorized Charter Flights",
-    "summary": "Arkansas operator accused of conducting 37 passenger flights outside its approved operating authority.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-20T14:12:55Z",
-    "url": "https://avweb.com/aviation-news/faa-proposes-fine-unauthorized-charter-ops/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "026b56a9f837",
-    "title": "Engine fire forces emergency evacuation of a LATAM A320 in Lima",
-    "summary": "A LATAM Airlines Airbus A320 aircraft, registration CC-BFS, had to be evacuated due to an engine fire while&#8230; The post Engine fire forces emergency evacuation of a LATAM A320 in Lima appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-20T14:07:59Z",
-    "url": "https://www.aerotime.aero/articles/engine-fire-forces-emergency-evacuation-of-a-latam-a320-in-lima",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dae1acc60ec3",
-    "title": "Allegiant Air Cancels 20 Nonstop Florida Routes: See Full List Now",
-    "summary": "Allegiant has dropped 20 Florida routes, but surprising passenger data reveals many were performing better than expected before cancellation.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T14:07:52Z",
-    "url": "https://simpleflying.com/allegiant-air-cancels-20-florida-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b1eb64529160",
-    "title": "Alaska Airlines Adds 2 New Long-Haul Nonstop Routes: See Schedules Now",
-    "summary": "The carrier will now have nine long-haul routes from Seattle in 2027. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-20T14:00:16Z",
-    "url": "https://simpleflying.com/alaska-airlines-adds-2-new-long-haul-nonstop-routes/",
-    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   }
 ]
