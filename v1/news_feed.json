@@ -1,5 +1,16 @@
 [
   {
+    "id": "9d6d579ca5a4",
+    "title": "Three ways to get more from your flight simulator",
+    "summary": "A flight simulator can help you log time, stay current, and keep training on bad-weather days. But it offers more than a substitute for the airplane. By letting you control conditions, introduce challenging scenarios, and pause to analyze what happens, a simulator creates prac...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-10-30T21:32:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "3422aaf460ae",
     "title": "Training and Safety Tip: First principles",
     "summary": "My workplace recently switched to a new phone system, and we all received training on operating the new phones. There are lots of bells and whistles, which can be intimidating, so the first thing the trainer told us was, \"It's a phone. When it rings, answer it.\"",
@@ -8,6 +19,105 @@
     "publishedDate": "2026-10-28T00:21:00Z",
     "url": "https://aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "48b725454fb1",
+    "title": "Colorado Pilot Battles County Over Electric Plane Commute",
+    "summary": "Jefferson County zoning rules have complicated a pilot's efforts to fly from his driveway to work.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-27T20:29:20Z",
+    "url": "https://avweb.com/aviation-news/colorado-pilot-battles-over-electric-plane/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "55c44403910b",
+    "title": "Metroliner Trim Inspections Ordered After In-Flight Failures",
+    "summary": "New directive addresses flight control concerns affecting nearly 200 U.S.-registered aircraft.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-10-27T19:54:15Z",
+    "url": "https://avweb.com/aviation-news/ad-metroliner-trim-inspections-in-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "bc8c4d1f240e",
+    "title": "Breeze Airways Launches 31 New Nonstop Routes: See Full List Now",
+    "summary": "A surge of direct flights links mid sized cities to sun soaked destinations with multiple Caribbean and domestic routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T19:53:21Z",
+    "url": "https://simpleflying.com/breeze-launches-31-new-nonstop-routes/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "efba8365bbec",
+    "title": "Allegiant Air Cancels All Flights To 4 Destinations: See Full List Now",
+    "summary": "They include three airports in one state. Find out more here!",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T19:30:17Z",
+    "url": "https://simpleflying.com/allegiant-air-cancels-all-flights-to-4-destinations/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1b659922af87",
+    "title": "Southwest Airlines The Ditched World's Busiest Airport In 2026: Here's Why",
+    "summary": "A network rethink reshaped Southwest's Chicago presence, prioritizing Midway's higher load factors and stability.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T19:13:18Z",
+    "url": "https://simpleflying.com/southwest-ditched-worlds-busiest-airport/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "cfe4093704a0",
+    "title": "Business Class Suites: 7 Airlines With Closing Doors In 2026",
+    "summary": "These seven airlines operate more aircraft equipped with sliding doors in business class than any other in the world.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T19:00:17Z",
+    "url": "https://simpleflying.com/business-class-suites-7-airlines-with-closing-doors-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e53c057f263d",
+    "title": "Retired KC-10A Starts New Life After Boneyard",
+    "summary": "Former military tanker reemerges after Air Force shuttered that fleet in 2024.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-10-27T19:00:00Z",
+    "url": "https://www.flyingmag.com/retired-air-force-kc10-new-life-after-boneyard/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "30f06cd36e14",
+    "title": "Heathrow Sparks Fury As Delta Forced To Move From Shared Virgin Atlantic Terminal",
+    "summary": "Heathrow's decision to separate Delta and Virgin Atlantic sparks competition concerns and potential legal challenges.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T18:49:57Z",
+    "url": "https://simpleflying.com/heathrow-delta-forced-move-shared-virgin-atlantic-terminal/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "31226951d8f3",
+    "title": "Alaska Airlines To Launch 8-Hour 737 MAX 8 Flights From Anchorage To Tokyo",
+    "summary": "Alaska Airlines plans daily Boeing 737 MAX 8 flights from Anchorage to Tokyo in summer 2027, with fares from $605, pending government approval.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-27T18:28:41Z",
+    "url": "https://simpleflying.com/alaska-airlines-8-hour-737-max-8-flights-anchorage-tokyo/",
+    "airlineTag": "Alaska Airlines",
     "isBreaking": false
   },
   {
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-21T10:24:06Z",
     "url": "https://www.aerotime.aero/articles/cirium-global-airliner-fleet-to-near-double-by-2045-supply-remains-constrained",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8434fc108857",
-    "title": "7 Airlines With Some Of The World's Most Luxurious Business Class Seats",
-    "summary": "These carriers have been recognized for their superb premium products and seats.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-21T09:15:16Z",
-    "url": "https://simpleflying.com/7-airlines-with-worlds-most-luxurious-business-class-seats-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dcc52b945b32",
-    "title": "Former Rex chairman Lim Kim Hai fined US$560,000, banned from managing companies",
-    "summary": "Lim Kim Hai, the former executive chairman of Australian regional airline Regional Express (Rex), has been fined A$800,000&#8230; The post Former Rex chairman Lim Kim Hai fined US$560,000, banned from managing companies appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-21T09:03:49Z",
-    "url": "https://www.aerotime.aero/articles/former-rex-chairman-lim-kim-hai-fined-us560000-banned-from-managing-companies",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f13fdb12f8bc",
-    "title": "Drones breach no-fly zone over Toulon, home to France\u2019s main naval base",
-    "summary": "French authorities have opened a judicial investigation after unauthorized drones were detected near and over military sites around&#8230; The post Drones breach no-fly zone over Toulon, home to France\u2019s main naval base appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-21T08:32:11Z",
-    "url": "https://www.aerotime.aero/articles/france-toulon-military-sites-drone-incursions-investigation",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f9047e7c1be1",
-    "title": "American Airlines Boeing 787\u2019s Brakes Drag In O\u2019Hare Emergency Landing, One Hospitalized",
-    "summary": "The 787-8 came to a halt on the runway after its pilots warned of a possible brake problem before landing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-21T08:01:28Z",
-    "url": "https://simpleflying.com/american-airlines-boeing-787-brakes-drag-chicago-ohare-emergency-landing/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "17464d6927b1",
-    "title": "How Much Money Do Airbus A350 Pilots Earn In 2026?",
-    "summary": "The pay gap between captains and first officers may be bigger than you think.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-21T08:00:16Z",
-    "url": "https://simpleflying.com/how-much-airbus-a350-pilots-earn-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "09e3914c6feb",
-    "title": "Maverick takes on flight school paperwork",
-    "summary": "For flight instructors, keeping track of what a student has completed and what still needs to be done isn't always straightforward, especially when records are spread across multiple systems.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-21T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/21/maverick-takes-on-flight-school-paperwork?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "13424ad583ba",
-    "title": "French Mirage 2000D fighter jet crashes near Nancy",
-    "summary": "A French military aircraft crashed near Nancy in northeastern France late on October 20, 2026, prompting a major&#8230; The post French Mirage 2000D fighter jet crashes near Nancy appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-21T05:53:48Z",
-    "url": "https://www.aerotime.aero/articles/french-mirage-2000d-fighter-jet-crashes-near-nancy",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5232f9b6e4d0",
-    "title": "NBAA leans into business aviation intelligence",
-    "summary": "The National Business Aviation Association (NBAA) and Rolland Vincent Associates (RVA) announced a partnership designed to provide NBAA members subscription-based, actionable intelligence to support better business aviation decisions.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-21T01:08:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/20/nbaa-leans-into-business-aviation-intelligence?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9779cc196b82",
-    "title": "FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays",
-    "summary": "Boeing\u2019s 737 MAX 10 received certification from the US Federal Aviation Administration (FAA) on October 20, 2026, clearing&#8230; The post FAA certifies Boeing 737 MAX 10, clears way for deliveries after years of delays appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-21T00:57:20Z",
-    "url": "https://www.aerotime.aero/articles/boeing-737-max-10-faa-certification",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0fda7282545f",
-    "title": "How The US Navy Turned A Boeing 737 Into A Submarine Hunter",
-    "summary": "How an icon of air travel adapted to protect peace on the high seas.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-21T00:00:15Z",
-    "url": "https://simpleflying.com/how-us-navy-turn-boeing-737-submarine-hunter/",
     "airlineTag": null,
     "isBreaking": false
   }
