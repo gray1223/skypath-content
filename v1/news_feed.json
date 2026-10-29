@@ -11,6 +11,94 @@
     "isBreaking": false
   },
   {
+    "id": "303fe04dec94",
+    "title": "Survey: 3 in 4 European Pilots Report Sleeping on Duty",
+    "summary": "European Cockpit Association survey finds challenges in managing fatigue-related safety risks.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-10-29T12:00:00Z",
+    "url": "https://www.flyingmag.com/survey-3-in-4-european-pilots-sleeping-on-duty/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6f6a359e859d",
+    "title": "Airbus delivery slowdown squeezes profits, full-year target unchanged",
+    "summary": "Airbus reported a decline in third-quarter profits, partly due to slower commercial aircraft deliveries; however, the planemaker left&#8230; The post Airbus delivery slowdown squeezes profits, full-year target unchanged appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-29T11:07:17Z",
+    "url": "https://www.aerotime.aero/articles/airbus-nine-month-results-deliveries-proffits",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ca2749126f87",
+    "title": "Leonardo brings Shield AI\u2019s Hivemind to Royal Navy Proteus helicopter",
+    "summary": "Italian defense group Leonardo will use Shield AI\u2019s Hivemind software to develop additional autonomous capabilities for Proteus, the&#8230; The post Leonardo brings Shield AI\u2019s Hivemind to Royal Navy Proteus helicopter appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-29T10:48:30Z",
+    "url": "https://www.aerotime.aero/articles/leonardo-shield-ai-hivemind-royal-navy-proteus",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4b021992dfeb",
+    "title": "Asia Pacific airlines end five-month passenger decline as cargo demand climbs",
+    "summary": "International passenger numbers at Asia Pacific airlines rose slightly in September 2026, ending five consecutive months of year-on-year&#8230; The post Asia Pacific airlines end five-month passenger decline as cargo demand climbs appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-10-29T10:22:14Z",
+    "url": "https://www.aerotime.aero/articles/asia-pacific-airlines-end-five-month-passenger-decline-as-cargo-demand-climbs",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0c75316a2ae4",
+    "title": "How Much Does A Boeing 747 Engine Cost?",
+    "summary": "For many 747-400 freighters, the cost of a major engine overhaul can exceed the market value of the airframe itself.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-29T09:15:18Z",
+    "url": "https://simpleflying.com/how-much-does-a-boeing-747-engine-cost/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "96276b080123",
+    "title": "United Airlines Eyes 2 Central Asian Countries That No US Carrier Has Ever Served",
+    "summary": "The airline's network chief visited both countries this year as United explores future expansion.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-29T08:24:11Z",
+    "url": "https://simpleflying.com/united-airlines-eyes-flights-uzbekistan-kazakhstan/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "95d095764b58",
+    "title": "The Airline With The World's Largest Boeing 777 Operation In 2026",
+    "summary": "Emirates has vast numbers of 777-300ER. Its 777 fleet will grow even more with the arrival of the 777X.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-29T08:00:17Z",
+    "url": "https://simpleflying.com/airline-worlds-largest-boeing-777-operation-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4dff82a8f764",
+    "title": "Delta Air Lines Onboards 66 New Pilots: A Quarter Came From Spirit Airlines",
+    "summary": "Delta's latest batch of new recruits draws experienced crew in the wake of Spirit's demise.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-29T04:01:27Z",
+    "url": "https://simpleflying.com/delta-air-lines-onboards-66-new-pilots-quarter-spirit/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "01098d287d84",
     "title": "Delta Air Lines Onboards 66 New Pilots, A Quarter Came From Spirit Airlines",
     "summary": "Delta's latest batch of new recruits draws experienced crew in the wake of Spirit's demise.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-22T15:01:18Z",
     "url": "https://simpleflying.com/pilots-legally-fly-without-radio-us-airspace/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "8a9d7ce96d61",
-    "title": "The Pilot Picasso: Turning Flight Tracks Into Works of Art",
-    "summary": "Arkansas aviator uses ForeFlight, precision flying, and a Cessna 182 RG to paint the sky.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-22T15:00:00Z",
-    "url": "https://www.flyingmag.com/the-pilot-picasso-turning-flight-tracks-into-works-of-art/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d6d405e74266",
-    "title": "Civil Air Patrol Orders 21 New Cessnas",
-    "summary": "The aircraft will support search-and-rescue, emergency response and training missions nationwide.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-22T14:40:45Z",
-    "url": "https://avweb.com/aviation-news/civil-air-patrol-orders-21-new-cessnas/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cc807a720626",
-    "title": "American Airlines faces 2026 loss as fuel costs bear down",
-    "summary": "American Airlines is expecting to record a loss for 2026 after the cost of rising jet fuel prices&#8230; The post American Airlines faces 2026 loss as fuel costs bear down appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-22T14:36:35Z",
-    "url": "https://www.aerotime.aero/articles/american-airlines-third-quarter-results-2026",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "15737f4e1016",
-    "title": "Bedford Open to New Citation Single-Pilot Path",
-    "summary": "FAA Administrator Bryan Bedford says additional training and aircraft modifications could warrant consideration.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-22T13:52:37Z",
-    "url": "https://avweb.com/air-shows-events/nbaa/faa-open-to-new-citation-single-pilot-path/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "684cae3d39ef",
-    "title": "Avelo Airlines Cancels All Flights To 9 Destinations: See Full List Now",
-    "summary": "Avelo Airlines is exiting nine airports while improving load factors at its core bases and preparing for McKinney's launch.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-22T13:35:51Z",
-    "url": "https://simpleflying.com/avelo-airlines-cancels-all-flights-to-9-destinations/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "402c188308dc",
-    "title": "Inside Southwest Airlines' Longest Flights In 2026",
-    "summary": "Southwest's five longest routes all cross the Pacific, and four of them leave from just two airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-22T13:00:17Z",
-    "url": "https://simpleflying.com/inside-southwest-airlines-longest-flights-2026/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "6b884f7973c1",
-    "title": "United Passengers Stuck Nearly 12 Hours On Rome Flight That Never Took Off, Given $175",
-    "summary": "Passengers on a United Airlines flight from Washington to Rome spent nearly 12 hours waiting to take off on October 2nd, only for the flight to be canceled without ever leaving the ground. Transatlantic flight UA884 \u2014 operated by one of the airline's Boeing 777-200ERs\u2014 encount...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-22T12:30:17Z",
-    "url": "https://simpleflying.com/video/united-passengers-stuck-nearly-12-hours-on-rome-flight-that-never-took-off-given-175/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "428830eaf098",
-    "title": "Students Build Van\u2019s RV-12iS Aircraft",
-    "summary": "Kitplane will be inspected by the FAA, tested, and eventually sold to fund future projects.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-22T12:00:00Z",
-    "url": "https://www.flyingmag.com/students-build-vans-rv-12is-aircraft/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
