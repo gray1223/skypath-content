@@ -1,5 +1,71 @@
 [
   {
+    "id": "67ff32b60b9d",
+    "title": "Southwest Airlines Axed Dallas\u2019 3rd Airport Because \u201cIt Didn\u2019t Really Work,\u201d CEO Admits",
+    "summary": "A $72 million terminal in McKinney opens mid November with Avelo launching 11 leisure routes and room to grow.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T19:54:20Z",
+    "url": "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "01c16797cea0",
+    "title": "Delta Air Lines To Grow Austin Footprint Further With New Flights To Bentonville In 2027",
+    "summary": "Daily late night returns and early departures cater to business rhythms as Delta deepens service at both airports.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T19:20:07Z",
+    "url": "https://simpleflying.com/delta-air-lines-grow-austin-footprint-new-flights-bentonville-2027/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "dca130141a31",
+    "title": "Why United Airlines Is Opening Up Flight Attendant Bases In Cities Almost No One Would Expect",
+    "summary": "A closer look at the logic behind United's next two flight attendant domiciles, and why this isn't as unusual as you'd think.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T19:00:17Z",
+    "url": "https://simpleflying.com/united-airlines-opening-flight-attendant-bases-cities-almost-no-one-expect/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d6c31124094d",
+    "title": "JetBlue\u2019s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
+    "summary": "JetBlue leadership remains set on no restructuring plans.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T18:52:28Z",
+    "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "216d3f9dc914",
+    "title": "All 3 US Legacy Carriers Will Fly The Boeing 737 MAX 10, But Not The Airbus A321XLR",
+    "summary": "The Airbus A321XLR is a niche aircraft, while the Boeing 737 MAX 10 is a mass-market airliner that should prove to be a hit.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T18:00:17Z",
+    "url": "https://simpleflying.com/all-3-us-legacy-carriers-fly-boeing-737-max-10-not-airbus-a321xlr/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "4ff360eae19a",
+    "title": "The Top 5 Highest Paid US Air Force Pilot Ranks & Their Average 2026 Salaries",
+    "summary": "Air Force pilots are paid based on their rank and years of service, although even the highest ranks typically earn less than commercial pilots.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-10-31T17:30:18Z",
+    "url": "https://simpleflying.com/the-top-highest-paid-usaf-pilot-ranks-average-salaries-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "925df56bebdf",
     "title": "Passenger rights group sues DOT over rule shifting flight delay costs to travelers",
     "summary": "Airline passenger group FlyersRights is suing the US Department of Transportation (DOT) over a rule it says shifts&#8230; The post Passenger rights group sues DOT over rule shifting flight delay costs to travelers appeared first on AeroTime.",
@@ -116,7 +182,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-30T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -435,7 +501,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:27:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -446,7 +512,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:04:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -490,7 +556,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T19:02:21Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -721,7 +787,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/jenny?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/jenny?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -732,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/flying-with-purpose?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/flying-with-purpose?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1117,7 +1183,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-28T00:21:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2130,72 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-24T12:57:41Z",
     "url": "https://simpleflying.com/easyjet-cancels-18-uk-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a7962f44e620",
-    "title": "Taking Over Europe? Lufthansa Picked To Buy TAP Air Portugal",
-    "summary": "Lufthansa has defeated Air France-KLM to purchase a 44.9% share in TAP Air Portugal, according to the Independent. The two aviation groups were the only bidders. It is a significant step towards privatizing Portugal's airline. Although the deal is done, it still requires Europ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T12:15:19Z",
-    "url": "https://simpleflying.com/video/taking-over-europe-lufthansa-picked-to-buy-tap-air-portugal/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3a773afac9eb",
-    "title": "What SR-71 Blackbird Pilots Had To Do Before Missions That Most Other Pilots In History Have Never Done",
-    "summary": "The SR-71 was one of the most extreme airplanes ever built and forced pilots to often train and prepare more like astronauts than typical pilots.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T12:01:17Z",
-    "url": "https://simpleflying.com/sr-71-blackbird-pilot-preflight-mission-routine/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "804557ed40e1",
-    "title": "The 50-Seat Jet With A First Class Cabin United Airlines Is Using To Rebuild Its Newark Hub Feed",
-    "summary": "United is aiming to bring feeder traffic back to Newark by using a first class cabin on a regional jet. What does this actually mean for passengers?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T12:00:19Z",
-    "url": "https://simpleflying.com/50-seat-jet-first-class-cabin-united-airlines-using-rebuild-newark-hub/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4c7e24aa8e79",
-    "title": "Nearly 2,000 Boeing 737s Must Get Tail Inspections After Jets Pitched Up And Down Mid-Flight",
-    "summary": "The FAA warned of a potential loss of control as it ordered checks on nearly 2,000 Boeing 737NGs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T11:08:29Z",
-    "url": "https://simpleflying.com/nearly-2000-boeing-737-tail-inspections-faa/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9e00e48648a0",
-    "title": "Here's Why Airlines Now Can't Live Without The Aircraft That Was Developed By A Regional Jet Maker",
-    "summary": "How the Airbus catapult Bombardier's small single-aisle to global success.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T11:00:19Z",
-    "url": "https://simpleflying.com/airlines-now-cant-live-without-aircraft-regional-jet-maker/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8411432664a0",
-    "title": "8 Of The World's Largest Widebody Fleets: Who Flies The Most Twin-Aisles?",
-    "summary": "Emirates' huge 777 and A380 sub-fleets see it top the list.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T08:00:18Z",
-    "url": "https://simpleflying.com/8-worlds-largest-widebody-fleets-flies-most-twin-aisles/",
     "airlineTag": null,
     "isBreaking": false
   }
