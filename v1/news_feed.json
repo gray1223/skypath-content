@@ -1,5 +1,38 @@
 [
   {
+    "id": "196c5b9af3c4",
+    "title": "The Airlines With The World\u2019s Widest Economy Seats In 2026",
+    "summary": "Beyond some Asian airlines, the best way to get extra space between other economy class passengers is to focus on the aircraft type.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T09:15:17Z",
+    "url": "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "27e6fd7b8118",
+    "title": "Over 30 Years Old: Lufthansa Is Still Flying Some Of The World's 1st Airbus A321s",
+    "summary": "Exploring the story behind the jets that outlasted every other plane in the fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T08:00:17Z",
+    "url": "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "506bc294022b",
+    "title": "Delta, United & JetBlue Face Federal Probe Over Using Passenger Data To Personalize Fares",
+    "summary": "The airlines must reveal how customer information feeds into increasingly sophisticated pricing tools.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T07:14:47Z",
+    "url": "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "1f6fb80096ba",
     "title": "Fewer Rules, Lower Costs: The New Light-Sport Rules Are Opening Up General Flying",
     "summary": "The FAA has drastically expanded the types of aircraft sport pilots can fly.",
@@ -61,7 +94,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-30T21:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -380,7 +413,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:27:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -391,7 +424,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:04:33Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -435,7 +468,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T19:02:21Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -666,7 +699,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/jenny?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/jenny?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +710,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T08:00:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/flying-with-purpose?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/flying-with-purpose?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1062,7 +1095,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-28T00:21:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-24T06:00:03Z",
     "url": "https://simpleflying.com/us-fines-air-france-klm-delta-codeshares-too-low-iraq/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "43a1a79f7e19",
-    "title": "Allegiant orders six more Boeing 737 MAX jets for 2028 delivery",
-    "summary": "Allegiant Air has ordered six additional Boeing 737 MAX aircraft for delivery in 2028, exercising its first purchase&#8230; The post Allegiant orders six more Boeing 737 MAX jets for 2028 delivery appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-24T03:42:03Z",
-    "url": "https://www.aerotime.aero/articles/allegiant-six-boeing-737-max-order-2028",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2ad73618c403",
-    "title": "Starfighters Space: Inside The Company Flying F-104s From Kennedy Space Center",
-    "summary": "The American flying outfit using Cold War fighters to launch satellites.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-23T23:00:18Z",
-    "url": "https://simpleflying.com/starfighters-space-company-flying-f-104-kennedy-space-center/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "999ff01465d7",
-    "title": "Atlanta City Council Ratifies Delta Air Lines\u2019 $12 Million Takeover Of Spirit\u2019s Gates",
-    "summary": "Delta will secure two former Spirit gates in Atlanta, joining a nationwide scramble for the defunct airline's valuable airport assets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-23T21:30:38Z",
-    "url": "https://simpleflying.com/atlanta-ratifies-delta-air-lines-12-million-takeover-spirit-gates/",
     "airlineTag": "Delta Air Lines",
     "isBreaking": false
   }
