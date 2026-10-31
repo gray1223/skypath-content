@@ -1,5 +1,49 @@
 [
   {
+    "id": "1f6fb80096ba",
+    "title": "Fewer Rules, Lower Costs: The New Light-Sport Rules Are Opening Up General Flying",
+    "summary": "The FAA has drastically expanded the types of aircraft sport pilots can fly.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T01:00:17Z",
+    "url": "https://simpleflying.com/new-light-sport-rules-opening-up-general-flying/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c3656fd764c8",
+    "title": "The Mid-Size Florida Hub Betting $1.5 Billion That Delta Air Lines Will Turn It Into An International Gateway",
+    "summary": "The legacy carrier signed a 20-year lease for six additional gates at the airport.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T00:26:39Z",
+    "url": "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-international-gateway/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "aef681aa721b",
+    "title": "Why The Airbus A321XLR Is Being Parked At JetBlue & Wizz Air, But Kept By Iberia & Qantas",
+    "summary": "The A321XLR is working wonderfully for some airlines, but not for others. Here's what's causing these different operating experiences.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T00:00:17Z",
+    "url": "https://simpleflying.com/airbus-a321xlr-parked-jetblue-wizz-air-kept-iberia-qantas/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "33773f929568",
+    "title": "Alaska Airlines Is Betting On Seatback Screens For Only A Fraction Of Seats On Its Transcon Boeing 737 MAX 10s",
+    "summary": "The newest single-aisle joining Alaska's fleet is comes with a BYOD cabin policy.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-30T22:00:17Z",
+    "url": "https://simpleflying.com/alaska-airlines-betting-seatback-screen-fraction-seats-transcon-boeing-737-max-10s/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "c15093143421",
     "title": "American Airlines Takes Delivery Of 4 New Airbus A321neos In One Week",
     "summary": "American Airlines has received four new Airbus jets in one week as its A321neo and A321XLR fleets expand.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-10-23T21:30:38Z",
     "url": "https://simpleflying.com/atlanta-ratifies-delta-air-lines-12-million-takeover-spirit-gates/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "2a29ae2c344b",
-    "title": "Safety is Built In, Not Assumed: Keeping Collision Avoidance Ahead of the Traffic",
-    "summary": "Combining TCAS and ADS-B In can give pilots more time to prevent midair collisions.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-10-23T20:04:02Z",
-    "url": "https://avweb.com/features/safety-built-in-collision-avoidance/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c7ce0e06dac2",
-    "title": "Breeze Airways Cancels 10 Nonstop Routes: See Full List Now",
-    "summary": "They all ended in the first nine months of the year. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-23T20:00:20Z",
-    "url": "https://simpleflying.com/breeze-airways-cancels-10-nonstop-routes/",
-    "airlineTag": "Breeze Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "5cf665929ee2",
-    "title": "7 Airlines Still Flying The Boeing 777-200ER In 2026",
-    "summary": "The 777-200 is still highly active in the skies today. Here are 7 airlines that are carrying the legacy in 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-23T20:00:20Z",
-    "url": "https://simpleflying.com/7-airlines-still-flying-boeing-777-200-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3e27c620f84b",
-    "title": "Who can fly my airplane?",
-    "summary": "One of the most common reasons aircraft insurance claims are denied is because the pilot operating the aircraft did not meet the requirements outlined in the insurance policy.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-23T19:05:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/23/who-can-fly-my-airplane?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
