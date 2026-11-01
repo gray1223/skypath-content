@@ -1,5 +1,71 @@
 [
   {
+    "id": "235a364d4d6e",
+    "title": "Fleet Strategy: How Delta Air Lines Became The Only US Carrier Operating Airbus' Newest Widebodies",
+    "summary": "Delta's Airbus strategy sets it apart from US rivals, with A330neos, A350s and 2027 A350-1000 deliveries transforming its long-haul fleet.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-01T04:00:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-only-us-carrier-operating-airbus-newest-widebodies/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "f81bacb3a343",
+    "title": "The World\u2019s Largest Air Forces By Number Of Pilots",
+    "summary": "Which air force has the deepest roster?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-01T01:45:17Z",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-of-pilots/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aa2035a1ee21",
+    "title": "Alaska Air Group To Lay Off 200 Roles By Year\u2019s End, Cites Soaring Fuel Prices",
+    "summary": "Executives cite disproportionate overhead and geopolitical fuel shocks as they realign post merger operations and roles.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-01T01:29:53Z",
+    "url": "https://simpleflying.com/alaska-air-group-lay-off-200-roles-fuel-prices/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "b653ca992c34",
+    "title": "We Tracked The World's First Boeing 747-8 Freighter For A Week: Here's Where It Went",
+    "summary": "The aircraft is operated by Cargolux.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-01T00:00:17Z",
+    "url": "https://simpleflying.com/cargolux-first-boeing-747-8f-tracked-one-week/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "11368aa01339",
+    "title": "10 Airlines Offering Stopover Packages For A Fraction Of The Cost Of A Separate Trip",
+    "summary": "Discover 10 airlines offering affordable stopovers, from free hotel stays in China and Istanbul to Iceland adventures and Qatar's $14 hotel packages.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T23:00:17Z",
+    "url": "https://simpleflying.com/airlines-offering-stopover-packages-for-a-fraction-of-the-cost-of-a-separate-trip/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d2cfa6462b44",
+    "title": "How Many Crew Members Does It Take To Fly A C-5 Galaxy?",
+    "summary": "The C-5 Galaxy is one of the world's largest military transport aircraft, but its crew requirements reveal a challenge that goes beyond its huge size.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-10-31T22:00:17Z",
+    "url": "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-a-c-5-galaxy/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "67ff32b60b9d",
     "title": "Southwest Airlines Axed Dallas\u2019 3rd Airport Because \u201cIt Didn\u2019t Really Work,\u201d CEO Admits",
     "summary": "A $72 million terminal in McKinney opens mid November with Avelo launching 11 leisure routes and room to grow.",
@@ -182,7 +248,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-30T21:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -501,7 +567,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:27:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -512,7 +578,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:04:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -556,7 +622,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T19:02:21Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -787,7 +853,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/jenny?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/jenny?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -798,7 +864,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T08:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/flying-with-purpose?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/flying-with-purpose?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1183,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-28T00:21:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/27/training-and-safety-tip-first-principles?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2131,72 +2197,6 @@
     "publishedDate": "2026-10-24T18:13:29Z",
     "url": "https://simpleflying.com/american-airlines-destroys-dance-moms-abby-lee-miller-wheelchair-pieces/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ff16a017abe7",
-    "title": "Alaska Airlines Stole Hawaiian's Boeing 787s \u2013 Which Plane Can Now Replace Its Airbus A330s?",
-    "summary": "How does the Honolulu flightline fit into Alaska's 'Proudly All Boeing' fleet?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T18:00:18Z",
-    "url": "https://simpleflying.com/alaska-airlines-stole-hawaiian-boeing-787-plane-replace-airbus-a330/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "a9201b3eb531",
-    "title": "5 Small US Airports Quietly Spending Big-Hub Money To Become Regional Powerhouses",
-    "summary": "These airports are making heavy investments in their infrastructure over the next few years.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T17:30:18Z",
-    "url": "https://simpleflying.com/5-small-us-airports-quietly-spending-big-hub-money-become-regional-powerhouses/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "154ede3a1bcf",
-    "title": "What Makes Premium Economy Worth Paying More For?",
-    "summary": "Everything you can expect when flying premium economy, and is it worth it?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T17:30:18Z",
-    "url": "https://simpleflying.com/what-makes-premium-economy-worth-paying-more-for/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c590d3078bf0",
-    "title": "Air Canada's Widebody Fleet: How The Boeing 777 & 787 Dreamliner Power Its Global Network",
-    "summary": "Air Canada is making important changes to its widebody fleet, changes that could allow the airline to outperform many of its rivals in the future",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T15:00:19Z",
-    "url": "https://simpleflying.com/air-canda-widebody-fleet-boeing-777-787-dreamliner-power-global-network/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8ecc0904ab33",
-    "title": "Why The 737-900 Didn't Turn Out To Be The Success Boeing Wanted It To Be",
-    "summary": "Underwhelming performance and tough competition led to limited success for the base Boeing 737-900.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T14:00:18Z",
-    "url": "https://simpleflying.com/why-737-900-didnt-turn-out-success-boeing-wanted/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6e7a7845bcdc",
-    "title": "easyJet Cancels 18 Nonstop Routes From The UK: See Full List Now",
-    "summary": "The airline operated these routes at some point between January and October 2026.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-24T12:57:41Z",
-    "url": "https://simpleflying.com/easyjet-cancels-18-uk-routes/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
