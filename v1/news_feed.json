@@ -1,5 +1,38 @@
 [
   {
+    "id": "fb1e9b364610",
+    "title": "How The McDonnell Douglas MD-80 Outlasted The Jet Built To Replace It",
+    "summary": "Fleet size mattered more than technology.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-06T02:45:17Z",
+    "url": "https://simpleflying.com/how-mcdonnell-douglas-md-80-outlast-jet-replace-it/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "40750d8d1f01",
+    "title": "The Problem American Airlines Ran Into When It Inherited The World's 1st Airbus A321neo",
+    "summary": "Several of the carrier's A321neos were ordered by a different airline.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-06T00:00:18Z",
+    "url": "https://simpleflying.com/problem-american-airlines-ran-into-inherited-worlds-1st-airbus-a321neo/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d388986cdbac",
+    "title": "Southwest Airlines Named Least Punctual Carrier Among 10 Airlines In North America",
+    "summary": "The carrier's punctuality has deteriorated amid sweeping changes, leaving it far behind market-leader Delta and other North American carriers.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-05T23:30:26Z",
+    "url": "https://simpleflying.com/southwest-airlines-least-punctual-carrier-10-airlines-north-america/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
     "id": "97b98f3cc996",
     "title": "5 Airlines Flying The Airbus A321XLR With Lie-Flat Business Class Seats",
     "summary": "Of the five carriers with the largest business class cabin on the A321XLR, number one might surprise you.",
@@ -17,7 +50,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-05T21:56:53Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/05/florida-shop-owner-jailed-following-new-fraud-charges?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/05/florida-shop-owner-jailed-following-new-fraud-charges?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -644,7 +677,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-03T23:51:36Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/03/aircraft-maintenance-excessive-oil-consumption?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/03/aircraft-maintenance-excessive-oil-consumption?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -699,7 +732,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-03T20:02:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/03/training-and-safety-tip-sim-it-like-you-mean-it?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/03/training-and-safety-tip-sim-it-like-you-mean-it?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1029,7 +1062,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-02T21:07:40Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/02/a-cessna-named-juliet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/02/a-cessna-named-juliet?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1216,7 +1249,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-02T10:00:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/02/keeping-hope-in-the-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/02/keeping-hope-in-the-air?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1656,7 +1689,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-30T22:32:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1975,7 +2008,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T21:27:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/tenants-drop-lawsuit-after-faa-upholds-hangar-rate-hike?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1986,7 +2019,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T21:04:33Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/norad-warns-florida-pilots-of-busy-vip-tfr-season?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2019,7 +2052,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-10-29T20:02:21Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/29/florida-ga-plate-falls-short-but-support-shines-through?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-29T15:30:02Z",
     "url": "https://www.aerotime.aero/articles/honeywell-aerospace-q3-2026-results-parts-shortages",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2fb1fddc6126",
-    "title": "Texas Airport Weighs $500 Self-Fueling Permit",
-    "summary": "Proposed fees would affect pilots bringing outside fuel onto airport property, including mogas and unleaded avgas.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-29T14:16:55Z",
-    "url": "https://avweb.com/aviation-news/texas-airport-weighs-500-self-fuel-permit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "27bfc6a95f4f",
-    "title": "airBaltic to cut around 100 pilots and 200 cabin staff in latest savings drive",
-    "summary": "airBaltic plans to cut around 100 pilot and 200 cabin crew staff, with the Latvian Aviation Union (LAU)&#8230; The post airBaltic to cut around 100 pilots and 200 cabin staff in latest savings drive appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-29T13:55:07Z",
-    "url": "https://www.aerotime.aero/articles/airbaltic-redundancies-pilots-cabin-crew-latvia-lithuania-estonia",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fe0b15a3cbb3",
-    "title": "Signature moves to simplify FBO fees after years of pilot complaints",
-    "summary": "Signature Aviation is to simplify charges for aircraft visiting its FBOs and limit special-event surcharges, nearly a decade&#8230; The post Signature moves to simplify FBO fees after years of pilot complaints appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-29T13:54:28Z",
-    "url": "https://www.aerotime.aero/articles/signature-aviation-fbo-fees-pricing-aopa",
     "airlineTag": null,
     "isBreaking": false
   }
