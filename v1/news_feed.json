@@ -1,5 +1,38 @@
 [
   {
+    "id": "2258ac66098d",
+    "title": "The Airline That Invented Premium Economy Just Built A 42-Inch Seat Nobody Else Can",
+    "summary": "When looking at premium economy offerings, there is only one airline where you can find a 42-inch seat.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T01:32:06Z",
+    "url": "https://simpleflying.com/airline-invented-premium-economy-built-42-inch-seat-nobody-else/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a152f35828eb",
+    "title": "Why The Boeing 747-400 Was A Turning Point For Two-Pilot Cockpits",
+    "summary": "The Boeing 747-400 revolutionized jumbo-jet cockpits, replacing the flight engineer with advanced automation and a two-pilot flight deck.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T01:00:17Z",
+    "url": "https://simpleflying.com/boeing-747-400-two-pilot-cockpit-evolution/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a529122b74c4",
+    "title": "19-Year-Old Southwest Airlines Boeing 737 Loses #2 Engine After Takeoff, Declares Emergency",
+    "summary": "N281WN the carrier's 500th 737 circled over the South Bay as pilots ran emergency checklists and prepared for a single\u2011engine return.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-06T23:23:01Z",
+    "url": "https://simpleflying.com/19-year-old-southwest-airlines-boeing-737-loses-engine-takeoff-emergency/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "dd19a2d1f852",
     "title": "Delta Air Lines Boosts Summer 2027 Schedule With New Routes & Expanded Weekend Frequencies",
     "summary": "Delta expands its summer 2027 leisure network as strong 2026 load factors support returning routes and additional weekend flights.",
@@ -2163,39 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-10-30T11:49:44Z",
     "url": "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "5b61f4150fb7",
-    "title": "Delta vs United: The Ultimate Business Class Battle",
-    "summary": "In this video, we'll compare Delta One and United Polaris, from seats and sleep quality to airport lounges, international networks, and the aircraft swaps that can completely change your experience. And we'll see which airline comes out ahead depending on what matters most to ...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T11:00:18Z",
-    "url": "https://simpleflying.com/video/delta-vs-united-the-ultimate-business-class-battle/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "247c2f332164",
-    "title": "Why US Airlines Aren't Happy About New 21 Day Ebola Rules For Passengers",
-    "summary": "Advocacy groups argue that the rules are too broad and require too much preparation given the short turnaround.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T10:54:37Z",
-    "url": "https://simpleflying.com/us-airlines-not-happy-cdc-ebola-rules-passengers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "da3e1e0f6ef0",
-    "title": "Singapore Airlines Launches New 4-Hour Shortest A380 Route: But There's A Catch",
-    "summary": "A preliminary schedule suggests Singapore Airlines will fly daily services to Hong Kong with the A380 in Winter 2027/2028.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T10:50:15Z",
-    "url": "https://simpleflying.com/singapore-airlines-launches-new-4-hour-a380-route/",
     "airlineTag": null,
     "isBreaking": false
   }
