@@ -1,5 +1,93 @@
 [
   {
+    "id": "089b07dfa8b5",
+    "title": "United Airlines Pilots Defy ATC Orders To Fly Through \u201cThe Worst Part\u201d Of A Severe Thunderstorm",
+    "summary": "Pilots consult dispatch and push for an alternate path as ATC initially points the flight directly into severe weather.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T20:24:07Z",
+    "url": "https://simpleflying.com/united-airlines-pilots-defy-atc-orders-fly-through-worst-part-severe-storm/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "4e5723352593",
+    "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
+    "summary": "Dulles just tripled its modernization budget to more than $20 billion, with Concourse C and D set for replacement.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T20:00:18Z",
+    "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3d3a70d1387e",
+    "title": "Southwest Airlines Flight Attendant Allegedly Quit Job After Passenger-Facing Crew Dispute",
+    "summary": "A tense cabin confrontation unfolded at Dallas Love Field as crew clashed before pushback, delaying the flight for hours.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T19:45:14Z",
+    "url": "https://simpleflying.com/southwest-airlines-flight-attendant-quit-job-passenger-facing-crew-dispute/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "211774ab8f3c",
+    "title": "How Much Are Delta SkyMiles Worth Compared To American AAdvantage Miles In 2026?",
+    "summary": "American's AAdvantage program actually provides a better value compared to SkyMiles in certain cases, although there are other considerations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T19:00:18Z",
+    "url": "https://simpleflying.com/how-much-delta-skymiles-worth-compared-to-an-american-aadvantage-miles/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "9916dea28696",
+    "title": "5 Costs Airlines Face When A Widebody Jet Engine Needs An Overhaul",
+    "summary": "The evolving industry, and climbing price, of extra-large turbofan engine repairs.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T18:01:18Z",
+    "url": "https://simpleflying.com/widebody-aircraft-engine-overhaul-costs-explained/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d2b34edbd04f",
+    "title": "JetBlue Cancels Massive 12 Routes From New York-JFK: See Full List Now",
+    "summary": "These capacity shifts have resulted in JFK losing its top spot among JetBlue's bases in certain months.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T18:01:18Z",
+    "url": "https://simpleflying.com/jetblue-cancels-12-routes-new-york-jfk/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "00bb8d2b40e9",
+    "title": "Lawsuits Accuse 7 US Airlines Of Colluding To Raise Fares By Sharing Pricing Data",
+    "summary": "The airlines allegedly used a shared database to monitor fares and quickly match cheaper tickets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T14:35:01Z",
+    "url": "https://simpleflying.com/lawsuits-accuse-us-airlines-colluding-raise-fares/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c82da7066fd3",
+    "title": "Nation\u2019s First Digital ATC Towers Come Online in Florida, Alaska",
+    "summary": "FAA announces new tech is operational at Florida\u2019s Bartow Executive Airport and Alaska\u2019s Kenai Municipal Airport.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-11-07T13:00:00Z",
+    "url": "https://www.flyingmag.com/1st-digital-atc-towers-online-florida-alaska/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "76ccfe28cd28",
     "title": "10 US Airport Projects Replacing Regional Gates With Mainline Jet Capacity",
     "summary": "Former regional hubs are expanding gates and demolishing commuter concourses to welcome A320 and 737 mainline operations.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-10-30T19:31:18Z",
     "url": "https://simpleflying.com/frontier-airlines-cancels-all-flights-to-21-destinations/",
     "airlineTag": "Frontier Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "04086571d096",
-    "title": "Flight School Faces $2.4M Fine Over Temperature Gauge",
-    "summary": "FAA alleges unapproved temperature gauge rendered Cessna 172 unairworthy for approximately 280 flights.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-10-30T19:28:29Z",
-    "url": "https://avweb.com/aviation-news/flight-school-2-4m-fine-temperature-gauge/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cf2acb90e611",
-    "title": "Icelandair Reveals First 2 Transatlantic Routes For Its Airbus A320neos",
-    "summary": "Icelandair has scheduled its first transatlantic A320neo flights to New York and Toronto as its fleet renewal accelerates.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T19:05:25Z",
-    "url": "https://simpleflying.com/icelandair-reveals-first-2-transatlantic-routes-for-its-airbus-a320neos/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ad52d26917fb",
-    "title": "Pilots Drop Lawsuit Over 82% Hangar Rent Increase",
-    "summary": "Centennial Airport dispute ends without a court ruling on the contested lease terms.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-30T18:41:46Z",
-    "url": "https://avweb.com/aviation-news/lawsuit-dropped-82-hangar-rent-increase/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "1a64ab6640ab",
-    "title": "TLC Jet Offers New Customers 100,000 AAdvantage Air Miles",
-    "summary": "Customers who book their first private charter with the company through December 31 are eligible for the offer.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-30T17:54:40Z",
-    "url": "https://www.flyingmag.com/tlc-jet-new-customers-100000-aadvantage-miles/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fc175ba065ba",
-    "title": "Michigan Airport Reverses GA Landing Fees",
-    "summary": "Revised policy ties charges to ramp and facility use following objections from pilots.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-30T16:13:45Z",
-    "url": "https://avweb.com/aviation-news/michigan-airport-reverses-ga-landing-fees/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dac0a4bea2dc",
-    "title": "FAA ends CE-500 single-pilot exemptions. What will change in the cockpit?",
-    "summary": "AeroTime columnist Ori Gross is an airline pilot, flight instructor, and engineer/developer with a background in airline management.&#8230; The post FAA ends CE-500 single-pilot exemptions. What will change in the cockpit? appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "training",
-    "publishedDate": "2026-10-30T15:02:27Z",
-    "url": "https://www.aerotime.aero/articles/faa-ce500-single-pilot-exemptions-human-factors",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ffbccd8a19ad",
-    "title": "Murphy Aircraft Insolvent, Factory Operations End",
-    "summary": "Canadian kit aircraft manufacturer's closure raises questions about outstanding orders and support for existing builders.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-10-30T14:38:29Z",
-    "url": "https://avweb.com/aviation-news/murphy-aircraft-factory-operations-end/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "41867ebf5f34",
-    "title": "Three Killed in Oregon Helicopter Midair Collision",
-    "summary": "Flight instructor, student pilot and another pilot died after two helicopters collided near McMinnville Municipal Airport.",
-    "source": "AvWeb",
-    "category": "training",
-    "publishedDate": "2026-10-30T14:17:46Z",
-    "url": "https://avweb.com/aviation-news/three-killed-oregon-helicopter-collision/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
