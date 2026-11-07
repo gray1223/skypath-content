@@ -1,5 +1,49 @@
 [
   {
+    "id": "76ccfe28cd28",
+    "title": "10 US Airport Projects Replacing Regional Gates With Mainline Jet Capacity",
+    "summary": "Former regional hubs are expanding gates and demolishing commuter concourses to welcome A320 and 737 mainline operations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T09:00:17Z",
+    "url": "https://simpleflying.com/us-airports-replacing-regional-jet-gates/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59f1f2908fe7",
+    "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+    "summary": "Hidden structural damage from violent winds lingered unnoticed for nine days.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-11-07T06:15:35Z",
+    "url": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ee8eaf53ac1b",
+    "title": "Qantas Is Training 360+ Pilots & 1,200 Cabin Crew For Just 12 Airbus A350-1000ULRs",
+    "summary": "Qantas is training 360 pilots and 1,200 cabin crew for 12 aircraft. The 22-hour flights explain the ratio.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T06:00:17Z",
+    "url": "https://simpleflying.com/qantas-training-360-pilots-1200-cabin-crew-12-airbus-a350-1000ulrs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0aef7ee219b8",
+    "title": "6 Airlines Offering Premium Economy On Flights Shorter Than 6 Hours",
+    "summary": "Premium economy isn't always as expensive as you might think and can be accessed cost-effectively on shorter routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T05:00:17Z",
+    "url": "https://simpleflying.com/6-airlines-premium-economy-flights-shorter-6-hours/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "2258ac66098d",
     "title": "The Airline That Invented Premium Economy Just Built A 42-Inch Seat Nobody Else Can",
     "summary": "When looking at premium economy offerings, there is only one airline where you can find a 42-inch seat.",
@@ -2152,50 +2196,6 @@
     "category": "training",
     "publishedDate": "2026-10-30T14:17:46Z",
     "url": "https://avweb.com/aviation-news/three-killed-oregon-helicopter-collision/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "28ba58a2deed",
-    "title": "France\u2019s first Falcon 8X Archange spy jet enters military testing",
-    "summary": "The first Dassault Falcon 8X Archange signals intelligence aircraft has landed at \u00c9vreux-Fauville Air Base 105, the Normandy&#8230; The post France\u2019s first Falcon 8X Archange spy jet enters military testing appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-30T13:52:12Z",
-    "url": "https://www.aerotime.aero/articles/france-falcon-8x-archange-spy-jet-evreux",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ec4ae23045f0",
-    "title": "US airlines dominate top 10 best reward programs but Flying Blue takes the crown",
-    "summary": "US airlines dominate a new top 10 list of the world&#8217;s best reward programs, though none could topple&#8230; The post US airlines dominate top 10 best reward programs but Flying Blue takes the crown appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-30T13:44:57Z",
-    "url": "https://www.aerotime.aero/articles/world-best-airline-reward-program-air-france-klm-flying-blue",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a21bd74e4b97",
-    "title": "Hal Shevers Was the Force Behind Sporty\u2019s Pilot Shop",
-    "summary": "Late company founder built GA empire from small, fuel-stained shack at Lunken Airport.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-30T12:00:00Z",
-    "url": "https://www.flyingmag.com/hal-shevers-was-the-force-behind-sportys-pilot-shop/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "992da70f5d48",
-    "title": "Malaysia\u2019s first FA-50M fighter arrives ahead of Hawk retirement",
-    "summary": "The first FA-50M light combat aircraft for the Royal Malaysian Air Force (RMAF) touched down at Labuan Air&#8230; The post Malaysia\u2019s first FA-50M fighter arrives ahead of Hawk retirement appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-30T11:49:44Z",
-    "url": "https://www.aerotime.aero/articles/malaysia-first-fa-50m-fighter-arrives",
     "airlineTag": null,
     "isBreaking": false
   }
