@@ -1,5 +1,60 @@
 [
   {
+    "id": "aae38bce1a50",
+    "title": "The Airline That Introduced Premium Economy To The World",
+    "summary": "EVA Air debuted Premium Economy back in the 1990s.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T02:45:17Z",
+    "url": "https://simpleflying.com/the-airline-introduced-premium-economy-to-world/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fc89e9d787db",
+    "title": "Why Air Canada Is Replacing Some Boeing 787 Flights With Airbus A321XLRs",
+    "summary": "The airline is optimizing its network and growing all-around, with both types becoming integral to its plans.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T01:00:17Z",
+    "url": "https://simpleflying.com/air-canada-replacing-some-boeing-787-flights-airbus-a321xlrs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "393ca12c7701",
+    "title": "5 Airbus A321neo Routes With Lie-Flat Business Class Seats",
+    "summary": "Five A321neo routes carry fully lie-flat business class, from JetBlue's transcon Mint to an all-business-class airline with 76 flat beds.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T23:01:17Z",
+    "url": "https://simpleflying.com/5-airbus-a321neo-routes-lie-flat-business-class-seats/",
+    "airlineTag": "JetBlue Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "d0b0af18dbe4",
+    "title": "The 4 Largest Air Force Bases By Bomber Fleet Presence",
+    "summary": "A closer look at the homes of the USAF's heaviest-hitters.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T22:31:17Z",
+    "url": "https://simpleflying.com/largest-air-force-bases-by-bomber-fleet-presence/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a036a0b3e223",
+    "title": "American Airlines Officially Welcomes Passengers Back To Flagship Dining At LAX After 6 Years",
+    "summary": "A refined sit-down Flagship Dining experience returns to LAX with multi-course menus and expanded business class access.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-07T22:00:32Z",
+    "url": "https://simpleflying.com/american-airlines-officially-welcomes-passengers-back-lax-flagship-dining-6-years/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "089b07dfa8b5",
     "title": "United Airlines Pilots Defy ATC Orders To Fly Through \u201cThe Worst Part\u201d Of A Severe Thunderstorm",
     "summary": "Pilots consult dispatch and push for an alternate path as ATC initially points the flight directly into severe weather.",
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-10-30T21:34:55Z",
     "url": "https://simpleflying.com/american-airlines-delivery-4-new-airbus-a321neo-family-one-week/",
     "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "56b0c20d0b7f",
-    "title": "The Airline With The World's Most Comfortable Premium Economy Seat",
-    "summary": "A closer look at what Emirates has done to differentiate its premium economy cabin from the competition.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T20:26:04Z",
-    "url": "https://simpleflying.com/airline-with-worlds-most-comfortable-premium-economy-seat/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "16009fa30114",
-    "title": "How The US Air Force Sustains 222 C-17 Globemasters With No New Builds In 2026",
-    "summary": "The C-17 remains vital to US military airlift, but can modernization keep the aging Globemaster flying until 2078?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T20:00:18Z",
-    "url": "https://simpleflying.com/how-usaf-sustains-222-c-17-globemasters-no-new-builds-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a1d2bbbfe596",
-    "title": "Southwest Airlines Flight Attendant Hired With Arrest Warrant For Fraud, Turns Himself In",
-    "summary": "A newly trained crew member is linked to a scheme that siphoned thousands from an 85 year old pensioner.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T19:47:54Z",
-    "url": "https://simpleflying.com/southwest-airlines-flight-attendant-hired-arrest-warrant-fraud-turns-himself-in/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "0d5599a4ac77",
-    "title": "Southwest Airlines Cancels 3 International Routes: See Full List Now",
-    "summary": "Baltimore\u2019s lost Los Cabos connection spotlights network pruning as Southwest reallocates aircraft to higher demand leisure routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T19:31:18Z",
-    "url": "https://simpleflying.com/southwest-cancels-3-international-routes/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "07749e9569e6",
-    "title": "Frontier Airlines Cancels All Flights To 21 Destinations: See Full List Now",
-    "summary": "Six of them last saw the carrier in September or October 2026. Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T19:31:18Z",
-    "url": "https://simpleflying.com/frontier-airlines-cancels-all-flights-to-21-destinations/",
-    "airlineTag": "Frontier Airlines",
     "isBreaking": false
   }
 ]
