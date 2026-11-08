@@ -1,5 +1,126 @@
 [
   {
+    "id": "5558d7449d2c",
+    "title": "Why Singapore Airlines Uses Boeing 787-10s On Short Regional Routes",
+    "summary": "Singapore Airlines configures its 787-10s for high density and short routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T21:00:17Z",
+    "url": "https://simpleflying.com/why-singapore-airlines-boeing-787-10s-short-regional-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9bb82174cc17",
+    "title": "The Airlines That Offer Amenity Kits To Economy Class Passengers In 2026",
+    "summary": "Amenity kits are becoming ever rarer in economy class.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T20:01:09Z",
+    "url": "https://simpleflying.com/airlines-offer-amenity-kits-in-economy-class-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0185eb4a802d",
+    "title": "Allegiant Air Cuts More Sun Country Flights From Minneapolis Despite \u201cReally Strong\u201d Demand",
+    "summary": "Allegiant cuts more Sun Country flights at Minneapolis despite strong demand, as pilot shortages and Delta's growing presence threaten competition.",
+    "source": "Simple Flying",
+    "category": "hiring",
+    "publishedDate": "2026-11-08T19:45:57Z",
+    "url": "https://simpleflying.com/allegiant-air-cut-more-sun-country-flights-minneapolis-really-strong-demand/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "0d0959cbcc4d",
+    "title": "Delta Launches 7 New International Routes This Winter: See Full List Now",
+    "summary": "The carrier is growing in both the short and long-haul markets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T19:00:17Z",
+    "url": "https://simpleflying.com/delta-launches-7-new-international-routes-this-winter/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "916443bb3c65",
+    "title": "The 6 Military Aircraft Manufacturers Still Building New Combat Aircraft For The US Armed Forces In 2026",
+    "summary": "A closer look at the companies providing a diverse range of combat aircraft for the US military.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T18:30:17Z",
+    "url": "https://simpleflying.com/us-military-combat-aircraft-manufacturers-in-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3fa4d267b88e",
+    "title": "Philippine Airlines Launches Major New 17-Hour Nonstop US Route: See Map Now",
+    "summary": "North America is becoming an increasingly important market for the carrier.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T18:01:18Z",
+    "url": "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "05cd2e2c33b4",
+    "title": "Is It True That Air Force One Pilots Earn Around $215K While Big 3 Widebody Captains Clear $480K?",
+    "summary": "Air Force One pilots are some of the most senior pilots routinely flying for the Air Force, but they earn half of what commercial widebody pilots get.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T17:15:19Z",
+    "url": "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-480k/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "aa95a7413630",
+    "title": "Iraq axes Mosul Airport leases over alleged armed group links",
+    "summary": "Iraq is seeking to replace three commercial operators at Mosul International Airport with international companies after Prime Minister&#8230; The post Iraq axes Mosul Airport leases over alleged armed group links appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-08T14:34:56Z",
+    "url": "https://www.aerotime.aero/articles/iraq-axes-mosul-airport-leases-over-alleged-armed-group-links",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8e3fe9d990f1",
+    "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
+    "summary": "China Eastern Airlines has confirmed CFM International as the engine supplier for its latest Airbus narrowbody order, selecting&#8230; The post CFM wins engine deal for 101 China Eastern A320neo family jets appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-08T14:21:34Z",
+    "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "39713d841067",
+    "title": "Israel\u2019s Israir eyes rival Arkia acquisition",
+    "summary": "Israir is considering acquiring Israeli rival Arkia, a move that could create a larger airline group with five&#8230; The post Israel\u2019s Israir eyes rival Arkia acquisition appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-08T14:14:10Z",
+    "url": "https://www.aerotime.aero/articles/israels-israir-eyes-rival-arkia-acquisition",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d9b6997a7a4e",
+    "title": "Air France A350 departure deviation brings it close to American A321 at LAX",
+    "summary": "An Air France Airbus A350-900 and an American Airlines Airbus A321-200 were involved in a near-mid-air collision shortly&#8230; The post Air France A350 departure deviation brings it close to American A321 at LAX appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-08T13:38:31Z",
+    "url": "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "cf786dfe05e7",
     "title": "5 Airbus A321XLR Routes Replacing Widebody Aircraft",
     "summary": "Airlines are persuaded by favorable economics and point-to-point travel trends.",
@@ -2076,127 +2197,6 @@
     "publishedDate": "2026-10-31T19:54:20Z",
     "url": "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/",
     "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "01c16797cea0",
-    "title": "Delta Air Lines To Grow Austin Footprint Further With New Flights To Bentonville In 2027",
-    "summary": "Daily late night returns and early departures cater to business rhythms as Delta deepens service at both airports.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T19:20:07Z",
-    "url": "https://simpleflying.com/delta-air-lines-grow-austin-footprint-new-flights-bentonville-2027/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "dca130141a31",
-    "title": "Why United Airlines Is Opening Up Flight Attendant Bases In Cities Almost No One Would Expect",
-    "summary": "A closer look at the logic behind United's next two flight attendant domiciles, and why this isn't as unusual as you'd think.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T19:00:17Z",
-    "url": "https://simpleflying.com/united-airlines-opening-flight-attendant-bases-cities-almost-no-one-expect/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "d6c31124094d",
-    "title": "JetBlue\u2019s Loan Companies Hire Special Advisors Over Repayment Concerns Of $8.4 Million Debt",
-    "summary": "JetBlue leadership remains set on no restructuring plans.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T18:52:28Z",
-    "url": "https://simpleflying.com/jetblue-loan-companies-special-advisors-repayment-concerns-8-million-debt/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "216d3f9dc914",
-    "title": "All 3 US Legacy Carriers Will Fly The Boeing 737 MAX 10, But Not The Airbus A321XLR",
-    "summary": "The Airbus A321XLR is a niche aircraft, while the Boeing 737 MAX 10 is a mass-market airliner that should prove to be a hit.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T18:00:17Z",
-    "url": "https://simpleflying.com/all-3-us-legacy-carriers-fly-boeing-737-max-10-not-airbus-a321xlr/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4ff360eae19a",
-    "title": "The Top 5 Highest Paid US Air Force Pilot Ranks & Their Average 2026 Salaries",
-    "summary": "Air Force pilots are paid based on their rank and years of service, although even the highest ranks typically earn less than commercial pilots.",
-    "source": "Simple Flying",
-    "category": "military",
-    "publishedDate": "2026-10-31T17:30:18Z",
-    "url": "https://simpleflying.com/the-top-highest-paid-usaf-pilot-ranks-average-salaries-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "925df56bebdf",
-    "title": "Passenger rights group sues DOT over rule shifting flight delay costs to travelers",
-    "summary": "Airline passenger group FlyersRights is suing the US Department of Transportation (DOT) over a rule it says shifts&#8230; The post Passenger rights group sues DOT over rule shifting flight delay costs to travelers appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-10-31T12:29:19Z",
-    "url": "https://www.aerotime.aero/articles/passenger-rights-lawsuit-dot-flight-delay-costs",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "cdff0f8cdc3e",
-    "title": "Logging the Hours That Matter Most: The Faces of Angel Flight Northeast",
-    "summary": "Volunteer pilots bridge the healthcare gap for families in remote communities.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-10-31T12:00:00Z",
-    "url": "https://www.flyingmag.com/logging-the-hours-that-matter-most-the-faces-of-angel-flight-northeast/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "196c5b9af3c4",
-    "title": "The Airlines With The World\u2019s Widest Economy Seats In 2026",
-    "summary": "Beyond some Asian airlines, the best way to get extra space between other economy class passengers is to focus on the aircraft type.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T09:15:17Z",
-    "url": "https://simpleflying.com/airlines-with-worlds-widest-economy-seats-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "27e6fd7b8118",
-    "title": "Over 30 Years Old: Lufthansa Is Still Flying Some Of The World's 1st Airbus A321s",
-    "summary": "Exploring the story behind the jets that outlasted every other plane in the fleet.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T08:00:17Z",
-    "url": "https://simpleflying.com/lufthansa-still-flying-some-worlds-1st-airbus-a321s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "506bc294022b",
-    "title": "Delta, United & JetBlue Face Federal Probe Over Using Passenger Data To Personalize Fares",
-    "summary": "The airlines must reveal how customer information feeds into increasingly sophisticated pricing tools.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T07:14:47Z",
-    "url": "https://simpleflying.com/delta-united-jetblue-ftc-probe-passenger-data-personalized-fares/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1f6fb80096ba",
-    "title": "Fewer Rules, Lower Costs: The New Light-Sport Rules Are Opening Up General Flying",
-    "summary": "The FAA has drastically expanded the types of aircraft sport pilots can fly.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T01:00:17Z",
-    "url": "https://simpleflying.com/new-light-sport-rules-opening-up-general-flying/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
