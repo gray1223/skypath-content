@@ -1,5 +1,71 @@
 [
   {
+    "id": "cf786dfe05e7",
+    "title": "5 Airbus A321XLR Routes Replacing Widebody Aircraft",
+    "summary": "Airlines are persuaded by favorable economics and point-to-point travel trends.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T12:00:18Z",
+    "url": "https://simpleflying.com/5-airbus-a321xlr-routes-replacing-widebody-aircraft/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59f1f2908fe7",
+    "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+    "summary": "Hidden structural damage from violent winds lingered unnoticed for nine days.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-11-08T09:01:57Z",
+    "url": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "1a10467791b4",
+    "title": "Airline Legroom Ranked: The US Carriers With The Most Economy Seat Pitch",
+    "summary": "Which airline has the best economy class seat pitch in the US, and why do cabins feel more cramped than ever?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T09:00:17Z",
+    "url": "https://simpleflying.com/us-carriers-most-economy-seat-pitch/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "7232e9daf5d6",
+    "title": "United 737 Jet Blast Reportedly Flips Cessna At John Wayne Airport, But Officials Blame Wind",
+    "summary": "A crane was needed to right the Cessna 172, which flipped onto its roof with two people aboard.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T07:54:10Z",
+    "url": "https://simpleflying.com/united-737-jet-blast-flips-cessna-john-wayne-airport-wind/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "306b26f27365",
+    "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX",
+    "summary": "A midnight LAX departure turned tense when an A350's unauthorized left turn intersected an A321's climb path.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T07:35:47Z",
+    "url": "https://simpleflying.com/air-france-a350-american-airlines-a321-near-midair-collision-lax/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "e2f8ebbf9312",
+    "title": "The Evolution Of Airplane Window Design",
+    "summary": "Why are airplane windows oval, and why do airlines want to replace them with screens? A cabin designer explores the secret engineering of your view",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T06:00:17Z",
+    "url": "https://simpleflying.com/evolution-airplane-window-design/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "aae38bce1a50",
     "title": "The Airline That Introduced Premium Economy To The World",
     "summary": "EVA Air debuted Premium Economy back in the 1990s.",
@@ -151,17 +217,6 @@
     "publishedDate": "2026-11-07T09:00:17Z",
     "url": "https://simpleflying.com/us-airports-replacing-regional-jet-gates/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59f1f2908fe7",
-    "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
-    "summary": "Hidden structural damage from violent winds lingered unnoticed for nine days.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-11-07T06:15:35Z",
-    "url": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   },
   {
@@ -2142,61 +2197,6 @@
     "publishedDate": "2026-10-31T01:00:17Z",
     "url": "https://simpleflying.com/new-light-sport-rules-opening-up-general-flying/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c3656fd764c8",
-    "title": "The Mid-Size Florida Hub Betting $1.5 Billion That Delta Air Lines Will Turn It Into An International Gateway",
-    "summary": "The legacy carrier signed a 20-year lease for six additional gates at the airport.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T00:26:39Z",
-    "url": "https://simpleflying.com/mid-size-florida-hub-betting-delta-air-lines-international-gateway/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "aef681aa721b",
-    "title": "Why The Airbus A321XLR Is Being Parked At JetBlue & Wizz Air, But Kept By Iberia & Qantas",
-    "summary": "The A321XLR is working wonderfully for some airlines, but not for others. Here's what's causing these different operating experiences.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T00:00:17Z",
-    "url": "https://simpleflying.com/airbus-a321xlr-parked-jetblue-wizz-air-kept-iberia-qantas/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "9d6d579ca5a4",
-    "title": "Three ways to get more from your flight simulator",
-    "summary": "A flight simulator can help you log time, stay current, and keep training on bad-weather days. But it offers more than a substitute for the airplane. By letting you control conditions, introduce challenging scenarios, and pause to analyze what happens, a simulator creates prac...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-10-30T22:32:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/october/30/three-ways-to-get-more-from-your-flight-simulator?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "33773f929568",
-    "title": "Alaska Airlines Is Betting On Seatback Screens For Only A Fraction Of Seats On Its Transcon Boeing 737 MAX 10s",
-    "summary": "The newest single-aisle joining Alaska's fleet is comes with a BYOD cabin policy.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T22:00:17Z",
-    "url": "https://simpleflying.com/alaska-airlines-betting-seatback-screen-fraction-seats-transcon-boeing-737-max-10s/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c15093143421",
-    "title": "American Airlines Takes Delivery Of 4 New Airbus A321neos In One Week",
-    "summary": "American Airlines has received four new Airbus jets in one week as its A321neo and A321XLR fleets expand.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-30T21:34:55Z",
-    "url": "https://simpleflying.com/american-airlines-delivery-4-new-airbus-a321neo-family-one-week/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
