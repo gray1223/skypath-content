@@ -1,5 +1,38 @@
 [
   {
+    "id": "dd25a2fea2ac",
+    "title": "Why Boeing 777 Freighter Conversions Are A Stopgap Built On A Shrinking Supply Of Used Jets",
+    "summary": "777 freighter conversions are filling a global cargo gap, but rising costs, fuel consumption and shrinking supplies of used jets threaten their future",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-09T04:00:17Z",
+    "url": "https://simpleflying.com/boeing-777-freigher-conversions-stop-gap/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "de5d861ac5d9",
+    "title": "The Airbus A350 Has Become The New Flagship Of Some Airlines While Others Stick With The Boeing 777",
+    "summary": "Airlines are making very different flagship choices, and the reasons go well beyond brand loyalty.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-09T01:00:18Z",
+    "url": "https://simpleflying.com/airbus-a350-new-flagship-some-airlines-others-stick-boeing-777/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a048e04ec9f1",
+    "title": "American Airlines Backs Out Of $650 Promise To Bumped Passenger, Citing Smaller Plane",
+    "summary": "The even comes weeks after American officially ends involuntarily bumping passengers off flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-08T23:27:47Z",
+    "url": "https://simpleflying.com/american-airlines-backs-out-650-bumped-passenger-smaller-plane/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "5558d7449d2c",
     "title": "Why Singapore Airlines Uses Boeing 787-10s On Short Regional Routes",
     "summary": "Singapore Airlines configures its 787-10s for high density and short routes.",
@@ -2164,39 +2197,6 @@
     "publishedDate": "2026-11-01T00:00:17Z",
     "url": "https://simpleflying.com/cargolux-first-boeing-747-8f-tracked-one-week/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "11368aa01339",
-    "title": "10 Airlines Offering Stopover Packages For A Fraction Of The Cost Of A Separate Trip",
-    "summary": "Discover 10 airlines offering affordable stopovers, from free hotel stays in China and Istanbul to Iceland adventures and Qatar's $14 hotel packages.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T23:00:17Z",
-    "url": "https://simpleflying.com/airlines-offering-stopover-packages-for-a-fraction-of-the-cost-of-a-separate-trip/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d2cfa6462b44",
-    "title": "How Many Crew Members Does It Take To Fly A C-5 Galaxy?",
-    "summary": "The C-5 Galaxy is one of the world's largest military transport aircraft, but its crew requirements reveal a challenge that goes beyond its huge size.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T22:00:17Z",
-    "url": "https://simpleflying.com/how-many-crew-members-does-it-take-to-fly-a-c-5-galaxy/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "67ff32b60b9d",
-    "title": "Southwest Airlines Axed Dallas\u2019 3rd Airport Because \u201cIt Didn\u2019t Really Work,\u201d CEO Admits",
-    "summary": "A $72 million terminal in McKinney opens mid November with Avelo launching 11 leisure routes and room to grow.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-10-31T19:54:20Z",
-    "url": "https://simpleflying.com/southwest-airlines-axed-dallas-3rd-airport-really-didnt-work-ceo/",
-    "airlineTag": "Southwest Airlines",
     "isBreaking": false
   }
 ]
