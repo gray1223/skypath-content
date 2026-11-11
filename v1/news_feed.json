@@ -1,5 +1,16 @@
 [
   {
+    "id": "a2ae6ad54773",
+    "title": "The Boeing Jet Already Sitting In American Airlines' Fleet That Could Quietly Replace Its 47 Oldest Widebodies",
+    "summary": "There's a clear front-runner in this order.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T02:45:17Z",
+    "url": "https://simpleflying.com/boeing-jet-already-sitting-american-airlines-fleet-quietly-replace-its-47-oldest-widebodies/",
+    "airlineTag": "American Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "b78efea66a18",
     "title": "Training and Safety Tip: Anticipate incursions",
     "summary": "After a recent evening flight, while on rollout from my landing, I saw a deer cross the runway at the departure end. It was in no hurry. The runway is only 2,500 feet long, so even at the opposite end from where I was landing, the wildlife wasn&rsquo;t far away at all.",
@@ -7,6 +18,17 @@
     "category": "training",
     "publishedDate": "2026-11-11T01:26:00Z",
     "url": "https://www.aopa.org/news-and-media/all-news/2026/november/10/training-and-safety-tip-anticipate-incursions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "579034e8fa79",
+    "title": "Premium Economy On US Airlines: How The Big 3 Actually Compare",
+    "summary": "On paper, all three offer the same premium economy seating experience.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-10T23:00:18Z",
+    "url": "https://simpleflying.com/premium-economy-us-airlines-big-3-compare/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2175,28 +2197,6 @@
     "publishedDate": "2026-11-03T20:15:18Z",
     "url": "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "dcefac2e8ee8",
-    "title": "Training and Safety Tip: Sim it like you mean it",
-    "summary": "&ldquo;Clear prop!&rdquo; bellowed the young flight instructor so loudly you could hear him all the way across the ramp. No mean trick as he was in our flight school&rsquo;s simulator lab, which is located some distance from our flight line, on the second floor of a very large...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-11-03T20:02:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/03/training-and-safety-tip-sim-it-like-you-mean-it?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b861b157ec5e",
-    "title": "JetBlue Cancels 13 International Nonstop Routes: See Full List Now",
-    "summary": "They're from five US airports. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-03T19:30:17Z",
-    "url": "https://simpleflying.com/jetblue-cancels-13-international-nonstop-routes/",
-    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   }
 ]
