@@ -1,5 +1,104 @@
 [
   {
+    "id": "26156fb6066c",
+    "title": "Alaska Airlines To Launch 8-Hour Flights From Anchorage To Tokyo",
+    "summary": "Alaska Airlines is preparing to launch a new nonstop route between Ted Stevens Anchorage International and Tokyo Narita on May 13th, 2027.With flight schedule information reported by aviation analyst Enilria, the seasonal service is scheduled to operate once daily using the Bo...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T13:28:18Z",
+    "url": "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "c51978547fbd",
+    "title": "The Runway Grooves That Help Commercial Jets Stop During Heavy Rain",
+    "summary": "NASA and the FAA have determined grooves help in retaining traction and improving water drainage, although they remain far from universal.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T12:00:18Z",
+    "url": "https://simpleflying.com/runway-grooves-help-commercial-jets-stop-heavy-rain/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a41f0c2012f2",
+    "title": "Back From The Desert: How 190 Airbus A380s Became Airlines' Most Valuable Asset In 2026",
+    "summary": "This is why some airlines still love the Airbus A380 in 2026, despite production ending years ago.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T11:16:34Z",
+    "url": "https://simpleflying.com/190-airbus-a380s-airlines-valuable-asset-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "22ee3e68f0ea",
+    "title": "Diverted Alaska Airlines Passengers Sleep On Red Cross Cots As Carrier Won't Cover Hotels",
+    "summary": "Travelers were left seeking shelter after promised hotel rooms failed to materialize.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T11:09:30Z",
+    "url": "https://simpleflying.com/alaska-airlines-yakima-diversion-red-cross-cots-no-hotels/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "2c11f2447304",
+    "title": "United CEO Blames FAA For O\u2019Hare\u2019s Notorious Taxi Times, Says It's Like \"Driving To Milwaukee\"",
+    "summary": "Departing flights can require as long as half an hour for their taxi time.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T09:55:19Z",
+    "url": "https://simpleflying.com/united-ceo-scott-kirby-blames-faa-ohare-taxi-times/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "819561bdff69",
+    "title": "Is It True That Airlines Intentionally Use Cabin Lighting & Meal Timing To Fight Long-Haul Jet Lag?",
+    "summary": "Anything that helps with jet lag is a good thing.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T09:00:18Z",
+    "url": "https://simpleflying.com/true-airlines-intentionally-use-cabin-lighting-meal-timing-fight-long-haul-jet-lag/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8b225f6734dd",
+    "title": "Singapore Airlines Becomes The 1st Airline To Reveal A Full Boeing 777-9 Seat Map",
+    "summary": "The carrier has more than 30 777X jets on order.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T09:00:06Z",
+    "url": "https://simpleflying.com/singapore-airlines-1st-boeing-777x-seat-map/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9a8a458a7e0a",
+    "title": "Cathay Pacific orders 11 more Airbus A330neos, raising total to 41",
+    "summary": "Cathay Pacific has exercised purchase rights for 11 additional Airbus A330-900 aircraft, bringing its firm orders for the&#8230; The post Cathay Pacific orders 11 more Airbus A330neos, raising total to 41 appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-11T07:57:07Z",
+    "url": "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "555dee222e5c",
+    "title": "Why Singapore Airlines Is Saving Its New Premium Economy Seat For The Boeing 777-9",
+    "summary": "Singapore Airlines is making a surprising choice for its next-generation premium economy cabin. The reason involves a much-delayed aircraft.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-11T06:00:17Z",
+    "url": "https://simpleflying.com/singapore-airlines-saving-new-premium-economy-seat-boeing-777-9/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a2ae6ad54773",
     "title": "The Boeing Jet Already Sitting In American Airlines' Fleet That Could Quietly Replace Its 47 Oldest Widebodies",
     "summary": "There's a clear front-runner in this order.",
@@ -17,7 +116,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-11T01:26:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/10/training-and-safety-tip-anticipate-incursions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/10/training-and-safety-tip-anticipate-incursions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -138,7 +237,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-10T19:23:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/10/warm-up-for-cold-weather-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/10/warm-up-for-cold-weather-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -1216,7 +1315,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-06T20:31:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/06/pr-aopa-statement-on-nbaa-president-and-ceo-ed-bolens-retirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/06/pr-aopa-statement-on-nbaa-president-and-ceo-ed-bolens-retirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1502,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-05T21:56:53Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/05/florida-shop-owner-jailed-following-new-fraud-charges?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/05/florida-shop-owner-jailed-following-new-fraud-charges?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1568,7 +1667,7 @@
     "source": "AOPA",
     "category": "hiring",
     "publishedDate": "2026-11-05T20:34:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/05/pr-aviation-is-hiring-aopa-launches-career-expo-in-phoenix?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/05/pr-aviation-is-hiring-aopa-launches-career-expo-in-phoenix?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1799,7 +1898,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-04T20:41:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/04/pr-aopa-air-safety-institute-releases-early-analysis-of-learjet-crash-in-florida?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/04/pr-aopa-air-safety-institute-releases-early-analysis-of-learjet-crash-in-florida?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-04T09:54:09Z",
     "url": "https://simpleflying.com/boeing-787-faa-fuel-tank-inspections-lightning-strike/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "28f77eb70fd5",
-    "title": "Boeing confirms triple-digit Avolon order is for MAX 10 jets",
-    "summary": "Boeing has confirmed that a triple-digit order announced last month from lessor Avolon is for 737 MAX 10&#8230; The post Boeing confirms triple-digit Avolon order is for MAX 10 jets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-04T09:19:46Z",
-    "url": "https://www.aerotime.aero/articles/avolon-boeing-737-max-10-order",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "758ebf6e7bc6",
-    "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor",
-    "summary": "Lessors are betting big on the largest MAX variant this year.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-04T09:18:12Z",
-    "url": "https://simpleflying.com/avolon-boeing-737-max-10-order/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0e7320b1e5e1",
-    "title": "Why It Took Years For Boeing To Finally Get The Orders For The 787-10 It Always Wanted",
-    "summary": "The slow start for what became one of Boeing's best-selling jets today.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-04T08:30:18Z",
-    "url": "https://simpleflying.com/why-years-boeing-finally-orders-787-10-always-wanted/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6dcfeacbe7f0",
-    "title": "WestJet Vs. Porter Airlines: Which Carrier Is More Premium In 2026?",
-    "summary": "The Canadian airline market is highly competitive in 2026, with Porter Airlines and WestJet offering some of the best premium products.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-04T00:00:17Z",
-    "url": "https://simpleflying.com/westjet-porter-airlines-carrier-more-premium-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ae79a1a9e95d",
-    "title": "Aircraft Maintenance: Excessive oil consumption",
-    "summary": "Aircraft engines are designed to consume oil, but if every fuel stop has you reaching for another quart, it pays to know where all those so-called &ldquo;dead dinosaurs&rdquo; are going.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-11-03T23:51:36Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/03/aircraft-maintenance-excessive-oil-consumption?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "4242aaae4360",
-    "title": "JetBlue Hikes Checked Bag Fees Again To $50, A 43% Increase In Just 2 Years",
-    "summary": "Rise comes as airlines across the world continue to battle high fuel prices.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-03T21:27:09Z",
-    "url": "https://simpleflying.com/jetblue-hikes-checked-bag-fees-50-43pc-increase-2-years/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "92c91b63ba96",
-    "title": "It's Official: Lufthansa Signs $1.2 Billion Deal To Purchase 44.9% Of TAP Air Portugal",
-    "summary": "Lufthansa officially signs its TAP acquisition agreement, positioning Lisbon as its seventh hub and targeting Latin American growth.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-03T20:52:16Z",
-    "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6f4d4677bae2",
-    "title": "United Airlines Launches 11 New International Routes This Winter: See Full List Now",
-    "summary": "They are from five hubs across the US this winter. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-03T20:30:17Z",
-    "url": "https://simpleflying.com/united-airlines-launches-11-new-international-routes/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "bdf52ee5ef96",
-    "title": "Air Canada Cancels All Flights To This Long-Haul Destination: See Map Now",
-    "summary": "A major route reshuffle has seen the carriers rearrange its Toronto to Mumbai links as fleets and stopovers shift and schedules realign.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-03T20:15:18Z",
-    "url": "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/",
     "airlineTag": null,
     "isBreaking": false
   }
