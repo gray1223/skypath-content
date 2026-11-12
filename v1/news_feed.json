@@ -1,5 +1,93 @@
 [
   {
+    "id": "1e52ec2e375f",
+    "title": "How Short Runways Limit Boeing 787-9 Payloads On Hot Days",
+    "summary": "Denver-style hot-and-high conditions push 787-9 operations to their payload limits and prompt creative fuel or cargo solutions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-12T12:00:18Z",
+    "url": "https://simpleflying.com/how-short-runways-limit-boeing-787-9-payloads-on-hot-days/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "65aec9063709",
+    "title": "The Airbus A321XLR's Premium Economy Problem",
+    "summary": "In this video, we'll look at why only two of the A321XLR's six current operators have chosen premium economy, how dramatically their cabin strategies differ, and whether American and United are making a smart revenue play\u2014or sacrificing seats for a product that works much bett...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-12T12:00:18Z",
+    "url": "https://simpleflying.com/video/the-airbus-a321xlr-s-premium-economy-problem/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "00914251a3fc",
+    "title": "A Look At The Salaries Of US Navy Carrier Air Wing Commanders In 2026",
+    "summary": "How much does a US Navy Carrier Air Wing Commander earn in 2026?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-12T11:42:23Z",
+    "url": "https://simpleflying.com/us-navy-carrier-air-wing-commander-salaries-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3191605f33f",
+    "title": "US military to test autonomous Cessna Caravan for casualty evacuation in Morocco",
+    "summary": "Boston-based Merlin has received a $500,000 contract from US Africa Command (AFRICOM) to demonstrate an autonomous casualty evacuation&#8230; The post US military to test autonomous Cessna Caravan for casualty evacuation in Morocco appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-12T11:25:25Z",
+    "url": "https://www.aerotime.aero/articles/us-military-autonomous-cessna-caravan-casevac-morocco",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d1501b4cf541",
+    "title": "Emirates strikes deal to take ownership of six Airbus A380 aircraft",
+    "summary": "Emirates will take ownership of six Airbus A380-800 aircraft currently operated as part of its fleet under a&#8230; The post Emirates strikes deal to take ownership of six Airbus A380 aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-12T09:42:37Z",
+    "url": "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d52a54edcf1c",
+    "title": "United Airlines to block third-party AI agents from accessing digital platforms",
+    "summary": "In an industry first, United Airlines announced on November 11, 2026, that it is restricting unauthorized third-party artificial&#8230; The post United Airlines to block third-party AI agents from accessing digital platforms appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-12T09:32:51Z",
+    "url": "https://www.aerotime.aero/articles/united-airlines-to-block-third-party-ai-agents-from-accessing-digital-platforms",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "114bd17cdef1",
+    "title": "Zelenskyy says Starshield speed cap returns, hindering Russian drone interceptions",
+    "summary": "Starshield, the military-grade version of SpaceX\u2019s Starlink satellite service, is once again losing connectivity on equipment moving faster&#8230; The post Zelenskyy says Starshield speed cap returns, hindering Russian drone interceptions appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-12T09:25:03Z",
+    "url": "https://www.aerotime.aero/articles/zelenskyy-says-starshield-speed-cap-returns-hindering-russian-drone-interceptions",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "90ad06e1f607",
+    "title": "The Qantas Airbus A321XLR That Has 3 Fewer Economy Seats",
+    "summary": "How one new jet was so controversial that it forced a fleetwide redesign.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-12T09:00:18Z",
+    "url": "https://simpleflying.com/qantas-airbus-a321xlr-3-fewer-economy-seats/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "da4c36d8cece",
     "title": "5 Notable Airports With Night Flight Curfews That Shape Airline Schedules",
     "summary": "Curfew enforcement is strict at these airfields, of which three are European.",
@@ -2109,94 +2197,6 @@
     "publishedDate": "2026-11-05T07:02:36Z",
     "url": "https://simpleflying.com/delta-air-lines-must-face-lawsuit-window-seats-no-window/",
     "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "8ed76633dcf2",
-    "title": "How Emirates Safeguards Its Longest Airbus A380 Route With A Little-Known Fallback",
-    "summary": "The Dubai-based carrier is the world's largest operator of the Airbus A380.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-05T04:15:18Z",
-    "url": "https://simpleflying.com/how-emirates-safeguards-its-longest-airbus-a380-route-little-known-fallback/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "861deb107766",
-    "title": "Why 17 Regional Gates Matter So Much To The Airline Carrying Over 60% Of Miami's Passengers",
-    "summary": "Miami International Airport is one of the country's primary international gateways.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-05T00:00:17Z",
-    "url": "https://simpleflying.com/17-gates-matter-so-much-airlne-carrying-over-60-percent-miami-passengers/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "94db8a660569",
-    "title": "How Much Premium Economy Costs On London-New York Flights In 2026",
-    "summary": "Premium economy on London-New York flights costs around \u00a31,167 or more in 2026. Compare British Airways, Virgin Atlantic and other airlines.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-04T22:00:17Z",
-    "url": "https://simpleflying.com/how-much-premium-economy-costs-london-new-york-flights-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59d8ecb4faeb",
-    "title": "AOPA Air Safety Institute Releases Early Analysis of Learjet Crash in Florida",
-    "summary": "FREDERICK, Md.\u2014 The Aircraft Owners and Pilots Association Air Safety Institute (ASI) has released a new Early Analysis video examining the November 1 crash of a Learjet 60 in Palm Beach County, Florida, that claimed nine lives.",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-11-04T20:41:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/04/pr-aopa-air-safety-institute-releases-early-analysis-of-learjet-crash-in-florida?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "967d1da3440f",
-    "title": "Maxwell unveils hybrid amphibious aircraft concept for cargo flights",
-    "summary": "Florida-based aircraft developer Maxwell Aircraft has unveiled a hybrid amphibious aircraft concept designed to carry cargo between waterways&#8230; The post Maxwell unveils hybrid amphibious aircraft concept for cargo flights appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-04T20:30:29Z",
-    "url": "https://www.aerotime.aero/articles/maxwell-m1-hybrid-amphibious-cargo-aircraft",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "da7ac74044e8",
-    "title": "Heavy-Lift Drone Completes 50-Mile Flight in Indiana Corridor",
-    "summary": "Purdue-owned aircraft demonstrates cargo delivery capabilities as new FAA drone test site begins operations.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-11-04T20:22:31Z",
-    "url": "https://avweb.com/aviation-news/drone-50-mile-bvlos-flight-indiana/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "73277ccc8bf4",
-    "title": "JetBlue Cancels 19 Routes From Florida: See Full List Now",
-    "summary": "16 are domestic and three are international. Find them all here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-04T20:01:18Z",
-    "url": "https://simpleflying.com/jetblue-cancels-19-routes-from-florida/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "0e666731567d",
-    "title": "7 Airlines With The Largest Dreamliner Fleets In 2026",
-    "summary": "From launch customer roots to recent bulk orders, these airlines leverage Dreamliner commonality and size options.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-04T20:01:18Z",
-    "url": "https://simpleflying.com/7-airlines-largest-dreamliner-fleets-2026/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
