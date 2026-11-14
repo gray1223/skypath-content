@@ -1,5 +1,82 @@
 [
   {
+    "id": "35bfc2e79396",
+    "title": "5 Military Aircraft Powered By Engines Found On Commercial Airliners",
+    "summary": "Manufacturers benefit from lower development costs and better reliability and efficiency by borrowing engines from the civilian market.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T21:00:17Z",
+    "url": "https://simpleflying.com/military-aircraft-powered-commercial-airliner-engines/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "68c5f53130c8",
+    "title": "Emirates Pokes Fun At US\u2019 Aviation Disaster From Ground Stop & Microsoft Outage",
+    "summary": "The airline's playful jab amplified after thousands of US departures paused during an unprecedented four hour halt that snarled travel.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T20:10:27Z",
+    "url": "https://simpleflying.com/emirates-pokes-fun-us-aviation-disaster-ground-stop-microsoft-outage/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "dcb99207d523",
+    "title": "How Delta Air Lines' Boston Expansion Became A Safer Bet Than Its Postponed Atlanta\u2013Riyadh Launch",
+    "summary": "Delta is increasing Boston's European network capacity for the next year.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T20:00:17Z",
+    "url": "https://simpleflying.com/delta-air-lines-boston-expansion-safer-bet-postponed-atlanta-riyadh-launch/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "7d9376579ee2",
+    "title": "Why Breeze Airways Is Taking Spirit Airlines' Leftover Leisure Markets But Avoiding Big Trunk Routes",
+    "summary": "The carrier is making the most of the opportunities created by Spirit Airlines' demise.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T19:00:18Z",
+    "url": "https://simpleflying.com/breeze-airways-taking-spirit-airlines-leftover-leisure-markets-avoiding-big-trunk-routes/",
+    "airlineTag": "Breeze Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "83928660d124",
+    "title": "Nationwide Ground Stop Caused By Same Firm That Left Trump\u2019s Boeing 747-8 With Security Gaps",
+    "summary": "Technicians switching copper to fiber triggered out of sync data floods across legacy FAA routers and grounded flights.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T18:57:18Z",
+    "url": "https://simpleflying.com/nationwide-ground-stop-caused-same-firm-left-trump-boeing-747-8-security-gaps/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "75870195ed99",
+    "title": "Why Doesn't The World's Fastest Commercial Aircraft Have Winglets?",
+    "summary": "The Boeing 747-8's innovative raked wingtips offer a sleek, integrated solution to reduce induced drag.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T18:31:06Z",
+    "url": "https://simpleflying.com/why-the-worlds-fastest-commerical-aircraft-has-no-winglets/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "355b18e418e3",
+    "title": "How Much Does It Cost To Own & Operate A Cirrus Vision Jet Each Year?",
+    "summary": "What owners can expect to spend each year on fuel, maintenance, insurance, and other operating expenses.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T18:00:18Z",
+    "url": "https://simpleflying.com/cirrus-vision-jet-annual-ownership-operating-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "d2f63c653b86",
     "title": "Watch: 3 Rock Bands Play Mid-Air Concert On Southwest Jet That Narrowly Beat FAA Ground Stop",
     "summary": "Three early-2000s rock bands took turns performing in the aisle of a Southwest flight from LAX.",
@@ -2120,83 +2197,6 @@
     "publishedDate": "2026-11-07T23:01:17Z",
     "url": "https://simpleflying.com/5-airbus-a321neo-routes-lie-flat-business-class-seats/",
     "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "d0b0af18dbe4",
-    "title": "The 4 Largest Air Force Bases By Bomber Fleet Presence",
-    "summary": "A closer look at the homes of the USAF's heaviest-hitters.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T22:31:17Z",
-    "url": "https://simpleflying.com/largest-air-force-bases-by-bomber-fleet-presence/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a036a0b3e223",
-    "title": "American Airlines Officially Welcomes Passengers Back To Flagship Dining At LAX After 6 Years",
-    "summary": "A refined sit-down Flagship Dining experience returns to LAX with multi-course menus and expanded business class access.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T22:00:32Z",
-    "url": "https://simpleflying.com/american-airlines-officially-welcomes-passengers-back-lax-flagship-dining-6-years/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "089b07dfa8b5",
-    "title": "United Airlines Pilots Defy ATC Orders To Fly Through \u201cThe Worst Part\u201d Of A Severe Thunderstorm",
-    "summary": "Pilots consult dispatch and push for an alternate path as ATC initially points the flight directly into severe weather.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T20:24:07Z",
-    "url": "https://simpleflying.com/united-airlines-pilots-defy-atc-orders-fly-through-worst-part-severe-storm/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "4e5723352593",
-    "title": "The $20 Billion Airport Transformation Planned Around United's Washington Hub",
-    "summary": "Dulles just tripled its modernization budget to more than $20 billion, with Concourse C and D set for replacement.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T20:00:18Z",
-    "url": "https://simpleflying.com/washington-dulles-airport-20-billion-transformation/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "3d3a70d1387e",
-    "title": "Southwest Airlines Flight Attendant Allegedly Quit Job After Passenger-Facing Crew Dispute",
-    "summary": "A tense cabin confrontation unfolded at Dallas Love Field as crew clashed before pushback, delaying the flight for hours.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T19:45:14Z",
-    "url": "https://simpleflying.com/southwest-airlines-flight-attendant-quit-job-passenger-facing-crew-dispute/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "211774ab8f3c",
-    "title": "How Much Are Delta SkyMiles Worth Compared To American AAdvantage Miles In 2026?",
-    "summary": "American's AAdvantage program actually provides a better value compared to SkyMiles in certain cases, although there are other considerations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T19:00:18Z",
-    "url": "https://simpleflying.com/how-much-delta-skymiles-worth-compared-to-an-american-aadvantage-miles/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "9916dea28696",
-    "title": "5 Costs Airlines Face When A Widebody Jet Engine Needs An Overhaul",
-    "summary": "The evolving industry, and climbing price, of extra-large turbofan engine repairs.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T18:01:18Z",
-    "url": "https://simpleflying.com/widebody-aircraft-engine-overhaul-costs-explained/",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
