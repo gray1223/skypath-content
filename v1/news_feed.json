@@ -1,5 +1,60 @@
 [
   {
+    "id": "d2f63c653b86",
+    "title": "Watch: 3 Rock Bands Play Mid-Air Concert On Southwest Jet That Narrowly Beat FAA Ground Stop",
+    "summary": "Three early-2000s rock bands took turns performing in the aisle of a Southwest flight from LAX.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T11:57:59Z",
+    "url": "https://simpleflying.com/rock-bands-mid-air-concert-southwest-faa-ground-stop/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "06fc3cefe77d",
+    "title": "The US Quietly Raided Switzerland's F-35 Account To Pay For Patriot Missiles \u2014 Here's What Happened Next",
+    "summary": "A diplomatic debacle bogged down the Swiss Air Force's plans.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T10:15:18Z",
+    "url": "https://simpleflying.com/us-quietly-raided-f-35-account-pay-patriot-missiles-heres-what-happened-next/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "49f3c6d18543",
+    "title": "Airlines Warn Ground Stop Chaos Is Far From Over With Planes & Crews Stuck In Wrong Cities",
+    "summary": "Stranded crews and grounded jets paint chaotic airport scenes as tech failures ripple through nationwide schedules.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T06:53:53Z",
+    "url": "https://simpleflying.com/faa-ground-stop-chaos-far-from-over-planes-crews-stuck/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "26d42fdc676c",
+    "title": "Why Boeing 787 Cockpits Use Electronic Checklists Instead Of Paper",
+    "summary": "Paper procedures remain essential backups when displays fail, and crews use approved alternates to complete checklists.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T06:00:17Z",
+    "url": "https://simpleflying.com/why-boeing-787-cockpits-use-electronic-checklists-instead-of-paper/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "88880e0c76d2",
+    "title": "What Pilots Actually Do Hour-By-Hour On An 18-Hour Flight To New York JFK",
+    "summary": "A350-900ULR flights use four pilots. They have dedicated rest periods and are always busy in the cockpit.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T05:07:57Z",
+    "url": "https://simpleflying.com/what-pilot-actually-do-hour-by-hour-on-18-hour-new-york-jfk-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "0f06c99afe1d",
     "title": "Duffy presses Republican Congress to fund ATC overhaul after nationwide outage",
     "summary": "As US Transportation Secretary Sean Duffy faces the prospect of hours of congressional grilling over what precisely caused&#8230; The post Duffy presses Republican Congress to fund ATC overhaul after nationwide outage appeared first on AeroTime.",
@@ -2141,61 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-07T18:01:18Z",
     "url": "https://simpleflying.com/widebody-aircraft-engine-overhaul-costs-explained/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d2b34edbd04f",
-    "title": "JetBlue Cancels Massive 12 Routes From New York-JFK: See Full List Now",
-    "summary": "These capacity shifts have resulted in JFK losing its top spot among JetBlue's bases in certain months.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T18:01:18Z",
-    "url": "https://simpleflying.com/jetblue-cancels-12-routes-new-york-jfk/",
-    "airlineTag": "JetBlue Airways",
-    "isBreaking": false
-  },
-  {
-    "id": "00bb8d2b40e9",
-    "title": "Lawsuits Accuse 7 US Airlines Of Colluding To Raise Fares By Sharing Pricing Data",
-    "summary": "The airlines allegedly used a shared database to monitor fares and quickly match cheaper tickets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T14:35:01Z",
-    "url": "https://simpleflying.com/lawsuits-accuse-us-airlines-colluding-raise-fares/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c82da7066fd3",
-    "title": "Nation\u2019s First Digital ATC Towers Come Online in Florida, Alaska",
-    "summary": "FAA announces new tech is operational at Florida\u2019s Bartow Executive Airport and Alaska\u2019s Kenai Municipal Airport.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-11-07T13:00:00Z",
-    "url": "https://www.flyingmag.com/1st-digital-atc-towers-online-florida-alaska/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "76ccfe28cd28",
-    "title": "10 US Airport Projects Replacing Regional Gates With Mainline Jet Capacity",
-    "summary": "Former regional hubs are expanding gates and demolishing commuter concourses to welcome A320 and 737 mainline operations.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T09:00:17Z",
-    "url": "https://simpleflying.com/us-airports-replacing-regional-jet-gates/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ee8eaf53ac1b",
-    "title": "Qantas Is Training 360+ Pilots & 1,200 Cabin Crew For Just 12 Airbus A350-1000ULRs",
-    "summary": "Qantas is training 360 pilots and 1,200 cabin crew for 12 aircraft. The 22-hour flights explain the ratio.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T06:00:17Z",
-    "url": "https://simpleflying.com/qantas-training-360-pilots-1200-cabin-crew-12-airbus-a350-1000ulrs/",
     "airlineTag": null,
     "isBreaking": false
   }
