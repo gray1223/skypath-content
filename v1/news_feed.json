@@ -1,5 +1,71 @@
 [
   {
+    "id": "0f06c99afe1d",
+    "title": "Duffy presses Republican Congress to fund ATC overhaul after nationwide outage",
+    "summary": "As US Transportation Secretary Sean Duffy faces the prospect of hours of congressional grilling over what precisely caused&#8230; The post Duffy presses Republican Congress to fund ATC overhaul after nationwide outage appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-14T03:31:51Z",
+    "url": "https://www.aerotime.aero/articles/duffy-congress-atc-funding-nationwide-outage",
+    "airlineTag": "Republic Airways",
+    "isBreaking": false
+  },
+  {
+    "id": "7d60bd39f564",
+    "title": "FAA Rules Out SMART AI System as Cause of Nationwide Ground Stop",
+    "summary": "Flights resume after more than four hours as officials identify problems with aging air traffic control equipment.",
+    "source": "AvWeb",
+    "category": "regulatory",
+    "publishedDate": "2026-11-14T02:58:26Z",
+    "url": "https://avweb.com/aviation-news/faa-nationwide-ground-stop-lifts-smart-ai/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fb7b7e547586",
+    "title": "The US Navy Retired A 10,000-Lb Cargo Workhorse For A Tiltrotor That Carries 4,000 Lbs Fewer",
+    "summary": "A closer look at how the Osprey is evolving naval aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T02:45:18Z",
+    "url": "https://simpleflying.com/the-us-navy-retired-100-pound-cargo-workhourse-tiltrotor-carries-4000-pounds-less/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a3a98a8fe5d0",
+    "title": "\u2018Air Space Is Reopened\u2019: FAA Lifts Nationwide Ground Stop",
+    "summary": "Mullin: Technology update 'overwhelmed' ATC system.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-11-14T02:00:41Z",
+    "url": "https://www.flyingmag.com/air-space-is-reopened-faa-lifts-nationwide-ground-stop/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "463405414dad",
+    "title": "Why New Boeing Planes Are Green Before Delivery, But Airbus Aircraft Aren't",
+    "summary": "Fuselages appear especially green partly due to a peelable layer and the stage at which they are pictured.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T01:00:17Z",
+    "url": "https://simpleflying.com/new-boeing-planes-green-before-delivery-airbus-aircraft-arent/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3b5d7e703bab",
+    "title": "Alaska Airlines Plans To Connect Tokyo From Anchorage, But Can Only Do It With 1 Boeing 737",
+    "summary": "The route will begin in Spring 2027 and last through the summer.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T00:00:17Z",
+    "url": "https://simpleflying.com/alaska-airlines-connecting-tokyo-anchorage-only-1-boeing-737/",
+    "airlineTag": "Alaska Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "3f581a9e8b32",
     "title": "Delta Air Lines Is Already Flying The Replacement For Its Aging Airbus A319s, But American & United Don't Have One",
     "summary": "A closer look at why American and United don't want a straight replacement for their A319s.",
@@ -11,6 +77,17 @@
     "isBreaking": false
   },
   {
+    "id": "46a754608a7a",
+    "title": "FAA halts all US departures, warns airborne flights to expect holding nationwide",
+    "summary": "The US Federal Aviation Administration (FAA) ordered a nationwide ground stop shortly before 4 p.m. Eastern time on&#8230; The post FAA halts all US departures, warns airborne flights to expect holding nationwide appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-13T21:53:31Z",
+    "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "fcd4fee667c3",
     "title": "BREAKING: FAA halts all US departures, warns airborne flights to expect holding nationwide",
     "summary": "The US Federal Aviation Administration (FAA) ordered a nationwide ground stop shortly before 4 p.m. Eastern time on&#8230; The post BREAKING: FAA halts all US departures, warns airborne flights to expect holding nationwide appeared first on AeroTime.",
@@ -18,6 +95,17 @@
     "category": "industry",
     "publishedDate": "2026-11-13T21:53:31Z",
     "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "1dc382a45c10",
+    "title": "FAA Lifts Multi-Hour Nationwide Ground Stop Linked To \"Instability\" Of Radar & ATC Communications",
+    "summary": "The agency cited communication problems for the halt.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-13T21:41:18Z",
+    "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2108,94 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-07T06:00:17Z",
     "url": "https://simpleflying.com/qantas-training-360-pilots-1200-cabin-crew-12-airbus-a350-1000ulrs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0aef7ee219b8",
-    "title": "6 Airlines Offering Premium Economy On Flights Shorter Than 6 Hours",
-    "summary": "Premium economy isn't always as expensive as you might think and can be accessed cost-effectively on shorter routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T05:00:17Z",
-    "url": "https://simpleflying.com/6-airlines-premium-economy-flights-shorter-6-hours/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2258ac66098d",
-    "title": "The Airline That Invented Premium Economy Just Built A 42-Inch Seat Nobody Else Can",
-    "summary": "When looking at premium economy offerings, there is only one airline where you can find a 42-inch seat.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T01:32:06Z",
-    "url": "https://simpleflying.com/airline-invented-premium-economy-built-42-inch-seat-nobody-else/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a152f35828eb",
-    "title": "Why The Boeing 747-400 Was A Turning Point For Two-Pilot Cockpits",
-    "summary": "The Boeing 747-400 revolutionized jumbo-jet cockpits, replacing the flight engineer with advanced automation and a two-pilot flight deck.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T01:00:17Z",
-    "url": "https://simpleflying.com/boeing-747-400-two-pilot-cockpit-evolution/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a529122b74c4",
-    "title": "19-Year-Old Southwest Airlines Boeing 737 Loses #2 Engine After Takeoff, Declares Emergency",
-    "summary": "N281WN the carrier's 500th 737 circled over the South Bay as pilots ran emergency checklists and prepared for a single\u2011engine return.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-06T23:23:01Z",
-    "url": "https://simpleflying.com/19-year-old-southwest-airlines-boeing-737-loses-engine-takeoff-emergency/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "dd19a2d1f852",
-    "title": "Delta Air Lines Boosts Summer 2027 Schedule With New Routes & Expanded Weekend Frequencies",
-    "summary": "Delta expands its summer 2027 leisure network as strong 2026 load factors support returning routes and additional weekend flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-06T22:03:34Z",
-    "url": "https://simpleflying.com/delta-air-lines-boost-summer-2027-new-routes-weekend-frequencies/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "a8f439d867f6",
-    "title": "Digital Towers Operational at Two Airports",
-    "summary": "Camera-based systems are now operating in Florida and Alaska under a newly approved FAA program.",
-    "source": "AvWeb",
-    "category": "industry",
-    "publishedDate": "2026-11-06T21:36:00Z",
-    "url": "https://avweb.com/aviation-news/digital-towers-operational-at-two-airports/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e1908ec20bd8",
-    "title": "Allegiant Air Cancels Massive 25 Routes: See Full List Now",
-    "summary": "Low fare strategy drives a pivot to regional airports and seasonal-only services as Allegiant tightens winter capacity.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-06T21:34:08Z",
-    "url": "https://simpleflying.com/allegiant-air-cancels-massive-25-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "005ee634a531",
-    "title": "AOPA Statement on NBAA President and CEO Ed Bolen's Retirement",
-    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association (AOPA) expressed gratitude for Ed Bolen, who is retiring because of his health after having served as President and CEO of the National Business Aviation Association (NBAA) since 2004. Prior to joining NBAA, Bolen led t...",
-    "source": "AOPA",
-    "category": "training",
-    "publishedDate": "2026-11-06T20:31:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/06/pr-aopa-statement-on-nbaa-president-and-ceo-ed-bolens-retirement?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   }
