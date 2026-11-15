@@ -1,5 +1,49 @@
 [
   {
+    "id": "98f5977b016d",
+    "title": "The Hidden Math Behind Delta Air Lines Being The Only US Carrier Flying Mainline Jets With Under 110 Seats",
+    "summary": "Delta's use of smaller mainline aircraft is shaped by pilot agreements, favorable pricing, and the need to serve smaller domestic markets.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T23:00:18Z",
+    "url": "https://simpleflying.com/hidden-math-delta-air-lines-only-us-carrer-mainline-jets-under-110-seats/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "ba1fae64b3ef",
+    "title": "How Much Do Boeing 737 MAX Pilots Actually Earn At US Carriers In 2026?",
+    "summary": "The top pilot salaries were once reserved for long-haul flying. Today, flying the 737 MAX or other narrowbodies actually provides similar pay levels.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T22:30:18Z",
+    "url": "https://simpleflying.com/how-much-boeing-737-max-pilots-earn-us-carriers/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "6f6a33f70f57",
+    "title": "Why Did Emirates Order The Boeing 777X And Not More Airbus A350s?",
+    "summary": "A closer look at Emirates' fleet strategy and how it differs from other airlines.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T22:30:18Z",
+    "url": "https://simpleflying.com/why-did-emirates-order-more-boeing-777x-than-a350/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fa41c72c1dd5",
+    "title": "IATA: Nearly 50% Of Air Accident Investigations Lack Final Reports, Hindering Safety Progress",
+    "summary": "Air India Flight 171 and China Eastern Airlines Flight 5735 are at the focus of conversations.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-14T22:23:38Z",
+    "url": "https://simpleflying.com/iata-half-air-accident-investigations-lack-final-reports/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "35bfc2e79396",
     "title": "5 Military Aircraft Powered By Engines Found On Commercial Airliners",
     "summary": "Manufacturers benefit from lower development costs and better reliability and efficiency by borrowing engines from the civilian market.",
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-11-08T07:35:47Z",
     "url": "https://simpleflying.com/air-france-a350-american-airlines-a321-near-midair-collision-lax/",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "e2f8ebbf9312",
-    "title": "The Evolution Of Airplane Window Design",
-    "summary": "Why are airplane windows oval, and why do airlines want to replace them with screens? A cabin designer explores the secret engineering of your view",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T06:00:17Z",
-    "url": "https://simpleflying.com/evolution-airplane-window-design/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aae38bce1a50",
-    "title": "The Airline That Introduced Premium Economy To The World",
-    "summary": "EVA Air debuted Premium Economy back in the 1990s.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T02:45:17Z",
-    "url": "https://simpleflying.com/the-airline-introduced-premium-economy-to-world/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "fc89e9d787db",
-    "title": "Why Air Canada Is Replacing Some Boeing 787 Flights With Airbus A321XLRs",
-    "summary": "The airline is optimizing its network and growing all-around, with both types becoming integral to its plans.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T01:00:17Z",
-    "url": "https://simpleflying.com/air-canada-replacing-some-boeing-787-flights-airbus-a321xlrs/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "393ca12c7701",
-    "title": "5 Airbus A321neo Routes With Lie-Flat Business Class Seats",
-    "summary": "Five A321neo routes carry fully lie-flat business class, from JetBlue's transcon Mint to an all-business-class airline with 76 flat beds.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-07T23:01:17Z",
-    "url": "https://simpleflying.com/5-airbus-a321neo-routes-lie-flat-business-class-seats/",
-    "airlineTag": "JetBlue Airways",
     "isBreaking": false
   }
 ]
