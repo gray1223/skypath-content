@@ -1,5 +1,115 @@
 [
   {
+    "id": "bd57eaac5c3d",
+    "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
+    "summary": "The Federal Aviation Administration has ordered inspections of certain Boeing 787 Dreamliners, warning that sealant defects could create a spark inside the tank during a lightning strike, potentially triggering a fuel tank explosion. The airworthiness directive will take effec...",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-11-15T13:27:18Z",
+    "url": "https://simpleflying.com/video/dozens-of-boeing-787s-face-checks-over-fuel-tanks-that-could-ignite-when-hit-by-lightning/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "baf035298c3e",
+    "title": "A B737 and a B767 collide on the ground at Miami International Airport",
+    "summary": "Two aircraft, a Copa Airlines B737 and a B767 freighter operated by UPS, collided on the ground at&#8230; The post A B737 and a B767 collide on the ground at Miami International Airport appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-15T12:36:31Z",
+    "url": "https://www.aerotime.aero/articles/a-b737-and-a-b767-collide-on-the-ground-at-miami-international-airport",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "d78b95eef46f",
+    "title": "The 2-Hour Rest Rule Ultra-Long-Haul Airbus A350 Pilots Have Before Landing",
+    "summary": "The pilot landing an ultra-long-haul A350 needs two consecutive hours of rest in the second half of the flight.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T12:00:18Z",
+    "url": "https://simpleflying.com/2-hour-rest-rule-ultra-long-haul-airbus-a350-pilots-have-before-landing/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "182fab160cf8",
+    "title": "Spool Up Vs. Turn & Burn: Which Takeoff Concept Is More Effective?",
+    "summary": "Contrasting engine timing and runway tactics as manufacturers and pilots tailor thrust sequences to real conditions.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T12:00:18Z",
+    "url": "https://simpleflying.com/spool-up-turn-burn-takeoff-concept-more-effective/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "83a96aa46798",
+    "title": "Why United Airlines Flies Its Boeing 787-9 Dreamliners On Domestic Routes",
+    "summary": "Can widebody aircraft really be used on domestic flights? United Airlines is one airline that proves this.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T11:01:19Z",
+    "url": "https://simpleflying.com/why-united-airlines-flies-boeing-787-9-domestic-routes/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "ee1804074566",
+    "title": "China\u2019s COMAC completes first piloted flight of CE-25A electric aircraft",
+    "summary": "China\u2019s first domestically developed fixed-wing electric commercial aircraft, the CE-25A, completed its first piloted test flight on November&#8230; The post China\u2019s COMAC completes first piloted flight of CE-25A electric aircraft appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-15T10:32:27Z",
+    "url": "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "2606024b4371",
+    "title": "Why Airlines Don\u2019t Want First Class Anymore",
+    "summary": "Airlines are making a surprising move that's leaving some luxury travellers in the lurch. What's behind this shift?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T10:15:18Z",
+    "url": "https://simpleflying.com/why-airlines-dont-want-first-class/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "79f235693daa",
+    "title": "How The Boeing 737 MAX 10 Is Growing First Class On US Airlines",
+    "summary": "US airlines are planning to add larger premium cabins to the 737 MAX 10.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T08:00:17Z",
+    "url": "https://simpleflying.com/how-boeing-737-max-10-growing-first-class-flying-us/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "54ccc056721b",
+    "title": "\u2018Somebody Hit Us\u2019: UPS Boeing 767 Collides With Copa 737 In Miami After Taxiing Too Far",
+    "summary": "Two people were treated for minor injuries following the dramatic impact.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T06:48:04Z",
+    "url": "https://simpleflying.com/ups-boeing-767-collides-copa-737-miami-airport-taxiway/",
+    "airlineTag": "UPS Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "94251c3e0837",
+    "title": "Emirates Is Stripping Its Airbus A380s To 'Bare Metal' While Qantas Retires Its Superjumbos 4 Years Early",
+    "summary": "Emirates is investing billions to keep its A380s flying, while Qantas accelerates its Superjumbos for retirement.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T05:30:01Z",
+    "url": "https://simpleflying.com/emirates-stripping-airbus-a380s-bare-metal-qantas-retires-superjumbos-4-years-early/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "98f5977b016d",
     "title": "The Hidden Math Behind Delta Air Lines Being The Only US Carrier Flying Mainline Jets With Under 110 Seats",
     "summary": "Delta's use of smaller mainline aircraft is shaped by pilot agreements, favorable pricing, and the need to serve smaller domestic markets.",
@@ -2086,116 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-08T17:15:19Z",
     "url": "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-480k/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "aa95a7413630",
-    "title": "Iraq axes Mosul Airport leases over alleged armed group links",
-    "summary": "Iraq is seeking to replace three commercial operators at Mosul International Airport with international companies after Prime Minister&#8230; The post Iraq axes Mosul Airport leases over alleged armed group links appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-08T14:34:56Z",
-    "url": "https://www.aerotime.aero/articles/iraq-axes-mosul-airport-leases-over-alleged-armed-group-links",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8e3fe9d990f1",
-    "title": "CFM wins engine deal for 101 China Eastern A320neo family jets",
-    "summary": "China Eastern Airlines has confirmed CFM International as the engine supplier for its latest Airbus narrowbody order, selecting&#8230; The post CFM wins engine deal for 101 China Eastern A320neo family jets appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-08T14:21:34Z",
-    "url": "https://www.aerotime.aero/articles/cfm-wins-engine-deal-for-101-china-eastern-a320neo-family-jets",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "be5e3024f32e",
-    "title": "Israel\u2019s Israir eyes acquisition of rival Arkia",
-    "summary": "Israir is considering acquiring Israeli rival Arkia, a move that could create a larger airline group with five&#8230; The post Israel\u2019s Israir eyes acquisition of rival Arkia appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-08T14:14:10Z",
-    "url": "https://www.aerotime.aero/articles/israels-israir-eyes-rival-arkia-acquisition",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "39713d841067",
-    "title": "Israel\u2019s Israir eyes rival Arkia acquisition",
-    "summary": "Israir is considering acquiring Israeli rival Arkia, a move that could create a larger airline group with five&#8230; The post Israel\u2019s Israir eyes rival Arkia acquisition appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-08T14:14:10Z",
-    "url": "https://www.aerotime.aero/articles/israels-israir-eyes-rival-arkia-acquisition",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "d9b6997a7a4e",
-    "title": "Air France A350 departure deviation brings it close to American A321 at LAX",
-    "summary": "An Air France Airbus A350-900 and an American Airlines Airbus A321-200 were involved in a near-mid-air collision shortly&#8230; The post Air France A350 departure deviation brings it close to American A321 at LAX appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-08T13:38:31Z",
-    "url": "https://www.aerotime.aero/articles/air-france-a350-departure-deviation-brings-it-close-to-american-a321-at-lax",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "cf786dfe05e7",
-    "title": "5 Airbus A321XLR Routes Replacing Widebody Aircraft",
-    "summary": "Airlines are persuaded by favorable economics and point-to-point travel trends.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T12:00:18Z",
-    "url": "https://simpleflying.com/5-airbus-a321xlr-routes-replacing-widebody-aircraft/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "59f1f2908fe7",
-    "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
-    "summary": "Hidden structural damage from violent winds lingered unnoticed for nine days.",
-    "source": "Simple Flying",
-    "category": "regulatory",
-    "publishedDate": "2026-11-08T09:01:57Z",
-    "url": "https://simpleflying.com/ntsb-missed-inspections-southwest-boeing-737-max-dutch-roll/",
-    "airlineTag": "Southwest Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "1a10467791b4",
-    "title": "Airline Legroom Ranked: The US Carriers With The Most Economy Seat Pitch",
-    "summary": "Which airline has the best economy class seat pitch in the US, and why do cabins feel more cramped than ever?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T09:00:17Z",
-    "url": "https://simpleflying.com/us-carriers-most-economy-seat-pitch/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "7232e9daf5d6",
-    "title": "United 737 Jet Blast Reportedly Flips Cessna At John Wayne Airport, But Officials Blame Wind",
-    "summary": "A crane was needed to right the Cessna 172, which flipped onto its roof with two people aboard.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T07:54:10Z",
-    "url": "https://simpleflying.com/united-737-jet-blast-flips-cessna-john-wayne-airport-wind/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "306b26f27365",
-    "title": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX",
-    "summary": "A midnight LAX departure turned tense when an A350's unauthorized left turn intersected an A321's climb path.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T07:35:47Z",
-    "url": "https://simpleflying.com/air-france-a350-american-airlines-a321-near-midair-collision-lax/",
     "airlineTag": null,
     "isBreaking": false
   }
