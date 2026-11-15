@@ -1,5 +1,104 @@
 [
   {
+    "id": "9b0d45bd483b",
+    "title": "Lie-Flat Business Class On Narrowbodies: Malaysia Airlines Reveals Its Boeing 737 MAX 10 Strategy",
+    "summary": "Malaysia Airlines will introduce lie-flat business class on 12 Boeing 737 MAX 10s, transforming regional travel and its fleet strategy by 2030.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T21:00:18Z",
+    "url": "https://simpleflying.com/malaysia-airlines-boeing-737-max-10-lie-flat-business-class/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "fd3000b85e7d",
+    "title": "China Completes First Piloted Flight Of 19-Seat Electric Plane Built To Fly Between Cities",
+    "summary": "First flight is complete but certification is still a major hurdle.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T20:14:04Z",
+    "url": "https://simpleflying.com/comac-ce-25a-electric-plane-first-piloted-flight/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "93210031a135",
+    "title": "How Much Does It Cost To Charter A Pilatus PC-12 Per Hour In 2026?",
+    "summary": "A PC-12 charters for roughly $2,000 to $3,000 per hour, though positioning flights and fees can move the final figure considerably.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T20:00:18Z",
+    "url": "https://simpleflying.com/pilatus-pc-12-hourly-charter-cost-2026/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "ad78daf22b16",
+    "title": "Delta Air Lines Launches New 9-Hour Nonstop Route: See Map Now",
+    "summary": "The carrier now serves two Hawaiian destinations from Minneapolis.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T20:00:18Z",
+    "url": "https://simpleflying.com/delta-launches-new-9-hour-route/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d3142b61dd8f",
+    "title": "Southwest Airlines Auctioning Off Old Oakland Baggage Tugs For $750",
+    "summary": "Southwest Airlines is auctioning retired Oakland baggage tugs for $750 each, attracting attention from aviation enthusiasts and bargain hunters.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T19:47:58Z",
+    "url": "https://simpleflying.com/southwest-airlines-auctioning-off-old-oakland-baggage-carts-750/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "3c5c26615b5c",
+    "title": "Why This Airline Wants To Replace Its Airbus A350s From 2030",
+    "summary": "The paradigm shift coming the Malaysia Airlines' the before the end of the decade.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T19:01:21Z",
+    "url": "https://simpleflying.com/airline-replacing-airbus-a350-fleet-2030/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8a7989fb487d",
+    "title": "United Airlines Doubles Flights On 7 Routes From Major Hub: See Full List Now",
+    "summary": "All of these are domestic routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T18:00:19Z",
+    "url": "https://simpleflying.com/united-doubles-flights-on-7-routes-from-major-hub/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "e33edb4fec62",
+    "title": "Comfort, Capacity & Lower Costs: Why This Airline Is Expanding Its Airbus A330 Fleet",
+    "summary": "RwandAir is looking to grow its Airbus A330 fleet, with the aim of taking on the giants of the airline industry to grow its international network.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T18:00:19Z",
+    "url": "https://simpleflying.com/airline-expanding-airbus-a330-fleet-comfort-capacity-costs/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8ea093e497d5",
+    "title": "United Airlines Launches 6 New Nonstop Routes In Only 9 Days: See Full List Now",
+    "summary": "Most are short-haul international services, but there is one long-haul exception.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-15T18:00:19Z",
+    "url": "https://simpleflying.com/united-launches-6-new-routes-in-9-days/",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
     "id": "bd57eaac5c3d",
     "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
     "summary": "The Federal Aviation Administration has ordered inspections of certain Boeing 787 Dreamliners, warning that sealant defects could create a spark inside the tank during a lightning strike, potentially triggering a fuel tank explosion. The airworthiness directive will take effec...",
@@ -13,7 +112,7 @@
   {
     "id": "baf035298c3e",
     "title": "A B737 and a B767 collide on the ground at Miami International Airport",
-    "summary": "Two aircraft, a Copa Airlines B737 and a B767 freighter operated by UPS, collided on the ground at&#8230; The post A B737 and a B767 collide on the ground at Miami International Airport appeared first on AeroTime.",
+    "summary": "Two aircraft, a Copa Airlines B737-800 and a B767 freighter operated by UPS, collided on the ground at&#8230; The post A B737 and a B767 collide on the ground at Miami International Airport appeared first on AeroTime.",
     "source": "AeroTime",
     "category": "industry",
     "publishedDate": "2026-11-15T12:36:31Z",
@@ -490,7 +589,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-13T20:10:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/13/what-flight-competition-teaches-future-commercial-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/13/what-flight-competition-teaches-future-commercial-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -677,7 +776,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-13T01:55:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/12/faa-deploys-digital-atc-towers-in-florida-alaska?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/12/faa-deploys-digital-atc-towers-in-florida-alaska?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -688,7 +787,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-13T00:07:40Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/12/researcher-requests-pilot-fatigue-reports?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/12/researcher-requests-pilot-fatigue-reports?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -699,7 +798,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-12T23:46:46Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/12/faa-demands-receipts-from-washington-state?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/12/faa-demands-receipts-from-washington-state?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1370,7 +1469,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-11T01:26:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/10/training-and-safety-tip-anticipate-incursions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/10/training-and-safety-tip-anticipate-incursions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1491,7 +1590,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-10T19:23:15Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/10/warm-up-for-cold-weather-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/10/warm-up-for-cold-weather-flying?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": "United Airlines",
     "isBreaking": false
   },
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-09T04:00:00Z",
     "url": "https://www.aerotime.aero/articles/russia-aims-to-keep-disputed-leased-aircraft-flying-until-2028",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "de5d861ac5d9",
-    "title": "The Airbus A350 Has Become The New Flagship Of Some Airlines While Others Stick With The Boeing 777",
-    "summary": "Airlines are making very different flagship choices, and the reasons go well beyond brand loyalty.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T01:00:18Z",
-    "url": "https://simpleflying.com/airbus-a350-new-flagship-some-airlines-others-stick-boeing-777/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a048e04ec9f1",
-    "title": "American Airlines Backs Out Of $650 Promise To Bumped Passenger, Citing Smaller Plane",
-    "summary": "The even comes weeks after American officially ends involuntarily bumping passengers off flights.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T23:27:47Z",
-    "url": "https://simpleflying.com/american-airlines-backs-out-650-bumped-passenger-smaller-plane/",
-    "airlineTag": "American Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "5558d7449d2c",
-    "title": "Why Singapore Airlines Uses Boeing 787-10s On Short Regional Routes",
-    "summary": "Singapore Airlines configures its 787-10s for high density and short routes.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T21:00:17Z",
-    "url": "https://simpleflying.com/why-singapore-airlines-boeing-787-10s-short-regional-routes/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9bb82174cc17",
-    "title": "The Airlines That Offer Amenity Kits To Economy Class Passengers In 2026",
-    "summary": "Amenity kits are becoming ever rarer in economy class.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T20:01:09Z",
-    "url": "https://simpleflying.com/airlines-offer-amenity-kits-in-economy-class-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "0185eb4a802d",
-    "title": "Allegiant Air Cuts More Sun Country Flights From Minneapolis Despite \u201cReally Strong\u201d Demand",
-    "summary": "Allegiant cuts more Sun Country flights at Minneapolis despite strong demand, as pilot shortages and Delta's growing presence threaten competition.",
-    "source": "Simple Flying",
-    "category": "hiring",
-    "publishedDate": "2026-11-08T19:45:57Z",
-    "url": "https://simpleflying.com/allegiant-air-cut-more-sun-country-flights-minneapolis-really-strong-demand/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "0d0959cbcc4d",
-    "title": "Delta Launches 7 New International Routes This Winter: See Full List Now",
-    "summary": "The carrier is growing in both the short and long-haul markets.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T19:00:17Z",
-    "url": "https://simpleflying.com/delta-launches-7-new-international-routes-this-winter/",
-    "airlineTag": "Delta Air Lines",
-    "isBreaking": false
-  },
-  {
-    "id": "916443bb3c65",
-    "title": "The 6 Military Aircraft Manufacturers Still Building New Combat Aircraft For The US Armed Forces In 2026",
-    "summary": "A closer look at the companies providing a diverse range of combat aircraft for the US military.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T18:30:17Z",
-    "url": "https://simpleflying.com/us-military-combat-aircraft-manufacturers-in-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "3fa4d267b88e",
-    "title": "Philippine Airlines Launches Major New 17-Hour Nonstop US Route: See Map Now",
-    "summary": "North America is becoming an increasingly important market for the carrier.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T18:01:18Z",
-    "url": "https://simpleflying.com/philippine-airlines-launches-new-17-hour-us-route-1-day/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "05cd2e2c33b4",
-    "title": "Is It True That Air Force One Pilots Earn Around $215K While Big 3 Widebody Captains Clear $480K?",
-    "summary": "Air Force One pilots are some of the most senior pilots routinely flying for the Air Force, but they earn half of what commercial widebody pilots get.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-08T17:15:19Z",
-    "url": "https://simpleflying.com/true-air-force-one-pilots-earn-215k-big-3-widebody-captains-480k/",
     "airlineTag": null,
     "isBreaking": false
   }
