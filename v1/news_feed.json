@@ -1,5 +1,104 @@
 [
   {
+    "id": "b236b1ce45da",
+    "title": "Lufthansa Abruptly Cancels This 13-Hour Boeing 747 Route: See Map Now",
+    "summary": "The airline will replace the route with Airbus A350-900.",
+    "source": "Simple Flying",
+    "category": "military",
+    "publishedDate": "2026-11-16T14:01:18Z",
+    "url": "https://simpleflying.com/lufthansa-cancels-13-hour-boeing-747-route/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "223998aca6ea",
+    "title": "KLM Forced Into 'Painful' \u20ac1B Financial Overhaul",
+    "summary": "KLM Royal Dutch Airlines has announced a widespread restructuring and consolidation program as it looks to improve its earnings in an increasingly challenging operational environment.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-16T13:30:18Z",
+    "url": "https://simpleflying.com/video/klm-forced-into-painful-1b-financial-overhaul/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59cef91b9ade",
+    "title": "Mayday At 33,000 Feet: Leaky Faucet Floods Frontier Airlines Airbus A321neo Cabin",
+    "summary": "The aircraft had to divert as a result, but it has since re-entered service.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-16T13:04:53Z",
+    "url": "https://simpleflying.com/frontier-a321neo-mayday-33000-feet-leaky-faucet-floods-cabin/",
+    "airlineTag": "Frontier Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "a6773dcfc254",
+    "title": "Hangar Files: Boeing Stearman",
+    "summary": "Rugged World War II trainer turned agricultural workhorse remains definitive American biplane.",
+    "source": "Flying Magazine",
+    "category": "industry",
+    "publishedDate": "2026-11-16T13:00:00Z",
+    "url": "https://www.flyingmag.com/hangar-files-boeing-stearman/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "60e13503c4bf",
+    "title": "Philippine Airlines firms order for up to 20 Boeing 787-10s with GE engines",
+    "summary": "Philippine Airlines (PAL) has signed firm contracts with Boeing and GE Aerospace for up to 20 Boeing 787-10&#8230; The post Philippine Airlines firms order for up to 20 Boeing 787-10s with GE engines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-16T11:09:10Z",
+    "url": "https://www.aerotime.aero/articles/philippine-airlines-firms-order-for-up-to-20-boeing-787-10s-with-ge-engines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a32aa25c52f7",
+    "title": "5 Airlines With The World's Best Economy Seats For Long-Haul Flights",
+    "summary": "Qatar Airways, Singapore Airlines, Korean Air, Cathay Pacific Airways, and Japan Airlines have the best economy seats for long-haul aviation.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-16T11:08:56Z",
+    "url": "https://simpleflying.com/airlines-with-the-worlds-best-economy-seats-for-long-haul-flights/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "a29016130450",
+    "title": "ULA rocket fails after liftoff with 40 Amazon Leo satellites destroyed",
+    "summary": "A United Launch Alliance (ULA) rocket failed 10 minutes after liftoff while transporting 40 Amazon Leo satellites into&#8230; The post ULA rocket fails after liftoff with 40 Amazon Leo satellites destroyed appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-16T10:07:49Z",
+    "url": "https://www.aerotime.aero/articles/ula-rocket-fails-after-liftoff-amazon-leo-satellites",
+    "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "9e805ebd0e18",
+    "title": "South Korean government approves merger between three low-cost airlines",
+    "summary": "The Ministry of Land, Infrastructure and Transport of South Korea has approved a three-way merger between low-cost carriers&#8230; The post South Korean government approves merger between three low-cost airlines appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-16T09:52:10Z",
+    "url": "https://www.aerotime.aero/articles/south-korean-government-approves-merger-between-three-low-cost-airlines",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "c5923e3d6f1d",
+    "title": "US Air Force\u2019s first overseas-based F-15EX fighters arrive in Japan",
+    "summary": "Two F-15EX Eagle II fighters assigned to the 67th Fighter Squadron landed at Kadena Air Base (DNA) in&#8230; The post US Air Force\u2019s first overseas-based F-15EX fighters arrive in Japan appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-16T09:27:12Z",
+    "url": "https://www.aerotime.aero/articles/first-overseas-based-f15ex-fighters-arrive-japan",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "b8eb125910ea",
     "title": "Spanish airline Plus Ultra files for creditor protection, drops routes",
     "summary": "Spanish long-haul carrier Plus Ultra L\u00edneas A\u00e9reas is preparing to implement a thorough restructuring after filing for preliminary&#8230; The post Spanish airline Plus Ultra files for creditor protection, drops routes appeared first on AeroTime.",
@@ -2097,105 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-09T15:00:18Z",
     "url": "https://simpleflying.com/air-canada-cancels-7-hour-long-haul-route-europe/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "6a8636076660",
-    "title": "5 Airlines Operating Both Boeing 787 Dreamliners & Airbus A350s",
-    "summary": "Which airlines operate both the 787 and A350, and how can these two flagship aircraft work side by side?",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T15:00:18Z",
-    "url": "https://simpleflying.com/5-airlines-operating-boeing-787-dreamliners-airbus-a350s/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "2f608dd60571",
-    "title": "Royal Navy launches strike drones from HMS Queen Elizabeth for first time",
-    "summary": "The Royal Navy has launched one-way strike drones from an aircraft carrier for the first time, sending four&#8230; The post Royal Navy launches strike drones from HMS Queen Elizabeth for first time appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-09T14:17:04Z",
-    "url": "https://www.aerotime.aero/articles/royal-navy-strike-drones-hms-queen-elizabeth",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f6e312eea94a",
-    "title": "Delta Air Lines, United Airlines & JetBlue Now Sell The Business Class Seat Without The Business Class Deal",
-    "summary": "More and more airlines are unbundling premium cabins into a range of fare and experience options.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T14:00:18Z",
-    "url": "https://simpleflying.com/delta-air-lines-united-airlines-now-sell-business-class-set-without-business-class-deal/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ca9143a3dfcc",
-    "title": "Amazon Prime Air Delivery Drone Joins Museum of Flight Exhibit",
-    "summary": "Prototype MK30 UAV highlights decade of evolution in autonomous delivery technology.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-11-09T14:00:00Z",
-    "url": "https://www.flyingmag.com/amazon-prime-air-delivery-drone-joins-museum-of-flight-exhibit/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40373eca23cb",
-    "title": "United Airlines Opens First New Concourse In 20 Years At Washington Dulles Airport",
-    "summary": "Among the most notable additions are 14 gates and a new United Club lounge.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T13:56:34Z",
-    "url": "https://simpleflying.com/united-airlines-new-concourse-washington-dulles/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ec11096c00a5",
-    "title": "\"An Irredeemable Nuisance\": Why This Journalist Believes All Airplanes Shouldn't Have Windows",
-    "summary": "Some believe that cabin windows are an \"irredeemable nuisance\" that render commercial flying heavier, more expensive, and less efficient. Instead of viewing the traditional oval window as an irreplaceable passenger perk, he posited that cutting roughly 100 holes into a pressur...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T13:31:19Z",
-    "url": "https://simpleflying.com/video/an-irredeemable-nuisance-why-this-journalist-believes-all-airplanes-shouldn-t-have-windows/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "40adbc047bfc",
-    "title": "German Union Demands Government Transparency Over Emirates' Proposed Berlin Flights",
-    "summary": "The union has highlighted supposed social inequalities and structural competitive advantages as potential drawbacks of the new route.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T12:55:15Z",
-    "url": "https://simpleflying.com/german-union-demands-disclosure-emirates-berlin-traffic-rights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "77fbc2826d79",
-    "title": "Singapore Airlines Cancels This 14-Hour A380 Nonstop Route: See Map Now",
-    "summary": "Singapore's planned A380 return to the major European hub has been scrapped.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T12:19:58Z",
-    "url": "https://simpleflying.com/singapore-airlines-cancels-this-14-hour-a380-route/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "ac01b00d74f2",
-    "title": "Qantas Launches 2 New 15-Hour Ultra-Long Nonstop Routes: See Map Now",
-    "summary": "Could more new routes be announced? Find out more here!",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-09T12:01:19Z",
-    "url": "https://simpleflying.com/qantas-launches-2-new-15-hour-ultra-long-nonstop-routes/",
     "airlineTag": null,
     "isBreaking": false
   }
