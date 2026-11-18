@@ -1,5 +1,115 @@
 [
   {
+    "id": "ee6bacdf9426",
+    "title": "Training and Safety Tip: Calculate, anticipate, aviate",
+    "summary": "There are countless aspects of aviation that are clear cut, with no room for interpretation. Don&rsquo;t land at a towered airport without clearance, maintain specified distances from clouds when flying under visual flight rules, and avoid prohibited areas. There are unwritten...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-11-24T23:31:00Z",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/24/training-and-safety-tip-calculate-anticipate-aviate?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "3698f6da3946",
+    "title": "Lawmakers Reach Deal on ADS-B In Mandate",
+    "summary": "Lawmakers have reached an agreement on key aviation safety reforms, including ADS-B In requirements, but military aviation provisions remain under negotiation.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-11-18T14:49:29Z",
+    "url": "https://avweb.com/aviation-news/lawmakers-aviation-safety-agreement-adsb/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "f40a38dd5387",
+    "title": "Saudia's Surprising New 8-Hour UK Route On 110-Seat Jet: See Map Now",
+    "summary": "The airline has secured slots to commence service at the Scottish capital.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-18T14:35:48Z",
+    "url": "https://simpleflying.com/saudia-new-uk-route-110-seat-jet/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "59f1f2908fe7",
+    "title": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
+    "summary": "A Southwest Airlines Boeing 737 MAX flew 44 times with undetected storm damage to its tail after missing a post-storm inspection, then later passing a flawed maintenance test.",
+    "source": "Simple Flying",
+    "category": "regulatory",
+    "publishedDate": "2026-11-18T13:25:19Z",
+    "url": "https://simpleflying.com/video/ntsb-missed-inspections-let-storm-damaged-southwest-737-max-fly-44-times-before-dutch-roll-accident/",
+    "airlineTag": "Southwest Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "b469d408fb99",
+    "title": "Cruz Says Congress \u2018Very Close\u2019 to Finalizing ADS-B In Mandate",
+    "summary": "Senator Maria Cantwell states lawmakers \u2018do not have an agreement on the military provisions\u2019 of the mandate.",
+    "source": "Flying Magazine",
+    "category": "training",
+    "publishedDate": "2026-11-18T13:00:00Z",
+    "url": "https://www.flyingmag.com/cruz-says-congress-very-close-ads-b-in-mandate/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "50ce0051c136",
+    "title": "Aer Lingus to debut premium economy as part of long-haul fleet transformation",
+    "summary": "AIG-owned Aer Lingus will debut premium economy cabins for the first time ever as part of a major&#8230; The post Aer Lingus to debut premium economy as part of long-haul fleet transformation appeared first on AeroTime.",
+    "source": "AeroTime",
+    "category": "industry",
+    "publishedDate": "2026-11-18T12:28:52Z",
+    "url": "https://www.aerotime.aero/articles/aer-lingus-premium-economy-airbus-a330-long-haul",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "d2aa52492a24",
+    "title": "Inside Singapore Airlines' Stunning NEW Boeing 777-9 Cabins!",
+    "summary": "Tom Boon of Simple Flying heads to Singapore for the unveiling of Singapore Airlines\u2019 next-generation cabins. From its all-new First Class suites featuring the largest double bed in commercial aviation to redesigned Business Class seats with sliding privacy doors, this video e...",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-18T12:01:19Z",
+    "url": "https://simpleflying.com/video/inside-singapore-airlines-stunning-new-boeing-777-9-cabins/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0a20ff04335e",
+    "title": "The Hub Delta Air Lines Threw Away After Merging With Northwest",
+    "summary": "A closer look at how Delta's transpacific strategy has evolved since 2008.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-18T11:17:20Z",
+    "url": "https://simpleflying.com/hub-delta-air-lines-threw-away-northwest/",
+    "airlineTag": "Delta Air Lines",
+    "isBreaking": false
+  },
+  {
+    "id": "d5405ab0e0ae",
+    "title": "Why Qantas Picked A 'Proven' Rolls-Royce Engine Over A Theoretically Better One For Project Sunrise",
+    "summary": "A closer look at why the Boeing 777X lost the Project Sunrise order.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-18T10:15:18Z",
+    "url": "https://simpleflying.com/why-qantas-picked-proven-rolls-royce-engine-over-a-theoretically-better-one-project-sunrise/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8a40e5c3b02e",
+    "title": "What US Airlines Owe You After An Overnight Diversion: See The Full List",
+    "summary": "Passengers left stranded overnight can face uncertainty over what they are owed.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-18T10:00:18Z",
+    "url": "https://simpleflying.com/what-us-airlines-owe-passengers-overnight-flight-diversion/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "cea64b5a474a",
     "title": "How Much Do Captains & First Officers Earn At US Carriers In 2026?",
     "summary": "Pilots still earn a huge amount, with experienced widebody captains enjoying the best compensation.",
@@ -39,7 +149,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-17T21:01:58Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/17/more-than-an-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/17/more-than-an-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -116,7 +226,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-17T19:17:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/17/training-and-safety-tip-build-a-new-mental-model?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/17/training-and-safety-tip-build-a-new-mental-model?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1326,7 +1436,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-13T20:10:00Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/13/what-flight-competition-teaches-future-commercial-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/13/what-flight-competition-teaches-future-commercial-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1513,7 +1623,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-13T01:55:07Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/12/faa-deploys-digital-atc-towers-in-florida-alaska?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/12/faa-deploys-digital-atc-towers-in-florida-alaska?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1524,7 +1634,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-13T00:07:40Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/12/researcher-requests-pilot-fatigue-reports?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/12/researcher-requests-pilot-fatigue-reports?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1535,7 +1645,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-12T23:46:46Z",
-    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/12/faa-demands-receipts-from-washington-state?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://aopa.org/news-and-media/all-news/2026/november/12/faa-demands-receipts-from-washington-state?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2087,116 +2197,6 @@
     "publishedDate": "2026-11-11T13:53:53Z",
     "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "26156fb6066c",
-    "title": "Alaska Airlines To Launch 8-Hour Flights From Anchorage To Tokyo",
-    "summary": "Alaska Airlines is preparing to launch a new nonstop route between Ted Stevens Anchorage International and Tokyo Narita on May 13th, 2027.With flight schedule information reported by aviation analyst Enilria, the seasonal service is scheduled to operate once daily using the Bo...",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T13:28:18Z",
-    "url": "https://simpleflying.com/video/alaska-airlines-to-launch-8-hour-flights-from-anchorage-to-tokyo/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "c51978547fbd",
-    "title": "The Runway Grooves That Help Commercial Jets Stop During Heavy Rain",
-    "summary": "NASA and the FAA have determined grooves help in retaining traction and improving water drainage, although they remain far from universal.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T12:00:18Z",
-    "url": "https://simpleflying.com/runway-grooves-help-commercial-jets-stop-heavy-rain/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a41f0c2012f2",
-    "title": "Back From The Desert: How 190 Airbus A380s Became Airlines' Most Valuable Asset In 2026",
-    "summary": "This is why some airlines still love the Airbus A380 in 2026, despite production ending years ago.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T11:16:34Z",
-    "url": "https://simpleflying.com/190-airbus-a380s-airlines-valuable-asset-2026/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "22ee3e68f0ea",
-    "title": "Diverted Alaska Airlines Passengers Sleep On Red Cross Cots As Carrier Won't Cover Hotels",
-    "summary": "Travelers were left seeking shelter after promised hotel rooms failed to materialize.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T11:09:30Z",
-    "url": "https://simpleflying.com/alaska-airlines-yakima-diversion-red-cross-cots-no-hotels/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "2c11f2447304",
-    "title": "United CEO Blames FAA For O\u2019Hare\u2019s Notorious Taxi Times, Says It's Like \"Driving To Milwaukee\"",
-    "summary": "Departing flights can require as long as half an hour for their taxi time.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T09:55:19Z",
-    "url": "https://simpleflying.com/united-ceo-scott-kirby-blames-faa-ohare-taxi-times/",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "819561bdff69",
-    "title": "Is It True That Airlines Intentionally Use Cabin Lighting & Meal Timing To Fight Long-Haul Jet Lag?",
-    "summary": "Anything that helps with jet lag is a good thing.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T09:00:18Z",
-    "url": "https://simpleflying.com/true-airlines-intentionally-use-cabin-lighting-meal-timing-fight-long-haul-jet-lag/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "8b225f6734dd",
-    "title": "Singapore Airlines Becomes The 1st Airline To Reveal A Full Boeing 777-9 Seat Map",
-    "summary": "The carrier has more than 30 777X jets on order.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T09:00:06Z",
-    "url": "https://simpleflying.com/singapore-airlines-1st-boeing-777x-seat-map/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "9a8a458a7e0a",
-    "title": "Cathay Pacific orders 11 more Airbus A330neos, raising total to 41",
-    "summary": "Cathay Pacific has exercised purchase rights for 11 additional Airbus A330-900 aircraft, bringing its firm orders for the&#8230; The post Cathay Pacific orders 11 more Airbus A330neos, raising total to 41 appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-11T07:57:07Z",
-    "url": "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "555dee222e5c",
-    "title": "Why Singapore Airlines Is Saving Its New Premium Economy Seat For The Boeing 777-9",
-    "summary": "Singapore Airlines is making a surprising choice for its next-generation premium economy cabin. The reason involves a much-delayed aircraft.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T06:00:17Z",
-    "url": "https://simpleflying.com/singapore-airlines-saving-new-premium-economy-seat-boeing-777-9/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a2ae6ad54773",
-    "title": "The Boeing Jet Already Sitting In American Airlines' Fleet That Could Quietly Replace Its 47 Oldest Widebodies",
-    "summary": "There's a clear front-runner in this order.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-11T02:45:17Z",
-    "url": "https://simpleflying.com/boeing-jet-already-sitting-american-airlines-fleet-quietly-replace-its-47-oldest-widebodies/",
-    "airlineTag": "American Airlines",
     "isBreaking": false
   }
 ]
