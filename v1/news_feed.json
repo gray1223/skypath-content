@@ -11,6 +11,28 @@
     "isBreaking": false
   },
   {
+    "id": "c311a4ae35f6",
+    "title": "Why Virgin Atlantic Is Targeting The 40 RAF Pilots Keeping Britain's F-35 Fleet Flyable",
+    "summary": "Virgin Atlantic has campaigned to entice former RAF fast jet pilots to fly for them on long-haul transatlantic routes.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-21T02:45:17Z",
+    "url": "https://simpleflying.com/why-virgin-atlantic-targeting-the-40-raf-pilots-britain-f-35-fleet-flyable/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9b13f24386be",
+    "title": "Is It True That The Boeing 747-8 & 787 Dreamliner Are Powered By The Same Engine?",
+    "summary": "Comparing and contrasting two leading American widebodies.",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-21T00:20:26Z",
+    "url": "https://simpleflying.com/true-boeing-747-8-787-dreamliner-powered-by-the-same-engine/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "ba13c02daaa3",
     "title": "Personalized gifts for pilots",
     "summary": "Whether you are celebrating a birthday, a milestone, or a holiday, personalized aviation-themed gifts will remind the pilots in your life of the special moments, accomplishments, and flights they&rsquo;ve experienced.",
@@ -228,6 +250,17 @@
     "publishedDate": "2026-11-20T10:31:22Z",
     "url": "https://www.aerotime.aero/articles/russia-third-su-57-fighter-batch-2026",
     "airlineTag": "United Airlines",
+    "isBreaking": false
+  },
+  {
+    "id": "f1d89e36f48a",
+    "title": "AOPA Welcomes Return of Touch-and-Goes, Parallel Departures at Centennial Airport",
+    "summary": "CENTENNIAL, Colorado\u2014The Aircraft Owners and Pilots Association (AOPA) welcomes the FAA's decision to resume parallel runway departures and touch-and-goes at Centennial Airport, near Denver. The decision ends nearly two months of restrictions that disrupted flight training and...",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-11-20T10:31:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/20/pr-aopa-welcomes-return-of-touch-and-goes-parallel-departures-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
     "isBreaking": false
   },
   {
@@ -546,6 +579,17 @@
     "category": "industry",
     "publishedDate": "2026-11-19T13:28:19Z",
     "url": "https://simpleflying.com/video/too-heavy-for-its-own-wings-why-the-boeing-737-900er-s-takeoff-roll-is-so-long/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "627ae8f6ae85",
+    "title": "AOPA Air Safety Institute Highlights Continued General Aviation Safety Improvements in 36th Richard G. McSpadden Report",
+    "summary": "FREDERICK, Md.\u2014The Aircraft Owners and Pilots Association Air Safety Institute (ASI) has released its 36th Richard G. McSpadden Report, covering general aviation accidents during calendar year 2024, the most recent year for which full data are available.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-11-19T10:27:00Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/19/pr-aopa-air-safety-institute-highlights-continued-general-aviation-safety-improvements-in-36th?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2153,50 +2197,6 @@
     "publishedDate": "2026-11-13T21:25:17Z",
     "url": "https://www.aerotime.aero/articles/us-airlines-thanksgiving-air-travel-2026",
     "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b7ba9728ff13",
-    "title": "FAA Orders National Ground Stop",
-    "summary": "Agency cites \u2018extraordinary circumstances\u2019 as controllers discuss outage.",
-    "source": "Flying Magazine",
-    "category": "industry",
-    "publishedDate": "2026-11-13T21:14:29Z",
-    "url": "https://www.flyingmag.com/faa-orders-national-ground-stop-all-airports/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "f7ee4b88bfd9",
-    "title": "How Many Crew Members Does It Take To Fly A KC-135 Stratotanker?",
-    "summary": "Its crew arrangement reveals a fascinating story behind this aging US Air Force tanker.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-13T21:00:19Z",
-    "url": "https://simpleflying.com/how-many-crew-members-fly-kc-135-stratotanker/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "457e2e7e132d",
-    "title": "Alaska Airlines Launches 4 New Routes From This Major City: See Full List Now",
-    "summary": "New Seattle nonstops include the carrier's longest domestic hop to Jacksonville at 2,439 miles and 5.5 hours.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-13T20:35:18Z",
-    "url": "https://simpleflying.com/alaska-airlines-launches-4-new-nonstop-routes/",
-    "airlineTag": "Alaska Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "70f456ec0f90",
-    "title": "Episode 310: United Airlines Boeing 757-300 Retrofits, Boeing Layoffs",
-    "summary": "Join Tom & Channing for the latest aviation hot topics.",
-    "source": "Simple Flying",
-    "category": "industry",
-    "publishedDate": "2026-11-13T20:33:28Z",
-    "url": "https://simpleflying.com/podcast-310/",
-    "airlineTag": "United Airlines",
     "isBreaking": false
   }
 ]
