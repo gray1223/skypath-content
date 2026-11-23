@@ -11,6 +11,17 @@
     "isBreaking": false
   },
   {
+    "id": "be282de4e69e",
+    "title": "Is Qantas Really Replacing Its Boeing 737-800s With Airbus A321XLRs Built For Longer Routes?",
+    "summary": "How is Qantas looking to redefine its narrowbody fleet?",
+    "source": "Simple Flying",
+    "category": "industry",
+    "publishedDate": "2026-11-23T01:00:17Z",
+    "url": "https://simpleflying.com/qantas-replacing-boeing-737-800s-airbus-a321xlrs-longer-routes/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
     "id": "a6e2d811c2da",
     "title": "How Much Narrower Economy Seats Get When Airlines Fly 10-Abreast Cabins",
     "summary": "Airbus and Boeing have been in a race to thin their cabin walls and make 10-abreast seating more practical for their flagship airliners.",
@@ -2186,17 +2197,6 @@
     "publishedDate": "2026-11-15T11:01:19Z",
     "url": "https://simpleflying.com/why-united-airlines-flies-boeing-787-9-domestic-routes/",
     "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "ee1804074566",
-    "title": "China\u2019s COMAC completes first piloted flight of CE-25A electric aircraft",
-    "summary": "China\u2019s first domestically developed fixed-wing electric commercial aircraft, the CE-25A, completed its first piloted test flight on November&#8230; The post China\u2019s COMAC completes first piloted flight of CE-25A electric aircraft appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-15T10:32:27Z",
-    "url": "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft",
-    "airlineTag": null,
     "isBreaking": false
   }
 ]
