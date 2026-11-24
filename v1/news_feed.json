@@ -6,7 +6,51 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-24T23:31:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/24/training-and-safety-tip-calculate-anticipate-aviate?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/24/training-and-safety-tip-calculate-anticipate-aviate?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "9590363d4e89",
+    "title": "FAA lifts Centennial Airport operations restrictions",
+    "summary": "The FAA has approved a plan to mitigate safety concerns that prompted the agency to prohibit parallel runway departures, most pattern work, and touch-and-goes at Centennial Airport near Denver for nearly two months.",
+    "source": "AOPA",
+    "category": "training",
+    "publishedDate": "2026-11-24T01:45:31Z",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/23/faa-lifts-centennial-airport-operations-restrictions?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "0e2796ceca7b",
+    "title": "NWS Discontinues Traditional Winds Aloft Forecast Tables",
+    "summary": "Pilots are being directed to graphical forecasts in their place.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-11-23T21:34:04Z",
+    "url": "https://avweb.com/aviation-news/nws-discontinues-winds-aloft-tables/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "8c9039f7b871",
+    "title": "Staffing Shortage Prompts Ground Stop at Chicago O\u2019Hare",
+    "summary": "FAA temporarily halted arriving flights as Thanksgiving travel began.",
+    "source": "AvWeb",
+    "category": "industry",
+    "publishedDate": "2026-11-23T20:58:26Z",
+    "url": "https://avweb.com/aviation-news/staff-shortage-ground-stop-chicago-ohare/",
+    "airlineTag": null,
+    "isBreaking": false
+  },
+  {
+    "id": "903d19c9798e",
+    "title": "Amazon Drone Damages Michigan Resident\u2019s Garage",
+    "summary": "Incident comes as FAA considers regulation that would expand commercial UAV delivery operations.",
+    "source": "Flying Magazine",
+    "category": "regulatory",
+    "publishedDate": "2026-11-23T20:30:00Z",
+    "url": "https://www.flyingmag.com/amazon-delivery-drone-damages-michigan-garage/",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -622,7 +666,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-20T23:20:34Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/20/personalized-gifts-for-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/20/personalized-gifts-for-pilots?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -842,7 +886,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-20T10:31:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/20/pr-aopa-welcomes-return-of-touch-and-goes-parallel-departures-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/20/pr-aopa-welcomes-return-of-touch-and-goes-parallel-departures-at-centennial-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -996,7 +1040,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-19T20:51:13Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/19/classroom-prep-elevated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/19/classroom-prep-elevated?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1172,7 +1216,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-19T10:27:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/19/pr-aopa-air-safety-institute-highlights-continued-general-aviation-safety-improvements-in-36th?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/19/pr-aopa-air-safety-institute-highlights-continued-general-aviation-safety-improvements-in-36th?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1216,7 +1260,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-19T00:31:01Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/18/making-every-gallon-count?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/18/making-every-gallon-count?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1238,7 +1282,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-18T22:27:18Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/18/pr-aopa-applauds-new-jersey-airport-eviction-pause?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/18/pr-aopa-applauds-new-jersey-airport-eviction-pause?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1535,7 +1579,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-17T22:21:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/17/pr-aopa-urges-congress-to-approve-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/17/pr-aopa-urges-congress-to-approve-additional-atc-modernization-funding?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1557,7 +1601,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-17T21:01:58Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/17/more-than-an-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/17/more-than-an-airport?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -1634,7 +1678,7 @@
     "source": "AOPA",
     "category": "training",
     "publishedDate": "2026-11-17T19:17:00Z",
-    "url": "https://aopa.org/news-and-media/all-news/2026/november/17/training-and-safety-tip-build-a-new-mental-model?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
+    "url": "https://www.aopa.org/news-and-media/all-news/2026/november/17/training-and-safety-tip-build-a-new-mental-model?=utm_source=News&utm_medium=Content&utm_campaign=RSS",
     "airlineTag": null,
     "isBreaking": false
   },
@@ -2152,50 +2196,6 @@
     "category": "industry",
     "publishedDate": "2026-11-16T11:08:56Z",
     "url": "https://simpleflying.com/airlines-with-the-worlds-best-economy-seats-for-long-haul-flights/",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "a29016130450",
-    "title": "ULA rocket fails after liftoff with 40 Amazon Leo satellites destroyed",
-    "summary": "A United Launch Alliance (ULA) rocket failed 10 minutes after liftoff while transporting 40 Amazon Leo satellites into&#8230; The post ULA rocket fails after liftoff with 40 Amazon Leo satellites destroyed appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-16T10:07:49Z",
-    "url": "https://www.aerotime.aero/articles/ula-rocket-fails-after-liftoff-amazon-leo-satellites",
-    "airlineTag": "United Airlines",
-    "isBreaking": false
-  },
-  {
-    "id": "9e805ebd0e18",
-    "title": "South Korean government approves merger between three low-cost airlines",
-    "summary": "The Ministry of Land, Infrastructure and Transport of South Korea has approved a three-way merger between low-cost carriers&#8230; The post South Korean government approves merger between three low-cost airlines appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-16T09:52:10Z",
-    "url": "https://www.aerotime.aero/articles/south-korean-government-approves-merger-between-three-low-cost-airlines",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "c5923e3d6f1d",
-    "title": "US Air Force\u2019s first overseas-based F-15EX fighters arrive in Japan",
-    "summary": "Two F-15EX Eagle II fighters assigned to the 67th Fighter Squadron landed at Kadena Air Base (DNA) in&#8230; The post US Air Force\u2019s first overseas-based F-15EX fighters arrive in Japan appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-16T09:27:12Z",
-    "url": "https://www.aerotime.aero/articles/first-overseas-based-f15ex-fighters-arrive-japan",
-    "airlineTag": null,
-    "isBreaking": false
-  },
-  {
-    "id": "b8eb125910ea",
-    "title": "Spanish airline Plus Ultra files for creditor protection, drops routes",
-    "summary": "Spanish long-haul carrier Plus Ultra L\u00edneas A\u00e9reas is preparing to implement a thorough restructuring after filing for preliminary&#8230; The post Spanish airline Plus Ultra files for creditor protection, drops routes appeared first on AeroTime.",
-    "source": "AeroTime",
-    "category": "industry",
-    "publishedDate": "2026-11-16T04:00:00Z",
-    "url": "https://www.aerotime.aero/articles/spanish-airline-plus-ultra-files-for-creditor-protection-drops-most-routes",
     "airlineTag": null,
     "isBreaking": false
   }
